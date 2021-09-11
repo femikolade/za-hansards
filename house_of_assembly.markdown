@@ -1,7 +1,7 @@
 ---
 layout: senate_years
 title: House of Assembly
-permalink: hoa
+permalink: /hoa/
 ---
 
 <ul>
