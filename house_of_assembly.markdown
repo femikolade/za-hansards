@@ -1,7 +1,7 @@
 ---
 layout: senate_years
 title: House of Assembly
-permalink: {{ site.baseurl }}{{ post.url }}
+permalink: /za-hansards/hoa/
 ---
 
 <ul>
