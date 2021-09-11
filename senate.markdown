@@ -1,5 +1,5 @@
 ---
-layout: senate_years
+layout: header_footer
 title: Senate
 permalink: /senate/
 ---

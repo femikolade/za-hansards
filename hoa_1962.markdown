@@ -1,5 +1,5 @@
 ---
-layout: years_list
+layout: hoa_days_list
 title:  "Sittings"
 year: 1962
 permalink: /hoa/1962/
