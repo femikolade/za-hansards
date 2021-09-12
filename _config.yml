@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-repo: "za-hansards"
+# repo: "za-hansards"
 permalink: /:categories/:title:output_ext
 # Exclude from processing.
 # The following items will not be processed, by default.
