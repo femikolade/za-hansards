@@ -43,8 +43,24 @@
             → {{ page.title }}
           </div>
 
-          <h2>{{ page.title }}</h2>
-          {{ content }}
+          <div style="padding:10px;">
+            <div class="PageNavigation" style="float:left; padding:10px 0px 10px 0px;">
+              {% if page.previous.url %}
+                <a class="prev" href="{{page.previous.url}}">&laquo; Previous Debate</a>
+              {% endif %}
+            </div>
+            <div class="PageNavigation" style="float:right; padding:10px 0px 10px 0px;">
+              {% if page.next.url %}
+                <a class="next" href="{{page.next.url}}">Next Debate &raquo;</a>
+              {% endif %}
+            </div>
+          </div>
+
+          <div style="padding:10px;">
+            <br>
+            <h2>{{ page.title }}</h2>
+            {{ content }}
+          </div>
         </div>
 
           </div>
