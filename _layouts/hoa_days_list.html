@@ -2,13 +2,66 @@
 layout: header_footer
 ---
 
-<h3>House of Assembly Sittings in {{ page.year }}</h3>
-<ul>
-  {% for post in site.posts %}
-    {% if post.title contains page.year %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+<div class="breadcrumbs">
+  → <a href="/hoa">House of Assembly</a>
+  → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+</div>
+
+
+  <div class="w3-row" style="margin-bottom:20px;">
+    <a href="javascript:void(0)" onclick="openTab(event,'Days')">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding w3-border-red">Sitting Days</div>
+    </a>
+    <a href="javascript:void(0)" onclick="openTab(event,'FrontMatter')">
+      <div class="w3-third tablink w3-bottombar w3-hover-light-grey w3-padding">Front Matter</div>
+    </a>
+  </div>
+
+  <div id="Days" class="w3-container tabname">
+    <h3>House of Assembly Sitting Days in {{ page.year }}</h3>
+    <ul>
+      {% for post in site.posts %}
+        {% if post.title contains page.year %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div id="FrontMatter" class="w3-container tabname" style="display:none">
+    <h2>Front Matter - House of Assembly Sittings in {{ page.year }}</h2>
+    {% assign i = 0 %}
+    {% for post in site.posts %}
+      {% if post.title contains page.year and post.title contains "Front Matter" %}
+        <div>→ <a href="#{{ i }}">{{ post.title }}</a></div>
+        {% assign i = i | plus:1 %}
+      {% endif %}
+    {% endfor %}
+
+
+    {% assign i = 0 %}
+    {% for post in site.posts %}
+      {% if post.title contains page.year and post.title contains "Front Matter" %}
+        <a id="{{ i }}"></a>{% include_relative {{ post.path }} %}
+        {% assign i = i | plus:1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+<script>
+function openTab(evt, tabName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("tabname");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-border-red", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.firstElementChild.className += " w3-border-red";
+}
+</script>

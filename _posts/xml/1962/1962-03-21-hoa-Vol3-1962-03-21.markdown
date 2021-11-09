@@ -1,7 +1,10 @@
 ---
-title: 'House of Assembly: Vol3 - WEDNESDAY, 21 MARCH 1962'
+title: 'House of Assembly: Vol3 - WEDNESDAY 21 MARCH 1962'
 layout: debate
-categories: senate debates
+year: 1962
+month: MARCH
+month_slug: Mar
+categories: hoa debates
 ---
 
 <debateSection name="#opening">

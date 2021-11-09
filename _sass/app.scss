@@ -1,0 +1,39 @@
+.breadcrumbs {
+  font-size: 14px;
+  margin-bottom: 18px;
+}
+
+.breadcrumbs-arrow {
+  font-size: 10px;
+  margin-bottom: 8px;
+}
+
+.vertical-line {
+  display: inline-block;
+  border-left: thick solid #ff0000;
+  margin-left: 18px;
+  bottom: 0;
+}
+
+.li-c {
+  padding-bottom:20px;
+  padding-top:20px;
+  border-bottom:1px solid #cccccc;
+}
+
+.ul-c {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.frequency-month-link {
+  display: block;
+  padding: 6px;
+}
+
+.zero-frequency-month {
+  display: block;
+  padding: 6px;
+}

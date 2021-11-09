@@ -1,7 +1,10 @@
 ---
-title: 'House of Assembly: Vol1 - FRIDAY, 9 JUNE 1961'
+title: 'House of Assembly: Vol1 - FRIDAY 9 JUNE 1961'
 layout: debate
-categories: senate debates
+year: 1961
+month: JUNE
+month_slug: Jun
+categories: hoa debates
 ---
 
 <debateSection name="#opening">

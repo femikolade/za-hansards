@@ -1,7 +1,10 @@
 ---
-title: 'House of Assembly: Vol6 - FRIDAY, 5 APRIL 1963'
+title: 'House of Assembly: Vol6 - FRIDAY 5 APRIL 1963'
 layout: debate
-categories: senate debates
+year: 1963
+month: APRIL
+month_slug: Apr
+categories: hoa debates
 ---
 
 <debateSection name="#opening">

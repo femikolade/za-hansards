@@ -22,7 +22,7 @@ title: ZA HANSARDS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Historical debates of the Senate and House of Assembly of South Africa.
-baseurl: "/za-hansards/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: za_hansards
 github_username:  za_hansards
@@ -32,6 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# repo: "za"
+permalink: /za-hansards/:categories/:title:output_ext
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

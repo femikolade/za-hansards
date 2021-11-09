@@ -36,6 +36,13 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home">
+          <div class="breadcrumbs">
+            → <a href="/hoa">House of Assembly</a>
+            → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+            → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            → {{ page.title }}
+          </div>
+
           <h2>{{ page.title }}</h2>
           {{ content }}
         </div>

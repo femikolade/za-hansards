@@ -1,7 +1,10 @@
 ---
-title: 'House of Assembly: Vol2 - FRIDAY, 26 JANUARY 1962'
+title: 'House of Assembly: Vol2 - FRIDAY 26 JANUARY 1962'
 layout: debate
-categories: senate debates
+year: 1962
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
 ---
 
 <debateSection name="#opening">
