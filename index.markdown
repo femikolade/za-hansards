@@ -5,4 +5,4 @@
 layout: header_footer
 ---
 
-<h3>Welcome to the Historical Debates of the South African Senate and House of Assembly</h3>
+<h3 class="old-manuscript">Welcome to the Historical Debates of the South African Senate and House of Assembly</h3>

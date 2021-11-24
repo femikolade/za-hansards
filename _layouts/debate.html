@@ -3,21 +3,27 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>ZA HANSARDS | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</title>
+  <title>ZA HANSARDS | Historical debates of the Senate and House of Assembly of South Africa.</title>
 <meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="ZA HANSARDS" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
-<meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
+<meta name="description" content="Historical debates of the Senate and House of Assembly of South Africa." />
+<meta property="og:description" content="Historical debates of the Senate and House of Assembly of South Africa." />
 <link rel="canonical" href="/" />
 <meta property="og:url" content="/" />
 <meta property="og:site_name" content="ZA HANSARDS" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="ZA HANSARDS" />
 <script type="application/ld+json">
-{"url":"/","headline":"ZA HANSARDS","name":"ZA HANSARDS","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebSite","@context":"https://schema.org"}</script>
+{"url":"/","headline":"ZA HANSARDS","name":"ZA HANSARDS","description":"Historical debates of the Senate and House of Assembly of South Africa.","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://hypothes.is/embed.js" async></script>
+<link rel="stylesheet" href="/assets/js/app.js">
+<link rel="stylesheet" href="/assets/css/styles.css">
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="ZA HANSARDS" /></head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/">ZA HANSARDS</a><nav class="site-nav">
@@ -34,7 +40,9 @@
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
+  <!-- Back to top button -->
       <div class="wrapper">
+        <a id="button"></a>
         <div class="home">
           <div class="breadcrumbs">
             → <a href="/hoa">House of Assembly</a>
@@ -43,12 +51,42 @@
             → {{ page.title }}
           </div>
 
-          <h2>{{ page.title }}</h2>
-          {{ content }}
-        </div>
-
+          <div style="padding:10px;">
+            <div class="PageNavigation" style="float:left; padding:10px 0px 10px 0px;">
+              {% if page.previous.url %}
+                <a class="prev" href="{{page.previous.url}}">&laquo; Previous Debate</a>
+              {% endif %}
+            </div>
+            <div class="PageNavigation" style="float:right; padding:10px 0px 10px 0px;">
+              {% if page.next.url %}
+                <a class="next" href="{{page.next.url}}">Next Debate &raquo;</a>
+              {% endif %}
+            </div>
           </div>
-        </main><footer class="site-footer h-card">
+
+          <div style="padding:10px;">
+            <br>
+            <h2>{{ page.title }}</h2>
+            <span class="old-manuscript">{{ content }}</span>
+          </div>
+
+          <div style="padding:10px;">
+            <div class="PageNavigation" style="float:left; padding:10px 0px 10px 0px;">
+              {% if page.previous.url %}
+                <a class="prev" href="{{page.previous.url}}">&laquo; Previous Debate</a>
+              {% endif %}
+            </div>
+            <div class="PageNavigation" style="float:right; padding:10px 0px 10px 0px;">
+              {% if page.next.url %}
+                <a class="next" href="{{page.next.url}}">Next Debate &raquo;</a>
+              {% endif %}
+            </div>
+          </div>
+
+        </div>
+      </div>
+</main>
+      <footer class="site-footer h-card">
       <data class="u-url" href="/"></data>
 
       <div class="wrapper">
@@ -61,11 +99,11 @@
               <li class="p-name">ZA HANSARDS</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
           </div>
 
-          <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/jekyll"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">jekyll</span></a></li><li><a href="https://www.twitter.com/jekyllrb"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">jekyllrb</span></a></li></ul>
+          <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/femikolade/za-hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">ZA HANSARDS</span></a></li><li><a href="https://www.twitter.com/za_hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">za_hansards</span></a></li></ul>
     </div>
 
           <div class="footer-col footer-col-3">
-            <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</p>
+            <p>Historical debates of the Senate and House of Assembly of South Africa.</p>
           </div>
         </div>
 
@@ -75,3 +113,20 @@
     </body>
 
     </html>
+
+<script>
+  var btn = $('#button');
+
+  $(window).scroll(function() {
+    if ($(window).scrollTop() > 300) {
+      btn.addClass('show');
+    } else {
+      btn.removeClass('show');
+    }
+  });
+
+  btn.on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({scrollTop:0}, '300');
+  });
+</script>
