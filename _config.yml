@@ -22,7 +22,7 @@ title: ZA HANSARDS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Historical debates of the Senate and House of Assembly of South Africa.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/za-hansards" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: za_hansards
 github_username:  za_hansards
