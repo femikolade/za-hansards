@@ -19,14 +19,14 @@
 <!-- End Jekyll SEO tag -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://hypothes.is/embed.js" async></script>
-<link rel="stylesheet" href="/za-hansards/assets/js/app.js">
-<link rel="stylesheet" href="/za-hansards/assets/css/styles.css">
-<link rel="stylesheet" href="/za-hansards/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="ZA HANSARDS" /></head>
+<link rel="stylesheet" href="/assets/js/app.js">
+<link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="ZA HANSARDS" /></head>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <body><header class="site-header" role="banner">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/za-hansards">ZA HANSARDS</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/">ZA HANSARDS</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -37,10 +37,7 @@
         </label>
 
         {% include menu.html %}
-      </nav>
-      <script async src="https://cse.google.com/cse.js?cx=0d5024f1b46c983c6"></script>
-      <div class="gcse-searchbox-only"></div>
-    </div>
+      </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
   <!-- Back to top button -->
@@ -48,29 +45,27 @@
         <a id="button"></a>
         <div class="home">
           <div class="breadcrumbs">
-            → <a href="/za-hansards/hoa">House of Assembly</a>
-            → <a href="/za-hansards/hoa/{{ page.year }}">{{ page.year }}</a>
-            → <a href="/za-hansards/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            → <a href="/hoa">House of Assembly</a>
+            → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+            → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
             → {{ page.title }}
           </div>
 
           <div style="padding:10px;">
             <div class="PageNavigation" style="float:left; padding:10px 0px 10px 0px;">
               {% if page.previous.url %}
-                <a class="prev" href="/za-hansards{{page.previous.url}}">&laquo; Previous Debate</a>
+                <a class="prev" href="{{page.previous.url}}">&laquo; Previous Debate</a>
               {% endif %}
             </div>
             <div class="PageNavigation" style="float:right; padding:10px 0px 10px 0px;">
               {% if page.next.url %}
-                <a class="next" href="/za-hansards{{page.next.url}}">Next Debate &raquo;</a>
+                <a class="next" href="{{page.next.url}}">Next Debate &raquo;</a>
               {% endif %}
             </div>
           </div>
 
           <div style="padding:10px;">
             <br>
-            <script async src="https://cse.google.com/cse.js?cx=0d5024f1b46c983c6"></script>
-            <div class="gcse-searchresults-only"></div>
             <h2>{{ page.title }}</h2>
             <span class="old-manuscript">{{ content }}</span>
           </div>
@@ -78,12 +73,12 @@
           <div style="padding:10px;">
             <div class="PageNavigation" style="float:left; padding:10px 0px 10px 0px;">
               {% if page.previous.url %}
-                <a class="prev" href="/za-hansards{{page.previous.url}}">&laquo; Previous Debate</a>
+                <a class="prev" href="{{page.previous.url}}">&laquo; Previous Debate</a>
               {% endif %}
             </div>
             <div class="PageNavigation" style="float:right; padding:10px 0px 10px 0px;">
               {% if page.next.url %}
-                <a class="next" href="/za-hansards{{page.next.url}}">Next Debate &raquo;</a>
+                <a class="next" href="{{page.next.url}}">Next Debate &raquo;</a>
               {% endif %}
             </div>
           </div>
@@ -104,11 +99,7 @@
               <li class="p-name">ZA HANSARDS</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
           </div>
 
-          <div class="footer-col footer-col-2">
-            <ul class="social-media-list">
-              <li><a href="https://github.com/femikolade/za-hansards"><svg class="svg-icon"><use xlink:href="/za-hansards/assets/minima-social-icons.svg#github"></use></svg> <span class="username">ZA HANSARDS</span></a></li>
-              <li><a href="https://www.twitter.com/za_hansards"><svg class="svg-icon"><use xlink:href="/za-hansards/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">za_hansards</span></a></li>
-          </ul>
+          <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/femikolade/za-hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">ZA HANSARDS</span></a></li><li><a href="https://www.twitter.com/za_hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">za_hansards</span></a></li></ul>
     </div>
 
           <div class="footer-col footer-col-3">
