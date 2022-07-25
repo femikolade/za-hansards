@@ -1,6 +1,6 @@
 ---
 layout: 'search'
-permalink: '/search'
+permalink: '/search/'
 ---
 <!--<div id="search-container">
 <input type="text" id="search-input" placeholder="search..."> -->
