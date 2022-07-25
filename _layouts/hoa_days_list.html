@@ -23,7 +23,7 @@ layout: header_footer
       {% for post in site.posts %}
         {% if post.title contains page.year %}
         <li>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}"><span class="old-manuscript">{{ post.title }}</span></a>
         </li>
         {% endif %}
       {% endfor %}
@@ -35,7 +35,7 @@ layout: header_footer
     {% assign i = 0 %}
     {% for post in site.posts %}
       {% if post.title contains page.year and post.title contains "Front Matter" %}
-        <div>→ <a href="#{{ i }}">{{ post.title }}</a></div>
+        <div class="old-manuscript">→ <a href="#{{ i }}"><span class="old-manuscript">{{ post.title }}</span></a></div>
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}
@@ -44,7 +44,7 @@ layout: header_footer
     {% assign i = 0 %}
     {% for post in site.posts %}
       {% if post.title contains page.year and post.title contains "Front Matter" %}
-        <a id="{{ i }}"></a>{% include_relative {{ post.path }} %}
+        <a id="{{ i }}"></a><span class="old-manuscript">{% include_relative {{ post.path }} %}</span>
         {% assign i = i | plus:1 %}
       {% endif %}
     {% endfor %}

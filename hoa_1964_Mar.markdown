@@ -1,7 +1,7 @@
 ---
 layout: hoa_days_month_list
-title:  "Sittings"
+title: Sittings
 year: 1964
-month: March
+month: MARCH
 permalink: /hoa/1964/Mar
 ---

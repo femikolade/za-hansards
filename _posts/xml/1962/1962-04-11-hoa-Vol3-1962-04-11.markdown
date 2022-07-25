@@ -61,7 +61,7 @@ categories: hoa debates
 
 <debateSection name="#committee_of_supply">
 
-<heading>--committee of supply</heading>
+<heading>COMMITTEE OF SUPPLY</heading>
 
 <p>First Order read: House to go into Committee of Supply.</p>
 
@@ -2589,7 +2589,7 @@ categories: hoa debates
 
 <debateSection name="#committee_of_supply">
 
-<heading>---committee of supply</heading>
+<heading>COMMITTEE OF SUPPLY</heading>
 
 <p>First Order read: House to resume in Committee of Supply.</p>
 
@@ -6275,7 +6275,7 @@ categories: hoa debates
 
 <debateSection name="#committee_of_supply">
 
-<heading>---committee of supply</heading>
+<heading>COMMITTEE OF SUPPLY</heading>
 
 <p>First Order read: House to resume in Committee of Supply.</p>
 

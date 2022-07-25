@@ -2,3 +2,50 @@
 ---
 @import "app";
 @import "w3";
+
+#search-bar {
+    margin: 32px auto;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 0 20px;
+  
+    & #search {
+      width: calc(100% - 30px);
+      border: none;
+      line-height: 44px;
+      outline: none;
+      border-style: none;
+    }
+    & #search-result {
+      display: none;
+      position: absolute;
+      top: 80px;
+      width: calc(100% - 70px);
+      max-height: 325px;
+      overflow-y: auto;
+      background-color: white;
+      box-shadow: 0px 4px 8px 0 #ccc;
+      z-index: 99999;
+      & .result-item {
+        display: block;
+        padding: 8px 16px;
+        text-decoration: none;
+        & .title,
+        .description {
+          width: 100%;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        & .title {
+          color: #f74094;
+          padding-bottom: 4px;
+          font-size: 16px;
+        }
+        & .description {
+          color: #757575;
+          font-size: 16px;
+        }
+      }
+    }
+  }

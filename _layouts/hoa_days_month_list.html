@@ -2,16 +2,18 @@
 layout: header_footer
 ---
 
-→ <a href="/hoa">House of Assembly</a>
-→ <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
-→ <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+<div class="breadcrumbs">
+  → <a href="/hoa">House of Assembly</a>
+  → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+  → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+</div>
 
 <h3>House of Assembly Sittings in {{ page.month }}, {{ page.year }}</h3>
 <ul>
   {% for post in site.posts %}
     {% if post.title contains page.year and post.title contains page.month %}
     <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="old-manuscript">{{ post.title }}</a>
     </li>
     {% endif %}
   {% endfor %}
