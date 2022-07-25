@@ -21,11 +21,11 @@ permalink: /hoa/
             {% assign frequency = item[1] | times:1 %}
               <li style="float: left;">
                 {% if frequency > 0 %}
-                  <div><a class="frequency-month-link old-manuscript" href="{{ year }}/{{ item[0] }}">{{ item[0] }}</a></div>
+                  <div><a class="frequency-month-link old-manuscript" href="{{ year }}/{{ item[0] }}" alt="good">{{ item[0] }}</a></div>
                 {% else %}
                   <div><span class="zero-frequency-month old-manuscript">{{ item[0] }}</span></div>
                 {% endif %}
-                <div class="vertical-line" style="height:{{ frequency }}px;"></div>
+                <div class="vertical-line" style="height:{{ frequency }}px;" title="{{ frequency }}"></div>
               </li>
             {% endunless %}
           {% endfor %}
