@@ -19,7 +19,7 @@ permalink: '/search/'
 
 function bingSearch() {
   var q = document.getElementById("search").value;
-  var url = "https://www.bing.com/search?q=" + q + " site:hansards.org.za"
+  var url = "https://www.google.com/search?q=" + q + " site:hansards.org.za"
   //document.getElementById("demo").innerHTML = url;
   window.open(url).focus();
 }
