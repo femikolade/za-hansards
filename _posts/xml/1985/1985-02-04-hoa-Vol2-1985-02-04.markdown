@@ -1,0 +1,2079 @@
+---
+title: 'House of Assembly: Vol2 - MONDAY 4 FEBRUARY 1985'
+layout: debate
+year: 1985
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_417-418" refersTo="page_0253"/>MONDAY, 4 FEBRUARY 1985</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1985-02-04T14:15:00">14h15 (In Joint Sitting).</recordedTime></narrative>
+
+</prayers>
+
+<p>The House met at 15h57.</p>
+
+<debateSection name="#proceedings_of_joint_sitting">
+
+<heading>PROCEEDINGS OF JOINT SITTING</heading>
+
+<summary>(Announcement)</summary>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I announce that the proceedings at a Joint Sitting on certain Bills have been concluded and that I have placed the Bills on the Order Paper for debate at Second Reading.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_of_standing_select_committees">
+
+<heading>REPORTS OF STANDING SELECT COMMITTEES</heading>
+
+<speech by="#van_rensburg">
+
+<from>Dr <person refersTo="hansard_za">H M J VAN RENSBURG</person> (Mossel Bay):</from>
+
+<p>as Chairman, presented the Second Report of the Standing Select Committee on Justice, relative to the Supreme Court Amendment Bill [No 21&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Supreme Court Amendment Bill [No 21&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>H M J VAN RENSBURG (Mossel Bay), Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>1 February 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Dr <person refersTo="hansard_za">H M J VAN RENSBURG</person> (Mossel Bay):</from>
+
+<p>as Chairman, presented the Third Report of the Standing Select Committee on Justice, relative to the Magistrates&#x2019; Courts Amendment Bill [No 22&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Magistrates&#x2019; Courts Amendment Bill [No 22&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>H M J VAN RENSBURG (Mossel Bay), Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>1 February 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Dr <person refersTo="hansard_za">H M J VAN RENSBURG</person> (Mossel Bay):</from>
+
+<p>as Chairman, presented the Fourth Report of the Standing Select Committee on Justice, relative to the Animals Protection Amendment Bill [No 23&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Animals Protection Amendment Bill [No 23&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>H M J VAN RENSBURG (Mossel Bay), Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>1 February 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#provincial_powers_extension_amendment_bill">
+
+<heading>PROVINCIAL POWERS EXTENSION AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>To me personally it is a great privilege to be able to submit this first Bill to a Joint Sitting of the three Houses of Parliament under the new constitutional dispensation.</p>
+
+<p>We, as members of this Eighth Parliament of the Republic of South Africa, have during the past few months already experienced a number of historic moments in the growth of the process of evolutionary constitutional development. <span class="col_419-420" refersTo="page_0254"/>We were privileged not to be mere spectators. We were all part of this entire historical process. Today we are again making history by taking a further step in the implementation of the new constitution.</p>
+
+<p>In the debate revolving around the new constitutional dispensation a great deal was said about the importance of the role of the Standing Committees in the new system, as a mechanism for reaching consensus or agreement. Consequently it is gratifying that the first Bill under discussion at this Joint Sitting is one on which unanimity exists among all the political parties represented here in Parliament.</p>
+
+<p>I trust that this will be a feature of the style which will be adopted in participating in Parliamentary proceedings under the new dispensation. On the basis of my personal experience I believe that during the past few weeks the vast majority of the hon members of Parliament have already furnished proof, through their conduct in the Standing Committees and in the respective Houses of Parliament, of their intention to work together in a positive spirit without allowing political differences to develop into political disputes at every occasion.</p>
+
+<p>The Bill under discussion is aimed at rectifying specific shortcomings in respect of female members of provincial councils.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Speaker, on a point of order: I should like to know whether you are going to permit us to ask questions of hon Ministers making introductory Second Reading speeches. Will you do that?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I am prepared to do that. Questions will be permitted. The hon the Minister may proceed.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The Bill under discussion is part of the historic process aimed at giving South African women equal rights. In this regard one&#x2019;s thoughts involuntarily return to the Women&#x2019;s Enfranchisement Act, No 18 of 1930, which for the first time extended the parliamentary vote to women. That Act is considered to be of such historical importance that the pen that was used by the then Governor-General to sign the Act is part of the exhibition in the Gallery Hall of Parliament.</p>
+
+<p>&#x2020;It is a self-evident truth to say that changing times bring about changed circumstances which, in their way, also bring to the fore new needs. Provision for changed needs must also be made in this legislation.</p>
+
+<p>It is interesting that in the 75 year period of existence of the four provincial councils, only at this stage is provision being made for the possibility of pension benefits to widowers and dependants of female members of provincial councils. However, women are entering the political arena at provincial level in increasing numbers and are being elected as provincial councillors. At the moment 12 female members serve on the four provincial councils, namely six in Transvaal&#x2014;in the constituencies of Modderfontein, Johannesburg West, Houghton, Bryanston, Geduld and Rosettenville. In the Cape Province there are four women provincial councillors&#x2014;in the constituencies of Cape Town Gardens, Walmer, Malmesbury and East London City; two in the Orange Free State&#x2014;in the constituencies of Wilgehof and Brandfort. Natal has no female members.</p>
+
+<p>The Provincial Powers Extension Act, Act 32 of 1980, empowers provincial councils to make ordinances in relation, <i>inter alia,</i> to pensions and gratuities for widows and dependants of male members of a provincial council. Section 1 of the Provincial Powers Extension Act of 1980 is therefore so limiting that it does not provide that widowers and dependants of female deceased provincial council members are also entitled to pensions and gratuities. This is a situation which in my opinion is not equitable in our present-day society.</p>
+
+<p>I am thus of the opinion that it is necessary that the Act be amended so as to provide for widowers and dependants of female politicians at provincial level. A similar provision already exists concerning female members of Parliament.</p>
+
+<p>Through this Bill recognition is not only given to the female members of Provincial Councils, indirectly recognition is also given to the institutions of which they are members.</p>
+
+<p>It is also most appropriate that while we are today witnessing a historical constitutional occasion, the provisions of this Bill relates to the legislative powers of the Provincial Councils which on the middle tier of government <span class="col_421-422" refersTo="page_0255"/>are such important components of our constitutional system.</p>
+
+<p>In my view this Bill does not contain any controversial matter, but is merely aimed at rectifying a shortcoming in the present legislation.</p>
+
+</speech>
+
+<speech by="#olivier">
+
+<from>*Prof <person refersTo="hansard_za">N J J OLIVIER</person>:</from>
+
+<p>Mr Speaker, may I ask the hon the Minister when the Bill will come into operation and whether it will possibly have retrospective effect? If the Bill is with retrospective effect, that should not be specified in the Bill, for otherwise the possibility exists that any ordinances which a provincial council makes might perhaps be <i>ultra vires</i> if those particulars do not appear in the Bill. Therefore I request that if it is the intention for the Bill to have retrospective effect, we should make provision in it for the date on which the Bill will become applicable.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Speaker, I suggest that we debate the aspect to which the hon member Prof Olivier is referring when we subsequently discuss the Bill in the respective Houses.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Speaker, on a point of order: We are at a slight disadvantage at this stage, because normally the first speaker on our side has a copy of the Minister&#x2019;s Second Reading speech after he has finished delivering it. At this stage we all sit in the House with a number of Bills before us, but we have no copies of Ministers&#x2019; speeches. I want to ask whether there could be a short adjournment to enable all our members to receive copies of the Second Reading speeches, so that we can deal properly and justly with the Bills that are before us. [Interjections.]</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I want to tell the hon member for Hillbrow immediately that I think there are capable members in his party and in any party here who will be able to debate the Bill immediately. I am going to allow the debate to continue.</p>
+
+</speech>
+
+<speech by="#olivier">
+
+<from>*Prof <person refersTo="hansard_za">N J J OLIVIER</person>:</from>
+
+<p>Mr Speaker, I think it is clear that we should be better able to discuss Bills if we could have copies of the Second Reading speeches of the Ministers. This is a reasonably easy and simple Bill, and I do not think that it necessarily requires a high degree of intelligence to be able to react to the Bill and to the hon the Minister&#x2019;s Second Reading speech. During the joint sitting I put a question to the hon the Minister which I want to repeat here. Permit me to make certain remarks, namely that this Bill does of course enjoy the support of this side of the House, as we also indicated in the Standing Committee. However, I put the question, which was not raised in the Standing Committee, as to whether a provision should not have been included in this Bill as to when the provisions in the Bill are to come into effect. The question that arises in this connection is whether, in terms of the provisions of this Bill, a Provincial Council would have the authority to make payments, by way of pensions or gratuities, to widowers whose wives were members of the Provincial Council concerned. I think it is a point of law which should be clarified and I should very much like to hear the hon the Minister&#x2019;s reply in this regard.</p>
+
+<p>Allow me, Sir, a few more remarks. In his introductory speech the hon the Minister made mention of the importance of this occasion. As the first speaker on our side on the occasion of this first Bill before the House, I think it is probably fitting for me to say that this is indisputably a noteworthy day for two reasons; firstly in view of the Joint Sitting we have just had, and secondly the fact that this is the first time that this House is considering a Bill coming from a Standing Committee after the introductory speech. It is very clear that we are going to be doing pioneering work here. Experience has already shown us that we shall have to feel our way with regard to how this system is going to work. I want to say on behalf of my party that I believe that this system can only work if there is understanding, mutual cooperation, etc. In spite of our objections to the system, objections which, as the hon the Minister will understand, remain unchanged, we hope that the work which is going to be done by the Standing Committees in the legislative process, will lead to our achieving perhaps a greater measure of effectiveness and of unanimity than in the past&#x2014;certainly as far as legislation is concerned. It is obvious that conventions will have to be established <span class="col_423-424" refersTo="page_0256"/>concerning how these matters are to be handled in Joint Sittings as well as in this House after the introductory speech has been made in the Second Reading.</p>
+
+<p>With those few words I want to say that we on this side of the House support the Bill. I hope that the hon the Minister will be able to give me an answer to the question I put to him.</p>
+
+</speech>
+
+<speech by="#volker">
+
+<from>*Mr <person refersTo="hansard_za">V A VOLKER</person>:</from>
+
+<p>Mr Speaker, it actually surprises me that the hon member for Hillbrow asked here for a copy of the Minister&#x2019;s Second Reading speech to be given to him first. We have introduced the practice that bills the introductory Second Reading speeches of which are made in Joint Sitting, are discussed fully in the Standing Committees. There are two members of the Official Opposition in each of the Standing Committees who are therefore able to prepare fully and be ready to take part in the discussion here. The two members are both present in this House. Therefore it is not a breach of the convention if the Minister does not necessarily make a copy of his full introductory speech available to the Whip of the Official Opposition. After all, the details have been discussed in the Standing Committee.</p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Speaker, on a point of order: Is the hon member raising a point of order or is that his Second Reading speech on the Bill before us? If it is a point of order, will I be permitted to reply to him?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon member for Klipriver is busy with his Second Reading speech. He may proceed.</p>
+
+</speech>
+
+<speech by="#volker">
+
+<from>*Mr <person refersTo="hansard_za">V A VOLKER</person>:</from>
+
+<p>Sir, I can quite understand if the hon member for Hillbrow is a little bit confused <i>(deur die wind).</i> Perhaps it is a little windy in Hillbrow.</p>
+
+<p>As far as the provisions of this Bill are concerned, it provides for the fact that Provincial Councils be authorized to accept ordinances so that pensions and gratuities can also be paid to widowers of female members. For many years the practice was that the husband had to make financial provision for his spouse, and the point of view was that the man is the breadwinner of the family, and must provide financially for his spouse. In any case, there are far more widows than widowers, because it is the custom that women marry younger than men, and also because the average life expectancy of women is approximately two to three years longer than that of men. However, if it is accepted that husband and wife are one flesh&#x2014; as they are told by the minister during the marriage ceremony&#x2014;and if it is regarded as correct that a pension or gratuity paid to a male member is also his wife&#x2019;s, then the converse must also apply. The principle has already been accepted in this House. At that time the hon member for Hillbrow suggested&#x2014;and hence, naturally, his interest&#x2014; that it be provided that widowers of female members may claim the same benefits that the hon member for Hillbrow and other male members are entitled to. The principle that it be extended to both sides is correct, and in this Bill provision is only made for provincial authorities to be authorized to issue these ordinances to make provision for this rule. I support the Bill.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Today in his Second Reading speech the hon the Minister said that this was an historic moment, because it is the first general Bill in South Africa introduced at a Joint Sitting of a multiracial parliament. His kindred spirit, the hon member Prof N J J Olivier, said that this was a memorable day, because a Bill from a multiracial Standing Committee was introduced&#x2014;I see they are sitting together now too; in earlier days they were also in the National Party together. [Interjections.] The bill affects second-tier government in that it authorizes the provinces to issue certain ordinances.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Mr <person refersTo="hansard_za">J G VAN ZYL</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>That hon member for Brentwood who somersaulted three times&#x2014; or is it five times?&#x2014;and who is being so noisy now, does not realize that this measure was approved by a multiracial Standing Committee, which authorizes a province, which is a White authority, to do certain things. [Interjections.] From the CP&#x2019;s side I want to remind the hon members that the hon the Minister said that all parties had achieved unanimity about this. The CP did not cast a vote in the Standing Committee.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>*Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Were you there?</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from><span class="col_425-426" refersTo="page_0257"/>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Yes, I was there. Just give me a chance to make my own speech. I know the hon member for Yeoville often comes to the rescue of his kindred spirits on the other side of the House. We were indeed at that Standing Committee. I am a member of that Standing Committee and I only received notification on 11 January of a meeting which was to take place on 16 January. We received the legislation at a very late stage, when the Standing Committee was almost ready to meet.</p>
+
+<p>The hon the Minister of Constitutional Development and Planning who implements these things is probably satisfied with this memorable day, but if he and his department had done their work, this legislation could have been made available to us very much earlier. [Interjections.] I concede that this is indeed a most memorable day for that hon Minister. However, for me, who came to Parliament for the first time in 1970&#x2014;a purely White Parliament which could decide for itself about all facets affecting the life of the people&#x2014;it was not a memorable day. However, as the principle has already been accepted in the House of Assembly that a pension or gratuity can be paid to the widower of a deceased female member, the CP has no objection the province&#x2019;s also being authorized to do that. It is, however, not a memorable day for us. We shall continue to fight in this House to change the integration process which the hon the Minister regards as memorable.</p>
+
+</speech>
+
+<speech by="#watterson">
+
+<from>Mr <person refersTo="hansard_za">D W WATTERSON</person>:</from>
+
+<p>Mr Speaker, I should like to support the hon member for Hillbrow in principle that it makes it much easier and more realistic for hon members to have a copy of the Minister&#x2019;s Second Reading speech in front of them. However, in so far as this Bill is concerned, of course, it is a very simple one and I do not think we have any problem at all. In fact, the three Bills which are on the Order Paper seem fairly simple.</p>
+
+<p>I do, however, have one little problem with this Bill. The hon the Minister said in his Second Reading speech that for 75 years provincial councils have gone along without this particular provision. Almost at the death of provincial councils&#x2014;from all sorts of information from various sources they are due to be phased out entirely in about one year or 18 months&#x2019; time&#x2014;why should it suddenly be so necessary to bring this provision in now? Are there any particular reasons? I know that hon the Minister indicated that there were 12 ladies in provincial councils around the country at the moment, but there have been women in provincial councils for years. I can remember that there were women in the Natal Provincial Council 20 or 25 years ago. It is therefore not a new concept to have women in provincial councils. I do not object in principle because I think there is a certain equity in the fact that people should not be discriminated against because of race, sex or creed. I am quite happy to accept that principle, but there is another problem that arises.</p>
+
+<p>In certain other occupations in provinces the pension benefits and permanent staff benefits, and matters related thereto, only apply to breadwinners. I know the hon member for Klip River raised the issue, but it is quite an important one. If in respect of women members of provincial councils the necessity of their being breadwinners to derive these benefits is obviated, then it may well be that there is considerable justice in people in other provincial employ achieving the same benefits. This is something which the hon the Minister could perhaps comment upon.</p>
+
+<p>The final point that I should like to raise is in respect of the question of its being retrospective. I assume it is not intended that it be retrospective. All things being equal, however, we in this party will be supporting the Bill.</p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>Mr Chairman, I would first like to make one point on the substance or the history of this Bill. I think it is fascinating how we can reach consensus on the fact that widowers should now be paid pensions. This is something for which the hon member for Houghton fought for 28 of her 30 years in Parliament. In fact, it was only 18 months ago that we decided to extend this Bill to the widowers of MP&#x2019;s, and I think it should be recorded that it took 28 years of battle to persuade Parliament to change its own rules, and in consequence of this is we are now, by consensus, deciding that the provinces should do the same.</p>
+
+<p>I almost want to share the views of the hon member Prof Olivier. This day is historical <span class="col_427-428" refersTo="page_0258"/>in a sense; however, it is just a little less historical than it might have been, because we might actually have debated this at a Joint Sitting. It is not the Constitution that prevents this. The Constitution of the Republic of South Africa says that no decision can be taken at a Joint Sitting. However it is the Standing Rules and Orders of this House, which have now become the Rules and Orders of Parliament, that prohibit the joint discussion. If this had really been a meaningful day for those of us in these benches, it would have been a day on which we as MP&#x2019;s could have participated fully. We could have shared collectively in the debate and the discussion and listened to the answers given by the hon the Minister to the question put to him by Prof Olivier at the Joint Sitting, instead of just listening together to the hon the Minister&#x2019;s introductory speech.</p>
+
+<p>I want the hon the Minister, as one of the most influential members on that side of the House, to bear this in mind constantly. Even if we have to vote separately, surely there must be occasions which would enrich all of us as well as the Statutes, when we could actually deliberate and learn from one another on the substance of a Bill. I think it is a defect which I hope the hon the Minister will remedy, or try to remedy, as soon as he can.</p>
+
+<p>The second point is this problem which arose out of the question put by the hon member for Hillbrow, and the totally inadequate answer given by the hon member for Klip River. He said: &#x201C;Die lede van die Staande Komitee is ten voile ingelig.&#x201D; Let me say what our problem is. The Standing Committees meet and, to an extent, they take decisions which become binding on their parties, on their caucuses and on their Houses. I am not saying it is absolutely binding: The parties can vote against the Standing Committee. However, in practice the intention is that the debate should take place in the standing committee in order to build up the areas of consensus. However, the debate takes place in the standing committee, without the Second Reading speech of the Minister having been delivered. So, consensus is being reached without members having the benefit of the Minister&#x2019;s Second Reading speech.</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>We get a memorandum.</p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>Well, the memorandum that we get can consist of a single sentence. It is not a motivation: It is an explanation of what this Bill purports to do. If we get a memorandum which the hon member for Durban Point finds it adequate, quite frankly, what is the point of the Minister reading his Second Reading speech to the House? Then he might just as well say: &#x201C;Take it as read on the Green Paper&#x201D;. All I am saying&#x2014; I am serving on these committees&#x2014;is that there is a tremendous difference between a slip of paper attached to the back of the Bill which gives a factual statement of what the Bill intends to do, and the Minister&#x2019;s statement as a politician in charge of a portfolio, giving the argumentation and the motivation behind the Bill. I put it to the hon Minister that it is unfair for the committees to be expected to come to their final decisions when they have not had the benefit of the kind of argument and motivation which Parliament as a whole has.</p>
+
+<p>It is embarrassing to find that we have reached decisions, and only after we have reached decisions do we get Second Reading speeches from the Ministers concerned. Somewhere along the line, if the system is going to work, I believe a full motivation as is contained in the Minister&#x2019;s speech should be handed in to the standing committee, so that the standing committee could have the advantage of his wisdom and of his arguments. This is a problem. I raise it because, if the system is going to work, at least we want to see it work properly. I would like to ask the hon Minister to bear in mind, therefore, that some form of motivation on behalf of the executive should be presented to the standing committee before they come to a decision. He should also widen the scope of this Parliament to enable it to debate as a full Parliament, requiring members rather to retire to their three Houses in order to take part in a discussion.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, in the first place I should like to respond to what the hon member Prof Olivier said. I want to point out clearly that the subject of the Bill in question is quite a simple one. The hon member Prof Olivier is therefore correct when he says it does not require much intelligence to understand <span class="col_429-430" refersTo="page_0259"/>what it is about and what it implies, after simply reading through the amendments.</p>
+
+<p>In the second place I want to point out that the legislation we are considering now, is actually the result of a request by the hon member for Hillbrow and the hon member for Kuruman in earlier debates in this House. So, although we could conduct a general discussion about the desirability or otherwise of examining the Second Reading speeches of Ministers ahead of time, I maintain, in all humility, that this specific measure is not one that really necessitates this kind of thing.</p>
+
+<p>&#x2020;Allow me, Mr Speaker, to reply to the question raised by the hon member prof Olivier, and also by the hon member for Umbilo. The provincial councils have the inherent authority to legislate retrospectively, and therefore a specific provision in the Act is not required for that purpose. If provincial councils should therefore wish to make provision for this particular purpose, and to do so retrospectively, they do indeed have the authority to do so in terms of existing legislation.</p>
+
+<p>Referring hon members to section 25 of the Financial Relations Act, relating to financial relations among the provinces, I can point out that there are two appropriate provisions applicable in this particular case. The first one is that this section requires the approval of the State President before the provinces can in fact introduce any provision to this particular effect. Secondly provision is made in section 25 that the Minister of Health and Welfare must be informed of the pending introduction of such an ordinance much prior to the actual introduction thereof. A shorter period can also be made applicable following prior consent by the Minister. This is merely a short summary of the situation. It does appear therefore that it is possible for the provinces to legislate retrospectively, as is the case in this particular instance. It also becomes clear that there are certain prescribed procedures that are to be followed by the provinces in terms of section 25 of the Financial Relations Act.</p>
+
+<p>*In addition there is a second statement which I should like to make in this connection. Although the subject of this Bill is not so important, in the light of the fact that the principle involved was already accepted 18 months ago as far as members of Parliament themselves are concerned, I believe the fact that the legislation is being handled in this particular way is truly of historic interest. A fact which I should like to stress is that we did not all agree&#x2014;or even agree today&#x2014;that the Constitution as it is at present, is the best Constitution that we could get.</p>
+
+<p>&#x2020;Many people will argue with regard to the adequacy or the inadequacy of the constitution. I do not believe it is appropriate at this stage to enter into such a discussion save for two observations I should like to make. Firstly, what is taking place here in this House today in terms of what it can mean for co-operation among the various groups is probably more important than we are able to understand, even today. My second observation in this regard is the following. Hon members of this House&#x2014;like hon members of the other Houses of Parliament&#x2014;have, I believe, a very heavy responsibility, because if we cannot succeed in making this constitution work, what can in fact be done constitutionally in this country? What can then be achieved? [Interjections.] I am quite prepared to discuss all the answers with the hon member for Brakpan and he knows I shall surely do so, but, with due respect, I maintain that there is going to be a heavy test, also for the hon member for Brakpan. The test will be whether we in this country are able to increase the options for democracy, and not to reduce them. I am on record as saying&#x2014;I should like to repeat it today&#x2014;that chances to maintain a democracy in this country are fewer than we think they are. I should like to state categorically that a democracy in terms of the morals of Western Europe and Northern America can in any event not find any application in the environment in which we live. I repeat, therefore, that the members of this House have a larger responsibility in proving that it is possible to maintain democratic values. I would suggest that there is a specific reason why there is a bigger onus on the members of this House. It is that the group we represent have over decades been exposed to the systems within which we function and operate, while the same cannot be said of the members and groups in the other Houses of Parliament. I have therefore never been hesitant to enter <span class="col_431-432" refersTo="page_0260"/>into a debate on any particular political issue with hon members of this House. I believe, however, that in future in this country we shall have to be more sensitive in terms of what we do and what we say.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>So you will have to watch your step.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I do not have to watch my step, but I should like to tell the hon member for Langlaagte&#x2014;and I do not want to cause any animosity whatsoever&#x2014; what I have said to myself, namely that it would be wrong for me to expect members to act in a certain way, a way that would be conducive to making a success of the constitution, while I then acted differently. I share that obligation with all the other members and therefore I do not want to be involved now in a vocal slanging match with hon members on the other side. I just want to propound what I believe is the historic value of what is happening in this House and in Parliament today. I am not questioning for one moment that the hon member for Langlaagte or other hon members might have different views on this matter. However, in terms of our own commitment to democracy, the hon member for Langlaagte is as obligated as I am to function within the constitution and within the rules and Standing Orders of this House.</p>
+
+<p>*Allow me to raise just one more point: then I shall have disposed of this specific point. I want to say that the complexity of this society of ours requires that we act with sensitivity in respect of those aspects of our society which can lead to clashes and conflict.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>But it took us 30 years to find that out.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Of course, but I want to tell the hon member that in those 30 years, progressive changes have taken place in the politics of the country. Each party, whether his or mine, will struggle with exactly the same problems with regard to the South African situation as those with which we are struggling today. A change of party or of government is not going to change the fundamental facts of our society. A change of government in this country will change nothing of the realities of the country, and a change of the governing party, is not going to change the emotion of layers of the community with which we are struggling today.</p>
+
+<p>I ask something very simple. I do not ask that we settle political disputes. That I definitely do not ask, but what I do ask, is that when we act within-specific systems and within a constitution, we do it in such a way that those who have been exposed to democracy for the longest period, will at least act in such a way that the possibilities for co-operation in the country are increased and not decreased. That is all I ask, and I think it is a fair request.</p>
+
+<p>I agree with the hon member Prof Olivier that the fact that we are getting legislation here on which the parties are unanimous, is in itself an important historic event. Although the hon member for Kuruman says they did not vote, he is in any case in favour of the legislation as far as principle is concerned. Indeed, he asked for it himself. [Interjections.] The hon member is really sitting on the fence now.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>Do not question his credibility. You are always moralizing.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>But I think the hon members need it. [Interjections.]</p>
+
+<p>Here we find something strange. On one hand the hon member for Kuruman says we did not handle the specific matter correctly in the Standing Committee, because his party did not vote there.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Ask the chairman of the Standing Committee what happened there.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I accept what the hon member says.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>But then you must not make such statements now.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>But I have not even made a statement yet.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>But you made the statement that we are sitting on the fence.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>On the other hand the <span class="col_433-434" refersTo="page_0261"/>hon member is in favour of the legislation. How does he want to have the legislation. How does he want to have the legislation placed on the Statute Book if he does not make use of the institutions of Parliament, such as the Standing Committees? That is all I am trying to say. I do not know why the hon member is so sensitive about his own points of view.</p>
+
+<p>&#x2020;I have replied to the hon member for Umbilo as regards the question of the legislation being enacted retrospectively.</p>
+
+<p>The hon member also referred to other employees of the provincial administrations, and he made inquiries as to whether it would be possible, if I understood him correctly, to bring about amendments in the pension ordinances so that these employees of the provincial administrations could also receive the benefit of what is contained in this particular Bill. The hon member will appreciate that the whole question of pensions for public servants is a matter which is not being dealt with by my department, and therefore I shall have to address that question to the hon the Minister who deals with the position of the public servants and also the employees who are in the service of the provincial administrations.</p>
+
+<p>I want to come back to a point raised by the hon member for Sea Point. I believe that he would understand, as would the other hon members, that the new system will also require that new procedures and systems be evolved. In fact, he will recall that the Standing Rules and Orders for Joint Sittings have only been approved for a period of 24 months. After 24 months we shall be in a position to review the Standing Rules and Orders. I am quite sure that when we do that, one will be led by the experience gained in the meantime. I should like to suggest that we should assess from now on till that future date how the functions of the Houses of Parliament and the committees can be improved more effectively. That will be the opportunity when we shall be able to discuss the issues which he has raised.</p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>We did not want it to become a convention too soon.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>It is something new. As regards Second Reading speeches, let me confess immediately, I was labouring under a misapprehension from my own point of view. My own staff had given two copies of Second Reading speeches to the Secretary to Parliament. I was <i>bona fide</i> under the impression that these were intended to be given to the hon members. I now understand that these were mostly intended for hon members who do not understand both languages. I shall therefore consider the position as far as my own ministry and my department are concerned.</p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>May I ask the hon the Minister whether there is any reason why a Minister cannot attend a standing committee when his Bill is being discussed?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>There is no reason whatsoever why Ministers cannot attend standing committees. The hon member will recall how many times in the past I indicated that in many cases it would probably be profitable and make the working of Parliament more efficient, if Ministers could, from time to time, meet with the standing committee on their own ministry, especially on policy matters. I believe that that would make the work of a member of Parliament much more important. I believe that it would also ensure that the functioning and the system of Parliament could be improved. The hon member will understand though, that this obviously cannot be a matter of everyday practice, because Ministers sometimes have other work to do as well.</p>
+
+<p>I have referred to the question of Second Reading speeches and I believe that my answer in this regard is satisfactory.</p>
+
+<p>I must point out that we in this House have in the past often referred Bills to select committees before Second Reading. This was before hon members had the opportunity of the benefit of a Second Reading speech by the Minister concerned.</p>
+
+<p>It may be difficult under all circumstances to arrange for the Second Reading speeches to be ready timeously. This is understandable, because one cannot always be sure as to when one will be able to finalize them. I finalized mine very shortly before the session. I think however, that one should consider whether the explanatory memorandum should not contain more details. It depends on how they can function within the system.</p>
+
+<p><span class="col_435-436" refersTo="page_0262"/>Question agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#financial_relations_amendment_bill">
+
+<heading>FINANCIAL RELATIONS AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>Paragraph 3 of Schedule 2 to the Financial Relations Act, 1967, <i>inter alia</i>, makes provision for Provincial Councils to make ordinances concerning the provision of grants in respect of agricultural and kindred societies, with the exception of societies registered under any law.</p>
+
+<p>The Bloemfontein Agricultural Society, which plays an important role as an agricultural and industrial showcase in the Free State, is an example of an agricultural society that is registered in terms of the Orange River Colony Act, No 24 of 1909.</p>
+
+<p>As the Act reads at present, it means that a Provincial Council cannot make ordinances concerning such an agricultural society registered under any law and consequently, the Provincial Council can make no financial grant to this society.</p>
+
+<p>In the Transvaal, the Cape Province and Natal agricultural societies receive grants-in-aid, but are not registered under any law.</p>
+
+<p>The Central Agricultural Society in the OFS has an annual agricultural show in Bloemfontein in which industrial exhibitors, too, are becoming increasingly involved. Participation in the show is supported by a large number of participants, including independent Black states, state departments and universities.</p>
+
+<p>The Provincial Administration of the OFS attaches great value to this show and periodically receives requests for financial grants.</p>
+
+<p>In order to make it possible for the Provincial Councils to make financial grants to agricultural and kindred societies registered in terms of a law, it is necessary for the Schedule to the Financial Relations Act, 1976, to be amended.</p>
+
+<p>All four of the Provincial Administrations have been consulted and are in favour of the amendments, although not all the provinces have agricultural and kindred societies registered in terms of a law.</p>
+
+<p>The amending Bill therefore aims at eliminating an existing shortcoming.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>Mr Speaker, we in these benches will support this amending measure, partly because it tries to eliminate an anomaly which is this particular Sentrale Land-bougenootskap, and also because the provinces are going to fade away fairly shortly. It would in principle be bad to change what I would call a general law. I am not talking of &#x201C;general law&#x201D; in terms of the Constitution but a widely-based law, which establishes a principle that one cannot pay a grant to an organization which is registered in law merely to accommodate the Vrystaatse Landbougenootskap. There must have been some reason why that provision was included in the original 1967 Act. I presume that it was done, because if an organization is registered under a law, it could be deemed that assistance to it would be by way of appropriation and not by way of casual grants. There was a good reason why it was there in the original law. However, to the extent that there is only one organization and that this creates an anomaly in practice, we think that in the circumstances it is valid, to change the general law to accommodate this particular set of circumstances.</p>
+
+<p>With this background reservation because of the problems, we will support this particular legislation.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr <person refersTo="hansard_za">C J VAN DER MERWE</person>:</from>
+
+<p>Mr Speaker, we discussed this matter in full in the Standing Committee, but I concede that the arguments the hon member for Sea Point is advancing are valid. I was unable to ascertain through my research why the original <span class="col_437-438" refersTo="page_0263"/>reservation existed, and the only conclusion I could reach was that that reservation possibly slipped in because this clause could have been taken over from a section in another Act. In other words, there was possibly no specific motivation for that clause. What the real motivation for the reservation was is not important, however, since&#x2014;as the hon member for Sea Point said&#x2014;it really only applies to one organization. There is therefore no sense in arranging for an exception to the exception once again by making provision for that organization. For that reason we take pleasure in supporting the Bill.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Mr Speaker, I really find it odd that so much time could have lapsed before it was realized that basically the requirements of the Bloemfontein Agricultural Society cannot be complied with. It is really a pity that we are only introducing legislation in this House now whereby the Orange Free State is being empowered to assist this society.</p>
+
+</speech>
+
+<speech by="#weeber">
+
+<from>Mr <person refersTo="hansard_za">A WEEBER</person>:</from>
+
+<p>Better late than never.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>The hon member for Welkom says &#x201C;better late than never&#x201D;. That hon member served on the Executive Committee of the Free State Provincial Council for quite a while, and I wonder why they did not suggest this to the Minister a long time ago and ask him to do this. In my opinion, it would have been to the advantage of agriculture in general and of the agricultural society of the Orange Free State. I wonder whether the hon member was not waiting for the Indians to accept co-responsibility in a multiracial Standing Committee for bringing a Bill to Parliament that was meant to assist the province in making funds available. I see the hon members from the Orange Free State are having a good laugh, but this is the first Bill in terms of which Whites, Coloureds and Indians are discussing legislation which directly affects the people in the Free State. Perhaps I should ask the hon member Dr Odendaal, the deputy chairman of the study group on agriculture: If the Indians are co-responsible for proposing legislation enabling the Free State to make funds available to this society, is that agricultural society not then also morally bound to afford the Indians the opportunity of participating in shows there and to remain there for longer than 75 hours?</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">M D MAREE</person>:</from>
+
+<p>We shall not ask you to help with this.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>The hon member for Parys&#x2014;the hon &#x201C;temporary&#x201D; member&#x2014;says that they would not ask me to do so, but the Free State wrote them off a long time ago as far as speaking on their behalf is concerned, and that is why we are bringing this matter up. Nevertheless, I want to thank the hon the Minister on behalf of this side of the House for introducing this legislation today and that the province can also give financial assistance to this agricultural society now.</p>
+
+</speech>
+
+<speech by="#watterson">
+
+<from>Mr <person refersTo="hansard_za">D W WATTERSON</person>:</from>
+
+<p>Mr Speaker, we shall be supporting this Bill, but I should like to put a question to the hon the Minister. Presumably the idea behind this Bill is that provinces may give grants-in-aid to agricultural societies and kindred bodies, and apparently this has become particularly pertinent as a consequence of the drought. As far as I can recollect&#x2014;I do not have the details before me&#x2014;it is illegal for two State departments to give grants-in-aid for the same purpose. However, if a province does give this type of grant, does it not relieve the Government of the responsibility of doing so? [Interjections.] Is that in fact the case? It will not alter that particular situation? Having received an answer to that question, I am quite happy to support the Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, I undertake not to embark on a long argument where it is not necessary. I rise merely to thank the hon members for supporting the legislation, and I wish to confirm that, immediately after we had identified the problem, my department took the necessary steps at the request of the Free State so as to render possible the adjustments to the legislation.</p>
+
+<p>&#x2020;I think the hon member for Umbilo is perfectly right that no two Government departments can subsidize an institution for the same purpose. I have an idea that that is part of the explanation for the original incorporation of this provision there. I cannot <span class="col_439-440" refersTo="page_0264"/>support that on the basis of historical facts because I cannot establish what the position was in 1909. I should just like to say that we are referring to a specific agricultural society, viz the Bloemfontein society which was established in terms of an Act. I would presume, and maybe my colleagues from the Free State could help me there, that there are agricultural societies in the Free State which have not been registered in that way and which would normally fall under the other provisions and which had in fact been receiving assistance.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a Second Time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#jan_kempdorp_amendment_bill">
+
+<heading>JAN KEMPDORP AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a Second Time.</block>
+
+<p>With the creation of the Department of Constitutional Development and Planning, the administration of certain Acts relating to the functions of the department were assigned to the Minister of Constitutional Development and Planning.</p>
+
+<p>By Government Notice No 2537 of 18 November 1983 the Jan Kempdorp Act, 1964, (Act 40 of 1964), <i>inter alia,</i> was assigned to the Minister of Constitutional Development and Planning.</p>
+
+<p>The object of the amendment of the Jan Kempdorp Act, 1964, (Act 40 of 1964) is basically twofold:</p>
+
+<p>The first amendment of the Act seeks to do away with the limitation in the Act which stipulates that the Minister can only declare &#x2026;</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Speaker, on a point of order: This is obviously a new system, but I should like to ask whether interjections are permitted in the normal course of events during a Second Reading speech.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I shall allow them if they are really good witticisms.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Speaker, in terms of your ruling the hon member will have little chance of participating in the interjections!</p>
+
+<p>The first amendment of the Act seeks to do away with the limitation in the Act which stipulates that the Minister can only declare an area in Transvaal deemed to be situated in the Cape Province if it is partially situated within the Jan Kempdorp area or partially adjoining it. This is a rather rigid measure and is now being done away with in terms of the proposals contained in the Bill.</p>
+
+<p>The Bill provides that land can now be declared as being deemed to be situated in the Cape Province, even if it is not adjoining or situated within Jan Kempdorp.</p>
+
+<p>The second amendment to the Act seeks to add a portion of land to the Schedule of the Act so that it can be declared deemed to be situated in the Cape Province.</p>
+
+<p>Jan Kempdorp is in a unique position in that it is situated on the boundary between Transvaal and the Cape Province. For certain legal provisions, however, Jan Kempdorp is regarded as being situated in the Cape Province, and the matter is regulated by the Jan Kempdorp Act of 1964.</p>
+
+<p>In terms of the Jan Kempdorp Act of 1964, a number of defined portions of land situated in Transvaal are mentioned in the Schedule to the Act, and for the application of certain legal provisions they are deemed to be situated in the province of the Cape of Good Hope, after having been declared as such in the <i>Gazette</i> by the Minister of Constitutional Development and Planning.</p>
+
+<p>Portion 31 of the farm Guldenskat No 36-HN in the district of Christiana, is situated in Transvaal and does not form part of the area mentioned in the abovementioned schedule. In order, in due course, to place Portion 31, on which a cemetery is situated, under the jurisdiction of the local authority of Jan Kempdorp, it is necessary to amend the Jan Kempdorp Act of 1964.</p>
+
+<p><span class="col_441-442" refersTo="page_0265"/>There exists a need to place the ground under the administration of the town council of Jan Kempdorp because the cemetery situated thereon is presently not being effectively administered or maintained. A cemetery committee which was responsible for it does not function as it should for various reasons, with the result that the cemetery is not maintained satisfactorily.</p>
+
+<p>Mr Speaker, this Bill is not controversial; its object is merely to clear up an administrative problem caused by the provincial boundary which divides the town in two.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#olivier">
+
+<from>*Prof <person refersTo="hansard_za">N J J OLIVIER</person>:</from>
+
+<p>Mr Speaker, once again this is a clear, concise Bill which concerns the anomaly caused by the fact that the border between the Transvaal and the Cape Province runs through the middle of the town and the problems this causes. The overall problem will probably have to be given attention at some stage. It has become customary for us to pass legislation in this Parliament whereby land from one province is transferred to another, and in my opinion, we shall, at some stage, have to consider possibly effecting a regional adjustment as far as this area is concerned.</p>
+
+<p>By the way, I just want to say that Guldenskat is not a bad name for a cemetary&#x2014;and I see that the hon member for Waterberg agrees with me. If that could be one&#x2019;s final resting place, it promises to be quite satisfactory.</p>
+
+<p>With those words I should like to say that in accordance with the attitude we had in the Standing Committee, too, we on this side support this Bill.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>*Mr <person refersTo="hansard_za">A M VAN A DE JAGER</person>:</from>
+
+<p>Mr Chairman, we are grateful for the support of the hon member Prof Olivier. I agree with him whole-heartedly that a time will come when we shall have to consider very seriously whether we cannot transfer that area from the Transvaal to the Cape Province in order to eliminate the anomaly.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Never.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>*Mr <person refersTo="hansard_za">A M VAN A DE JAGER</person>:</from>
+
+<p>Mr Chairman, it is a very interesting case. The border between the Transvaal and the Cape Province runs through the picturesque little town, Jan Kempdorp, in my constituency. Interesting situations have arisen as a result of this phenomenon. For example, the border runs through the rugby field so that before halftime a team scores its tries in the Transvaal, and after half-time it scores in the Cape Province. There is also the case where a man invites his guests to his sitting-room and then they are sitting in the Transvaal, but the refreshments are prepared in the kitchen, which is in the Cape Province. There is also the case &#x2026;</p>
+
+</speech>
+
+<speech by="#simkin">
+
+<from>*Mr <person refersTo="hansard_za">C H W SIMKIN</person>:</from>
+
+<p>You must stop now.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>*Mr <person refersTo="hansard_za">A M VAN A DE JAGER</person>:</from>
+
+<p>My benchmate says I must stop now. There is also the case where the border literally runs through the bedroom and the married couple is compelled to work out very carefully where the bed should go.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Do not go any further. [Interjections.]</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>*Mr <person refersTo="hansard_za">A M VAN A DE JAGER</person>:</from>
+
+<p>At your request, Sir, I shall go no further. Naturally this state of affairs has caused many problems. The municipality had to exercise control and jurisdiction over land and buildings situated in two provinces, each subject to the ordinances of its own province. In order to solve these problems, the Act of 1964 was passed by means of which the administration of the Transvaal area would take place as though the area were situated in the Cape Province. Unfortunately, the area included in the Schedule at that time, and where the cemetery is situated today, was not included. One therefore had the interesting phenomenon that the living from the Cape Province and the Transvaal were all buried in the Transvaal. There are people who object to being buried in the Transvaal. This situation is being remedied now, however, and like my colleague, the hon member for Schweizer-Reneke, I am grateful that this problem with regard to the dead is now being taken out of his hands.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>*Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Where are they going to cast their votes?</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from><span class="col_443-444" refersTo="page_0266"/>*Mr <person refersTo="hansard_za">A M VAN A DE JAGER</person>:</from>
+
+<p>Usually they have already voted, but we can always let them vote again in the Cape Province.</p>
+
+<p>Mr Chairman, like my colleague, the hon member for Schweizer-Reneke, I am grateful for this Bill, since it solves a tremendous problem for the people of this beautiful little town.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Mr Chairman, I do not know whether I have the story altogether correct, but I heard that there was a committee consisting of three to five members who controlled this cemetery and that there is only one remaining member of that committee who has not yet taken up his place in that cemetery. The hon the Minister is now asking that the final resting place of these people, which was previously in the Transvaal, be placed under the jurisdiction of Jan Kempdorp, and consequently, the Cape Province. The CP has a great deal of sympathy with the problems of Jan Kempdorp, and we therefore take pleasure in supporting the Second Reading of this Bill.</p>
+
+</speech>
+
+<speech by="#watterson">
+
+<from>Mr <person refersTo="hansard_za">D W WATTERSON</person>:</from>
+
+<p>Mr Chairman, we will be supporting this Bill, but with some considerable reluctance.</p>
+
+<p>The hon the Minister has not given an indication as to whether he has consulted the two provinces concerned on this matter. It is a very important matter to change the boundaries of a province. In fact, it is tied up in the act of union that it cannot be done without the consent of the provinces concerned, as well as in the South African Act. Quite recently, however, these provisions were amended so that consensus between the provinces is not essential. Nonetheless, I believe that it would be interesting to know if, as a matter of courtesy, the two provinces were consulted about the changing of their boundaries. In addition I would like to know whether the Cape Province has any further territorial ambitions against the Transvaal, because I imagine that this would be quite important to hon members representing the Transvaal.</p>
+
+<p>I think there is just one other point that should be mentioned. Many of the residents of the cemetery were buried in the Transvaal. How are they now going to like being buried in the Cape Province? We support the Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Chairman, I want to react immediately to what the hon member for Umbilo has said by saying that I rather have the idea, if my information is correct, that, being where they are, the residents of the cemetery would not be unduly worried about where they are.</p>
+
+<p>*I have risen merely to thank hon members for supporting the Bill. I should just like to say to the hon member Prof Olivier that the name of the farm might be correct, but that I hope that the people buried on that farm had indeed found the treasure.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#police_amendment_bill">
+
+<heading>POLICE AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>Section 27A of the Police Act of 1958 &#x2026;</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>Mr Speaker, I should like to ask whether the hon Minister will be prepared to take a question.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have already given a ruling in this regard&#x2014;in response to the hon member for Yeoville. I will allow questions.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>May I at this stage then, pose a question to the hon the Minister. [Interjections.]</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>Don&#x2019;t expect to get an answer.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from><span class="col_445-446" refersTo="page_0267"/>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! Who made the remark: &#x201C;Don&#x2019;t expect to get an answer&#x201D;?</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>I did, Mr Speaker.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon member must withdraw that immediately.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>If you rule that it is unparliamentary, then I withdraw.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is a reflection on the hon the Minister. It was done even before he had been given a chance to decide whether he was going to reply or not.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>Mr Speaker, it is unparliamentary to reflect on an hon Minister?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is a bad and uncalled-for remark. As far as I am concerned, it justifies withdrawal. The hon member has withdrawn it and I accept that.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>Mr Speaker, my question relates to the function of the hon the Minister of Law and Order. The question is this: Would the hon Minister be prepared to agree that without a system of law there can be no order, and that without order there would be anarchy? If there is anarchy there will be tyranny. In the absence of a system of law and order which means law promulgated by a government which has the consent of the governed, the forces of law and order would be regarded as an occupational force.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I want to point out to the hon member for Reservoir Hills that the hon Minister has not even started to address us. He has not even started to deliver a Second Reading speech on the subject matter with which he is dealing. I think the question asked by the hon member is very hypothetical. As the hon the Minister proceeds, if anything is not to the hon member&#x2019;s liking or if he has difficulty with anything, he may put his question.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>I shall put the question later.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Speaker, section 27A of the Police Act, 1958 seeks to prohibit the making of a sketch or the taking of a photograph of a person who is being detained in lawful custody or who is a fugitive after having escaped from such custody, or the publishing of such a sketch or photograph, without the written consent of the Commissioner. This prohibition is calculated to prevent any obstruction of police enquiries, to prevent the person in custody and against whom criminal proceedings are being contemplated from suffering any prejudice, and to prevent the nearest relatives of such a person from suffering any prejudice.</p>
+
+<p>The scope of the meaning of &#x201C;photograph&#x201D; as defined in subsection (2) is not, for the purposes of the prohibition, sufficiently wide to cover all acts, thus frustrating the application of the prohibition. According to a recent court decision, the image of a person transmitted and reproduced on a frame synchronizer by means of a computer is not a &#x201C;photograph&#x201D; within the meaning of the definition contained in subsection (2). The result is that the publication of a visually perceptible image of a person referred to in section 27A, or the performance of any act which renders possible the reproduction of such image, instantly or at a later stage, does not fall within the scope of the prohibition. Technological development and skills caused the application of the prohibition to be frustrated and, in order to make good the deficiency, the need arose to amend the technical aspects and the phrasing of the prohibition.</p>
+
+<p>Against this background the Bill is now being presented to this House for consideration. The amendment does not alter the object of the existing measure, but merely seeks to make the prohibition completely effective and to ensure equal treatment in general. With this in mind the definition of &#x201C;photograph&#x201D; is being re-worded and the definitions of &#x201C;take&#x201D; (in relation to a photograph) and &#x201C;publish&#x201D; are being inserted in the section.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>Mr Speaker, I am a little confused now because I do not know when I may put a question and when I may not do so. However, I just want to ask <span class="col_447-448" refersTo="page_0268"/>the hon Minister whether we may have a copy of his Second Reading speech.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Speaker, I have no objection to a copy of my speech being made available to the hon member. I do not know what the hon member has in mind, but I am quite prepared to be of assistance to him.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>We have now heard the Second Reading speech of the hon the Minister and we intend to react to it later in the debate. In the meantime, however, a number of other Second Reading speeches are being delivered, and now there is the danger that one can forget what a specific Minister said in his Second Reading speech. [Interjections.]</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! We are at present occupied with a new procedure and we all find it rather strange. It seems to me, however, that the hon member Mr Theunissen has made a reasonable request. Merely as a guide&#x2014;this is not imperative&#x2014;I consider it to be a good idea that hon Ministers make their Second Reading speeches available in advance to hon members in both languages. There is the possibility that we will dispose of the Second Reading speeches before it is time to adjourn. This will mean that some of these speeches will have to be discussed, but at present members do not have copies of the Second Reading speeches in front of them. I am not reproaching anyone for the present position, and I am simply putting forward this suggestion. I think it is advisable to consider it.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Speaker, do you mean that a copy of Second Reading speeches should be given to all members of the joint sitting, or only to the members of the Standing Committee dealing with the Bills in question? I must point out that a memorandum has also been published on the objects of the Bills in question but I do not know which hon members already have copies.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">*HON MEMBERS</person>:</from>
+
+<p>All of us have.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>If all the members have a copy of the memorandum, this document is in the possession of each hon member of this House in both languages. The Second Reading speech of the Minister concerned is explained fully in the memorandum. I am merely mentioning that it is at the disposal of every member of this House.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I just want to point out to the hon the Minister that he is quite correct, because that document which he now has in his hand, was distributed among all the members. Therefore they have that part of the hon the Minister&#x2019;s speech.</p>
+
+</speech>
+
+<speech by="#leader_of_the_house">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Speaker, on a point of order: There are 17 Bills on the Order Paper. According to the old system the Second Reading speech was delivered without having been circulated in advance, and was discussed immediately afterwards. I am therefore asking whether you will not let the old arrangement suffice.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>That is not true.</p>
+
+</speech>
+
+<speech by="#leader_of_the_house">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>You keep quiet! [Interjections.]</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Speaker, on a point of order: Is it not the case that under the old system the spokesman, and very often deputy spokesman, of the different parties were always given a copy of a speech, unless it was a very short one and on a relatively unimportant subject, of the Minister who was moving the Second Reading?</p>
+
+</speech>
+
+<speech by="#leader_of_the_house">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Speaker, under the old system we did not circulate a memorandum. It was not necessary to circulate a memorandum. We had debates directly after the Minister had spoken without his giving copies of his Second Reading speech to members. To provide every member with a copy of a Second Reading speech on 17 Bills&#x2014;next time it may be 25&#x2014;is in my opinion not practical. One must also think of the cost involved.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Mr Speaker, on a point of order: The rules of the House do not make provision in any way for the circulation of the speeches of any member or of a Minister introducing legislation. <span class="col_449-450" refersTo="page_0269"/>With all due respect, I want to suggest that the old tradition of making a copy available in advance to the chief spokesmen of the parties when this, according to the discretion of the Minister, could further the debate, fully served its purpose and that it would be a good thing to continue that tradition. However, it was never the tradition to do this every single time in the case of completely innocuous legislation which was really not complicated.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>Who decides whether or not it is innocuous?</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>It lies in the discretion of the Minister.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I want to point out to the hon the Minister that I did it merely because it was very clear to me from where I was sitting that a section of our joint House understood nothing of what was happening. I put it solely from that point of view. As the hon the Minister correctly said, copies were made available to certain persons in the past. This is consequently a tradition which could perhaps be continued.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Mr Speaker, on a further point of order: I want to ask you kindly, with all due respect, whether you would not, in view of the possible abuse of questions which may be put during the Second Reading speech, and in view of the fact that there is ample opportunity in every House to put all questions during a full debate at Second Reading, and in view of questions that have already been put and which obviously give an indication that this privilege is being abused, reconsider your ruling in this connection, since there is in fact opportunity for debate?</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Speaker, on a further point of order: May I point out that under the old system, when a Second Reading speech was made, it was fresh in our minds and most of the time we were able to debate it then and there. It was then fresh and clear and we had every opportunity to debate it. These Second Reading speeches we shall now have to carry in our memories with a few notes, and the motions are not going to be debated for a considerable period of time. I can point out that in the case of the Coal Amendment Bill the next standing committee meeting to discuss this Bill is only on 1 March, which is very nearly a month away. The Second Reading speeches, as delivered now, are going to be debated only in the distant future and I believe this makes a difference.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, on a point of order: It goes without saying, of course, that this session&#x2019;s Hansard will, just like any other speech, be available within the next day. Nevertheless I want to point out, with all due respect, that it was a practice in this House that the Minister concerned was afforded an opportunity, in respect of Second Reading speeches, of delivering his speech. Secondly, I want to say that one should consider whether that practice should not perhaps be discontinued in the new dispensation. Thirdly, I want to say that the whole procedure in respect of speeches which members received from Ministers rested, in the past, on a specific gesture. If a new need should arise&#x2014;it is quite possible&#x2014;attention should be given to the matter.</p>
+
+<p>&#x2020;It is a matter which the Committee dealing with the rules and orders of the House should pay attention to.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I should like to point out to the hon the Minister that I was just about to say that these matters should obviously be referred to the Committee on Standing Rules and Orders.</p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Speaker, several points have been raised this afternoon and I think it is just as well that you, Sir, have given us a ruling in order to create a precedent in relation to the conventions of Parliament. During this first joint sitting of Parliament you have ruled on two issues, firstly, that questions can be put and, secondly, that interjections can be made. This is in keeping with all Parliamentary traditions, and we are a Parliament. However, two further issues have arisen this afternoon, firstly your suggestion that copies of Second Reading <span class="col_451-452" refersTo="page_0270"/>speeches of Ministers should be handed to all members of a joint sitting. I for one feel that that would be most beneficial and helpful to all members and that we should create the tradition and convention at joint sittings of Parliament that all members be provided with copies of the Second Reading speeches of Ministers.</p>
+
+<p>Secondly, the hon the Minister of Home Affairs and of National Education raised a point with regard to questions. In that respect you have quite correctly ruled that questions may be put. This is also within the traditions and conventions of Parliament. It was suggested by the hon the Minister that questions are being put with a deliberate view to delaying proceedings, but I believe the hon the Minister cannot be too serious in suggesting that because he would then be reflecting on the Chair in that you have allowed questions to be put, while the hon the Minister is now suggesting that questions are being put in order to delay proceedings. I think these are matters we can well leave in your capable hands, especially with regard to questions, including their suitability and the replies to them. I think that these points and conventions should be settled by you once and for all for joint Sittings of Parliament in terms of your rules and orders for joint sittings. I am referring here to rule 10. Although rule 6 provides that there shall be no debate at a joint sitting, the word &#x201C;debate&#x201D; is defined in the Oxford Dictionary and in Webster&#x2019;s as an argument or a discussion. We are not having a discussion or an argument, so on that basis there can be interruptions and questions. That being the case, rule 10 does in fact not provide that everybody in this House has to sit with sealed lips, but in fact that points of order may be taken, which corresponds with Standing Order No 108 of the various Houses. In keeping with the parliamentary tradition and conventions, therefore, I hope that hon members will follow your ruling.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I want to point out to the hon member for Hillbrow and the hon the Minister of Home Affairs and of National Education that when I made the remark from the Chair, I stated clearly that it should not be considered to be imperative. I do not want to bring about a change. I consider it to be something which should be committed to the Committee on Standing Rules and Orders. As far as this matter is concerned, it was therefore not a ruling as such. I want to make it clear that it was merely a suggestion. Naturally, I do not consider myself to be in a position to give a ruling of that nature before the Committee on Standing Rules and Orders has considered the matter.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Mr Speaker, I would like to express our point of view on this matter. I do not want to touch on the matter of questions, interjections etc, but would like to say a few words on the matter of copies of ministerial speeches.</p>
+
+<p>The smaller party, in which one often has one member as the spokesman on three of four portfolios, will always find it difficult on occasions like this. It would be of great benefit for the spokesmen on the portfolios in question in each and every party present in this House today to be given a copy of a speech made by an hon Minister. This has been the practice in the past. I do not expect you to rule on this, because I do not think it is right that you should rule on this matter. However, I believe, Sir, that in terms of the practice of this House it would be courtesy on the part of the ministries concerned to make available, just to the spokesmen of the respective parties of all three Houses, copies of the speeches delivered at Second Reading. I do not think it is a matter of the Chair ruling that this should be the case, but of the courtesy of Parliament prevailing. I would urge that Ministers give this their serious consideration so that copies of speeches will be issued to the Whips of the various parties who would then see to it that they reach the various spokesmen.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon member for Umhlanga&#x2019;s request is in keeping with what the hon the Minister of Home Affairs and of National Education has suggested.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>Mr Speaker, may I at this stage reiterate the question I put to the hon the Minister?</p>
+
+</speech>
+
+<speech by="#minister_of_manpower">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MANPOWER</person>:</from>
+
+<p>Mr Speaker, may I please, on a point of order, be given an explanation of your ruling in connection with the matter of questions? <span class="col_453-454" refersTo="page_0271"/>You ruled that questions may in fact be asked when a Minister was making his Second Reading speech. However, does it then still remain the prerogative of the speaker or of the Minister concerned to decide whether or not he wishes to reply to that question?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That has always been the case.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, with regard to the ruling that questions may be asked, I should nevertheless like to infer that the questions which you will allow will be questions which are relevant to the legislation under consideration by Parliament, and not general questions on matters of policy.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is correct. I am reasonably certain that the hon the Minister of Law and Order does not at this stage know what the question is which the hon member for Reservoir Hills wishes to put to him.</p>
+
+<p>&#x2020;I shall allow the hon member to repeat his question, provided that his question is relevant to the Bill before Parliament.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>As you please, Sir. The question was whether the hon the Minister would agree that without law there can be no order, and without order there will be anarchy, and unless order is enforced by the authorities with the consent &#x2026;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! No, I want to interrupt the hon member immediately. The question is couched in far too general terms and I shall only be prepared to allow a question if it is strictly to relevant to the Bill as such.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>My question is germane to the Police Amendment Bill. It relates to matters which emanate from the Act itself.</p>
+
+</speech>
+
+<speech by="#minister_of_constitutional_development_and_planning">
+
+<from>The <person refersTo="hansard_za">MINISTER OF CONSTITUTIONAL DEVELOPMENT AND PLANNING</person>:</from>
+
+<p>Mr Speaker, there is nothing in the provisions of the Bill under discussion that relates to the issues raised by the hon member.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have already given my ruling, and I have already indicated to the hon member that the question is framed in too general terms. I do not expect the hon the Minister to reply to it.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Mr Chairman, the hon the Minister&#x2019;s short Second Reading speech gave very little indication of what the consequences are of prohibiting a television service from taking films or shots which are dealt with in this section. One has to look at section 27A in the principal Act in order to see precisely what kind of restriction is being imposed upon the Press and upon our television service. The section lays down that no film may be taken as soon as the Police have arrested someone. That happens when a policeman puts his hand on the person&#x2019;s shoulder and arrests him. From that moment onwards that person is &#x2026;</p>
+
+</speech>
+
+<speech by="#cuyler">
+
+<from>*Mr <person refersTo="hansard_za">W J CUYLER</person>:</from>
+
+<p>Mr Chairman, on a point of order: The hon member is questioning a principle of the Act all over again, and he is referring to section 27A of the existing Act for the purposes of his argument. I respectfully want to state that that principle is already laid down in the Act of 1977.</p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Chairman, on a further point of order: The principle has not been decided, the principle is at issue. This House is free to decide whether it supports the Second Reading of the Bill or not. I ask you to rule that the hon member was perfectly in order.</p>
+
+</speech>
+
+<speech by="#deputy_chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">DEPUTY CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The hon member may proceed.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Just to add to the point made by my hon colleague: In the Second Reading speech delivered by the hon the Minister he referred to this section and explained why the amendment was necessary. In the explanatory memorandum which was supplied, section 27A is also referred to. If the hon member who made the point of order reads the Bill he will notice that it is an extension of the provisions of the Act that is being asked for. The very same section therefore has to be debated if we are to <span class="col_455-456" refersTo="page_0272"/>approve an extension to that section. Reference to section 27A is essential if one wants to understand the provision which is now before this House.</p>
+
+<p>That section lays down that as soon as someone has been arrested, the television services are not allowed to film that incident or publish anything that has been filmed. It is an offence to take a photograph, or to film with a television camera a scene where a policeman is in the act of arresting, or where he has arrested someone and that person is in his presence. What does this mean? It means that, if for example at a rugby match, a cricket match or a soccer match there is a disturbance among the crowd in a comer of the stadium&#x2014;whether it is &#x201C;Castle&#x201D; corner at Kingsmead when cricket is being played or not, it does not matter&#x2014;and a policeman goes to the scene and arrests one of the people who are under the influence of liquor, then, in terms of this section, the minute he puts his hand on the reveller&#x2019;s shoulder, the photographer has to stop his film. He is not allowed to carry on filming because he does not have the written permission of the Commissioner of Police to carry on. What is happening there on the cricket pitch, is that somebody is being placed in the lawful custody of the Police, and because the television cameraman does not have written permission from the Commissioner he is not allowed to carry on filming a particular scene, never mind publishing it. The Pressmen are also not allowed to take photographs unless they have received written permission from the Commissioner of Police in advance. That is a fairly harmless example. If we take a more serious situation, for example, if there is industrial or urban unrest&#x2014;as we have often had over the past few months&#x2014;with hundreds of people milling around and with policemen on the scene, and they arrest someone and place him in their custody, the position is the same. Unless the cameraman or the photographer has written permission from the Commissioner of Police, he is not allowed to carry on filming. He is not allowed to take shots with his camera of that particular scene. Now, we have over the last few months seen numerous television films during our news programmes of the clashes which the British police have had with the supporters of Arthur Scargill, and the mine workers&#x2019; unions.</p>
+
+<p>We have had it on a daily basis when there were pitched battles going on. We find ourselves in the situation where we in our country are allowed to see &#x2026;</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Oh, please! Do not be childish.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>&#x2026; incidents of that kind&#x2014;and it is important for the public to see them&#x2014;while this legislation prevents us from seeing what happens inside our country unless the material involved goes through the chief censor who, in terms of this section, is the Commissioner of Police.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>That is nonsense. That is not provided for in this Bill and you know it.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>I shall read the relevant section in the legislation to the hon the Minister and, if he can give me any other interpretation, I will be happy:</p>
+
+<block name="quote">Any person who, without the written authority of the Commissioner&#x2014;<br/>(a) makes a &#x2026; photograph &#x2026;</block>
+
+<p>That now includes television:</p>
+
+<block name="quote">&#x2026; of any person who is &#x2026; detained in lawful custody &#x2026;<br/>before the court proceedings start, commits an offence.</block>
+
+<p>Through this Bill we place ourselves in the situation where we say to the Commissioner of Police: &#x201C;We give you the authority to decide whether we, the public, are entitled to see the unrest that occurred in a township, are entitled to see soccer unrest. You have the authority to decide whether or not we are allowed to see that.&#x201D; I do not think that the hon the Minister can dispute that, unless written permission is given to the television camera man, he is not even entitled to film such a scene. The overseas television crew is there and probably on the very same night the scene in the soccer stadium or the scene of urban unrest will be shown in the outside world, but we in South Africa are not allowed to see it because it is a contravention of <span class="col_457-458" refersTo="page_0273"/>the Act to film such a scene without written permission.</p>
+
+<p>Let us just look at how this Bill arose. That gives an indication of the unnecessary sledgehammer tactic which is being used. It arose from the Gerhardt case, the man who was charged with treason. On 15 June 1983 the Defence Force holds a Press conference. It invites Pressmen and television crews and hands out a photograph of Gerhardt at that Press conference. The next night at 8 o&#x2019;clock SATV makes use of that photograph. Since the Defence Force dished out that photograph at the Press conference, it clearly could not see itself being prejudiced by the publication of it. After its publication the Minister&#x2019;s department says: &#x201C;You have committed an offence because you published that photograph without the Commissioner&#x2019;s permission.&#x201D; That is how this Bill arose.</p>
+
+<p>The hon the Minister should explain to me, on the basis of that one simple case, where the prejudice lies with the publication of such material. This Bill and the principal Act of 1977, which we opposed at the time, put awesome powers into the hands of the Commissioner of Police. He decides whether or not the Press or television can &#x2026;</p>
+
+</speech>
+
+<speech by="#cuyler">
+
+<from>*Mr <person refersTo="hansard_za">W J CUYLER</person>:</from>
+
+<p>Mr Chairman, on a further point of order: The principle of the powers being vested in the Commissioner is laid down in section 27A of the Act of 1977. The hon member keeps coming back to the particular principle and trying to discuss this all over again. With respect, Sir, that matter is closed. All that this Bill deals with is the extension of the Commissioner&#x2019;s authority, which covers all media, to include television. It is therefore not permissible, with all due respect, for this hon member to argue the principle concerning the Act.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! As I understand the position, the Bill which is now under discussion is intended, as the hon member for Roodepoort has said, to extend the implementation of the principle&#x2014; one which has already been laid down in the original Act. As I understand the hon member for Durban Central, he is now arguing against the extension of the implementation of the principle to include television broadcasts. I can therefore not disallow a discussion of the principle in so far as this Bill relates to it. The hon member may continue.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Mr Chairman, it is no use saying: Why complain? All you need is written permission from the Commissioner of Police. Stale news is no news. By the time a television crew which has filmed a particular scene of someone being arrested has had that film developed and then submitted to the Commissioner of Police in order to get written authority for publication, the news is already stale and no longer worth screening. In any event, if that film was made of an arrest, then&#x2014;I pointed this out earlier&#x2014;the television services have probably already committed an offence by making the film without having a permit to do so.</p>
+
+<p>The argument that we advanced when we opposed this Bill in 1977 is as valid now as it was then because this Bill complicates even further the mine field over which our media have to pass before publication. The public has a right to know what is happening in the country without the big Censor stepping in first. We therefore cannot approve of the extension of the censor&#x2019;s power&#x2014;the censor being, in this case, the Commissioner of Police&#x2014;over television as well, even though SATV meekly said after this court case: &#x201C;We will abide by the law even if it does not prescribe any limitations to us.&#x201D; I believe that the television services are obliged to keep us informed of any developments in South Africa; and I think that the sooner it brings us as up to date as overseas viewers are as to what is happening in the country, the better for us.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>Hear, hear!</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>This particular Bill will give them justification for lagging behind and for not publishing that which ought to be published.</p>
+
+<p>We will therefore oppose the Bill&#x2014;we made our point clear in the Standing Committee&#x2014;just as we opposed it in 1977.</p>
+
+</speech>
+
+<speech by="#cuyler">
+
+<from>*Mr <person refersTo="hansard_za">W J CUYLER</person>:</from>
+
+<p>Mr Chairman, by way of commencement I should just like to say that this hon member&#x2019;s standpoint is not new to us. It is a standpoint Mr Cadman argued practically verbatim in 1977. As a lawyer, <span class="col_459-460" refersTo="page_0274"/>this hon colleague of mine ought to do much better than that.</p>
+
+<p>If one looks at section 27(A) one can see that it expressly states that:</p>
+
+<ol>
+
+<li>(1) Any person who, without the written authority of the Commissioner&#x2014;
+
+<ol>
+
+<li>(a) makes a sketch or takes a photograph of any person who is, with a view to criminal proceedings, detained in lawful custody &#x2026;</li>
+
+</ol></li>
+
+</ol>
+
+<p>There are therefore various qualifications in this particular section. It is not an absolute prohibition. I would suggest that that principle, which is entrenched and which grants the Commissioner certain powers, remain a principle and remain fixed as a principle. That principle cannot be extended, as was argued by my hon friend. A principle remains a principle. It is in fact the implementation of that principle that is being extended by way of this particular section. I would therefore suggest that this hon member&#x2019;s whole argument in that regard is futile, and that he is really playing to the gallery.</p>
+
+<p>I should like to refer him, <i>inter alia,</i> to rulings that have stood the test of time and which very clearly set out the principle of an absolute prohibition and a quasi-prohibition. I should like to refer him to the case of <i>S Smith, 1965 (4) SA,</i> as well as the recent ruling in the case of <i>S Abrahams, 1983 (1)</i> <i>SA</i>, <i>137 et seq.</i> If one looks at this particular section, and at the entire Act, if all the various qualifications are taken into account, there is no question of an absolute prohibition. Those hon members so often get carried away in the case of legislation of this nature.</p>
+
+<p>In the Third Edition of De Wet and Swanepoel&#x2019;s <i>Strafreg,</i> on page 140 <i>et seq,</i> it is clearly indicated that any accused who comes forward with a reasonable explanation acquits himself of such onus on a balance of probability. In this regard I wish to quote from that particular work. De Wet and Swanepoel state very clearly:</p>
+
+<block name="quote">Die wetgewer is natuurlik op sy terrein almagtig en kan absolute verbiedinge uitvaardig as hy wil. As die wetgewer sulke absolute verbiedinge sou uitvaardig sou &#x2019;n mens nie kan s&#x00E8; dat di&#x00E9; wette kragteloos is nie omdat die skuldbeginsel verontagsaam is nie. Die beswaar teen hierdie leerstuk van absolute verbiedinge is dat die howe al te geredelik absolute verbiedinge in wette ontdek.</block>
+
+<p>It is almost like that hon member. I quote further:</p>
+
+<block name="quote">Voordat &#x2019;n verbod egter as &#x2019;n absolute verbod beskou word moet daar &#x2019;n sterk aanduiding wees dat die wetgewer in die besondere wet van die skuldbeginsel wou afwyk.</block>
+
+<p>I would respectfully suggest that there is no indication in this particular legislation that with all the qualifications in terms of section 27, and the rest of the legislation read in conjunction with that, the legislator wishes to establish an absolute prohibition. Those qualifications clearly qualify the position.</p>
+
+<p>There are various aspects of the legislation that are very important. As I have already mentioned, these amendments expand on what the Commissioner may in fact do. The unjustifiable advantage enjoyed by television and video as media are hereby eliminated. This principle is therefore being extended and also being made applicable to those media. Those hon members object to that. The purpose is not to prohibit absolutely the making, sketching or publishing of a photograph of persons who have been taken into custody. It is aimed, <i>inter alia,</i> at preventing the investigation of a case from being ruined.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>*Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Mr Chairman, may I ask the hon member a question?</p>
+
+</speech>
+
+<speech by="#cuyler">
+
+<from>*Mr <person refersTo="hansard_za">W J CUYLER</person>:</from>
+
+<p>No, I am making my speech now. For example, in such a case the accused may not yet have been identified, or it may be necessary to hold an identity parade. The evidence of the witnesses, which may be of the utmost importance, could be prejudiced. There are many other reasons as well. The person may perhaps be completely innocent, whilst photographs of him are placed in newspapers or in other media, even before there is any question of a conviction. His next of kin and everyone else who may be affected, could also be prejudiced. Those hon members are not interested in giving that kind of protection, however. It is <span class="col_461-462" refersTo="page_0275"/>therefore only a temporary prohibition applicable to publication. It is necessary to have this kind of legislation to ensure that the activities of the police are not prejudiced and that the work of our courts is not made difficult in cases where it is really necessary. This points to equable action by our courts and our legal system, and I take pleasure in supporting the legislation.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, on a point of order: I submit that this matter is not properly before the House. The reason why it is not properly before the House, is because the Order of the Day refers to the resumption of the Second Reading debate in regard to the Police Amendment Bill. It was also announced as the resumption of the Second Reading debate. It cannot be the resumption of the Second Reading debate because the Second Reading debate has not started. In terms of the rules &#x201C;there shall be no debate in the joint sitting&#x201D;. Therefore what we had in the joint sitting was not the Second Reading debate, and therefore we cannot resume a thing which we have not started and this is therefore actually wrong on the Order Paper. This is actually the Second Reading debate and we cannot be resuming the debate on a thing which has never started. With great respect, the whole of this Order Paper is wrong, because one cannot resume a thing unless one has started something; and we have not started it because we are not allowed to start in the Second Reading. Therefore this is not the resumption of the Second Reading debate in respect to this Bill. I ask you to rule, Sir, that this item 4 is in fact not properly before the House, because one cannot resume something that one has not started.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>In terms of the rules, the Bill must be moved in the joint sitting, and this has happened.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>I am sorry to interrupt you, Sir, but the moving of the Bill was in this sitting; it was not in the joint sitting. The speech was in this sitting.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The Minister delivered his Second Reading speech at the joint sitting and the Second Reading was moved there, but we are now debating the Bill in this sitting. My ruling is that the matter is properly before the House.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, I must accept your ruling, but would you like to tell me how one can resume something which one has not started?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The position is that the matter was in fact started in the joint sitting and has now been resumed in this sitting.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, your ruling is that the debate was started in the joint sitting, but rule 6 says: &#x201C;There shall be no debate in a joint sitting.&#x201D; So how could it have started if we are not allowed to have it there?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The Minister&#x2019;s Second Reading speech was the actual beginning of the debate.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>Mr Chairman, it is clear to me that when the second reading debate is resumed, the hon member for Yeoville is going to make a very substantial contribution. That is why he is so anxiously requesting that the debate should not be continued today.</p>
+
+<p>Allow me at the commencement of my contribution to thank the hon the Minister of Law and Order most sincerely for the copies of the Second Reading speech he gave me. I have five copies of the Second Reading speech of the hon the Minister, and this just goes to show how grateful the hon the Minister was to me for the opportunity I gave him. During the debate at the time of the joint sitting I addressed a friendly request that we should be provided with copies of Second Reading speeches. The hon the Minister has done so now, and we are grateful for this. Personally, however, I think he should be even more grateful to me that the debate I initiated about Second Reading speeches during the joint sitting was of such a nature that it gave the hon the Minister sufficient time during that lengthy debate to consider at his leisure the question the hon the member for Reservoir Hills in the House of Representatives wanted to put to him. I therefore think the hon the Minister should be very grateful to me.</p>
+
+<p><span class="col_463-464" refersTo="page_0276"/>When I addressed that request I did not have this particular amending Bill before us in mind, since we are aware that it is a short one. However, I wanted an arrangement that would assist us with regard to future Second Reading speeches held in joint sittings. This Bill only contained two short clauses, but it could have been a Bill of 40 or more clauses, and I think my request was a reasonable one. The fact that immediately after that we were provided with this Second Reading speech definitely confirms my point.</p>
+
+<p>As far as the Bill before us at present is concerned, we in the CP have no problems whatsoever with it. We support this amending Bill. I also just want to point out that despite the ruling of the Chairman with regard to debating the principle further&#x2014;this was raised by the hon member for Roodepoort&#x2014; the hon member for Durban Central went a little too far. After all, the principle concerned was approved and accepted then already, and although it could possibly be said that we are now extending the principle, I am not quite so sure that that is in fact what we are doing here now. I do not think we are extending the principle now.</p>
+
+<p>As far as I am concerned, the arguments raised by the hon member for Durban Central are precisely the same arguments that were raised in the debate of 1977 by the hon member for Sandton. The hon member for Durban Central has therefore really not added anything new whatsoever to those arguments. I can therefore not agree with his argument. As far as I am concerned, the present Bill aims at extending the prohibitions in terms of section 27(A) of the principal Act in such a way&#x2014;this is my own view&#x2014;that certain technical adjustments can be effected with regard to taking and publishing photographs, etc.</p>
+
+<p>As was argued at that time, that is the crux of the matter. These prohibitions were introduced after arguing the matter thoroughly and soundly. However, those are arguments I do not wish to repeat here now. Nevertheless, that, in a nutshell, is what was done at that time to prevent defeating the ends of justice. I believe that what I have just said is really the crux of the whole matter. We in the CP have no problem with the amendments being proposed here today. We therefore support the present measure.</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>Mr Chairman, we in the NRP will be supporting this measure. I do find it strange, however, that the Official Opposition, who always opt for fair play and justice, should here be defending and fighting for discrimination in favour of the Government medium of television, which, they contend, should benefit at the cost of the rest of the media.</p>
+
+<p>Quite clearly, Mr Chairman, it was never intended that the official Government medium of television should be given the opportunity of reporting news which is forbidden to the ordinary press. We believe that fair is fair. If there is therefore a provision in terms of which the press is forbidden to do something the same should also apply to television. We opposed the principle at the time. We were opposed to the principle and we voted against it. That principle, however, is now law, and we feel it is wrong that one sector of the public media should be forbidden to perform a certain activity, while another sector is not affected by that very same prohibition.</p>
+
+<p>The fact is that that other sector, because it is controlled by the Government, is presumably expected by hon members of the Official Opposition to give a much fairer representation of news events, a much better news coverage. It is evidently the attitude of hon members of the Official Opposition that television should therefore be allowed this type of advantage at the expense of the rest of the public media. We do not believe that that is correct. We do not believe it is just. It smacks of blatant discrimination, and we feel it is only correct that the legal situation should be rectified so that all sections of the media will be treated exactly the same.</p>
+
+<p>If we were, however, dealing with the principle of the legislation, we would of course have voted against it. Because that cannot be touched, however, and because it does not form part of this debate we will vote for its fair and even application to all sections of the media.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Mr Chairman, I cannot understand why the hon members have today suddenly become so sensitive about the provision of copies of Second Reading speeches. The hon member Mr Theunissen knows very well that it is the practice in this House&#x2014;in most cases <span class="col_465-466" refersTo="page_0277"/>at any rate and in so far as it is at all possible&#x2014;to provide all hon members who are the first speakers for their parties on the Opposition side with a copy of the speech concerned, as soon as a Minister rises to make his Second Reading speech. The hon member Mr Theunissen knows that this was also done today, despite the debate which was taking place in the House. It is always done as soon as the Minister rises to make his Second Reading speech. If there was somewhat of a delay today, one can understand it, because a joint sitting took place here, and one Second Reading speech after another was delivered. The truth of the matter is, however, that that copy, as well as other copies, were handed to the hon member. I should like to know with what purpose the hon member now is trying to disparage it. He is at present sitting there and making remarks about a so-called &#x201C;cover-up&#x201D;. [Interjections.] I should like to know what we are really trying to hide now. Can the hon member tell me what we were trying to hide by delivering a copy of the Second Reading speech to him a few minutes late? [Interjections.] Can the hon member tell me? What does the hon member wish to achieve with his remark about a &#x201C;cover-up&#x201D;?</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>You are tempting me to say.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member is sitting at the back there, making remarks like a real soap-box cowboy. [Interjections.] He is merely making childish remarks which contribute nothing to the debate. [Interjections.]</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Oh please, this bearded AWB man in front is just a nuisance. Earlier on today other hon members of the Official Opposition requested very well-meaningly that in future each member of the House should receive a copy of the Minister&#x2019;s Second Reading speech in advance. The matter was discussed and the Speaker ruled that it would be referred to the Committee on Standing Rules and Orders. The truth of the matter is, however, that it so happened today that my private secretary, in all good faith, did indeed send more than one copy to the hon member Mr Theunissen and other hon main speakers on the Opposition side. I think he sent four or five copies&#x2014;with the best intentions&#x2014;but that was also denigrated by the hon member. What does the hon member then have in mind? [Interjections.] No, these remarks are being flung around at random here. We should at least have some order. We are grown-ups here. If the hon member is sitting there making random remarks&#x2014;like a baboon on a rock&#x2014;for whom are they intended? [Interjections.] The hon member has made a fool of himself, and now he is feeling unhappy because he has been identified as such. I should like to place on record that the tradition of the House was continued in this case as well, that the required copies were sent to the hon members and that today more copies than is customary were made available. [Interjections.] Moreover I want to place on record that I will try to continue that practice in the House to the best of my ability. [Interjections.]</p>
+
+<p>I thank the hon member for Durban Point for his support of this Bill. The hon member is quite correct.</p>
+
+<p>&#x2020;The principle is not being disputed today. It is an extension of the principle that we are debating. The hon member for Durban Central, however, opposes the Bill because he maintains <i>inter alia</i> that the principle is again involved and that he and his party, the Official Opposition, are against the principle involved in this particular Bill. I respect the ruling in this instance, but I should like to point out to the hon member for Durban Central what is actually involved here. Section 27A of the Police Act, 1958, provides that:</p>
+
+<block name="quote">Any person who, without the written authority of a Commissioner&#x2014;(a) makes a sketch or takes a photograph of any person who is, with a view to criminal proceedings, detained in lawful custody or who is a fugitive after he has escaped from such custody.</block>
+
+<p>That has nothing to do with the filming of a riot situation. Why should our situation be <span class="col_467-468" refersTo="page_0278"/>compared with that in Britain? Why should it then be said that we are now having a form of censorship, compared with the British situation? [Interjections.] May I just complete my argument? I shall answer your question. As a lawyer the hon member knows that that is what is being provided for in the present provision of this Bill.</p>
+
+<p>There is no question of trying to cover up anything. There is no question of trying to prohibit the showing of a television film in South Africa of any particular situation that may have developed in South Africa. The only two elements of this provision are (a) somebody detained in lawful custody and (b) somebody who is a fugitive after he has escaped from such custody. This is all the provision is about, and the Bill before the House is an extension of that. If the hon member still wants to ask a question, he is welcome to ask it now.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Mr Chairman, may I ask the hon the Minister whether he concedes that as soon as somebody has been arrested in a riot situation, for example, and the television camera carries on filming without the written consent of the Commissioner, an offence is being committed?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>When a person has been arrested there, he is not yet being detained in lawful custody.</p>
+
+</speech>
+
+<speech by="#gastrow">
+
+<from>Mr <person refersTo="hansard_za">P H P GASTROW</person>:</from>
+
+<p>Of course he is.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, it is no use the hon member becoming excited the moment I start replying to his question. Surely the hon member knows at the moment when he has been arrested in the crowd, he is not yet being detained in terms of that specific clause. If the circumstances were to develop there that a person was arrested there and everything indicated that he was being detained in lawful custody as from then on, be it in a police van, or another vehicle, or temporarily in a building until such time as he could be transferred to a prison or to the police cells, it still depends on the circumstances whether he is in lawful custody or not.</p>
+
+<p>The hon member referred to a riot situation. In such riot situation people are arrested by the Police, and now photographs are prohibited and the events may not be televised either. That is merely the example quoted by the hon member, and I do not see that that is what actually is or was envisaged by the clause.</p>
+
+<p>I do not want to discuss the principle of the section concerned with the hon member any further. It was confirmed by the House in 1977. Surely the hon member does indeed know what is important here. It is in the interests of the accused, the interests of the accused&#x2019;s relatives and next-of-kin, and then also the question of what is in the interests of the administration of justice when it comes to identity parades.</p>
+
+<p>I want to confirm once again that it does not refer to incidents, but pertains to the detainee himself. We are dealing with an individual, not with censorship concerning the filming of incidents by way of television or otherwise. This is therefore merely an extension of the existing principle. A problem occurred when the court found that under certain circumstances it was not a photograph which had been taken, and the hon member referred to that. It is to rectify that deficiency which arose and in the interests of the parties I mentioned and in the interests of sound administration of justice that this amendment is before the House.</p>
+
+<p>Question put,</p>
+
+</speech>
+
+<p>Upon which the House divided:</p>
+
+<p>Ayes&#x2014;105: Aronson, T; Badenhorst, P J; Barnard, S P; Bartlett, G S; Botha, J C G; Botma, M C; Clase, P J; Coetsee, H J; Coetzer, H S; Conradie, F D; Cunningham, J H; De Beer, S J; De Jager, A M v A; De Pontes, P; Du Plessis, G C; Du Toit, J P; Fick, L H; Geldenhuys, B L; Golden, S G A; Hardingham, R W; Hartzenberg, F; Hayward, S A S; Heyns, J H; Hoon, J H; Hugo, P B B; Jordaan, A L; Kleynhans, J W; Kotz&#x00E9;, G J; Kriel, H J; Kritzinger, W T; Landman, W J; Le Grange, L; Lemmer, W A; Le Roux, D E T; Le Roux, F J; Ligthelm, N W; Louw, E v d M; Louw, M H; Malan, W C; Malherbe, G J; Marais, G; Marais, P G; Mar&#x00E9;, P L; Maree, M D; Meiring, J W H; Meyer, W D; Miller, R B; Munnik, L A P A; Niemann, J J; Nothnagel, A E; Odendaal, W A; Olivier, P J S; Page, B W <span class="col_469-470" refersTo="page_0279"/>B; Poggenpoel, D J; Pretorius, N J; Pretorius, P H; Raw, W V; Rencken, C R E; Rogers, PRC; Schoeman, H; Schoeman, J S; Schoeman, W J; Scholtz, E M; Schutte, D P A; Scott, D B; Simkin, C H W; Smit, H A; Swanepoel, K D; Terblanche, A J W P S; Terblanche, G P D; Theunissen, L M; Thompson, A G; Treurnicht, A P; Ungerer, J H B; Uys, C; Van den Berg, J C; Van der Linde, G J; Van der Merwe, G J; Van der Merwe, H D K; Van der Merwe, W L; Van Eeden, D S; Van Niekerk, A I; Van Staden, F A H; Van Vuuren, L M J; Van Wyk, J A; Van Zyl, J J B; Van Zyl, J G; Veldman, M H; Venter, A A; Venter, E H; Vermeulen, J A J; Vilonel, J J; Vlok, A J; Volker, V A; Watterson, D W; Weeber, A; Welgemoed, P J; Wentzel, J J G; Wright, A P.</p>
+
+<p>Tellers: J P I Blanch&#x00E9;, W J Cuyler, A Geldenhuys, C J Ligthelm, R P Meyer and L van der Watt.</p>
+
+<p>Noes&#x2014;17: Andrew, K M; Burrows, R; Cronj&#x00E9;, P C; Dalling, D J; Eglin, C W; Gastrow, P H P; Malcomess, D J N; Myburgh, P A; Olivier, N J J; Savage, A; Schwarz, H H; Soal, P G; Swart, R A F; Tarr, M A; Van Rensburg, H E J.</p>
+
+<p>Tellers: G B D McIntosh and A B Widman.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a Second Time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</debateSection>
+
+<debateSection name="#prisons_amendment_bill">
+
+<heading>PRISONS AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a Second Time.</block>
+
+<p>Briefly I just want to mention the following aspects: The Bill is primarily of a technical nature and deals with various matters such as the taking and publishing of photographs of prisoners and prisons, the appointment of temporary commissioned officers, the entering into of agreements with other governments in connection with the reciprocal detention of prisoners as well as the delegation of powers.</p>
+
+<p>&#x2020;As far as the taking and publishing of photographs are concerned, the Prisons Act stipulates that prisoners may only be photographed with the permission of the Commissioner, with the exception that such a photograph may also be taken during the prisoner&#x2019;s appearance at court as an accused in a criminal case.</p>
+
+<p>Photographs of prisoners may be published within 30 days after the date on which such prisoner was convicted or acquitted by court in respect of any charge against him. However, the Commissioner&#x2019;s permission must be acquired for the publishing of a photograph or sketch of such a prisoner after the expiration of 30 days. This principle is in accordance with the standard minimum rules for the treatment of prisoners, which were adopted by the United Nations and subscribed to by South Africa.</p>
+
+<p>Recent court decisions have however proved that the interpretation of &#x201C;photograph&#x201D; has not kept pace with technological development and as a result television transmissions are not included in the interpretation of the term &#x201C;photograph&#x201D;. In order to correct this discrepancy to the extent that the television service, as is the case with the rest of the media, is also subject to this Act regarding the taking and publishing of photographs, it is necessary to amend the Act.</p>
+
+<p>*As far as the appointment of temporary commissioned officers is concerned, section 4A of the Prisons Act makes provision for the appointment of members of the Prisons Service who are not commissioned officers, as temporary commissioned officers, but no provision is made for the promotion to a temporary higher rank of a member of the Prisons Service who has already been commissioned.</p>
+
+<p><span class="col_471-472" refersTo="page_0280"/>In practice the need sometimes arises to temporarily promote a commissioned officer who has to hold a temporary appointment under circumstances where he is, <i>inter alia,</i> in control of commissioned officers of equal rank.</p>
+
+<p>&#x2020;Foreigners often commit crimes in the Republic of South Africa for which sentences of imprisonment are imposed. Differences in language and culture, as well as the fact that such prisoners often do not have any friends or family in the Republic, give rise to problems for the Prisons Service as well as for the prisoner. In the same way, South African citizens are imprisoned for crimes committed abroad and the same problems regarding language and cultural differences are experienced in these cases.</p>
+
+<p>Section 30 of the Act authorizes that agreements may be entered into with states in Africa for the mutual detention of prisoners. It is necessary to amend the Act in order to extend this power as to include states outside Africa. The effect will then be that agreements may be entered into with any state to the extent that the citizens of countries with which such an agreement exists, and where such citizens do not have right of residence in the Republic, can be sent back to their own countries to serve their sentences and <i>vice versa</i> as far as South Africans who are imprisoned abroad are concerned.</p>
+
+<p>*This brings me to the delegation of powers. For the purpose of effective management, the 242 prisons throughout South Africa have been organized into 28 Prison Commands. A commanding officer with the rank of brigadier or colonel is in charge of such a command depending on its extent and size. In keeping with the philosophy of management by objectives, it should be possible to entrust certain powers to all commanding officers. However, delegation of powers to those commanding officers who hold the rank of colonel is prevented by section 93 of the Act, which stipulates that the Commissioner of Prisons may delegate powers which were delegated to him only to the level of brigadier. With a view to greater efficiency and since the level of colonel has since been updated as a result of a general inquiry undertaken by the Commission for Administration, it is desirable to make an amendment to the effect that these powers may be delegated to functionaries holding the rank of colonel.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr <person refersTo="hansard_za">D J DALLING</person>:</from>
+
+<p>Mr Chairman, the debate on this Bill should not last too long. The hon the Minister in his Second Reading speech, which is deemed to be a part of this debate according to your ruling, explained the provisions quite adequately. It is to be noted that this is a Bill which, when it went before the standing committee, suffered certain amendments which were achieved by the consent of all the members of that committee. In its new form this Bill has therefore dropped certain provisions, which does make it possible for this side of the House to support this legislation in its entirety.</p>
+
+<p>I should like briefly to mention clause 1 of the Bill which relates to the amendment of the definitions clause in connection with photographs and the publication thereof. In the Police Amendment Bill, which we have just completed debating, the PFP opposed an almost identical amendment, and the arguments to which I subscribe put forward by the hon member for Durban Central in support of such opposition, were clearly enunciated. These arguments are related to the unwelcome restriction placed by the legislation on the media in the covering of police activities. In our view that is an undesirable form of censorship. However, in regard to clause 1 of the Prisons Amendment Bill and in regard to the fact that prisoners are concerned here, the motivation for and the effect of the introduction of this particular extension to the definition of &#x201C;photograph&#x201D; and &#x201C;publication&#x201D; are quite different. The prohibition of the photographing of prisoners in particular and of the publication of those photographs has always primarily been intended to operate as a protection for prisoners, whether they be awaiting trial or convicted persons, and also as a protection for the families and especially the children of those prisoners.</p>
+
+<p>While I have always been in favour of the Press being allowed to report fully on newsworthy people or items, on balance the restriction as proposed in this clause and as it is founded in the 1977 Act, is not unreasonable, particularly taking into account the <span class="col_473-474" refersTo="page_0281"/>sensitivities of prisoners and those close to them. Accordingly, our attitude to this clause must be clearly distinguished from our stance on clause 1 of the Police Amendment Bill.</p>
+
+<p>As to the rest of the Bill, the hon the Minister will be relieved to hear that I do not intend debating the various clauses. The provisions are of an administrative nature and give rise to no objections. We will therefore support the Second Reading of this Bill.</p>
+
+</speech>
+
+<speech by="#schutte">
+
+<from>*Mr <person refersTo="hansard_za">D P A SCHUTTE</person>:</from>
+
+<p>Mr Chairman, I should like to thank the hon member for Sandton for his support. I do not intend setting out the principles either, since they have already been set out very clearly in the Second Reading speech, as well as in the Standing Committee. I should just like to avail myself of the opportunity to appeal to the hon the Minister possibly to consider broadening the definition of &#x201C;prisoner&#x201D;, as contained in the Prisons Act. This has a particular bearing on the definition of &#x201C;prisoner&#x201D; as it applies to section 44(l)(e). It concerns the prohibition on the publishing of photographs of prisoners without permission. Mr Chairman, as &#x201C;prisoner&#x201D; is defined at present, it only means a prisoner who is in custody, and not a prisoner who is a fugitive. A prisoner who has escaped is therefore not covered by this definition. A photograph of a prisoner who has escaped can therefore freely be published without any permission being necessary. This could be exploited to a very large degree, and I would suggest that this has been done on a large scale recently. In this regard I wish to mention the example of Allan Heyl. Allan Heyl is a man who was given a prison sentence of 15 years on five counts of robbery of banks and building societies. He had previously been convicted on two counts of robbery, three counts of theft and one count of housebreaking. If one adds all this together, it amounts to seven counts of robbery, three of theft and one of housebreaking. He is a hardened criminal.</p>
+
+<p>What has been happening recently, however? Recently he has largely been presented to the people of this country as a hero in the Press. There have been sensational reports on him, interviews have been conducted with him and he has been presented to us almost as a hero. I am convinced that in order to make those interviews with him overseas possible, he must have received compensation, which of course he uses to keep out of the clutches of the law.</p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr <person refersTo="hansard_za">D J DALLING</person>:</from>
+
+<p>Sir, I want to ask the hon member whether he does not think that it will be to the advantage of the preservation of law and the catching of criminals who are perhaps fleeing justice after having escaped, and to the advantage of the general good of the public, that the media be entitled to print those photographs and by so doing perhaps assist the police in their word?</p>
+
+</speech>
+
+<speech by="#schutte">
+
+<from>*Mr <person refersTo="hansard_za">D P A SCHUTTE</person>:</from>
+
+<p>Mr Chairman, I would be the first to concede that there is no easy solution and that is why I did not insist on it in the Standing Committee. That is also why I am asking the hon the Minister to investigate the matter, since in certain cases it is necessary that these persons be given publicity to assist in bringing them back to prison. In the case I am presenting to this House this man was presented as a hero and most probably he used this to his own advantage. This is a matter we must definitely bear in mind.</p>
+
+<p>I should also like to bring it to the hon the Minister&#x2019;s attention that there is a difference between the Police Act and the Prisons Act in respect of this matter. There is a similar prohibition in the Police Act which applies to a person who escapes from custody. Of course, that is when a person is in custody with a view to criminal proceedings. Therefore, in terms of the Police Act, if a person is in custody with a view to criminal proceedings and he escapes, almost the same prohibition as applies here applies then, and permission must be obtained for the publishing of his photograph. However, as I have already said, the same prohibition does not apply when a person is in custody after criminal proceedings and then escapes. I would suggest that there is no justification for the same prohibition not to apply. If a person is awaiting trial and he escapes, the prohibition applies, but if he escapes after he has been found guilty, the prohibition does not apply. I maintain that this situation may well give rise to abuse.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>Mr Chairman, the CP takes pleasure in supporting all the clauses of the Bill.</p>
+
+<p><span class="col_475-476" refersTo="page_0282"/>When one looks at clause 1, one sees that the proposed amendment is aimed at bringing about greater clarity with regard to the prohibition in section 44(1)(e) and (f) of the principal Act, viz in this case to include television recordings and broadcasts in the above-mentioned prohibition on the taking and publishing of photographs of certain prisoners and the funerals of convicted persons. This is not concerned with the principle which was included in legislation as far back as 1977, something that has already been pointed out. To us the proposed amendment merely looks like a clearer definition of the taking and publishing of photographs, and the CP therefore supports this clause and all the other clauses of the Bill. In his Second Reading speech the hon the Minister set out clearly and in full the object of each clause, and we thank him for this.</p>
+
+</speech>
+
+<speech by="#de_pontes">
+
+<from>*Mr <person refersTo="hansard_za">P DE PONTES</person>:</from>
+
+<p>Mr Chairman, I should like to thank the hon member Mr Theunissen for his support of this measure. I wish to associate myself with him by saying that clause 1 in particular greatly clarifies the situation with regard to the publication of photographs, in that the definition is being extended to include electronic technical transmission. Through this provision, SABC-TV is being placed under the same restriction as the rest of the media, and surely it is only fair that this should be the case. If one considers the scope of television transmissions, it is essential if one wishes the main purpose of the provision to succeed, viz to protect a prisoner, that the televising of images of a person should not be permitted, except in certain controlled cases.</p>
+
+<p>The rest of the Bill makes provision for the elimination of certain shortcomings that have appeared to be present in practice. These are of an administrative nature and were dealt with in detail by the members of the Standing Committee. They were unanimous that not only are these amendments necessary, but also desirable, and this side of the House therefore takes pleasure in supporting them.</p>
+
+</speech>
+
+<speech by="#rogers">
+
+<from>Mr <person refersTo="hansard_za">P R C ROGERS</person>:</from>
+
+<p>Mr Chairman, I would like to use this opportunity to thank the hon the Minister for arranging a visit to the prisons at King William&#x2019;s Town and East London during the recess for the hon member for East London City, other public representatives and myself. In particular I would like to thank Brig Botha of the headquarters staff for the way in which he conducted it and for the information he put at our disposal. In the same way I would, of course, also like to express my appreciation to the staff of the two prisons. Because it relates to a certain aspect of this Bill, I may just say in passing that that particular prison has embarked on the building of a new prison, using the prison population. I understand that by so doing the State will be saved an amount in the region of R7 million. It will take longer to erect, but the standard of the work and the saving is something very noteworthy. At the same time there is a slight negative effect inasmuch that that prison has very limited space available to it for farming activities and that the new prison will in fact occupy a very large portion of the available agricultural land. Seeing the prison is situated in what is largely considered to be an agricultural area, although the area is becoming industrialized as a result of the decentralization incentives, which the hon member for Walmer does not like, I think the hon the Minister should consider making additional land available for farming activities. The availability of land for farming activities has always been restricted, but this has become even more so.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Is the hon member talking about East London?</p>
+
+</speech>
+
+<speech by="#rogers">
+
+<from>Mr <person refersTo="hansard_za">P R C ROGERS</person>:</from>
+
+<p>East London in particular, yes.</p>
+
+<p>The Standing Committee, of which the hon member for Mossel Bay is chairman, was fortunate in getting off to an interesting start under his able and tolerant leadership. I have had the pleasure of serving on various Select Committees with the hon member and he seems to have the right touch to make the consensus machine work. As a result, as has already been mentioned by the hon member for Sandton, the amendment brought about the desired consensus.</p>
+
+<p>A point that came up particularly and specifically in relation to that amendment, was the question of accommodation for juvenile prisoners, particularly those unconvicted prisoners awaiting trial.</p>
+
+<p><span class="col_477-478" refersTo="page_0283"/>In supporting this Bill from these benches, I should like to say that this is an area that concerns us considerably. It is something that we must pay particular attention to, and in building programmes such as the one I have just mentioned, specific attention must be given to the provision of accommodation for that class of prisoner. This must be done in order to free the prison system in this country from the image of its always accommodating juveniles with older prisoners, and matters of that nature. The accommodation of juvenile prisoners is a very sensitive area and we should like to see particular attention given to it by the Prison Service. We shall be supporting this Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Mr Speaker, right at the outset I should like to say to the hon member for King William&#x2019;s Town that I agree with him of course. We should approach the incarceration of juveniles with sensitivity. When it becomes inevitable, the policy is to arrange their accommodation in such a way that they do not come into contact with stronger criminal influences. That is the situation. There are exceptions to this rule, but it is applied as far as possible.</p>
+
+<p>As a phenomenon, the imprisonment of juveniles has become a matter for concern. It is a matter for concern for the entire society that it should become necessary for juveniles to be incarcerated at all. Therefore I think it was a wise word spoken timeously, and undoubtedly the hon member will bear in mind that we have commented at length and rather elaborately on certain newspaper reports after a report on this matter by some criminologists had reached the outside world. We were given ample opportunity by a particular newspaper, <i>The Argus,</i> comment on that report which really put the matter in a new perspective. I should like to use this opportunity to thank that newspaper and its editor.</p>
+
+<p>The hon member has also referred to the matter of a larger farming area for the East London prison. The situation is that the Prison Department is one of the departments that has decentralized its activities to a large extent. This includes its activities in providing food and agricultural produce as far as possible from own resources. We try as far as possible to maintain a balance between private interests and the ability of the Prison Service to be self-sufficient. At the same time we have established a farming project at J C Steyn near Kirkwood which is quite a large operation. It concentrates on protein-rich products like meat. We also have a farming project at St Albans producing mostly vegetables in season. At the moment our funds are limited and we are also being pressed as of necessity to expand farming operations elsewhere. At the same time, as I have said, we must try to maintain a balance between the interests of the private sector and the ability of the Prison Service to be self-sufficient.</p>
+
+<p>*I want to continue dealing with hon members&#x2019; contributions, starting with those who spoke last. I want to thank the hon member for East London City for his support. His interest in penal matters is truly of significance to us. The trouble he and the hon member for King William&#x2019;s Town took, during the recess, to familiarize themselves with prison conditions in their areas and elsewhere is very greatly appreciated.</p>
+
+<p>The hon member Mr Theunissen is likewise a good supporter of the Prisons Service and understands it. I do not think I can elaborate on that any further.</p>
+
+<p>This brings me to the hon member Mr Schutte. He is a resourceful member. I was really expecting the hon member Mr Schutte to give me the answer, but all he offered me was a problem. I do not think that is fair. If an hon member who is as well-equipped&#x2014; mentally and otherwise&#x2014;as the hon member Mr Schutte presents one with a problem, he should at one and the same time offer the solution. That would make our work so much easier. In any event, the fact remains that prisoners of whom a photograph may not be published after 30 days, etc, enjoy that protection for the sake of their families, as the hon member for Sandton also indicated. If that prisoner escapes, surely he is not still entitled to that protection. Now we are speaking merely from the point of view of protection for the sake of the prisoner and his family. As a result of his actions he has made himself public property. As a consequence that underlying principle falls away.</p>
+
+<p>The hon member also advanced another reason, which is that such a person could use the photograph for gain, or indeed eventually <span class="col_479-480" refersTo="page_0284"/>develop an heroic image in the Press. The hon member will concede at once that this does not frequently happen. It is only once in a lifetime that one comes across a Stander, a Heyl, etc. That does not happen very often. We must therefore weigh this up against the other benefits. Without having to refer matters back, every now and then, to the Commissioner of Prisons who, in exceptional circumstances, may grant permission for the publication of such a photograph, the Press may proceed with the publication of photographs after it has become known that a dangerous individual has escaped. The Police are primarily responsible for tracking such people down, and you can imagine, Sir, how this would be hampered by having to ask the Commissioner every now and then whether they may publish or release this or that. It could be that a prisoner escapes in the middle of the night and that we want this fact published nation-wide the following morning. It could be that the Commissioner, someone delegated by him or whoever, is not available at that specific moment, although in the Prisons Service this is not very likely. It is perhaps not a good example. The Commissioner and his people are always available. I am now thinking, however, of the infinitesimal percentage of instances in which this may happen. It simply must not happen. I therefore think that the hon member should bear in mind the practical consideration that the fact that someone has escaped must be made public quickly and efficiently. The hon member nevertheless does have something there. It is a question of the possible abuse committed by such a person in presenting his life story for publication or, particularly in this case, a photograph of himself. Let me acknowledge, though, that the hon member is right in the sense that there is a small grey area here that we can, in fact, have a look at, but the general background I have now sketched embodies the initial reason why no specific provision was made here, too, for prohibiting the publication of a person&#x2019;s photograph whilst he is a fugitive.</p>
+
+<p>&#x2020;That brings me to the hon member for Sandton. As I understood him, he argued that the clause in the Police Bill containing the definition of &#x201C;photo&#x201D; is exactly the same as the clause in the Prison Bill containing the definition of &#x201C;photo&#x201D;. The hon member has thus proved that it is possible for a Member of Parliament to contradict himself within five minutes. [Interjections.] Nevertheless, we appreciate the swift change in attitude because that entails support for this Bill.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#valuers_amendment_bill">
+
+<heading>VALUERS&#x2019; AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_public_works">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>The Valuers&#x2019; Act of 1982 makes provision for the establishment of a South African Council for Valuers responsible for the registration of valuers, associated valuers and valuers in training. In order to be registered as a valuer or associated valuer a person must, amongst other things, have the academic qualifications and the practical experience in property valuation determined by the council. In the case of a valuer in training the Act provides that he may only perform work in property valuation under the supervision and control of a valuer.</p>
+
+<p>The South African Council for Valuers has requested that the Act be amended to enable a valuer in training to perform work in property valuation under the supervision and control of an associated valuer as well. If one considers that there are already 923 registered associated valuers, as opposed to 580 valuers, this is a very reasonable and logical request which I think should be acceded to.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Chairman, in the first place, since this is the first Bill presented by the hon the Minister in his capacity as Minister of Communications and of Public Works&#x2014;he has added Public Works to what was previously his portfolio of Post and Telecommunications&#x2014;we wish the hon the Minister well with the additional task that now rests upon his shoulders, and with <span class="col_481-482" refersTo="page_0285"/>his great responsibility with regard to this vast task within the State machinery.</p>
+
+<p>The Bill before us, I am happy to tell the hon the Minister, will be supported by the official Opposition.</p>
+
+<p>We are dealing here with valuers, and valuers play a most important part in the economy of South Africa. It is not only a question of the valuations they make but also of the effects of their valuations, which have far-reaching consequences. For instance, valuations are placed before arbitration boards when there is expropriation and there are disputes; valuations can be placed before courts of law, and a test of a valuation in respect of a final judgment may well involve millions and millions of rand. We therefore regard this as a most important matter.</p>
+
+<p>As the Minister is well aware, sections 13, 14 and 15 of the Act itself respectively make provision for a valuer as such, an associated valuer and a valuer in training. The SA Council for Valuers is able to handle the registration, but there are so many different types of categories of valuers. One thinks particularly of the associated valuers who are confined to certain aspects of valuation. There are also municipal valuers, property valuers, industrial valuers, farm valuers and so on. That being so, valuers, in order to qualify finally, require a national certificate which can only be obtained after three years of training. They are then fully qualified and become registered with the SA Council for Valuers.</p>
+
+<p>What the Bill purports to do is to provide that the valuer in training may work under the supervision of not only a valuer, but also an associated valuer. It is quite clear from the figures quoted by the hon the Minister&#x2014; there are 923 associated valuers as against 580 valuers&#x2014;that there are not enough valuers as such to go round. One would imagine that in the outlying districts of the country there are not enough valuers, and so we have to make provision for the associated valuers to do the necessary work that is prescribed. That being so, and also because the Institute itself has requested this, we will support the Second Reading.</p>
+
+</speech>
+
+<speech by="#coetzer">
+
+<from>*Mr <person refersTo="hansard_za">H S COETZER</person>:</from>
+
+<p>Mr Chairman, the Valuers&#x2019; Act, 1982&#x2014;Act No 23 of 1982-permits valuers and associated valuers to perform work in property valuation. A valuer is someone who has been registered as a valuer in terms of section 13 of the Act, whilst an associated valuer is someone who has been registered as an associated valuer in terms of section 14 of the Act. There are various requirements with regard to personal characteristics, such as age&#x2014;qualifications and experience of work in property valuation&#x2014;high standards, therefore&#x2014;for registration in terms of the various sections. At present the Act permits a valuer in training&#x2014;someone who has been registered as such in terms of section 15 of the Act&#x2014;to perform work in property valuation subject to the restrictions and conditions regarding, <i>inter alia,</i> the supervision and control of a valuer, which the South African Council for Valuers determines in each case.</p>
+
+<p>The South African Council for Valuers has requested that the Act be amended to enable a valuer in training to perform work in property valuation under the supervision and control of an associated valuer as well. If one considers that at present there are already 923 registered associated valuers, as opposed to 580 valuers, this is a very reasonable request. I should also like to recommend it.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, I should like to associate myself with the hon member for Hillbrow in congratulating the hon the Minister on the addition of this important portfolio to his work load. May he be very successful and may he also be very happy.</p>
+
+<p>Of course, it is not necessary for me to reply to the contribution of the hon member for East London North, since he was merely making a bit of fun of the procedure of this House by reading the memorandum about the objects of this amending Bill to the House. I think that was really going too far and quite unacceptable.</p>
+
+<p>The CP is prepared to support this Bill, but we do have one problem with it. To a certain extent it is incomprehensible&#x2014;this is from the 1982 Act&#x2014;why there have to be valuers, associated valuers, as well as valuers in training. The basic difference between a valuer and an associated valuer is that an associated valuer is a little younger. He must be at least 35 years old and have at least five years&#x2019; experience. The valuer must be atleast <span class="col_483-484" refersTo="page_0286"/>45 years old and have at least 15 years&#x2019; experience. It is so unnecessary to have differences of this nature between these two categories. They both have to write an examination, and both have to comply with the requirements of the Council for Valuers. Why can there not be only one category of valuers who write one particular exam on the same basis as an attorney, for example, falls under another attorney and undergoes training, is trained and then qualifies? Why must these things always be exacerbated further due to so much red tape? Nevertheless, we support the Second Reading of this Bill.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Mr Chairman, I too should like to associate myself with the previous hon members and convey my best wishes to the hon the Minister. I think he is a singularly fortunate gentleman. He must have a certain amount of pride in taking over this ministry, particularly at this time when the Department of Public Works has been responsible for quite a remarkable achievement, namely the completion of the facilities in the parliamentary complex in time for the new dispensation to come into effect. I visited Cape Town on a number of occasions during the recess and I think it says much for the gentlemen of that department for the dedication they showed at all times, and the tremendous enthusiasm they displayed in getting us to the stage where we are now. Quite frankly, two weeks before the opening of this session it looked almost hopeless, and then miraculously, almost overnight, everything seemed to fall into place. I commend the hon the Minister&#x2019;s department. I think he has certainly taken over something which is well worth having under his wing.</p>
+
+<p>In regard to the Bill, I merely wish to point out that the most important aspect as far as I am concerned is the fact that this is something that has been asked for by the professional body which governs the valuers in South Africa. I believe that is the most important thing that we should look at when we consider measures before this House. We have a trilogy of Bills before us this evening, and in respect of each one of them that comment applies. When the governing or professional bodies look at their own rules and regulations and at the rules of the Acts of Parliament that control them and when they come to a Ministry and, for the betterment of their conditions, they request the sort of thing that we have before us today, it would be foolhardy of us in the extreme to be churlish about it and to start nitpicking.</p>
+
+<p>We have much pleasure in supporting the measure before us.</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>Mr Chairman, I should like to thank the hon members for Hillbrow, East London North, Brakpan and Umhlanga for their support. I have had the exceptional experience of piloting the legislation through the House of Delegates this afternoon, and I must say that the debating style in that House is totally different to the style adopted here. Without detracting from my colleagues in this House, I want to mention that what I learned there was that if one agrees with something, one merely says so, and that is enough. Over the years we have developed an inclination to explain why we agree with something, and then we make longer speeches than the Second Reading speech. I do not wish to be critical; all I am saying is that I found on the other side that one speaker spoke for about two minutes and that the Opposition chief spokesman stated that he associated himself with the Second Reading speech. Perhaps this is something we could do to save a little time.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Would you like us to adjourn tomorrow?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I do not say this with malicious intent. I am merely saying that we in this House have developed a style because we like to talk. I am merely mentioning this here; there is no getting away from it.</p>
+
+<p>&#x2020;I want to thank the hon member for Hillbrow for his very friendly words about my taking up this post, as well as for what he said about the valuers and the way in which he praised them. They are a very important group of people.</p>
+
+<p>*What the hon member for East London North in fact did was to bring the aims of the Bill to our attention and to have them recorded in Hansard. I think that is very important. The fact that he quoted from the <span class="col_485-486" refersTo="page_0287"/>memorandum shows that it can at least serve as a good introduction.</p>
+
+<p>I want to thank the hon member for Brakpan for his congratulations. Perhaps I should tell him very briefly what the motivation for the Bill is. It is a very easy-to-understand reason: The valuer himself has a wider knowledge. He values farms, among other things; he has been trained to do so. The associated valuer, on the other hand&#x2014;they can be compared with certain colleagues of the hon member for Brakpan&#x2014;probably practises on the platteland. They concentrate on valuing farms; they have no time for the other things. Therefore they are in no way inferior; they merely specialize in one direction, and that is the type of work they do. Anyone who works for, say, an attorney or an agent, can approach him for training and then he is a training-associated valuer.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>In fact, he values for the State. That of course, is cheaper.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Yes, that may be so. However, what really happens is that the associated valuer does not want to cover the wider field and undergo the longer training. However, the other man has written other examinations and therefore specializes in certain specific fields. The reason advanced by the hon member is in fact a very good one. However, the association in question also asked for this, and I take it that they do have a fair idea of what is going on in their undertaking.</p>
+
+<p>&#x2020;I also want to thank the hon member for Umhlanga for his contribution. I am sure we will be able to discuss this matter again when this Vote is debated here in the House later in the session.</p>
+
+<p>A magnificent job of work has been done here. Therefore I can only say that it is wonderful to take over a department such as this one, although, I must add, I have aged somewhat in the past few months because we had a setback and in spite of that we had to complete our work. This was requested, as the hon member pointed out, by a professional body, and I believe one should take a tip from them.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#architects_amendment_bill">
+
+<heading>ARCHITECTS&#x2019; AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<summary><i>(Introductory Speech delivered at Joint Sitting on 4 February)</i></summary>
+
+<speech by="#minister_of_public_works">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>The registration of architects and control over the architects&#x2019; profession are regulated by the Architects&#x2019; Act of 1970. The amendments proposed in the Bill concern, firstly, the carrying on of the architects&#x2019; profession by a company. The Act contains certain restrictions, the most important of which is that except for certain exemptions, only registered architects may be members and shareholders of such a company. Mainly due to action by the Competition Board, doubts have arisen as to the advisability of restricting companies which operate in the architectural field in this way. The Bill we are discussing aims firstly at lifting these restrictions and consequently allowing architects to practise in any form of association and leaving the decision as to the manner of such association to architects.</p>
+
+<p>A further important aspect regulated by the Bill is the extension of the powers of a board of control. The Act makes provision for the establishment of boards of control for persons who perform work related or allied to work reserved for architects. The draughtsman&#x2019;s profession is an example of such work. The existing provisions regulating the establishment and control of boards of control have certain shortcomings, however, the most important of which I want to mention.</p>
+
+<p>In the first instance, a board of control, as provided for in the existing Act, is not a juristic person. Because such a board of control must be in a position to own fixed property <span class="col_487-488" refersTo="page_0288"/>and to act as a claimant and defendant in a court of law, this shortcoming is remedied by the Bill.</p>
+
+<p>Secondly, no provision has been made for the funds of such a board of control. The measures being proposed in this regard already apply in respect of boards of control that can be established in terms of the Professional Engineers&#x2019; Act and have stood the test of time.</p>
+
+<p>Finally, the Bill provides for the repeal of the principal Act in so far as it is applicable to South West Africa. That territory now has its own legislation in this regard, and the Architects&#x2019; Act of 1970 no longer applies.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#widman">
+
+<from>Mr <person refersTo="hansard_za">A B WIDMAN</person>:</from>
+
+<p>Mr Chairman, we in the Official Opposition will be supporting this measure. There is, however, one query which I should like to raise with the hon the Minister, but I shall come to that in a moment. It is regrettable that the board has not been a little more active in other spheres, and it has only chosen the architects, which is of course the reason why this amendment has become necessary. This will, however, enable architects to form companies. Since they want to do this, we will obviously not oppose it.</p>
+
+<p>It is, of course, also possible for them to act in terms of the Close Corporations Act, and I believe they will probably try to do so. In a case in which they are associated in a company, however, in which non-professional people are included as well, I am sure the public would require protection in the form of a proper code of conduct for architects. One could therefore assume that the rules applicable to professional architects will also apply to all architects who are also associated in their companies with non-professional people.</p>
+
+<p>The second matter regarding the board is, of course, the insertion of a provision making the board a juristic person. In this way of course the board will really be given teeth. We have no quarrel with that at all. It makes perfect sense.</p>
+
+<p>One query, however, I should like to raise with the hon the Minister. This is in respect of clause 6 of the Bill, which amends section 31B of the principal Act. Subsection (13), on page 6, reads as follows:</p>
+
+<block name="quote">No decision taken by a board of control or act performed under the authority of a board of control shall be invalid by reason only of a vacancy on a board of control or of the fact that a person who was not entitled to sit as a member of a board of control, sat as a member at the time when the decision was taken or the act was authorized, if the decision was taken or the act was authorized by the requisite majority of the members of board of control who were present at the time and entitled to sit as members.</block>
+
+<p>One does get the impression, when reading this, that we are here trying to rectify a mistake made in the past. I do accept that this has a bearing on an occasion at which the vote was taken in the proper manner and that the person who was not authorized to sit did not in fact vote. That is not the point, however. The point is that people who should not have been present were indeed present. I wonder therefore why in this and in the next clause we are now legislating in favour of that.</p>
+
+</speech>
+
+<speech by="#van_vuuren">
+
+<from>*Mr <person refersTo="hansard_za">L M J VAN VUUREN</person>:</from>
+
+<p>Mr Chairman, the hon member for Hillbrow has a problem with the definition of the powers of the control board. Read in conjunction with the principal Act as a whole, however, this clause in the Bill is only aimed at establishing a body of control for the &#x201C;architectural draughtsmen&#x201D;; a body of control with the same object and powers as that of the architects themselves. The wording of the clause to which the hon member for Hillbrow objects is precisely the same as the corresponding provision relating to the architects&#x2019; board of control.</p>
+
+<p>I had worked out an excellent speech in which I wanted to say how I agreed with this legislation. However, in his speech during the discussion of the previous piece of legislation the hon the Minister cut the ground from under our feet, so to speak. However, I do want to point out that in the discussions of the Select Committee that preceded the acceptance of the original legislation of 1970&#x2014;that select committee was chaired by the late Mr G P C Bezuidenhout, the then member for Brakpan&#x2014;an intensive debate took place on this aspect of the &#x201C;architectural draughtsmen&#x201D;. In the end they were unable <span class="col_489-490" refersTo="page_0289"/>to reach consensus on the matter, so much so that space was left in the 1970 Act to make provision for the draughtsmen. This is now being rectified in terms of this amending Bill. I think that this will be considerably to the advantage of the draughtsmen and will satisfy them. With these few words I should like to support the Bill.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>Mr Chairman, this Bill contains amendments which I am not sure will benefit the draughtsmen, in particular. The fact that the board now wants to determin who does an architect&#x2019;s work, or what work falls to the architect, will mean that the ordinary draughter of plans will be restricted because the architects&#x2019; board will now determine who may do the work of an architect. This could give rise to a major problem. It has often happened that in municipal areas where the ordinary householder is unable to afford an architect, a draughter of plans draughts a house plan for him. This means that he does good work for the home-owner at a reduced amount. If a draughtsman is now classified under the work of an architect he will be obliged to impose certain additional levies for his work.</p>
+
+<p>We therefore wish to caution that we believe that there must be control, but that this is not comparable with the laws which used to apply to engineers. An engineer&#x2019;s work is something different. It is not paperwork; it is construction work. Major problems could arise here with people who are not fully trained. A change of plan is perused by a municipality&#x2019;s inspectors. If there is a minor error they can iron it out.</p>
+
+<p>We do not wish to cause problems for the hon the Minister in this regard. I think it is necessary that there should be an Architects&#x2019; Board, but there are nevertheless certain problems. In the first place, an architect usually acts as arbiter in a case between a builder and his client. As a shareholder the architect may be on the contractor&#x2019;s side, or, if he goes along with the client, then he cannot be a good arbiter in such a case. For that reason, I think that although we support this legislation it will not prove to be problem-free in future.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>*Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Mr Chairman, I should like the hon the Minister to feel a little happy before he goes home this evening. We agree with this amending Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>Mr Chairman, I wish to convey my thanks to the hon members who have participated. Many thanks for their friendly words concerning the new post I now occupy. I should just like to say to the hon members who had problems that I do not think that they must see those problems in this Bill. We shall do our best to iron the matter out further, but the problems do not really lie in this Bill.</p>
+
+<p>As far as the hon member for Hillbrow is concerned, I cannot give him an answer to the problem here and now. There must have been a problem at one stage. Mr Chairman, I thank the hon members once again.</p>
+
+</speech>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>May I ask the hon the Minister a question?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>No, I am not answering questions now.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+<p>Certified fair copy of the Bill to be transmitted to the State President for his assent unless the House decides within three days to refer the Bill to a committee.</p>
+
+</speech>
+
+<adjournment>
+
+<p>In accordance with Standing Order No 19, the House adjourned at <recordedTime time="1985-02-04T18:30:00">18h30.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

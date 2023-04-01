@@ -1,0 +1,1709 @@
+---
+title: 'House of Assembly: Vol13 - FRIDAY 26 JULY 1929'
+layout: debate
+year: 1929
+month: JULY
+month_slug: Jul
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 26th JULY, 1929.</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the Chair at <recordedTime time="1929-07-26T14:20:00">2.20 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#condolence">
+
+<heading>CONDOLENCE (LATE SIR T. SMARTT).</heading>
+
+<p>Mr. SPEAKER intimated that a letter had to-day been received by the Clerk, of the House from Lady Smarrt acknowledging the resolution adopted by the House on the 19th July and conveying her sincere thanks for the sympathy extended to her and her family on the death of her husband.</p>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading><span class="col_111-112" refersTo="page_0083"/>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Sheepskins.</heading>
+
+<question by="#stals" to="#minister_of_agriculture">
+
+<num>I.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Agriculture what was the value of sheepskins, goat-skins and hides exported to (a) France and (b) to the United States of America during each of the years 1924 to 1928 ?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#stals">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>Values.</p>
+
+<table>
+
+<tr>
+
+<td><p>Country.</p></td>
+
+<td colspan="2"><p>Product.</p></td>
+
+<td><p>1928</p></td>
+
+<td><p>1927</p></td>
+
+<td><p>1926</p></td>
+
+<td><p>1925</p></td>
+
+<td><p>1924</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>France</p></td>
+
+<td><p>Hides</p></td>
+
+<td><p>Wet</p></td>
+
+<td><p>249,227</p></td>
+
+<td><p>115,785</p></td>
+
+<td><p>95,102</p></td>
+
+<td><p>141,950</p></td>
+
+<td><p>136,938</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Dry</p></td>
+
+<td><p>16,878</p></td>
+
+<td><p>13,894</p></td>
+
+<td><p>15,338</p></td>
+
+<td><p>10,303</p></td>
+
+<td><p>10,480</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>266,105</p></td>
+
+<td><p>129,679</p></td>
+
+<td><p>110,440</p></td>
+
+<td><p>152,253</p></td>
+
+<td><p>147,418</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>U.S.A.</p></td>
+
+<td><p>Hides</p></td>
+
+<td><p>Wet</p></td>
+
+<td><p>12,113</p></td>
+
+<td><p>8,217</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>418</p></td>
+
+<td><p>125</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Dry</p></td>
+
+<td><p>15,074</p></td>
+
+<td><p>20,075</p></td>
+
+<td><p>3,075</p></td>
+
+<td><p>64</p></td>
+
+<td><p>5,867</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>27,187</p></td>
+
+<td><p>28,292</p></td>
+
+<td><p>3,075</p></td>
+
+<td><p>482</p></td>
+
+<td><p>5,992</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>France</p></td>
+
+<td><p>Goatskins</p></td>
+
+<td><p>Angora</p></td>
+
+<td><p>43,979</p></td>
+
+<td><p>19,207</p></td>
+
+<td><p>44,202</p></td>
+
+<td><p>45,756</p></td>
+
+<td><p>36,079</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Other</p></td>
+
+<td><p>57,461</p></td>
+
+<td><p>34,276</p></td>
+
+<td><p>42,102</p></td>
+
+<td><p>10,498</p></td>
+
+<td><p>2,616</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>101,440</p></td>
+
+<td><p>53,483</p></td>
+
+<td><p>86,304</p></td>
+
+<td><p>56,254</p></td>
+
+<td><p>38,695</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>U.S.A.</p></td>
+
+<td><p>Goatskins</p></td>
+
+<td><p>Angora</p></td>
+
+<td><p>3,201</p></td>
+
+<td><p>9</p></td>
+
+<td><p>2,767</p></td>
+
+<td><p>4,517</p></td>
+
+<td><p>10,349</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Other</p></td>
+
+<td><p>86,720</p></td>
+
+<td><p>83,483</p></td>
+
+<td><p>57,792</p></td>
+
+<td><p>93,957</p></td>
+
+<td><p>29,926</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>89,921</p></td>
+
+<td><p>83,492</p></td>
+
+<td><p>60,559</p></td>
+
+<td><p>98,474</p></td>
+
+<td><p>40,275</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>France</p></td>
+
+<td><p>Sheepskins</p></td>
+
+<td><p>Cape</p></td>
+
+<td><p>35,721</p></td>
+
+<td><p>26,121</p></td>
+
+<td><p>45,826</p></td>
+
+<td><p>79,684</p></td>
+
+<td><p>38,746</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Merino</p></td>
+
+<td><p>593,036</p></td>
+
+<td><p>713,410</p></td>
+
+<td><p>348,540</p></td>
+
+<td><p>563,726</p></td>
+
+<td><p>516,563</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Coarse Woolled</p></td>
+
+<td><p>45,631</p></td>
+
+<td><p>37,455</p></td>
+
+<td><p>41,640</p></td>
+
+<td><p>64,898</p></td>
+
+<td><p>55,656</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>674,388</p></td>
+
+<td><p>776,986</p></td>
+
+<td><p>436,008</p></td>
+
+<td><p>707,308</p></td>
+
+<td><p>610,965</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>U.S.A.</p></td>
+
+<td><p>Sheepskins</p></td>
+
+<td><p>Cape</p></td>
+
+<td><p>280,055</p></td>
+
+<td><p>210,948</p></td>
+
+<td><p>234,969</p></td>
+
+<td><p>232,802</p></td>
+
+<td><p>83,120</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Merino</p></td>
+
+<td><p>200,372</p></td>
+
+<td><p>154,922</p></td>
+
+<td><p>92,428</p></td>
+
+<td><p>142,546</p></td>
+
+<td><p>78,617</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Coarse Woolled</p></td>
+
+<td><p>21,546</p></td>
+
+<td><p>11,902</p></td>
+
+<td><p>16,901</p></td>
+
+<td><p>14,328</p></td>
+
+<td><p>1,066</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>501,973</p></td>
+
+<td><p>377,772</p></td>
+
+<td><p>344,298</p></td>
+
+<td><p>389,676</p></td>
+
+<td><p>162,803</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+<question by="#stals" to="#minister_of_agriculture">
+
+<num>II.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether it is a fact that French buyers of sheepskins recently issued a warning against our sheepskins;</li>
+
+<li>(2) what was the nature of the complaint on which that warning was based;</li>
+
+<li>(3) whether the Department of Agriculture has any knowledge as to whether those complaints are grounded; if so,</li>
+
+<li>(4) what steps have been taken by the department or by exporters to remove all causes of complaint; and</li>
+
+<li>(5) whether the department intends to take steps to prevent a repetition of such causes ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#stals">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) A warning in regard to sheepskins has been issued by a French buyer, and the matter is forming the subject of careful investigation. Until this investigation is complete it is impossible to say what steps it will be necessary to take. I am fully alive to the necessity of maintaining the reputation of our export trade, and no steps will be neglected to ensure its protection.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Posts: Farm Telephones.</heading>
+
+<question by="#van_der_merwe" to="#minister_of_posts_and_telegraphs">
+
+<num>III.</num>
+
+<from>Dr. N. J. VAN DER MERWE</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol>
+
+<li>(1) How many miles of farm telephone lines are at present in operation in (a) the Cape Province, (b) Transvaal, (c) Orange Free State and (d) Natal;</li>
+
+<li>(2) how many were there in each Province on the 3&#x00CD;st March, 1924;</li>
+
+<li>(3) how many farmers are served by these lines in the different Provinces;</li>
+
+<li><span class="col_113-114" refersTo="page_0084"/>(4) what is the number of miles for the construction of which provision is made in the current year in respect of the different Provinces;</li>
+
+<li>(5) how many farmers will be served thus;</li>
+
+<li>(6) from how many farmers and in respect of how many miles have applications been received for new lines in each of the different Provinces, which have been put on the waiting list and are not being taken into consideration during the present year;</li>
+
+<li>(7) what capital will be necessary to construct the lines applied for;</li>
+
+<li>(8) what capital has already been devoted to the construction of farm telephone lines;</li>
+
+<li>(9) to what does this come to per mile; and</li>
+
+<li>(10) what is the average revenue per mile which the Government receives as fixed subscription per annum from farm telephones ?</li>
+
+</ol>
+
+<p>[The reply to this question is standing over.]</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Kuruman Ballot Papers.</heading>
+
+<question by="#swart" to="#minister_of_justice">
+
+<num>IV.</num>
+
+<from>Mr. SWART</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether it is true that a certain person, alleged to have been an agent of the South African party, was arrested during the recent election at Lichtenburg because he was found in illegal possession of 49 ballot papers which were sent to that place for voters of the electoral division of Kuruman; if so,</li>
+
+<li>(2) who is that person;</li>
+
+<li>(3) what was the nature of the charge on which he was arrested; and</li>
+
+<li>(4) whether he has been tried; and, if so, with what result ?</li>
+
+</ol>
+
+<p>[The reply to this question is standing over.]</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Doornkop Sugar Estates.</heading>
+
+<question by="#anderson" to="#minister_of_labour">
+
+<num>V.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Labour: 1 2 3 4</p>
+
+<ol>
+
+<li>(1) Whether the mortgage bond which the Doornkop Sugar Estates undertook to grant as security for the company&#x2019;s indebtedness to the Government has been passed and registered; if so,</li>
+
+<li>(2) what are the dale of registration, the amount of the bond and the date of redemption of the bond;</li>
+
+<li>(3) whether the Minister will lay the bond or a copy thereof upon the Table; and</li>
+
+<li>(4) whether any claim has recently been preferred by the Doornkop Sugar Estates against the Government based on allegations of failure by the Government to carry out obligations which it contracted to perform under agreement with the company or otherwise; and, if so, what is the nature of the claim and the amount involved ?</li>
+
+</ol>
+
+<p>[The reply to this question is standing over.]</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Asiatics, Repatriation Of.</heading>
+
+<question by="#anderson" to="#minister_of_the_interior">
+
+<num>VI.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) What is the total number of Asiatics who left South Africa under the voluntary repatriation scheme between the months of January and June, 1929, inclusive, with particulars of the men, women and children so repatriated;</li>
+
+<li>(2) whether any of the Asiatics who have been voluntarily repatriated since the coming into operation of the agreement between the Governments of the Union and of India have returned to the Union and resumed domicile therein; if so, how many, and of what sex and age; and</li>
+
+<li>(3) of the Asiatics who have been voluntarily repatriated since the coming into operation of the agreement, how many went from (a) Natal and (b) Transvaal?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#anderson">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) Men, 350; women, 156, children, 316. Total, 822.</li>
+
+<li>(2) Yes, four males aged 59, 48, 25 and 53 years respectively.</li>
+
+<li>(3) (a) 5,722. (b) 170.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>East Coast Fever.</heading>
+
+<question by="#van_coller" to="#minister_of_agriculture">
+
+<num>VII.</num>
+
+<from>Mr. VAN COLLER</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) When the first outbreak of east coast fever occurred in the Komgha district;</li>
+
+<li>(2) how many cases have occurred since;</li>
+
+<li>(3) what is the date of the last reported case;</li>
+
+<li>(4) when the restrictions are likely to be removed for the movement of cattle in and from the Komgha district;</li>
+
+<li>(5) what amount has been expended by the Government un to 30th June last in connection with the suppression of the outbreak; and</li>
+
+<li>(6) what policy, if any, has been decided upon to deal with future outbreaks?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#van_coller">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Present infection occurred 13th September, 1926.</li>
+
+<li>(2) Thirteen outbreaks since infection in 1926.</li>
+
+<li>(3) 6th January, 1928.</li>
+
+<li>(4) Restrictions have been modified very considerably since the first outbreak and farmers in clean portions of the district now are granted many facilities for transport movements and removal of slaughter cattle. It is impossible to give any definite date of the removal of all restrictions which will entirely depend on future developments, when it is established that the very serious infections which occurred have been finally eradicated.</li>
+
+<li><span class="col_115-116" refersTo="page_0085"/>(5) One veterinary officer, eleven dipping inspectors and east coast fever officers are stationed in Komgha district. Their salaries amounted approximately to &#x00A3;5,000 for the period 13/9/26 to 30/6/29. It will he understood, however, that these officers were also engaged in routine duties under Stock Diseases Act in addition to the suppression of east coast fever.</li>
+
+<li>(6) The future policy will depend entirely on circumstances but if the present satisfactory progress continues and the control now exercised by the veterinary division is maintained it is hoped that no further outbreaks will occur and that the disease will be finally eradicated.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Citrus Exports.</heading>
+
+<question by="#kayser" to="#minister_of_agriculture">
+
+<num>VIII.</num>
+
+<from>Mr. KAYSER</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) What was the total amount paid by citrus exporters through the levy of 5s. per ton during the 1928 season;</li>
+
+<li>(2) what is the total amount so paid up to the 15th July, 1929, during the 1929 season:</li>
+
+<li>(3) what portion of the 1928 levy on citrus fruits was paid by him in terms of Section 12 (3) of Act No. 53 of 1926 to the Perishable Products Export Control Board;</li>
+
+<li>(4) what portion of the 1929 levy on citrus fruits has been so paid by him;</li>
+
+<li>(5) for what purposes was the balance of the 1928 levy on citrus fruits used; and</li>
+
+<li>(6) what steps are taken in order to ensure that payments made by him out of the said balance are applied for the purposes for which they are made ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#kayser">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) &#x00A3;12,258 19s. lid.</li>
+
+<li>(2) &#x00A3;1,972 10s. 0d. to 30th June. Figures for 1st to 15th July are not vet available.</li>
+
+<li>(3) &#x00A3;2,022 5s. 8d.</li>
+
+<li>(4) &#x00A3;1,400 provisionally.</li>
+
+<li>(5) Paid over to the S.A. Citrus Exchange.</li>
+
+<li>(6) The amounts so paid over are expended by the exchange in the conduct of the business and I am satisfied that this is in the best interests of the industry. The financial statements of that body are scrutinized in my department.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Beaconsfield Repair Shops.</heading>
+
+<question by="#humphreys" to="#minister_of_railways_and_harbours">
+
+<num>IX.</num>
+
+<from>Mr. HUMPHREYS</from>
+
+<p>asked the Minister of Railways and Harbours whether, in view of the facts (a) that Beaconsfield is situate on the main railway line from Cape Town to Johannesburg and to Rhodesia, (b) that the cost of living in Beaconsfield is lower than in most other centres in the Union, and (c) that! Beaconsfield is the nearest and most convenient and accessible railway centre for the northwestern districts of the province of the Cape of Good Hope and the manganese and asbestos fields, he intends to proceed with the further extension of the railway repair shops at Beaconsfield ?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#humphreys">
+
+<from>The MINISTER OF RAILWAY AND HARBOURS:</from>
+
+<p>There is no intention at the present time of enlarging the maintenance workshop at Beaconsfield. The claims of Beaconsfield will receive consideration, along with those of other centres, when dealing with future proposals for workshop extension.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Irrigation: Kromellenboog.</heading>
+
+<question by="#humphreys" to="#minister_of_native_affairs">
+
+<num>X.</num>
+
+<from>Mr. HUMPHREYS</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol>
+
+<li>(1) Whether it is his intention to proceed with the Kromellenboog irrigation scheme; if so,</li>
+
+<li>(2) when it is his intention so to do;</li>
+
+<li>(3) whether this scheme, when completed, will be the most economical in the country;</li>
+
+<li>(4) whether riparian, owners on the Vaal River have offered their land for the purposes of the scheme at &#x00A3;3 per morgen:</li>
+
+<li>(5) whether approximately 300,000 morgen of rich and arable land could be brought under irrigation if this scheme were completed;</li>
+
+<li>(6) whether the water supply which is the basis of the said scheme is drawn from the Vaal River;</li>
+
+<li>(7) whether the land which could be brought under irrigation by means of the said scheme is close to the largest markets of the Union; and</li>
+
+<li>(8) whether the said land is in close proximity to the main railway lines of the Union?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#humphreys">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<ol>
+
+<li>(1), (2), (3) and (5) The scheme known as the Vaal-Hartz scheme is still being investigated, and it is not yet possible to give definite replies to these questions.</li>
+
+<li>(4) Certain offers of land were made, but the exact position of land to be irrigated has not yet been determined and most of it is likely to be non-riparian to the Vaal.</li>
+
+<li>(6) Yes.</li>
+
+<li>(7) Reasonably close to Kimberley, Bloemfontein and Johannesburg.</li>
+
+<li>(8) Yes.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Diamonds: Alluvial Diggings.</heading>
+
+<question by="#humphrey" to="#minister_of_mines_and_industries">
+
+<num>XI.</num>
+
+<from>Mr. HUMPHREY&#x2019;S</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that Sections 50 (1). 52, 57 (7). 59 (h), 60 and 63 (1) of Act No. 44 of 1927 are causing hardship to genuine 1 and long-established alluvial diamond diggers On the Upper and lower stretches of the Vaal River in Griqualand West and preventing many of them from making a livelihood; and</li>
+
+<li>(2) whether he is prepared to cause the said sections to be amended ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#humphrey">
+
+<from><span class="col_117-118" refersTo="page_0086"/>The MINISTER OF JUSTICE (for the Minister of Mines and Industries):</from>
+
+<ol>
+
+<li>(1) No.</li>
+
+<li>(2) No.</li>
+
+</ol>
+
+</answer>
+
+<question by="#humphrey" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. HUMPHREYS:</from>
+
+<p>Is the Minister not of opinion that the more stringent the law the greater will be the hardships on these people?</p>
+
+</question>
+
+<question by="#speaker" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>That does not arise out of the question.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cattle: Tuberculosis.</heading>
+
+<question by="#abrahamson" to="#minister_of_agriculture">
+
+<num>XII.</num>
+
+<from>Mr. ABRAHAMSON</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the serious spread of tuberculosis in the dairy herds of the Union; if so,</li>
+
+<li>(2) whether he proposes to take any action in the near future to eradicate or control this disease on more effective lines than are at present being adopted; and</li>
+
+<li>(3) whether at the present time there are any restrictions or regulations with regard to the movement or sale of cattle from badly-infected areas ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#abrahamson">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Yes, I am aware that there is a great deal of tuberculosis among our dairy herds.</li>
+
+<li>(2) The matter is receiving my serious consideration. It is one which presents difficulties and to undertake a campaign of eradication would involve very heavy expenditure.</li>
+
+<li>(3) No, except as regards export beyond the boundaries of the Union and, in the event of any particular area being quarantined for tuberculosis, movement is not permitted during the period of quarantine. As a matter of fact no area is actually quarantined at present. The point raised in the question is very important. The imposition of restrictions is attended with many difficulties; that aspect is also receiving my consideration.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Hospital Finance.</heading>
+
+<question by="#byron" to="#minister_of_the_interior">
+
+<num>XIII.</num>
+
+<from>Brig.-Gen. BYRON</from>
+
+<p>asked the Minister of the Interior whether the Government will consider the desirability of giving substantial financial help toward the provision and maintenance of large hospitals (a) in cases where the total cost would be an undue and unfair charge on the local authorities, and/or (b) where any proposed new hospital would be of wider importance than for purely local needs?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#byron">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>In accordance with the. South Africa Act, 1909, all matters relating to hospitals are dealt with by the provincial administrations. The question of relieving provincial administrations of any of their duties and responsibilities in this connection is a far-reaching one, which the Government is not at present prepared to re-open.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Native Poll Tax.</heading>
+
+<question by="#de_wet" to="#minister_of_native_affairs">
+
+<num>XIV.</num>
+
+<from>Mr. W. F. DE WET</from>
+
+<p>asked the Minister of Native Affairs whether, in view of the fact that the poll tax levied upon the natives in the Union is causing great hardship, it is his intention, to take steps towards giving relief in the matter; and, if so, when ?</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#de_wet">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>I am not satisfied that any great hardship has been caused by the imposition of the general tax; there are no doubt areas where on account of the recent drought the population is temporarily embarrassed but magistrates are empowered to grant extension of time for payment in necessitous cases and I have no doubt requests for such relief are sympathetically dealt with.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Magistrate&#x2019;s House At Tarkastad.</heading>
+
+<question by="#de_wet" to="#minister_of_justice">
+
+<num>XV.</num>
+
+<from>Mr. W. F. DE WET</from>
+
+<p>asked the Minister of Justice whether, in view of the urgent necessity of providing a magistrate&#x2019;s residence at Tarkastad, he will take immediate steps to provide an adequate residence?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#de_wet">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>Yes. I hope that it will be possible during the current financial year to obtain a magistrate&#x2019;s residence at Tarkastad.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Road Construction.</heading>
+
+<question by="#de_wet" to="#minister_of_finance">
+
+<num>XVI.</num>
+
+<from>Mr. W. F. DE WET</from>
+
+<p>asked the Minister of Finance whether, in view of the increased motor traffic in the country and the constant demand for better roads, it is the intention of the Government to take over the construction and maintenance of all main roads; and, if not, whether he is prepared to make provision on the Loan Estimates for roads ?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#de_wet">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The Government does not propose taking over the construction and maintenance of main roads, but in order to assist the provinces a sum of &#x00A3;1,000,000 is being provided on the Loan Estimates, spread over a period of three years.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Water Supply in Towns.</heading>
+
+<question by="#de_wet" to="#minister_of_the_interior">
+
+<num>XVII.</num>
+
+<from>Mr. W. F. DE WET</from>
+
+<p>asked the Minister of the Interior whether, in view of the increased scarcity of water supplies in many municipalities in the country, he is prepared to have the necessary surveys made of the various areas affected with a view to increasing such supplies?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#de_wet">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>Under the system of local government in the Union, the provision of municipal water supplies is a matter for the municipalities concerned, The Government, through the Departments of Irrigation and Public Health, affords municipalities all available information and advice regarding such matters, but is unable to undertake the making of special surveys for such purposes.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Crane At Durban Harbour.</heading>
+
+<question by="#nicoll" to="#minister_of_railways_and_harbours">
+
+<num>XVIII.</num>
+
+<from>Mr. NICOLL</from>
+
+<p>asked the Minister of Railways and Harbours why the Administration <span class="col_119-120" refersTo="page_0087"/>are not providing an up-to-date self-propelled floating heavy lift crane at Durban harbour instead of the projected fixed heavy lift crane ?</p>
+
+<p>[The reply to this question is standing over.]</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Constable E. H. J. Carr.</heading>
+
+<question by="#roberts" to="#minister_of_justice">
+
+<num>XIX.</num>
+
+<from>Maj. ROBERTS</from>
+
+<p>asked the Minister of Justice whether he is prepared to lay the records in the case of ex-constable E. H. J. Carr upon the Table?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#roberts">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>No, but the hon. member can see the records of the case in my office.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Preference On British Goods.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question I, by Mr. Coulter, standing over from 23rd July.</p>
+
+<question by="#coulter" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(l) Whether the Minister is aware that on the 19th June, 1929, a letter appeared in the London &#x201C;Times&#x201D; from the former British Trade Commissioner in South Africa, in which he stated that neither H.M. Board of Trade nor himself had ever been consulted in the framing of the list of twenty-two articles on which a preference was allowed by the Customs Act of 1925 to British manufacturers;</li>
+
+<li>(2) what were the contents of the list of articles of British manufacture which on the 8th April, 1925, the Minister stated in this House had been supplied by the British Government to him;</li>
+
+<li>(3) by whom and when was this list supplied;</li>
+
+<li>(4) whether the Minister received a letter from the British Trade Commissioner in or about April, 1925, in which that official stated that the &#x201C;Minister had been misinformed&#x201D; when he informed the House that the British Government had selected the twenty-two articles referred to;</li>
+
+<li>(5) whether the Minister communicated the contents of this letter to this House; if so, when; if not, whether there was any reason for withholding the information contained therein;</li>
+
+<li>(6) if, in fact, the letter was framed by some one other than the British Government, on what grounds were the twenty-two articles selected; and</li>
+
+<li>(7) whether any section of commercial opinion (a) in South Africa or (b) in England was consulted before such selection was made ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#coulter">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) I did not see the letter referred to.</li>
+
+<li>(2) and (3). The list referred to was supplied as a result of semi-official discussions and correspondence between responsible officers of the United Kingdom and the Union, culminating in a cable dated 17th January, 1924, from the Department of Overseas Trade to the British Trade Commissioner in the Union&#x2014;a copy of which was forwarded likewise semi-officially for favourable consideration by the Union Government on the 14th January, 1925. With the exception of boots and shoes, blankets and rugs, Confectionery, bottles and motor vehicles, all the articles mentioned in this cable with a view to increased preference were provided for in the new schedule of preferential rebates in favour of the United Kingdom. This method of procedure was adopted in view of the fact that the Government of the United Kingdom as such does not adopt a policy of bargaining with the dominions in matters of preference.</li>
+
+<li>(4) Yes, and the letter was duly replied to.</li>
+
+<li>(5) No, and in view of the reply to (2) and (3) of this question there appeared to be no good reason for communicating the contents of such a letter to this House.</li>
+
+<li>(6) Reply to this question falls away.</li>
+
+<li>(7) (a) No, as it would have been both unnecessary and unusual to do so; (b) no, as mention was made in the cable previously referred to of &#x201C;articles on which increased preference was desired by United Kingdom manufacturers &#x201D;, it was presumed that those interests had been consulted directly or indirectly.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#committee_of_supply">
+
+<heading>COMMITTEE OF SUPPLY.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the House go into Committee of Supply on the Estimates of Expenditure to be defrayed from the Consolidated Revenue Fund (including the Estimates of Expenditure from Loan Funds) and on the Estimates and Supplementary Estimates of Expenditure to be defrayed from the Railway and Harbour Fund, during the year ending the 31st March, 1930.</block>
+
+<p>In my speech on the second reading of the Partial Appropriation Bill on the 14th March last I gave a full review of the financial and economic position of the country. I indicated the proposals I would make if it again fell to me to introduce the Budget. It will therefore not be necessary to detain the House long this afternoon in connection with the proposal standing in my name. With reference to the past financial year, 1928-&#x2019;29, I said that the surplus would be &#x00A3;1,700,000 which together with the balance of &#x00A3;1,290,000, which was brought forward from the previous year, would give a credit balance of about &#x00A3;3,000,000 at the end of 1928-&#x2019;29. The actual position is a little better than I then stated. The surplus for the year was &#x00A3;1,775,000 and the credit balance, that is the surplus at the end of the financial year, was therefore &#x00A3;3,065,000 instead of &#x00A3;3,000,000 as indicated in March last. These figures have still to be audited. The favourable position is due to the fact that the revenue due from customs, income tax and diamond tax has far exceeded the estimate. I said in March last I intended to apply the credit <span class="col_121-122" refersTo="page_0088"/>balance on the revenue account by paying &#x00A3;350,000 to the Public Debt Commissioners for redemption of debt, and the balance of &#x00A3;2,715,000 to the loan account to cover capital expenditure. That is the plan which I indicated in March last with regard to the disposal of the surplus. The appropriation of this additional &#x00A3;350,000 for the redemption of debt makes the total amount of revenue for 1928-&#x2019;29 &#x00A3;1,110,000 of which &#x00A3;110,000 represents money received during the year as reparations payment.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#current_year">
+
+<heading>Current Year.</heading>
+
+<p>As regards the current financial year I told the House that I had estimated the revenue as &#x00A3;31,063,000 and the expenditure as &#x00A3;29,950,000 which would leave a balance of &#x00A3;1,113,000. The revised estimate of expenditure which I laid on the Table last week amounts to &#x00A3;30,316,766. The increase above the figures I gave in March is due to the fact that the requirements for old age pensions, relief of distress and certain other services were considerably more than I then expected. I made provision in March for an expenditure of &#x00A3;250,000 to complete the provision made in the first print of the Estimates laid on the Table in February last. The amount really required is &#x00A3;620,000 more than that provision and the increase is explained in the last paragraph of my memorandum, which was laid on the Table last week, as an introduction to the estimates. The return of revenue for the first few months of the current year showed that the estimate of revenue from customs will probably be exceeded and I have therefore increased the estimate of revenue under this head by &#x00A3;350,000, and the estimate under various other heads by &#x00A3;97,000. This gives a revised estimate of revenue of &#x00A3;31,510. This estimate is based on the existing scale of taxation which means that it does not allow for the 20 per cent, exemption which was granted last year in respect of the tax for 1928. The revised figures are therefore: Revenue, &#x00A3;31,510,000; expenditure, &#x00A3;3,317,000. That leaves a surplus of &#x00A3;1,193,000.</p>
+
+</debateSection>
+
+<debateSection name="#disposal_of_surplus">
+
+<heading>Disposal Of Surplus.</heading>
+
+<p>In accordance with the proposals which I made in March last the surplus will be used in the following way: In the first place the exemption of 20 per cent, will apply again for the 1929 income tax and this will cost &#x00A3;800,000. Then I intend, as hon. members know, to make certain other concessions as regards income tax, namely, the increase of the deduction for children from &#x00A3;60 to &#x00A3;75, and the raising of the age limitation for children from eighteen to twenty-one years. Further, widows and widowers will be treated as married persons for rebate purposes. Then there is the proposed concession to the farming population, namely, the concession to allow the deduction of capital expenditure on farms made during the year for farming, dipping tanks, dams, boreholes, fencing, expenditure for the prevention of soil erosion, and the eradication of weeds, from the income in calculating the tax. It is permanent farming expenditure which may be deducted. Then I also intend to grant a concession to industrialists, and that is the giving of a rebate in respect of plant and machinery not in use. These concessions will mean a loss of revenue of &#x00A3;140,000 for this year and &#x00A3;170,000 for the succeeding year. Then we propose to make certain reductions in customs and excise, to which I referred in March, as follows: (a) Abolition of the customs on thread, trek chain and accessories, and motor paraffin which is used for agricultural purposes <i>;</i> (b) reduction of the customs on woven materials made of artificial silk and linen, underclothes except shirts and knitted articles, carpets and floor coverings, gas and electric cooking, warming and cleaning apparatus; (c) deduction on the excise of Is. per 100 lbs. on sugar used in the Union for manufacturing purposes, which will fall to the benefit of the jam and sweets industries. Further there is a reduction of excise on spirits used by public hospitals of 7s. 6d. a gallon. That is the customs duty now charged on spirits used for industrial purposes. These exemptions and reductions mean a sacrifice of revenue of &#x00A3;262,000 and of &#x00A3;170.000 for the current year. All these concessions which I have stated mean a sacrifice of &#x00A3;1,232,000 for a full year and brings the surplus for the current financial year to 83,000.</p>
+
+</debateSection>
+
+<debateSection name="#tariff_alterations">
+
+<heading>Tariff Alterations.</heading>
+
+<p>Since my speech in March the Board of Trade and Industries has examined the position of certain industries and has recommended a number of tariff alterations on certain articles for protection purposes, or the free admission of certain articles which local industries require. Report No. 99 has been laid on the Table to-day and reference thereto shows that the Government was not able to adopt all the recommendations made with reference to the increase of customs duty. The increases adopted by the Government are included in a resolution which I will lay on the Table this afternoon, and which are as follows:</p>
+
+<p>Condensed milk.&#x2014;The tax, besides the existing duty of 12s. 6d. per 100 lbs., of a suspended duty of 2s. 6d. per 100 lbs. on full cream condensed milk, such tax to come into operation as soon as additional condensing factories are established in the Union. There are signs that certain companies will proceed with the erection of certain factories, and the amended customs duty has been adopted in the hope that the factories will be established in the near future.</p>
+
+<p>Ready-made clothing.&#x2014;An increase in the duty of 5 per cent, ad valorem &#x201C;from 15 to 20 per cent.&#x201D;</p>
+
+<p>Knitted underwear.&#x2014;A suspended additional duty of five per cent ad valorem to come into operation as soon as certain underclothing is made in the Union on a commercial basis. This increase is in connection with certain weaving industries which exist in Cape Town and other cities, as in Johannesburg, in the latter place <span class="col_123-124" refersTo="page_0089"/>particularly in connection with the children of silicotics.</p>
+
+<p>Spindle chairs.&#x2014;The duty is altered, as in the case of bentwood chairs in 1926, from 25 per cent. ad valorem to 20 per cent. ad valorem, plus 1s. a chair.</p>
+
+<p>Wax cartons.&#x2014;To restrict the free admission of wax cartons to that used in the trade in honey, dairy-fat, meat and fruit products. That intended for other purposes will be liable for a duty of 30 per cent. ad valorem if printed, and 20 per cent. if not printed.</p>
+
+<p>Castor sugar.&#x2014;Increase in the duty of 2s. per 100 lbs. to bring it to the same scale as ordinary refined sugar. This is merely to remove an irregularity in tariff. The financial effect of these increases will not be important, and it may be regarded as cancelled by a large complementary list of exemptions of customs duties which I propose making on the advice of the Board of Industries, and which will also be laid on the Table by me. These exemptions and reductions are largely intended to release local industries from customs duties on the raw material, and plant and appliances which may be imported. Examples are the exemption of bone meal, and certain chemical compositions used as cattle fodder, scales for calculating milk, and wood cellulose for packing fresh fruit, safety valves for mining work, certain chemicals which are used in the mining industries, garage workshop, machinery and copper pipes for manufacturing purposes, also come into account. Then exemption from customs duty is proposed in the case of certain classes of machinery which require local management, such as the treatment of sewage and refuse, and for the filtering of water. Instruments for slaughtering stock and cartridges for use in slaughtering stock. Collectors of antiques in the Union will be glad to know that we intend to exempt articles which are more than a hundred years old. The clause in the tariff which deals with motors will be amended to meet the requirements of the local assembling trade, and to remove difficulties experienced in interpreting items. I have only mentioned a few out of the long list of exemptions and reductions which will be laid before the House and to which I refer the House.</p>
+
+</debateSection>
+
+<debateSection name="#loan_expenditure">
+
+<heading>Loan Expenditure.</heading>
+
+<p>The estimates for expenditure from loan funds have been laid on the Table. The total provision is &#x00A3;11,238,000 and the actual expenditure for the year will undoubtedly fall well within this figure. Hon. members will see that on the first page of these estimates I give an estimate of revenue on loan account of &#x00A3;7,500,000 of which &#x00A3;2,700,000 represents the balance of revenue accounts on the 31st March, 1929, which I intend to carry forward to the loan account, &#x00A3;1,630,000 revenue from mining leases, &#x00A3;1,970,000 revenue from the State diggings, &#x00A3;110,000 revenue from Crown lands and &#x00A3;100,000 as a contribution to the capital programme of public works. The last mentioned amount is intended to prevent the loan account and the debt being unduly handicapped by work of more or less insignificant nature. Besides credit on the loan account of &#x00A3;7,500,000 we begin the year with a credit balance on the loan account of about &#x00A3;1,300,000. We therefore ought to fulfil our obligations to our capital account for the current year without borrowing more than &#x00A3;2,000,000. With the prospect of a scarcity of funds for investment overseas and consequent increased rates of interest, we can consider ourselves fortunate that we are at this time in the position of carrying out a considerable capital programme without the necessity of raising large loans abroad. The items in this year&#x2019;s Estimates to which I want specially to call the attention of the House are the following: (a) the number of important and very necessary buildings in Cape Town (Deeds and Surveyor-General&#x2019;s Offices), Pretoria (Public Buildings), Johannesburg (Post Office), Durban (Public Offices) which appear on the programme for Public Works. (b) Increased provision of &#x00A3;50,000 on the Estimate for telegraphs and telephones required to expedite the supply of farm telephones.</p>
+
+</debateSection>
+
+<debateSection name="#diamonds_and_irrigation">
+
+<heading>Diamonds And Irrigation.</heading>
+
+<p>As I said in March the Government intends to use a considerable amount of the diamond revenue in irrigation and boring operations. As regards irrigation work, in anticipation of a careful investigation of the irrigation policy, no new works will be commenced except three which were started as relief works in drought-stricken areas, provision for which is made on the loan vote, Labour. The vote for boring has been considerably increased and has provided for additional equipment to cope with a still larger programme of work. (d) The provision of local works and loans amounts to &#x00A3;350,000 as a first instalment of &#x00A3;1,000,000 which will be made to the provinces for roads during the next three years. (e) As the unsatisfactory conditions of life in a portion of this city are attracting considerable attention it will possibly be well to say that the obligations of the Government with regard to advances for housing amount to &#x00A3;3,581,000, and &#x00A3;2,563,000 of this sum has been paid up to the present. To this must be added &#x00A3;350,000 capital repaid and advanced again. Consequently there is still over a million of public money to advance when required, as well as the repayments which are available to be paid out again as further advances increase from year to year. About &#x00A3;600,000 has been set aside for the requirements of Cape Town. Year after year the provision on the estimates was considerably larger than the amount required during the year, so that the financial arrangements of the Government are not responsible for the slow progress in this respect. The provision for the current year (including Loan Vote and if this sum is not enough arrangements will be made to increase it). It is <span class="col_125-126" refersTo="page_0090"/>earnestly to be hoped that the local difficulties which up to the present have delayed the improvements in local conditions will he speedily removed. As to the future, when I spoke in March last about the estimate of customs duty, I said that I thought that our imports were too high, that a large portion of the population was really living above its income, and it consequently was not safe to assume that the imports would continue on that scale.</p>
+
+</debateSection>
+
+<debateSection name="#imports">
+
+<heading>Imports.</heading>
+
+<p>The imports during the past three months have remained at the previous high scale and I was consequently obliged to considerably increase my estimate of revenue from customs duty for the current year I still hold the same opinion as in March. While the general condition of the country is satisfactory there are certain aspects which make it necessary to treat the future prospects with care. In the first place the price of wool, our largest agricultural article has considerably fallen. In the second place the bank overdrafts have considerably increased&#x2014;this may indicate that the imports are abnormally high or otherwise&#x2014;and in the third place there is, in my opinion, too much long credit in this country, especially in the purchase of unnecessary articles, as is often the case with motor cars. I know that the hire purchase system is approved of by economists of repute and while I am prepared to admit that there may not be much harm in a person of fixed income pledging his income for twelve or eighteen months in advance I do not think that it can be a sound practice for the farmer of this country. Owing to the fluctuating seasons and markets his revenue is too uncertain for him to follow this practice. Let the farmer buy his motor car, but first save the money and then pay cash. Besides farmers, there are too many others who spend too much on motor cars, in whose case they are undoubtedly nothing but a luxury. Long credit is given in respect of other unnecessary articles. It is by no means my intention to create alarm and yet I regard it as my duty to call attention to these aspects of our economic life.</p>
+
+<p>Mr. M. L. MALAN seconded the motion.</p>
+
+</debateSection>
+
+<debateSection name="#railway_budget">
+
+<heading>Railway Budget.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Before dealing with the estimates of revenue and expenditure for the financial year (1929-&#x2019;30), upon which we have now entered, I propose to deal briefly with the financial results of working the railways, harbours and steamships during the financial year 1928-&#x2019;29 which ended on the 31st March last.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#results_of_working_1928-&#x2019;29">
+
+<heading>Results Of Working, 1928-&#x2019;29.</heading>
+
+<ol>
+
+<li>2. It will assist hon. members if I first of all recall that the original estimates for 1928-&#x2019;29 submitted to the late Parliament provided for a gross expenditure during the year of &#x00A3;29,414,222.</li>
+
+<li>3. During the session immediately preceding the dissolution, estimates of additional expenditure to the net extent of &#x00A3;770,237 were approved, which, when added to the original estimates, made the total revised estimate of expenditure for the year 1928-&#x2019;29 &#x00A3;30,184,459.</li>
+
+<li>4. On the basis of the actual revenue and expenditure for the ten months ended 31st January, 1929, it was estimated, as will be seen from the green book which was distributed last session, that the total revenue for the year would amount to &#x00A3;30,514,766 and the total expenditure to &#x00A3;30,184,459, thus indicating a surplus for the year amounting to &#x00A3;330,307.</li>
+
+<li>5. To this was added the surplus for the year 1927-&#x2019;28 amounting to &#x00A3;47,217 and so an estimated accumulated surplus to the 31st March, 1929, was anticipated of &#x00A3;377,524.</li>
+
+<li>6. The accounts for the year have been closed and the actual results are therefore now available. These show that the total revenue was &#x00A3;30,350,783 and the total expenditure &#x00A3;30,054,959, thus showing a surplus from the year&#x2019;s working of &#x00A3;295,824 which, when added to the surplus for the year 1927-&#x2019;28, amounting to &#x00A3;47,217 showed the actual accumulated surplus at the 31st March, 1929, to be &#x00A3;343,041.</li>
+
+<li>7. This was an exceedingly close result to that estimated, namely &#x00A3;377,524, a difference of only &#x00A3;34,483.</li>
+
+<li>8. In regard to the disposal of this surplus, I will have something to say at a later stage.</li>
+
+<li>9. Hon. members will be interested to learn, that compared with the previous financial year, railway earnings increased by 785,891, while the expenditure incurred on the main services of transportation and mechanical departments in earning that additional revenue involved an increase by the comparatively small amount of &#x00A3;98,656.</li>
+
+<li>10. Arising out of these figures it is gratifying to find that the operating ratio, that is the relationship of railway working expenditure to railway revenue, continues to improve.</li>
+
+<li>11. For the year under review it was 77.80 per cent as compared with 79.83 per cent. for the previous year (1927-&#x2019;28) and 80.68 per cent. in 1926-&#x2019;27, or an improvement over the previous year of 2.03 per cent, and over 1926-&#x2019;27 of 2.88.</li>
+
+<li>12. These figures are indicative of the keen interest which the staff has taken in effecting economies in working and in the prevention of waste. I am sure hon. members will agree that every credit is due to the officers and all grades of the staff for their efforts in achieving this satisfactory result.</li>
+
+<li>13. Our efforts will, of course, be continued in this direction.</li>
+
+</ol>
+
+</debateSection>
+
+<debateSection name="#estimates_for_1929-&#x2019;30">
+
+<heading>Estimates For 1929-&#x2019;30.</heading>
+
+<ol>
+
+<li>14. Turning now to the estimates for the year 1929-&#x2019;30, which were laid on the Table last session, as I then outlined in detail, the prospects for the current year, I will confine <span class="col_127-128" refersTo="page_0091"/>myself now to a recapitulation of the main features only, so that those hon. members who were not present on that occasion may not be handicapped in their understanding of the position and at the same time I will avoid a tiring and perhaps an unnecessary repetition of the lesser important details.</li>
+
+</ol>
+
+</debateSection>
+
+<debateSection name="#expenditure">
+
+<heading>Expenditure.</heading>
+
+<ol>
+
+<li>15. The expenditure then for the year is estimated to be &#x00A3;31,181,118, made up of&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>Railways</p></td>
+
+<td><p>&#x00A3;29,595,436</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Harbours</p></td>
+
+<td><p>1,445,221</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Steamships</p></td>
+
+<td><p>140,461</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;31,181,118</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>16. Compared with the original estimates for the year 1928-&#x2019;29 that amount represents an increase of &#x00A3;1,766,896.</li>
+
+<li>17. The increase is distributed over all heads of working expenditure, but the heads mainly concerned are&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>General Charges</p></td>
+
+<td><p>&#x00A3;133,883</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Maintenance of Rolling Stock</p></td>
+
+<td><p>235,092</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Running Expenses</p></td>
+
+<td><p>272.669</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Traffic Expenses</p></td>
+
+<td><p>140,116</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Depreciation</p></td>
+
+<td><p>390,233</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;1,171,993</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>18. In comparison with the actual expenditure for the year just closed (1928-&#x2019;29) we anticipate additional expenditure during 1929-&#x2019;30 to the extent of &#x00A3;1,126,160, made up of&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>Railways</p></td>
+
+<td><p>&#x00A3;1,025,957</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Harbours</p></td>
+
+<td><p>82,241</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Steamships</p></td>
+
+<td><p>17,962</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;1,126,160</p></td>
+
+</tr>
+
+</table>
+
+<p>the heads under which this increased expenditure will mainly be accounted for being&#x2014;</p>
+
+</debateSection>
+
+<debateSection name="#railways">
+
+<heading>Railways.</heading>
+
+<p>Maintenance of permanent way, &#x00A3;196,000; running expenses, &#x00A3;51,061; depreciation (increased contribution to renewals fund), &#x00A3;390,233; road motor services, &#x00A3;82,338; interest on capital, &#x00A3;292,865.</p>
+
+</debateSection>
+
+<debateSection name="#harbours">
+
+<heading>Harbours.</heading>
+
+<p>Main services, &#x00A3;33,354; depreciation (increased contribution to renewals fund, &#x00A3;11,354; interest on capital, &#x00A3;29,547.</p>
+
+</debateSection>
+
+<debateSection name="#steamships">
+
+<heading>Steamships.</heading>
+
+<p>Main services, &#x00A3;17,912. Total &#x00A3;1,104,664.</p>
+
+<ol>
+
+<li>19. It is estimated that the train and engine mileage for the current year will exceed that of last year by over 2,000,000 miles, or 3&#x00BD; per cent.</li>
+
+<li>20. This, of course, is due mainly to the increase in tonnage of goods and mineral traffic (almost 1 million tons) which in turn is responsible for the increase in running expenses and traffic expenses.</li>
+
+<li>21. Increased expenditure will also result from giving effect to the decision to improve conditions and rates of pay of European labourers, grade 3 clerks and telegraphists, certain grades of coloured labourers, and running staff.</li>
+
+<li>22. It has also been found necessary to increase the provision for depreciation of permanent way and rolling stock assets.</li>
+
+<li>23. This increase amounts to &#x00A3;390,233, and is due to the increase in the capital assets of the administration. Expenditure on new lines and new rolling stock alone has increased in round figures by a sum of &#x00A3;14,000,000 since 1924-&#x2019;25 at which date the lump sum of &#x00A3;1,500,000 was reported to be approximately sufficient contribution for depreciation. The provision now found to be necessary is &#x00A3;1,890,233.</li>
+
+<li>24. The continued expansion of the road motor services and extension of the activities of the tourist branch are also responsible for increase in expenditure.</li>
+
+<li>25. Briefly then these are the main causes of the increase in expenditure of &#x00A3;1,766,896.</li>
+
+<li>26. Here I may add that, in consequence of the increased expenditure due to the improved rates of pay to certain grades of staff, and the decision thereon being taken after the first print of the estimates had been tabled, it appeared at first that it would be necessary to incorporate the consequent increases in supplementary estimates.</li>
+
+<li>27. A review of the whole position, however, bearing in mind, on the one hand, the smallness of the amounts that would require to be asked for in respect of each of the many wages accounts throughout the estimates, and on the other hand, that an almost corresponding saving would be effected under many of the same accounts by reason of economies that will be effected, indicated that it was unnecessary to disturb the estimates that have been submitted, thereby maintaining the gross expenditure at &#x00A3;31,181,118.</li>
+
+<li>28. On the revenue side the general economic conditions of the country indicate a justification for assuming an increase in revenue over that of last year.</li>
+
+<li>29. It is anticipated that the total revenue from all sources will amount to &#x00A3;31,075,947 made up of&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>Railways</p></td>
+
+<td><p>&#x00A3;29,163,622</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Harbours</p></td>
+
+<td><p>1,761,800</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Steamships</p></td>
+
+<td><p>150,525</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;31,075,947</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>30. In so far as railways are concerned this represents an increase of &#x00A3;512,000 or approximately &#x00A3;10,000 per week more than during last year.</li>
+
+<li>31. The average revenue per week for last year was &#x00A3;500,000, so that we are budgetting for a revenue per week of &#x00A3;510,000 and so far as the year has gone there is every reason to think this will be realized.</li>
+
+<li><span class="col_129-130" refersTo="page_0092"/>32. The estimated expenditure, as previously mentioned, amounts to &#x00A3;31,181,118 and so it will be seen that we are budgetting for a deficit on the year&#x2019;s working of &#x00A3;105,171.</li>
+
+<li>33. In the event of this deficit being experienced it will be liquidated from the rates equalization fund which has a sufficient balance at its credit to do this and still leave something for probable future deficits.</li>
+
+</ol>
+
+</debateSection>
+
+<debateSection name="#supplementary_estimates">
+
+<heading>Supplementary Estimates.</heading>
+
+<ol>
+
+<li>34. Mention of the rates equalization fund brings me now to consideration of the supplementary estimates of expenditure which have been laid on the Table, in which hon. members will observe that they are confined in their scope to giving effect to the appropriation of the accumulated surplus at the 31st of March last.</li>
+
+<li>35. As I stated previously, the surplus was &#x00A3;295,824 to which is added the surplus for 1927-&#x2019;28 amounting to &#x00A3;47,217 resulting in an accumulated surplus of &#x00A3;343,041.</li>
+
+<li>36. It is proposed to devote this surplus to the specific purpose of (a) writing out of capital account the value of the Sea Point line, approximately &#x00A3;56,000, (b) writing out of harbours capital account a portion of the remaining cost of dead assets at harbours of &#x00A3;100,074 and (c) a contribution to the rates equalization fund of &#x00A3;186,967, thus appropriating the whole of the surplus of &#x00A3;343,041.</li>
+
+</ol>
+
+<p>Hon. members will therefore see that we are commencing the current year with a closed account.</p>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>A clean sheet?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Yes, but we must of course always bear in mind that we have an amount of &#x00A3;500,000 on the rates equalization fund for possible future deficits.</p>
+
+<ol>
+
+<li>37. In the case of the Sea Point line, this is a necessity by reason of the decision taken earlier in this year to scrap this section of line.</li>
+
+<li>38. In the case of the contribution to the rates equalization fund the amount is determined by what is necessary to increase the amount in that fund to the round sum of half a million pounds and in the case of the dead assets at harbours the amount represents what is left over after giving effect to the other two items.</li>
+
+<li>39. At the present moment the amount standing in harbours capital account against the item of dead assets is &#x00A3;384,588 on which interest is payable annually to the treasury amounting to &#x00A3;13.461. The effect of this contribution out of the surplus at March, 1929, will be to reduce this dead capital and concurrently relieve the harbours from the annual payment of a pro rata proportion of the interest. It also has the effect of making available the said sum for fresh capital expenditure</li>
+
+<li>40. Hon. members will perhaps recollect that this is the second contribution towards the reduction of the dead assets at harbours. The previous contribution being made in 1920-&#x2019;21 when the amount written off was &#x00A3;464,792.</li>
+
+<li>41. In disposing of the surplus in this way it is considered that the best interests of the Administration are being served.</li>
+
+<li>42. There now remains the capital and betterment estimates to be dealt with, which are financed from loan and betterment fund monies.</li>
+
+<li>43. These estimates, in the form known as the brown book, have been laid on the Table, and provide for a total expenditure on all works detailed therein during 1929-&#x2019;30 of &#x00A3;5,654,541.</li>
+
+<li>44. It is proposed to finance this expenditure from the following sources: From loan funds, &#x00A3;4,500,000; betterment fund, &#x00A3;350,000; contribution towards reduction of interest-bearing capital, &#x00A3;250,000, credits in respect of assets written out of capital account, &#x00A3;301,512; capital credits (released material, contributions from municipalities, private companies, etc.), &#x00A3;253.029.</li>
+
+<li>45. The works contemplated consist of those which were in progress at the close of last financial year, on which expenditure during the current year is estimated to amount to &#x00A3;3,158,692 and on new works which will involve an expenditure during the current year of &#x00A3;2,495,849, making a total of &#x00A3;5,654,541, which will be accounted for under the following heads: New construction. &#x00A3;1,313,520; new works on open lines, &#x00A3;2,371,915; rolling stock, &#x00A3;1,180,061; harbours, &#x00A3;363,628; working capital, &#x00A3;265,417; unforeseen works, &#x00A3;160,000.</li>
+
+<li>46. I do not propose to deal with these works in detail as they are largely of a nature that have to be undertaken from year to year in a concern such as our railways, where the development and industrial activities of the country call for more and yet more facilities to deal expeditiously with the transportation of its merchandise and products.</li>
+
+<li>47. There are, however, one or two items to which I might direct your attention specially, and first amongst these is that of the construction of the Postmasburg line.</li>
+
+<li>48. Here I may say that negotiations with the private company, following upon the ratification last session of the agreement entered into with the company, are proceeding satisfactorily. Actual construction is about to be commenced and it is hoped to have the railway opened for traffic in about 12 months&#x2019; time.</li>
+
+<li>49. Other works of an outstanding nature involving considerable sums of money are: Protective measures at level crossings; new quarters, rest rooms, etc.; Bloemfontein, points and crossings shop; Durban, new mechanical shops; Pretoria, new workshops at Capital Park; import and erect 79 engines; purchase of road motor vehicles and equipment.</li>
+
+<li>50. These art all new works for which your approval to expenditure thereon is sought for the first time and I may add that each has been considered on its merits and a sufficiently clear case made out for it to be included in the programme of new works for the year.</li>
+
+<li>51. There will, of course, be further consideration given thereto by the Administration when the detailed estimates of cost are pre pared and approval is sought to commence the <span class="col_131-132" refersTo="page_0093"/>work. I mention this feature in order that hon. members may understand that before new works chargeable to capital are embarked upon, a thorough and searching investigation is conducted so that the justification for each work may be thoroughly established.</li>
+
+<li>52. Although Parliament is again asked to vote a considerable sum for new works and improvements, the constantly increasing traffic and extension of railway communications and road motor services are such that the Administration must continue to spend these large sums if it is to successfully and economically deal with the traffic that is offered for transport.</li>
+
+<li>53. The growth of capital expenditure and the consequent increase in the liability for interest are features which receive constant consideration, but it is equally important and imperative that safe and efficient working shall be established and consequently, while meeting the requirements of the increasing traffic, every effort is made, and will continue to be made, to employ the capital monies to the best possible advantage and so secure the maximum return therefrom wherewith to meet the ever increasing interest charges.</li>
+
+<li>54. When I point out that the capital monies invested in the railways and harbours amounts&#x2014;in round figures&#x2014;to &#x00A3;155,000,000 and that the annual amount disbursed on account of the working services and capital works of the Administration is in the neighbourhood of &#x00A3;28,000,000, the importance of the Railways and Harbours Administration in the agricultural, mineral and industrial life of South Africa becomes self-evident; and the necessity of public support is clearly indicated, if&#x2014;as contemplated in the Act of Union&#x2014;a reasonable return is to be obtained on the capital invested.</li>
+
+</ol>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#road_competition_commission">
+
+<heading>Road Competition Commission.</heading>
+
+<ol>
+
+<li>55. This now leads me to mention the commission which, as hon. members are aware, was appointed this year to investigate and report upon the question of road motor competition and its bearing upon the transport services of the Administration; also the measures, if any, which should be adopted in the public interest for better regulation, co-ordination and control.</li>
+
+<li>56. The Commission comprises one representative each of commerce, industry and agriculture; two representatives of the Railway Administration, and a chairman appointed by the Governor-General.</li>
+
+<li>57. In February last the commission invited, through the medium of the press, considered views and suggestions in writing upon the various phases of road transport, and thereafter commenced a tour Of the Union for the purpose of receiving representations from chambers of commerce, local bodies and others interested.</li>
+
+<li>58. The commission visited Port Elizabeth. Kingwilliamstown and East London during April; Kimberley, Bloemfontein and Harrismith in May; Durban and Pietermaritzburg in June; and was due at Johannesburg and Pretoria in July.</li>
+
+<li>59. The sittings of the commission have met with a gratifying degree of public support, but in view of certain comments which have been made, I would take this opportunity of supporting the chairman of the commission in his efforts to dispel the erroneous impression that the commission is a railway commission, whose aim is to find justification for restricting road transport and bringing it under the control of the Administration. As will be seen from its composition, the commission is more representative of public interests than of railway interests, and its members are, within the terms of reference, unfettered in dealing with the problem before them in the best interests of the country as a whole.</li>
+
+<li>60. It is necessary, however, that the public should realize how closely the prosperity of the Union is bound up with the economic stability and efficiency of its railway system.</li>
+
+<li>61. Many countries in Europe have found it necessary to exercise some form of control over road transport; this is also the case in America and some of the Dominions.</li>
+
+<li>62. A reasonable degree of regulation and control does not necessarily imply vexatious or arbitrary restraint, and it is hoped the private motor transport interests will co-operate heartily in the effort now being made to evolve a system equitable to all.</li>
+
+<li>63. The commission will <i>not</i> complete its labours for some little time&#x2014;the very nature of its work precludes an early conclusion.</li>
+
+</ol>
+
+</debateSection>
+
+<debateSection name="#conclusion">
+
+<heading>Conclusion.</heading>
+
+<ol>
+
+<li>64. In conclusion I desire to reiterate a few words of well deserved praise to the officers and men of all grades in the railway and harbour service.</li>
+
+<li>65. I cannot speak too highly of the support given to me and the railway board by the general manager and his senior officers particularly, and of the general efficiency manifested by all sections of the personnel during the past year.</li>
+
+<li>66. I am sure this House, and the public generally, fully appreciate the loyalty, zeal and efficiency of the staff of the railways and harbours service.</li>
+
+</ol>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>We have listened, I am sure, with very great Interest to the statements of the two Ministers bringing the figures in regard to revenue and expenditure which we had from them before the end of the last Parliament up to date. I am sure it will be in accordance with the wishes of the Ministers and of the House that we should have a little time to consider these statements before proceeding with the debate which naturally will follow upon them, and, therefore, while expressing my appreciation of the clear statements put, before us, I will content myself with moving the adjournment of the debate.</p>
+
+<p>On the motion of Mr. Duncan debate adjourned; to be resumed on 29th July.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1929-07-26T15:25:00">3.25 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

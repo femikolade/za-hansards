@@ -3,7 +3,7 @@ title: '1961 Front Matter Vol1'
 layout: debate
 year: 1961
 volume: Vol1
-categories: hoa debates
+categories: hoa debates 
 ---
 <akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
 
@@ -4882,3 +4882,4 @@ categories: hoa debates
 <debateBody>
 
 <debateSection name="#opening">
+
