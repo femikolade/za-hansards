@@ -1,30 +1,17 @@
-<!-- Html Elements for Search -->
-<!-- <div class="container">
-  <div class="row">
-    <div class="col-12">
-      <div id="search-bar">
-        <i class="fa fa-search" aria-hidden="true"></i>
-        <input id="search" type="text" placeholder="Search..." />
-        <div id="search-result"></div>
-      </div>
-    </div>
-  </div>
-</div> -->
+<style>
+  /* .gsc-input {
+    padding-top: 20px;
+    border: none;
+  } */
+  table td {
+    border: none;
+    padding: 0px;
+  }
 
-<div class="wrap">
-  <div class="search">
-    <input type="text" class="searchTerm" id="search" placeholder="Search...">
-     <button type="submit" class="searchButton" onclick="search_('google')">
-       <i class="fa fa-search"></i>
-    </button>
-  </div>
-</div>
+  .gsc-input-box {
+    border: none;
+    padding-top: 20px;
+  }
+</style>
 
-<script>
-function search_(engine) {
-    var q = document.getElementById("search").value;
-    var url = "https://www." + engine + ".com/search?q=" + q + " site:hansards.org.za"
-    window.open(url, "_self");
-//    window.open(url).focus();
-}  
-</script>
+<div class="gcse-search" data-resultsUrl="{{ site.url }}" data-queryParameterName="search"></div>

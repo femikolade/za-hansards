@@ -10,7 +10,7 @@ This has been a collaborative effort between Historians, Librarians and develope
 * Professor Keith Breckenridge - The Wits Institute for Social and Economic Research, University of the Witwatersrand
 * Dr Stephen Sparks - Historical Studies, University of Johannesburg
 * Mr Azizo da Fonseca - Digitisation Co-ordinator, Wits University
-* Dr Femi Kolade (Ph.D University of the Witwatersrand) - femikolade@outlook.com
+* Dr Femi Kolade (Ph.D University of the Witwatersrand)
 
 This project is funded by the <a href="https://www.mellon.org/grant-details/african-digital-humanities-20444309" target="_blank">Mellon Foundation</a> for promoting African digital humanities.
 Conversion is on-going, hence content and pages are subject to change.
