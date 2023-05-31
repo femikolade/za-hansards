@@ -163,7 +163,13 @@
       let new_text = text.replace(re, marked);
       document.getElementById("text").innerHTML = new_text;
       document.getElementById("searched-term").innerHTML = searched
+      scroll_to_line(searched);
     }
+  }
+
+  function scroll_to_line(searched){
+    $('#text').html($('#text').html().replace(searched, '<a id="imhere"></a>'+ searched));
+    $('html,body').animate({scrollTop: $('#imhere').offset().top});
   }
 
 </script>
