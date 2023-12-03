@@ -54,10 +54,25 @@
         <a id="button"></a>
         <div class="home">
           <div class="breadcrumbs">
-            → <a href="/hoa">House of Assembly</a>
-            → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
-            → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            {% if page.title contains "House of Assembly" %}
+              → <a href="/hoa">House of Assembly</a>
+              → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+              → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            {% else %}
+              → <a href="/{{ page.section }}">Parliamentary</a>
+              <!-- → <a href="/{{ page.section }}/{{ page.year }}">{{ page.year }}</a> -->
+              <!-- → <a href="/{{ page.section }}/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a> -->
+            {% endif %}
             → {{ page.title }}
+          </div>
+
+          <!-- <input type="text" id="search" />
+          <button type="submit" onClick="search(id)" id="button">Highlight</button> -->
+          <div class="search">
+            <input type="text" class="searchTerm" id="search" placeholder="Search within debate....">
+             <button type="submit" class="searchButton" onclick="search_text(id)">
+               <i class="fa fa-search"></i>
+            </button>
           </div>
 
           <div style="padding:10px;">
@@ -73,7 +88,7 @@
             </div>
           </div>
 
-          <div style="padding:10px;">
+          <div style="padding:10px;" id="text">
             <br>
             <h2>{{ page.title }}</h2>
             <span class="old-manuscript">{{ content }}</span>
@@ -105,15 +120,18 @@
         <div class="footer-col-wrapper">
           <div class="footer-col footer-col-1">
             <ul class="contact-list">
-              <li class="p-name">ZA HANSARDS</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
+              <li class="p-name"><a class="u-email" href="/about">About</a></li>
+              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            </ul>
           </div>
 
           <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/femikolade/za-hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">ZA HANSARDS</span></a></li><li><a href="https://www.twitter.com/za_hansards"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">za_hansards</span></a></li></ul>
     </div>
 
           <div class="footer-col footer-col-3">
-            <h1 style="font-size:16px;">Historical debates of the Senate and House of Assembly of South Africa.</h1>
+            <h1 style="font-size:16px;">{{ site.description }}</h1>
           </div>
+          <p id="searched-term" style="display:none;"></p>
         </div>
 
       </div>
@@ -138,4 +156,28 @@
     e.preventDefault();
     $('html, body').animate({scrollTop:0}, '300');
   });
+
+  function search_text(e) {
+    var delete_tag = '<mark>.*?<\/mark>';
+    let text = document.getElementById("text").innerHTML;
+
+    let old_searched = document.getElementById("searched-term").innerHTML;
+    let searched = document.getElementById("search").value.trim();
+
+    if (searched !== "") {      
+      text = text.replace(new RegExp(delete_tag, 'g'), old_searched);
+      let re = new RegExp(searched,"g"); // search for all instances
+      let marked = `<mark>${searched}</mark>`;
+      let new_text = text.replace(re, marked);
+      document.getElementById("text").innerHTML = new_text;
+      document.getElementById("searched-term").innerHTML = searched
+      scroll_to_line(searched);
+    }
+  }
+
+  function scroll_to_line(searched){
+    $('#text').html($('#text').html().replace(searched, '<a id="imhere"></a>'+ searched));
+    $('html,body').animate({scrollTop: $('#imhere').offset().top});
+  }
+
 </script>

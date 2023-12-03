@@ -1,0 +1,1389 @@
+---
+title: 'House of Assembly: Vol7 - WEDNESDAY 26 FEBRUARY 1986'
+layout: debate
+year: 1986
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, 26 FEBRUARY 1986</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1986-02-26T15:30:00">15h30.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#tabling_of_bills">
+
+<heading>TABLING OF BILLS</heading>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>laid upon the Table:</p>
+
+<ol>
+
+<li>(1) Post Office Appropriation Bill [B 64&#x2014;86 (GA)]&#x2014;(Minister of Communications).</li>
+
+<li>(2) Pension Benefits for Councillors of Local Authorities Bill [B 65&#x2014;86 (GA)]&#x2014;(Standing Committee on Constitutional Development and Planning).</li>
+
+</ol>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#fuel_price_adjustment">
+
+<heading>FUEL PRICE ADJUSTMENT</heading>
+
+<summary>(Announcement)</summary>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! The hon the Minister of Mineral and Energy Affairs has informed me that he would like to make an announcement. It is with pleasure that I now give him an opportunity to do so.</p>
+
+</speech>
+
+<speech by="#minister_of_mineral_and_energy_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINERAL AND ENERGY AFFAIRS</person>:</from>
+
+<p>Mr Speaker, I thank you sincerely for the opportunity you have given me to make the following announcement in this House in connection with the fuel price. [Interjections.]</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>First of all I should like to avail myself of this opportunity to express my sincere thanks, as well as the thanks of this House, to my senior personnel. They have worked almost night and day during the past ten days in order to organise and hold talks, and to calculate the necessary price adjustments.</p>
+
+<p>As hon members will recall, I have continually indicated that fuel prices will be adjusted in accordance with the exchange rate. In November last year I was obliged to announce an increase of some six cents per litre, with the prospect of a further increase of equal proportions early this year should the exchange rate not improve, since the actual increase necessary at that stage was in <span class="col_1193-1194" refersTo="page_0634"/>the region of 12 cents per litre. At that stage the cumulative loss on fuel prices was already R211 million. The improvement in the exchange rate caused this backlog to shrink to R129 million by the end of January of this year. At the moment there is still a loss of approximately R22 million.</p>
+
+<p>Since I believe that the exchange rate will maintain its present tendency and continue its upward movement, it is now possible for me to announce an important adjustment in the fuel price. This was made possible after I had held talks with organised commerce and industry as well as with other interested parties. These talks were initiated in January of this year and have just been completed.</p>
+
+<p>The Government has already approved of levies being imposed on fuel prices to supersede third party insurance premiums. On the basis of this decision the following levies on the fuel prices are taken into account in regard to third party insurance. The levy on petrol amounts to 2 cents per litre while that on diesel in the agricultural sector is 0,3 cents per litre and the levy on all other diesel consumption is 3 cents per litre. In addition to this an increased contribution of 2 cents per litre on petrol and of 1 cent per litre on diesel may be added to the National Road Fund, as well as a contribution of 0,6 cents per litre in order to upgrade anti-fire and security measures at petroleum storage depots.</p>
+
+<p>Despite these levies it is nevertheless possible, for example, to pass on to the consumer in the Witwatersrand a price reduction of 10 cents per litre on 93 octane petrol and 8 cents per litre on 87 octane petrol. At the coast the reduction is 8 cents per litre on 98 octane petrol. The reduction will of necessity differ in the various price zones. Hon members will be able to find particulars concerning the price reduction with regard to other petroleum products in a press release to be issued today.</p>
+
+<p>The new fuel prices come into operation at midnight on Sunday, 3 March 1986. I should like to inform hon members that I have held intensive talks with all parties concerned on the question of fuel price maintenance. After considering all the arguments which were presented to me I also came to the conclusion that it would be in the best interests of the motorist, the oil and service station industry and the country if the present system were retained for the time being. However, I want to give the assurance that this matter, as well as other issues, for example the restructuring of the price zone system, certain elements which constitute the fuel price and transportation costs, will continue to receive attention. Hon members will agree with me that these price reductions are indeed good news. I am also sure that this House will agree with me when I call upon all sectors of our economy&#x2014;and in particular commerce and industry&#x2014;to ensure that this reduction in the fuel price makes a contribution to the acquisition of cheaper commodities in the trade.</p>
+
+<p>It is absolutely essential that a reduction in the fuel price should assist in forcing down the inflation rate to a significant extent.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#hours_of_sitting_of_house">
+
+<heading>HOURS OF SITTING OF HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That, notwithstanding the provisions of Standing Order No 18, the hours of sitting on Wednesdays up to and including Wednesday, 26 March, shall be: 15h30 to 18h30.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#additional_appropriation_bill">
+
+<heading>ADDITIONAL APPROPRIATION BILL</heading>
+
+<summary>(Committee Stage resumed)</summary>
+
+<p>Vote No 9&#x2014;&#x201C;National Education&#x201D; (contd):</p>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, in programme No 9, &#x201C;Sport and Recreation Promotion&#x201D;, an increase is indicated in the estimated expenditures compared with the appropriation indicated. In the explanatory memorandum, though, we read the following, and I quote:</p>
+
+<block name="quote">The increase of R196 000 under grants-in-aid is attributable to the fact that the amount was transferred from professional and special services to transfers current in order to make provision for altered requirements.</block>
+
+<p><span class="col_1195-1196" refersTo="page_0635"/>If I may allow myself to return briefly to the political sphere, I should like to make the statement that as far as the Government is concerned&#x2014;and especially as far as sports administrators are concerned&#x2014;we get the impression that racial integration in sport is being encouraged to an increasing extent. In this respect a name which comes to mind is that of Mr Jannie Momberg of Stellenbosch, who at a congress of the National Party also made an appeal for open residential areas. That same gentleman has a lot to do with school sport and so on.</p>
+
+<p>I should now like to know from the hon the Minister whether any part of the above-mentioned amount is being used to promote integration at school sport level.</p>
+
+</speech>
+
+<speech by="#minister_of_national_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF NATIONAL EDUCATION</person>:</from>
+
+<p>Mr Chairman, yesterday evening I was still in the process of replying but this question relates to the one posed by the hon member for Bryanston. I have already explained the R305 000 item. This, then, brings me to the R196 000 item, which relates to both hon members&#x2019; questions.</p>
+
+<p>Give me an opportunity, however, to make an observation on the opposition&#x2019;s reaction&#x2014;albeit a body language reaction&#x2014;to an important announcement made by my hon colleague the Minister of Mineral and Energy Affairs. Apart from the hon member for Bryanston there was no joy to be seen in those benches at this good news for South Africa. I think it is an absolute disgrace. [Interjections.]</p>
+
+</speech>
+
+<speech by="#deputy_chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">DEPUTY CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The R196 000 is constituted as follows: R55 000 was given as a grant-in-aid to the South African Trimgym Union for their participation in a gymnastrada in Israel; R10 000 was allocated to a pilot committee for what one could call the proposed sports council. Hon members will remember that an investigation was instituted, under the auspices of the HSRC under the leadership of Prof Scholtz of Potchefstroom University, into how sport ought to be administratively organised. It was recommended that a statutory sports council be established. I made the Government&#x2019;s reaction to this public at a conference, saying that we were not in favour of a statutory sports council, but that we would welcome sport being organised on a voluntary basis in a sports council, so that the Government could have one body to deal with when it comes to important matters and so that sport can keep its own house in order, while we will continue to recognise the autonomy of sport. We have however promised to assist, and since there are organisational expenses attached to this matter, a pilot committee was established in order to see how this could be brought about in the field of sport. An amount of R10 000 is therefore being given as assistance in this regard.</p>
+
+<p>The remaining amount of R131 000 has been spent to cover the administrative costs of Nasrec. This body is in control of the development of the area, also used for sport, which borders on the new site of the Rand Show society just outside Johannesburg. The Government is committed as far as the provision of the infrastructure on this site is concerned. This amount has been approved for administrative purposes in order to enable Nasrec to set in motion this all-important development&#x2014;more specifically for sporting purposes&#x2014;in the biggest metropolitan area of our country.</p>
+
+<p>In reply to the hon member for Bryanston&#x2019;s contribution, I should also like to say that not one of these contributions, as he has now been able to deduce from my reply, has anything to do with the cricket tour. My department has given no financial support whatsoever to this cricket tour.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>You hate cricket!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I am a great cricket enthusiast; I am a regular spectator! I think it was a wonderful tour and we are all looking forward to next year&#x2019;s tour. [Interjections.]</p>
+
+<p>I just want to tell the hon member for Rissik that he must read the Constitution. He will note that school sport is regarded as an extension of the educational process in schools. My department has nothing to do with official school sport; I have no connection with it whatsoever. In the case of Whites, it falls under the department of my hon colleague the Minister of Education and Culture, and is considered to be an integral <span class="col_1197-1198" refersTo="page_0636"/>part of our schools. [Interjections.] This venomous seed, which the hon member wanted to plant, will therefore not sprout.</p>
+
+<p>Vote agreed to.</p>
+
+<p>Vote No 10&#x2014;&#x201C;Police&#x201D;:</p>
+
+</speech>
+
+<speech by="#soal">
+
+<from>Mr <person refersTo="hansard_za">P G SOAL</person>:</from>
+
+<p>Mr Chairman, in the explanatory memorandum the hon the Minister advises us that one of the reasons for an increase in expenditure is that there has been an increased purchase of stores and equipment under programme 4 as a result of the countrywide unrest. Could he please explain to us whether the increase in the purchase of stores has been to comply with section 49 of the Internal Security Act which provides that the Police shall use weapons less likely to cause injury or death until a gathering has been dispersed. What I want to know, is whether he has made additional purchases of shields, truncheons and visors so that the Police need not use equipment which can kill and maim people.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, we note that additional funds are being given to the Police, and we want to tell the hon the Minister of Law and Order that we support every amount, including additional amounts, which is to be used for the maintenance of law and order and also for the protection of the Police in their action in areas where it is essential.</p>
+
+</speech>
+
+<speech by="#theunissen">
+
+<from>*Mr <person refersTo="hansard_za">L M THEUNISSEN</person>:</from>
+
+<p>Mr Chairman, I should like to refer to the item in the explanatory memorandum where it is indicated that an increase of approximately R51 million is being allocated for logistic support. My request to the hon the Minister is to tell us, when he replies, whether he is of the opinion that this amount is sufficient in view of the continued serious situation concerning unrest in our country.</p>
+
+<p>We also often learn from newspaper reports that the impression is created that some of our policemen are not armed sufficiently. I am referring specifically to reports about the events at Westonaria where two of our White policemen were overpowered and murdered. The question that arises is whether our men are properly or adequately armed and it has been suggested that sometimes, or often, they are not. Does the hon the Minister think the amount allocated for logistic support will be sufficient to enable our policemen to fulfil their task adequately?</p>
+
+</speech>
+
+<speech by="#visagie">
+
+<from>*Mr <person refersTo="hansard_za">J H VISAGIE</person>:</from>
+
+<p>Mr Chairman, I should like to ask the hon the Minister whether it is possible to supply in-service training to policemen who have not completed matric and who now are forced to live outside the Black areas with their parents because of the unrest? Those men would like to pursue the tradition of their parents, but because their children are policemen, the parents cannot live in the Black areas and therefore have to live outside them. Can the hon the Minister not consider this?</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Mr Chairman, I thank the hon members for their support of the additional amount requested, and also for the general spirit in which it was given. Concerning the hon member for Nigel, I merely want to point out to him that unfortunately the matter cannot be discussed in detail during this debate, and I shall appreciate it if he will raise it again under my Vote in the Main Appropriation. I know it is a matter of concern to the hon member, but when he raises it under my Vote, I shall be able to give him a more detailed reply. If I were to elaborate on it now, I think I should be moving away from the debate. I shall give the hon member a complete reply to this later.</p>
+
+<p>Concerning the hon member Mr L M Theunissen, I want to point out that basically no Minister will be satisfied with any budget. That is the way it is. There are all kinds of other schemes and other ideas one would like to see financed, provision one would like to make and things one would like to buy. Unlimited finance is not available, however, and that is why one must try to stay within the confines of the available funds.</p>
+
+<p>I am satisfied that, according to the ability of the State, we have received what we could rightfully lay claim to. There is no doubt about that. Indeed, the SA Police is very, very grateful for the exceptional assistance we have received during the past few years from the State President, the Cabinet, particularly the hon the Minister of Finance, and all officials who are involved in our affairs, to make it possible for us to fulfil our <span class="col_1199-1200" refersTo="page_0637"/>duties. I am happy to say that that is so. There are some of these people who lean over backwards to oblige the SA Police to enable us to do our work as it is required of us. One can be happy and satisfied about that and there is nothing that bothers me. We have a lot of cause for gratitude.</p>
+
+<p>Vote agreed to.</p>
+
+<p>Business interrupted in accordance with Rule 46.</p>
+
+<p>Remaining Votes agreed to.</p>
+
+<p>Schedule, clauses and title agreed to.</p>
+
+<p><b>House Resumed:</b></p>
+
+<p>Bill reported without amendment.</p>
+
+<p>Bill read a third time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transport_services_appropriation_bill">
+
+<heading>TRANSPORT SERVICES APPROPRIATION BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<p><i>Introductory speech delivered at Joint Sitting on 19 February.</i></p>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>Mr Speaker, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p><i>Economic Review 1985-86</i></p>
+
+<p>When the 1985-86 budget was compiled, a real economic growth rate of 1,5% for the financial year was envisaged. This was based largely on anticipated growth in the mining and agricultural sectors. The expected growth in the latter sector was not realised. This, together with unfavourable factors such as the reduced demand for durable and semi-durable goods in particular, sustained pressure on foreign investors and the lower value of the rand, necessitated a drastic revision of the anticipated volume of economic activity for the current financial year. All things considered, it is now expected that there will be a negative economic growth rate of 0,5%. This has resulted in revenue not coming up to expectations and tariffs having had to be increased during the financial year. I shall later elaborate on the extent of these tariff increases.</p>
+
+<p><i>Review of activities and traffic tendencies</i></p>
+
+<p>Against this economic background I shall now review the activities of Transport Services during 1985-86. Except where otherwise stated, the percentage change is in respect of the period April to December 1985 as compared with the corresponding period the previous year.</p>
+
+<p>At the outset I wish to emphasise that Transport Services was by no means a passive onlooker while the economic tendencies adversely affected its revenue and expenditure. Numerous actions were initiated in each of the different branches of the service to meet the situation or at least to counter the consequences as far as possible.</p>
+
+<p>I stated last year that our personnel complement had decreased by 6 000 the previous year. In line with Transport Services&#x2019; declared labour policy of a smaller, more effective and better renumerated labour force, this downward trend continued during the current financial year and the personnel was reduced by a further 8 000. This means that the personnel complement has declined by 53 000, or slightly more than 19%, since the beginning of the recession in 1982.</p>
+
+<p>The assurance is given that the services rendered to our clients did not suffer damage in any way as a result of this reduction; on the contrary, the barometers for effective service reflect the following positive trends.</p>
+
+<p>The number of claims received decreased by 11%. The timekeeping of intercity trains improved by 6% and that of commuter trains by 1%. The latest figures indicate that operating efficiency improved by almost 17%. This efficiency is expressed in gross ton kilometres per train-hour.</p>
+
+<p>The productivity enhancement actions to which I also referred last year have continued. Naturally, the success of these actions is dependent upon the personnel&#x2019;s active involvement. Moreover, employees who are in the practical work situation are better able to identify possible ways and means of effecting improvements and a productivity suggestion scheme was, therefore, launched during the year. Each employee of Transport Services is thereby afforded the opportunity <span class="col_1201-1202" refersTo="page_0638"/>of making a practical contribution and they are rewarded for viable suggestions.</p>
+
+<p><i>Passenger Services</i></p>
+
+<p>Rail passenger journeys decreased as a result of the prevailing economic situation. For the period April to November 1985 commuter journeys decreased by approximately 2% and intercity passenger journeys by almost 15% compared with the corresponding period the previous year.</p>
+
+<p>As a result of the continued declining passenger tendencies, a rationalisation of regional passenger train services was begun during September 1984. These services have already been curtailed by approximately 40 per cent. The frequency of intercity trains has also been reduced and it is expected that a reduction of at least 30% will be effected during the coming financial year.</p>
+
+<p>Owing to the concentration of people in the vicinity of Cape Town, it was necessary to effect improvements to the Cape Town&#x2014;Langa&#x2014;Nyanga and Langa&#x2014;Sarepta railway lines in order to accommodate train sets of 14 coaches. This work was completed in May 1985. Work on the new line to Khayelitsha which was approved by Parliament last year commenced as planned and it is expected that the line will come into use by the end of 1987.</p>
+
+<p><i>Goods&#x2014;rail</i></p>
+
+<p>The total tonnage of revenue-earning low-rated rail goods traffic increased by more than 4%, from 110 million tons to 115 million tons, mainly as a result of larger exports of coal, ores and minerals.</p>
+
+<p>On the other hand, the tonnage of high-rated traffic declined by 4,4%. This decrease is mainly attributable to the drop of 28,6% in import traffic.</p>
+
+<p>In my Budget speech last year I referred to the Transport Services&#x2019; aggressive marketing plan to attract goods. We are not satisfied to handle only 42% of South Africa&#x2019;s total transport market. This leeway resulting from unequal competition will also soon receive further attention. The actions to achieve growth in our share of the transport market at present comprise intensive research into transport needs, the adaptation of services to provide for those needs, more active promotion of services and the conclusion of transport contracts with individual rail users. Much success has been achieved despite the unfavourable economic climate. Revenue derived from the conveyance of newly acquired and regained traffic such as, <i>inter alia,</i> steel, sugar, timber and foodstuffs, amounted to more than R125 million during the past two years.</p>
+
+<p>A further development in the field of rail goods traffic to be more competitive is the mini container concept, about which I shall say more later.</p>
+
+<p><i>Airways</i></p>
+
+<p>The number of passengers conveyed on the services of the SA Airways was seriously affected by the economic pressure and internal unrest. Passengers on the international services decreased by more then 10% and on domestic services by 4%. Special measures were introduced to address these decreases and the effect of the low rand/dollar exchange rate on fuel prices. One of the most important measures was the rationalisation of flight schedules on a demand and supply basis. For instance, certain flights were combined to obtain better utilisation of available capacity with the minimum inconvenience to passengers, whilst other flights were withdrawn from off-season periods and are only operated during peak periods.</p>
+
+<p>Coupled with these measures the Airways introduced many actions to secure passengers. Internally special promotional fares for the development of inclusive tourist journeys were marketed intensively in co-operation with tour operators. Communication with users and potential users is continually being improved. The Airways also has permanent representation on the Tourism Liaison Committee and new travel packages have been developed and marketed in conjunction with regional tourism boards and publicity associations.</p>
+
+<p>Various new international fare incentive schemes were introduced to promote tourism to and from South Africa. With the National Year of the Youth 1985 in mind, a youth fare was implemented, while a Family fare was introduced with a view to promoting tourism in Southern and Central Africa.</p>
+
+<p>In the technical field maximum use is being made of facilities. Considerable revenue is being earned by undertaking maintenance and repair work for other airlines such as Air Mauritius, Transkei Airways, <span class="col_1203-1204" refersTo="page_0639"/>Safair, Air Cape and Luxavia. The SA Airways also does turnaround checks for all other airlines which operate services to South Africa. Measures to curtail expenditure comprise, <i>inter alia,</i> the saving of fuel through better flying techniques&#x2014;for example, quicker turn out after take-off, earlier retraction of wing flaps and the calculation by computers of flight plans, height, distance, speed and the most economical routes&#x2014;and modifications to aircraft engines.</p>
+
+<p><i>Road Transport</i></p>
+
+<p>Revenue earned by the road transport service rose by 12,8%, mainly as a result of an increase of 7,1% in goods traffic, while expenditure increased by 15,4%, largely owing to fuel price increases.</p>
+
+<p>In order to save foreign exchange and standardise spare parts, vehicles are being developed in conjunction with local manufacturers on a continuous basis with a view to adapting to typical South African conditions. In so far as the design of passenger buses is concerned, especially for the conveyance of Black passengers to the independant and national states, more and more emphasis is being placed on passenger comfort and safety. There are now 111 Transtate, 10 Translux and 50 other less luxurious buses in service. It is expected that this fleet of luxury buses will realise revenue of more than R30 million during the 1986-87 financial year. Further expenditure economy measures are the withdrawal of 27 and the rationalisation of 15 other uneconomic services.</p>
+
+<p><i>Harbours</i></p>
+
+<p>The low value of the South African rand as compared with the currencies of our major trading partners does not have only negative consequences for South Africa. Our exporters have been placed in a favourable competitive position and coal exporters particularly have duly exploited this opportunity.</p>
+
+<p>The tonnage of bulk cargo shipped at South African ports increased by 16%. On the other hand, general and bulk cargo landed decreased by 25% and 40% respectively.</p>
+
+<p>A record tonnage of 73 million was handled at South African ports during the period under review. Apart from the coal which normally flows through Richards Bay and the Bluff mechanical appliances in Durban, coal was also shipped through two private bulk handling installations in Durban and by means of grabs over conventional quays at Durban, Cape Town, East London and Port Elizabeth. Moreover, it was necessary to introduce other actions to enhance productivity so that the record tonnage could be handled with fewer personnel. The average tonnage per man increased by 17% during the same period.</p>
+
+<p>&#x2020;<i>South-West Africa</i></p>
+
+<p>As I indicated last year, the first phase of the independence of the rail transport network in South-West Africa was implemented in 1985. The Transport Services&#x2019; assets were transferred on 1 April 1985 and I am informed that good progress has already been made with the adoption of an own national transport policy for South-West Africa. The target date on which all facets of the process of attaining independence in respect of rail transport should be completed, has been set for 1 April 1987.</p>
+
+<p><i>The Transport Services&#x2019; relations with neighbouring states</i></p>
+
+<p>The Transport services continued its stabilising role in Southern Africa during 1985. As a result of the open avenues of communication, mutual understanding in the field of transport co-operation was further enhanced.</p>
+
+<p>From Ciskei in the south to Zaire in the north 6,3 million tons of cargo were conveyed by rail to and from 12 states during 1984-85. Commodities such a maize, wheat, coal, copper, iron, steel, sulphur, fertiliser and fruit are conveyed. This tonnage represents an increase of 25% compared with the previous year. Road and air transport routes to most of these countries, including Mozambique, Malawi, Zimbabwe, Botswana, Zambia, Lesotho, Swaziland, Transkei, Bophuthatswana, Ciskei, Venda and South-West Africa are open and the leasing of locomotives and railway trucks, as well as the rendering of technical assistance and expertise, is regular practice.</p>
+
+<p>The transport infrastructure of South Africa is regarded as one of the most important assets of the subcontinent. I wish to emphasise that it has economic advantages because <span class="col_1205-1206" refersTo="page_0640"/>all negotiations and co-operation are based on strict business principles.</p>
+
+<p><i>De Villiers Inquiry</i></p>
+
+<p>I previously stated that Dr Wim de Villiers had been requested to inquire into the financial and organisational structures of the Transport Services. As numerous other fields of study have since been included, the task has become more comprehensive than initially planned. It will be completed by the end of May this year.</p>
+
+<p><i>Financial Results for 1985-86</i></p>
+
+<p>I mentioned earlier that an economic growth rate of 1,5% was initially expected for 1985-86 but that a negative growth rate of 0,5% is now anticipated. The original estimates for 1985-86 were based on the first-mentioned growth rate and a deficit of R192 million was budgeted for.</p>
+
+<p>The cooling off in the economy has, despite the actions introduced to increase revenue and curtail expenditure, caused a reduction in the Transport Services&#x2019; estimated income and an increase in expenditure. It is expected that the estimated expenditure will increase by R130 million and that the estimated revenue will decrease by R74 million. The increase in expenditure represents only 1,6% of the amount originally budgeted for.</p>
+
+<p>In the revised estimates the working deficit is now estimated at R396 million.</p>
+
+<p><i>Capital budget 1986-87</i></p>
+
+<p>Mr Speaker, the Transport Services succeeded, with due regard to the needs of transport users, in scaling down the R1 650 million which was voted for the 1985-86 Capital Budget, by some R225 million, that is by 13,6%. This amount is partially offset by an amount of R75 million for which provision was not made in the original budget.</p>
+
+<p>Similarly, the 1986-87 Capital Budget has been drastically reduced in view of the prevailing circumstances. Members are asked to vote only R1 046,5 million. A few new proposals aimed at expanding our share in the transport market and also satisfying the transport needs of our clients, are included in the capital programme for the coming financial year. These new proposals include the rationalisation of goods shed services. This comprises unitisation of goods-shed traffic by means of a mini-container concept. The handling of goods is reduced and quick transit assured. The advantage for the user is a better service by way of fast delivery and the minimising of damage. The mini container can be used for the conveyance of a wide range of commodities, from wine to wheelbarrows.</p>
+
+<p>For the Transport Services this consolidation of cargo means better utilisation of existing capacity, lower documentation and labour costs and less capital investment in respect of cartage equipment and rolling stock. This, together with the proposed automatic cargo sorting in goods sheds, should considerably reduce terminal handling costs. In short it means that all the advantages of containerisation are now also being placed at the disposal of those users who dispatch smaller consignments.</p>
+
+<p>The service was officially introduced between Johannesburg and Durban on 1 November 1985 and it is planned to phase it in country-wide within 5 years. There are already 1 800 mini-containers in operation and by the time the service has been fully implemented there will be 60 000 of these containers in use.</p>
+
+<p><i>Prospects for 1986-87</i></p>
+
+<p>Insofar as the economic prospects for 1986-87 are concerned, the picture is brighter. There are indications that the way is paved for a moderate upswing in the economy. This is illustrated by the favourably balance of payments, the increase in exports, lower interest rates, a more favourable rand/dollar exchange rate, a reasonable maize crop and the higher gold price.</p>
+
+<p>The steady international demand for coal, local ores, minerals and certain agricultural commodities supported by the price advantage of the lower rand value on overseas markets in respect of these products, should sustain a moderate export-led upswing during the coming financial year. It should, nevertheless be borne in mind that growing threats of trade boycotts could adversely affect exports and that this may retard such an upswing. Having regard to the foregoing the budget for 1986-87 was based on a real economic growth rate of 2,5%.</p>
+
+<p>If this growth rate is realised, traffic volumes and revenue should reflect a moderate increase. Against this background the Transport Services budgets for an income of <span class="col_1207-1208" refersTo="page_0641"/>R9 322 million and working expenditure of R9 420 million in 1986-87. This leaves an estimated deficit of R98 million.</p>
+
+<p><i>Tariffs</i></p>
+
+<p>Besides the fact that rail goods tariffs are generally too low to ensure the economic viability of the organisation, tariffs in respect of the conveyance of certain types of traffic are still far below cost. To place the first-mentioned matter on a sounder basis a general tariff increase was imperative, while the latter aspect necessitates structural adjustments.</p>
+
+<p>It was therefore necessary to effect tariff scale increases of 15% on 1 January 1986 in respect of rail and road transport goods services.</p>
+
+<p>In the case of harbours, tariffs were increased on average by 7,3%. Excluding wharfage and other non-increasable items, the average increase amounts to 14,2% Owing to the low cost coverage of approximately 40%, tariffs in respect of marine services which are paid by the shipowner were increased on average by 16,8%. As wharfage revenue automatically rises as a result of the increased value of imports and exports, wharfage rates as such were not increased. The minimum value limit on which wharfage is calculated was increased from R83 to R97 per ton. This means that a rate of 87 cents per ton is now being paid for products such as export coal as against the previous 75 cents per ton. Cargo-handling charges were increased on average by 13,3% and harbour cartage rates on average by 15%</p>
+
+<p>The unfavourable developments to which I have already referred, also necessitated tariff adjustments in respect of the South African Airways. Foreign exchange adjustments of 11% on certain international fares had to be introduced with effect from 15 September 1985, whilst a further adjustment of 15% was imposed on 1 January 1986. Domestic passenger fares are being increased by 10% with effect from 1 March 1986.</p>
+
+<p>To compensate for the poor cost coverage of certain commodities it has been decided to introduce structural adjustments in respect of rail goods tariffs with effect from 1 April 1986. Besides the upward adjustment of the tariff line in order to bring it closer to cost, the trend thereof is being amended in such a manner that the tapering effect is reduced over medium and long distances. In the case of high-rated traffic, tariffs are being adjusted by percentages varying from 2,2% over the shorter distances to a maximum of 10% over 4 000 km. The adjustment is, for example, 5,1% for 900 km and 5,2% for 1 700 km. Tariffs applicable to low-rated traffic are being adjusted by 3% over short distances. For 800 km the adjustment is 10,9%</p>
+
+<p>Little traffic is being conveyed further than 800 km, while virtually no traffic is being transported over the longest distance of 4 000 km. In respect of these exceptional instances the adjustments will be 15%. The tariff structure adjustments do not affect livestock, mail and parcels, country-wide container rates, certain unit container train rates, rail contract rates, branch-line levies miscellaneous rates, rental and storage charges, ancillary services and road transport services.</p>
+
+<p>It was initially planned to implement the structural adjustments together with the general tariff increase on 1 January 1986. After due consideration, however, it was decided to spread the effect of the increase on rail users over a longer period and to apply the adjustments only from 1 April 1986.</p>
+
+<p>Continual rises in costs resulting especially from considerable increases in the price of energy and essential imported commodities have made the operation of uneconomic passenger services even more unprofitable. During 1985-86 the fuel price index for the Transport Services was, for instance, on average 61,7% higher than the average price index for 1984-85. The effect of this price increase amounts to approximately R180 million. In the case of electricity the increase was 16,8%. This compels me to increase rail passenger fares on intercity services by 15% and on commuter services by 12,5% with effect from 1 April 1986. The additional revenue from these fare increases is estimated at R27 million for 1986-87 and this will to some extent lessen the magnitude of losses and cross-subsidisation.</p>
+
+<p>Nonetheless, it is expected that rail passenger services will be operated at a loss of R1 100 million during the 1986-87 financial year. It is estimated that compensation from the State will amount to R608 million, which will necessitate internal cross-subsidisation <span class="col_1209-1210" refersTo="page_0642"/>of R492 million. This cross-subsidisation is only made possible by the surpluses realised in respect of Pipelines and Harbours. The estimated surplus for Harbours in 1986-87 is R333 million and for Pipelines R200 million. If the pipeline tariffs were to be reduced to eliminate the surplus, the average retail price of fuel will decrease by only 1,6 cents per litre. Although the saving for the fuel consumer will be minimal, such a concession will result in a considerable increase in the losses on passenger services which cannot be made good by tariffs and/or cross-subsidisation. Such losses will then have to be covered by higher compensation from the State.</p>
+
+<p><i>*Salaries</i></p>
+
+<p>In this budget speech I have thus far reported on intensified marketing and productivity enhancement actions, technological developments and financial measures. I now wish to turn to the exceptionally loyal staff complement of Transport Services. In spite of the difficult financial circumstances the personnel could at all times without hesitation be called upon to increase productivity and to effect even greater savings. These appeals did not fall on deaf ears and there has up to now always been positive reaction and whole-hearted co-operation. Indeed, this was in the spirit of regular negotiations between myself, the Management and the different trade unions which are conducted on an open-hearted and a frank basis. Consequently a feeling of mutual understanding and trust has always existed, something for which we are all very grateful.</p>
+
+<p>Owing to the slow recovery of the country&#x2019;s economy and especially the effects thereof on the financial position of the Transport Services, it was not, unfortunately, possible to approve of any salary adjustments during the past financial year to compensate the personnel for the increased cost of living.</p>
+
+<p>I had in-depth discussions last Saturday with the Federation of Transport Services Trade Unions and other trade unions of the Transport Services in connection with salaries. During these discussions I informed them that the 13th cheque of the personnel which was reduced last year, would be restored permanently and that salaries would be increased by 10% with effect from the April 1986 pay month. Pensions will simultaneously be increased by 8% and phase two of the parity programme will be implemented.</p>
+
+<p>The Federation of Transport Services Trade Unions has expressed their dissatisfaction with the salary adjustment of 10 per cent as the trade unions made a salary claim of 25 per cent. I am sympathetically disposed towards the problems of our personnel and would have liked to have met their wishes more amply. Owing to the prevailing economic situation and the financial position of the Transport Services I regret that it is not practicable to provide for an adjustment of more than 10%. Further negotiations will be conducted with the trade unions as soon as circumstances permit.</p>
+
+<p><i>SA Railways Police</i></p>
+
+<p>Hon members are presumably aware of the present investigation into the possibility of incorporating the SA Railways Police Force into the SA Police. According to preliminary indications it appears that it will be possible to carry through the amalgamation without detriment to members of the SA Railways Police.</p>
+
+<p>My colleague, the Minister of Law and Order, and I have already approved in principle that we proceed to resolve finally the practical aspects of amalgamation. It is expected that legislation in this regard will be presented during the present Parliamentary session.</p>
+
+<p>I have apprised the Railways Police Staff Association of the position and will keep them informed of further developments.</p>
+
+<p><i>Appreciation</i></p>
+
+<p>Mr Speaker, Emerson said: &#x201C;No member of a crew is praised for the rugged individuality of his rowing.&#x201D; In this spirit I wish to express my personal thanks to the personnel of the Transport Services&#x2014;from Dr Bart Grov&#x00E9; right down to the employee in the lowest rank&#x2014;for their efficient team-work. Without their contributions and sacrifices the Transport Services could certainly not have fulfilled its role adequately.</p>
+
+<p>I also wish to thank the different trade unions, who constantly keep their members abreast of affairs, for their responsible conduct. Although 1985 was characterised by numerous problems on the labour front I am pleased to report that the Transport Services <span class="col_1211-1212" refersTo="page_0643"/>once again experienced an exceptional degree of labour peace within its own ranks.</p>
+
+<p>A special word of appreciation to Messrs Dupel Erasmus, Piet Aucamp and Koos Albertyn, the three Commissioners of the South African Transport Services Board, who assisted me in such a devoted manner. My thanks also to the personnel in the Ministry for their loyalty and dedication. Mr Johnnie Muller, Director (Administrative), will retire during this year and I would like to thank him most heartily for the excellent and loyal service he has rendered. The duties performed by him were often more than would normally have been expected of him. I wish him and Mrs Muller a well deserved and long retirement.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, I move the following amendment:</p>
+
+<block name="quote">To omit all the words after &#x201C;That&#x201D; and to substitute &#x201C;this House declines to pass the Second Reading of the Transport Services Appropriation Bill until such time as:</block>
+
+<ol>
+
+<li>(1) a programme to privatise as many services of the South African Transport Services as are in the best interest of South Africa has been implemented;</li>
+
+<li>(2) all racial discrimination in the services undertaken by and the employment practices of the South African Transport Services has been eliminated; and</li>
+
+<li>(3) excessive cross-subsidisation and over-regulation have been eradicated.&#x201D;.</li>
+
+</ol>
+
+<p>This time last year I started by congratulating Dr Grov&#x00E9; and his team on the results that they had achieved. I regret that I cannot do the same this year. There are certainly some achievements of note, such as the continuing reduction in staff, but overall I believe that the actions of the South African Transport Services over the past year have been a direct cause of the incredibly high inflation rate&#x2014;it is now over 20%&#x2014;under which we all suffer. As such, its actions have not been in the best interests of South Africa.</p>
+
+<p>Before I expand on this, I want to deal with the current problem of the staff of the SATS.</p>
+
+<p>I wish to thank them on behalf of the Official Opposition for their services over the past year. I can do this with great sincerity as there are 53 000 fewer of them providing basically the same service.</p>
+
+<p>This enormous reduction is most revealing. It demonstrates clearly the extent to which service to the State had become sheltered employment&#x2014;a &#x201C;job for pals&#x201D; scheme on a massive scale. This applies across the board and not only to the SATS.</p>
+
+<p>The latest proof is that a private sector man put in charge of Escom announced a plan to reduce expenses by R700 million per annum. The size of this saving boggles the imagination and I am certain it could be doubled or even trebled if the same exercise were carried out in every Government department. The &#x201C;job for pals&#x201D; syndrome in South Africa makes the &#x201C;old boy&#x201D; network in another country look like nursery school. They even set up a formal organisation to handle it and called it the Broederbond.</p>
+
+<p>In thanking the staff of the SATS I want to say that I believe they were well paid for the job they did and that their current wage demands are excessive. This year the staff of the SATS would have been paid out R3 110 million in comparison to the R2 870 million of last year. This is an increase of R240 million despite a reduction in staff. The significant figure to look at, in my opinion, is the average wage per employee. This has risen from R10 200 in the financial year ended March 1984 to R12 300 in the financial year ended March 1985, and to an estimated R13 950 in the current financial year. This is an increase of no less than 36,46% in two years. I submit that that sort of increase is more than sufficient to compensate them for the higher rate of inflation which they have to put up with. With their notch increases and their other benefits, they are relatively well-off. Nobody can say they have not had increases; they have. The increases budgeted for the coming year, despite staff reductions, amount to no less than R429 million or 13,8%. South Africa cannot afford more; I doubt, in fact, that we can even afford that much.</p>
+
+<p><span class="col_1213-1214" refersTo="page_0644"/>I realise that part of the increase is intended for the implementation of the 2nd phase of the racial equality programme, but that programme has five phases, so there are still three to come before equality is reached. I find it astonishing that such a situation can exist in the back end of the twentieth century. In the SATS, only Whites may be termed permanent staff and they have far more privileges in many areas than staff of other races. A small indication of this crossed my desk this week. If they are ill, White employees can consult specialists on the advice of their doctors and be paid out by the Transmed Medical Fund. Blacks cannot, because their sick fund does not pay specialists&#x2019; fees. If they require such attention, and want it free, they have to queue at a Black hospital.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Disgraceful!</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Cannot the hon the Minister see the damage to race relations and the harm to South Africa&#x2019;s name that this causes? I appeal to him not to delay the deracialising of employment practices in the SATS any longer. I almost said delousing; it comes, of course, to the same thing.</p>
+
+<p>SATS staff receive other benefits. Do you realise, Sir, that the SATS quietly paid out to its staff an additional R67 million this year? This was for accumulated leave, and was not, I believe, included in the original Budget for this year. This is paid to SATS staff over and above normal leave. It is a special leave allowance which they can lose if they resign, but they can accumulate it and be paid out up to a year&#x2019;s salary when they retire. That is not bad. For some people, a year&#x2019;s salary can amount to between R60 000 and R80 000. Did you know, Sir, that in the financial year ended March 1985, the SATS had no less than R1 591 million invested in their House Ownership Fund which is used for the benefit of the staff, and six sevenths of this is not taxed? There are also the travel benefits for the staff and their families, the golden handshake on retirement and the fact that the SATS pays out R3,25 to the pension fund for every R1,00 contributed by the employee.</p>
+
+<p>Against this background, there is the undoubted spectre of a 20% inflation rate. This is, however, a major problem only for those who earn just enough to subsist. For others, such as the hon the Minister, it means beer instead of champagne or cigarettes instead of cigars. To sum up, I believe that the SATS employee is well looked after and is in a better position than his fellow-worker in the private sector. These militant artisans who are threatening to go on strike should try for a job in the private sector if they are so underpaid. They might then learn some of the realities of life in the cold and hard business world.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>Just leave them alone! You cannot do everything for the Blacks only.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Yes we know who is egging them on. I therefore urge the hon the Minister to hold fast against these demands, for if he does not, the consequences will reverberate through the whole South African economy.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>We are not talking about Black radicals now.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>That brings me to my next subject which is the position of the SATS in the overall economy. In the halcyon early days of railways, they were of major significance in the economic life of the country. The Government acted correctly, therefore, by opening up the interior of the country with railways, and these have been the economic lifelines of many giant enterprises. They still are for many sectors. Without rail links many a mine would be dead.</p>
+
+<p>Today, however, there are competing modes of transport. The railways are no longer as vital to the economic welfare of the land as they once were. Gradually road networks have improved, as have the size and reliability of the trucks. [Interjections.] It would be ridiculous to compare the road transport sector of the 1930s with that of today. In that decade there were no airways of any import, as there are today. From the way he is gesticulating, it appears that the hon member for King William&#x2019;s Town wishes to make a speech, Sir. Perhaps he could hold his remarks until later. [Interjections.]</p>
+
+<p>This Government continues to cosset and protect the SATS, as if they were the only <span class="col_1215-1216" refersTo="page_0645"/>fish in the pond. That is most definitely to the economic disadvantage of South Africa. The late Marmion Marsh once told me that it costs more to rail a certain product from Kimberley to Cape Town than to ship it from Cape Town to New Orleans. What a record that is, Sir! To protect that kind of excessive cost, a host of rules and regulations have been drawn up which make it either impossible or very expensive for the private road haulier to operate. One of the haulier&#x2019;s major costs today is legal expenses. Firstly, he has to apply for and retain permits against lawyers acting for the SATS who lodge objections to many applications or apply for the same permits themselves. We then have the unedifying spectacle of the State spending the taxpayers&#x2019; money to compete with the private sector. Secondly, the hauliers spend money to defend cases where the SATS private police force, acting to protect their commercial interests, lay charges or even impound trucks. In 1955 the SATS Police impounded no less than 295 units. One can picture the disruption of schedules and also the losses sustained by the private sector as a result of this.</p>
+
+<p>I should just like to read from a letter I received only this week from somebody who has a transport business but who, it seems, will not have it for much longer. He writes:</p>
+
+<block name="quote">I employ a total of 26 Blacks who were paid good wages, and in turn they were able to support their families. Therefore a total of plus minus 130 people were relying on the success or failure of my business. Profits were and still are a thing of the future. At least I had a viable business going which was in a small way contributing to the economy of the country. The fears of failure loomed up at all times, but press on we did&#x2014;until The South African Railway Police stepped in! The Road Transportation Act is their Bible and they will spend many man-hours endeavouring to close up a business.</block>
+
+<p>The man goes on to write:</p>
+
+<block name="quote">My business was doing more good than harm to the country. Today, after 18 months of being in business, my staff stands at 10 Blacks. I have only two vehicles left on the road. In a month or two I am going to have to go out of business. When I had to retrench these 16 people, the looks of despair on their faces is something I will have to live with for a long time.</block>
+
+<p>He closes by saying:</p>
+
+<block name="quote">My dreams and ambitions are broken and my desire to improve my position has been lost. What is left for me? At least I can emigrate. But those 26 people and their families are locked in here, hurt by a system they do not understand.</block>
+
+<p>That is a good letter, Sir, and it is a very true one. This is the damage that our Railway Police are causing the economy of this country.</p>
+
+<p>Now the hon the Minister tells us that the SATS is going for a bigger market share. This can only take place at the expense of the private sector. Yet this Government says it intends bringing about more privatisation. Would somebody please tell this hon Minister what privatisation means? [Interjections.] There is a Minister whose specific job it is to accomplish privatisation, and I would suggest that he takes a long, hard look at the SATS. The opportunities are enormous. They range from refreshment concessions on trains to concessions on the whole of the SA Airways; from design and supervision services, which private enterprise could supply, to road motor transport services.</p>
+
+<p>I spoke two years ago about the privatisation of the SA Airways, and was told then by this hon Minister that I wanted to give away all the SATS profitable ventures. I do not notice the SA Airways making too much money, however, Sir. In fact, since the end of the 1981 financial year the SA Airways has lost R188,8 million, and they will lose again this year. One must thus ask oneself the question: How efficient are they? In the air, I believe they are superb. They are safe and they are reliable. However, despite the latest reductions in staff they fly 811 000 passenger kilometres per employee while KLM for example flies 870 000. That is quite a difference. Private scheduled airlines in South Africa board 652 passengers per employee and South African Airways almost half of that at 369. Yet South African Airways continues with the monopoly and a <span class="col_1217-1218" refersTo="page_0646"/>very pricey one at that. I want to say to the hon the Minister that if he will not privatise the SAA he could at least do so with some sections of travel.</p>
+
+<p>Take Upington as an example. I understand that it was decided to reduce SAA flights to Upington&#x2014;I think it was some time last year. These flights were uneconomic and they were going to be replaced with feeder services supplied by the private sector. Everyone had agreed, I am told, but local members of Parliament for that area made representations to the hon the Minister and, being scared of the CP in that area, he stopped the whole scheme. He did this for the benefit of votes for the NP. So SAA still makes losses flying to Upington. I challenge the hon the Minister to tell us whether they do make losses flying to Upington and, if so, why has this not been discontinued and replaced by feeder services which will give people in the area every bit as good a service. [Interjections.]</p>
+
+<p>The SATS have supervision and design services. Are these services economically advisable? I want to quote as an example the Hex River tunnel project. The original tender price for this tunnel from figures supplied to me by the SATS was R27 million. In the Brown Book for this year that figure has escalated to no less than R128 million. [Interjections.] That is nearly five times the original amount. I have it that one of the reasons for this enormous escalation in price is the supervision that has been provided on this project by the SATS. The supervision that has been provided has been one of the direct reasons for the enormous escalation in costs.</p>
+
+<p>The Road Transport Services more than doubled its business between the end of 1981 and the end of 1985, yet the profits were minimal and in 1985 and, I suspect, in 1986 they made losses. Why does the hon the Minister not let the private sector do it? There are long distance bus routes for instance being doled out on permit at the moment following on the successful operation of the Greyhound bus service between Durban and Johannesburg. The SATS is right in there with the private sector applying for routes. This from a government that says it wants to privatise! It does not make any sense. Why must it happen? The private sector has proved that they can do it. They are prepared to fund it. So why should we spend taxpayers&#x2019; money for operations that free enterprise will fund?</p>
+
+<p>When it comes to regulations, I can do no better than to read to you the initial recommendations of the National Transport Policy Study on the freight transport policy. They say:</p>
+
+<block name="quote">Economic concerns should as far as possible be left to the market to resolve; in practice this means that the market should determine what is moved, how it is moved, at which price it is moved, from which origin to which destination it moves, at what level of service it is moved and by whom.</block>
+
+<block name="quote">Financial inequities which currently exist between the modes of transport should be removed.</block>
+
+<block name="quote">Operator quality should be enhanced as far as possible &#x2026;</block>
+
+<p>Later on, on page 26 of this particular report they go on to say:</p>
+
+<block name="quote">Acceptance of the recommendations will mean less government involvement in the transport market, more effective competition, lower administrative costs, less complicated enforcement to be done, less constraints on small businesses, more control over financial matters by those who pay and benefit from the system, a smaller administrative organisational machinery and most of all, a nett savings in costs to the country.</block>
+
+<p>This is why I say the SATS is one of the prime causes of inflation. This study goes on to say that the current direct cost of the road transport permit system is estimated to be at least R60 million per year. There are many ways in which money could be saved, but I shall leave it at that. I am sure the hon the Minister has read this report.</p>
+
+<p>Faced with this situation, surely we can make a start today. Why do we not ease off on transport operators and stop hassling them? We know that we are going to bring amending legislation before the House in the near future. Why cannot we ease off now, and also stop hassling the pirate kombi operators? <span class="col_1219-1220" refersTo="page_0647"/>Let us ensure that they have safe vehicles, but if they have, let us license them to operate. In that way we can save South Africa money and help bring down the inflation rate.</p>
+
+<p>White I am talking about inflation, may I point out that I am on record as having said that the SATS is one of the largest contributing factors to inflation. I also believe that they are pricing themselves out of the market. We are now pursuing the well-known principle of &#x201C;Schoemanomics&#x201D;, which means that if there is a surplus, one should raise the price to find a solution. We have a surplus of transport capacity and we certainly are raising prices. The average railway passenger ticket bought for R10 on 31 March 1984 will on 1 April 1986, two years and one day later, cost R15,71, which represents an increase of 57% over two years. The goods tariff will have risen from R100 to R133,90. Passenger fares on SAA have increased likewise. A ticket costing R100 on 31 March 1984 will next week, on 1 March 1986, cost R149,54, which represents an increase of 49,54% in one year and 11 months.</p>
+
+<p>When one investigates commuter services of the SATS for the financial year 1984-85, one finds that the fare of the first-class passenger, in other words the White, is subsidised to the tune of 78% by the Government, while the fare of the third-class passenger, the Black, is subsidised by only 63%. The White passenger, who can well afford the extra fare, receives a 15% higher subsidy than the Black commuter. I think that is an appalling figure.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>You hate the Whites!</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>As to the increases in tariffs and fares &#x2026;</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>The noise that comes from the hon members of the CP illustrates how valid my case is. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! The hon member must be given an opportunity to deliver his speech.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>As to the increases in tariffs and fares, I contend that they were, and are, unnecessary. Despite the current economic climate the SATS are busy with an enormous capital formation programme. At the end of 1985 they took over R600 million from the public to create a replacement reserve fund over and above their normal depreciation reserve. They maintain that this reserve fund is not capital formation but simply to replace assets. I have news for the General Manager of the SATS. Purchase of assets is what capital formation is always used for. One creates capital and one borrows money, and with those funds one acquires assets. May I ask in passing, Sir, whether hon members know that the SATS, a giant on the South African economic scene with a budget for revenue of R9 322 million in the coming year has only two qualified chartered accountants in its employ? In my opinion that is extraordinary.</p>
+
+<p>In private sector terms, the SATS are making, and have been making for some time, substantial profits. The loss of R396 million this year is after they salted away R550 million. They have budgeted for a loss for the coming year after allowing for R600 million to be hidden in the special reserve account. Their true profit for this year would be R504 million, or 5,4% of turnover. I have had a close connection with the retail motor business for many years. In that industry a pre-tax profit of 5,4% on turnover would be very rarely achieved, and still, on top of that, we have to pay tax. In two years, ending 1984 and 1985, while the South African economy has been suffering, this greedy giant has swallowed up, out of profits, R1 145 million from the South African public. In those two years they reduced the debt ratio from 77% to 67%, and we are paying the cost. The inflation rate of 20% is part of that cost. The price we are paying is a high inflation rate, a depressed economy and massive unemployment.</p>
+
+<p>I have no confidence in a government which allows this to happen. The tariff increases are unnecessary as well as being harmful. I want to say here and now across the floor to the hon the Minister that he is the person who will benefit the most by the reduction in fuel prices of which we have just been informed. That price reduction is certainly going to save the SATS an amount <span class="col_1221-1222" refersTo="page_0648"/>in excess of R100 million in the coming year. I know it and the hon the Minister knows it as well. Will the hon the Minister please give us an assurance before the end of the Second Reading debate that as a result of what has been announced this afternoon, he will no longer proceed with the fare increases which have been announced and which are to take effect as from 1st March and 1st April this year. [Interjections.] We get no answer. He has not got a case and he knows it. He knows that his expenses are going to be lower as a result of this announcement. In addition, that hon Minister, I would think will not have to pay the third party levy on fuel. May I ask the hon the Minister of Mineral and Energy Affairs whether this is the case? Will the SATS have to pay the levy for third party?</p>
+
+</speech>
+
+<speech by="#minister_of_mineral_and_energy_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINERAL AND ENERGY AFFAIRS</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>It would appear that they do not have to pay. So one sees from this that the SATS is going to benefit. So I challenge this hon Minister to reduce the fares now and to announce it at the end of this debate. [Interjections.]</p>
+
+<p>I want to refer to two incidents in which the SATS were involved in the past year. The first incident is the infamous Trojan horse incident. The SATS lent one of their trucks to act as a decoy in which armed police were hidden. This truck was then driven down a street in a problem area and was not stoned. It then retraced its route and was stoned. The police then emerged and opened fire and youths were shot dead. Other members of my party will deal with this matter in other debates. I, however, want to condemn the management of SATS for allowing their truck to be used. I want to ask the hon the Minister whether he knew that it was going to be used.</p>
+
+</speech>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>I am glad that he did not. Does he not realise that relations of the SATS&#x2019; own staff could have been among those killed? What sort of relationship is he building with his 110 000 Black, Coloured and Asian staff by that sort of action?</p>
+
+<p>The second incident is the confiscation and resale of food donated by the United States to starving Blacks in neighbouring states. This must rank as a totally inhuman action. Surely someone, if necessary from the United States Embassy, could have been contacted about it. Surely we as Christians could have delivered it for nothing. To knowingly deprive starving children is surely not the act of a Christian. I would ask the hon the Minister to respond to these two cases.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Mr Chairman, the hon member for Port Elizabeth did not say much about the Appropriation. He discussed other matters. In fact, I thought at the beginning of the hon member&#x2019;s speech that he could at least have made a reference to the rise in productivity, the improvement that has taken place and the contribution which the employees of the SATS have made over the past year. He did, however, say that last year he could have congratulated the General Manager. This year, however, he is not going to congratulate him. The hon member launched an attack on SATS employees. It seems strange to me that here in this House, the main spokesman on transport matters of the PFP makes an attack on people who have made tremendous sacrifices over the past few years. He is the main spokesman on transport matters and serves on the Standing Committee on the Accounts of the South African Transport Services. [Interjections.]</p>
+
+<p>I do not want to say now whether the men are entitled to strike or not. That is not what it is about. I find it strange that that hon member did not have one good word to say about these people&#x2014;all 220 000 of them&#x2014;and their families. [Interjections.] Must we on this side of the House accept that that hon member and his party knows that they have no form of support among those people anywhere? One only needs to listen to his words and to the excessive language he uses when he says: &#x201C;SATS has become an area of sheltered employment &#x2026; jobs for pals&#x201D;. Those are the kind of words he uses. He also says: &#x201C;They are well paid&#x201D;. I ask myself why an hon member such as he, whom one expects to say something positive, whom one expects to make a contribution, attacks the <span class="col_1223-1224" refersTo="page_0649"/>people that have to render that service. In my opinion that is the ultimate in absurdity in politics.</p>
+
+<p>In all honesty I must tell the hon member that he has written off these people. I cannot find any other explanation for his conduct. He has written these people off entirely. Hundreds of railwaymen live in his constituency and I hope they have taken note of what the hon member has said. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! It seems to me that all sides of the House are competing to see who can speak the loudest.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Indeed, Mr Chairman, I really do not want to compete with the hon member for Bryanston in that respect.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>You cannot, even if you tried!</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>No, I cannot compete because the hon member makes more noise than contribution.</p>
+
+<p>The hon member for Port Elizabeth Central says: &#x201C;SATS is one of the foremost causes of inflation&#x201D;. I would like to draw the hon member&#x2019;s attention to a few figures&#x2014;figures which have been available to him over the past 14 days. A Black man who travels 46 times per month on the 20 kilometre stretch between Johannesburg and Soweto, travels 920 kilometres at a cost of 1,5 cents per kilometre. If that same Black man undertakes 46 journeys and covers the same distance of approximately 920 kilometres in an average-sized motor car, which costs approximately R18 000 and has a capacity of 1 800 cc, then the total cost per kilometre for one passenger would be 53,4 cents. In the case of two passengers it would be 26,7 cents.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>Compare that with the costs per passenger in a Black taxi.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>That hon member must please give me a chance. The running costs per kilometre is 16,6 cents and in the case of two passengers it is 8,3 cents. Even if a taxi driver carries five or six passengers it still seems to me as if the cost of using the Transport Services is still lower for every kilometre travelled. However, the hon member, said that SATS was one of the main causes of inflation in this country. I shall come back to the argument of the hon member later because I would rather make my own contribution in this regard than listen to that hon member&#x2019;s arguments.</p>
+
+<p>I should like to say today that the Transport Services are undoubtedly very sensitive to any economic cycle. During a boom there is therefore a greater demand for the service. There is no doubt about that. It would appear to me that a stop-start economy has become a pattern throughout the world. It appears to be simply impossible to bring about a balanced economic growth. Even if there were to be a period of balanced growth&#x2014;without any dramatic upswings&#x2014;it would simply begin to slow down again later. This is the dilemma in which the Transport Services find themselves.</p>
+
+<p>The hon member for Port Elizabeth Central informed us that he did business with the motor industry. That hon member knows that things go well for him when there is an economic upswing. Should the general economic climate, however, be less favourable, then it must certainly have an effect on that hon member&#x2019;s business. Yet it seems that the hon member does not want the recession and the accompanying economic levelling-off to exert any influence on the Transport Services. That is why I say that the Transport Services find themselves in that dilemma.</p>
+
+<p>During the period 1983-84 there was a brief period of growth. It was, however, a growth which was a big headache for South Africa. It was a period of demand-inflation. We experienced excessive consumer spending, with the result that the economy had to be cooled down. The South African consumer had to be restrained with higher interest rates and a strong monetary and fiscal policy. Furthermore the hon members on that side of the House were the people who welcomed these measures. They welcomed the fact that South Africa&#x2019;s economy had to be cooled down. Their main spokesman on finance, the hon member for Yeoville, went from one platform to another saying: &#x201C;But we are overspending in South Africa&#x201D;. There had to be less spending.</p>
+
+<p><span class="col_1225-1226" refersTo="page_0650"/>In such a period of reduced spending&#x2014;it was in fact Government policy&#x2014;it cannot be expected that the Transport Services should not feel the effect of that policy.</p>
+
+<p>That period of our growth which we enjoyed was preceded and followed by one of the most scorching droughts which we have every experienced and which also had a deleterious effect on the Transport Services.</p>
+
+<p>Together with this, the low rand-dollar exchange rate caused South Africa&#x2019;s economic growth to suffer as a result of the financial problems which we experienced&#x2014;not to mention the unrest which we have experienced over the last 18 months. It therefore hit us twice as hard. South Africa suffered a great loss as a result of major withdrawals from the country&#x2019;s capital account.</p>
+
+<p>All those things happened but the hon member for Port Elizabeth Central has not given a single word of elucidation about the background to those things. Now I should like to ask: What would the situation have been today had we ourselves at Transport Services not in 1982 already made provision for a reduction in personnel and in capital expenditure, and had we not adapted gradually to the changed circumstances of a recession in order to reduce its impact? It would have aggravated the unemployment situation in South Africa if the SATS had not gradually cut down and reduced its personnel. Reduction here does not mean that people are retrenched but that that posts which fall vacant are not filled. In addition to this, SATS had to compete with intensified competition in the transport market. I therefore say that there would have been thousands more unemployed today had the SATS not adapted itself to the changed circumstances since 1982.</p>
+
+<p>&#x2020;At the same time SATS has succeeded in providing and running an efficient industry. Higher productivity with fewer people on its payroll has become the order of the day. Moreover, the SATS has succeeded in gaining a little more of the transport market in this country.</p>
+
+<p>Despite its aggressive marketing policy, however, it did not escape the effects of serious inflation. The high cost structure and the recession which resulted in less traffic and fewer passengers were the main causes for the large deficit and for the fact that SATS will have to budget for a deficit in the ensuing year once again.</p>
+
+<p>We now have an accumulated loss of about R630 million, and fares have just had to be increased again. This is, of course, unfortunate, and we are all prepared to admit it because SATS would have liked to balance its books without increasing tariffs and fares. However, as has happened in the past, SATS is once again the prisoner and the victim of inflation today. It is not the villain of the piece&#x2014;as the hon member for Port Elizabeth Central has suggested. It has had to increase tariffs and fares because of external factors that are completely beyond its control.</p>
+
+<p>Of course, Sir, the SATS could well have decided not to increase tariffs and fares, but what would then have happened was that there would have been an increase in the accumulated deficit, and I believe that SATS cannot live beyond its means.</p>
+
+</speech>
+
+<speech by="#swart">
+
+<from>Mr <person refersTo="hansard_za">R A F SWART</person>:</from>
+
+<p>What about the Reserve Fund?</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>I shall deal with the Reserve Fund in due course. SATS has a work force which is considerable; in fact, it is the largest in the country, and that work force has to be reasonably compensated. Therefore SATS has a choice. Either it increases tariffs by a percentage slightly lower than the inflation rate, if possible, or lets the position slide and then has to increase tariffs by a very large percentage at a later stage in one fell swoop. That is certainly what nobody wants.</p>
+
+<p>I admit that SATS is a financially strong organisation with vast capital assets both movable and immovable. There is also no doubt about the fact that top management has to keep a watchful eye on the debt ratio at all times.</p>
+
+<p>*That is why I find it strange, coming from the hon member for Port Elizabeth, that he makes the kind of proposals he made again today. He was trying to imply that the SATS did not in fact incur a loss. He was suggesting that if the high replacement reserve which is set aside every year was used, or even if part of it was used, then losses would be covered. He implies that we had no loss. In other words we must merely take that <span class="col_1227-1228" refersTo="page_0651"/>money, for it is money which we are unnecessarily allowing to lie dormant.</p>
+
+<p>The high replacement reserve is in fact part of our self-financing programme. It is a levy.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>That is my whole point.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>No, the hon member does not want to use it for that purpose; he wants to use it for quite a different purpose. It is a levy for an additional depreciation, and this means that SATS is not obliged to take out extraordinary loans when it comes to replacement.</p>
+
+<p>It is a healthy financial policy and it reduces the pressure on the general capital market. More capital is therefore available for the private sector if the SATS does not compete on the capital market as well. The less the pressure on the capital market, the lower the interest rates. What the SATS is doing now is in fact a good thing, and it is all being done to help in the battle against inflation in the interests of the man in the street. By adopting this policy the SATS is acting in the national interest.</p>
+
+<p>The hon member for Port Elizabeth Central does not see it in this light.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>*Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>You are dead right!</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>He does not see it in this light because he wants to make an easy and cheap political issue of this by telling the people that there is an amount of money hidden away, which the SATS is taking out of people&#x2019;s pockets for no reason at all, money which the SATS could use in order to prevent tariffs being increased.</p>
+
+<p>It is a very simple argument, and the hon member knows it. He should know because all the documents that are available to me are available to him as well. It is clearly indicated to him there:</p>
+
+<block name="quote">South African Transport Services&#x2019; accounting system and financial reporting are in accordance with that of the private sector.</block>
+
+<p>The various accounts are then dealt with. Everything is neatly set out.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Will you send me that document?</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Of course the hon member may have it. In fact, I think the hon member received it as well the other day. The document is dated 28 February 1986, and the reference is HQF 18817/86-87.</p>
+
+<p>*I will send it over to the hon member straight away. The trouble with the hon member is that he serves on standing committees that deal with the South African Transport Services. I must say he is an enthusiastic member; he asks questions where he can, but he reads nothing and does not take anything in. If only he would read and absorb something then the hon member would know exactly how the finances interconnect and how he must determine whether the enterprise is being soundly controlled or not.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Will you send me that document now?</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Certainly.</p>
+
+<p>*I want to point out to the hon member&#x2014;it is after all no secret&#x2014;that a briefing took place at the beginning of this present session during which the entire policy was explained. The hon member kicked up a big fuss today. In fact, his amendment reads as follows:</p>
+
+<block name="quote">This House declines to pass the Second Reading &#x2026; until such time as all racial discrimination in the services undertaken by and the employment practices of the South African Transport Services has been eliminated.</block>
+
+<p>That hon member also has proof of where the management of the SATS is doing this. [Interjections.] He has it as it has been set out in the five phases. The hon member has all the relevant documents at his disposal.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>My friend, it will never happen! Not as long as we are in this House! We will fight it! We will fight it tooth and nail! [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from><span class="col_1229-1230" refersTo="page_0652"/>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Mr Chairman, may I now point out to the hon member for Langlaagte that discrimination against people employed in the respective services is still taking place right under his nose. Indeed it does not happen only in the SATS but&#x2014;and I am sure of this&#x2014;also in companies in which the hon member himself owns shares. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>Mr Chairman, the financial policy followed by SATS is obviously of a very conservative nature. The replacement value of the total assets amounts to approximately R41 billion&#x2014;land excluded. The top management is just as sensitive to the fluctuations and changes in the transport industry as the SATS itself. I also want to congratulate them on their strategic planning. I also want to congratulate the hon the Minister, as political head of this organisation together with the top management of the SATS, on having been able to plan for recessionary periods as well as simultaneously planning for resurgent periods. Neither I nor the hon the Minister are economists by occupation. What we want to know however is this. Now and then we know how money can be made. One thing that I am able to say about the hon the Minister is, Sir, that he knows what a balance sheet should look like. He also knows what is necessary in order to balance the books of any business undertaking. The department which he controls, is a business undertaking, and he knows how to cut his coat according to his own cloth, and not that of another man. When an hon Minister knows that and when his top management knows it as well, then I believe the future of the SATS is assured.</p>
+
+<p>As soon as a particular tendency manifests itself such as the drop in the number of passengers, then trains or flights are cancelled or their routes or timetables altered. That is how to deal with a situation! The management of SATS realise only too well that a change is imminent in the transport policy of this country and that we shall have a freer and more competitive system of transport. It is inevitable. They are, furthermore, in my opinion prepared for this.</p>
+
+<p>But then certain conditions must be laid down that would place the SATS in a better position. One expects athletes who are participating in the same race to start from the same starting point. Everything must be placed on an equal basis. Yet this cannot happen with SATS&#x2014;nor with the private sector&#x2014;unless SATS is relieved of that financial burden of having to provide certain socio-economic services. Furthermore SATS must continually provide its own infrastructure, while the private carrier does not necessarily pay his proportional share for the use of that infrastructure. Such discrepancies must therefore be ironed out, Mr Chairman. They must be rectified. Only then will we be able to have a free system in which everybody can compete on an equal footing in the transport business in this country. Unless these conditions are met, I think SATS will always be in a weaker position than the private sector. This House furthermore has as much an obligation to SATS as it has to the private sector.</p>
+
+<p>There is one thing I would like to say and that is that I regret that SATS is obliged to spend so much less on capital expenditure. In the present financial year it is less than was originally envisaged, but in the ensuing financial year this amount diminishes even further. The planned capital expenditure is now just over R1 000 million. I have already said that a person usually cuts his coat according to the cloth available to him. Therefore SATS is obliged to do so. It often happens that capital obligations imply expansion and new business for the private sector. A lot of the work is not done by SATS itself. If SATS spends R1 000 million or R2 000 million annually it seems to me that the private sector receives the largest proportion of this amount. Therefore it is a pity that now, in a period of economic resurgence, which is just gaining momentum, we are placed in a position where SATS is obliged to lay out less capital.</p>
+
+<p>There are a few aspects of this Appropriation Bill&#x2014;and with this I would like to close&#x2014;which one cannot fail to notice. Firstly SATS spotted the danger signals of a coming recession in time. That is a feather in their cap! Secondly, the contribution that SATS makes to the spiralling cost increases is very small compared to the rising prices which they themselves have to endure. <span class="col_1231-1232" refersTo="page_0653"/>Thirdly, one can say that the management team and the hon the Minister are dedicated in their resolve to remove the backlog of accumulated deficits. Employees and pensioners are no longer expected to be satisfied with a meagre remuneration for what they have endured. The time has come for them to receive a better standard of remuneration. [Time expired.]</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>*Mr <person refersTo="hansard_za">R F VAN HEERDEN</person>:</from>
+
+<p>Mr Chairman, while I was listening to the hon member for Port Elizabeth Central&#x2019;s speech this afternoon it became clear to me once again that he was not actually speaking on behalf of the people represented in this House. If one did not know the hon member had a seat with us in this House, he might just as well have been sitting in another House because, as far as he is concerned, no White railwayman exists on earth. His entire address dealt with the position of those of colour but I shall leave it at that; I believe the voters of Port Elizabeth Central will clarify the matter with him at some future opportunity. [Interjections.]</p>
+
+<p>In the course of my speech I shall revert to a few points raised by the hon member for De Kuilen&#x2014;especially to what he said as regards the Capital Appropriation, the socioeconomic function of the South African Transport Services and the question of the reduction in personnel.</p>
+
+<p>Mr Chairman, I move as a further amendment:</p>
+
+<block name="quote">To omit all the words after &#x201C;That&#x201D; and to substitute &#x201C;this House declines to pass the Second Reading of the Transport Services Appropriation Bill, because the Minister&#x2014;</block>
+
+<ol>
+
+<li>(1) by his practice of announcing the increases in goods tariffs and fares piecemeal has conveyed a confusing impression of the true circumstances surrounding the South African Transport Services;</li>
+
+<li>(2) is accelerating the rate of inflation with certain of the measures built into the budget;</li>
+
+<li>(3) has integrated passenger services, and the segregation measures applied on trains, stations and premises of the South African Transport Services are quite unsatisfactory; and</li>
+
+<li>(4) fails to attend properly to the interests of the White worker in the service of the South African Transport Services.&#x201D;.</li>
+
+</ol>
+
+<p>Last year I pointed out that budgeting for a loss in a given financial year came down to the transfer of a current liability to the period following. The argument simply does not hold water that by means of savings, no matter how laudable this may sound, there is an effort to make good the deficit. If there were any degree of certainty that this would materialise, surely it would not have been necessary to budget for a deficit. Expectations could simply have been reflected in the appropriation figures. After all an appropriation is nothing more than expectations based on a specific series of assumptions as regards a future period.</p>
+
+<p>The management of the SA Transport Services did not succeed in extinguishing the budget deficit for 1985-86; on the contrary, in spite of <i>inter alia</i> the 15% increase in goods rates we had in January of this year, it is now expected that the financial year will show a deficit of R396 million as against the original estimated deficit of R192 million.</p>
+
+<p>This brought about an excessive increase in the structure of rates because, if one had levied only an additional 4% on 1 April last year, revenue from that would have compensated for this 15% which has now been levied over three months. I think it would have been preferable to have budgeted for an increase of 4% last year than to have this year&#x2019;s increase of 15% forced into these three months.</p>
+
+<p>Neither does it end here. Rates have to be increased still further in the coming financial year partly also to make good the accumulated loss of the preceding period. I should like to request the hon the Minister to revert to the years when a balanced budget was submitted annually. In this way one can at least attempt to use rates in the recovery of costs within the period in which they were incurred for operating the services.</p>
+
+<p>We are aware of the provision that the hon the Minister has to generate sufficient revenue by means of rates and passenger <span class="col_1233-1234" refersTo="page_0654"/>fares to cover his expenditure and that the SA Transport Services is operated as a non-profitmaking organisation. It was customary to transfer surpluses, in the years when they still existed, to a reserve fund for financing deficits in the following year. I should be grateful if the hon the Minister would attend to this aspect. I find no directive on how the hon the Minister is to handle deficits which cannot be made good from suitable sources in the current financial year. This appears to me to be a state of affairs unforeseen by the legislator. Perhaps we should go into this in the standing committee but meanwhile I should like to know from the hon the Minister how he is going to finance the expected deficit this year.</p>
+
+<p>In the memorandum of the hon the Minister of Transport Services he indicated that the expected accumulated deficit was estimated at R724,7 million at the end of the 1985-86 financial year. I should like to draw the attention of the House to the fact that this deficit is equal to almost 9% of the estimated Transport Services revenue from all four main services for the financial year 1986-87. This means that all sources of revenue of the SATS are being increased by a further <i>9%.</i> I know of no way other than a direct subsidy from the State in this respect.</p>
+
+<p>I should like to draw the attention of the House to the ever-increasing losses on passenger services. The hon member for De Kuilen referred to socio-economic services. I particularly wish to point out the gigantic amounts the State is supposed to advance for suburban services as a direct consequence of the relocation of those of colour.</p>
+
+<p>This idea of resettlement originated years ago. It is no new idea; on the contrary, this entire system was brought into being to make provision for resettlement. I am now referring to the time when we had a Government which believed it right and proper for those of a distinctive culture and belonging to the same people to be accommodated together, permitted to attend school and church together and to participate in sport together. [Interjections.]</p>
+
+<p>The problem is simply that causes are not being addressed; on the contrary, the problem of losses on passenger services has been and continues being contributed to in uncontrolled ways.</p>
+
+<p>From the nature of the case I have no objection that resettlement took place. Hon members of the CP support this and, in fact, we also supported it in the NP at that time. We were in favour of resettlement because on the one hand it returned residential areas to Whites from which they had systematically been ousted in those years and on the other hand it provided those of colour with dwellings which were neat in comparison with the slums they had inhabited at an earlier stage. Consequently it was a positive contribution to the improvement of the quality of life of the people of this country.</p>
+
+<p>Even more was done. It was argued at the time that people who had been resettled should not pay more for travelling facilities to and from their places of work. This gave rise to the system of subsidies for services to passengers who had been resettled.</p>
+
+<p>Today we find a situation in which not all the inhabitants of these areas are resettled people because large numbers were already established inhabitants of the areas as in the case of Soweto and neighbouring districts. Large numbers were also added as a result of the urbanisation which took place. The demand for commuter services and the attendant losses on them therefore continually increased. Claims were therefore made on an ever-increasing State subsidy.</p>
+
+<p>Industrialists exploited this situation to their own advantage. The establishment of industries in urban areas persisted regardless of incentives offered by the government of the time with a view to decentralisation. Industrialists increased their reserves, profits and dividends partly because they were subsidised by the State as regards <i>inter alia</i> an employee&#x2019;s transport costs. This approach contributed to the problem facing us today which is that increasing numbers of industries are being established in urban areas. It is obvious that this process will continue while this persists.</p>
+
+<p>I argue that industries throughout our country accept the full costs of <i>inter alia</i> the accommodation and transport of their workers and no longer batten on the State. Here &#x201C;state&#x201D; naturally means the taxpayer. We shall see the effect of this very clearly on their cost structures and it will also play its part in the choice of location for their industries if, for instance, they really have to pay for the transport of their people.</p>
+
+<p>I plead for this change of approach especially <span class="col_1235-1236" refersTo="page_0655"/>because the current losses experienced by the SATS on passenger services to my mind are going to increase appreciably in consequence of future Government action. The institution of free trade areas, for example, will contribute to this as this will create a greater demand from the side of commuters. The abolition of influx control will also definitely have a great influence. Increasing numbers of people will be attracted to city centres; the demand for commuter services will increase. We are already saddled with the problem that the commuter service covers only 31% of its costs at this stage; in other words still more subsidisation will have to take place.</p>
+
+<p>The hon the Minister drew special attention to the greater volume of bulk cargo handled by the harbours in the 1985-86 financial year, chiefly in consequence of the low rand value. Exporters of raw materials, especially to dollar areas, naturally gained great financial advantage from this which pleases us and particularly also because of the influence it had on our trade balance. The hon the Minister indicated that more coal in particular was exported and I accept that harbour revenue benefited from this. Nevertheless I should like to ask him whether the conveyance of coal by rail for export purposes is lucrative. Capital investment in line and special rolling stock is enormous and I should like to know whether the rates at present applicable to this traffic cover the total costs attached to it. I was surprised to learn that contract rates&#x2014;I believe such rates are applicable to export coal&#x2014;are not subject to an increase in rates.</p>
+
+<p>I am concerned about the smaller capital expenditure which means <i>inter alia</i> fewer employment opportunities with the SATS as well. In the previous depression the SA Railways created more employment opportunities. Let me put it like this: We had a government at the time which forced the SA Railways to create more employment opportunities for the unemployed. Today we have a government which designs conditions in such a way that, instead of increasing employment opportunities, they are decreased and that by 53 000 since 1982, of which 8 000 occurred last year. I wish to tell the hon the Minister that at present he is negotiating with three times more people than last year who possibly stand to lose their jobs. But that is not all. In this situation there is also enormous discrimination against the White. I have two letters here, one of which was written to a White employee. Unfortunately my time has almost expired but I should like to quote from it. I call upon the hon the Minister to listen because this letter represents shocking discrimination against the White employee on the side of the SATS. The letter to the White employee runs:</p>
+
+<block name="quote">U word hiermee kennis gegee &#x2026;</block>
+
+<p>Obviously this employee had become supernumerary&#x2014;which is a polite way of saying he had become redundant. [Interjections.]</p>
+
+<block name="quote">U word hiermee kennis gegee van die voorneme om u dienste met ingang van 1 Mei 1986 te be&#x00EB;indig &#x2026;</block>
+
+<p>In addition they told him either to go or they would attempt to find work for him within the SATS in the field of his ability but this work would be in a lower grade. The letter continues:</p>
+
+<block name="quote">&#x2026; met dien verstande dat u &#x2019;n gepaard-gaande verandering in die graad en vermindering in loon skriftelik aanvaar &#x2026;</block>
+
+<p>[Interjections.] This man was further informed that he was to indicate in writing his acceptance or rejection within fourteen days of receipt of this letter.</p>
+
+<p>I now wish to quote from the letter sent to Coloured, Indian and Black employees. They are also told that, if they become supernumerary, they can be placed in other posts but&#x2014;</p>
+
+<block name="quote">&#x2026; met behoud van hulle ampsbenaming, salaris en jaarlikse verhoging &#x2026;</block>
+
+<p>Against this the White has either to go or accept inferior work at a reduced salary and inferior conditions of service whereas the Coloured, Indian and Black employees have the right to stay on even if they accept other employment with the SATS. Nevertheless they retain their job title, salary and annual increase. [Interjections.] I therefore wish to request the Minster to give this situation his serious attention.</p>
+
+</speech>
+
+<speech by="#welgemoed">
+
+<from><span class="col_1237-1238" refersTo="page_0656"/>Dr <person refersTo="hansard_za">P J WELGEMOED</person>:</from>
+
+<p>Mr Chairman, the hon member for De Aar put a number of questions to the hon the Minister and I think the latter will reply to them. I should like to respond to only two of the points made here by the hon member.</p>
+
+<p>His first point was that a great deal&#x2014;too much as it were&#x2014;was being done for Black and Coloured people. According to the hon member for Port Elizabeth Central&#x2019;s proposed amendment too little was being done. I wish once again&#x2014;I know we have conducted the same debate in the past&#x2014;to illustrate the conflicting approach of the two parties as regards Coloured workers.</p>
+
+<p>The second point to which I wish to refer&#x2014;it is a source of considerable concern to me as regards the hon member&#x2019;s argument&#x2014;is his view of the subsidisation that is taking place at present. I agree with the hon member that subsidies will have to be changed in the long term; a commission has been appointed on that. This hon member knows, however&#x2014;the hon member for Waterberg also referred to this once&#x2014;that his party, which wishes to apply a policy of total partition, will want to separate in excess of one million Blacks and approximately 640 000 Whites on the East Rand. If we separate them, we shall merely have to convey them to one another again because we cannot destroy employment opportunities on the East Rand.</p>
+
+<p>I wish to tell the hon member that this subsidy on commuter travel of approximately R700 million we are working with now would be negligible if they were to come to power. We wish to state this very clearly to the people out there. They would have to pay out this subsidy tenfold if the CP should come to power. I think I have devoted sufficient attention to this matter for the moment.</p>
+
+<p>I should now like to say a little on the reaction of the hon member for De Aar subsequent to the announcement of rates on television. The hon member spoke of catastrophes, disasters and I do not know what else.</p>
+
+<p>I also wish to convey my thanks to the general management of the SATS which for three days was prepared to furnish information and reply to every one of our questions. I wish to thank its members heartily for what they did for us in making the information available. I requested the information and it was made available to all of us. The important point is how we use and interpret it. Two Opposition speakers considerably distorted the information I had requested. Let us look at facts.</p>
+
+<p>Firstly, I asked very clearly what the most important point was for us to consider when the previous increases in rates and those of 1 April became operative. We were then told that the additional revenue&#x2014;the hon member has these facts&#x2014;would be approximately R760 million. I asked further what we were going to do with that R760 million. I then reached the conclusion that approximately 60% of the increase was being voted for salary and pension increases. Yes, approximately 60% of the total increase is being expended on salary and pension rises. The CP is the party which purports that it will care for the workers. Why does the hon member for De Aar then complain on television if increases in rates are instituted to pay workers? If the hon member for Port Elizabeth Central should complain about that, I would understand his viewpoint because he said we should not increase rates or salaries. Consequently I am satisfied with his standpoint. The hon member for De Aar said, however, that it was not essential to increase rates and that the salary rises granted were too meagre. I am not prepared to enlarge on that argument as it contains no logic. [Interjections.]</p>
+
+<p>It is a pity that the study on national transport policy and the report by Dr Wim de Villiers are not available for purposes of this debate. There are contributory causes why these two reports will be available only later. They would have been of great value to those of us participating in this debate, however, owing to the light they would have shed on the financial problems of the SATS which we have to bear in mind. If we had had the reports at our disposal, the way ahead would have been clearer. I shall therefore attempt today to protect the hon the Minister against the criticism directed at him by saying that he may perhaps be able to furnish us with more replies next year when these two advisers have informed him what direction he is to take.</p>
+
+<p>I am convinced that the urgent adjustments which have to be made should be carried out expeditiously. We cannot proceed <span class="col_1239-1240" refersTo="page_0657"/>with our transport as we have done up to the present. It is unfortunately the case, however, that the transport sector of South Africa is not alone in experiencing hard times. Throughout the world the current tendency is for transport sectors to make relatively revolutionary adjustments. In the USA the State owns only a small portion of transport services. There it was easier to deregulate everything&#x2014;which happened approximately eight to ten years ago. Now the lady who is their Minister of Transport&#x2014;the hon member Dr Venter therefore also stands a chance of becoming the Minister of Transport Affairs in future&#x2014;has to attempt solving a considerable number of problems because Mr Jimmy Carter made many mistakes in his time. [Interjections.]</p>
+
+<p>Mr Chairman, I request that you protect the hon member Dr Venter. [Interjections.]</p>
+
+<p>After deregulation, transport in the USA is facing a new problem. Its minister&#x2019;s greatest problem is to prevent the unlimited concentration of power at present. Over the past 24 months the concentration of power has occurred to such a degree that the individual has once again been exposed to the danger that, for instance, only three or four undertakings could control the aviation of the entire country; in the same way a few enterprises could also control the road transport of the entire country. In debating we should bear this fact in mind as well. When we are faced with this problem, we may possibly also have a woman as the Minister of Transport Affairs and I hope she will be capable of solving these problems.</p>
+
+<p>The same problems emerged in the United Kingdom where they also first had to rid themselves of the role of the State through deregulation and then privatisation.</p>
+
+<p>I shall now pause at the hon member for Port Elizabeth Central&#x2019;s request which was that we should privatise.</p>
+
+<p>I wish to suggest that we first deregulate and, after total deregulation, we may examine what open competition comprises. We can look at the subsidies then and subsequently decide whether we want to privatise and what we want to privatise. I do not believe this coin is one-sided; it has two sides and we should decide from which angle to approach the matter. The history of transport has taught us that it is preferable first to deregulate and then to privatise where desirable. We have to thank people proffering advice and suggestions but let us conduct our negotiations in such a way that prioritywise we take the right steps in the correct order.</p>
+
+<p>I wish to revert to the matter of SATS employees whom I wish to thank for their service. We should all appreciate the dissatisfaction currently rife among SATS employees on the recently announced salary increase. Surely we are all&#x2014;and I include myself&#x2014;&#x201C;transportryers&#x201D; as the hon the Minister of Agricultural Economics and of Water Affairs always calls us. I wish to encourage SATS employees that we &#x201C;transportryers&#x201D; negotiate with one another and pursue the discussion. I wish to appeal today to Mr Benade, Mr Zurich and other leaders of trade unions as well as the hon the Minister of Transport Affairs to pursue negotiations. The SATS in its handling of enormous capital amounts and large numbers of employees fulfils a very important role in the economy and I wish to appeal that we should not start with wild-cat strikes. I believe all who take an interest in the SATS are prepared to meet one another halfway in solving this problem. I appeal that negotiations be pursued for the sake of every SATS employee, from those in the highest to those in the lowest positions. There are many pensioners reliant on the SATS; it is important not to deal the SATS a blow now. According to current policy the SATS contributes R3,25 for each rand an employee contributes to the pension fund. If we paralyse this potential for creating money, we should remember that not only people at present employed by the SATS will be affected, but also the large number of pensioners who are sitting at home waiting for the better days we have to bring about here. Other SATS employees and I cannot help them if additional financial problems are created now. I appeal to the hon the Minister as well as to the trade unions to co-operate so that we may keep communication channels open and have mutual understanding of one another&#x2019;s problems. We cannot deny that such problems exist.</p>
+
+<p>In addition I am concerned about the huge SATS losses which are continually increasing. An even greater worry is the fact that we have to pay approximately 18% in interest on our long-term loans to make good that loss. We should be enabled as soon as <span class="col_1241-1242" refersTo="page_0658"/>possible to extinguish this loss because we are recovering loss after loss from financing costs. According to Dr Franszen the accepted criterion in an accounting system is that there should be a 50:50 ratio between own and outside capital. I am very concerned that, although this ratio was 33% as against 67% at the end of the 1985-86 financial year&#x2014;which is a very good ratio&#x2014;we endanger our solvability principles in the long term if we continue building up losses.</p>
+
+<p>I wish to request the hon the Minister once again to submit the reserve policy to the Standing Committee on the Accounts of the SA Transport Services in the light of these losses. I accept the theoretic principle of the entire reserve policy but I experience certain practical problems in its application. I think we could do well to re-examine and discuss the entire matter. I leave it to the hon the Minister to decide whether he wishes to refer it to the committee.</p>
+
+<p>The market position of 42% is a serious problem because it does not generate adequate finance to cover costs. With the statistics available I attempted calculating a few figures. It appears to me that we should obtain at least 50% and more of the transport market and maintain a current cost structure and the present structure of rates really to emerge from the red. I wish the SATS every success in its effort to achieve 50%+ as soon as possible.</p>
+
+<p>Nevertheless the problem does not end there; it is of a somewhat more extensive nature. I am very grateful to the hon the Minister of Mineral and Energy Affairs. I shall have to tear up this part of my speech as I had prepared another part requesting a reduction in fuel prices. My thanks to the hon the Minister for his announcement. I think this enables the SATS to continue without a loss and even to be able to make a profit.</p>
+
+<p>I appeal to all transport contractors in South Africa, including the SATS, to review certain rates in the light of the reduction in fuel prices. [Interjections.] Here I include the Chambers of Commerce, the Federated Chambers of Industry, the Afrikaanse Handelsinstituut and other similar organisations; they should assist in ensuring that prices to the consumer will be decreased accordingly in commerce and industry.</p>
+
+<p>At the moment almost a third of all the tonnage conveyed is done at a cost cover of 85% and below. That is too great; that requires attention. I know the SATS has designed a phasing-in programme for itself but what concerns me in that respect is our problem as regards this great loss. I wish to thank the hon the Minister of Finance for contributing R608 million to us, of which R150 million takes the form of a direct subsidy and the rest as interest, write-offs, etc.</p>
+
+<p>There is yet another matter which worries me. I am very grateful to see the hon the Minister of Constitutional Development and Planning is present. The thought that this problem may be solved by devolution to regional services councils is no solution to my mind. We are not addressing the fundamental problem; we still have this problem in our midst. If my memory serves me&#x2014;the hon the Minister of Constitutional Development and Planning should correct me if I am wrong&#x2014;the concept was that we should attempt applying those monies received by regional services councils as a first priority for building up an infrastructure in the respective areas and not primarily for transport subsidies.</p>
+
+<p>There is a misunderstanding somewhere among my &#x201C;transportryer&#x201D; friends. [Interjections.] There is a misunderstanding somewhere as I obtain the impression that we are grasping at a straw of which we could be deprived. I am afraid we shall come second in this process and in that case miss the proverbial bus or train. I should like to say that we should discuss this matter again in future to establish exactly how we are to solve this problem. The figure quoted is correct. I enquired about it and it appears that only 31% of total expenditure on commuter travel is covered by revenue. Revenue makes good only 31% of total costs. This represents 22% as regards the first class and 37% as regards the third. Here is a serious problem which we should not play down as of no importance. The community, the passenger and the employer benefit directly and indirectly through these low rates which we should see in perspective but to my mind we are not really addressing the problem.</p>
+
+<p>I hope the solutions will be contained in the reports still to come. I hope so because we can no longer continue subordinating the long-term economic viability of the SATS to total passenger journeys. Only 41% of the <span class="col_1243-1244" refersTo="page_0659"/>costs of total journeys&#x2014;commuter as well as intercity services&#x2014;are covered by their revenue. I know it is easy to say we should increase rates but we have done so already and are losing an increasing number of passengers. This is a many-faceted problem which we will not be able to solve merely by taking a single step. I wish to repeat that I hope the two advisory organisations/persons to the hon the Minister will provide us with a solution to this problem. [Interjections.]</p>
+
+<p>In conclusion I wish to point out that the difficult financial situation in which the SATS at present finds itself will be open&#x2014;so I hope&#x2014;to improvement by the reduction of costs such as the fuel price, increased productivity and a greater utilisation of our existing facilities as the economy improves so that the SATS will show a profit in spite of the loss for which is being budgeted.</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>*Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>Mr Chairman, it is a pleasure to listen to someone who knows his subject and who puts his finger on the problem areas. The hon member pointed out quite a few of our basic problems.</p>
+
+<p>&#x2020;I cannot say the same for the hon member for Port Elizabeth Central who opened this debate. I listened to his tirade against the SATS staff with some amazement, until I realised where it came from. It also made me realise perhaps why his leader and their labour spokesman could not stand living in that atmosphere of viciousness towards people serving the public of South Africa. I am going to take it no further than that. I am not going to quibble with his figures, although I think one will find on analysis that many of those are also incorrect.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Do you think that they should get a bigger increase?</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>I intend to deal with that. However, I should like to start by looking for something nice to say, because I greeted this Budget by calling it &#x201C;a disaster Budget&#x201D;. I want to remind the hon the Minister that when he took office he met one of his staff associations and, having been welcomed, he may remember he said to them: &#x201C;If you think Ben Schoeman was a good Minister, watch me!&#x201D; Well, we are watching him, and he has produced a disaster Budget! If that is what he means by saying &#x201C;watch me&#x201D;, I do not think he is doing so well. [Interjections.] However, I found something nice that I do want to say about the hon the Minister. I think he is a nice guy and he has a lovely sense of humour. I like him as a person, but I am afraid I cannot say the same about the Budget.</p>
+
+<p>There is something I can and will say&#x2014;not just because I shall be contradicting the hon member for Port Elizabeth Central but because I planned to say it anyway. It is a word of appreciation to the personnel of the SATS at all levels for the unfailing courtesy and helpfulness which I have always received from them. The parliamentary staff and the General Manager&#x2019;s office have always been courteous and helpful. I may not always get what I hope to receive, but they have always been courteous. There are of course staff at some stations and elsewhere in the services who are exceptions to the rule. However, I think the overwhelming majority of people using the SATS, whether in the air or on the ground, must be grateful for the reception and the service they are getting. I also think we owe a vote of thanks for the fact that the staff complement has been reduced by 53 000 since 1982. The remaining staff are carrying a heavier workload which, it seems to me, they are coping with both willingly and ably. Of course there are some weak links. There will always be some weak links in a large organisation.</p>
+
+<p>A third thing I want to do in all sincerity, is to compliment the department on the standard of English in their publications. I think they have set an example which many other State departments could follow. Their reports contain idiomatic English and grammatical English and is a pleasure to read, compared to some of the literal translations one comes across.</p>
+
+<p>Having said that, however, there is one point of criticism which I want to raise immediately. I want to tell the hon the Minister quite frankly that I am disappointed in this regard. I placed a number of questions for written reply on the Question Paper for use during this debate. Nine of those questions have not been answered. These questions were placed on the Question Paper 10 days ago. I am aware that according to the rules there is a maximum period of 10 working days during which the department may reply, <span class="col_1245-1246" refersTo="page_0660"/>whereafter the questions may be listed for oral reply. The hon the Minister, however, is hiding behind the technicality of the words &#x201C;working days&#x201D;. These questions have been on the Question Paper for 10 days now. Moreover, they were submitted two days prior to that and I have not yet received a reply to them. I therefore want to say that the hon the Minister should not criticise me should I quote allegations which are as yet unproven because the questions I submitted were designed to obtain the facts of the matter. If the hon the Minister will not give me the facts, then I shall quote the allegations. Consequently, if the allegations are heard and believed, it will not be my fault. I have tried to obtain the facts.</p>
+
+<p>As I have said, the Budget itself is a disaster and I can find little to praise in it. [Interjections.] It is a budget which hits every South African and I believe it was an overreaction to the 1985-86 financial year. Moreover, I question the premises on which it was founded. I believe it repudiates the optimism which the hon the Minister displayed in delivering his Budget Speech as well as that of the hon the Minister of Finance. I should like to give some examples in this regard.</p>
+
+<p>Firstly, let me say that I associate myself with the hon member for Primrose in thanking the management for the information we received in the standing committee. Having said that, I would like to point out that this Budget is based on an exchange rate&#x2014;one of the two &#x201C;goggas&#x201D; two which all sins are ascribed in the SATS&#x2014;of 40 US cents to the rand. In fact, however, as we discuss this Budget, it is rising to the 50 cent mark. Consequently, there is a 25% margin which has been built in pessimistically.</p>
+
+<p>The other &#x201C;gogga&#x201D; which is always used as an excuse, is energy. The fuel price increase has been estimated at 7,6%. In actual fact, the fuel price is dropping, as evidenced by the fact that the petrol price has been reduced by 8 cents per litre this very day. What we have, therefore, is a falling fuel price, whereas the hon the Minister is budgeting for a rising fuel price. In any case, fuel accounts for only R948 million&#x2014;approximately 10%&#x2014;of the total expenditure of the department. The other energy component is electricity. In this respect we have been assured in television news and programmes by the new managing director, whom I respect&#x2014;I believe too that he will accomplish what he is aiming to do&#x2014;that the expenses of Escom would be reduced by millions of rand. Yet this very Budget is based on the assumption of an increase of 12,6% in the price of electricity. Even if the price of electricity were to rise that component accounts for only 4% of the total expenditure&#x2014;an amount of R390 million.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>Mr <person refersTo="hansard_za">D M STREICHER</person>:</from>
+
+<p>How do you arrive at that amount?</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>I am taking the price factor, excluding the increased usage. If I included the increased usage it would amount to an even higher figure. I have all the relevant figures here. This is the actual price estimate, not taking into account the increased consumption.</p>
+
+<p>The only optimistic estimate is the one in relation to the inflation rate. I hope the hon the Minister is right in this respect. He budgets for an inflation rate of 16%. It is now in excess of 20%, and I hope he is right and that it will even be lower than his estimate.</p>
+
+<p>Let us look now at losses on passenger services. The hon Minister is budgeting on the assumption of a loss of R1 100 million on passenger traffic this year. Last year this amount was R767 million. In other words, he is expecting a 43% increase in this loss. The hon the Minister is expecting an increase of 43% in this loss despite two considerable increases in rail and air fares. Unfortunately I do not have the time to deal with this aspect now. Air fares have gone up 36% in six months. The SAA are going to price themselves right out of the passenger market before long. Despite those massive increases in tariffs and fares the hon the Minister is expecting a 43% increased loss.</p>
+
+<p>He has ignored altogether the transfer of the Railway Police to the SA Police Force. We are told that it has not yet been finalised. It is common talk, however&#x2014;common knowledge&#x2014;that it is going to happen. The Railway Police have been told they were going to be transferred. The SA Police Force are waiting to receive them. It is a <i>fait accompli.</i> Yet an amount of R120 million is still budgeted for to pay for the Railway Police for the whole of next year. Unless this expectation is totally unfounded&#x2014;which I do not believe because I have it from reasonably <span class="col_1247-1248" refersTo="page_0661"/>reliable sources&#x2014;it means that an extra R120 million is being taken out of the taxpayers&#x2019; pockets for something which will ultimately not have to be paid for at all.</p>
+
+<p>The accounting system, with all its hidden nooks and crannies, is another aspect which causes concern. Let us take the example of South West Africa. When we were running the Transport Services in South West Africa we suffered losses of between R80 million and R90 million. Since they have been handed over&#x2014;and I do not have the time to deal with all the quotations&#x2014;the losses were down to R40 million last year on the official figures given, with an estimated R50 million for the coming year. According to South West African sources, however, the loss is down to less than R30 million and could even be as low as R26 million. Yet, when we were still running Transport Services in South West Africa we were showing a loss of between R80 million and R90 million a year.</p>
+
+<p>At this stage, Sir, I want to record the reaction of my party to what we believe to be an overly pessimistic budget, and I therefore move a further amendment:</p>
+
+<block name="quote">To omit all the words after &#x201C;That&#x201D; and to substitute &#x201C;this House declines to pass the Second Reading of the Transport Services Appropriation Bill unless and until the Government, <i>inter alia</i>&#x2014;</block>
+
+<ol>
+
+<li>(1) satisfies the House that the estimates of revenue and expenditure are based on factors of such substance that it would not have been possible to reduce the extent of fare and tariff increases without endangering the financial structure of the Department;</li>
+
+<li>(2) provides a more realistic improvement in pensions payable to pre-1981 pensioners in order to alleviate their desperate struggle to survive under the crippling increase in the cost of living; and</li>
+
+<li>(3) takes steps to counteract the effect of the fare and tariff increases on inflation.&#x201D;.</li>
+
+</ol>
+
+<p>Let me move on from that, in the few minutes I have left, to the question of the personnel establishment. I have commented on the reduction in staff but I am concerned about one feature, and that is that in some areas the management tends to become top-heavy. In one sense, of course, they are not top-heavy&#x2014;that is in the General Manager&#x2019;s office where, if they are not streamlining the number of staff, then they are at least slim-lining the staff themselves! I wish them a lot of success with their gymnasium which cost, according to their figures, R23 000 odd but which I was told cost R60 000. We shall look into the aspect of the differing amounts in due course.</p>
+
+<p>However, that is not entirely a new idea. I happen to have here a special notice by the SA Railways and Harbours of 6 May 1940 when the United Party Government introduced a physical fitness scheme for the whole staff&#x2014;not just for the top brass. If I had the time, I would love to quote from this. They had clubs at all the institutes, they were getting equipment, physical instructors were being trained and members of the staff were going to contribute to it themselves. I do not know what the figure would be today but the maximum contribution by Railways&#x2019; and Harbours&#x2019; members was 2s 6d per month. If one had to make the General Manager&#x2019;s staff contribute towards their gymnasium, I think it would amount to more than 25 cents per month! It is, however, good to know that now, 40 years later&#x2014;after this was abolished when the NP took over the Railways&#x2014;the schemes are being reintroduced.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Only for the fat cats!</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>Sir, apart from that lighter slim lining reference, I have been trying to obtain figures with relation to what I called &#x201C;top-heavy&#x201D; staff. I have not been successful; my questions have not been answered. However, having looked at the estimates, I find that the budgeted amount by the head office for administration has increased by 15,4%. Salaries have increased by an average of 10% but the amount needed by the administration has increased by 15,4%. The amount needed by the head office of Harbours has gone up by 15%, whereas the increase with regard to regional offices is only 1,7%.</p>
+
+<p>I also asked for the figures with regard to the catering Head Office but have not received <span class="col_1249-1250" refersTo="page_0662"/>them. What I do have here, is a directory of the catering department which is absolutely studded with &#x201C;verversingsbestuurders, adjunk-en assistentbestuurders&#x201D; and senior superintendents&#x2014;there are nine pages on senior staff in the directory. I can give hon members their office numbers and their home telephone numbers. Nine pages refer to senior staff&#x2014;all administrative&#x2014;while at the moment, as far as I know, they are running only nine refreshment rooms and 41 dining saloons providing catering. [Interjections.] In 1954 there were 49 refreshment rooms and 110 dining cars. Today fewer people are being served by fewer staff and in my opinion the number of administrators&#x2014;the top strata&#x2014;is causing the structure to become totally top-heavy. [Interjections.] One can look at other examples, but I do not have the time for that. My time is almost up, and I will have a few things to deal with during the Committee Stage.</p>
+
+<p>In reply to what the hon member for Port Elizabeth Central said, I believe we must have the best top management at the different levels that we can get. I believe that it should be a contented management and that it should be a management which is rewarded adequately for the quality of the people. I have said before and I say again that I believe we have that quality of persons. Therefore, I so not begrudge for one minute, as the hon Member for Port Elizabeth Central does, the fact that there are 192 members of staff earning a basic salary of above R42 000; 914 above a basic salary of R33 000 and 3 641 earning a basic salary above R25 000.</p>
+
+<p>I want to relate that to and put it into perspective by referring to figures which are very current at the moment on the public lips and particularly from the poison pens, namely, the salaries of members of Parliament. I certainly do not begrudge the fact that some 4 500 employees of the SATS earn more than members of Parliament in basic salary. That is why we are able to draw the professional people, the engineers we need and the professionals of all classes. I do not use that as a stick to beat them with. I welcome it, because it indicates that we are competing with the private sector. However, I wanted to put into perspective that we in this House do not begrudge them that, related to what we ourselves earn.</p>
+
+<p>Mr Speaker, I will have to stop now, but I will come back to other matters during the Committee Stage.</p>
+
+</speech>
+
+<speech by="#van_der_watt">
+
+<from>*Dr <person refersTo="hansard_za">L VAN DER WATT</person>:</from>
+
+<p>Mr Chairman, I listened most attentively to the hon member for Durban Point. He always speaks with exceptional sensitivity and with great sincerity on the problems of the SATS. Nevertheless I think he could perhaps have spoken with a little more appreciation this afternoon about circumstances in which South Africa and in particular the SATS find themselves in consequence of weak economic conditions and financial factors. [Interjections.]</p>
+
+<p>My basic, critical question to the SATS is whether it provides its clients with a safe and efficient service based on commercial principles and at the lowest possible costs. To answer the question and establish this I wish to attempt an objective evaluation and critical analysis of certain sections of the SATS by placing them under a magnifying glass.</p>
+
+<p>What problems are they experiencing? How and when did they originate? Have measures been instituted to combat these problems? In other words, is the SATS to blame for the problems or not? Has the SATS remained quiescent in difficult economic times, looking on and doing nothing to ward off or reduce the paralysing consequences? This remains the acid test: What has it done?</p>
+
+<p>As regards the operating section, the most important single problem is the planning of rolling stock needs for a transport market in a phase of considerable uncertainty as a result of increasing external influences such as weak economic factors and financial problems all exerting a definite effect on export volumes; in other words, limited capital funds for rolling stock and uncertain projections are fundamental problems here.</p>
+
+<p>What measures have been taken by the SATS to combat these problems? This is the critical question to the SATS. In the short term there was compulsory increased utilisation of existing assets such as the refinement and longer retention in service of certain locomotive and wagon fleets. In the long term, capital investment programmes are being eased and wagon purchases planned and limited to shortages which are not expected to be of a critical nature.</p>
+
+<p>The extent of this section emerges from <span class="col_1251-1252" refersTo="page_0663"/>the following statistics: There are 180 000 goods and main line passenger vehicles and 4 000 electric and diesel locomotives in service; there are 100 000 vehicle movements and 5 000 train movements a day; there are 20 000 loadings a day for which empty wagons have to be provided and off-loading arranged.</p>
+
+<p>I wish to illustrate the practical problems of this section further. The adherence to a timetable of intercity and commuter trains as well as the fast, regular and dependable throughput of traffic remains the subject of continuous and even justified criticism. The regions are not yet attaining the stated objective of 85% for intercity trains and 95% for commuter trains. Technical problems such as the faulty functioning of points, signals, locomotives and overhead power contribute greatly to delays experienced.</p>
+
+<p>What is the SATS doing to solve these problems? In the different regions meetings are convened daily at which representatives of the different technical departments analyse the previous day&#x2019;s delays in conjunction with the operating section of the department and then formulate action programmes to obviate similar delays. These action plans have already brough about an appreciable improvement. Consequently the punctuality of intercity trains has increased by 6% and that of commuter trains by 1%. This example proves that the SATS pays attention to problems and attempts their solution daily.</p>
+
+<p>As regards the commercial section, the most important single problem is the rate structure for goods and in particular internal cross-subsidisation. The disadvantage of this is the distortion on the transport market by which the normal market mechanism of supply and demand is hampered.</p>
+
+<p>The SATS is not to blame for internal cross-subsidisation. This is traditional and arises from the fact that goods of higher value had to assist the export of agricultural products of a lower value at the beginning of the century. Most branch lines were built early this century to stimulate the development of the interior and remote areas. From the nature and volume of the traffic, these lines have been operated uneconomically in the main over the years.</p>
+
+<p>Now the pivotal question is again: What measures are being taken to solve these enormous problems? I wish to mention a few. Conveyance contracts are entered into and services modified to tailor them to the needs of transport users. There is a competitive rate structure adjustment and investigation into the economic viability of branch fines. There is substitution of efficient road transport services for rail services.</p>
+
+<p>In our critical evaluation we should therefore not forget that the goods rates structure is historic in origin in that the Railways of the time were obliged to promote the development and establishment of agriculture and industry in the country by means of cheap transport. Nevertheless the SATS cannot change its rates policy overnight as such a step would have an adverse effect on the economy of the country. The SATS is not to blame for this and these historical facts should be taken into account in our criticism of the SATS.</p>
+
+<p>I wish to analyse a last section which is the characteristic and traditional one of rail passenger services. Here there are many and enormously complex problems, some of which have existed for a number of decades. Since 1950 there has been a perceptible decrease in passenger figures for the first and second class; since 1977 this has also been the case among passengers travelling third class. For the past number of years&#x2014;including the year just ended&#x2014;problems have remained more or less the same.</p>
+
+<p>There is compulsory provision of uneconomic socio-economic commuter services and uneconomic local and intercity rail services in the national interest. This causes passenger rail services to be operated at enormous and ever-increasing losses annually. There are increasing operating costs. Passenger traffic is orientated to peak periods and seasons with the result that there is low occupancy in off-periods and in the off-season. There is a decline in passenger numbers in consequence of poor economic conditions and because increasing numbers of passengers are making use of minibuses, kombis and cars.</p>
+
+<p>The SATS has once again attempted, however, to solve or reduce these problems by taking the following steps: Periodic adjustment of passenger fares; undesirable but inevitable cross-subsidisation; pruning of expenditure in all fields, for example the rationalisation of rail services and the intensive <span class="col_1253-1254" refersTo="page_0664"/>use of the existing passenger fleet; off-period and other incentive passenger fares; the rescheduling of trains to adjust to traffic flow; longer train sets; flexible working hours and the purchase of electronic ticket machines for the speedy issue of tickets.</p>
+
+<p>After these analyses, I retain not the least doubt that the transport function and management of the SATS furnish its customers with a safe and efficient service based on commercial principles and at the lowest possible costs in difficult times and circumstances. A logical conclusion is that the SATS does not idly contemplate the influence of weak economic trends on its revenue and expenditure; on the contrary, the ray of light in this year&#x2019;s appropriation is that the different departments of the service took the initiative scores of times to combat difficult conditions or at least to curb their consequences as well as possible.</p>
+
+<p>One is certainly grateful for and proud of this unique organisation, unique because it deals with practically all forms of transport, provides for almost any profession, is the largest single employer in South Africa, provides a 24-hour service, its dedicated employees are stationed over the length and breadth of South Africa as well as overseas and it furnishes a national service. In addition it is unique in that it is indispensable in the new South Africa and also for stability in Southern Africa.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>Mr Chairman, the hon member for Bloemfontein East opened his speech by asking whether the SATS was safe and efficient whereupon he answered his question in the affirmative himself.</p>
+
+</speech>
+
+<speech by="#soal">
+
+<from>*Mr <person refersTo="hansard_za">P G SOAL</person>:</from>
+
+<p>Is the hon the Minister efficient?</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>As regards efficiency, some of us are not as satisfied as the hon member. We do agree, however, regarding safety. In the SATS annual report the safety of the conveyance of not only passengers but its own employees is mentioned with pride and justification. To those of us who are aware of accidents and their likelihood and especially to those of us who often fly by SAA, this is naturally one of the reassuring aspects of our journeys through South Africa. Often on our landing in Cape Town or Johannesburg, the captain says with justification: &#x201C;Listen, passengers, the safest part of your journey is over; please drive carefully.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>&#x2018;The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>And the cheapest! [Interjections.]</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>For this reason it is very disappointing to me as a medical practitioner that the hon the Minister and his department, while providing a safe transport service, form part of an organisation spreading disease in South Africa and attempting to assist it. I am referring especially to the gigantic advertisements encouraging the smoking habit in South Africa which are displayed by the hon the Minister and his department. If one goes to airports or stations, one is greeted not with photos of South Africa and ideas on how to enjoy the beauty of our scenery but with the most enormous advertisements for John Rolfe and such outlandish commercial brands. The hon the Minister of Agriculture and Water Supply is flashing a cancer stick at me. [Interjections.] If one enters airports, one finds the same: advertisements everywhere, one after the other, to encourage people to smoke.</p>
+
+<p>I think the hon the Minister and his department will admit that it is not only older people who use or visit stations and airports; they are also used and visited by thousands of children, students and other young people. It is these young people who are motivated by advertisements which is the very reason they are placed. Advertisements are intended to encourage people to use the advertised goods. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>What about liquor?</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>The hon the Minister will recall that I put a question to him last year on the revenue of his department. I now ask the hon the Minister whether he thinks revenue from advertisements is really worthwhile if they cause so much damage to the youth of our country and our health.</p>
+
+<p>The hon the Minister now has a golden opportunity because the hon the Minister of Mineral and Energy Affairs announced a reduction in the price of fuel today. We know the hon the Minister of Transport Affairs will not increase passenger fares now but <span class="col_1255-1256" refersTo="page_0665"/>perhaps he could sacrifice the small amount of money he obtains from advertisements. A Government department should certainly not accept advertisements of this nature. I think most of us, especially the non-smokers, would gladly pay that extra one tenth of a cent on fares in preference to seeing the retention of these advertisements.</p>
+
+<p>The hon the Minister of Transport Services is aware that the new hon Minister of National Health and Population Development, under the influence of the hon member for Hillbrow&#x2014;thank God this hon Minister is unlike his predecessors and that an hon NP Minster has ultimately listened to the hon member for Hillbrow&#x2014;recently announced that there would now be an indication on cigarette packets that the smoking habit was injurious to a person&#x2019;s health. We hope, however, that the hon the Minister of National Health and Population Development will go further and forbid cigarette advertisements. I then wish to request the hon the Minister of Transport Services in all fairness&#x2014;he certainly does not want to follow my advice&#x2014;to discuss this matter with the hon the Minister of National Health and Population Development. He should also ask him whether his department, the SATS, can continue as the only Government department advertising cigarettes.</p>
+
+<p>Until recently cigarettes were advertised on radio. Our news was sponsored by cancer, cardiovascular diseases and bronchiectasis, as it were. Why does the hon the Minister wish us to be sponsored entirely by these deadly diseases? I request the hon the Minister sincerely to attempt to do something so that I need not put this request to him again next year. [Interjections.] That hon Minister likes the word &#x201C;waaragtig&#x201D;. I am telling the hon the Minister in truth that I shall talk on the same matter year after year until the hon the Minister listens to us. [Interjections.]</p>
+
+<p>I also wish to ask the hon the Minister why we non-smokers &#x2026;</p>
+
+</speech>
+
+<speech by="#meyer">
+
+<from>*Mr <person refersTo="hansard_za">R P MEYER</person>:</from>
+
+<p>Marius, when last did you smoke?</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>That is the big NP question now. You see, Sir, when you and I were young, we did not have the opportunity of listening to such an excellent pronouncement in Parliament against the smoking habit as the speech I am making at present. [Interjections.] At the time we were not informed of the dangers of which we are now aware. The hon member for Johannesburg West asked when last I had smoked&#x2014;it is more than three years ago. As I said last year, I bitterly regret every cigarette I ever smoked.</p>
+
+<p>I am grateful that the hon member for Johannesburg West has given me an opportunity of begging my hon colleagues in this Parliament to cease the smoking habit; it can only cause problems and illness. [Interjections.] We should carry the message from this Parliament to the people out there.</p>
+
+<p>I know I am wandering from the subject but in my profession I am involved regularly&#x2014;I repeat regularly&#x2014;with the ultimate consequences of smoking which are cancer of the lungs, chronic bronchitis, emphysema, cardiovascular diseases, peripheral vascular diseases&#x2014;oh, I could speak for a week on all the diseases caused by smoking. I can almost say it causes one&#x2019;s hair to fall out and in-growing toenails. [Interjections.] Oh, smoking may be the cause of everything bad.</p>
+
+<p>My time is running out and there is yet another matter I wish to bring to the hon the Minister&#x2019;s attention. Why is the first announcement we hear after the aircraft has taken off that passengers may smoke and the last before landing that they should stop smoking? Why should smokers have this privilege? Why is it that they should smoke immediately the aircraft has taken off? And why should they stop just before landing? [Interjections.] I warned the hon the Minister last year but he does not want to listen. Note the drubbing he received from people today and here am I trying to help him so that he may receive only praise next year. There is increasing proof that the passive smoker is also influenced by smokers. Nobody smokes in church and also in cinemas, so why&#x2014;this happens especially in South Africa&#x2014;should people sit and smoke as soon as they board a plane? Domestic flights last for two hours at the outside. Why is it necessary for them to smoke the whole time? [Interjections.] I do not expect it to be totally prohibited. I should like to request the hon the Minister and his department possibly to limit smoking time on aircraft. [Interjections.] We could give smokers a shorter time to smoke. Surely it is unnecessary <span class="col_1257-1258" refersTo="page_0666"/>that, as soon as the plane takes off, they should start fidgeting assiduously&#x2014;just like a number of fowls scratching around&#x2014;to get hold of their packets of cigarettes and light up, with resultant clouds of smoke. In the evening, especially on the seven o&#x2019;clock flights, one cannot even read as there is too much smoke in the air. The machines which are supposed to purify the air cannot even keep up and simply collapse because there are too many smokers. Allow people to smoke for a shorter time; for example, allow them five minutes&#x2019; smoking time after an hour&#x2019;s flight and then have them stop again.</p>
+
+<p>I should now like to confine myself to the Transmed Relief Fund. I should like to speak to the hon the Minister and the hon member for Primrose about Transmed which is a discriminatory medical fund. Unfortunately my time has expired. Last year the hon the Minister answered me jocularly but I now wish to direct a request to him again. I wish to request him to try to be serious as I am serious. If he cannot refute the arguments I have used today, I expect him to carry out my request. [Interjections.]</p>
+
+</speech>
+
+<speech by="#malherbe">
+
+<from>*Mr <person refersTo="hansard_za">G J MALHERBE</person>:</from>
+
+<p>Mr Chairman, I want to tell the hon member for Parktown that I smoked for many years, and it was wonderful. But then I reached a stage in my life when I had to make a decision. There are of course three delectable things in life, but when one reaches a certain age one of these has to be relinquished. So I decided to stop smoking. I therefore understand both points of view. I just want to ask the hon member for Parktown which of those three delectable things is he now dealing with. As a wine farmer I would strongly recommend that he keeps on drinking. [Interjections.] In all seriousness I want to ask the hon member whether we should not adopt an attitude of live and let live as far as the smoking habit is concerned? I do not like someone who continually tries to impose his will on another person. There are some hon members who smoke and ask why they should die with healthy lungs. Why not allow them to smoke? I do not think that one should impose one&#x2019;s will on them.</p>
+
+<p>I also want to refer to cigarette advertisements. I have not yet seen an advert which stated: &#x201C;Now you must start smoking&#x201D;. The only thing that is stated in the advert is: &#x201C;Smoke brand X&#x201D; or &#x201C;Smoke brand Y&#x201D;. Those advertisements are a considerable source of revenue for us. It forms part of the built-in cost structure of the SATS. If, on the other hand, we can find someone else that advertises a good make of brandy, then I agree that we can do away with cigarette advertisements.</p>
+
+<p>I just want to make one last remark about the speech by the hon member for Park-town. I agree with him that we are proud of the safety record of the SATS. We are deeply grateful. I shall refer later to the efficiency of the SATS, about which the hon member seems to have doubts.</p>
+
+<p>I should like to refer in general terms to the tariff policy of the SATS. It is a generally known fact that attempts are being made to run the SATS as a business concern. The question that arises, however, is to what extent they have proved successful. Conflict is inherent within this question as well as the tariff policy of the SATS. Yet it is a fact that Dr Bart Grov&#x00E9;, his senior staff members and all the other officials are in earnest about it. Let us look at some of the things the SATS is doing in this regard. Let us consider their rationalisation programme, the application of modern techniques and technology, the cutting down on personnel, which involves thousands of posts, the good and thorough planning and, unfortunately, tariff increases. We realise of course that these tariff increases are necessary. A business concern cannot be continually run at a loss. We in South Africa have for years considered the Railways as the national carrier, which had to render certain socio-economic services to the country. I must admit, however, that we may hitherto have over-emphasised these social responsibilities. We have always considered it the responsibility of SATS. Our country is large and transportation takes place over vast distances and that increases costs, with the result that the services rendered become uneconomical.</p>
+
+<p>The most well-known aspect of this has been discussed by other hon members, namely the tremendous losses on passenger transport. Last year there was a loss of R840 million, of which R405 million was financed by the Treasury. For the new financial year provision is being made for a loss of R1,1 million, which is incredibly high.</p>
+
+<p>At this stage I would like to return to the <span class="col_1259-1260" refersTo="page_0667"/>speech made by the hon member for De Aar. I am profoundly grateful that that hon member is not my economic adviser. The hon member complained about the inflationary effect of the new tariffs. A few moments later he alleged that it was the duty of SATS to look after White railway workers and that SATS had failed in this regard and was not looking after their interests. Yet the hon member for Primrose pointed out that in order to pay those salaries the tariffs would have to be increased. I cannot fathom how the hon member reconciles those two arguments. What is more the hon member for De Aar, in the same breath, complained about the job opportunities which have been reduced and the people who are being retrenched.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malherbe">
+
+<from>*Mr <person refersTo="hansard_za">G J MALHERBE</person>:</from>
+
+<p>The hon member for De Aar complained about inflation. He said that people should not be retrenched but also that we should please not increase tariffs to enable us to pay salaries because that would be inflationary. I want to repeat that I am glad that that hon member is not my economic adviser.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malherbe">
+
+<from>*Mr <person refersTo="hansard_za">G J MALHERBE</person>:</from>
+
+<p>The conveyance of agricultural produce is another area in which SATS is suffering enormous losses.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#malherbe">
+
+<from>*Mr <person refersTo="hansard_za">G J MALHERBE</person>:</from>
+
+<p>Mr Chairman, that hon member for Langlaagte knows nothing about SATS. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#malherbe">
+
+<from>*Mr <person refersTo="hansard_za">G J MALHERBE</person>:</from>
+
+<p>The next aspect which I should like to touch on is the losses that the SATS has incurred with regard to the conveyance of agricultural produce. The Republic of South Africa is a poor agricultural country. We experience climatic extremes and our goods have to be conveyed over long distances. For that reason people in the agricultural sector rely heavily on SATS. We now have the dilemma that the service which SATS renders to the agricultural sector leads to tremendous losses for the SATS.</p>
+
+<p>On the other hand the agricultural sector can hardly afford to pay more for those services. In the meantime road transportation is increasing at the expense of high-rated traffic. Rightly or wrongly, we can speak of a conflict of interests. In the policy formulated by SATS it is said that the tariff policy must be related to costs and effective competition. How we are going to manage to do this is a great problem.</p>
+
+<p>We are therefore caught in this dilemma: Should SATS continue to render these uneconomical services? If it is decided that SATS should in fact continue to do so, then it also has to be decided to whom these services should be delivered, at which tariff, and who is going to make good these losses, because eventually it is only a profit-making business concern that can reward its employees sufficiently.</p>
+
+<p>I want to make it clear that all the hon members in this House, with the possible exception of the hon members of the Official Opposition, would like to give the railway worker a better deal and a higher wage. If we are to be honest then we must say that we would like to give them more than they receive at present, but we must unfortunately work within certain limitations. I take exception to the attitude to the railway worker displayed by the hon member for Port Elizabeth Central.</p>
+
+<p>Cross-subsidisation does occur. The question then arises whether it is justifiable. The hon member for Bloemfontein East referred to the history of this phenomenon. In agriculture we have relied on SATS to transport these low value agricultural products. This was not merely the case in the past, it is still the case today. Over the years steps have been taken to eliminate or at least reduce cross-subsidisation. Since 1982, as proof of this, low-rated goods which have to be conveyed over long distances have percentagewise been increased to a greater extent than high-rated goods. By way of summary I should like to say that according to the tariff policy, the consignment tariffs should at present be within a cost coverage framework of 85% to 135%. Cross-subsidisation must be reduced to a minimum. The wonderful ideal of keeping rising costs as low as possible <span class="col_1261-1262" refersTo="page_0668"/>does exists. But the question still remains whether SATS should remain the national conveyer. Speaking from the point of view of agriculture, I would say that the SATS should remain the national conveyer. If we look at our own population structure, and at our long distances, as well as the Government&#x2019;s policy in this regard, then no one else could render this service. SATS must be remunerated for those losses. I want to emphasise that these losses can in any case be reduced to a great extent. [Interjections.]</p>
+
+<p>If we want SATS to perform this task as the national conveyer, then we must pay more tax. We must give the Treasury the means to compensate SATS in full for these social services. In the case of the agricultural sector it is more difficult though. The agricultural sector would like to deliver its produce to the consumer as cheaply and as effectively as possible. A very good case can be made out for cross-subsidisation in the case of the agricultural sector and the conveyance of its produce. I submit that, SATS cannot with cross-subsidisation, only look after interests of the businessman and the industrialist. SATS must look after the interests of the entire country, including those of the agricultural sector. I believe that a sound case can indeed be made for this. Therefore one is glad to hear that tariffs for the conveyance of livestock, for example, are not being increased, particularly since the cost coverage in this case is only 49,3%. The agricultural sector is very grateful to SATS for this.</p>
+
+<p>Finally I wish to advocate that the status of SATS as the national conveyer of South Africa should remain unchanged. I want to make a plea: let us look forward to a reduction in cross-subsidisation and let us apply tariffs that can be afforded. SATS itself requires a tariff that the traffic can bear. The Treasury must then step in order to remunerate the SATS for these excessive increases in the social services which SATS renders. In this way, this national conveyer will be able to function as a business organisation. SATS will then act as an agent of the State in rendering this service.</p>
+
+</speech>
+
+<speech by="#visagie">
+
+<from>*Mr <person refersTo="hansard_za">J H VISAGIE</person>:</from>
+
+<p>Mr Chairman, the hon member for Wellington will pardon me if I do not react to his speech. I should like to make use of this opportunity to thank the SATS officials throughout South Africa for the hard work they have done over the last year. They tried to do everything possible to keep this rickety ship afloat on the stormy seas. That is why we want to say thank you to them.</p>
+
+<p>The budget which lies here before us, contains certain disconcerting and sombre aspects, some of which hold no advantage for this large enterprise. May it never happen, but nobody will be surprised if we hear that privatisation of the Transport Services has become the order of the day. I disagree entirely with the Official Opposition spokesman on this matter. When the hon member of the Official Opposition spoke about privatisation I thought he was doing a very bad thing. I hope the day never arrives when privatisation occurs in the Transport Services. I felt very uneasy when the hon NP member for Primrose spoke and supported this to a large extent.</p>
+
+<p>Privatisation is characteristic of a government that no longer wants to govern effectively. [Interjections.] It will be fatal for South Africa if such ideas present themselves in future, even more so if they are implemented. When a government barters away a nation&#x2019;s assets then it can only be for one of the following reasons: Either the government is unable to continue the service effectively or it no longer wants to bear the responsibility. That government then says: &#x201C;Let us pass the buck,&#x201D; and it becomes somebody else&#x2019;s problem. I am issuing this early warning because I am aware that we have a government in power that carries within it the seeds of surrender.</p>
+
+<p>Another reason why I am issuing this early warning is that we know that the big moneyed interests have become the Government&#x2019;s masters. [Interjections.] The big moneyed interests are in most cases international and when problems occur they weigh anchors and we are saddled with the problem. SATS must give South Africa the assurance that they are not going to relinquish or barter away their interests. SATS must keep its management effective so that it can be an example to everybody, the private sector as well. I know that that is what they are trying to do. I want to mention one case which is relevant. Before Iscor was established, all the raw material was transported by SATS <span class="col_1263-1264" refersTo="page_0669"/>and the products which were then manufactured overseas were then transported back to South Africa in order to be sold here. Before 1928 all iron ore and minerals which were necessary for the functioning of blast furnaces, were exported to countries far across the sea. At the time the establishment of Iscor was then opposed by the imperialists in South Africa in an irresponsible way. The Transport Services&#x2014;&#x201C;die Zuid-Afrikaanse Spoorwe&#x00EB;&#x201D;&#x2014;as it was then called&#x2014;transported the mineral riches to the harbours from whence they were shipped overseas in ships from other countries. The goods then came back in large packing cases and were transported throughout South Africa in order to be sold here.</p>
+
+<p>Of course we are in favour of private enterprise. It should be encouraged where possible. SATS must make as many purchases as possible from private organisations and have certain requisites manufactured by them. This creates employments; it diversifies and even brings foreign capital into the country. It also augments the number of skilled people in the country of whom we never can have too many. But&#x2014;and this is a very big but&#x2014;the key that the State has in its hands and which belongs to the nation, must never be allowed to slip out of its hands.</p>
+
+<p>This brings me to another matter which requires clarification. At the beginning of this session I put a question to the hon Minister and, just as the hon member for Durban Point did, I struggled for a long time to get a reply. I do not know the reason for this. The question concerned trains which were being imported from overseas by SATS. The hon Minister knows which question I am referring to. Eventually I did receive an answer. After making enquiries I discovered that I could expect the answer only on 18 February because the time had expired. On 20 February I had to ask again. I was then told that there were problems with the reply to the question. Heaven alone knows what problems there were with the reply because it was a very easy and simple question. The staff must please realise that I do not blame them for this, although I think it was they who had to give the hon the Minister the particulars. What I want to ask the hon the Minister is whether he was dissatisfied with the replies that were furnished by his staff. I do not know, that is why I am asking.</p>
+
+<p>Eventually I did receive a reply which provided me with the minimum of information. The hon Minister must not blame me if this leaves me with the impression that there was no eagerness to reply to the question. Therefore I shall put some questions to him in the time that is available to me in this debate. I have the hon Minister&#x2019;s reply here with me but time will not permit me to read it out. He knows what his reply to me was. My question was replied to in such a way that it was neither here nor there. [Interjections.]</p>
+
+<p>Unemployment has increased as a result of the fact that a company on the far East Rand, owing to certain circumstances, is having an extremely difficult time. [Interjections.] The hon the Minister knows as well as I and other representatives of the constituencies on the far East Rand do, that a very large manufacturer of passenger coaches is situated at Nigel. That firm has already become renowned for the manufacture of suburban passenger trains, overnight passenger coaches, Blue Train coaches, dining saloons, etc. You name it, they manufacture it. Before the depression this large enterprise employed thousands of people from all over the far East Rand. Numerous satellite companies for whom this firm provided work, provided thousands of people with job opportunities. Today they only have a few hundred people in their employ. As a result of this unemployment has spread. The entire far East Rand has been affected by this. Even a part of the hon the Minister&#x2019;s own constituency has been hit by this.</p>
+
+<p>In the interests of the far East Rand I therefore want to know the extent to which the company which received the tender for the eight train units made use of locally manufactured material. This is my main question. The company which received the tender for the eight trains is not the firm which I mentioned earlier. To what extent are those trains going to be manufactured locally? Will this company make use of local manufacture to the same extent as that other firm on the far East Rand with which the hon the Minister and I are familiar, would have done? Furthermore, I should like to know when those trains will be delivered because that question has not been replied to.</p>
+
+<p>I would like to touch on a further point, <span class="col_1265-1266" refersTo="page_0670"/>namely the collection of third class fares and the issuing of train tickets. This matter was dealt with a few years ago in a previous debate. I suspect that reference has already been made in the past to the Railway&#x2019;s inability to collect all the third class fares of Black people and even their inability to issue tickets. This method was mentioned at the time and I would like to ask the hon the Minister whether this problem has been solved yet. If it has not been solved then hundreds of millions of rands are being lost because certain people are not paying for their tickets.</p>
+
+<p>I would then like to ask the hon the Minister whether it is true&#x2014;I ask this, because it was told to me in confidence&#x2014;that first, second and third-class non-White coaches are being damaged to an alarming extent. My information is that a lot of money has to be spent on this annually.</p>
+
+<p>Now I should like to deal with the railway workers. It is generally known that railway workers, and especially artisans, are extremely unhappy about the 10% pay rise they are going to receive. Can one blame them? I ask the hon the Minister because the official inflation rate is 20,7%, and that is not the end of it. I personally think that it is much higher. When all these increases become operational, this figure will compare very badly with those of the rest of the world. The Government in singly and solely and to the highest degree responsible for this extremely high inflation rate.</p>
+
+<p>Where is the out-of-work price controller? Even if the Government were to appoint a thousand price controllers, the salaries which they earn, and all the accompanying expenditure, would form a small percentage of the money which the public at large would have to pay to unscrupulous exploiters. I ask, in the interests of the railway employees, that the hon the Minister refer this matter as well to the Cabinet.</p>
+
+<p>When the price of a single commodity rises then the prices of all stocks are adjusted accordingly and this applies to stocks which have been on the shelf for six months. There are in fact people who apply such unscrupulous business practices. The workers of the SATS are also victims of those practices. Many of these railway workers live below the breadline. Not all of them do, but many workers in South Africa live below the breadline.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! This is a convenient time to adjourn the House.</p>
+
+</speech>
+
+<adjournment>
+
+<p>In accordance with Standing Order No 19, the House adjourned at <recordedTime time="1986-02-26T18:30:00">18h30.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

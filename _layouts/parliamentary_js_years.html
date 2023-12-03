@@ -1,0 +1,22 @@
+---
+layout: header_footer
+---
+
+<div class="breadcrumbs">
+    → <a href="/parliamentary">Parliament</a>
+    → <a href="/parliamentary/{{ page.year }}">{{ page.year }}</a>
+  → <a href="/parliamentary/{{ page.year }}/joint-sitting">{{ page.title }}</a>
+</div>
+
+  <div id="Days" class="w3-container tabname">
+    <h3>Parliamentary Sitting Days in {{ page.year }}</h3>
+    <ul>
+      {% for post in site.posts %}
+        {% if post.title contains page.year and post.category == "Joint Sitting" %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}"><span class="old-manuscript">{{ post.title }} {{ page.category_slug }}</span></a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>

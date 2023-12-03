@@ -1,0 +1,1511 @@
+---
+title: 'House of Assembly: Vol2 - WEDNESDAY 30 JANUARY 1985'
+layout: debate
+year: 1985
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, 30 JANUARY 1985</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1985-01-30T15:30:00">15h30.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#calling_of_a_joint_sitting">
+
+<heading>CALLING OF A JOINT SITTING</heading>
+
+<summary>(Announcement)</summary>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>announced that Mr Speaker had called a joint sitting of the three Houses of Parliament for Monday, 11 February, at 14h15, for the delivering of Second Reading speeches on certain Bills.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#tabling_and_reference_of_bills_to_standing_committees">
+
+<heading>TABLING AND REFERENCE OF BILLS TO STANDING COMMITTEES</heading>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>laid upon the Table:</p>
+
+<ol>
+
+<li>(1) Electoral and Related Affairs Amendment Bill [No 37&#x2014;85 (GA)]&#x2014;(Standing Committee on Home Affairs and National Education).</li>
+
+<li>(2) Companies Amendment Bill [No 38&#x2014;85 (GA)]&#x2014;(Standing Committee on Trade and Industry).</li>
+
+</ol>
+
+<p>To be referred to the appropriate Standing Committees, unless the House decides otherwise within three sitting days.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_of_standing_select_committees">
+
+<heading>REPORTS OF STANDING SELECT COMMITTEES</heading>
+
+<speech by="#grobler">
+
+<from>Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>as Chairman, presented the First Report of the Standing Select Commitee on Health and Welfare, relative to the Atmospheric Pollution Prevention Amendment Bill [No 8&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Atmospheric Pollution Prevention Amendment Bill [No 8&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>J P GROBLER,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>28 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>as Chairman, presented the Second Report of the Standing Select Committee on Health and Welfare, relative to the Mental Health Amendment Bill [No 18&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Mental Health Amendment Bill [No 18&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>J P GROBLER,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>28 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr <person refersTo="hansard_za">C J VAN R BOTHA</person>:</from>
+
+<p>as Chairman, presented the First Report of the Standing Select Committee on Communications and <span class="col_209-210" refersTo="page_0149"/>Public Works, relative to the Valuers&#x2019; Amendment Bill [No 9&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Valuers&#x2019; Amendment Bill [No 9&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>C J VAN R BOTHA,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>28 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr <person refersTo="hansard_za">C J VAN R BOTHA</person>:</from>
+
+<p>as Chairman, presented the Second Report of the Standing Select Committee on Communications and Public Works, relative to the Architects&#x2019; Amendment Bill [No 24&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Architects&#x2019; Amendment Bill [No 24&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>C J VAN R BOTHA,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>28 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr <person refersTo="hansard_za">C J VAN R BOTHA</person>:</from>
+
+<p>as Chairman, presented the Third Report of the Standing Select Committee on Communications and Public Works, relative to the Professional Engineers&#x2019; Amendment Bill [No 25&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Professional Engineers&#x2019; Amendment Bill [No 25&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>C J VAN R BOTHA,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>28 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>Mr <person refersTo="hansard_za">J H HEYNS</person>:</from>
+
+<p>as Chairman, presented the Fourth Report of the Standing Select Committee on Trade and Industry, relative to the International Convention for Safe Containers Bill [No 10&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the International Convention for Safe Containers Bill [No 10&#x2014;85 (GA)], referred to it, begs to report the Bill with amendments [No <b>10a</b>&#x2014;85 (GA)].</block>
+
+<p>J H HEYNS,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>24 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>Mr <person refersTo="hansard_za">J H HEYNS</person>:</from>
+
+<p>as Chairman, presented the Fifth Report of the Standing Select Committee on Trade and Industry, relative to the Maintenance and Promotion of Competition Amendment Bill [No 13&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Maintenance and Promotion of Competition Amendment Bill [No 13&#x2014;85 (GA)], referred to it, begs to report the Bill with an amendment [No 13a&#x2014;85 (GA)].</block>
+
+<p>J H HEYNS,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>24 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>Mr <person refersTo="hansard_za">J H HEYNS</person>:</from>
+
+<p>as Chairman, presented the Third Report of the Standing Select Committee on Trade and Industry, relative <span class="col_211-212" refersTo="page_0150"/>to the South African Iron and Steel Industrial Corporation, Limited, Amendment Bill [No 2&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the South African Iron and Steel Industrial Corporation, Limited, Amendment Bill [No 2&#x2014;85 (GA)], referred to it, begs to report the Bill with amendments [No <b>2a</b>&#x2014;85 (GA)].</block>
+
+<p>J H HEYNS,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>24 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>Mr <person refersTo="hansard_za">L WESSELS</person>:</from>
+
+<p>as Chairman, presented the First Report of the Standing Select Committee on Law and Order, relative to the Police Amendment Bill [No 7&#x2014;85 (GA)], as follows:</p>
+
+<block name="quote">Your Committee, having considered the subject of the Police Amendment Bill [No 7&#x2014;85 (GA)], referred to it, begs to report the Bill without amendment.</block>
+
+<p>L WESSELS,</p>
+
+<p>Chairman.</p>
+
+<p>Committee Rooms</p>
+
+<p>Parliament</p>
+
+<p>29 January 1985.</p>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#no-confidence_debate">
+
+<heading>NO-CONFIDENCE DEBATE</heading>
+
+<summary>(Resumed)</summary>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Mr Chairman, the temptation is great to continue in the same vein as last night with the aim of showing up mistakes made by the hon leader of the Official Opposition about matters such as the public service, education and money which we ostensibly waste in an ideological way. However, during the discussion of budget votes later in the session, there will be sufficient time to go into that in depth. Therefore I should like to return to the political aspects of the debate.</p>
+
+<p>What so often happens when an important announcement is made, has happened in this debate with regard to the opening address of the State President. The destroyers, the radicals, the propagandists and the cynics immediately tried to wreck it. They vied with each other to smother its true meaning under a cloud of slander and confusion. [Interjections.] Mr Chairman, during this speech of mine you will observe the disruptive tactics of a party which is not prepared to listen to logical and clearheaded arguments.</p>
+
+<p>South Africa cannot afford to have this important announcement of the State President smothered by the confusion of slanted propaganda. The country&#x2019;s circumstances are too compelling for that. Nor is there sufficient time left in the course of development of South Africa. Everyone who wishes our country and its future well, knows for certain that the questions which must still be resolved with regard to Black development, now require urgent attention. Everyone is looking for assurance. The Whites call for assurance; the assurance of effective protection of their lawfully obtained freedom, the assurance of preservation of their established rights, the assurance that they will be able to preserve their lifestyle and their values in life. The Black peoples and black communities&#x2014;wherever they may live in South Africa&#x2014;make the demand of full political rights. For the sake of South Africa these demands must be reconciled with one another. Progress has already been made in this area, but the PFP disparages this progress. However, as a result of this party&#x2019;s policy, dramatic progress has been made in the laying of a foundation on which the reconciliation between these demands can take place. Despite the progress already made, everyone in this House knows that certain difficult issues must still be resolved. Everyone knows that the time has come to start writing the next chapter. If fruitful progress were not to come now, we would as it were, be surrendering our country to growing tension which can result in chaos and destruction. If fruitful progress does not come now, we are playing into the hands of the radicals inside and outside South Africa.</p>
+
+<p>It is in this climate that the State President <span class="col_213-214" refersTo="page_0151"/>and the Government want to lay down a basis in 1985&#x2014;a basis for discussion which can holdout the promise of fulfilment for White, Black, Coloured and Indian. It must be a basis for co-operation, for everyone who wants to be reasonable; a basis for hope and for an understanding which would entail justice for all. It must be a new basis but built on the irrefutable truths and realities of South and Southern Africa. We on this side of the House earnestly want to involve in this endeavour everyone who can be convinced, with all the power and the resources at our disposal.</p>
+
+<p>Against this background we find this tragic reaction in this debate. This tragic reaction to the <i>bona fide</i> efforts and initiatives of the State President comes from the side of the Opposition. It is almost heart-rending. We discover a footnote to the speech of the hon leader of the PFP, which was apparently written even before the State President&#x2019;s opening address. He sounds positive, and so we want to say to him: &#x201C;Well done&#x201D;. He makes a cautious and qualified appeal to Black leaders not to slam the door summarily. However, what does his party do? Immediately the hon member for Houghton, and especially the hon member for Sandton, pour cold water on that appeal of the hon leader of the PFP. Immediately they make a case&#x2014;especially the hon member for Sandton&#x2014;as to why black leaders ought not to co-operate. [Interjections.] The gist of his speech is that if the goalpost cannot be planted on the Prog try-line, the game cannot be played. Can an intelligent and wellbred person like the hon Leader of the Official Opposition&#x2014;I do not say this mockingly&#x2014;not make his party understand that the vast majority of Whites are not prepared for an experiment with Prog ideology? Do they not know that the majority of their own supporters do not agree with their relations politics? They have other reasons for voting for the PFP, for example economic reasons, and to have a strong opposition. [Interjections.] Do they not realize that without White cooperation there can be no workable understanding in South Africa? In just the same way there can be no workable understanding without Black co-operation. The State President&#x2019;s opening address does not only demonstrate a new approach to fundamental matters by him and his government; it also requires a new approach from the players of other roles on South Africa&#x2019;s political stage.</p>
+
+<p>Renewal and greater frankness cannot come from one side only. The question is: Does the hon the Leader of the Official Opposition have the courage to move away from his ideology? Does he have the courage to bid farewell to his party&#x2019;s dogmatic enslavement to a recipe which has not succeeded anywhere in Africa? The question is &#x2026;</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>You won&#x2019;t catch us.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I am talking to the hon Leader of the Official Opposition now. Is he prepared to adapt, and to adapt to the realities of a multinational South Africa? Is he prepared to change?</p>
+
+<p>&#x2020;Let me paraphrase the closing remarks of the hon the Leader of the Official Opposition in this regard. I want to tell him this: If he fails to live up to this challenge, then our children and theirs will curse him in posterity for failing his duty at such a crucial stage in our country&#x2019;s history.</p>
+
+<p>*On the other hand, we have also listened to a number of CP speakers. The CP has descended on the State President&#x2019;s address like a swarm of sparrows on a row of fig trees. Announcements he has made, are distorted. Qualifications that qualify and define statements in his speech are blatantly ignored by the CP, and their own CP innuendos which strain the truth, are read in and expounded by them as facts in this debate.</p>
+
+<p>The result is a CP propaganda framework that mutilates the State President&#x2019;s address more or less as follows. They say the NP has now given permanence&#x2014;which they used not to have&#x2014;to Blacks within the RSA, and is now striving for integration. Co-responsibility for communal affairs means Black domination and the end of White self-determination. Furthermore this is their propaganda framework: The NP has abandoned its ethnic policy and the idea of political realization within an ethnic context. Under the NP the Whites are done for.</p>
+
+<p>We shall be hearing this refrain from morning till night, and as it is repeated, it will become more vicious and emotional, <span class="col_215-216" refersTo="page_0152"/>and after a while the hon members opposite will begin to believe it themselves. At the moment they know it is mere propaganda.</p>
+
+<p>Let me prove by way of a few arguments how distorted and malicious the CP version of the Government&#x2019;s standpoint really is. Let us look at permanence. What does the State President say? I quote him:</p>
+
+<block name="quote">The Government accepts the permanence in the RSA of large numbers of members of Black population communities who find themselves outside the national states.</block>
+
+<p>How does the hon member for Waterberg interpret this? Let me quote him. He says, in the first place, that he is giving permanence to Blacks outside the national states in the Republic of South Africa. Without further ado, the hon member for Waterberg changes &#x201C;accept&#x201D; into &#x201C;grant&#x201D;. He replaces the concept &#x201C;accept&#x201D;, the acceptance which, as pointed out by my hon colleague here, took place when those hon members were still in the NP, with &#x201C;grant&#x201D;, as if this is something which we can give and take away at will.</p>
+
+<p>There is also the following quotation from the State President&#x2019;s address:</p>
+
+<block name="quote">Structures must therefore be developed for Black communities outside the national states through which they can themselves decide on our own affairs up to the highest level. The same bodies can serve at the various levels as links for co-operation on matters of common interest with government bodies of the RSA, the independent former national states and the self-governing national states.</block>
+
+<p>The hon member for Pietersburg interprets this as follows:</p>
+
+<block name="quote">Met die opening van hierdie sessie s&#x00E8; die leier van daardie party onomwonde en ondubbelsinnig dat die Regering besluit het om die stedelike Swartman van Suid-Afrika in hierdie politieke bedeling in te bring.</block>
+
+<p>This is a totally slanted, indefensible and unfounded conclusion. However, he will announce it throughout the country from every platform. It will make headlines in <i>Die Patriot</i>. I accuse them of slanted propaganda for immediate, petty political interests, whereas they had the opportunity to conduct a constructive debate about the key problems of South Africa. They come forward with false interpretations to which they add their own innuendos which bear no relation to what the State President said.</p>
+
+<p>After all, recognition of permanence is no novelty. Apart from the fact that this has already been pointed out effectively on this side, I now want to ask the CP what they say about permanence. As I understand their policy, it is to freeze Black numbers outside the national states. See, they do not deny it. Are they going to freeze the Blacks permanently or temporarily? Or are they going to defreeze them sometimes so that they do not become permanent, and then freeze them again?</p>
+
+<p>I want to ask the hon the leader of the CP in all seriousness: Does he foresee a stage in which, for example, there will be no Blacks in the PWV area? It is a very simple question. Is it the policy of the CP to return all Blacks outside the national states to those states and to have a purely White country? [Interjections.] These days they get into trouble if they answer questions. These days they are a little strange. However, the hard fact of the matter is that the hon leader and every member of the CP know that there will always be Blacks. Their key figure, Dr Connie Mulder, admitted it when he said that a beautiful city would be made of Soweto, because there will always be a Soweto. If they are there permanently, the hon members, instead of distorting the State President&#x2019;s speech, should rather tell us how they handle their permanence. Are they going to have only local authorities? Are they going to link them? If they are linked, on what basis will this take place? If extra-territorial powers are given, will they cover the whole spectrum, or only a few select matters? If only a few select matters, will they have no political rights with regard to other matters?</p>
+
+<p>Let us consider the allegation of integration, the hysterical accusation that the NP advocates integration. No argument is necessary to refute it. That same speech of which the hon member for Sandton says that it is only a rewording of established NP policy, is described by the CP as an acceptance of PFP principles. [Interjections.] Theologian <span class="col_217-218" refersTo="page_0153"/>Tutu and Theologian Treurnicht see exactly the opposite in the same text. It is a tragic fact that both sides; the PFP, especially as represented by the hon member for Sandton, the CP, and all the others who reacted negatively to this important announcement by the State President, do not want to understand what is really meant. That is because they cling to an ideology of their own which does not recognize the full reality of South and Southern Africa.</p>
+
+<p>The hon members of the CP say we have abandoned our ethnic policy and that we are now dividing peoples. On top of that they appeal to Chief Minister Gatsha Buthelezi. They say we have abandoned linkage totally. I did not hear the State President say that. I hear him say:</p>
+
+<block name="quote">The same bodies can serve at the various levels as links for co-operation on matters of common interest with Government bodies of the RSA, the independent former national states and the self-governing national states.</block>
+
+<p>The way the CP handled this constitutes a denial of the facts. If any solution is to succeed in this connection, naturally it must recognize the dualism, the nationhood of the different Black peoples, because it is a reality. However, it must also accord substance and recognition to the reality that these people do not live in their country where there is an own national government, but within the jurisdiction of another country. Political freedom for them cannot be accomplished if we do not find answers to the problem, namely how to accommodate in the political sense, too, this dualism in the lives of the Blacks outside the national states.</p>
+
+<p>Political expression through national allegiance will not work just because the hon leader of the CP says it is a good policy and a fine theory. It can only work if the people to whom one says it must work, want it. It can only work if they want it because they feel it will have meaning for them and will be worthwhile. When we talk about it during negotiations, this must be our theme if that option is to succeed. However, we enter this dialogue with an open approach, but true to the basic points of departure that the State President has spelled out clearly and lucidly.</p>
+
+<p>Lastly, let me say this to the CP, and especially to the hon member for Pietersburg with his &#x201C;in this system&#x201D;: A fourth House is not one of the options for the NP. I repeat this, and the State President has also said it regularly. If members of the CP say it outside, we shall not accuse them of untruths, but of lies. The State President is making an effort to bring the most important problem of our country closer to a solution on a reasonable basis.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>What about an outhouse?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The negative and destructive reaction to this of hon members of the opposite side, their distortion of what is being said, is a deed of sabotage against the best interests of the Whites and the Republic of South Africa.</p>
+
+<p>If the hon member for Bryanston has a problem, we can always send him to an outhouse.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>Not while I am listening to your speech.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I know the hon member recognizes a good speech.</p>
+
+<p>We in this House and also every South African have been faced with a choice by the announcements of the State President. The choice with which we are all faced, is: Do you want to be part of the solution of South Africa&#x2019;s key problems or do you want to succumb in a dead-end battle of rigid ideologies? There are two great dead-end streets in this country with regard to this matter. The one is the insistence that the Whites and other minority groups must forego and own and effective power base and merge into one large whole. This is the urging of the PFP, the UDF, of Azapo, Tutu and others. However, it is a dead-end street, because the majority of Whites will not do it. The other great dead-end street is a theory of rigoristic and absolute division which ignores the community of interests among nations and groups. That is the dead-end street of the CP and the HNP, of the Boshoffs and the Terre&#x2019; Blanches. There is commonality, there is an inextricable involvement of interests among the different nations and groups, and structures must be established within which there <span class="col_219-220" refersTo="page_0154"/>can be joint deliberation, concerning which there may be co-operation and acceptance of joint responsibility.</p>
+
+<p>Neither of these two dogmas, these two dead-end streets, are capable of gaining support from reasonable leaders from all groups. Neither takes the facts sufficiently into account. What is acceptable in the one is totally to the detriment of the other group to which one wants to sell it, and <i>vice versa.</i> Therefore it is our task and calling to develop an own philosophy and to give practical effect to that philosophy, a philosophy which does have the ability to gain the support of reasonable leaders from all peoples and communities. The future of South Africa depends on it, and the State President is working on it. The Government, too, is working on it, and we want to involve as many people as possible, because co-operative co-existence can be the key to freedom, prosperity and security for everyone.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, in a casual discussion yesterday with the Chief Whip of Parliament he said to me that I could seldom resist the temptation of being led from economics to politics. I am afraid I have again been led astray by the hon the Minister of Home Affairs and I think one has to depart from the economic and financial fields in order to deal with just a few things which the hon the Minister for Home Affairs said.</p>
+
+<p>I think one of the things which appeared very clearly from the speech by the Minister of Home Affairs is that the difficulty which exists in South Africa at the moment is that there is a major feeling of uncertainty. There is a feeling of uncertainty amongst people in regard to their future politically, there is a feeling of uncertainty in regard to their future economically, and there is a feeling of uncertainty about the present and future states of South Africa as such.</p>
+
+<p>It is of course obvious, if one listens to the hon the Minister of Home Affairs, that the reason for that feeling of uncertainty is that we are living in a period of change. We are living in a period of change whether anybody in this House likes it or not. The reality is that we are in a period of change, and in a period of change there is uncertainty and there is, unfortunately a tendency to instability. What is therefore required from the Government of the day is for it actually to install confidence into the people, confidence that it knows what it is doing politically, that it knows what it is doing economically that it is managing the economy correctly, that it is managing the political structure of the country correctly. That is what the public of South Africa are in fact looking for. They are seeking to be taken out of this uncertain atmosphere and to be placed in a situation where they can have confidence in the leadership and in the management of the country, both politically and economically.</p>
+
+<p>I said at the beginning that I just wanted to deal with economics, but there is one important thing which I think needs to be said and I want to do so. When the history of South Africa comes to be written, it may well be that in retrospect the year 1985 will be regarded as the year in which a decision had to be taken as to whether peaceful reform had any prospect of success or not; or as the year which demonstrated that the moderates in South Africa did not have the ability but, on the contrary, had an inability to deal with the forces of reaction on the one hand and the forces of revolution on the other. For, if either the forces of revolution or those of reaction succeed, then we are headed for inevitable conflict and that will be the end of moderate thinking in South Africa.</p>
+
+<p>The hon the Minister of Home Affairs referred to what the hon the Leader of the Official Opposition had said about the State President&#x2019;s address at the opening of Parliament and I think that he misunderstood him. If he did not misunderstand him, then he must have misconstrued him and I know the hon the Minister of Home Affairs too well to make such a suggestion. I want to say the crux of the State President&#x2019;s speech, as I read it, is to be found in two simple paragraphs. He says:</p>
+
+<block name="quote">In the constitutional field I want to stress that the Government is resolved to pursue peaceful and democratic solutions that satisfy the requirements of fairness and justness.</block>
+
+<p>If that is his objective, then he has my backing and I am sure he has the backing of right-thinking people in this House. I take his words at face value as they appear here. I <span class="col_221-222" refersTo="page_0155"/>do not think that he meant anything different. He went on to say:</p>
+
+<block name="quote">The Government&#x2019;s general constitutional goal is, while maintaining security, stability and self-determination for each group, to give all the country&#x2019;s people a say in decision-making that affects their interests. This applies to all the population communities of South Africa.</block>
+
+<p>Why must I doubt what he says? That is what he says and is clearly what his objective is. If that is his objective, one thing is very clear, whatever else may be said about the rest of what he said, whether it is criticized as being vague or whether it is criticized as being carefully worded. The reality is that there is a substantial break with the past in that speech. On the one hand there is a substantial break with the past with regard to freehold, and there can be no question about this, and on the other hand there is a substantial break with the past with regard to the concept of citizenship. If those two things are now going to be dealt with, and if there is an honest endeavour by somebody who recognizes the problems of South Africa and is prepared to try to do something about them, he will have our backing for it. I do not pretend that there is only one solution in South Africa. I do not believe that any party has the monopoly of having the clever people or of being right all the time, or that somebody has the monopoly of being wrong all the time. The reality of the matter is that where there is an honest endeavour to try to solve some of the problems, even if it does not go far enough, fast enough or quite in the right direction, people will back it. However, I want to issue a very real word of warning to the hon the Minister of Home Affairs and of National Education. He and his colleagues must not spoil what the State President has said in his speech by trying to satisfy these gentlemen sitting on our left, because in my view they cannot be satisfied. The difficulty is that while the Government stands by these two paragraphs I read from the State President&#x2019;s speech, it has no hope of satisfying them. By trying to do so, the hon the Minister and his colleagues are going to spoil what has been said and the message that comes across from this speech. This is something, with great respect, which the hon the Minister should bear in mind. They are really not so important in South Africa. They really do not represent the forces of progress in South Africa. The Government should rather apply itself to the bulk of the people in South Africa because, as the State President said, the bulk of the people are looking for peaceful and democratic solutions that satisfy the requirements of fairness and justice. If I have done nothing else in this speech but convince the hon the Minister of Home Affairs and of National Education to stop leaning over backwards to try to satisfy these hon gentlemen in the CP, I will have served my purpose.</p>
+
+<p>Let me come now to the question of economics. One of the tragedies&#x2014;and I am sure the hon the Minister of Finance will agree with me&#x2014;is that to some extent the country has gone through a series of government by shocks during the past 12 months. We had the former Minister of Finance&#x2019;s budget, we had the increase in GST, we had a spending spree, we had the August restrictive measures, we had the fall of the rand and we had the increase in the petrol price. If one takes any ordinary consumer community or any ordinary group of individuals and one subjects them to those shocks, one must expect some kind of reaction, and that reaction has been the lack of confidence shown in the management of the economy of South Africa. One of the hon the Minister&#x2019;s most important tasks is to restore fiscal credibility in South Africa. He has to convince people that what he says he will do, and that what he intends to do he will carry out, so that people will have confidence in what is going to happen. I do not mind if he is wrong occasionally, because like everybody else he is human. Strangely enough, he and I have one quality in common, namely that we have a particular journalist who loves both of us and who tends to criticize us. In my case the editor wants to confine me to a laundry, and in his case to a slightly hotter place than a laundry. He does not have to be right all the time, but the reality is that he has to have credibility for what he intends to do. The past twelve months, if they have done nothing else in the economy, have created a situation in which people have said to themselves: Well, really, we do not know what is going to happen next, we do not know whether we can in fact rely on the figures, <span class="col_223-224" refersTo="page_0156"/>and we do not know what is going to be said in regard to this matter. This issue of a lack of faith, of losing credibility, is a major issue in regard to confidence in South Africa.</p>
+
+<p>Confidence is the crucial issue. The hon Minister himself talked about what it means to have a perception of something. It is not merely a question of what the true state of the economy is. The state of the economy is influenced by the perception of the economy because that influences confidence, and that can affect the economy. Strangely enough, he made quite a good speech yesterday, and we saw what happened to the rand today. [Interjections.] If he does that, then we shall see that people will in fact have confidence in relation to these matters. If he can do that, he is on the right track because we have told him&#x2014;we have said it very clearly&#x2014;that if he wants help in regard to the economy, we shall help him. We do not blame him. He became captain of a ship with a great, big, gaping hole in it. We do not blame him for the hole, but we shall blame him if he does not repair that hole and put the ship back on the right course where it belongs.</p>
+
+<p>Before I deal with individual aspects of his speech, I want to deal with two particular issues which I think are of great consequence in South Africa. The first is the question of the management of the economy and the accountability therefor. There is no question about it, insofar as the public is concerned, they are prepared to understand when things go wrong and there are external factors over which they have no control. However, the public is angry when money is wasted, when there are gross errors of judgment and when there is loss due to blatant dishonesty.</p>
+
+<p>The State President when he was still the Prime Minister of this country, committed himself to clean Government. We accepted his word and his commitment and we accept it today. Nonetheless we want to ensure that there is that kind of Government in South Africa and that the necessary precautions are taken where something has gone wrong.</p>
+
+<p>I want to talk to the hon the Minister of Mineral and Energy Affairs about Escom. I also want to talk to the hon the Minister of Trade and Industry because I think it is still partially his responsibility. Escom is owned by the taxpayers of South Africa; it is the property of the people of South Africa; it is a public asset, and the money which is in Escom, is the money of the taxpayers of South Africa. I believe very strongly&#x2014;and I expect the Minister of Finance to support me in this&#x2014;that in respect of public money, the taxpayers&#x2019; money, there is not only an obligation on the part of the executive to exercise control but there is also an accountability to Parliament which should be enforced. There is at present no such accountability to Parliament in respect of Escom. The Auditor-General has no power, the Committee on Public Accounts has no power, they are excluded. The reports about Escom in the past few days have demonstrated the ease with which frauds can be committed, and in fact been committed. They have also demonstrated the lack of control over the checks on the employment of staff, as well as the failure to disclose losses which are admitted to be R57 million.</p>
+
+<p>The hon the Minister of Finance will know what it means to take an extra R57 million out of the pockets of the taxpayer in South Africa. He will know what it really means. That has been hidden away, it has been hidden away under the cloak of secrecy, and there has in fact been no accountability for it. We therefore demand that there should be a Parliamentary enquiry into the affairs in question, that there should be a return to Parliamentary control over Escom and other para-statal organizations. [Interjections.] I want their audits to be subject to the Auditor-General, I want their representatives to appear before the Public Accounts Committee of this Parliament. I want them to be there to answer questions on what has taken place.</p>
+
+<p>Hon members may ask what questions there are to be answered. Let me give a few examples. Mr Loots, said to be the Acting Legal Manager of Escom, denied, when it was put to him, that hundreds of millions of rand had been lost, but for the first time the public of South Africa discovered by his admission that R57 million was written off. He said that that happened as a result of political pressure being exerted on South Africa and because of other factors beyond Escom&#x2019;s control. What a vague statement! I took out the accounts of Escom and looked for the R57 million, but I could not find it. Maybe someone will show me where it has been dealt with in the report and in the accounts.</p>
+
+<p><span class="col_225-226" refersTo="page_0157"/>He also denied that these what he called &#x201C;trade losses&#x201D; were due to mismanagement or incompetence. Well, I should like him and other Escom people to say that before a committee. Asked why it had not been reflected in the books or publicly disclosed, he said that, while Escom was obliged to publish its financial statements in terms of the Electricity Act&#x2014;this, by the way, is the Legal Manager&#x2014;Escom had to be careful not to contravene the Atomic Energy Act or the Official Secrets Act. The Official Secrets Act, as you are well aware, Sir, was repealed in the year 1982&#x2014;we are now in the year 1985. He said that in terms of those Acts one could not disclose any information or deal with anything. Then, however, he made a significant statement when he said that the losses of R57 million were known to only a handful of officials. So, there is a small coterie in there who know what is going on while the rest do not know. The question is: Did this hon Minister know? Did the previous hon Minister in charge of Escom know? Does the hon the Minister of Finance know what is happening? [Interjections.] He said: &#x201C;No.&#x201D; Of couse he does not know. [Interjections.]</p>
+
+<p>I would imagine that, if one conducts a business, one must show one&#x2019;s losses. They must appear somewhere. They must be told to the people who own the business. What would happen in a public company, Sir, of which you were the managing director, if you had lost R57 million in one way or another and you did not tell your shareholders? I wonder how long you would keep your job. Surely, it must be explained to somebody. I believe, too, that it can be done without disclosing secrets which would harm the country. In the meantime, however, the person concerned has told the whole world that this has something to do with atomic energy. It was unnecessary to do so, but he has done it now.</p>
+
+<p>What is strange is that, because of the nature of the control and the nature in which this has been done, one suddenly finds that it was possible to employ a man called Rademeyer and it was possible for him to have money transferred in a manner which I find most fascinating. All of this is possible because there is no control and there is no accountability. If the people concerned had to appear before a Committee on Public Accounts under the chairmanship of the hon member for Smithfield or anybody else, I do not believe this could happen. What we also did not know and have only discovered now is that, in fact, the private auditors who were there were also unhappy about this situation. They were unhappy about the degree of secrecy, so it is said, concerning international debts.</p>
+
+<p>Let us look at the incident concerning Mr Rademeyer and involving R8,3 million. One had the situation that that money could leave and be paid without anybody checking what it was for, without anybody checking to whom it was due and without anybody checking whether the company called Enrichment Services actually existed or did not exist. One then finds that a Mr Te Groen, who is a General Manager (Finance), signs an authorization without knowing what he is signing. Shades of another Minister of Finance! [Interjections.] Then he was told that a Mr Fuchs had okayed it. He did not use his intercom or pick up his telephone to ask Mr Fuchs whether he had okayed it or not.</p>
+
+<p>Then we can ask the question how a man who is described in the Escom report I have here as the Senior General Manager could sign an authorization, because the miracle involved here is that Rademeyer had the money sent to Switzerland and by some miracle Switzerland sent it back. What happened then is that it was sent a second time. [Interjections.] Then it turns out that this time it apparently comes from a bookkeeper. I must say that it is beyond my comprehension that one can deal, in a business of this size, with money of this nature and this amount in respect of companies which do not exist. Moreover, the money is, in the end, transmitted on the authority of a bookkeeper. [Interjections.] I do not believe that there can be a situation in which one can have every protection against every kind of dishonesty. It is not possible. One finds dishonesty wherever one goes. However, what has been demonstrated here in regard to Escom is of such a nature&#x2014;and this involves the money of the South African taxpayer&#x2014; that a return of the para-statals to Parliamentary control is essential, and the question of accountability has to be dealt with. [Interjections.] So, I appeal today to the Government to deal with that, and to deal with it effectively.</p>
+
+<p><span class="col_227-228" refersTo="page_0158"/>I want to touch on another matter now, but I want to do so on a more sentimental basis, perhaps, because the hon member for Port Elizabeth Central came to me as the debate started and asked me whether I had heard that a motor-car plant in Port Elizabeth was going to be closed down, and that hundreds of people were consequently going to be unemployed, thus aggravating the existing problem.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>Thousands!</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Unemployment is a characteristic of this State. We have a situation at the moment where the nature of the economic policies that are being applied is such that they in fact create additional unemployment. The hon the Minister of Finance has said that sacrifices have to be made; that there are going to be bankruptcies and liquidations, and that there is going to be greater unemployment because these are by-products of policies that we have to follow in order to put the economy right. Sacrifices have to be made, but the reality is that sacrifices are not made by everyone across the board. The hon the Minister, if I may quote him from an interview that he gave, said the following:</p>
+
+<block name="quote">It is not all that bad. Those individuals with cash in their pockets will still be in a good position.</block>
+
+<p>Oh, certainly, the rich are going to see this depression through very well. We cannot argue with that. However, what about the less fortunate people in South Africa? What about the people who do not have jobs? Is it right, I ask the hon the Minister of Finance, that the people with the fewest advantages in our community have to make the greatest sacrifices? To my mind that is a recipe for instability. We now have the phenomenon of more people entering the labour market and fewer people actually in jobs. Our population is increasing, our economically active people are increasing in number, but the number of people actually employed, is decreasing. That is a recipe for disaster. I can quote the figures in this regard. Every working day in South Africa another 1 000 people&#x2014;new people, young people&#x2014;enter the labour market, and they are having the greatest difficulty in finding a job. I believe that at the moment we are digging our own economic grave with this problem of unemployment. I want therefore to make a number of concrete suggestions to the hon the Minister and his colleagues.</p>
+
+<p>Firstly, we help farmers when they are in trouble. Why do we not help employers of labour who are in trouble, owing to particular circumstances over which they have no control but who nonetheless have viable businesses and who just need a chance to come right to keep their business going so that people can stay in jobs? It costs more to create new jobs while these jobs which can be retained, are in fact destroyed fore ever. I make the appeal for a relief scheme by means of which we can help employers of labour with viable businesses to keep going under adverse economic conditions.</p>
+
+<p>Secondly, I believe that more temporary-relief jobs have to be created in South Africa, more of what were said to be the &#x201C;pick and shovel&#x201D; jobs, and perhaps more senior jobs too. Those people are needed in the depressed areas where they can work and by so doing help to create infrastructures in these areas.</p>
+
+<p>Thirdly, we have to look again at the whole programme of providing social relief in deprived areas. It is not enough to leave it to voluntary organizations such as Operation Hunger and others. I believe the Government has to do something in regard to it.</p>
+
+<p>Lastly, I believe there has to be a revision, in consultation with private enterprise, of the whole concept of job creation in South Africa to determine how it can be done on the cheapest and most effective basis, and in order to ensure that there is stability in South Africa.</p>
+
+<p>We have many difficulties. There are problems that we have to solve. It is no use&#x2014;and the hon the Minister of Finance knows it&#x2014;and telling the people of South Africa, as was done in a big headline as a result of an interview which he gave, that taxes were going to go down, that GST was going to go down, and all that sort of thing. It is no use doing that. We have to face the people honestly and tell them where we are at the present moment. We have to take them into our confidence. We have to see to it that we tell them exactly what has gone wrong in the economy. If the Government is honest with <span class="col_229-230" refersTo="page_0159"/>the people of South Africa and say to them that it has made a mistake, but then ask for their co-operation to put matters right, it will get that co-operation. There are dozens and dozens of able people in the private sector, for example academics, businessmen, economists and financiers, who can help to put this economy right. It is their economy as much as it is the economy of politicians. They should be brought into it; they should help, and that is why we have to revise the structures&#x2014;we have to do it quickly&#x2014;such as for example the Economic Advisory Council, and make it a national effort to put the economy right. If the economy is not put right, the political plans which the State President has spoken about are going to be built on foundations of sand. We have to have a sound economy if we are going to solve the political problems of South Africa.</p>
+
+</speech>
+
+<speech by="#minister_of_trade_and_industry">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRADE AND INDUSTRY</person>:</from>
+
+<p>Mr Chairman, before replying to certain aspects mentioned by the hon member for Yeoville in his speech, I immediately want to react to the references to Escom as well as to some of the questions put by the hon member in this connection.</p>
+
+<p>The developments in connection with the transfer of money to private accounts is certainly a situation which perturbs everybody and which nobody feels happy about. I want to point out to the hon member, however, that the Government took steps with regard to Escom as far back as two years ago. Two years ago the Government appointed a committee under the chairmanship of Dr De Villiers. The reports by the committee have been completed and will shortly be tabled together with the White Paper. Those reports bear testimony to a thorough investigation into the whole management system of Escom and all relevant matters, as hon members no doubt will ascertain when they receive the reports. Consequential legislation will be submitted within the next few weeks by my colleague, the hon the Minister of Mineral and Energy Affairs. The purpose of this legislation is to change the management system of Escom. Greater accountability has also been included in the legislation. I can therefore assure hon members it is not today that the Government began taking steps in connection with this problem. The valid points made by the hon member for Yeoville in this regard were certainly adequately covered by this investigation. In the meantime I may mention that since this matter was raised my hon colleague has been in continuous contact with Escom and the persons dealing with the matter.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>What about the money?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The money has been traced and frozen. Further steps towards freezing the assets in South Africa are being taken. [Interjections.] Further investigations in this regard are also being made. I am sure that my hon colleague will deal with this matter at a suitable time.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, is the hon the Minister prepared to answer a question?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Unfortunately I have very little time at my disposal.</p>
+
+<p>If anyone had hoped that the new dispensation would also engender a new spirit in the ranks of the Opposition, we did see a flicker of that spirit this afternoon, especially in the opening words of the hon member for Yeoville. I want to thank the hon member for his positive and constructive remarks. The hon member sounded a word of realism from the ranks of the Opposition. At least he displayed enough realism not to have questioned the honesty, integrity and sincerity of the State Presidents intentions with regard to the announcement he made at the opening of Parliament. Times of change and reform are also times of uncertainty. It is inherently so that when structures change, this goes hand in hand with people feeling uncertain. It is this spirit of confidence, as manifested in the positive remarks by the hon member for Yeoville, which we need&#x2014;also from the ranks of the Opposition&#x2014;if indeed we wish to solve the problems of this country successfully. The hon member quite rightly said that various possible routes by which to arrive at solutions. The route followed by us, which we believe to be the only viable route, differs fundamentally from the policy or approach of the hon member for Yeoville. We differ in policy and approach, but there are no differences in our sincerity or desire to make South Africa a peaceful and prosperous <span class="col_231-232" refersTo="page_0160"/>community for the benefit of all its people. With contributions like that from Opposition circles I believe that we could make great strides in this regard.</p>
+
+<p>We also had to listen to other speeches during this debate which were in glaring contrast, however, to the remarks by the hon member for Yeoville. If one wishes to make a meaningful contribution towards solving the difficult and complex problems of South Africa, one should at least be realistic, whether it be about economic or political problems. No one can deny that our economic situation was abnormally influenced by external factors such as the strong dollar, the fall in the gold price and the lengthy droughts. No one can deny that these factors had an inordinately big influence on economic conditions in South Africa. Of interest yesterday was the fact that the hon member for Houghton added a kind of explanatory footnote to the speech by the hon the Leader of the Official Opposition. She said that the Leader of the Official Opposition had not implied that the fall in the gold price, the strong dollar and the drought had not contributed to our economic problems as well. It is very interesting that the hon member had to take the hon the Leader of the Official Opposition under her wing. She qualified his speech for us, because the impression given in the speech by the hon the Leader of the Official Opposition on Monday was that gold and other factors had not played a part as well. I read his speech again. The hon the Leader of the Official Opposition said:</p>
+
+<block name="quote">The major reason for the difficulties in which we find ourselves is not a low gold price, the drought or a strong dollar. The major enduring reason is the politics of this Government over the past 37 years.</block>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>I like that. Say that again.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>In these few remarks by the hon the Leader of the Official Opposition we do not find the relativity of other factors, the complexity also engendered by other factors, as the hon member for Houghton indeed tried to point out. [Interjections.] Let me quote further what he said:</p>
+
+<block name="quote">The simple stark message is: The politics of this Government is destroying the economy. Either we change those politics or we all go under.</block>
+
+<p>[Interjections.] This view of things which the hon the Leader of the Official Opposition and the chorus behind him are trying to promote, is not only superficial and one-sided, but is also dangerous, for it creates the impression and the expectation that if we were merely to get rid of the political programme of this Government, we would have heaven on earth in South Africa. [Interjections.] It is this simple, simplistic answer that is presented by the hon Leader of the Official Opposition and his party. It is simple and straightforward&#x2014;get rid of the political programme of this Government and all our economic problems will be solved overnight. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_of_agricultural_economics_and_water_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF AGRICULTURAL ECONOMICS AND WATER AFFAIRS</person>:</from>
+
+<p>It will probably also start raining.</p>
+
+</speech>
+
+<speech by="#minister_of_trade_and_industry">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRADE AND INDUSTRY</person>:</from>
+
+<p>Yes it will even start raining too. Sir, if we wish to conduct a meaningful debate, we must know that there are certain economic and political realities go that transcend any political programme.</p>
+
+<p>The hon Leader of the Official Opposition spoke so glibly of the political programme of this Government which needed only to be scrapped for us have all the good things one could possibly strive for, but he said nothing about the complexity of our situation. The hon Leader of the Official Opposition even omitted to mention that South Africa is a developing country with particular development problems which also influence the economy.</p>
+
+<p>&#x2020;Mr Chairman, in a number of articles that appeared in <i>The Cape Times,</i> Prof Sadie, formerly of the University of Stellenbosch, deals with the misconceptions in regard to the problems of South Africa. The standing of Prof Sadie can certainly not be questioned. He is undoubtedly an academic of high standing both in South Africa and internationally. I have read his articles very carefully and in them he highlights the real problems of South Africa. He says:</p>
+
+<block name="quote"><span class="col_233-234" refersTo="page_0161"/>The fundamental fact or truism of economic life in South Africa, as in other countries, is that economic well-being is a function of the quantity and quality of human resources in relation to the quantity and quality of non-human resources and the efficiency of their exploitation.</block>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>He is a product of your policies.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>If the hon member would just listen, something might stick.</p>
+
+<p>Prof Sadie goes on to say:</p>
+
+<block name="quote">The fount and origin of economic growth and development is human material.</block>
+
+<p>Prof Sadie goes on to make the following remarks which are very important:</p>
+
+<block name="quote">Differences between countries in economic performance whether this is between South Africa and Europe or Germany and the United Kingdom or Japan and Europe derive from their populations as economic material.</block>
+
+<p>*The human material of the Republic of South Africa is still, to a great extent, part of the Third World. They are people who fall far short in their development handicaps, people who are limited by their cultural and traditional life-styles. That is why Prof Sadie concluded his article with the following:</p>
+
+<block name="quote">Hence the squatter camps, poverty, malnutrition and squalor. A cessation of apartheid practices, however desirable in itself, will not alter the situation.</block>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>It can help.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>It would help if the hon members were to see it in that light. It may help in carrying out constructive and responsible reform. That is what we say on this side of the House. It would not, however, help t K economy of South Africa or its political solutions along if we were to pretend that a pen-stroke through the policy of the Government could lead to a Utopia on earth for us.</p>
+
+<p>In the remaining time at my disposal I want to reply to the hon member for Walmer. In his speech during this debate the hon member for Walmer made certain statement to which I should like to react. In the first instance the hon member referred to the Decentralisation Board, as well as to our policy of regional development, and spoke about the mismanagement of that board. This is not the first time the hon member for Walmer has referred to the Decentralisation Board in such unfriendly terms. I have here his Hansard reports of a speech he made last year in which he referred to the &#x201C;rotten board&#x201D; or something to that effect.</p>
+
+<p>I quote from Hansard of 16 May 1984 where the hon member said <i>inter alia</i> (col 6602):</p>
+
+<block name="quote">All the indications are that something is rotten in the domain of the Board for the decentralization of industry.</block>
+
+<p>When someone in public life uses such strong language, I think it is in the interests of public opinion, and his responsibility as a representative of this House for him to draw the attention of the Minister concerned to these so-called &#x201C;rotten&#x201D; matters so that they can be investigated. If there is evidence of mismanagement by the board concerned, or if officials of the board are guilty of corruption, I should like to investigate it. However, to simply denigrate officials here, people who unthinkingly serve a cause with great dedication under difficult circumstances and with a great workload, does not in any way behove a public figure, an hon member of this House.</p>
+
+<p>The only complaint by the hon member for Walmer yesterday was that he had inquired about the number of applications which had been approved and which were now in the process of implementation, and that we could not supply him with these statistics. The fact is that the Decentralization Board experienced a tremendous increase in the number of applications, that the staff was working under great pressure, that new posts, to which people certainly would be appointed, were created recently, and that the Decentralization Board was furthermore in the process of computerizing its activities. One cannot, however, become computerized overnight. We had to obtain staff competent enough to assist with the computerization programme. When the hon member <span class="col_235-236" refersTo="page_0162"/>for Walmer, however, wants information, he apparently expects it to be made available to him simply at the push of a button. We must therefore appoint even more officials and vote more money because when the hon member for Walmer wants service, he expects it immediately. [Interjections.]</p>
+
+<p>I now want to turn to the policy of regional development, particularly because the hon Leader of the Official Opposition also had something to say about it. Allow me to briefly explain the principle of the Government&#x2019;s policy regarding regional development. The policy of regional development is not based on political or ideological considerations. [Interjections.] Those hon members&#x2014;like the hon Leader of the Official Opposition&#x2014;are so obsessed with political and ideological programmes that they want to include other matters as well. Which criteria were used, which norms were applied, when the decision about this regional development policy was taken? On what grounds was South Africa divided into separate regions and were incentive levels applied in the various regions? On political grounds? No, Mr Chairman, not on political grounds. On economic grounds? Yes, on economic grounds indeed. It is in the White Paper, and I am not going to dwell on this at any length because it is co&lt;u&gt;mm&lt;/u&gt;on knowledge already. I would, however, just like to refresh the hon member&#x2019;s memories.</p>
+
+<p>The first need was for job creation and job opportunities, as gauged by the present unemployment rate, etc. Therefore the need for job creation. Secondly, the need for a higher standard of living, as gauged by the current average income of inhabitants, etc. The second norm which was applied was therefore aimed at determining where there was a need for the improvement of living standards. The third important norm which was applied involved the potential of a development region to provide in its own future employment needs by virtue of economic growth. Therefore economic grounds were the norm, Mr Chairman. [Interjections.]</p>
+
+<p>The hon Leader of the Official Opposition, however, referred to decentralization in very negative terms. With reference to the amount voted, he said:</p>
+
+<block name="quote">In 1984/85 the decentralization policy of this Government received R324 million.</block>
+
+<p>He then goes on to qualify this, as it were; to qualify the policy. He says, and I quote him again:</p>
+
+<block name="quote">Each time the Government attempts artificially to duplicate economic growth points to keep Blacks away from existing metropolitan areas and pursues ideological objectives it is wasting money.</block>
+
+<p>&#x2020;According to the hon the Leader of the Official Opposition the decentralization policy of the Government is nothing more and nothing less than an ideological policy.</p>
+
+<p>*Mr Chairman, it therefore follows &#x2026;</p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>Mr Chairman, may I put a question to the hon the Minister?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, I do not have much time at my disposal. Nor do I not have an opportunity to answer a question by the hon member now. I do, of course, still want to deal with him; deal with him personally. The fact is that the policy of decentralization is based on sound economic principles. If South Africa undertakes a programme, it ostensibly is merely part of the NP&#x2019;s ideological programme. Yet there are many countries in the world with similar programmes. I said this here previously, but those hon members are apparently not interested. There are similar programmes in France, Italy and in the United Kingdom. I have before me the <i>Financial Guardian</i> of 14 December 1983 in which the White Paper of the Minister of Industries is dealt with: &#x201C;Getting the industrial balance right&#x201D;. I should like to quote one sentence from this publication, but please note that this comes from the British Government&#x2019;s White Paper on regional development not from that of this government:</p>
+
+<block name="quote">Mr Tebbutt&#x2019;s White Paper confirms the Government&#x2019;s commitment to an effective industrial policy which is designed to reduce on a stable long-term basis&#x2014;regional imbalances in employment opportunities.</block>
+
+<p>That is the exact principle which is laid down by us and upon which the regional development policy of this Government is based. When, however, South Africa&#x2019;s affairs are involved, it is called an ideology. In the UK <span class="col_237-238" refersTo="page_0163"/>the same policy is ostensibly based on sound economic policies.</p>
+
+<p>May I comment on the hon the Leader of the Official Opposition&#x2019;s suggestion or reference that what this in fact boils down to is a duplication of facilities. I should like to give the hon the Leader of the PFP the assurance that that is not the purpose of the policy of decentralization at all. If that were to be the effect of the policy, I concede that it would not be a sound policy. A number of industries were moved from the metropoles or elsewhere to various decentralized points. They constitute approximately 18&#x0025; of the total. Except for these moves, nearly 50&#x0025; of all approved applications dealt with the development of existing industries. What does this indicate? It proves that those industries in decentralized areas have already shown themselves to be viable, and that the incentives for regional development aided those industries in extending their activities and enlarging their capacity. Their competitive ability was also raised. Consequently there is no question of duplication here.</p>
+
+<p>I return to the hon member for Walmer. In my opinion he is one of those hon members of this House who is pious when he is here and who objects strongly to decentralization, but when he gets to Port Elizabeth he also stands in line to receive the benefits of decentralization in his area. [Interjections.] What kind of political integrity is that? Why is the hon member not consistent in his objection to decentralisation? Why does he not tell the people in Port Elizabeth and everybody else in this country that they should not ask for decentralization benefits? In this House, however, he refers to the alms which we granted them. The improvements to their decentralization benefits are apparently insufficient. [Interjections.]</p>
+
+<p>I should have liked to comment more fully on an hon member&#x2019;s statement that the Government merely offered these concessions after Ford and Amcar commenced negotiations last year. That is completely untrue. As early as August 1983 the Advisory Committee for Regional Development submitted certain recommendations to the Government regarding improvements in the concessions to Port Elizabeth. No, I shall answer the hon member for Walmer; he need not even ask a question. I shall put it clearly. The Government received those recommendations in August 1983. The Government made no <i>ad hoc</i> decisions. Organized trade and industry in the Port Elizabeth and Uitenhage region were involved in the Advisory Committee. The farming community and all persons involved were represented. After thorough consideration certain recommendations were made to the Government. These recommendations were investigated through further study and negotiations were undertaken with the other States in that area. Those recommendations were approved at the end of last year. Now the hon member maintains, however, that these concessions were granted merely because Ford and Amcar ostensibly held discussions. I should Like to clear the troubled waters the hon member has stirred up in connection with this matter. Let me say at once that these concessions have nothing to do with the discussions between Ford and Amcar and were not implemented as a result of those discussions. Why is the hon member trying to confuse the Ford/Amcar issue with regional development? You see, the intention is clear: He wants to hold the Government responsible, even for the rationalization that is taking place in the motor industry.</p>
+
+<p>The hon member is a supporter of a free-market system, of a market-orientated economy, and I am not being critical when I say this to him. He supports it. He believes that &#x201C;the least possible interference by the State is important&#x201D;. I now want to ask &lt;u&gt;him&lt;/u&gt; this: If it transpires that for economic reasons it is to the advantage of Ford and Amcar, in the new group that has been founded, that Ford close some of its plants in Port Elizabeth, would he want the Government to stop them? I want to know that from the hon member, because that is what he is suggesting. He is creating the impression that the Government should interfere now. The Government should simply stop these people.</p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>That will happen.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The facts about the motor industry are well-known.</p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>Mr Chairman, may I ask the hon the Minister just one question?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Unfortunately I have only another minute at my disposal.</p>
+
+<p><span class="col_239-240" refersTo="page_0164"/>I only want to say this to him: In the first instance he must draw a definite distinction&#x2014;everyone should draw a definite distinction&#x2014;between the regional development programme of the Government, which is based on economic principles, and the concessions offered to promote regional development on the one hand, and on the other hand particular problems experienced by an industry or a branch of the industry. These two aspects must not be confused.</p>
+
+<p>I want to say the following to the people of Port Elizabeth: If the possible amalgamation between Ford and Amcar leads to certain moves taking place, let the people of Port Elizabeth know that the regional concessions announced last year were based on economic considerations and will contribute to further economic growth, to stimulating viable economic growth which, in the long term, would be to the advantage of Port Elizabeth, much more so than any arbitrary <i>ad hoc</i> action because&#x2014;and with this I wish to conclude; my time is nearly up&#x2014;ever since the announcement as far back as the end of last year&#x2014;the announcement of improved concessions made in the last month of last year&#x2014;and particularly during the past four months or less, let us say the past three and a half months since the improved concessions for Port Elizabeth were announced, 17 new applications were approved&#x2014;7 new ones and 10 existing projects which are being extended. This constitutes a total investment of R34 million, with new job opportunities for 1 494 people. This took place in three and a half months, and these extensions have their own economic viability.</p>
+
+<p>I therefore want to urge the hon member, for the sake of his own town, to be more positive. One of the problems of Port Elizabeth is that there are too many voices echoing the negative tones in which the hon member spoke here. If more people were positive and used the great opportunities offered by Port Elizabeth, promoting it as do many of the hon NP members on this side, a new spirit would be engendered in that area. Let me tell the people of Port Elizabeth that they should get rid of the old negativists in their midst and develop that place into the great city which, according to its potential it could become.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, I just want to tell the hon the Minister of Trade and Industry to continue with his policy of decentralization; we support him in this regard. But the credibility of the Government took another knock in his speech because he relied solely on the economic considerations. We have always believed that decentralization is taking place for ideological reasons as well. That is all I have to say about the hon the Minister.</p>
+
+<p>I want to deal with the hon member for Primrose for a moment. There is a saying: &#x201C;Cowboys do not cry.&#x201D; I think this also applies to politicians. After the lamentations by the hon member for Primrose yesterday, I must give publicity to a few matters pertaining to the NP.</p>
+
+<p>The first matter I want to deal with is a telex I received from Mr Schalk Pienaar, the popular and capable candidate for the CP. [Interjections.] He sent me a telex in which he said:</p>
+
+<block name="quote">Met benadeling van my regte &#x2026;</block>
+
+<p>and I hope the hon member knows what those words mean:</p>
+
+<block name="quote">&#x2026; lewer ek soos volg kommentaar op die neerhalende aanmerkings wat hy aan my toegedig het ten opsigte van die agb lid vir Waterberg.</block>
+
+<ol>
+
+<li>1. Bogenoemde stelling van Dr Welgemoed is &#x2019;n blatante leuen.</li>
+
+<li>2. Dit is &#x2019;n deursigtige poging om die swak vertoning van die NP in Primrose en die algemene verval &#x2026;</li>
+
+</ol>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! We cannot use other people to impute unparliamentary words to someone. The hon member may not quote another person who said that the hon member told a lie. I ask the hon member to withdraw it.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, I withdraw it, but I am merely reading out what appears in a telex. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! You may not do so by implication.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>I withdraw it. I quote further:</p>
+
+<ol>
+
+<li><span class="col_241-242" refersTo="page_0165"/>2. Dit is &#x2019;n deursigtige poging om die swak vertoning van die NP in Primrose en die algemene verval van die NP te verdoesel.</li>
+
+<li>3. Dit is &#x2019;n laakbare poging om &#x2019;n wig tussen my en my leier in te dryf en ek beje&#x00EB;n dit met minagting.</li>
+
+<li>4. Ek daag Dr Welgemoed uit om sy stellings en die beleid van die NP saam met my op &#x2019;n gesamentlike openbare vergadering in Primrose te verdedig.</li>
+
+</ol>
+
+<p>Now that hon member owes you, this House, my hon Leader and the hon Chief Whip of the CP an apology. On polling day that hon member said to farmers who were helping the CP: &#x201C;Stop complaining and pay your Land Bank loan and your Agricultural Credit loan instead&#x201D;. Even his wife &#x2026;</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>He confirms it.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>He confirms it. Even his wife expressed her thanks and appreciation to us for treating her decently. The hon member is not even capable of doing that. [Interjections.]</p>
+
+<p>We have in our possession several sworn statements on the way in which the NP obtained postal votes from the voters in Primrose under false pretences. They presented statements to voters in which they said: Just sign this document and then we shall check whether your names appear on the voter&#x2019;s roll. In actual fact these were then applications for postal votes. We are not complaining, we are merely giving the other side of the picture. On polling day 55 postal votes of the NP were handed in and were rejected. Does that not speak volumes? [Interjections.] Particularly when one considers how many people were turned away from the polling booths on polling day because the NP had applied for postal votes for these people. The special ballot boxes at the old-age homes were not ballot boxes of the State, but ballot boxes of the NP. These were propaganda attempts by the NP. In addition we were constantly being harassed by a pro-NP city council which tried in every way to prejudice the CP while that election was being contested. The absolute limit was the panic-stricken <i>Vaderland,</i> which almost a week before polling day, even called in the Ku-Klux-Klan to save the NP from destruction. [Interjections.]</p>
+
+<p>This is not a pleasant story. It attests to a desperate, soulless Government which knows that it is losing support almost every day. We want to tell it that neither its morning newspapers, nor its smutty afternoon newspaper, nor its Sunday newspaper, nor its obsequious allies in the SABC and the TV service can stem the tide against the NP.</p>
+
+<p>Then there is the hon the Minister of Finance with his poor performance the other day, who was shamefacedly angry because we spoke about the increase in sales tax. At that stage he already knew that the petrol price was going to go up, but he kept quiet about it. He behaved the same as he did at that meeting, that big dinner for South African businessmen, at which he had to make the main speech. He was so aptly described in an article which stated:</p>
+
+<block name="quote">He saw fit to ramble on, peppering his meanderings with quotes from Scott Fitzgerald and Shakespeare. With the cream of the country&#x2019;s businessmen as his captive audience, he could have made a telling speech whose reverberations would have reached every last corner of the business world. Instead, he blew it.</block>
+
+<p>He blew it in the same way he simply blows everything, just as he is also blowing away the country&#x2019;s finances. That is all I have to say about those &#x201C;crying cowboys.&#x201D;</p>
+
+<p>In the same way that their lack of honesty is eroding the NP&#x2019;s credibility, there is a fear among White workers. They hear rumours about &#x201C;affirmative action&#x201D; or inverted discrimination. They hear about Whites who in spite of better qualifications may have to stand aside for people of colour with lower qualifications in order to rectify so-called injustices of the past. They are experiencing an increasing number of unfair labour practices. The mine workers are being confronted by demands from the Chamber of Mines that they must make provision for people of colour in their rules if they want two health and pension funds to amalgamate.</p>
+
+<p>In its awareness of and lust for power the Government does not even shrink from misusing <span class="col_243-244" refersTo="page_0166"/>the most loyal branch of the country&#x2019;s administration, the SA Police. Some of our most senior policemen are even roped in to use bugging methods to investigate alleged offences which have nothing to do with the security of the State, but merely in an effort to salvage the ruined reputation of a corrupt former politician. I have personal experience of this kind of thing, and I know about the orders police officers have to carry out.</p>
+
+<p>We in South Africa believe in democracy, but when there is a suspicion that a voter brought intimate matters to the attention of a member of the House of Assembly, even the parliamentary privilege of that member is disregarded. He is told: If you make a statement to us, we shall release a certain accused on bail. [Interjections.] This is democracy! But I want to tell that hon Minister, next time he must not send a brigadier, but a general to see whether he can obtain a statement from an hon member of this House who is protected by the privilege of the House.</p>
+
+<p>Owing to this lack of honesty there is also a lack of trust among the Black people. The Black people consider the State President&#x2019;s speech to be a Trojan horse. Beware of Greeks bearing gifts, because the Black people know what the Government did in neighbouring Mozambique. They know that the Government assisted Renamo by word and deed and also with weapons and finance. They know that this was done recently and they also know that the Government now supports Frelimo, which is a communist government. They know that the Government is interfering in the affairs of that foreign state and that is also why Mr Rifkind said: &#x201C;I am afraid I cannot believe anything more that the South African Government tells me&#x201D;.</p>
+
+<p>But the most blatant of all is that the State President said that there must be no domination of one people over another, because there is domination in the Government, not of one people over another, but domination of one party over all the other parties in South Africa. No matter how inconsistent this may sound, through its integration policy the Government is creating more and more expectations which it will not be able to resist in the long run. The ultimate solution to the elimination of domination is a policy of partition, a policy in which that party has always believed. This is the only way in which one can avoid domination; not through all manner of constitutional manipulations, but only through a policy of separate development and partition. Then they hold it against the PFP when they say: Change your ideology and principles a little; look what we are doing&#x2014;an ideology and a principle no longer means anything to us. The PFP must also do this. Only partition, only separate development is the solution to the problems with which South Africa is wrestling.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Mr Chairman, the hon member for Brakpan is welcome to his bit of &#x201C;boksports&#x201D; today. He very clearly felt like using the time at his disposal to cause a nice soapbox commotion. He must have thought that we would be impressed, but we were not impressed in the least. Last year he was so ashamed about the behaviour of CP supporters in Primrose that he telephoned the NP head office in Pretoria to apologize for the way in which posters on which a photograph of the State President appeared had been defaced. [Interjections.]</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>That is not true.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>That is untrue and you know it.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>That is my information.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! Did the hon member for Rissik say: &#x201C;That is untrue and you know it&#x201D;?</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Yes, Sir.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Then the hon member must withdraw it.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I withdraw it, Mr Chairman. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>To me the most interesting thing is that this good old friend of mine, who was our respected Deputy Speaker and also a respected lawyer, has become such a real old &#x201C;crying cowboy&#x201D;. [Interjections.] This afternoon he stood here <span class="col_245-246" refersTo="page_0167"/>and cried, and expected all of us to take out our handkerchiefs. Well, I am not even going to reply to the hon member. [Interjections.] What is more, the hon member knows why a friendly, legitimate request was made to him to make a statement on the facts at his disposal, but he hid behind the privilege of Parliament. [Interjections.] He knows it but let us leave it at that. After all, the hon member knows I am telling the truth and I think he just wanted to waste our time this afternoon.</p>
+
+<p>I should like to have a few words with the hon the Leader of the Official Opposition. On Monday the hon the Leader of the Official apologized in advance, at the outset of his speech, if some of his statistical data should appear to be incorrect. I am just sorry that the hon the Leader of the Official Opposition did not also apologize for the few misrepresentations he made in respect of my involvement, and that of others, in security matters. It is true that the hon the Leader of the Official Opposition does not make a habit of it. Actually I was surprised to hear in what a distorted way he presented certain facts, but I accept his good intentions. However, he did not do his homework properly. He became excited here and associated me with certain situations in which I was not even involved, and deliberated tried to present me in a ridiculous light in certain situations in which I was in fact involved, while he must surely have known what the real facts were. Unfortunately I do not have the time to go into detail, but I can give him the examples and then we can discuss it at a later stage.</p>
+
+<p>The hon the Leader of the Official Opposition&#x2019;s reference to the involvement of the British member of Parliament who visited South Africa and myself is, however, completely inaccurate. Surely the hon Leader knows that. He gave an explanation of the telephone conversation he had with me and said he drew my attention to the &#x201C;bungling of the Government&#x201D;. The hon the Leader of the Official Opposition has never in his life spoken to a person on the telephone in such a manner. He has never spoken to me on the telephone about the &#x201C;bungling of the Government.&#x201D; This is what appears in Hansard, and I also took it down like that in my notes. The hon Leader is in fact always humble and polite. Why does he display such forcefulness in his speech if it is not actually so? The hon Leader maintains that I have said to him: &#x201C;I will not give them any publicity&#x201D;, and then finds it quite hilarious. Surely the hon the Leader of the Official Opposition knows that these are not the real facts. Moreover, he knows that I gave him a full explanation of our point of view on the people who took refuge in the British Consulate and the probable embarrassment it could cause the British Government if any of us in the Government did not choose our words very carefully at that stage. Surely I told the hon Leader this on the telephone. I have a note here which I made of his conversation with me&#x2014;after he had telephoned me&#x2014;and I also have the documents here which I read out to him In this connection the hon leader knows that I read out two telex messages to him. The first message was sent by General Coetzee on my instructions, while I sent the second one in my own name. The first telex message read as follows:</p>
+
+<block name="quote">In acknowledging receipt of your communication dated 13/9/84, I take note of the fact that your clients are presently on the premises of the British Consulate in Durban. I would like to stress the following points:</block>
+
+<ol>
+
+<li>A. Whilst your clients, who are not British subjects, are upon the premises of the British Consulate, I am not prepared to participate in any discussions on actions which may embarrass the British Government or the British Ambassador in South Africa.</li>
+
+<li>B. It appears that your clients&#x2019; actions may result in embarrassment to the British or South African Governments. I have discussed your request with the hon the Minister of Law and Order, Mr Louis le Grange. He is prepared to consider representations which may be rendered to him by your clients concerning the notices which are in force in terms of Section 28 of the Internal Security Act in respect of each client.</li>
+
+</ol>
+
+<p>This is what appeared in the newspapers and this is what I told him, but he quoted one sentence from it then tried to present me in <span class="col_247-248" refersTo="page_0168"/>a ridiculous light after his congress in Pietermaritzburg had applauded him so enthusiastically when he spoke about this matter. This is not the style of the hon Leader as we have come to know it.</p>
+
+<p>The hon Leader must surely be acquainted with the contents of a report which appeared in <i>The Star,</i> in which the reasons for the actions of these people were set out in. They indicated that their presence there was not because they wanted to be there for humanitarian reasons, but was a calculated action to break the law because they wanted to draw the attention of the world to them. That is why they took advantage of the British Consulate and created embarrassment for the British Government. In that report they stated that their action was taken in view of the constitutional development taking place in South Africa, and was specifically aimed at embarrassing the State President of South Africa. The hon Leader must surely have read that prominent report in <i>The Star.</i> Why did he not mention it, but try instead to present us in a ridiculous light? Surely he was aware of the statement the State President issued on 5 November, in which he said <i>Inter alia:</i></p>
+
+<block name="quote">Ek is van mening dat wanneer ons nou terugkyk oor die afgelope vyf weke se gebeure, moet seifs diegene wat aanvanklik krities gestaan het teenoor die Regering se besluit erken dat dit die mees gepaste besluit was ten opsigte van diegene in die konsulaat.</block>
+
+<p>What are the remaining facts? The State President went on to say:</p>
+
+<block name="quote">Intussen het &#x2019;n voile regbank van &#x2019;n afdeling van ons Hooggeregshof beslis dat die aanhoudingsbevele wettiglik uitgereik is. Die konsulaat is aangewend om &#x2019;n politieke propagandaveldtog teen Suid-Afrika te voer, wat neerkom op &#x2019;n verdere verbreking van &#x2019;n volkeregtelike verpligting. As gevolg van hierdie onregmatige dade is &#x2019;n golf van nuuswaarde geskep waarop ons vyande uiters vyandige propaganda teen Suid-Afrika die hele w&#x00E8;reld ingestuur het. Daar is seifs &#x2019;n debat in die Algemene Vergadering van die WO gevoer, met al die ongure publisiteit wat daaraan verbonde was, weer eens tot Suid-Afrika se skade en nadeel. In hulle verklarings van 19 en 21 November erken die Britse Regering by implikasie dat die konsulaat misbruik is en misbruik word. Die drie in die konsulaat het ook op 19 Oktober 1984 in die voorwaardes wat hulle aan die Minister van Wet en orde gestuur het dit duidelik gestel dat hulle om geen humanit&#x00E8;re redes na die konsulaat gevlug het nie, maar het dit uitdagend duidelik gestel dat hulle die konsulaat sou aanwend vir doeleindes van &#x2019;n politieke kampanje teen die land.</block>
+
+<p>This is a brief summary of the facts which I am giving the hon the Leader very cursorily. Surely he is aware of this. So why did he try to give another impression in his speech?</p>
+
+<p>To me what took the cake was when the hon the Leader said, and it also appeared like that in Hansard, that he stood speechless before the television cameras in Britain. Why could he not say a word? He saw a film of two or three minutes and on account of that he said that he was speechless and unable to say a word. Why not? Does he not have any go in him? He is after all the Leader of the Official Opposition in South Africa. Could he not call their attention to other countries in the world where the Defence Force is used in conjunction with the Police? The best example he could choose was Britain. Why did he not ask the British what they are doing in Northern Ireland? He did not have the gumption. He could also have mentioned the example of the USA where the National Guard is used freely in controlling riots.</p>
+
+<p>In France the military police form part of the civil police force. In Italy a part of the military units forms part of the police force and are also used for those purposes. Similar institutions also exist in West Germany. Indeed, the hon Leader knows what is happening even here in Zimbabwe where the Prime Minister of Zimbabwe calls in the army to help his police force control the riots in his country. He is also aware of similar measures instituted in Australia in 1978.</p>
+
+<p>These things appear in an official press statement issued by the State President, but the hon Leader has no gumption, he stood there speechless. Why did he not tell the British that the UDF, the South African Communist Party, the ANC, Cosas and all <span class="col_249-250" refersTo="page_0169"/>these other organizations are responsible for all the riots in South Africa, and also for the films which he saw in Britain? [Interjections.] Why could he not identify the leadership group of the UDF for the British? Could it be because he did not want to identify Nelson Mandela, Sisulu, Mpetha, Mbeke and all the other ANC leaders, as well as Dr Alan Boesak, Dr Beyers Naud&#x00E9; and others as being the patrons of the UDF, while he was amongst his friends? He said he could not say a word, but he must have been aware of the press statement which the hon the Minister of Defence and I issued on the participation of the Defence Force in the Vaal Triangle and other areas. The Government&#x2019;s viewpoint was very clearly set out in that statement.</p>
+
+<p>I should like to quote only one paragraph from that statement:</p>
+
+<block name="quote">Die Regering het gevolglik besluit dat die betrokke onwettighede met alle moont-like middele tot sy beskikking bekamp moet word, en dat wet en orde effektief herstel moet word. Dit is ook noodsaaklik dat die betrokke wetsgehoorsame gemeenskappe in staat gestel moet word om hulle normale lewenswyse te handhaf, en om die dienste wat tot hulle beskikking gestel word, te gebruik sonder dat hulle daartoe verhinder word. Dit is veral ook belangrik dat die duisende skoolkinders wat deur intimidasie verhinder word om skool te gaan, in staat gestel moet word om hulle skoolopvoeding voort te sit. Daar is gevolglik besluit dat &#x2019;n operasie deur die SA Polisie en ondersteun deur die SA Weermag geloods sal word om die misdadige en revolusion&#x00EA;re elemente in die betrokke gebiede daadwerklik te bekamp en aan bande te l&#x00EA;.</block>
+
+<p>Then we went on to explain how the operation would be carried out.</p>
+
+<p>Surely this is clear. Why should the hon Leader now want to disparage these actions? According to him only 354 people were caught, and he scoffed at that. The number of people arrested in these circumstances is not something to scoff at. I want to tell the hon Leader that I will understand if he did not know this, because it was not really a well-known figure. At that stage, when this operation was carried out, we were already obliged to detain more than 1 500 people in those areas on a series of charges, not under security legislation but as a result of the riots. The Government was forced to take these additional steps as a result of the facts contained in this statement. Why did the hon Leader stand there speechless? Could he not tell these things to the British?</p>
+
+<p>However, I will give a reason why he could not say a word. Before his departure for Britain he told a newspaper that he would have taken exactly the same actions with regard to the six in the consulate. This appeared in <i>Beeld.</i> I have the reports here and can read them to him. I can also read his motivation for saying so. We know he would have acted in the same way. That is why he was speechless. Was he afraid to tell the British he would have acted in the same way?</p>
+
+<p>A last thought in this connection. The people who were detained there as well as their friends&#x2014;some of them are lawyers&#x2014; have connections with a communist front organization. The lawyers involved with these six and the other potion of the group are all members of an organization known as the Democratic Lawyers&#x2019; Association of Durban, which in turn is affiliated with the communist front organization known as the International Association of Democratic Lawyers. One of the detainees, Mr Archie Gumede, had only a week previously been elected vice-president of the UADL at their conference in Athens. He was elected as one of the vice-presidents of that communist organization. In <i>The Star</i>&#x2014;for the edification of the hon the Leader&#x2014;it was explicitly stated:</p>
+
+<block name="quote">Its objective was and remains today the accomplishment of precisely defined tasks set by world communism, without the communist party or government of the given country having to show its hand.</block>
+
+<p>Why did the hon the Leader not tell this to the British? He must surely have known about this. Why was he standing there speechless? I shall tell him why. If the reasons I cited are not relevant then he stood there speechless because he did not have the gumption, because he was completely uninformed about events in his own country, because he was ashamed of his friends and did not have the courage to defend <span class="col_251-252" refersTo="page_0170"/>them, and because he realized he could not say a word against Mrs Thatcher and others because he supported lawbreakers, contrary to the interests of Britain. That is why he stood there speechless. [Interjections.]</p>
+
+<p>The other day the hon member for Houghton made us listen to her usual slogans, as she always does advisedly in order to derive the maximum publicity. That is how we have come to know the hon member. She is an old campaigner in this field and we do not take it amiss of her.</p>
+
+<p>Let us consider a few of her slogans. The first is: &#x201C;Free Mandela and others.&#x201D; This is an old familiar ANC cry, is it not, and this story of &#x201C;Free Mandela and others&#x201D; is dealt with thoroughly on page 71 of the Rabie Commission&#x2019;s report. Now, on the basis of Lord Bethell&#x2019;s visit to Mandela and his published report, the hon member has tried to create the impression&#x2014;and the refrain has also been picked up in some of today&#x2019;s papers&#x2014;that Mandela is singularly compliant and is prepared to call for a cease-fire. Surely this is not the case? What are the facts? The hon member knows what the facts are. Why does she not give Mandela&#x2019;s full standpoint as stated by Lord Bethell in his report in the British newspapers?</p>
+
+<p>Let me quote only one paragraph. According to one British newspaper the British lord wrote the following, <i>inter alia:</i></p>
+
+<block name="quote">The problem is that Mandela still supports the armed struggle. This is why some human rights bodies, for instance Amnesty International, will not campaign for his release.</block>
+
+<p>Why does the hon member not tell us this? I quote further:</p>
+
+<block name="quote">It means too that his case makes a bad impression on the South African Parole Board since he shows no repentance for his past actions&#x2014;rather the contrary&#x2014;and he makes no secret of his wish to return to the fray.</block>
+
+<p>This is what Lord Bethell says. This is his report on the situation. Why does the hon member not tell us this? She stands up and speaks rather sanctimoniously about the man who now wants a cease-fire. [Interjections.]</p>
+
+<p>&#x2020;Lord Bethell also writes that Mandela is adamant that the Government must legalize the ANC, treat them like a political party and negotiate with them, before the ANC will consider ending their militant operations. What is more, according to Lord Bethell Mandela describes himself as a socialist who believes in a classless society and he sees no reason to belong to any political party at the moment.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs <person refersTo="hansard_za">H SUZMAN</person>:</from>
+
+<p>So what? [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Why does the hon member not tell this hon House these things as well? Why is it omitted? This, then, is the man the PFP and the hon member for Houghton are so eager to have released. That is why I can understand that some time ago, according to the newspapers, she was delighted about the release of the communist David Kitson who had served a sentence of 20 years and who was a well-known communist and member of the military wing of the ANC, Umkhonto we Sizwe.</p>
+
+<p>Then there is the hon member&#x2019;s &#x201C;release all detainees&#x201D;. At the moment 132 are being detained under section 29. No one is being detained under section 28. Twenty nine are also being detained as witnesses in terms of section 31. The majority of these people are involved in 20 court cases in various divisions of our courts, on charges varying from high treason to a variety of serious charges under the Internal Security Act, particularly with regard to their activities in support of the ANC. However, the hon member tells us to &#x201C;Free all detainees&#x201D;.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>*Mrs <person refersTo="hansard_za">H SUZMAN</person>:</from>
+
+<p>Not the people who have been charged.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>These are the people who we must release, people who are charged with high treason &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I am under the impression that the hon member for Houghton has had her turn to speak in this debate.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Sir, I must honestly say that I did not hear the hon member. Nor shall I hear her until I have completed my <span class="col_253-254" refersTo="page_0171"/>speech. These, then, are the people whom the hon member, on behalf of the PFP, wants released, people who have had serious charges laid against them in court or are on the point of being charged. In many cases the dossiers have been lodged with the Attorney-General to await his decision and there is every reason to accept that court cases will follow.</p>
+
+<p>The hon member also referred to the riots in the Vaal Triangle. Once again she presented the matter with reference to the report drawn up by the bishops at the time of their conference. These are the bishops of the South African Catholic Bishops Conference. She deliberately quoted from the last part of that report and said, <i>inter alia,</i> that more than 150 people had died in the Vaal Triangle alone. The inevitable conclusion that has to be drawn is that that happened as a result of police actions. Surely the hon member knows that that is not the case. If she did not know this she could readily have obtained the figures if she had asked me or any of us for them. A total of 137 people were killed. Ninety six of these were killed by the police, 38 were killed by other people and 3 SAP members were killed.</p>
+
+<p>In all the riot areas&#x2014;I am not referring to the Vaal Triangle only but to all the areas in South Africa in which riots have recurred over the past 4 months&#x2014;611 people were injured. Of these, 259 were injured by the police and 238 by other people. The remaining 114 injured are SAP members, some of whom were seriously injured.</p>
+
+<p>Unfortunately I do not have time to give the hon member all the statistical data, but a total of 4 482 people were arrested on a variety of charges in all the areas. However, it has been said that the police alone were responsible for this. Why do we have all this damage? Why do we have all these problems? It is being attributed to the police alone. Why does it not occur to the hon member to present the other side of the case as well?</p>
+
+<p>One thousand and eighty buses and 516 private vehicles were damaged; and I can continue in this way. Millions of rands worth of damage was caused to the homes of 220 SAP members, 225 private homes, 413 schools and 3 156 police vehicles. Why is this not emphasized as well?</p>
+
+<p>I want to tell this House that we simply could not allow this report of the Bishops to go unanswered. Upon receiving it, the Commissioner of Police immediately gave it the necessary attention and all the accusations and allegations made in it are being thoroughly investigated. This is taking place in conjunction with the Archbishops who have offered their co-operation.</p>
+
+<p>I should like to assure this House that the Commissioner and I will not remain indifferent to any proven abuse of the law that may have been committed by a member of the Police Force. However, there is at least a positive aspect as well. There is tremendous appreciation in all these Black communities for the action taken by the South African Police and the South African Defence Force. Appreciation has been expressed in community councils, in development councils, in the Press, in White communities and by industrialists and businessmen.</p>
+
+<p>We have proof of all these things. We either heard it personally or received it in writing. Does the hon member know that the Vaal Triangle&#x2019;s most representative group of industrialists came to Pretoria to hold discussions with the hon Minister of Home Affairs and National Education and others? Using statistics compiled by their personnel managers, they testified before us that more than 80&#x0025; of the Black workers in the Vaal Triangle had told their employers that they were generally very satisfied with the action taken by the police and the security forces.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>That is true.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Yes, it is true. But why do these hon members never want to emphasize matters of this kind? Why is it that they only want to stress the negative things? [Interjections.]</p>
+
+<p>I want to say something about a matter raised by the hon member. This is in regard to the alleged smear campaign against Dr Alan Boesak. The Johannesburg afternoon paper, <i>The Star,</i> published a sensational front-page report a few weeks ago, according to which Dr Alan Boesak, a prominent person in church and other circles was allegedly having an extramarital affair with a certain <span class="col_255-256" refersTo="page_0172"/>young lady connected with the South African Council of Churches.</p>
+
+<p>This newspaper accused the Security Branch of the South African Police of being responsible for the disclosure of this matter and for conducting a smear campaign against Dr Alan Boesak. The Commissioner of the South African Police has repeatedly denied this allegation in public statements. The facts of the matter is that the South African Police is <i>inter alia</i> responsible for maintaining inernal security in the RSA, and it is in this connection that the activities of the United Democratic Front and the South African Council of Churches are important.</p>
+
+<p>Certain office-bearers of the United Democratic Front are the accused in a high treason case which is already pending in the Supreme Court, and others were particularly active during the recent unrest. Consequently it is obvious that members and officials of this organization would enjoy the attention of the Security Branch. [Interjections.]</p>
+
+<p>Dr Alan Boesak is one of the patrons of the UDF and also the Vice President of the South African Council of Churches. Miss Scott is the youth organizer of the South African Council of Churches. In the course of its activities the Security Branch established that Dr Boesak and Miss Scott were meeting in secret at certain hotels and when became apparent that this was merely an extramarital relationship, no further attention was given to their meetings. During the investigation it also became clear to the police that they had stumbled across an open secret and that the relationship was already known in various circles including other journalists, church circles, and the members of the South African Council of Churches.</p>
+
+<p>Dr Beyers Naude, the present Secretary of the South African Council of Churches, has stated in a press report that he had already discussed the matter months ago with Dr Boesak and Miss Scott, as well as with other close members of the family.</p>
+
+<p>Bishop Desmond Tutu, a former Secretary of the South African Council of Churches, was apparently also aware of this open secret.</p>
+
+<p>Information of this nature obtained by the police during the course of their operations, is treated as confidential and is not leaked out.</p>
+
+<p>In a report on 25 January 1985 <i>The Star</i> alleged that two colonels of the Johannesburg branch of the Security Police had admitted to two of its journalists that they had been involved in the so-called smear campaign against Dr Boesak. This was yet another sensational report which appeared at the end of last week. The conversation referred to by the newspaper had allegedly placed two days previously during a goodwill visit to the Police which had been requested by a reporter of <i>The Star,</i> Mr Mike Cohen, for the purpose of introducing to the police a female journalist, Miss Steyn, who was new to the job. Take note, it was a goodwill visit. Sir, it is as unforgivable to quote a conversation during a goodwill visit to someone&#x2019;s detriment as it is to quote from a conversation conducted in the lobby to a member&#x2019;s detriment. [Interjections.]</p>
+
+<p>These two officers labelled <i>The Star&#x2019;s</i> version of the interview as a lot of blatant lies. The Commissioner of Police also issued a supplementary denial to the Press in which the original denial was reiterated and in which it is indicated that the matter would be referred to the Media Council, which functions under the chairmanship of a judge.</p>
+
+<p>As the Minister responsible, I pledge that the South African Police will present its involvement in this case to the Media Council in all candidness, and also that we are not really interested in the private lives or the personal views of an individual, but only in his public involvements in so far as they may be of importance to the safety of the State.</p>
+
+<p>I hope that I have in this way brought greater clarity on the subject. I am grateful for the opportunity, but I do regret that the Leader of the Official Opposition, considering the facts I brought to his attention, saw fit to present such a distorted image of security matters which are of the utmost importance to this House, and to the country.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>Mr Chairman, I asked our Chief Whip to make sure that the hon the Minister of Law and Order would be present during my speech. I am grateful that he is here. I hope he will remain in the House, even though he has completed his speech. The same applies to the hon the Minister of Manpower.</p>
+
+<p>During the course of my speech I am going to address a number of questions and thoughts to the hon the Minister, but let me <span class="col_257-258" refersTo="page_0173"/>reply to him immediately on at least three of the issues which have been raised.</p>
+
+<p>Firstly, as far as the distasteful and tragic affair of the publicity surrounding Dr Alan Boesak is concerned, let me say that the hon the Minister today raised more questions than he sought to answer. In the first instance it is remarkable that the hon the Minister should state clearly and openly that the police have been instructed to watch the movements of people such as Dr Alan Boesak and others. I am quite sure the hon the Minister knows that the list is a very long one. If they are going to watch people they are also going to tap their telephones, and if they are going to do that they are probably even going to use video cameras. I think that is a disgraceful and disgusting approach by the hon the Minister and his Police Force. Certainly, if the hon the Minister feels that <i>The Star</i> has done an injustice to the South African Police, if he is so sure of his case, then I am amazed that he has not proceeded against <i>The Star.</i> That is his normal custom. He does not sit back and go to the Media Council; he takes action if he is sure of his case. I want to suggest to the hon the Minister that he is not sure of his case, and that is going to be shown sooner or later. That applies in the case of Dr Boesak as well as many other incidents which take place, which in other countries are called &#x201C;dirty tricks&#x201D;.</p>
+
+<p>I want now to refer to the hon the Minister&#x2019;s statement regarding the hon member for Houghton. I want to ask the hon the Minister a question across the floor of the House. He suggests that it is utterly out of the question, despicable and wrong-headed that the South African Government should have conversations and discussions with the ANC. That hon the Minister surely knows that his Government is prepared to talk to Swapo. What is the difference? Surely Swapo has a much higher profile as a group that is committed to overthrow by violent means the system in South West Africa/Namibia. Why must he then use this inconsistent argument? He knows it is wrong. Why release Toivo-Ja-Toivo if one is going to quarrel about Mandela? [Interjections.] We do not understand that. We have stated time and time again from these benches that sometimes, if one is committed to negotations, one has to talk to people one does not like, one has to talk to people with whom one has fundamental disagreement on strategy and policy. We wish to repeat that sooner or later this Government is going to have to talk to people who, as has over and over again been demonstrated, are leaders of the very people whom we want to convince.</p>
+
+<p>I am 100&#x0025; committed to organizations openly ceasing to use violent means. This party is on record as saying that, but it will not help to continue to say: &#x201C;We will never speak to anybody.&#x201D; That time to speak to others will come, as it came yesterday when Allan Hendrickse walked into this House and sat down here. A former Prime Minister, however, said over and again when I asked him in this House when the day would come when the Coloureds would be in this House: &#x201C;Only over my dead body.&#x201D; And alas, that is true. [Interjections.] He said: &#x201C;No! Never! Never today, never tomorrow.&#x201D; [Interjections.] That hon the Minister knows that there are members of his own party in the House who believe that one has to talk to everybody who has a representative role in this country. It is no use fudging that issue.</p>
+
+<p>One last word to the hon the Minister as far as his own speech is concerned. Let me just refresh his memory. The hon Leader of the Official Opposition stated that he went to Germany&#x2014;it was not while in Britain, but this is a small point&#x2014;where he watched the television programme concerned. Those few minutes of film did not deal merely with the unrest, but, as the hon Leader of the Official Opposition himself said on Monday, it dealt with actions of the police. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>I have a copy of his speech. It was not in his speech.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>No, it is there. I was sitting here and I was listening very carefully indeed. I was in Germany at the time, so I think I know what I am talking about.</p>
+
+<p>I would like to tell the hon the Minister that, if that kind of film were shown on South African television, there would be people on that side of the House &#x201C;met &#x2019;n bek vol tande.&#x201D; I can tell you that, Sir. There would be a growth industry in teeth all over South Africa. The point is that there are certain things which are indefensible. We <span class="col_259-260" refersTo="page_0174"/>in this party reserve the right to criticize this Government and we are here in order to do this and to suggest an alternative way. We will never, here or anywhere else, defend that which is indefensible.</p>
+
+<p>Allow me to make one overall comment concerning this new situation in which we find ourselves in this No-confidence debate. This is the third day of that debate, and every succeeding day highlights the absurdity of our own situation. There is one Parliament, but we sit in three separate chambers. The only way we can find out what is going on, is to snatch a few minutes to go and sit in another chamber and listen, and come back and say: &#x201C;Do you know what they said? Do you know what they are doing?&#x201D; Otherwise we have to read about it in the newspapers. Yet we are in one Parliament. The whole situation is absurd. What does the State President have to do? He has to divide himself into three and go from place to place in one Parliament. What do the hon the Ministers have to do?&#x2014;The same sort of thing. It is not satisfactory for any of the three Houses, it is not satisfactory for the Cabinet and it certainly is not satisfactory for South Africa. Therefore, the sooner we have one chamber, the sooner we have one Parliament, the better it is going to be for all of us, and for South Africa. [Interjections.]</p>
+
+<p>Now I would like to take issue with the hon the Minister of Home Affairs. He is on record as saying today that there was unfortunately a very negative response to what the State President said on Friday from the side of the Official Opposition, particularly from my colleague the hon member for Sandton and I think he also mentioned the hon member for Houghton and, half-heartedly, the hon Leader of the Official Opposition.</p>
+
+<p>What are we really talking about? According to the newspapers&#x2014;I do not know because I do not sit in the other two Chambers&#x2014;there is a common, even dominant, theme in evidence. That common theme is not the new Constitution although that has certainly caught a lot of attention. It is not even the State President&#x2019;s address last Friday even though that has certainly engendered debate, something for which we ought to be very grateful. The dominant theme, however, has been the race legislation on our Statute Book. &#x201C;Get rid of apartheid&#x201D; is the dominant theme. It does not come from a handful of PFP people. It has shot right through all three Chambers of this Parliament. If that hon Minister does not understand it he does not know the first thing about the deepseated feelings of the majority of South Africans towards his Government and the policies of his Government. It is not a question of being negative. It is a question&#x2014;as the hon the Leader of the Official Opposition stated so clearly&#x2014;of a real possibility for a debate. Here is a real possibility for a debate but words must be matched with action. I am sure the hon the Minister will concede that in the final analysis he does not expect us to believe only words on paper; they must be tested against action. Is that asking too much? Year after year after year we have become so tired of promises, so tired of good intentions because nothing happens. What we are saying now is the following. It is dead right, we accept the word of the State President, but then we want to know what that means in practice. Let us put flesh on the bones. That is what we are saying. Is that so negative? It is not negative at all. It is the most positive thing one can do&#x2014;not for the National Party but for South Africa. That is what we are here for.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>The institution of such a forum is a positive act.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>Yes. That is right.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Do you suggest people should participate in this?</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>Of course. They are participating right now.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Are you advising the Blacks to participate?</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>I am saying that Black leaders should make use of every opportunity, every move, every suggestion, every timid step offered them by the State President and his Government. Yes, of course. Let us start and let us move. [Interjections.] <span class="col_261-262" refersTo="page_0175"/>For heaven&#x2019;s sake, however, let us &#x2026; [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Are you going to advocate to boycott movement again?</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>No, that is the very point I am trying to make. However, what is preventing them from doing what the Government wants them to do? It is the wrongful actions and the wilfulness of this Government which contradict what they say. I want to come to a couple of these in a moment.</p>
+
+</speech>
+
+<speech by="#minister_of_home_affairs_and_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF HOME AFFAIRS AND OF NATIONAL EDUCATION</person>:</from>
+
+<p>Once the Black leaders decide to participate your party will be preparing the ground for a boycott again. [Interjections.]</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>What does the hon the Minister think we are doing here? We are participating now by way of our response. What has been on the agenda so far?&#x2014;The address by the State President. We are addressing that but we are saying that the fundamental difference is that we are not simply prepared to sit down and to say: &#x201C;Ja baas.&#x201D; That we will never do. [Interjections.] What we will say is: &#x201C;All right, the State President says that he is going to do this. What does this mean and how is he prepared to go about doing it?&#x201D;</p>
+
+<p>Let us take just one example&#x2014;the question of citizenship. I welcome in the strongest terms this new approach to citizenship. The attitude of this party to the question of citizenship is well known. We believe that people deserve to have citizenship in their own land. If that is going to take place, we will in fact be the first to applaud. However, we do not know, and therefore we say to the hon the Minister: &#x201C;Let us see what you are going to do.&#x201D;</p>
+
+<p>I requested the hon the Minister of Manpower in particular to be present here today. I put a similar request to the hon the Minister of of Law and Order. Firstly, however, referring to a speech made by him quite recently, I want to put the following to the hon the Minister of Manpower. I am delighted he has once again raised the question of unemployment because this is a sombre spin off of the present economic recession. Increasing large-scale unemployment is something which has become a daily diet for South Africa. There are a number of problems flowing from this. The first is that there still seem to be no reliable figures in respect of Black unemployment, and the dispute continues between his department and academics, between the business community and organized labour. If therefore we are going to tackle this problem seriously I believe we must at least know the extent of the problem and the gravity thereof. I would urge the Government to ensure that the best available statistics are secured, so that we neither underestimate nor overestimate the problem. This is imperative to indicate the gravity of the situation, since we are talking not simply of 500 000 unemployed but of a million to one and a half million. However, no one can really know the exact figures. It is the duty of the Government department to secure them, so that we know exactly what the situation is. Certainly no one will dispute the fact that there has been an increase in unemployment. One has only to glance at the latest report of the Unemployment Insurance Fund. In 1982 the number of applications received was 152 978. In 1983 that figure rose to 216 097&#x2014;an increase of 63 119. Many will argue that this is only the tip of the iceberg. In money terms the total amount paid out represents almost 100&#x0025; increase. That is R104 506 000 compared to R52 259 000 paid out in 1982. The report also indicates that as a result of the increased unemployment the fund experienced cash flow problems. It was necessary for them to sell some of their investments in order to meet their commitments.</p>
+
+<p>Unemployment is a serious problem, but it is no new phenomenon although it has certainly been aggravated by the enduring economic recession. Almost every day we read about a new company which has had to retrench. During this afternoon&#x2019;s debate we have already heard what is happening at the Ford Motor Company. In parenthesis I want to say that we should look very carefully at whether Ford/Amcar merely a rationalization or whether this is a red light that has begun to flash regarding the Ford Motor Company and its situation in South Africa. The question remains why they are doing this now after having contemplated the step <span class="col_263-264" refersTo="page_0176"/>for the past 18 months. It is a serious situation which we can discuss further later on.</p>
+
+<p>The fact remains that we cannot tackle the problems of unemployment in any halfhearted or half-baked way. When 1 000 jobs are needed every single working day, what South Africa needs from this Government is, firstly, an indication that it has the will and the expertise to combat unemployment realistically and meaningfully. High on the priority list should be its awareness of the lack of social infrastructures which could provide some measure of security for those who wish to work, but cannot find employment. Secondly, it must take cognizance of the persistent, ongoing complaints as to the payment of the unemployment benefits to the unemployed. Thirdly, it must spend far more time and money&#x2014;as an investment&#x2014; on job creation. This must obviously be done in close liasion with the private sector. None of us should lose sight of the threat to our overall stability by large-scale unemployment that makes angry and disillusioned workers an easy target for disruption and instability that will not always be confined to the townships.</p>
+
+<p>The other matter that I should like to raise with the hon the Minister, as well as with the hon the Minister of Law and Order, is the recent explosive situation of labour unrest. One would have imagined that the recession would have placed a damper on people intending to take strike action. However, despite the recession and despite the fear of unemployment which is rife, a two-day stayaway strike was organized in November 1984. This stayaway involved close to half a million workers. In their own terms this was the most successful event of its kind in more than 35 years. Why then was this strike so successful? Firstly, there was clear union support. The unions felt that their organizational base was far more secure than the year before. I should like to stress the second factor that contributed to this success. There seems to have been greater polarization and anger in the Black society. Dr Van der Merwe, the Director-General, is on record as having said, and I quote:</p>
+
+<block name="quote">Strikes are a normal feature in a free-market economy and serve as a safety valve for grievances.</block>
+
+<p>I agree with him but he would have to agree with me that the recent stayaway was not a normal feature and it represented not merely grievances at the workplace, but grievances which are fundamentally political in nature. The fact that the basic reason for the stayaway is political, finds support in the Black worker attitude study by Prof Schlemmer. This study makes the point&#x2014;I do not have the time to quote at length from the report&#x2014; that there is &#x201C;a growth of militancy even since a similar research was conducted in 1982&#x201D;, and concludes that &#x201C;there is very substantial political militancy lurking in Black worker groups&#x201D;. There is no doubt that one of the major reasons for the greater militancy is the Black reaction to the new Constitution from which by definition they are excluded. We warned that this exclusion would compound the already present anger and militancy, and this has now come about. So long as a political vacuum exists, it is inevitable&#x2014;not desirable, but inevitable&#x2014;that it will be filled by Black worker action.</p>
+
+<p>What was the Government&#x2019;s reaction to this?</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs <person refersTo="hansard_za">H SUZMAN</person>:</from>
+
+<p>To lock them up.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>That is right. That hon Minister immediately got to work&#x2014;he is a devil for work when it comes to locking people up. The hon the Minister of Law and Order detained a number of trade union officials including two of the leaders of the strongest trade union movements, Mr Chris Dlamini and Mr Camay, the very leaders who were negotiating with organized commerce and business. When business at long last said something meaningful and said it openly, that hon Minister expressed his deep dismay and with his hand on his heart&#x2014;I watched television&#x2014;said he was very, very saddened by their utterances.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs <person refersTo="hansard_za">H SUZMAN</person>:</from>
+
+<p>It was quite moving.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>Yes, I was very moved by that.</p>
+
+<p>I want to say to the hon the Minister of Manpower that the hon the Minister of Law and Order is one of the major reasons why we have a deteriorating situation in the labour field and one of the major causes of <span class="col_265-266" refersTo="page_0177"/>further international outcry and protest against South Africa. He has singlehandedly done more to encourage disinvestment than any other single person or group in South Africa or abroad. One does not stop trade unions taking action by gagging their leaders. How long can South Africa afford to have a Minister of lawlessness and disorder with such behaviour?</p>
+
+<p>Another brilliant example of enlightened labour practice was the wholesale sacking by Sasol of nearly 6 000 Black workers. It is no coincidence that this is a State-related organization, none at all, and that was a drastic and stupid action. What was the relationship of the hon the Minister of Law and Order to that action? Certainly the police were there and the Army too, everybody was there excepting anybody who knows anything about industrial relations!</p>
+
+<p>The hon the Minister of Manpower will have to answer many questions about what happened at Sasol and what happened during that time.</p>
+
+</speech>
+
+<speech by="#minister_of_law_and_order">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LAW AND ORDER</person>:</from>
+
+<p>Mr Chairman, may I &#x2026;</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>Dr <person refersTo="hansard_za">A L BORAINE</person>:</from>
+
+<p>Wait a second; I am nearly finished. The hon the Minister of Law and Order will also have many questions to answer.</p>
+
+<p>The only sensible response, if we do not want further escalation, is to cease the intimidation, detention and banning of trade union officials immediately. Until labour reform is matched with concrete fundamental political reform so long will we see a worsening of the situation, and that hon Minister must take a great deal of the blame.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>Mr Chairman, the hon member for Pinelands said nothing new here this afternoon. He came up with the same old refrain which has been so typical of his party in past years: Abolish apartheid, talk to the ANC, talk to Black leaders, and so on. I want to tell the hon member that the Government talks to recognized Black leaders who do not advocate violence every day, and with very good results, and the Government will continue to do so.</p>
+
+<p>I want to come to the hon member for Rissik.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Speak to Tom first; Daan will be here shortly.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>I shall comply with the request of the hon the Chief Whip of the CP.</p>
+
+<p>I wish to discuss foreign affairs. South Africa&#x2019;s foreign situation is being handled so well that the criticism levelled during this debate was rather feeble. The hon the Leader of the Official Opposition let a half-hearted reference to the Coventry episode suffice. As is the custom of his party, the hon member for Soutpansberg meted out a few wild and irresponsible slaps. He said that the fact that the Government&#x2019;s word of honour was broken in the Coventry affair is a shameful and infamous deed. But that is not true. Let us take a brief look at the facts.</p>
+
+<p>The magistrate&#x2019;s court in Coventry found that South Africa had obvious political and legal grounds for its retaliatory measure against Britain&#x2019;s handling of the Consulate drama in Durban. The court rejected allegations that South Africa had broken its word. The remarks of the magistrate&#x2019;s court of Coventry is a compliment to the South African Government.</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>Do you have a copy of the verdict?</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>The hon member should go and read it. [Interjections.] I want to tell the hon member that South Africa emerged from that incident with dignity and without any criticism from the court. The hon Minister of Foreign Affairs does not deserve the kind of criticism he received from the hon member for Soutpansberg. He deserves praise for the way in which he dealt with this and many other matters.</p>
+
+<p>I see that the hon member for Rissik has returned. The hon member for Rissik would do well to listen. He put a long list of questions to the Free State leader of the NP and to other Free Staters. We know that one fool can ask more questions than a hundred wise men can answer. I want to tell the hon member for Rissik that the people of the Free State have always been great realists. The Free State has always been in the forefront when it comes to renewal and reform and has in innumerable instances lead the way in <span class="col_267-268" refersTo="page_0178"/>moments of crisis in South Africa. The people of the Free State know what is good for South Africa. That is why we do not get cold feet in times like these, but support the State President in his new initiatives regarding the Blacks.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">J H VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, may I put a question? It is a very easy one.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>Mr Chairman, I do not answer senseless questions.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">J H VAN DER MERWE</person>:</from>
+
+<p>And what about a very difficult question?</p>
+
+</speech>
+
+<speech by="#deputy_chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">DEPUTY CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Jeppe must remain seated.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>The people of the Free State know that if the position of the Black man in this country is not put in order and if this problem is not tackled with vigour&#x2014;as the Minister of Foreign Affairs spelt out so efficiently today&#x2014;we are going to have chaos in South Africa in the future. That is why we regard it as an extremely serious matter.</p>
+
+<p>The Government does not flinch from the major issues in South Africa, but has the courage and the conviction to tackle them and find solutions to them. However, that party, that hon member for Rissik, is, running away, as they have been doing recently, from all major issues in this country.</p>
+
+<p>I want to tell the hon member for Rissik that he should keep out of the Free State&#x2019;s affairs. The Free State, as well as the members of the CP from the Free State, do not like unwelcome, controversial, imported politicians. [Interjections.] I want to tell the hon member for Rissik that he is not very welcome in the Free State, particularly not with his record as a political blunderer and a prevaricator. The people of the Free State do not like people who vacillate between &#x201C;verligte Sap&#x201D; and &#x201C;verkrampte HNP&#x201D;. The Free Staters like stability, and for that reason they stand by the trusted NP.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Have you finished with me now, Gert?</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>I do not think the hon member for Rissik deserves more attention that that.</p>
+
+<p>I think it is fitting right now that we in this House should convey our gratitude to the hon the Minister of Foreign Affairs for all his efforts and tireless diligence and perseverance in making our initiatives in Southern Africa and elsewhere succeed.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>May I put a question to the hon member?</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>I am sorry, but I do not have the time to answer questions now. The hon the Minister of Foreign Affairs, his Deputy Minister and his team of helpers worked unceasingly throughout the long recess&#x2014;also during the Christmas holidays when most other people were relaxing and the CP were sitting peacefully at the seaside&#x2014;in order to bring about peace in Southern Africa.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Gert, are you going to make a speech in Harrismith?</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>Day after day he had to stand in the firing line and handle thorny issues for South Africa. He often had to react to attacks on South Africa. [Interjections.] I want to tell the hon member for Rissik that he should stay away from Harrismith, because Harrismith will teach him a thing or two. The hon Minister of Foreign Affairs has not spared himself, his Deputy Minister, or his efficient team of officials. He paid visits to West Africa, East Africa as well as overseas countries, whilst his people were also travelling continuously. He had to deal with the difficult Kennedys, the Andersons, the Jessie Jacksons, the Tutus and others, but each time he succeeded in handling these thorny situations with dignity and finesse.</p>
+
+</speech>
+
+<speech by="#deputy_chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">DEPUTY CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! There are too many hon members who are talking too loudly.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>This House, as well as South Africa, thanks the hon Minister of Foreign Affairs for the superb work he has done for South Africa during the past <span class="col_269-270" refersTo="page_0179"/>recess. The situation in Mozambique required attention almost every day, and our efforts to try to reconcile the two opposing factions, Renamo and Frelimo, continue.</p>
+
+<p>In the few minutes I still have at my disposal, I should like to say a few words about Bishop Tutu and disinvestment. Bishop Tutu has become an extremely controversial figure in this country. His statements are such that he upsets many people and there are those who insist that action be taken against him. I do not wish to go that far, but what I do want to say to Bishop Tutu today is that his statements and actions are grossly disloyal to South Africa and to our country&#x2019;s highest interests. I am asking him, in the interests of sound relations in South Africa, to stop his provocative campaign of incitement. He is increasingly incurring the rancour of responsible people in this country. After Bishop Tutu had received the Nobel Prize, his statements became increasingly harsh. Wherever he travels throughout the world he suggests that a blood-bath is awaiting South Africa. This weekend in The Hague he rejected with contempt the new initiatives of the Government regarding the Blacks as nonsense and a waste of time. The CP is on the same wavelength. They also reject them. Bishop Tutu said: &#x201C;The country is ours.&#x201D;</p>
+
+<p>&#x2020;Typical examples of his statements are the following: In Washington he called the American policy of constructive engagement immoral, evil, and totally unchristian. [Interjections.] In Stratford the Bishop said that&#x2026;</p>
+
+</speech>
+
+<speech by="#deputy_chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">DEPUTY CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I once again want to request hon members not to talk so loudly.</p>
+
+</speech>
+
+<speech by="#terblanche">
+
+<from>*Mr <person refersTo="hansard_za">G P D TERBLANCHE</person>:</from>
+
+<p>I request hon members of the CP not to sing together in a choir. I do not feel like singing in their choir. [Interjections.]</p>
+
+<p>&#x2020;In Stratford, Connecticut, the Bishop said that South African Blacks view the US Government as collaborators in one of the most vicious systems the world has known.</p>
+
+<p>*I could continue in this vein, quoting several things Bishop Tutu has said overseas. Both here and abroad, Bishop Tutu is one of the biggest supporters of the withdrawal of foreign investments from South Africa. The bishop&#x2019;s morality on disinvestment is even being questioned by a liberal thinker and author like Dr Alan Paton. Dr Paton&#x2019;s views correspond with those of all responsible leaders in South Africa, Black, Brown and White, as well as three quarters of the country&#x2019;s Black workers. In a recent thorough, scientific investigation undertaken by Prof Lawrence Schlemmer of the University of Natal for the American Government, three quarters of South Africa&#x2019;s Black workers overwhelmingly rejected any form of disinvestment or economic boycott. It is not only the Black people of South Africa who will suffer, but also those in our neighbouring states.</p>
+
+<p>I think it would be a good thing for us to take a look at how it would affect South Africa if American investments were to be withdrawn from South Africa. In the first place, the supporters of American disinvestment are wrong in assuming that the USA is the biggest foreign investor in South Africa and that US investment is a determining factor. US investments only amount to 23&#x0025; of total foreign investment in South Africa. According to the latest available figures the total direct investment from the USA amounts to 3 billion US dollars. Direct investment from the United Kingdom is much greater, viz about 7 billion US dollars.</p>
+
+<p>I could continue to quote figures, but unfortunately time does not allow me to do so. However, I would just like to tell these supporters of disinvestment that it is not going to be so easy to get this campaign to succeed. At most, it could create a detrimental psychological climate, that could deter new investment. Throughout history, efforts to achieve political aims by applying economic pressure have not succeeded.</p>
+
+<p>The irrefutable fact is that South Africa remains an attractive and profitable field of investment. Despite all the efforts to discourage investment total foreign investment in South Africa is increasing by approximately $3 billion a year. The authorities are not aware of a single case where a foreign corporation has withdrawn from the RSA due to political considerations. The general trend pursued by foreign corporations is to extend their interests in South Africa even further and to pour even more capital into <span class="col_271-272" refersTo="page_0180"/>this country. They do this because they have confidence in South Africa and because nowhere else in the world can their shareholders get better dividends on their investments.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr <person refersTo="hansard_za">H E J VAN RENSBURG</person>:</from>
+
+<p>Mr Chairman, I think that the hon member for Bloemfontein North owes Prof Karel Noffke a word of thanks for the speech he has just made. When the hon member talked about disinvestment, this reminded me of the teacher who wanted to demonstrate something to her class. She had a glass full of pure alcohol and two live worms. She threw the worms into the glass of alcohol. They wriggled about for a moment and then they were both stone dead. She then asked her class: What does this prove? One of the small boys at the front of the class said: It proves that if one drinks alcohol one need not be afraid of worms. I want to tell the hon member and the Government that if South Africa were to get rid of apartheid we would not need to fear disinvestment. Therein lies the problem. One must begin by giving attention to the fundamental reasons for the anti-South African campaign abroad, the fundamental reasons existing in South Africa.</p>
+
+<p>I am very sorry that the State President is not in the House at the moment because I want to say a few words about his speech. I am convinced that the speech of the State President means only one thing, namely that the beginning of the end of apartheid has finally dawned. Under increasing pressure from all quarters the Government is now clearly convinced that apartheid lies at the root of virtually all South Africa&#x2019;s socioeconomic and political problems and that stability and prosperity for the country and all its people can only be achieved provided we can first succeed in getting rid of apartheid and all its negative and destructive consequences. I am convinced that this is the real meaning of the speech made by the State President.</p>
+
+<p>That is why I welcome that speech. I am a veteran in the struggle against apartheid. [Interjections.] I have been fighting apartheid for 33 years now. That is why I welcome the speech made by the State President and I am looking forward with great expectancy and confidence to the speedy and effective practical implementation of the initiatives he announced here last Friday&#x2014;and I emphasize the speedy and effective practical implementation of those initiatives.</p>
+
+<p>I do not want to commend the State president too much. Hon members will remember that after the reforms in the labour policy I commended former Minister Fanie Botha, and look what happened to him I also commended the hon the Minister of Finance while he was still the Minister of Education and Training for his new initiative in that sphere and now he is in a sorry plight as far as finances are concerned.</p>
+
+<p>I was disappointed when the hon the Minister of Communications, in his characteristic way and without considering what he was saying, detracted from the State President&#x2019;s initiatives by alleging that these were actually Dr Connie Mulder&#x2019;s heifers the State President was now ploughing with. This was simply a deliberate attempt to cast suspicion on the State President&#x2019;s initiatives and in my case did not take the reality into account. The reality is that the initiatives are the product of a powerful consensus which has developed and built up over a wide front during the past few years. Virtually the whole of South Africa, virtually all its people, virtually all the political parties in all the homelands and throughout South Africa&#x2014;with the exception of the HNP and the CP&#x2014;are part of that consensus at this stage. All South Africa&#x2019;s churches, with one or two unimportant exceptions, virtually all our universities, South Africa&#x2019;s businessmen, South Africa&#x2019;s industrialists, South Africa&#x2019;s workers and workers&#x2019; organizations&#x2014;the whole of South Africa has reached a powerful consensus. They have reached consensus on the fact that apartheid is a negative, destructive, objectionable and dangerous philosophy and political and socio-economic system. It endangers our security, it hampers our progress, it causes inter-racial conflict, and it humiliates all South Africans, Whites and Blacks. It isolates our country from the rest of the civilized world. [Interjections.] Speaking of consensus, the great, important, enlightening consensus in South Africa is that apartheid must go, the sooner the better. I think that message has finally got through to the National Party, and they are doing something about it&#x2014;at least I hope so! I am optimistic and I shall remain optimistic until the National Party disappoints us in this regard. <span class="col_273-274" refersTo="page_0181"/>The only criticism I have with regard to the State President&#x2019;s speech is the circumspection with which he announced his initiatives. This creates uncertainty. Unfortunately this makes it possible for people to give divergent interpretations of his words. While he was making that speech, I was watching certain members of the National Party and they became rather pale around the gills. Consequently, I am afraid that they may give other interpretations to that policy. [Interjections.]</p>
+
+<p>Now there are two aspects I want to single out; two practical steps the Government can take immediately in order to a very great extent to bring about stability in the Black residential areas in South Africa&#x2014;including those residential areas where there has been unrest during the past few months. The State President emphatically and unequivocally committed himself and his Government to freehold property ownership for all Black families in South Africa. If a man goes courting, and he makes the mistake of mentioning marriage, his goose is cooked. If he mentions the word he must realise that the reality is going to follow. Consequently when the State President mentions property-ownership he must realise that he will never be able to turn back again. He will have to accept this and he will have to implement it. I think that the State President and the Government can make a dramatic contribution to stability and happiness in the Black residential areas. This can be the most effective counter to Marxism.</p>
+
+<p>I now want to appeal to the State President to give orders at once for the system to be introduced without delay. It must not once more be associated with the delays, the omissions, and the reluctance which one experienced in the past. It must be ensured that all red tape and administrative obstacles which exist, or which may be made to exist, are removed at once. If there are officials who do not want to go along with this, steps must be taken against them. It must also be ensured that the State Departments involved in this undertake and carry out this task with enthusiasm; that there will not be unnecessary additional expenditure involved in this; and that private undertakings will be encouraged to do as much as possible to assist them. I am appealing to the State President to make it his declared intention&#x2014;with a fanfare of trumpets if necessary&#x2014;to afford every family the opportunity to own a property and a house, and to declare this to be his highest priority.</p>
+
+<p>The second practical step concerns education in South Africa. I again want to appeal to the State President to take immediate and purposeful action in this regard. The Ministers concerned are hard at work on these problems. Progress has been made, there have been significant changes and expenditure is increasing. But because Black education is separate education it is regarded with suspicion by the Black community. It is considered inferior. It impairs the dignity of the Black people, and this creates dissatisfaction, frustration and opposition to the system. I contend that the State President could bring about a dramatic change in attitude among Black people by announcing a decisive initiative with regard to their education, and in that way make a dramatic contribution to stability and prosperity. The State President could give instructions that in future all education will fall under one department and one Minister, and that urgent steps will be taken and that equal expenditure, equal education and training, equal teaching standards, facilities and examinations will be established as soon as possible. If the State President could announce that it is his aim to provide every child in South Africa with the best possible education which can be offered, and if this can be stated as a priority and can also fall under one department and one Minister, the tidal flood of goodwill which will emanate from the ordinary Black man, following such a dramatic and drastic undertaking, provided it is made with conviction and sincerely, will astound him and South Africa. He will also be delighted with the stability which can be brought about in this way.</p>
+
+<p>One of the most important announcements by the State President concerns the informal forum for discussion. If this forum is created as soon as possible and if both the Government and Black leaders use it sincerely, honestly and with mutual tolerance, trust and understanding, this could defuse the inter-racial conflict which is rapidly building up in South Africa and could form the basis for negotiation, the solving of our constitutional and racial problems, and contribute towards the attaining of consensus with regard to the constitutional future of <span class="col_275-276" refersTo="page_0182"/>Blacks. The Government must see to this immediately, but it must state its honesty, sincerity and determination to make a success of this clearly and emphatically. The Government must decide, as a principle, that all grouping and leaders in South Africa must be invited to hold discussions. No exceptions must be made. No unnecessary conditions must be laid down. The Government must act flexibly and tolerantly. It must remove all obstacles which prevent contact. If there must be a condition, it can only be that any person or organization coming to hold discussions must exclude violence as a means of bringing about constitutional change in South Africa.</p>
+
+<p>But this is not only the duty of the Government but of others too. I want to take this opportunity to make a sincere appeal to all Black leaders and Black political organizations in South Africa to go to the forum and to make use of the opportunities which exist. They must make their representations there, come and negotiate there and come and talk there so that Whites are given the opportunity to gain insight into their standpoints and so that they can also gain insight into the standpoints of the Whites. I have said this before and I shall say it again: All organizations must be invited. But all persons and organizations must realize that they will have to dissociate themselves from violence as a means of achieving constitutional change. If they do this, negotiations can take place on a calm, intelligent and scientific way and progress can be made towards peaceful change.</p>
+
+<p>While I am referring to Black leaders and Black organizations I also want to make an appeal in connection with Black education. I want to make this appeal in the new spirit prevailing at present. I want to appeal to them to cease exploiting justified grievances which exist among Black children in particular, but also among workers and civilians, in order to achieve certain political motives. They must cease interfering in the education and training of the young Black people of South Africa. Those people receiving education and training now form the basis of the future prosperity of the Black population in South Africa. Both sides must make concessions. Both sides must act reasonably and tolerantly. We now find ourselves in a situation where there is polarization between the far right wing and the far left wing. The time has come for bridges to be built between these groups. There is now an opportunity to do so. But this cannot be done unless both sides are prepared to make certain concessions.</p>
+
+<p>I myself was a witness to what happened in the Vaal Triangle. I spent many days there. I went to see what was going on there, and I went to listen to and talk to the people. It was quite clear to me that major problems existed. There are communication problems and confusion. The average person, particularly the child at school, finds himself between two poles, namely the political activists on the one hand who are intimidating and threatening him, and the authorities and policy directions of the Government on the other. There I found, for example, that there were threats to break the arms of children who insisted on writing examinations. In the <i>Rand Daily Mail</i> there was this report on this state of affairs:</p>
+
+<block name="quote">A meeting of Soweto pupils yesterday voted not to write the Matric exams due to begin today. In a veiled threat a speaker warned those who undermined the decision that they would have no police protection at their homes.</block>
+
+<p>One simply cannot tolerate thousands of children being denied the opportunity to write their examinations because of the activities of political activists. I am appealing to them, in the interests of their own people, to refrain from this kind of activity. [Interjections.] My party supports me in this matter.</p>
+
+<p>Today there is a new opportunity which must still be put to the test. The government&#x2019;s offer will be put to the test, and if the Government does not remain steadfast, if the Government is not honest and sincere about the offer it has made, there is an opportunity to think again. Nevertheless, until such time as the Government&#x2019;s offer has been thoroughly put to the test, the situation in South Africa will remain unchanged for those people. I can understand their frustration and rebelliousness; I think I understand how it must feel to be the victim of apartheid.</p>
+
+<p>Nevertheless, if we want peaceful, constructive and positive changes in South Africa, <span class="col_277-278" refersTo="page_0183"/>we must accept this offer by the Government now and make an effort to apply it effectively. If the Government then does not remain steadfast; if it is not prepared to do this successfully and effectively, we shall have to think again. All the same, but I want to appeal to South Africa&#x2019;s Black leaders, and to the Government to make a success of this.</p>
+
+</speech>
+
+<speech by="#minister_of_foreign_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FOREIGN AFFAIRS</person>:</from>
+
+<p>Mr Chairman, I do not think today is the proper time to oppose the hon member for Bryanston with severity. Apparently his process of reform has just begun. [Interjections.] I think we should give him a chance to make progress and not knock him off balance again. I think we should give him an opportunity to proceed along the course he has set out on with such tottering steps.</p>
+
+<p>I want to say a few words about the tendency in the CP continually to represent the Government&#x2014;and frequently the Department of Foreign Affairs and me&#x2014;as bowing to pressure from abroad. If the Government in South Africa takes political policy decisions, it is said that countries abroad are prescribing to us. We do not need to dwell on this at any length, because if that were the case, why all the anti-South African activity in the American Senate and Congress? If it is true that the Americans are prescribing to us, and if we are slavishly following the Americans to such an extent and satisfying them, why the threatening disinvestment campaign? Why the protest at our embassy? Why the daily newspaper articles and television programmes in which this Government is criticized even by members of the American government?</p>
+
+<p>The hon member for Soutpansberg started it all, in the first place, by misquoting the State President. I do not blame him. He cannot but quote incorrectly because he was asleep when the State President was speaking. On the one hand he is trying to say that we have bowed to pressure, whilst on the other he doubts the State President&#x2019;s statement that we would not be dictated to. Then he said that President Reagan had let the cat out of the bag. That is completely untrue. The cat was nowhere near President Reagan and he could therefore not have let it out of the bag. [Interjections.] He is much closer to us than hon members realize. He is very close indeed.</p>
+
+<p>What the hon member does not realize is that we make use of our opportunities and are not afraid of holding discussions with any government representative, from President Reagan to Mrs Thatcher or whoever the case may be. This Government is not afraid; it does not hesitate. It holds discussions with any leader, any representative, even allowing Senator Edward Kennedy to come and make a fool of himself in South Africa. We do not hide away. We know where we are heading and welcome any interest from abroad from leaders who request information or particulars about South Africa, anyone wanting to know what course this Government is taking. We welcome it. We tell them what our policy and objectives are. Why would we not do so? We have nothing to hide. We tell them quite frankly that we, as a government are not perfect and that our conditions are not perfect, but we ask them how they would handle those realities? We utilize these opportunities to sketch the conditions and circumstances in the rest of Africa. We utilize these discussions to demand that no judgments of South Africa be formed in isolation. We are not a European power, nor are we a North American power. It is therefore unreasonable to expect of us standards or achievements which countries in Europe and other technologically highly developed countries with homogeneous populations set themselves or achieve.</p>
+
+<p>So we see this contact, these discussions with any leader in the world, as avenues for explanation, not for apology, as the hon member for Soutpansberg implies. We see them as an opportunity to convince people that we are ahead and to indicate that the reform taking place in South Africa takes place primarily because we ourselves believe in ethical Christian norms and because we ourselves believe that we must put our own affairs in order. They do not have to concern themselves about that. If the steps towards reform or change which are taken here happen to meet with President Reagan&#x2019;s approval, why blame him for that? We should welcome that. [Interjections.]</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">J H VAN DER MERWE</person>:</from>
+
+<p>Pik, the Chairman is sitting to your left. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from><span class="col_279-280" refersTo="page_0184"/>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Why would I not welcome that? Why would everyone in this country not welcome it&#x2026;?</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I should like to ask the hon member for Jeppe not to shout so loudly in the House. I should appreciate it. The hon the Minister may continue.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, at least the hon member does surpass his reputation&#x2014;you are right there. They say people are like bunches of grapes, some turning into wine and others into vinegar. Sir, you may judge for yourself what this hon member has turned into.</p>
+
+<p>The point I want to make is that we are not an island. South Africa is not a satellite in an orbit around the earth. We are irrefutably part of the African continent and part of the world. I refuse to accept that this country&#x2019;s norms and standards, its endeavours to promote and maintain the fundamental rights of human beings, are so far behind those of other countries of the world. We shall move forward with a sense of pride; we shall bring about the reform and change. We shall not allow ourselves to be reined in, neither by the ANC, nor by the CP. Let me say that clearly and unequivocally here today.</p>
+
+</speech>
+
+<adjournment>
+
+<p>In accordance with Standing Order No 19, the House adjourned at <recordedTime time="1985-01-30T18:30:00">18h30.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

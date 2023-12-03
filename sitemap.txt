@@ -1,8 +1,9 @@
-https://hansards.org.za/
-https://hansards.org.za/about/
-https://hansards.org.za/hoa/
-https://hansards.org.za/senate/
-https://www.hansards.org.za/
-https://www.hansards.org.za/about/
-https://www.hansards.org.za/hoa/
-https://www.hansards.org.za/senate/
+---
+layout: null
+---
+
+  {% for post in site.posts %}
+    {% unless post.published == false %}    
+      {{ site.url }}{{ post.url }}
+    {% endunless %}
+  {% endfor %}

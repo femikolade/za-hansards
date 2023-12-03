@@ -1,0 +1,1941 @@
+---
+title: 'House of Assembly: Vol13 - FRIDAY 2 AUGUST 1929'
+layout: debate
+year: 1929
+month: AUGUST
+month_slug: Aug
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 2nd AUGUST, 1929.</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the Chair at <recordedTime time="1929-08-02T14:20:00">2.20 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#resignation_of_mr_beyers">
+
+<heading>RESIGNATION OF MR. BEYERS.</heading>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Yesterday I received the resignation by telegraphic message of the hon. F. W. Beyers as member for the electoral division of Edenburg. The authenticity of this telegraphic message having since been established to my satisfaction, I have to announce that a vacancy has occurred in the representation in this House of the electoral division of Edenburg as from the 1st August.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>It is not clear whether Mr. Beyers has also resigned from the Ministry.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I am only announcing the information I have received.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>Perhaps the Prime Minister will be good enough to make an explanation.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I will make a statement at the next sitting of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Railways: Sea Point Line.</heading>
+
+<question by="#pienaar" to="#minister_of_railways_and_harbours">
+
+<num>I.</num>
+
+<from>Mr. J. J. PIENAAR (for Dr. Stals)</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the amount of the accumulated deficit on the operation of the Sea Point railway from the commencement of the year 1924 until immediately prior to the electrification of the line;</li>
+
+<li>(2) what was the amount of the accumulated deficit from the commencement of electrification until the service was abolished; and</li>
+
+<li>(3) what is the loss on the capital assets of the railway by removal and disposal of buildings, accessories, etc.?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#pienaar">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) &#x00A3;50,831.</li>
+
+<li>(2) &#x00A3;67,279.</li>
+
+<li>(3) Approximately &#x00A3;56,000. The precise figure is not vet available.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Rhodesian Imports.</heading>
+
+<question by="#pienaar" to="#minister_of_railways_and_harbours">
+
+<num>II.</num>
+
+<from>Mr. J. J. PIENAAR (for Dr. Stals)</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the weight of goods imported by Southern and Northern Rhodesia over the Union railways from January, 1924, to December, 1928, in respect of each year;</li>
+
+<li>(2) what was the amount of revenue derived by the Union railways from this source;</li>
+
+<li>(3) what was the weight of goods exported from Southern and Northern Rhodesia over the Union railways during the same period; and</li>
+
+<li>(4) what was the amount of revenue derived by the Union railways from this source?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#pienaar">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I lay on the Table a statement embodying the particulars for the calendar years 1926, 1927 and 1928.</p>
+
+<p>The information for the previous two years is not available.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Accidents.</heading>
+
+<question by="#richards" to="#minister_of_railways_and_harbours">
+
+<num>III.</num>
+
+<from>Maj. RICHARDS</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the number of accidents on the railways reported to the Administration during the years 1922, 1923. 1924. 1926, 1927 and 1928;</li>
+
+<li>(2) what was the amount of loss to the State in each of the above years due to such accidents;</li>
+
+<li><span class="col_361-362" refersTo="page_0208"/>(3) what was the number of defects or injuries to fire-boxes and boilers of engines whilst in the running sheds during the same periods;</li>
+
+<li>(4) what was the number of enquiries which were held in connection with these defects during the periods named and what was the cost of repairs due to such injuries; and</li>
+
+<li>(5) who is held responsible in each running shed for the condition of an engine when ready for the road?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#richards">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) I lay on the Table a statement.</li>
+
+<li>(2) Complete records as to the cost of repairs have not been retained. This information is therefore not available. Included, however, in the statement laid on the Table is the total amount of compensation paid each year, together with figures illustrating the more important features of expansion.</li>
+
+<li>(3) and</li>
+
+<li>(4) To obtain the information asked would require the examination of records at all locomotive depots and involve considerable labour and expense. I have, however, endeavoured to meet the request of the hon. member as far as possible.</li>
+
+<li>(5) The locomotive foreman or other officer in charge at a running shed (such as a fitter-in-charge or driver-in-charge at a depot where there is no locomotive foreman) is responsible for the general supervision. The running foreman or shedman, as the case may be, is responsible for booking an engine on a train and this places on the individual in question the direct responsibility for satisfying himself that all the necessary repairs have been completed and the engine is in a safe condition for the road. The firelighter or other servant, who actually puts the fire into the firebox, is responsible for satisfying himself beforehand that there is sufficient water in the boiler of the engine.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: CONSOLIDATED REVENUE FUND.</heading>
+
+<question by="#sturrock" to="#minister_of_railways_and_harbours">
+
+<num>IV.</num>
+
+<from>Mr. STURROCK (for Mr. Henderson)</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What amounts have been paid by the Consolidated Revenue Fund to the Railway and Harbour Fund, as provided in sections 130 and 131 of the South Africa Act;</li>
+
+<li>(2) what are the details of such payments, if any; and</li>
+
+<li>(3) what are the respective dates of payment?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#sturrock">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Nil.</li>
+
+<li>(2) and</li>
+
+<li>(3) Fall away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: CARBONIC ACID, FREIGHT OF.</heading>
+
+<question by="#nathan" to="#minister_of_railways_and_harbours">
+
+<num>V.</num>
+
+<from>Mr. NATHAN</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the railage charges for the conveyance of a cylinder of carbonic acid gas from Johannesburg to Cape Town, and the return of the empty to Johannesburg, is 13s. 6d.;</li>
+
+<li>(2) whether the charge from Germany to Cape Town for the conveyance of such cylinder with gas is only 7s. 6d., inclusive of the cost of the return of the empty to Germany;</li>
+
+<li>(3) whether, if the reply in both cases is in the affirmative, or the charges are approximately correct, he will cause the charges under (1) to be lowered so as to enable the owners of the factory in Johannes burg to have an opportunity of competing with the imported article, thereby encouraging local industries?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#nathan">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) The figure in respect of a cylinder of South African carbonic acid gas, weighing 170 lbs., is 12s. 10d.</li>
+
+<li>(2) I understand 7s. 6d. is approximately correct.</li>
+
+<li>(3) South African carbonic acid gas is carried at a specially low rate designed to assist the local manufacturer to compete with imported gas and amounts to 1&#x00BD;d. per ton per mile from Johannesburg to Cape Town. The Administration cannot adopt sea freight as a basis in fixing railway rates, as ocean transport costs are much lower than rail transport costs.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Simonstown: In Lieu Of Rates.</heading>
+
+<question by="#waterson" to="#minister_of_defence">
+
+<num>VI.</num>
+
+<from>Mr. WATERSON</from>
+
+<p>asked the Minister of Defence:</p>
+
+<ol>
+
+<li>(1) Whether the petition having reference to the present annual grant of &#x00A3;2,000 in lieu of rates upon Union and Imperial Government property which is presently made to the municipality of Simonstown, and praying that such grant may be increased on the grounds that it is inadequate and inequitable, which was referred to the Government for consideration on the 5th March, 1929, has received the consideration of the Government; if so,</li>
+
+<li>(2) what decision has been arrived at; and, if the Government has not yet considered the petition,</li>
+
+<li>(3) when may it be expected that such consideration will be given?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#waterson">
+
+<from>The MINISTER OF FINANCE (for the Minister of Defence):</from>
+
+<p>The Simonstown municipality was informed in December, 1928, that the Government was not prepared to disturb the present basis of the grant, and that the question of revising it would have to stand over until it is possible to introduce consolidating and amending legislation respecting the municipal rating of Government property.</p>
+
+<p>It is not possible to say when the Government will be able to introduce such legislation.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading><span class="col_363-364" refersTo="page_0209"/>Railways: Motor Buses.</heading>
+
+<question by="#haywood" to="#minister_of_railways_and_harbours">
+
+<num>VII.</num>
+
+<from>Mr. HAYWOOD</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What are the respective amounts spent on reparation and maintenance costs in connection with road railway buses No. R84 and No. R55, which are used in the Free State;</li>
+
+<li>(2) how many miles did these buses run, respectively, before the first maintenance expenses were incurred, and what was the amount thereof;</li>
+
+<li>(3) whether new spare parts of American manufacture were put in the Thorneycroft motor buses, and, if so, what was the reason for doing so and what was the expense in connection therewith;</li>
+
+<li>(4) whether all the reparation work was done by the department or by garages, and if the latter, by what garages and what was the amount paid to the garages;</li>
+
+<li>(5) who is the chief officer in the Free State who is responsible for seeing that the motor buses are in good mechanical order, what are his qualifications for mechanical work, and what salary and allowances are attached to the post;</li>
+
+<li>(6) whether there is insufficient work to do in the blacksmith department of the railway workshops in Bloemfontein, and whether, although there are thousands of second-hand truck and other springs which are suitable for being repaired, new springs are being purchased?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#haywood">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS</from>
+
+<ol>
+
+<li>(1) R.84, &#x00A3;660; R.55, &#x00A3;329.</li>
+
+<li>(2) R.84, 27,280 miles, &#x00A3;380: R.55, 14,287 miles, &#x00A3;25.</li>
+
+<li>(3) No.</li>
+
+<li>(4) Departmentally, with exception of repairs to R.84 executed by Barlow Motor Company, Durban, at cost &#x00A3;380.</li>
+
+<li>(5) The superintendent (mechanical), Bloemfontein. The duties of this officer, who has over 31 years&#x2019; mechanical experience, include the supervision of all steam and motor vehicles on the system. Salary &#x00A3;925 and local allowance of &#x00A3;72 per annum.</li>
+
+<li>(6) Work in the blacksmiths&#x2019; department is not affected by spring repair work which is carried out by springsmiths when required, and 226 springs are now being rebuilt. The total annual issue of springs is approximately 4,000. 345 new springs are on order; the balance is supplied from repaired springs.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Carriage Shops, Pay In.</heading>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<num>VIII.</num>
+
+<from>Mr. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a number of men in the carriage and wagon shops, Pietermaritzburg, who were promoted to graded positions at a wage of 8s. 1d. per day, have recently been degraded to labourers at 5s. 6d. per day, the reason given being shortage of work;</li>
+
+<li>(2) whether these men, when receiving 8s. 1d. per day, were able to earn a 25 per cent, bonus in addition;</li>
+
+<li>(3) whether on reverting to 5s. 6d. per day no bonus can be earned; and</li>
+
+<li>(4) how many men have been so degraded in the above shops?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#deane">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Three skilled labourers were offered positions as labourers in preference to their services being terminated; two owing to shortage of work and the other to his not possessing a satisfactory standard of efficiency as a skilled labourer.</li>
+
+<li>(2) Two were able to earn piecework honus in addition to their pay. The other was not-working under piecework earning conditions.</li>
+
+<li>(3) Yes; but the hon. member is not correct in stating that the men were reverted to 5s. 6d. per day. Two are actually receiving 6s. per diem. In all three cases free quarters or an allowance in lieu thereof is granted.</li>
+
+<li>(4) See No. (1).</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: MARITZBURG, SIDING AT.</heading>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<num>IX.</num>
+
+<from>Mr. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether it is the intention of the Administration to build a properly equipped siding in the Pietermaritzburg workshops for the purpose of spray-painting wagons; if so, when; and</li>
+
+<li>(2) whether complaints have repeatedly been made to the foreman-in-charge that through lack of proper spray-painting facilities the men&#x2019;s health is endangered?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#deane">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes. Instructions were issued on 17th ultimo.</li>
+
+<li>(2) Complaints have been made regarding the lack of proper spray-painting facilities, but the action taken should remove any cause for further representation.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: TARPAULINS.</heading>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Why are tarpaulins not supplied to cover the thousands of bags of grain which are lying at various stations along the Caledon-Bredasdorp line awaiting railage, much of which grain is rotting;</li>
+
+<li>(2) what are the various charges made by the Administration for wheat stored as compared with the charges for the storage of maize in the maize areas;</li>
+
+<li>(3) what is the reason for the difference, if any, in storage charges for wheat and maize; and</li>
+
+<li>(4) whether he will take steps to reduce the charges made for storing wheat to those made for storing maize?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from><span class="col_365-366" refersTo="page_0210"/>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Tarpaulins have been and are available for hire at all stations on the Caledon-Bredasdorp section for covering wheat stacked in the open, if and when required. A total of 108 tarpaulins has been specially supplied to the stations mentioned for the specific purpose of hiring out to applicants. No complaints have been received regarding the inability of the Administration to meet requirements.</li>
+
+<li>(2) The following charges apply throughout the Union for grain storage sites measuring 25 feet by 30 feet either at elevator or non-elevator stations:&#x2014;</li>
+
+</ol>
+
+<p>(a) With siding accommodation:</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p><i>&#x00A3;</i></p></td>
+
+<td><p>s.</p></td>
+
+<td><p>d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Special class stations &#x2026;</p></td>
+
+<td><p>3</p></td>
+
+<td><p>5</p></td>
+
+<td><p>0 per month.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>First</p></td>
+
+<td><p>2</p></td>
+
+<td><p>10</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Second</p></td>
+
+<td><p>1</p></td>
+
+<td><p>16</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Third</p></td>
+
+<td><p>1</p></td>
+
+<td><p>6</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Fourth</p></td>
+
+<td><p>0</p></td>
+
+<td><p>8</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+</table>
+
+<p>(b) Without siding accommodation:</p>
+
+<table>
+
+<tr>
+
+<td><p>Special class stations</p></td>
+
+<td><p>2</p></td>
+
+<td><p>15</p></td>
+
+<td><p>0 per month.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>First</p></td>
+
+<td><p>2</p></td>
+
+<td><p>0</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Second</p></td>
+
+<td><p>1</p></td>
+
+<td><p>8</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Third</p></td>
+
+<td><p>1</p></td>
+
+<td><p>0</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Fourth</p></td>
+
+<td><p>0</p></td>
+
+<td><p>4</p></td>
+
+<td><p>0</p></td>
+
+</tr>
+
+</table>
+
+<p>To meet the special circumstances arising from the introduction of the elevator system, during the seasonal rush from 1st June to 30th November each year bona fide farmers only are granted the following benefits for the storage of maize awaiting storage space in elevators. At elevator stations: Free storage sites. At non-elevator stations: Sites at one-fifth the normal charges quoted above. In addition, certain special arrangements apply in regard to the storage of damp maize, or maize stored on account of co-operative societies established under statute.</p>
+
+<p>(3) and (4) Similar concessions would be applied by the Administration to wheat and oats intended for the elevator system upon application. There is no record of application having been made.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Gun Licences For Coloured Men.</heading>
+
+<question by="#van_der_byl" to="#minister_of_defence">
+
+<num>XI.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Defence:</p>
+
+<ol>
+
+<li>(1) Whether a permit to purchase a shot gun by a coloured man called Petrus Appollis, of Elim, was refused;</li>
+
+<li>(2) whether other coloured men who are land-owners, have been refused similar licences; if so,</li>
+
+<li>(3) what is the reason for this; and</li>
+
+<li>(4) whether instructions will be issued to magistrates to issue permits to respectable and law-abiding coloured people for the purchase of sporting arms such as shot guns?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_defence" to="#van_der_byl">
+
+<from>The MINISTER OF DEFENCE:</from>
+
+<ol>
+
+<li>(1) No application from the person named reached this department, but the matter is being inquired into.</li>
+
+<li>(2) I am unaware whether any other applications have been made which were not recommended by the magistrate concerned, as such cases are not referred to Defence headquarters. No recommended applications have been refused.</li>
+
+<li>(3) The departmental instructions to magistrates issued in 1921 and still current include the instruction to refer to Defence headquarters for approval all recommended applications from coloured citizens to acquire shot guns for vermin destruction.</li>
+
+<li>(4) I will consider the revision of the 1921 instructions in the sense desired by the hon. member.</li>
+
+</ol>
+
+</answer>
+
+<question by="#van_der_byl" to="#minister">
+
+<from>Maj. VAN DER BYL:</from>
+
+<p>Arising out of the question</p>
+
+</question>
+
+<question by="#speaker" to="#minister">
+
+<from>Mr. SPEAKER:</from>
+
+<p>Order!</p>
+
+</question>
+
+<question by="#krige" to="#minister">
+
+<from>Mr. KRIGE:</from>
+
+<p>On a point of order, Mr. Speaker, I think the hon. member for Bredas-dorp (Maj. van der Byl) wanted to submit a supplementary question.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Napier Service.</heading>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the reason for the daily train to Napier and Bredasdorp from Cape Town being frequently from half-an-hour to two hours late on arrival at those places;</li>
+
+<li>(2) whether the inconvenience suffered by the public on account of the late arrival of this train is due to delay and waste of time occurring between Caledon and Bredasdorp; and</li>
+
+<li>(3) whether he will enquire into this matter with a view to the present position being remedied?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) and</li>
+
+<li>(2) Napier and Bredasdorp are served by a mixed train service; goods trains being scheduled as required. The scheduled mixed train service has been accelerated to the utmost by providing for a light load, and whenever possible goods traffic for intermediate stations and sidings is held back for haulage by goods trains. Occasions arise, however, in the operation of mixed train services when the amount of work to be performed by the mixed train en route debars the punctual observation of scheduled times.</li>
+
+<li>(3) The matter has been enquired into and consideration is being given to the introduction of a rail car service.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Ticket Inspector In O.F.S.</heading>
+
+<question by="#swart" to="#minister_of_railways_and_harbours">
+
+<num>XIII.</num>
+
+<from>Mr. SWART</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether nominations were asked in March or April, 1929, for the post of ticket inspector in the Orange Free State; if so,</li>
+
+<li><span class="col_367-368" refersTo="page_0211"/>(2) what were the qualifications required;</li>
+
+<li>(3) who was appointed, and had that person the necessary qualifications;</li>
+
+<li>(4) by whom were the nominations made; and</li>
+
+<li>(5) whether the ticket-examiners in the Orange Free State were consulted or asked whether they desired to be nominated?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#swart">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) A knowledge of trains regulations (including guards&#x2019; duties); also of the tariffs laid down in regard to fares and the regulations and instructions in relation thereto; possession of ability to control staff and of tact in dealing with members of the public; a knowledge of both official languages.</li>
+
+<li>(3) Special class ticket examiner G. A. Hay ward. He had acted as ticket inspector since October, 1927, and carried out the duties in a very satisfactory manner. Hayward is not fully bilingual, but has a knowledge of both languages.</li>
+
+<li>(4) Nominations are in the discretion of the head of department concerned, who, after consultation with his responsible officers and perusal of the records of the individuals whose claims are put forward for consideration, recommends the nominee whom he adjudges to be best fitted for the vacant post. Nominations in this case were invited from all system officers.</li>
+
+<li>(5) No. It is not the practice for individual members of the staff to be consulted before a selection is made. Hayward has resided in Free State for 15 years.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Languages And Staff.</heading>
+
+<question by="#swart" to="#minister_of_railways_and_harbours">
+
+<num>XIV.</num>
+
+<from>Mr. SWART</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the number of officials in the staff section of the railway service at Bloemfontein; and</li>
+
+<li>(2) how many are English-speaking and how many Afrikaans-speaking, and how many of each are bilingual?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#swart">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) 45.</li>
+
+<li>(2) English-speaking, 37, Afrikaans-speaking, 8; of whom the following are bilingual&#x2014;English-speaking, 29, Afrikaans-speaking, 8.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Defence And Police.</heading>
+
+<question by="#byron" to="#minister_of_defence">
+
+<num>XV.</num>
+
+<from>Brig.-Gen. BYRON</from>
+
+<p>asked the Minister of Defence whether it is the intention of the Government (a) to incorporate the Union Defence forces with the police, and/or (b) to administer both these forces under one ministerial head?</p>
+
+</question>
+
+<answer by="#minister_of_defence" to="#byron">
+
+<from>The MINISTER OF DEFENCE:</from>
+
+<p>The answer is in the negative.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Dredger Sir Thomas Price.</heading>
+
+<question by="#de_wet" to="#minister_of_railways_and_harbours">
+
+<num>XVI.</num>
+
+<from>Mr. W. F. DE WET</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether it is the intention of the Administration to remove the dredger Sir Thomas Price from the Buffalo Harbour; and, if so,</li>
+
+<li>(2) whether he will take into consideration the advisability of leaving that dredger at Buffalo Harbour in order to continue the work of development there which is of such great importance to the business and farming community in that area?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#de_wet">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes; temporarily.</li>
+
+<li>(2) No: the decision was taken only after the most careful consideration of the needs of all ports by the Administration&#x2019;s Dredging Committee, composed of senior officers. Should additional dredging plant, however, be required at East London at a later date, the necessary arrangements will be made.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Housing.</heading>
+
+<question by="#coulter" to="#minister_of_public_health">
+
+<num>XVII.</num>
+
+<from>Mr. COULTER</from>
+
+<p>asked the Minister of Public Health:</p>
+
+<ol>
+
+<li>(1) Whether the department of Public Health during the years 1925 to 1929, inclusive, discharged its statutory duty under Section 131 of the Public Health Act, 1919, to collect and investigate the facts as to overcrowding and bad and insufficient housing in the various urban districts of the Union; if so, what reports have in each of those years been made to Parliament as the result of its work;</li>
+
+<li>(2) whether any recommendations in respect of the investigations, if any, of the department have been made in terms of that section; if so, what are their nature and effect; and</li>
+
+<li>(3) whether reports have been made regularly by the medical officers of health in regard to overcrowding and bad and insufficient housing during that period; if so, whether he will lay these reports upon the Table?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#coulter">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<ol>
+
+<li>(1) and</li>
+
+<li>(2) Yes. These reports and the department&#x2019;s recommendations, action taken and results, are summarized in the annual reports of the department and the Central Housing Board, which have been regularly laid on the Tables of Parliament.</li>
+
+<li>(3) There are 404 urban local authorities in the Union, and the preparation of their reports, covering four years, for laying on the Table would be a formidable task. Every facility will be afforded to the hon. member for consulting these reports, and thereafter, if he desires that any particular reports be laid on the Table, I shall be pleased to do so.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Napier, Cattle-Loading At.</heading>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>XVIII.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Railways and Harbours whether, in order to avoid the necessity of farmers, butchers and others desiring to load or take delivery of stock having to do so at Klipdale station, he <span class="col_369-370" refersTo="page_0212"/>will issue instructions for a cattle-loading kraal to be erected at Napier station?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Instructions have already been given.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Accident At Plumstead.</heading>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>XIX.</num>
+
+<from>Maj. VAN DER BYL (for Mr. Roper)</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a collision occurred between a motor-car containing several occupants and a train at the Southfield Road, Plum-stead, level crossing on or about the 25th July, 1929, when serious loss of life was very narrowly averted;</li>
+
+<li>(2) when the construction of the vehicular subway recommended by the Level Crossings Commission at this point will be commenced; and</li>
+
+<li>(3) when the construction of the vehicular subways similarly recommended to take the place of the Kenilworth Road, Wetton Road. York Road and Diep River Road level crossings will be commenced?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) and (3) The general question of the provision of overhead bridges or subways on the Simonstown line will be discussed with the Cape Town Council at an early date.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Meningitis.</heading>
+
+<question by="#munnik" to="#minister_of_the_interior">
+
+<num>XX.</num>
+
+<from>Mr. MUNNIK</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) Whether meningitis in epidemic form has broken out in the districts of Van Ryns-dorp and Namaqualand;</li>
+
+<li>(2) how many cases have occurred, and how many have proved fatal; and</li>
+
+<li>(3) what steps the Government has taken (a) to isolate infected persons and (b) to supply preventive serum for vaccination?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#munnik">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) There is an unusual prevalence of cerebrospinal meningitis in parts of the districts mentioned.</li>
+
+<li>(2) The total cases reported or discovered to date are 14, all in Europeans, with 8 deaths.</li>
+
+<li>(3) An assistant health officer of the department recently visited the locality and investigated the prevalence. He took with him supplies of serum, and advised and assisted the responsible local authorities and medical officers regarding the isolation and treatment of the patients in their own homes and the prevention of spread of the disease. All necessary and practicable measures are being taken.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Magistracy At Caledon.</heading>
+
+<question by="#krige" to="#minister_of_justice">
+
+<num>XXI.</num>
+
+<from>Mr. KRIGE</from>
+
+<p>asked the Minister of Justice whether he will favourably consider the question of raising the grade of the magistracy at Caledon in view of the great inconvenience caused to the public generally in the district on account of the present grade of that magistracy?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#krige">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>It is not possible to consider the raising of the grade of this magistracy in the near future. The inconvenience which the hon. member has in mind is due to the frequent absence of the magistrate on periodical court duties, and that is being rectified by the appointment of an assistant magistrate who will assume duty on the first of next month.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Road Construction.</heading>
+
+<question by="#geldehuys" to="#minister_of_finance">
+
+<num>XXII.</num>
+
+<from>Mr. C. H. GELDENHUYS</from>
+
+<p>asked the Minister of Finance whether the Government has already decided upon the allocation of the &#x00A3;1,000,000 which it intends giving to the provinces for road construction, and, if so, how such allocation has been decided upon?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#geldehuys">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The hon. member will find full particulars on reference to Loan Vote F&#x2014;Local Works and Loans&#x2014;of the estimates of expenditure from loan funds for the year ending 31st March, 1930, which have been laid on the Table.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PRIESKA PUBLIC BUILDINGS.</heading>
+
+<question by="#geldehuys" to="#minister_of_justice">
+
+<num>XXIII.</num>
+
+<from>Mr. C. H. GELDENHUYS</from>
+
+<p>asked the Minister of Justice whether, in view of the unhealthy and dilapidated state of the public buildings at Prieska, he is prepared immediately to take into consideration the placing on the estimates of an amount sufficient for the erection of a new building?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#geldehuys">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I am sorry but it is not possible to make provision on the estimates for the current financial year for new public buildings at Prieska. The position at Prieska in this respect will receive consideration next year.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#committee_of_supply">
+
+<heading>COMMITTEE OF SUPPLY.</heading>
+
+<p>First Order read: Adjourned debate on motion for House to go into Committee of Supply, to be resumed.</p>
+
+<p>[Debate, adjourned yesterday, resumed.]</p>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Mr. Speaker, if you will do me the honour of consulting your memory, I think you will recollect I have very seldom in my parliamentary experience taken part in the budget debates. I think I can count the occasions on the fingers of one hand; my one-time friend and leader, the Minister of Defence, castigated me on many occasions for skrim-shanking in not taking my rightful part in the debates on the budgets of the House of Assembly. The reason I have not done that in the past is because budget debates are completely stereotyped, and I regard them as utterly, futile. They are stereotyped in this way, that whatever Minister of Finance is sitting on the treasury benches he gets up and makes what he fondly believes to be a statement of the financial position of the country, <span class="col_371-372" refersTo="page_0213"/>and then up gets the financial expert on the Opposition benches, who immediately contests the point put forward by the Minister of Finance and very rapidly drifts on to an attack of the wild and wicked extravagance of the Government. That is inevitable, and that is why I say it is stereotyped. It does seem to me to be remarkably foolish, and the hon. member for Yeoville (Mr. Duncan) who took a leading part in attacking the financial proposals of the Government evidently forgot what took place when his party were in power. My hon. friend, the Minister of Finance, used to gird against the former Minister of Finance, but immediately he gets into power, then you find the other side girding at him. We all accuse others of extravagance when we are not in power. My second reason for having in the past been rather chary of intervening in budget debates, namely that of their utter futility, requires a little explanation. Members of the House who are young in parliamentary experience have not yet realized it, but you can come along here with all the suggestions and argument and improvements imaginable, and you can argue as much as you like, be as sincere and enthusiastic as you like, and the fact remains that you do not alter the position of affairs one little bit.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What are you going to do about if?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>I think we shall have to bring about a soviet in South Africa. I would not have intervened on this occasion had it not been that there have been several happenings in the course of this debate which call for some review and some consideration, and, may I say, some criticism. There has evidently been a change of outlook, if not a change of heart on the part of the official Opposition. The member for Willowmore (Mr. Steyn) said there were searchings of heart among members of the Opposition. That is incorrect. There have been no searchings of heart nor of conscience. That is impossible. But there has been a considerable amount of searching of mind. They have had an election. It has had a certain result, and they are now casting about in their minds as to how best to delude a confiding public in tbe future, and how to reverse the position of affairs. We are all tarred with that, even the Labour party, with this difference that the Labour party, while endeavouring to invent new tactics, has a sincere desire to accomplish the welfare of the community. One of the things in evidence in this searching of minds is an awakening to the conditions existing among the working class living in the slums. I remember that we have thundered in the past into the ears of members of this House, descriptions of these very conditions; we have cited the same examples, and taken our examples from the same geographical centres, and, of course, in Cape Town we have cited District 6. The Opposition are only just awakening to the fact that there are slums in Cape Town, and that it is time something was done. I am quite prepared to give those hon. members who have come with their enthusiastic freshness to this House, credit for sincerity, and I particularly want to refer to the hon. member for Salt River (Mr. Lawrence). Being a sincere man he cannot possibly stop in that party. He must come over here of his own volition. I am quite prepared to give members who have referred to this subject credit for sincerity, and to agree that their consciences have been aroused. Yet with all that sincerity they are circumscribed in their outlook, and they have advanced very ridiculous ideas, to my mind, as to a solution of the problem. Every one of those ideas that have been, advanced by them as solutions to this terrible problem have carried with them opportunity for profits for others. Take the hon. member for Newlands (Mr. Stuttaford). His idea is the removal of transfer duty. I am entirely in agreement with that. The Labour party has always advocated as a general principle the easy and cheap transfer of land, but all these duties in their incidence are so small that it would be absolutely impossible to make any difference in the cost of building and the cost of payment for the building. When you increase customs you increase the cost to the consumer but when you decrease the customs there is no remission to the consumer.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Competition?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Competition? I thought we had forgotten the word competition many years ago. It shows the young and green &#x201C;Saps,&#x201D; who very rapidly become coagulated as time goes on in this House. No one of them has been able to put their finger on the real solution of the problem. The real solution is pay good wages and you will abolish unemployment.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>How easy!</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>How easy? It is very easy to pay good wages. It is better, for the country, but it is absolutely essential, if hon. members here are sincere to put that sincerity into effect, and it will then only be necessary for me to obtain their support.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why did you not put it into practice?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Yes, I did. I think I did. It is because of my experience, in a small way when I see the enormous potentialities of it I have always believed it so. When I had practical experience in a very small way I realized that when you increase the wages you increase the general prosperity of the country, and you better the conditions of the people in general. There is dead silence. That is right I am glad I have found one convert. At any rate we see the difficulty, and the fact that it is difficult is no excuse for inaction, for refraining from putting into effect. We are not to abandon anything that will benefit the people of the country simply because it is difficult. On erroneous outlays on economics hon. members believe they can just bring about the prosperity of the country, and it is done by increasing the profits of a few people and decreasing the earning <span class="col_373-374" refersTo="page_0214"/>capacity of the rest of the people. Somebody said it was easy, in a satirical way. He meant it was difficult. Is it difficult? It is comparatively easy. My hon. friend puffed out his chest when he made his budget pronouncement &#x201C;I have a surplus of &#x00A3;3,065,000.&#x201D; Put that &#x00A3;3,065,000 into reproductive work for men, and women also&#x2014;for women have to work even if you hold up your hands in horror and say the woman&#x2019;s place is at home. You can give &#x00A3;200 a year wages to 15,000 persons with that sum and when they are placed in the position of spending &#x00A3;200 a year each you are in a position to employ other people also in this country. The more you put into circulation in this country the more opportunity you afford for further employment.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>You will show a deficit in the following year.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>You will not show a deficit. A small measure of protection, although I do not agree with the method of protection, has so fostered industry in this country that you have more people being employed in the country although at low wages. A better spending capacity in the country with increasing prosperity extending throughout the Union. Does any hon. member deny that? I share with hon. members on the other side of the House, when I express a desire that we should not raise revenue by protection. The finance of the country must fail when you raise by protective tariff &#x00A3;9,000,000&#x2014;that is the amount raised last year. A business man takes his profit on the total cost of an article, so that the distributor adds his profit, calculated on the extra cost of the goods owing to the higher customs duties, and in turn the retailer takes his additional percentage of profit so that at the lowest estimate 50 per cent, is added to the price of the goods; thus in order that the Government may raise &#x00A3;9,000,000 through the customs, the community has to pay &#x00A3;14,000,000. There are two objections to this high tariff. In the first place as a measure of protection it breaks down, and in the second place, as a revenue raiser, it is exceedingly costly. Did I catch the Minister of Finance aright when he stated that he proposed to impose a dumping duty on sugar?</p>
+
+<p>The MINISTER OF FINANCE nodded in acquiescence.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>I do regret that. I hope hon. members who sit behind him will bring their pressure to bear, and I hope that the hon. member for Boksburg (Mr. McMenamin) will also use that tremendous influence of his, which has increased since the general election, with the Minister. Against whom does the Minister propose to protect the sugar industry? Against the consumers of South Africa. At the same time we are dumping our sugar in London at half the price the South African consumers pay for it. What is this poverty-stricken industry the Minister has to protect? One Natal sugar company last year paid 17 per cent, in addition to placing &#x00A3;200,000 to reserve, and investing &#x00A3;200,000 in further sugar lands. Meanwhile the South African consumers&#x2014;the ordinary common men and women&#x2014;have to pay 4&#x00BD;d. a pound for sugar. Another sugar company paid 60 per cent, dividend, placed &#x00A3;100,000 to reserve, presented the directors with a bonus of &#x00A3;10,000, and&#x2014;this is the culminating point&#x2014;made a free issue of five shares for every one held by the lucky shareholders. This is not the only company which has issued bonus shares, and the poor unfortunate workers have had to work twice as hard for less money in order to pay a dividend on additional shares, which shares did not reflect money put into the development of the business. Can you visualize this industry coming along and saying, &#x201C;We are in a very parlous state because we cannot pay more than a paltry 5 or 10 per cent, dividend on shares that the public have presented gratis to the shareholders.&#x201D; The Minister evidently has not gone very deeply into the question, or if he has, he has not given sufficient credence to the facts presented to him, otherwise he would not protect this industry against the consumers.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>Have you read the report of the Board of Trade?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Yes, but it makes no reference to this; it bolsters up an agreement made by Mr. Fahey with the sugar-growers. The planters get nothing out of this. If the late Minister of Labour had taken my advice in regard to Doornkop he would have made it a proper sugar settlement scheme. Had it not been for the interested and concerted attack by hon. members on this side of the House we would have had what was virtually a State sugar mill which, if run on right lines, would have paid and would have been a protection against these companies who hold the people of South Africa by the throat, but hon. South African party members killed the Doornkop scheme as they set out to do. While I agree that there were quite a number of circumstances attaching to Doornkop that should not have existed, I was heartily in favour of the scheme.</p>
+
+</speech>
+
+<speech by="#arnott">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">ARNOTT</person>:</from>
+
+<p>You do not know much about it.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>At any rate I am one of the consumers who pay. I have noticed two things during this debate, one was the plea of the hon. members for Springs (Sir Robert Kotze), Roodepoort (Col. Stallard) and Kimberley (Sir Ernest Oppenheimer)&#x2014;an excellent company. The plea that they made to the Minister of Railways was to reduce the carriage on coal. All I can say is this, that you can epitomize their action in begging for these reductions as the action of political cadgers. The hon. member for Roodepoort (Col. Stallard) especially, whose brilliant talent and capacity for analysis have put him in the undoubtedly high position he occupies&#x2014;I should have thought that gentleman would have bent his great mind and energies in a direction that might be conceived to bring about the interests of the people and not those of big finance. I am profoundly disappointed to find that the hon. member who, immediately he leaves office, finds himself on the <span class="col_375-376" refersTo="page_0215"/>board of directors of a gold-mining company and their representative on the Chamber of Mines, and then is elected to this House, that the first and only thing he does is to plead for a reduction of coal rates for the big corporations on the Rand, backed up by the Transvaal leader of the South African party.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What is wrong with that?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Why, it is a cruel deception of the people of South Africa. These hon. members try to argue that by a reduction of the carriage on coal you could so expand industry that you could make a very marked difference to the question of unemployment. Did they not try to convey that impression?</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Quite sound.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>It is all sound. The same old arguments trotted out in this House year after year are known to be pre-eminently false. What expansion of industry would follow a reduction on the carriage of coal to the Witwatersrand? The hon. member for Boksburg (Mr. McMenamin) rightly indicated that the coal went to a big power station, the Victoria Falls power station, and as a result of cheaper coal rates there would be cheaper power and a consequent expansion of industry and more employment. Nothing of the sort! With the coal owners&#x2019; association, with their hands all round that coal industry in the Transvaal, you mean to tell me there would be one penny piece less cost in the production of power? Not a bit of it. The coal for the power station is 12s. 9d. a ton; to the ordinary householder it is 22s. 9d. a ton.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>But how do they buy?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Should it make all that difference? One of the closest rings, perhaps, after the meat ring and the wheat ring, on the Witwatersrand is the coal owners&#x2019; association. They keep prices up. If you reduced the carriage on coal by 2s. a ton, it would not be reflected in the price paid by the ordinary man in the street, and certainly it would have no effect on unemployment. I say quite rightly&#x2014;it may be a harsh term to use&#x2014;that the hon. member for Kimberley (Sir Ernest Oppenheimer), the hon. member for Springs (Sir Robert Kotze) and the hon. member for Roodepoort (Col. Stallard) are nothing more or less than political cadgers.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Withdraw!</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Is the term &#x201C;political cadgers&#x201D; a parliamentary expression?</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Withdraw! &#x2019;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I think the hon. member will not hesitate to withdraw that expression.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Not a bit! I just leave the thought, at all events, with the hon. members. There is also the other point that the hon. member for Kimberley brought before the House. He put it in the form of a begging proposition, but not quite for money this time, although, indirectly, there was the same intention. One always has to examine with a certain suspicion the proposals of these big financiers, however nicely put they may be. The hon. member, a charming fellow, most persuasive, style and manner perfect, desires from the Minister of Finance that he should institute a diamond producers&#x2019; conference. I do not know whether the Minister is going to do it or not. I have no objection to the idea of conferences in all walks of life. It would be well if Ministers did not sit in their offices so much to come to decisions on points of public policy, but consulted freely and openly, and from that point of view I am prepared to support it.</p>
+
+</speech>
+
+<speech by="#swart">
+
+<from>Mr. <person refersTo="hansard_za">SWART</person>:</from>
+
+<p>It is like the I.C.U.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>My hon. friend is very much like it too, but if and when you call this conference, let it be a conference of all producers. Let there be represented the diggers of Lichtenburg and other parts of the country, and let them be represented on a numerical basis and not a financial basis. We cannot forget that it is well within our belief that the Diamond Control Act passed recently was indirectly framed by the hon. member for Kimberley. I do not want to place the future of the diamond diggers of South Africa who are struggling along, most of them very precariously, I do not want to place them once again at the mercy of the big financial diamond producers of South Africa. That brings me to the final point and the most powerful influence which caused me to intervene in this debate. I refer to the intervention of my hon. friend here, with whom I am delighted to be associated in this Parliament, the hon. member for Namaqualand (Dr. Steenkamp). I listened with painful intensity to the many speeches from that side of the House to hear or see whether there were any supporting remarks from over there for the hon. member. What did I find? The first reference that was made was made ministerially. I have no quarrel with the Minister of Native Affairs. He knows the high regard I have for him, but it was a pity that the only reference he made was in the first place one of adverse criticism of the suggested methods for improving the conditions, and the second one was a complete (dismissal of the suggestion altogether not only in detail, but in principle, made by the hon. member. I thought the eloquent remarks of the hon. gentleman, not eloquence merely of mind or speech, but eloquence of the heart, would have bored into the hearts of those hon. members over there, and caused them, at all events, to give some consideration to the circumstances in which many of their kith and kin are finding themselves in Namaqualand. That is only typical&#x2014;my hon. friend has had it brought closely to his attention in Namaqualand, it is true&#x2014;of what is taking place all over South Africa, and applies equally to the Dutch and the English and every other race existing here. One would have thought that this particular application would have impressed itself on hon. members&#x2019; minds over there, and <span class="col_377-378" refersTo="page_0216"/>at all events, on their hearts. Both statements on the other side were intended to minimize the statement of the hon. member for Namaqualand, which I regret. If there is anything to demonstrate the truth of our asseverations for many years that there is no difference of outlook between this side and that side, it is the reception given to the speech of the hon. member.</p>
+
+</speech>
+
+<speech by="#bekker">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">BEKKER</person>:</from>
+
+<p>We farmers have learnt by now to pay attention to the Minister&#x2019;s budget speech and to see what warnings he utters. This year he has said that the price of wool is dropping, that bank advances are increasing, and that the income of the farmers is very uncertain, and in view of his warnings we are glad that a Government is in office which through its Prime Minister&#x2014;even in London&#x2014;stated that agriculture was the first consideration of the Government of the country. This is the first Government in South Africa which has ever proved that it carries out this principle in practice. The chairman of the agricultural union is a member of this House and we waited for his first speech with interest. The Speech of the hon. member for Port Beaufort (Mr. Hockly) was a great disappointment to all of us because he did not in the first place advocate the interests of the farmers but gave his attention to the needs of the mines, of natives from beyond the borders of the Union. We find unfortunately that it is years now since the chambers of commerce held themselves out as the mouthpiece of the farmer&#x2014;they who advocate land tax. We most strongly disapprove of the principle which the chambers of commerce are forcing on the board of the agricultural union. The hon. member for Kimberley (Sir Ernest Oppenheimer) complains here about the increase in the cost of mining and advocates a reduction of the railway rates on coal and machinery to reduce the working costs in that way and lengthen the life of the mines. The hon. member for Turffontein (Mr. Sturrock) went further and said that &#x00A3;3,000,000 was unnecessarily taken out of the taxpayers&#x2019; pockets and that the borrowing facilities of the people had thereby been reduced by between &#x00A3;30,000,000 and &#x00A3;40,000,000. He said that trade and industry existed on credit and in this respect followed the example of the Government. We farmers do not live on credit and cannot so easily get loans but to-day we also have increased agricultural costs as well as a reduction in income: actually the position of the farmers is a difficult one. The Minister referred to the reduction in the price of wool. Our farmers are accustomed to it and still remember how the South African party went to the chambers, of commerce to get advice on matters affecting farming interests. We remember what happened when the Imperial Government bought wool here and when the advice of the merchants was obtained at the time, but not the advice of the farmers. I noticed in a newspaper of the 16th July that a certain Mr. Scott expressed the view that prices would revert to the economic value of wool. He hopes that this will happen and he hopes that wool will be freely sold even if at the lower level than has hitherto prevailed. It is however necessary that the farmers&#x2019; representatives should issue a warning. We find that there are people who emphasize the drop in the price of wool and then at the same time exploit the farmer by buying up the wool on the sheep&#x2019;s back at low prices. The farmers must surely realize that the time has long passed that a man can come with a telegram in his pocket and buy stock and wool at low prices and on the basis of the information he gives. The farmers must stand by their co-operative societies because if the buyers are able to speculate&#x2014;by even buying the wool before clipping&#x2014;then the farmers ought also to be ready to take responsibility for the future. The economic position to-day depends to a great extent on wool, but it is unfortunate that exaggerated statements are made about the influence of artificial silk and wool because it encourages the traders to import and sell the inferior article. The progress in these directions is, however, undoubted, because the production thereof in 1928 was as much as 340,000,000 tons, three times as high as the whole wool production of South Africa. Mr. Barker, an English wool expert, who is at the moment visiting the Union, is engaged in enquiring how far it is possible to make a material out of wool which in lightness and appearance will be its equal. The Government has fortunately created the opportunity, through the Minister of Agriculture, for him to get into touch with certain agricultural representatives, and the hope was expressed that he would do further research in this country in the interests of the advance of the wool industry. In connection with the place agriculture occupies in the Union it is noteworthy that Sir Thomas Holland, President of the British Association for the advancement of science, has stated:&#x2014;</p>
+
+<block name="quote">Even here in South Africa, which produces half of the world&#x2019;s gold, the value of the metal is less than that of agriculture and stock rearing.</block>
+
+<p>The greatest wealth of our country is in the upper twelve inches of the soil, and on this farmers&#x2019; representatives should continually lay emphasis. Sir Thomas Holland further said&#x2014;</p>
+
+<block name="quote">It is true that the gold and diamonds have brought about temporary variations and also alterations in the political advancement of South Africa, but the overwhelming interests of South Africa are still decided by the farm and the grazing veld.</block>
+
+<p>The chairman of the British Scientific Association is a man who is proud of it, and to-day still remembers that he grew up on a farm. Just in this connection the great fault is to be found in South Africa, but our educational system never makes a man feel proud of his rural birth. It has contributed to making a person think that he is in an inferior position and it is not calculated to prepare the farmer&#x2019;s son for life. We notice that South Africans who are trained for the professions need not stand behind any other person, but in farming it is different and we have had harder times. The <span class="col_379-380" refersTo="page_0217"/>poor white has come from the countryside because the educational system has not properly provided for the needs of the countryside. It has not trained the farmers&#x2019; sons for their future field of work. What decides the value and the situation of a farm? It is the merino sheep, and it is indeed wonderful to hear that people in the lobbies of the House and outside announcing that the price of wool is too high. They are the people who have made more money in the handling process than the producers themselves. The former now say that the value of the farms is too high and must be brought down. That is not the way my hon. friends opposite solve difficulties in connection with trade and industries. Do the people go and say that the mines are too dear, and that they must cut out a great deal of the costs? They try to make the things pay, and if it does not appear rich enough then they come to the Government and say that a reduction in rates must be granted. Usually they are also ready with all the figures they have to persuade us that it is necessary, and in connection with the interests of the farmers they ought to have the figures at hand, and usually they try to put up a smoke screen, for instance, in connection with the wool scheme some time ago. Then they say that the farmers make great profits, although they have to pay the piper. If, however, the price of the land is too high, what will the position be? We have to do with the veld value and the development of the ground. The development of a farm is intended to make the ground reproductive, a value to the country and to the farmers. When a farmer develops his farm it remains of reproductive value, and provides wealth. The owner of a mine or business, or what not, can sell out, and go overseas with his money. If a millionaire farmer were to sell out, the work of his hands still remains in the land. An improvement in the wool sheep, e.g., remains a reproductive value to the country. It is absolutely necessary for the wool industry to be pushed by the Government. There must be a basis of profit for the farmer as well. We find that there are places where a merino sheep has to carry &#x00A3;4 on his back in consequence of the cost of the land. Possibly mealies are grown there, but the high cost of the land as a result of natural development&#x2014;without our going into the speculative value of the ground in say fifty years alone&#x2014;makes it necessary to put a few pounds sterling on the back of the sheep. What is to be done? Are We to put the farmers back and tell them that the present value of the land is too high? That will surely result in more farmers being driven from the land to the towns and becoming poor whites. I hope the Government will assist in giving I farmers a chance, through scientific investigation, to compete with the producers of artificial wool and silks who go to work on scientific principles. The farmers cannot sit still and allow nature to help us. There is drought sometimes for eight months in the year, and how can we expect the farmer, who is not protected against it, to compete with industries which are scientifically equipped. We must do everything in our power to improve the position. Then there is another point. From time to time emergency loans are given to the farmers. This is necessary, but it must not be done only in times of drought and given to the drought-stricken areas. In consequence of relief many people are kept on the land who would otherwise be lost to it. I hope the Government will pass a permanent Emergency Relief Act. Many farmers at certain times, in consequence of sickness or drought, only require credit for a few hundred pounds to once more make a farm reproductive. We hear a great deal about irrigation and its possibilities. Much has been done, and I am glad that the Government is introducing a Bill next year to amend the Irrigation Act, For the last five or six years the farmers have felt that Sections 15 and 16 are unjust. Riparian owners who wanted to cut each other&#x2019;s throats in the past have come together to agree upon an alteration. I further want to point out that more dams must be built in the future, but in the past many dams were built in connection with which not only the farmers and the people who built them, but also Government officials, made great mistakes, and incurred heavy expenses. A great deal will still have to be written off to put them on an economic basis. If, however, dams are built again I hope the Government will see to it that in future irrigation works the speculative element will not be able to come in, as in the past. Dams have been built in connection with which the land which before construction was worth &#x00A3;3 was sold at &#x00A3;40 to &#x00A3;50 a morgen, ground which never could have been included under the irrigation scheme. This was sold to the poor helpless settler, who is to-day at his wits&#x2019; end and has to get Government assistance. We cannot remove the people from the irrigation works, but must try and keep them there. We hear much from the opposite side about grants. I think we must see that dams for settlements must not cost more than the economic value of the dam justifies, and that the Government should, by grants, bring about that irrigation works shall be economically sound. As for boreholes and provision of water, much has been done, but the drought, especially during the past three years, has been severe. A farmer with 100 morgen under irrigation, and cultivation, who could produce nothing in consequence of the drought, will get into great difficulties. I am glad that the Minister of Finance has suggested a scheme to make advances to people who need it for irrigation on the basis of the jackal-proof fencing loans. I hope the Government will continue in the good way it has started, especially regarding education. Under the South African party administration in the Cape Province before this Government assumed office, the Cape Provincial Council had an accumulated deficit of &#x00A3;1,300,000, and we now have in the Cape Province to pay every year for a period of ten years &#x00A3;200,000, to pay off the results of South African party misgovernment. There are some lion, members opposite who, when Sir Frederic de Waal was Administrator, took part in this bad Government, and I think it ought to make <span class="col_381-382" refersTo="page_0218"/>them keep quiet a bit. This Government took over technical education in 1925. At that time there were 4,000 children in the technical schools of the Union. To-day there are 20,000. It costs &#x00A3;200,000 a year to educate the people to take a share in developing our industries, but the South African party administration allowed &#x00A3;200,000 a year to disappear in smoke and vapour by their maladministration in the Cape Province. We now hear from the hon. member for Port Elizabeth (Central) (Col. Wares) that the people should remain on the countryside and not come to Port Elizabeth. I want, however, to say emphatically that only people who have an aptitude for it will be a success on the land. All cannot be farmers, nor advocates or doctors. There are people, too, who are more suited to industries. Providence has so arranged it that there are various callings, and we must develop our industries. Many of the people who earn 6s. a day under this Government could never previously make a living, and many of their sons are to-day in the industries of Port Elizabeth. In an industrial sense they are the princes of our future industries. When I was still in the provincial council we also heard a lot about economy; we also experienced the influence of ex-Minister Burton there, to whom the South African party to-day cannot even give a seat, and of whom they now say that he was a better Minister than the present Minister of Finance. He used to boast that he had knee-haltered education. The result was that many of our children could get no education, and the present hon. member for Beaconsfield (Mr. Humphreys) now comes and boasts about a reduction of expenditure on education. What does this mean That the school of the countryside can again only go to Standard 8, to the junior certificate, and that the poor people will have to send their children to other places to be educated. Every child is surely entitled to be educated. Formerly admission to the teaching profession was by way of the junior certificate, but to-day the senior certificate is demanded. As a result of the retrenchment policy of the South African party in respect of education, the teaching profession is closed to the countryside children, and the urban children have the benefit of it&#x2014;the towns, where one comes across a school every five minutes and where opportunities for passing matriculation are given. On the other hand, the countryside child has to go miles and miles to reach the school, and there is much less chance for them to pass the matriculation examination. There are not enough secondary bursaries to enable children to pass the matriculation, notwithstanding the fact that the Union Government provides &#x00A3;60 a year for matriculated children and &#x00A3;14 for unmatriculated students. The parents in the drought areas find it particularly difficult to have their children educated. I want to add that I am glad that the Government has taken steps to find markets for us overseas. There is, e.g., not one progressive farmer who breeds thoroughbred stock, who will allow half his rams to run if he cannot sell them. He will not be satisfied to keep only the old clients who take the half. On the contrary, he will make every effort to get a market. We find the same thing with regard to the foreign market, that the English market is not enough for the South African produce, and therefore a market has to be found outside the empire. I want to thank the Government for what it has done, and here I may also express my pleasure that hon. members opposite are now sympathetic towards the poor man, because we know that matters were quite different when they were in office with Mr. Burton as Minister of Finance. Formerly I was one of Mr. Burton&#x2019;s constituents, and assisted the constituency of Albert in getting rid of him, and I am glad that he has no again got a say in the Government of the country. I hope the Opposition has learnt from the Government, and from the Minister of Finance&#x2014;the Government which they prophesied would bring the country to ruin, and would drive money away&#x2014;and that they will lock better after the finances of the country if they ever manage, once more, to get into office.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It was not my intention to intervene in this debate, because I am aware of the fact that whilst there is no time limit to speeches on the budget, there will be a very definite time limit to the session, and if the work of the House is not concluded before a certain date, we shall have the unpleasant experience of having to come back in September or October. At the same time certain questions have been raised affecting the Departments of Justice and Mines and Industries, and I want to reply to them. I am sorry the hon. member for Gardens (Mr. Coulter) is not here:</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I have sent for him; he did not know you were going to speak at this stage.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The hon. member for Gardens, in his brilliant speech last night, referred to the German treaty and the diamond position in Namaqualand. We on this side of the House are delighted at the chanced attitude of the hon. member as far as the German treaty is concerned. This change of heart&#x2014;</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>We are always in favour of keeping our obligations.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The attitude of the Opposition in regard to the German treaty has undergone a very considerable change from the time when the right hon. member for Standerton (Gen. Smuts) referred to the negotiations in connection with the treaty as &#x201C;supping with the devil.&#x201D; That statement was made at a public meeting, and although there was an attempt to water it down in this House, the fact that it was made has never been denied The change of heart is indicated by a statement like &#x201C;supping with the devil&#x201D; on the one hand, and the attitude of the hon. member for Gardens, who, now on behalf of an indignant party, and an outraged empire, demands that we should fulfil the spirit and <span class="col_383-384" refersTo="page_0219"/>the letter of that very same German treaty. Let me assure hon. members that we have every intention, and are in a position to fulfil the letter and spirit of everything we have undertaken in that German treaty. One wonders whether this change of heart is not in some way or other influenced by the experience of gentlemen who were not returned to this House at the general election.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>What about you? You were not returned.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>A jolly good scoring point, but at the same time I am here.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>How are you here?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I suppose the hon. member for Bezuidenhout (Mr. Blackwell) will have something to say about my seat in the Senate. It will be far better for him in view of the attitude taken up in Natal to worry about his seat in the House than to worry about my seat elsewhere.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Don&#x2019;t you think that it is beneath the dignity of this House to talk like that?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I assure the House that we are in a position to carry out every obligation we have undertaken in connection with the German treaty. The accusation of the hon. member for Gardens really came to this that the question of dumping duties was overlooked when that treaty was drafted. I give you the assurance that it was not only not overlooked, but it was meticulously considered and provided for by the Minister in charge of the matter. The hon. member for Gardens quoted from the treaty correctly. At the same time the treaty was signed subject to the most definite retention by the Union Government of its right to impose dumping duties, and the Germans are under no wrong impression on this point. There is no question of arbitration, in terms of Article 23 of the treaty in connection with the imposition of dumping duties. Although this might not be provided for in the express words of the treaty, it was signed subject to that proviso. There are certain things which cannot be disclosed in exactly the form members see them. Even the present Labour Government in Great Britain is not following the practice it suggested at a stage when its views were more liberal on the point than they are to-day. In any case I give hon. members the assurance that the treaty was signed subject to the most definite and explicit retention by the Union Government of its right to impose dumping duties. Germany is under no misapprehension on the point and is not in a position to ask for arbitration.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>Will you lay the papers on the Table?</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>We will lay you on the Table.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>If the papers were laid on the Table, it would require very considerable study to understand what they mean. These are legal questions and questions of international law, and that is possibly why the hon. member for Gardens was so strong on the point last night. It happens to be a stipulation from which certain results flow in international law. It is both a question of fact and of law. The net result is that there is no question that there is anything whatever in the accusations levelled by the hon. member for Gardens against this Government. The hon. member was certainly right up to a point, but the difficulty is that he was prepared without being sure of his ground to make statements which may do our prestige a great deal of harm abroad. If he did not know he should be careful about making statements which must have reactions unfavourable to South Africa.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>But he did not know.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>We are reaching the stage now when ignorance will be pleaded as an excuse for any wild statement. I regret it very much indeed that the hon. member went so far as to speak of a breach of faith by the Union Government. It is highly regrettable that the hon. member made use of that language, because apparently, judging by the &#x201C;hear, hears&#x201D; from that side of the House, he made use of it with the full approval of his party. It is quite clear that words of that description would be fairly widely circulated overseas, as well as in this country, and the net result must be that it affects the prestige of South Africa.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>If you do not lay the information on the Table you have only yourselves to blame.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The hon. member speaks against his better judgment. He knows perfectly well that in these State matters everything cannot be disclosed. I am perfectly certain the hon. member, as an ex-Cabinet Minister, would not have made the rash statements the hon. member for Gardens (Mr. Coulter) indulged in. I regret it for this reason, that our prestige overseas is bound to suffer as a result of such a rash statement. We have seen the attitude taken up by the Opposition in connection with representation abroad, and apparently our prestige overseas, outside the empire, does not matter to hon. members over there. But to us it is a very real and very valuable possession. In addition, supposing that the position was uncertain, supposing the hon. member for Gardens was right, what effect must such a statement necessarily, have on our sugar industry? For the sake of scoring a debating point he would be inviting the German exporters to test the legality of this dumping duty. The effect of that testing would be felt by the sugar industry in South Africa. Supposing again the position had been uncertain, and supposing he had gone so far as to convince the Minister of Finance and get him to withdraw the dumping duty, what would the Natal <span class="col_385-386" refersTo="page_0220"/>members have to say about that? I think that even if the facts were as the hon. member assumed&#x2014;I do not say wrongly&#x2014;the use he made of them would do no good, and would have been bound to have inflicted a great deal of harm on the prestige of South Africa. The next question which the hon. member raised was the question of illicit diamond buying in connection with Namaqualand. There, too, I regretted that such a brilliant speech&#x2014;and there is not one on this side who is not prepared to admit and appreciate what a brilliant speech it was&#x2014;should have been marred by this statement. He said&#x2014;</p>
+
+<block name="quote">It is believed in South Africa that the administration of justice in Namaqualand is a perfect farce, and that crimes are committed day after day without the perpetrators being brought to justice.</block>
+
+<p>The hon. member made no attempt whatever to substantiate this scandalously sweeping statement, and if he had only waited until next Tuesday and seen the replies which will be furnished to his question about arrests and prosecutions, he would have seen for himself that this statement is wholly without foundation. Last night the only attempt he made to substantiate this scandalously sweeping statement was by a reference to certain evidence given before the circuit court at Malmesbury as set out in the question he put to the Minister of Mines on the 22nd July last. Sub-section (4) of the question comprises the evidence he referred to. [Question read]. That was all the hon. member had to go on in support of those sweeping statements of his.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>Gen. Kemp admitted it himself.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I will come to Gen. Kemp in a minute. I know hon. members would like to drag in other departments and Ministers.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>We took his word, as we should do.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>If the hon. member was affected by what Gen. Kemp said, the hon. member for Gardens certainly was not. The hon. member for Gardens relied entirely on this evidence, and he did so knowing full well that the Minister had denied and contradicted it.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>Where are we if one Minister says one thing and another says another?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I do not know where the Opposition is. They do not know themselves.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>It is an extraordinary position.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I want to say, definitely and emphatically, there is not a word of truth in any of these statements made under oath by the gentleman in question. If the hon. member for Gardens will follow the future history of that gentleman in question as carefully as he followed his past history it is possible he may place less reliance on his word in the future.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>Is there a prosecution pending?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I am not prepared to discuss pending matters. The hon. member for Gardens attempted to be sarcastic at the expense of the Minister of Mines in connection with the last part of an answer he gave to a series of questions when the Minister of Mines claimed privilege and claimed it was against public interest to reply to the questions concerned. The hon. member knows, all the legal members know what the law is in connection with public policy, and they know where it is a question of investigation of crime it is not in the discretion of the Minister to give information; he must refuse to give information, and even in a court of law, even with the consent of all the parties he is not allowed to bring out how he obtained the information and what the information affects. I want to make it clear to hon. members that what took place in Namaqualand was the result of action taken by the Department of Justice, and that, I think, makes it clear why full details of what the department did cannot be disclosed to this House, or to anybody. The whole attitude of the hon. member for Gardens, and the allegations he made, were based on distorted information and incorrect conclusions. He assumed the Mines Department had done certain things. As the Minister had assured him, and as the reply shows, the Minister of Mines was not concerned in the transaction at all. What had happened was this. The newspapers, about six months before the election, had broadcast scare stories about I.D.B. in Namaqualand. Every day they had reference to tens and hundreds of thousands of pounds being stolen and illegally abstracted from day to day, and week to week. Whether this had anything to do with the election, then six months ahead, one does not know, but certainly the effect was such that the department felt compelled to test the position, and it tested the position in the same way as one tests an individual suspected of illicit diamond buying, by ascertaining what supply of diamonds was available for illegal purchase; and as the result of this test it was found that there was no ground for alarm whatever.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS interjected</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>If hon. members know better I wish they would inform the police. I can assure hon. members that the department has come to the conclusion that the leakage is a perfectly normal one, and comparing favourably with the gold leakage which has been going on the Rand for many years, and which, as far as we can see, will continue there as long as the mines exist. And the hon. member for Roodepoort <span class="col_387-388" refersTo="page_0221"/>(Col. Stallard) and the hon. member for Springs (Sir Robert Kotze) would assist the House if they were here and acknowledge that the machinery for stopping that is as near perfect as it is possible to devise it. I want to give hon. members the assurance&#x2014;they will have to take my word for it, naturally, as I cannot disclose the information&#x2014;that the Government has at no time invested a penny in connection with this testing, and at no time made a penny profit as the result of such testing. We are now satisfied that the position in Namaqualand is perfectly reassuring, and in addition we have obtained very valuable information which in future will enable us to deal with I.D.B. more efficiently than in the past. The position is perfectly well in hand, and we intend to keep it in hand. It seems to me that acting on insufficient information and attacking the position in Namaqualand as the hon. member did, what he was really doing, and certainly what he will do if he attacks this system of testing, is to attack the whole trapping system, for which and against which much is to be said. But as far as diamonds, liquor and gold are concerned it is, as far as we know, the only system which keeps the illicit system within certain limits. I have heard it stated, which may be an exaggeration, that Kimberley may as well close down if trapping were abandoned altogether. If the hon. member is really attacking the trapping system I shall wait until the hon. member for Kimberley (Sir Ernest Oppenheimer) and others more directly interested make representations before abandoning it. My suggestion is that the speech of the hon. member for Cape Town (Gardens) (Mr. Coulter), constructive as it was in many other respects, was not of any assistance to his friends, and certainly was of no service to the administration of justice. That type of talk, when we know the psychology of the criminal and of the masses, when it is said that the administration of justice in Namaqualand is a perfect farce, and crime is perpetrated from day to day without the criminals being brought to justice, will have the effect of bringing more criminals there, and is bound to influence people&#x2014;that &#x201C;there is no law&#x201D;&#x2014;this will not assist the administration of justice, but do it a very great disservice. Since the hon. member for Benoni (Mr. Madeley) mentioned the speech of the hon. member for Namaqualand (Dr. Steenkamp) and since I am on that topic and Namaqualand was mentioned, I want to say a few words to the hon. member on that topic. I did not hear much of that speech unfortunately, and what I did hear I appreciated very greatly, but his speech as far as I.D.B. was concerned conveyed the impression, wrongly perhaps, that it was glorifying I.D.B., that this was a form of glorious adventure and should not be regarded in the light that the administration of justice does regard it. If he did not intend to convey that impression he was singularly unfortunate in his choice of language. I want to make it clear that I.D.B. is not a glorious adventure; it is either a mean form of theft, or an even meaner form of receiving stolen property. I want to impress on the hon. member,&#x2014;I hope he will excuse me&#x2014;that type of speech does go outside the House. We have already had the experience that in certain, fortunately isolated, cases juries appear to be influenced by the considerations which appear to have influenced the speech of the hon. member for Namaqualand; and if that kind of influence spreads our position becomes more difficult with regard to I.D.B., and some responsibility will have to be laid at the door of the hon. members who make that kind of speech. In connection with the phthisis commission, I was asked from various sides of the House to see that the commission to be appointed would be thoroughly representative and non-political. I hope to announce its personnel on Monday, but in the meantime I will say that the personnel will comply with those requirements. The hon. member for Boksburg (Mr. McMenamin) raised a point, which I would, if I could, consider sympathetically, but I am afraid it is impossible; that is, to grant financial assistance to those who are or will be engaged in preparing the case for either side; but as the next best thing I propose instructing the office of the Government mining engineer and all other government offices on the Rand to afford every assistance, clerical or otherwise, to working up their case for presentation to the commission, and I hope to have attached to the commission one clerk who is available for the purpose. In conclusion, this will interest not only hon. members for Natal, but other hon. members, I wish to say I have received the report on the Durban riots, and hope to lay it on the Table of the House on Monday.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I think it is a matter of regret to you, sir, and to all the members of this House that the hon. the Minister of Justice began this, his maiden speech as a Minister, with a reference to myself which was not only entirely uncalled for, but was undignified and unworthy. People who live in glass houses should not throw stones, and I am surprised that the Minister should have gone out of his way in this entirely gratuitous and unnecessary manner to refer to me. He might be reminded that he is now in this House but not of it, and when he was in this House, we never saw him. His entire time was taken up by his own affairs in Pretoria, with the result that at the end of his period, he was informed that his continued presence in Zoutpansberg was not desired. The Minister has twitted this side of the House on its supposed change of heart in regard to the German treaty. Let me assure the Minister that there is no change of heart on the part of the South African party in regard to that treaty. We still think that it was one of the greatest mistakes ever made by any Government in this country, and a majority of at least 25,000 of the voters of South Africa thought the same at the general election. No less than 196,000 voters recorded <span class="col_389-390" refersTo="page_0222"/>their condemnation of the German treaty. If you examine the votes cast for the different parties you get this final result that 196,000 voters in South Africa voted against the German treaty and only 171,000 voted in favour of it. So that when the Minister told us that as a result of the elections there has been a change of heart on the part of the South African party with regard to the German treaty, he must be talking with his tongue in his cheek, or without a knowledge of the full facts. Anything more ineffective than the Minister&#x2019;s justification of the action of the Government in the matter of this dumping duty, I have never heard. He would never have dared to address such an argument to any judge in South Africa. Let us take the treaty itself. The language there is as plain as the English language can be &#x201C;Any article produced or manufactured in the territories of either of the contracting parties, on importation into the territories of the other, shall not be subjected to other or higher duties or charges than those paid by any other country.&#x201D; The Minister says that at first blush it appears that the member for Gardens (Mr. Coulter) is right, but he is not only right at the first blush, but at the second blush and any other blush. It is perfectly plain that this language means what it says, but we are told that there is something hidden in the archives of the Government which puts a different construction on this treaty. Then I ask the Minister this. What is the use of coming to this House and asking us to ratify a treaty if the treaty does not on the face of it say what it means, and if there are documents in existence in the possession of the Government which are not disclosed to the House, which entirely alter the meaning and the implications of that treaty? Why were we not told that there were other documents which entirely altered the interpretation of that treaty? It would appear that there was at the time this treaty was entered into a sort of feeling on the part of the Government that one of these days they might be forced to impose dumping duties on Germany. Apparently they said to Germany: &#x201C;Look here, my friend, we want to be able to impose these duties.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It is no use fishing.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I was trying to draw an inference, the only inference that can be drawn. If this treaty did not represent the real agreement between the contracting parties, why was the farce resorted to of coming to this House at all? And why were we not told of the real provisions of that treaty?. Why was Section 8 put in at all? This clause was put into the Anglo-German treaty of 1924, and when the question was raised in the British Parliament about duties on wheat under this clause, it was said that &#x201C;we were not able to put on any duties discriminating against Germany,&#x201D; but the Minister now comes along and says &#x201C;the treaty is not that at all. It is something quite different and we won&#x2019;t tell you what it is.&#x201D; Secret diplomacy! I wonder whether the Minister learnt this form of secret diplomacy during his visit to Moscow some years ago. It is something entirely foreign to this country and I do not think it will go down here. In 1925 the Prime Minister gave us an assurance that in future there would be no secret diplomacy in South Africa, and I say it is treating Parliament and the people of the country with contempt for the Minister to come forward and say this afternoon &#x201C;the treaty laid before you was a sham treaty, and the real treaty lies secretly buried in the archives of the Minister of External Affairs.&#x201D; I cannot congratulate the Minister on his explanation. All this grandiose language of the Minister about the prestige of South Africa seems to me to fall somewhat flat. I think the prestige of South Africa, or of any country is not increased by publishing a treaty with a foreign power when the Minister says later &#x201C;that is not the real treaty, and it is no use fishing because I will not tell you what the real treaty is.&#x201D; Well, now I want for a moment to deal with one of the questions raised by my hon. friend, the member for Pietersburg (Mr. Tom Naud&#x00E9;). In the course of his speech he trotted out the old Nationalist bogey of the unproductive debt. This bogey was raised on every platform during the recent election, and it was said that the Government had done miracles in regard to the unproductive debt. He said the unproductive debt had been reduced in the last five years from &#x00A3;58,500,000 to &#x00A3;44,000,000 a reduction of &#x00A3;14,500,000 in five years. What is unproductive debt? It is a nebulous conception evolved by the Department of Finance. They say that the debt which does not return interest to the treasury is an unproductive debt. Those of us here who were here in the last Parliament remember that the Minister of Finance once said that the unproductive debt had been reduced in one year by &#x00A3;13,000,000&#x2014;but then he woke up!&#x2014;and now one of his benchmen says there has been a reduction of &#x00A3;14,500,000 in five years. The Minister of Finance told us a few months ago that the true figure for the unproductive debt, when he took over the office was only &#x00A3;58,500,000. I want to give you the true facts for once, and lay the Nationalist bogey. In the last Parliament the Minister of Finance made a statement to the following effect&#x2014;</p>
+
+<block name="quote">Applying the usual test, namely, the proportion of the interest charge which is recovered from the objects of capital expenditure and the proportion which falls on the taxpayer, it will be found that the unproductive part of the debt amounts to 18 1 per cent., or approximately &#x00A3;44,000,000 at 31st March, 1929. This figure compares with a figure of 49&#x00BD; millions a year ago, and with a figure of some 58&#x00BD; millions at the end of March, 1924. The reduction effected in the current year is due to the large amount of free money which has been applied to capital expenditure, and to the fact that the bulk of the capital moneys issued to the Electricity Commission are now fully interest-bearing. The figure at March, 1924 is inflated owing to the fact that (a) the Loan Account and the debt at that date were financing a revenue <span class="col_391-392" refersTo="page_0223"/>deficit of nearly &#x00A3;2,000,000; (b) the liability to the Custodian, subsequently cancelled, of over a million was included in the debt.</block>
+
+<p>According to the official figures given by the Minister himself, the real reduction over 5 years is therefore only &#x00A3;11,500,000. Of this figure, &#x00A3;5,000,000 is accounted for by the fact that money loaned to the Electricity Supply Commission commenced to pay interest when their schemes started working, and so automatically the debt passed from the category of unproductive debt into the category of productive debt. Our Nationalist friends tell us they have reduced the unproductive debt by &#x00A3;11,500,000. But during this five years loan account got &#x00A3;8,500,000, received from mining leases, sales of Crown land and other sources. How did it get them? It was through the policy of the South African party of deciding when in power that money coming from mining leases should go to loan account. Who laid down a policy that we were to derive a share from mining leases but, the South African party, and who actually entered into the leases themselves? The Minister of Finance got &#x00A3;8,500,000 by cashing cheques which he received from that source and which his predecessors provided for him. On the Nationalist platforms all over the country during the recent elections he was held up as a great financial genius who had reduced the unproductive debt. Why, there is one mining lease on the Rand which pays the Minister of Finance &#x00A3;1,500,000 a year on its working. The &#x00A3;1,500,000 a year goes every year in reducing the debt.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What did you do with it?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>We laid down the policy that money must go to loan account and we stuck to that policy consistently except for two years, in the time of the greatest financial stress in this country, but, sir, that does not militate against my point. The unproductive debt is being reduced automatically from sources provided by the South African party. I wish now to return to the Minister of Justice, and to ask the country to examine how it is that he is here making a speech this afternoon. I saw in the &#x201C;Government Gazette&#x201D; a notice to the effect that the Governor-General has been pleased to nominate the hon. Oswald Pirow to be a senator&#x2014;</p>
+
+<block name="quote">On the ground mainly of his thorough acquaintance by reason of his official experience, or otherwise, with the reasonable wants and wishes of the coloured races of South Africa.</block>
+
+<p>It struck me as such an extraordinary announcement, knowing as we all do the feelings of the hon. Oswald Pirow towards the coloured races, that I asked the Prime Minister what was the special acquaintance with the reasonable wishes and wants of the coloured races which Mr. Pirow possessed. The Prime Minister&#x2019;s reply was&#x2014;</p>
+
+<block name="quote">That acquaintance which is possessed by every enlightened son of South Africa who takes an intelligent interest in the people of South Africa and their welfare.</block>
+
+<p>I take the answer to mean that the knowledge of the reasonable wishes and wants of the coloured races which Mr. Pirow possesses is no more and no less than it is possessed by any enlightened son of South Africa who takes an intelligent interest in the people of South Africa&#x2014;i.e., by the ordinary man in the street. The Prime Minister&#x2019;s answer raises a very grave constitutional question which I propose to examine. My submission is that the South Africa Act does not mean that the Government can appoint any Tom, Dick or Harry, who is said to be &#x201C;an enlightened son of South Africa,&#x201D; but demands the appointment of people with very definite qualifications. What is meant and what was intended by Section 24 (2) of the South Africa Act? It meant that there should be a specialized knowledge of native affairs, and that the senator thus appointed should be regarded as being put there to represent the native interests. Surely the terms of the Act itself are enough to show that these senators are to be appointed because they have a thorough knowledge, from their official experience or otherwise, of the reasonable wishes of the coloured people and they are sent there to represent these people.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>Mr. <person refersTo="hansard_za">C. H. GELDENHUYS</person>:</from>
+
+<p>Who is to judge that?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The country. These appointments are to be made by the ministry, which is responsible to this Parliament for its actions in that regard. What was the spirit and intention with which this section was passed? I tried to find out what was the intention of the National Convention on this point, but no record was kept of its debates. I have looked at Sir Edgar Walton&#x2019;s book, &#x201C;The Inner History of the National Convention,&#x201D; but it is silent on this point. However, the South Africa Act is an Act of the British Parliament, which discussed its provisions with some care, and the records of the debates at Westminster on this point are most instructive. Col. Seely, Under-Secretary of State for the Colonies, in moving the second reading of the Act, said&#x2014;</p>
+
+<block name="quote">Of the eight senators who are to be nominated, four are to be chosen for their special knowledge of native affairs, and the reasonable wishes of the natives, and I think this is a good provision, and one which may very likely be extended as time goes on. At any rate, in the Senate there is special representation in some form, for the native races.</block>
+
+<p>Later on he discussed the possibility of the Cape vote being removed by a two-third vote of both Houses. He stated that the 51 Cape members, plus the eight Cape senators, would naturally vote against any interference with the vote of the Cape coloured people. Then he went on to say&#x2014;</p>
+
+<block name="quote">But to these, again, have to be added the four senators specially elected, or rather <span class="col_393-394" refersTo="page_0224"/>nominated, to look after native interests and their reasonable wants and wishes. Can anyone say that the vote for the natives of Cape Colony is not a reasonable wish&#x2026; No, sir. The figures are these: At least 108 must vote for it, so that 54, if they vote against it, defeat it. But 59 are already Cape representatives, and there are four senators specially sent there to look after native wants and wishes.</block>
+
+<p>Can anybody say that the possession of the parliamentary vote is not a reasonable wish on the part of the Cape native, and that one of the first functions of the four nominated senators would be to protect the rights of the Cape native voters? Yet Mr. Pirow has been nominated to the Senate, not to protect the Cape native vote, but to help to abolish it. Is it not a fact that in a recent public speech Mr. Pirow said he would like to have a law which would make it impossible for a native to drive a motor-car? Is that his idea of protecting the reasonable wants and wishes of the coloured races?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It is not necessary to bring in such a law, as you have the colour bar.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Did you use those words?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>You have my answer.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>We can draw our inference from the answer. When this matter of the nominated senators to protect native interests was before the British House of Commons there was a feeling on the part of many members that these four senators should be nominated not by the South African Government but by the Governor-General, on behalf of the British Government. An amendment to that effect was moved by Sir Charles Dilke, but Col. Seely made it plain that no such amendment would be accepted. He said&#x2014;</p>
+
+<block name="quote">By our own deliberate act we have said to the people of South Africa&#x2014;&#x201C;You must work out your own destiny. You who have to bear the brunt of any error must yourselves direct the policy.&#x201D; Any suggestion that we should nominate four senators to look after the native races would be regarded as impossible of acceptance.</block>
+
+<p>I do not wonder. He goes on&#x2014;</p>
+
+<block name="quote">The amendment proposes that of the eight senators who are to be nominated four shall be nominated not by any one responsible to the Government of South Africa, but that they shall be nominated by the Governor-General, that is to say that they shall be nominated from here. Now that raises the whole question of whether you are really going to trust South Africa or whether you are not.</block>
+
+<p>There was one prominent member of the British Parliament who, in supporting the amendment, said&#x2014;</p>
+
+<block name="quote">Why, if this democratic view is animating his Majesty&#x2019;s Government, is it provided that four of the eight senators must be of special character and possess special capacities? If that provision is to be of any value whatever it ought to be carried out under conditions that would make it effective. We admit that four of these senators ought to specially represent native interests.</block>
+
+<p>He went on to say that in his opinion the whole purpose was to represent the natives and protect their interests. That was Mr. Ramsay MacDonald, the present Prime Minister of Great Britain. We come then to this, that it is quite obvious that this section was drafted in order to provide that in the Senate there should be four representatives to whom the natives would look as their protectors and who would put forward their views. We have a Government to-day, twenty years later, who have used that provision in regard to native interests not to protect their interests but to find a seat for a member of their Cabinet who could not find a seat in the popular assembly at the general election. I say that is an absolute negation of everything which is in the South Africa Act. On the very day the Prime Minister gave me his answer the Minister of Railways, answering another question, said he could not take a certain course because it was contrary to the South Africa Act. Yet I say this Government have absolutely torn up this particular provision of the Act. They have shamelessly disregarded their duty, the duty that was laid upon the Governor-General-in-Council to appoint four senators to protect native interests, and instead they have appointed a gentleman who admittedly has no greater knowledge of natives and native affairs than another man, and in fact is actually anti-native, and they have used this provision to provide a seat for one of their own colleagues who otherwise would not be provided for.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>Mr. <person refersTo="hansard_za">C. H. GELDENHUYS</person>:</from>
+
+<p>Tell us about the special qualifications of the late Senator Opperman.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The late Senator Opperman had a life-long experience in dealing with natives. I will give you, if you like, a list of senators nominated by the South African party Government. I will tell you also that Gen. Botha laid it down as a principle to be followed that a nominated senator should not be a member of the Cabinet at all. You will remember that Senator Moor, who was defeated at the general election in 1910. He was appointed by Gen. Botha as one of the senators to protect native interests, but he was not re-appointed a member of the Cabinet. In regard to Senator de Wet, he has always been an elected senator, he has never been nominated, and he was in the Cabinet solely as the elected representative of the people. The natives are told, &#x201C;Trust us.&#x201D; Yet the natives see one of the two safeguards put in the South Africa Act in regard to them being most shamelessly violated for political purposes, and in order to provide a seat for a Minister who otherwise had no locus standing in this House. <span class="col_395-396" refersTo="page_0225"/>As to representing the natives and their reasonable wishes, there is not a native in South Africa who knows the name of Mr. Pirow, who would not at once indignantly repudiate the suggestion that he could speak for him in any way at all. I do not believe the Minister himself would ever dare to stand up and tell us he represents the natives or knows anything whatever about their wants and wishes. I want now to say a word in regard to what was a singularly unpleasant feature of the recent elections. We have fought the election, we have been defeated, and I would like to congratulate my friends opposite on their victory. But everyone who has the interest and prestige of South Africa at heart must join with me in regretting the deplorable outbreaks of hooliganism that took place up and down the length and breadth of the country at political meetings.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What about Marwick?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I would not be doing justice to myself or to my party if I did not take this opportunity of saying to my friends opposite that it is a most disquieting feature of the public life of South Africa. I remember going to a meeting at Edenvale at the beginning of the campaign, and they made it perfectly clear that not a single speaker would be allowed to utter a single sentence. The chairman of the Nationalist party was one of the most active in breaking up the meeting. I remember the combined meeting at the Town Hall, Pretoria, on the eve of the election. There were five candidates billed to speak, myself at the end. There was a gang of young men who were quite determined no South African party speaker should be allowed to say a word. They were called &#x201C;the Sarie Marais gang&#x201D; because their method of obstruction took the form of singing that song ad nauseam. What happened was only typical of what happened at hundreds of election meetings. Some years ago there was a proposal in this House to make such disturbances a criminal offence. Most of us thought that would be a mistake. As most of us have noticed this comes from the younger men, and the worst feature is that I have not noticed that a single responsible leader of the Nationalist party has had the courage to stand up and say that these tactics are wrong and they are a disgrace to his party and people. I have wondered that the Prime Minister has not administered a reproof of those of his followers who indulge in tactics of this sort, and I wonder whether this is due to the same reason as that he gave some years ago when asked why he did not intervene in 1914: &#x201C;I was afraid I might lose my influence with my followers.&#x201D; I am perfectly certain every hon. member opposite me, at the bottom of his heart, regrets and deplores these tactics and would do everything to stop it, but the day is coming when public life in South Africa will become intolerable for decent people unless a man and his friends are allowed the right to place their views before their constituents. In practice it applies only to hon. members on this side.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I tell the Prime Minister to his face that is absolutely untrue. At no time have we done so. I have been in political life in this country for nearly 20 years, and I challenge the Prime Minister to give a single instance where he has received other than a courteous reception.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What about 1919?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Am I to take this answer of the Prime Minister that he approved of these tactics?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I never did whine and never will whine.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>This is an invitation to us to retaliate with similar tactics. I should have thought it the more manly course for the Prime Minister, instead of making an answer of that sort, would be to agree that these tactics are deplorable and as far as his own particular followers are concerned, he would see that they are not repeated: that he would be jealous of the good behaviour of his own followers. But it will be taken as an invitation to follow these tactics in future and to improve upon them. Tactics of this sort retaliate on the people who apply them. I see the hon. member for Vrededorp (Maj. Roberts) is getting excited. These tactics were employed not only against the South African party people, but against the man who wanted to stand as a Nationalist against him and whose life was made such a hell that he was made to withdraw. I would be sorry if the tactics of Vrededorp were to become the tactics of South Africa.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>We all admire the hon. member who has just spoken for his intention to uphold the dignity of public life. One would suppose from his speech that we witnessed in this election something we have never witnessed before! We have had irresponsible people making a shindy, but hon. members will remember here, and I remember in England at the earliest elections there was many and many a row and nobody whined. Here for the last 30 years, or ever since we have had political institutions, we have had rowdy meetings, and I have sat on the platform of the Wanderers smoking a cigar for two hours while people refused me a hearing, but we never whined. The hon. member for Von Brandis (Mr. Nathan) in committee on the Electoral Act proposed an amendment providing for a penalty for the interruption of political meetings. The late Mr. Merriman, the oldest member of this House, at that time, summed up the position very accurately in that debate by saying: &#x201C;If we are men we will not pass this amendment. If we are a lot of old women, we will.&#x201D; So far from doing a candidate any harm, it does him good, when the supporters of his opponent kick up a noise at his meeting. It used to be &#x201C;Labour hooligans&#x201D; at one time, and now <span class="col_397-398" refersTo="page_0226"/>it is &#x201C;Nationalist hooligans.&#x201D; Were they not &#x201C;Progressive hooligans&#x201D; at one time?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Never.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Are there no hon. members here who remember the meetings at the Wanderers in 1906, when special trains were run, and men got a night off to come in and break up meetings? Has the Prime Minister never had discourtesy shown to him at political meetings? I suppose he stood the racket and he has had many interruptions, as many abusive interruptions as any man in politics. Political meetings broken up by my opponents have done my opponents more harm than good, and people say they are not going to vote for that side. I want to refer to one or two things said last night by the hon. member for Cape Town (Gardens) (Mr. Coulter) in connection with matters relating to my department. I have listened throughout this debate with great gratification. Apparently the South African party has now adopted the views some of us have expressed for a good long time. They now pose as the real champions of the working man! It is clear that the climate of opposition is really good for the party opposite. It is a healthy climate in which much concern for the working man is generated.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>You have deserted the working man, according to your colleagues.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>If we have deserted the working man, we have secured to him a wonderful compensation in the complete conversion of the party opposite seemingly in its regard for his welfare.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>You admit it then?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I said if we have deserted the working man. Hon. members are now in opposition, and they are experiencing a great concern for the welfare of the working man. One is reminded of the old saying: &#x201C;When the devil was ill, the devil a monk would be. When the devil was well, the devil a monk was he.&#x201D;</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>Are you well or ill?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>We have not been ill. But the most astonishing thing I have listened to was the statement&#x2014;a very gratifying one&#x2014;of the hon. member for Cape Town (Gardens) (Mr. Coulter) that the party on that side had never objected in principle to the Wage Act, that in fact they looked upon it as an admirable thing. I turned up &#x201C;Hansard&#x201D; of March, 1925, when that Bill was going through the House. On the motion for second reading of that Bill I find that in order to get that second reading through, after a protracted debate, we had to sit up till 7 o&#x2019;clock in the morning owing to the opposition of the party opposite to the principle of that Bill, and I find too that the last speech delivered in opposition to the Bill was a speech by the hon. member for Cape Town (Gardens) himself. That speech was, as I said then, and I can say of his speech last night, the best and most pointed criticism of the Bill. It was the most constructive criticism we had upon the measure from the Opposition benches. I do not say that I agree with it. Now we are told that the hon. member agrees with the principle of the Bill, and, if I have not misunderstood him, he looks upon the work of the Wage Board as one of the ways out of some of the great economic difficulties with which we are faced. I want to refer to some of his complaints. One of his complaints was directed to my friend, Mr. Boydell, who formerly had the portfolio which I now hold. He appeared to blame him for the invalidation of wage determinations. Let me say at once that I regret very much, we all regret, that there have been so many uncertainties with regard to these determinations. But if there was any blame attaching it does not attach to Mr. Boydell. It attaches to me, firstly, as the man who was responsible for the Bill, it attaches also to the select committee who examined the Bill very closely, and to the House who passed this Bill. After an experience of some years one is bound to admit that there are some defects which enable those who wish to find fault with the determinations, aided by the legal profession, to delay or, if not, to upset determinations. The whole point is that we shall certainly make mistakes before such legislation is perfected, and there are a certain number of persons, particularly on the employers&#x2019; side, who do their best to resist any determination. They set legal brains to work to find flaws in these determinations. After two or three years of working of several of our Industrial Acts we certainly realize there are defects. We would have remedied those defects in 1928, but we were prevented from doing so. We began with one amending Bill, amending the Factory Act. But a red herring amendment by the hon. member for Griqualand (Mr. Gilson), was pressed by the Opposition for the purpose no doubt of frightening the farming population. It was defeated in this House, but it was promptly re-introduced in the other place, where hon. members opposite have a majority, and it was made quite clear that during an expiring Parliament we would not be able to get our amending Bills through the Senate. We shall certainly deal with these defects in this new Parliament, and I hope in the coming session to introduce amending Bills which will remedy existing defects to the Wage Act and other Acts. But don&#x2019;t let us exaggerate with regard to these determinations. The hon. member spoke of nine determinations having been invalidated. There have been eighteen wage determinations, which are operative as a matter of fact. When you have the High Court in the Transvaal upholding on one specific point the position taken up by the department, and the High Court in the Cape saying that the department was wrong, I think we may fairly say that it is not a very easy matter to administer an Act when the supreme court in the two provinces take a different view in regard <span class="col_399-400" refersTo="page_0227"/>to the interpretation of the wording of the Act in relation to the same identical point. I am not finding fault. I am pointing out that many points have to be considered. I want to say this. I hope, during the next session, we shall produce an amending Act which will clear up these points of doubt in the Act. The impression conveyed to the House by the hon. member was that there were numbers in this industry who had been finally deprived of employment by the operation of the Wage Bill. It was an unfortunate, an erroneous, deduction from the words he quoted, I should like to read from the report&#x2014;</p>
+
+<block name="quote">&#x2026;. It cannot be seriously maintained that any purpose is served that is useful to anyone by conducting an industry inefficiently or by employing unnecessary persons. Nobody can question the hardship to an employee who loses his position through curtailment of staff. There can be no doubt that a number of employees have lost their positions through reorganisation of industry as a result of wage regulation. The number, relative to the total number, is small, and when it is realized that those who are retained earn, in the aggregate, at least as much as, and probably more than, the larger number formerly employed, it will be seen that as far as the community as a whole is concerned, there is a general betterment in its condition &#x2026;.</block>
+
+<p>I have obtained information to-day in regard to the Cape Town area. The divisional inspector for this area informs me that for instance there are many more employed than before the wage determination came into force, although some inefficients have gone. In administering these determinations we endeavour to be as liberal in our interpretation of them as is justifiable. Hon. members will realize in dealing with these determinations which often affect a large number of persons there are two dangers which one must try to avoid. One must avoid, on the one hand, too harsh an application of the determinations, on the other hand one must avoid allowing exemptions which are merely excuses for evading the determination. In regard to the statement made that unemployment has been produced by these determinations I find that it is really a grossly exaggerated allegation. It is true that a few persons have been discharged here and there. But the nett result is to the good over a period. Let me give an instance which I must guard myself I do not cite as being at all a typical instance. It is perhaps rather an extreme case on the other side. It is a case of two sisters one of whom, owing to the wage determination, was discharged. But the other sister under the new rate was earning more than the two sisters together had previously earned. So that the family is better off than it was before, and the other sister, who was discharged, will probably find work elsewhere. Until the country gets used to it there will be difficulties, but these difficulties I hope next session to reduce by amending legislation. Before sitting down I would like to say a few words on the subject of the State diggings. The hon. member for Namaqualand (Dr. Steenkamp), I am sorry to see, is not in his place. His plea for the opening of diggings up there to the public could certainly not be complied with without a great deal of ultimate hardship to thousands of men, and without sacrificing and depriving the country, as a whole, of the wealth which belongs to the whole Union. I can fully enter into the feelings of the Namaqualanders, but if hon. members saw the desolate and arid areas of that country, and saw the immense riches in that small area and the entire impossibility of saying how many patches of that kind there may be, they would see it would he squandering our resources to open that area, and it would be a danger to the whole diamond position in the great risk of throwing immense quantities of diamonds on the market. With regard to the pay on the State diamond diggings the hon. member (Dr. Steenkamp) led the House to believe that the men were given only 7s. 6d. a day. That is not the case. It is true that the unskilled labourers are paid 7s. 6d. per day in cash, but in addition they have free food, quarters, clothing, boots, etc. After the first six months their pay is increased to 10s. a day, and after two months they receive a bonus amounting to &#x00A3;5 a month. Altogether the emoluments for unskilled labour amount to from &#x00A3;20 to &#x00A3;25 a month. I do not say that is too much, for when you have a rich industry you ought to be liberal, particularly in such an industry as this which offers such temptation as diamond mining does. The temptation to dishonesty is enormous, so it is sound policy to give the men good pay and make them as comfortable as possible. I am sorry the hon. member for Namaqualand (Dr. Steenkamp) is not in his place, for I think he is doing no service to the people of Namaqualand to encourage the idea that these diamonds belong to them, when really they belong to the whole of the people of South Africa. Nor is the hon. member doing a good service to the miners. I ask him to help us to counter those who try to make the people of Namaqualand believe that the invasion of these diamond areas for the purpose of unlawful digging is a trivial offence. We believe that the right policy is to conserve these diamonds for the State, and if that course is followed there is no reason to doubt that it will be a most profitable undertaking for a good many years to come. Certainly it is the duty of every public man to avoid giving people the idea that by invading that territory and trying to steal the diamonds they are committing only a venial offence.</p>
+
+</speech>
+
+<speech by="#wentzel">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">WENTZEL</person>:</from>
+
+<p>As I am making my maiden speech, I want to say I hope hon. members will not be disappointed in me. Secondly, it is my great privilege to thank the Government for its capable financial policy during the past five years. On behalf of the farming population I not only want to thank the Government for its financial policy, but also for its interest in the economic development of the countryside. One of the proofs I want to bring to the notice of the House, that the farmers on the countryside are thankful to the Government in <span class="col_401-402" refersTo="page_0228"/>this connection, is that they have sent the Pact back to the House, not only with a majority as before, but with an absolute majority at this election. During the last few days I was privileged to listen to the criticism and attacks of hon. members opposite, and I noticed that the South African party is commencing to attach great importance to economic conditions on the countryside. The hon. member for Caledon (Mr. Krige), e.g., said that if the farmers were well off economically the whole country was as well. Other members said that we should put the poor farmers back on the land. I want to ask hon. members opposite what the reason is that they are so particularly concerned about the economic interests of the farmers. The reason which I have tried to find is that the farmers on the countryside have shown that they have no more time for the Opposition, who had no time for them when they (the Opposition) were in power. As the Opposition is so concerned to-day about the countryside people, I want, in the first place, to mention what they did for the farmers in 1921. In that year the farmers, and especially the mealie farmers, had a splendid harvest of seven to eight million bags of mealies for export. Here it was the duty of the &#x201C;Sap&#x201D; Government to look after the farmers&#x2019; interests and give them an opportunity of exporting their mealies. But what did they do? They stopped the export and opened the doors of Rhodesia, with the result that the maize farmers lost about &#x00A3;5,000,000. That is one of the reasons why we have a large section of the farmers who could not make a living during the regime of the South African party. I want further to ask hon. members opposite if they can remember how, in 1923, the farmers of the country met in the agricultural union, and besought the Minister of Agriculture to put a larger embargo on cattle from Rhodesia, which were streaming into the country and ruining our market. Nothing was done, with the result that many cattle farmers were nearly ruined because the market was ruined. When the Nationalist Government came into office in 1924 one of the first things they did was to raise the embargo on cattle from Rhodesia, with the result that the market is stable once more to-day. There is a third point that I want to bring to the notice of the South African party, in which they neglected their duty to the farmers. It is the tobacco tax which ruined thousands of farmers. I want to ask the Opposition, and especially the hon. member for Caledon, where was the anxiety about the economic welfare of the farmers when they were in office and had to look after the farmers&#x2019; interests. The farmers suffered because they neglected their, the farmers&#x2019;, interests. Now my friends opposite come and are so very much concerned about the farmers&#x2019; interests! When the Opposition was in office they looked after them so badly that the countryside got rid of them completely at the last election. They knew that in the past five years the Government had done much to advance the interests of the farmer. I am glad of the opportunity to say a few words about irrigation. It is undoubtedly one of the biggest questions of the country, and I only want to say that I hope that we shall not be careless with regard to irrigation. When we go on with it in future we must see that we select the most suitable spots. Let us be careful so that we select the places where most water can be conserved, where dams can be built most cheaply, and where the land to be served by the dams will be the best for the purpose. Irrigation schemes can do much in solving the poor white question. The poor whites will be able to make a permanent living in future on the irrigation works, provided the works are economically sound. There is another important point I want to bring to the notice of the Minister of Irrigation, namely, the water bores in the country. We have a limited number of bores, and we shall have to get more to meet requirements. I am glad to learn that the Minister intends to buy them. Take, e.g., two districts, the one I represent and Wolmaransstad, which I know very well. In each district there are three or four bores, and the magistrate told me the other day that in the two districts the number of applications was so great that the three or four bores were booked up for the next two years. Hundreds of farmers in those districts and in the western Transvaal, in any case do not put their names on the list, because when they go to the magistrate they find that the list is already so long that it will take years to work it off. I have every confidence that the Government will be still more sympathetic in connection with this matter. If a farmer has no water he is ruined. He has to trek and heavy expenditure is caused.</p>
+
+</speech>
+
+<speech by="#robert_kotz&#x00e9;">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">ROBERT KOTZ&#x00C9;</person>:</from>
+
+<p>The hon. member for Benoni (Mr. Madeley) expressed surprise this afternoon that I, an ex-Government mining engineer, should propose, in this House, a reduction of coal rates for the mines. I have not changed my opinion from the time when I was a mining engineer. Such a reduction of coal rates as I have urged would be in the interests of the people of this country and of the mine workers who are anxious to find employment when the existing mines come to an end. It is desired to prolong the life of the mines as long as possible, and it is in the interests of the mines and of the people whose welfare depends upon them, that I have urged a reduction of coal rates. It may be said that this will be for the benefit of the rich mines, but the same thing may be said of the action of the Government in some respects in the interests of farming. The Government is already spending huge sums for the benefit of the farming industry, and rightly so, and the benefit of that expenditure accrues, not only to the poor farmers, but also to farmers who are making good profits and who are well-to-do. I refer to such things as low railway rates on farm produce, and to the grain elevators, and rich farmers benefit from those things as well as poor farmers. It cannot be avoided, and the same thing applies in the case of the mining industry.</p>
+
+<p>On the motion of Sir Robert Kotz&#x00E9;, debate adjourned; to be resumed on 5th August.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1929-08-02T17:55:00">5.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

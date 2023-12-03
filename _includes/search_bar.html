@@ -1,12 +1,17 @@
-<!-- Html Elements for Search -->
-<div class="container">
-  <div class="row">
-    <div class="col-12">
-      <div id="search-bar">
-        <i class="fa fa-search" aria-hidden="true"></i>
-        <input id="search" type="text" placeholder="Search..." />
-        <div id="search-result"></div>
-      </div>
-    </div>
-  </div>
-</div>
+<style>
+  /* .gsc-input {
+    padding-top: 20px;
+    border: none;
+  } */
+  table td {
+    border: none;
+    padding: 0px;
+  }
+
+  .gsc-input-box {
+    border: none;
+    padding-top: 20px;
+  }
+</style>
+
+<div class="gcse-search" data-resultsUrl="{{ site.url }}" data-queryParameterName="search"></div>

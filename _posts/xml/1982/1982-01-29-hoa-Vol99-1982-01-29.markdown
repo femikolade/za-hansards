@@ -1,0 +1,223 @@
+---
+title: 'House of Assembly: Vol99 - FRIDAY 29 JANUARY 1982'
+layout: debate
+year: 1982
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 29 JANUARY 1982</heading>
+
+<debateSection name="#meeting_of_parliament">
+
+<heading>MEETING OF PARLIAMENT</heading>
+
+<prayers>
+
+<narrative>Members assembled in the Assembly Chamber at <recordedTime time="1982-01-29T09:45:00">09h45</recordedTime>.</narrative>
+
+</prayers>
+
+<p>The Secretary read the following Proclamation of the State President, dated 9 October 1981, summoning Parliament to meet today:</p>
+
+<p>No. 227, 1981.]</p>
+
+</debateSection>
+
+<debateSection name="#prorogation_and_summoning_of_the_house_of_assembly">
+
+<heading>PROROGATION AND SUMMONING OF THE HOUSE OF ASSEMBLY</heading>
+
+<p>Under and by virtue of the power and authority vested in me by section 25 of the Republic of South Africa Constitution Act, 1961, I hereby prorogue the House of Assembly on the Twenty-eighth day of January 1982, and I declare that the Second Session of the Seventh Parliament of the Republic of South Africa will commence at Cape Town on the Twenty-ninth day of January 1982, for the dispatch of business.</p>
+
+<p>Given under my Hand and the Seal of the Republic of South Africa at Pretoria this Ninth day of October, One thousand Nine hundred and Eighty-one.</p>
+
+<p>M. VILJOEN,</p>
+
+<p>State President.</p>
+
+<p>By Order of the State President-in-Council,</p>
+
+<p>P. W. BOTHA.</p>
+
+</debateSection>
+
+<debateSection name="#new_member">
+
+<heading>NEW MEMBER</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that during the recess Mr. Adriaan Louw Jordaan had been elected in terms of section 40(1)(a) of the Republic of South Africa Constitution Act, 1961, with effect from 27 October 1981, for the electoral division of False Bay.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#oath">
+
+<heading><span class="col_3-4" refersTo="page_0026"/>OATH</heading>
+
+<p>Mr. A. L. Jordaan, introduced by Mr. A. van Breda and Mr. J. H. Hoon, made and subscribed the oath and took his seat.</p>
+
+</debateSection>
+
+<debateSection name="#official_opening">
+
+<heading>OFFICIAL OPENING</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that a letter had been received from the Director-General: Office of the Prime Minister, stating that the State President would open Parliament at 11h00 today in the Assembly Chamber.</p>
+
+<p>Proceedings Suspended at 09h50 and Resumed at 11h57.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>took the Chair.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#state_presidents_address">
+
+<heading>STATE PRESIDENT&#x2019;S ADDRESS</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>stated that at the opening ceremony he had received a copy of the State President&#x2019;s Address to members of the House of Assembly, which was in the following terms:</p>
+
+<block name="quote">Mr. Speaker and Members of the House of Assembly:</block>
+
+<block name="quote">I am glad to welcome you to this the Second Session of the Seventh Parliament of the Republic of South Africa.</block>
+
+<block name="quote">Southern Africa is currently in a phase of transition in which adjustments will have to be made to enable the region to face the future with confidence. During this phase it will be wise to concentrate on matters that will consolidate South Africa&#x2019;s position in an unstable world. This necessitates policies of renewal and development in the political, economic and social spheres to ensure peace, stability and progress for all the peoples of our country.</block>
+
+<block name="quote">There is no doubt that the aggressive policies followed by the Soviet Union pose a threat of the gravest order. The Soviet Union is dictating events in Poland, where it is achieving the same result as in Afghanistan, albeit by a different method. In Africa, too, the Soviet Union is stepping up its efforts to establish itself through surrogate forces. It is within this framework that we witness the intensification of Russian efforts in our own region and we can only hope that other states in Southern Africa will also wake up to this danger and take steps to counter it before it is too late.</block>
+
+<block name="quote">South Africa, for its part, remains committed to strengthening its military capability to meet this threat. To adapt the Defence Force&#x2019;s provision of manpower to changed circumstances, measures will be taken, <i>inter alia,</i> to amend the National Service System.</block>
+
+<block name="quote">It is gratifying that the actions of our security forces have been successful in repelling the onslaughts made against South Africa and its peoples. I pay tribute to the memory of those members of the security forces who have made the supreme sacrifice and express my deepest sympathy with their next of kin.</block>
+
+<block name="quote">It is equally gratifying that the commissioning, last year, of a new propellant plant and rapid-fire small arms ammunition plant will make the Republic almost completely independent of ammunition supplies from abroad.</block>
+
+<block name="quote">The South African Government, in consultation with the internal parties of South-West Africa/Namibia, is still exploring with the Government of the United States of America and the other members of the Western Five ways and means of finding an internationally acceptable solution of the South-West Africa issue. Progress has been made, and the first stage of these efforts culminated at the end of last year in the presentation to the South African Government, and to the internal parties, of a set of constitutional principles for the Constituent Assembly and for the future constitution. The South African Government, within the framework of its discussions and after consultation with the internal parties of the Territory, this week conveyed its agreement to proceed to the next phase of the negotiations.</block>
+
+<block name="quote">The lack of United Nations impartiality is perceived to have a most inhibiting effect on the possibility of free and fair elections in the Territory. This matter, as well as some other vexing issues, will have to be resolved during the phase of negotiations which is now about to start. The <span class="col_5-6" refersTo="page_0027"/>South African Government does not underestimate the formidable task ahead.</block>
+
+<block name="quote">The independence of Ciskei marks a further positive step towards the establishment of a strong and viable community of Southern African States in which the partners co-operate as equals in a determined effort to raise the level of prosperity of all the inhabitants of the region and to safeguard their freedom. The Republic of South Africa will continue to consult with all friendly states in a spirit of goodwill and mutual trust to promote co-operation along confederal lines.</block>
+
+<block name="quote">*The establishment of political structures that will, on the one hand, ensure the self-determination of the diversity of peoples and population groups and, on the other, promote the highest possible degree of co-responsibility and co-operation in matters of common interest is the subject of constant consultation and negotiation.</block>
+
+<block name="quote">It is expected that the President&#x2019;s Council will submit its first recommendations and proposals concerning constitutional matters within a reasonable period of time. In the meantime, pending the Council&#x2019;s report, every effort is being made to find ways and means of promoting consultation with the Coloured and Indian populations.</block>
+
+<block name="quote">It has been agreed between the parties concerned that a forum for discussion should be created by the establishment of working committees on a national and a regional basis, on which representatives of the Government, the national <i>Ad Hoc</i> Committee for Indian and Coloured management, consultative and local affairs committees and municipal associations will serve and to which representatives of other interested bodies will be co-opted. A programme of action will be announced and put into effect in the near future.</block>
+
+<block name="quote">Furthermore, continual discussions are taking place with the leaders of national states regarding their political development.</block>
+
+<block name="quote">The success achieved with the community councils for Blacks outside the national states warrants measures to create fully-fledged Black local authorities, ranging from large city councils to town councils. The Administration Boards will be restructured.</block>
+
+<block name="quote">The economic use of land purchased for the consolidation of the national states is a very important goal. Good progress is being made in collaboration with the governments of the national states with the establishment of Blacks as independent farmers on such land.</block>
+
+<block name="quote">Steps are being taken to provide all the people of the Republic of South Africa, regardless of their colour and the community or population group to which they belong, with a uniform identity document. This positive step will promote sound human and group relations. It will also facilitate the identification of people who pose a threat to South Africa&#x2019;s safety and the elimination of undesirable elements that infiltrate the country.</block>
+
+<block name="quote">&#x2020;The strategy for regional development in Southern Africa announced by the Prime Minister at the Good Hope Conference on 12 November last year will come into operation on 1 April 1982. Consultations are in progress to ensure co-operation amongst the various national and independent states in South Africa in the interest of economic development on a regional basis. The Government of the Republic of South Africa has in principle accepted the creation of regional development advisory committees for each of the identified development regions to promote a better distribution of economic activity and the creation of more work opportunities in all regions. Apart from economic development within the national and independent states, the principle of the development of economic regions across national borders has been accepted. The spirit of constructive consultation that characterized the Carlton Conference still prevails, and the Good Hope Conference indicated that there is a great deal of goodwill and understanding between the private sector and the government about the objectives to be pursued. South Africa has indeed entered a new economic era, particularly in regard to industrial decentralization and deconcentration.</block>
+
+<block name="quote">In the interest of the development of the whole Southern African region, the <span class="col_7-8" refersTo="page_0028"/>South African Transport Services are co-operating with railway organizations of neighbouring countries, as witness the proposed rail connection between South Africa and Swaziland.</block>
+
+<block name="quote">The South African economy has entered a phase of consolidation and adjustment. Under the influence of physical constraints on the supply side, particularly shortages of skilled manpower, the growth rate in the real gross domestic product declined to just below 5 per cent in 1981, compared with virtually 8 per cent in 1980. However, on the demand side both gross domestic fixed investment, especially in the private sector, and private consumption spending continued to expand significantly. At the same time the country&#x2019;s earnings from exports of goods and services (excluding gold) tended to level out further.</block>
+
+<block name="quote">The result of these divergent tendencies on the demand and supply sides of the economy, together with the decline in the price of gold, was that for the first time in five years the current account of the balance of payments showed a deficit, which amounted to some R4 billion. There was also continued pressure on prices, with the result that the inflation rate remained high.</block>
+
+<block name="quote">If the current wave of investment runs its course and the growth rate of private consumption expenditure also declines to a more sustainable level, it is to be expected that the value of imports will decline appreciably this year. As the volume and the prices of exports of goods and services begin to rise in response to the gradual recovery in the economies of South Africa&#x2019;s main trading partners, which it is hoped will materialize by late 1982, the deficit on the current account of the balance of payments should begin to contract to a more acceptable level. The alleviation of the pressure on the available resources that will result from the slowing down in economic activity should also help to bring about a lower inflation rate. We have, however, a difficult period of adjustment ahead of us.</block>
+
+<block name="quote">Fiscal and monetary policy will continue to be aimed at supporting the automatic adjustments operating towards economic equilibrium rather than at attempting to offset them. This will require continued discipline in government spending, sound financing of the State&#x2019;s borrowing requirements and strict control over the money supply.</block>
+
+<block name="quote">The inevitable result of this course of action will be a lower economic growth rate in 1982 and continued high interest rates. Attempts to avoid these less pleasant consequences by allowing high State spending and following a more lenient policy in respect of money creation would, under the present circumstances, result in serious balance of payment problems and an acceleration in the inflation rate.</block>
+
+<block name="quote">There is, therefore, no painless way out of the current financial situation, but the negative effects of a sound policy of consolidation and adjustment may be expected to be temporary and to place us in a position to derive the full benefits when the next upswing sets in.</block>
+
+<block name="quote">On the other hand, an irresponsible policy aimed at supporting the growth rate at all costs and keeping interest rates low in the short term would have adverse longer term consequences and militate against the prospects of an earlier sound economic recovery.</block>
+
+<block name="quote">*The strategic role played by agriculture in the process of regional development, in the provision of food and in the development and maintenance of secondary industries and the amount of foreign exchange it earns makes greater stability in the agricultural sector essential. The necessary adjustments are therefore being made to ensure that the yield per farming unit is increased by, <i>inter alia,</i> increasing the agricultural research input and transmitting research results to the producer more rapidly. The shortage of agricultural scientists is, however, cause for concern and a committee has been appointed to investigate technical services to the agricultural sector with a view to making the best possible use of the available scientific manpower. Furthermore, the Government&#x2019;s steps to counter the deterioration of the sea fisheries resources will be made known in a White Paper in response to the report of the Commission of Inquiry into Certain Aspects of the Conservation and Utilization of the Living Marine Resources.</block>
+
+<block name="quote"><span class="col_9-10" refersTo="page_0029"/>In the interests of preserving and developing our environmental heritage it is essential that purposeful efforts be made to instill an environmental awareness in all population groups. It is equally important for all development bodies to take environmental considerations into account even during the planning phase of any development project so as to maintain the necessary equilibrium between development and environmental conservation. The Commission of Inquiry into the Environmental Conservation Act has completed its investigation and it is expected that the measures needed to place environmental conservation on a sound footing will soon be announced.</block>
+
+<block name="quote">It is also very important that the country&#x2019;s mineral and energy resources should continue to be safeguarded for the future.</block>
+
+<block name="quote">As the world&#x2019;s foremost producer of steam coal, South Africa occupies an exceptional position in world energy supply. It is therefore intended, in making the new coal export allocations, to adopt a strategy that will promote the best possible utilization of coal reserves and assure an adequate supply of coal for domestic use. Due regard will also be had to national and regional development objectives.</block>
+
+<block name="quote">The Wiehahn Commission identified certain statutory labour restrictions in the mining industry and the Government has accepted that adaptations and structural adjustments are needed in the mining industry as inother industries. It is now essential that all those concerned in the matter should establish a rationalized labour dispensation for the mining industry in a spirit of co-operation and without endangering group security and labour stability.</block>
+
+<block name="quote">As far as the efficient utilization of manpower is concerned, it is still the Government&#x2019;s goal to promote industrial peace, to upgrade the skills of the work force and to improve productivity. In the interests of maintaining sound labour relations, consideration is at present being given to the establishment of standing inter-state committees to deal with manpower matters, so that sound relations can be established to the satisfaction of all those concerned, within the framework of a constellation of Southern African states.</block>
+
+<block name="quote">To promote the national objective of an improvement in the equality of life for all groups, it is imperative that the great and still growing need for housing be satisfied. The clearing up and prevention of slum and squatter conditions in and around our metropolitan areas and the creation of decent living conditions within the context of an orderly community, constantly engage the attention of the Government. These important matters will inevitably make exceptionally great demands on all those concerned and will necessitate clear formulation of the financing involvement of the private sector and of the State. The aim with the proposed establishment of utility housing companies in the larger centres and the promotion of greater involvement on the part of employers is to meet, to an increasing extent, the housing needs of the lower and middle income groups and the aged in particular. In addition, as far as the aged are concerned, an appeal is being made to community organizations to continue, together with the Government, to look after their interests with great care. No one can doubt that the care of the aged is an honourable duty in any civilized community, and the State will therefore continue to encourage and promote all forms of co-operation in this regard.</block>
+
+<block name="quote">The Human Sciences Research Council&#x2019;s important report on its comprehensive investigation into the provision of education for all population groups is being given high priority by the Government. The recommendations and comments received from interested bodies and persons are being studied and will be considered within the framework of the Government&#x2019;s interim memorandum.</block>
+
+<block name="quote">In the mean time, the backlog in the provision of physical school facilities for Black and Coloured children is being eliminated progressively. In addition, all training courses for Black teachers are now being offered at the post-Std 10 level and will be of three years&#x2019; duration. The adult education programme is progressing well and centres are being registered throughout the country to make education available to all. In the light of the Government&#x2019;s labour development programme, some of the courses for adults will be restructured <span class="col_11-12" refersTo="page_0030"/>to include an occupational component.</block>
+
+<block name="quote">The advancement of science and technology is of great importance to the development of the Republic. The training of scientists and technologists and the professional status of natural scientists are subjects of serious concern to the Government.</block>
+
+<block name="quote">The staff problems at present being experienced by the Public Service are a corollary of, <i>inter alia,</i> the recent boom, which was characterized by unprecedented competition for the available manpower. In addition, the Public Service could not fail to be affected by the general shortage of skilled manpower. The Government realizes that a properly staffed Public Service is indispensable to the effective administration of the country and wishes to place on record its appreciation of the dedication of loyal officials who continue to regard their service to the community as being of cardinal importance, despite the extremely difficult circumstances. The Government will therefore, apart from the steps it is taking to place the remuneration of public servants on as equitable, a level as means permit, proceed with the process of rationalisation.</block>
+
+<block name="quote">The political and economic conditions prevailing in the world oblige us to put our shoulders to the wheel with cautious optimism and to do everything in our power, with purposeful enthusiasm and a dedication to service, to exploit development possibilities as advantageously as possible so as to improve the quality of life of all our people and assure our country&#x2019;s future.</block>
+
+<block name="quote">It goes without saying that the socioeconomic and political problems with which South Africa is faced should not be underestimated. But the country has the resources, both in the material and metaphorical sense, to turn the problems into challenges and the challenges into opportunities for victory. South Africa is still without equal in the potential it offers all its people.</block>
+
+<p>Mr. Speaker and Members of the House of Assembly:</p>
+
+<block name="quote">Estimates of revenue and expenditure for the current financial year will be laid before you.</block>
+
+<p>Mr. Speaker and Members of the House of Assembly:</p>
+
+<block name="quote">I pray that the blessing of Almighty God may guide and sustain you in your labours and deliberations.</block>
+
+<block name="quote">I now declare this the Second Session of the Seventh Parliament of the Republic of South Africa to be duly opened.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#adjournment_of_house">
+
+<heading>ADJOURNMENT OF HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Mr. Speaker, I move&#x2014;</p>
+
+<block name="quote">That the House do now adjourn.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1982-01-29T12:04:00">12h04.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

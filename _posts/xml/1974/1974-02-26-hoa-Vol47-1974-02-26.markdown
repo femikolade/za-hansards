@@ -1,0 +1,101 @@
+---
+title: 'House of Assembly: Vol47 - TUESDAY 26 FEBRUARY 1974'
+layout: debate
+year: 1974
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 26 FEBRUARY 1974</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1974-02-26T14:20:00">2.20 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS (see &#x201C;QUESTIONS AND REPLIES&#x201D;).</heading>
+
+</debateSection>
+
+<debateSection name="#adjournment_of_the_house">
+
+<heading>ADJOURNMENT OF THE HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#minister_of_transport">
+
+<from>The <person refersTo="hansard_za">MINISTER OF TRANSPORT</person>:</from>
+
+<p>Mr. Speaker, I move&#x2014;</p>
+
+<block name="quote">That the House do now adjourn.</block>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Until when?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Until the usual time tomorrow morning.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What is the usual time?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Ten o&#x2019;clock.</p>
+
+</speech>
+
+<speech by="#de_villiers_graaff">
+
+<from>Sir <person refersTo="hansard_za">DE VILLIERS GRAAFF</person>:</from>
+
+<p>But you suspended the rules yesterday.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I did not suspend the rule relating to the time for the commencement. I suspended the rule in so far as the time for the adjournment was concerned. In other words, the time for the commencement remains exactly the same.</p>
+
+<p>Motion agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1974-02-26T14:34:00">2.34 p. m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
