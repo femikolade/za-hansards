@@ -1,0 +1,19 @@
+---
+layout: header_footer
+---
+
+<div class="breadcrumbs">
+  → <a href="/parliamentary">Parliamentary</a>
+  → <a href="/parliamentary/{{ page.year }}">{{ page.year }}</a>
+</div>
+
+<h3>Parliamentary Sittings in {{ page.month }}, {{ page.year }}</h3>
+<ul>
+  {% for post in site.posts %}
+    {% if page.year == post.year and page.month == post.month %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="old-manuscript">{{ post.title }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>

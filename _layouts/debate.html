@@ -54,9 +54,15 @@
         <a id="button"></a>
         <div class="home">
           <div class="breadcrumbs">
-            → <a href="/hoa">House of Assembly</a>
-            → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
-            → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            {% if page.title contains "House of Assembly" %}
+              → <a href="/hoa">House of Assembly</a>
+              → <a href="/hoa/{{ page.year }}">{{ page.year }}</a>
+              → <a href="/hoa/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a>
+            {% else %}
+              → <a href="/{{ page.section }}">Parliamentary</a>
+              <!-- → <a href="/{{ page.section }}/{{ page.year }}">{{ page.year }}</a> -->
+              <!-- → <a href="/{{ page.section }}/{{ page.year }}/{{ page.month_slug }}">{{ page.month }}, {{ page.year }}</a> -->
+            {% endif %}
             → {{ page.title }}
           </div>
 
