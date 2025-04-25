@@ -1,0 +1,1233 @@
+---
+title: 'House of Assembly: Vol14 - FRIDAY 7 MARCH 1930'
+layout: debate
+year: 1930
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_1583-1584" refersTo="page_0862"/>FRIDAY, 7th MARCH, 1930.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1930-03-07T14:20:00">2.20 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<p>CONDOLENCE (LORD GLADSTONE).</p>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="quote">That this House desires to express its deep sense of the loss sustained through the death of the Right Hon. Viscount Gladstone, P.C., G.C.B., G.C.M.G., G.B.E., and to place on record its appreciation of the distinguished services rendered by him as the first Governor-General and High Commissioner of the Union of South Africa. This House resolves further to convey to Lady Gladstone its sincere and deep sympathy in her bereavement.</block>
+
+<p>I shall not detain the House long, but just want to say that Lord Gladstone, by being the first Governor-General of the Union of South Africa, rendered a very great service to the Union by the way in which he occupied his post during his appointment as Governor-General of the Union. His task was extraordinarily difficult because, as the first Governor-General, he was called upon to indicate the way that the Governor-General should take in the future. I think we can look back with gratitude on the way in which he carried out his duties in this respect. I believe that he laid down principles which we desire should also be followed in the Union in future, and even if it was for no other reason, then we should owe him deep gratitude for the way he fulfilled the duties attaching to the post. As for his action in the Union in social matters, I think we shall long have reason to think of the way in which he and Lady Gladstone performed their duties, and what they did in the interests of South Africa. For that reason I esteem it an honour to propose the motion.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person>:</from>
+
+<p>I second the motion. I wish to add, speaking on behalf of this side of the House, our sense of the great loss we have suffered through the passing away of Lord Gladstone, who came to this country as our first Governor-General, at a very difficult and critical time in the development of this country. He had no precedents to guide him, and had simply to fall back on his own ample experience. In those four years he rendered very great services by the advice and the lead he could give, and the influence which he exercised. It was a privilege to us to have a man, a statesman, of his standing, amongst us in our first years of Union, and we shall never forget the services he rendered to its people, both officially and otherwise. I am sure the people of this country, when the sad news came yesterday, turned their minds to Lady Gladstone, who has suffered this very great loss, who had associated herself with the social, life of this country, and did a great deal of social service. It helped us much in a difficult stage, and I, therefore, endorse most fully the sentiments which have fallen from the Prime Minister.</p>
+
+<p>Motion put and agreed to, members rising.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Railways: Engine Flanges.</heading>
+
+<question by="#deane" to="#minister_of_finance">
+
+<num>I.</num>
+
+<from>Mr. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the regulation gauge for the flanges of engines;</li>
+
+<li>(2) how many engines are on traffic at present between Maritzburg and Cato Ridge and Maritzburg and Durban with flanges under gauge, and how many comply with the standard gauge; and</li>
+
+<li>(3) what steps the Administration takes to safeguard the lives of the travelling public, its staff and the rolling stock against the practice of working engines with flanges under the regulation gauge&#x003F;.</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#deane">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) The minimum gauge is &#x00BE; inch wide at half the depth of the flange.</li>
+
+<li>(2) There are no engines in traffic between Maritzburg and Cato Ridge and Maritzburg and Durban with flanges under minimum gauge.</li>
+
+<li>(3) A systematic inspection is made periodically of engine and tender wheel flanges to ensure that locomotives are stopped for attention to wheels immediately this becomes necessary.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Axles, Electric Unit.</heading>
+
+<question by="#deane" to="#minister_of_finance">
+
+<num>II.</num>
+
+<from>Mr. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether recently a large number of electric unit axles have broken; if so,</li>
+
+<li>(2) what is the cause of this sudden breaking of axles;</li>
+
+<li>(3) who were the suppliers of these axles; and</li>
+
+<li>(4) what steps the Administration contemplates taking to reduce the number of such breakages &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#deane">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Microsegregation and weakness in design.</li>
+
+<li>(3) Metropolitan Vickers Company, England.</li>
+
+<li>(4) Replacement by axles of strengthened design.</li>
+
+</ol>
+
+</answer>
+
+<question by="#deane" to="#minister_of_finance">
+
+<from>&#x2020;Mr. DEANE:</from>
+
+<p>Is it not a fact that these axles have gone far beyond their guaranteed mileage &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#deane">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I must have notice of that.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Accountancy.</heading>
+
+<question by="#sturrock" to="#minister_of_railways_and_harbours">
+
+<num>III.</num>
+
+<from>Mr. STURROCK</from>
+
+<p>asked the Minister of Railways and Harbours whether he will lay <span class="col_1585-1586" refersTo="page_0863"/>upon the Table the rules which guide the chief accountant in the allocation of expenditure on new works and replacements between (a) capital and betterment funds, (b) renewals funds and (c) revenue funds &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#sturrock">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Hospitals and Child Cripples.</heading>
+
+<question by="#van_coller" to="#minister_of_the_interior">
+
+<num>IV.</num>
+
+<from>Mr. VAN COLLER</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) What special provisions have been made throughout the Union to deal with crippled children due to orthopaedic disorders, tubercular infection, infantile paralysis and other causes as regards treatment, education and training:</li>
+
+<li>(2) whether 230 cases applied for admission to the New Somerset Hospital in six months and during January this year 77 new cases applied for admission, of whom only 8 could be admitted:</li>
+
+<li>(3) whether adequate provisions prevail to deal with hospital treatment, education and training of crippled children; if not</li>
+
+<li>(4) whether he will institute enquiries into the matter with a view to dealing with the same adequately;</li>
+
+<li>(5) whether hundreds of curable cases fail to secure the necessary early treatment and care and sink into crippledom and permanent disability because of the lack of adequate provisions; and</li>
+
+<li>(6) what financial assistance the Government will be prepared to give towards the home of recovery which the Cape Women&#x2019;s Hospital Auxiliary are now intending to erect &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#van_coller">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Policeman Rudolph.</heading>
+
+<question by="#kayser" to="#minister_of_justice">
+
+<num>V.</num>
+
+<from>Mr. KAYSER</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been called to the charge made against mounted policeman Rudolph at Korsten, Port Elizabeth; and</li>
+
+<li>(2) whether it is his intention to cause an enquiry to be made into the conditions existing in that centre&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#sturrock">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) The matter is sub judice and I am, therefore, not prepared at present to cause any further enquiry to be instituted.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Gold Currency.</heading>
+
+<question by="#nicholls" to="#minister_of_finance">
+
+<num>VI</num>
+
+<from>Mr. NICHOLLS</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Whether he has official information that experts have computed that it would cost</li>
+
+</ol>
+
+<p>Great Britain &#x00A3;250,000,000 to put gold into circulation in that country; and</p>
+
+<ol>
+
+<li>(2) what is the circulation of gold costing South Africa &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#nicholls">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) No.</li>
+
+<li>(2) I am not prepared to hazard an estimate of the cost.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Checkers.</heading>
+
+<question by="#bowie" to="#minister_of_finance">
+
+<num>VII.</num>
+
+<from>Mr. BOWIE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many checkers are employed at the Buffalo Harbour (a) permanently, (b) temporarily;</li>
+
+<li>(2) whether Sunday work is being performed by the checkers, and, if so, whether this work is necessary;</li>
+
+<li>(3) how many temporary checkers have been dismissed; and</li>
+
+<li>(4) whether, in view of the amount of accumulated work on Saturdays and Sundays, the Minister will review the whole position of checkers&#x2019; duties at Buffalo Harbour and reconsider the advisability of giving employment to temporary checkers &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#bowie">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) (a) 49; (b) European labourers act as temporary checkers according to traffic requirements, but there is no &#x201C;temporary establishment.&#x201D;</li>
+
+<li>(2) No, except when a ship is worked on a Sunday, and for this special permission is sought by the owners or their agents.</li>
+
+<li>(3) None.</li>
+
+<li>(4) There is no accumulation of public traffic on hand at Buffalo Harbour. When the wool and maize seasons are at their peak and it is necessary to work on Saturdays and Sundays in order to release trucks, and this is beyond the capacity of the permanent checking establishment at East London, assistance is obtained, as required, from 25 casuals registered for employment.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Wage Board and Native Pay.</heading>
+
+<question by="#reitz" to="#minister_of_labour">
+
+<num>VIII.</num>
+
+<from>Col. D. REITZ</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) Whether the Wage Board held an enquiry at Kroonstad on the 14th August, 1929, into an application for the determination or fixation of a minimum wage for native workers in the municipal area of Kroonstad;</li>
+
+<li>(2) what recommendation, if any, the Board has made; and</li>
+
+<li>(3) if no recommendation has been made, what is the cause of the delay &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#reitz">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<ol>
+
+<li><span class="col_1587-1588" refersTo="page_0864"/>(1) An enquiry was held by the Wage Board in respect of employees in certain trades in Kroonstad.</li>
+
+<li>(2) The report of the Wage Board was laid upon the table of the House on January 20th last and the hon. member will see therefrom that in accordance with the Wage Act the Wage Board was unable to make a recommendation.</li>
+
+<li>(3) I have not given the further direction required by the Act before the Board can make a recommendation for the reason that the whole matter of the best method of procedure in cases such as this in which natives in urban areas are solely or almost solely concerned is at present under consideration by the Government.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Engine Derailment.</heading>
+
+<question by="#lawrence" to="#minister_of_finance">
+
+<num>IX.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the number of the engine attached to the goods train which met with a disaster at Thomas River on the 17th February;</li>
+
+<li>(2) from where was it imported;</li>
+
+<li>(3) what are the names of the makers;</li>
+
+<li>(4) how long had this engine been used in South Africa;</li>
+
+<li>(5) how much did it cost;</li>
+
+<li>(6) whether any previous running derailments occurred with this engine or others of its class; and</li>
+
+<li>(7) how many of this class of engine are in use on the South African Railways&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#lawrence">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Rails and Sleepers.</heading>
+
+<question by="#sturrock" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Mr. STURROCK</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the price f.o.b. British or Continental port per ton of 2,000 lb. at which the Administration placed its latest contracts for (a) steel rails 80 lb. and 60 lb. and (b) steel sleepers for 3 foot 6 inch gauge track;</li>
+
+<li>(2) what are the freight and delivery charges on the above materials; and</li>
+
+<li>(3) what is the country or what are the countries of origin &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#lawrence">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) (a) 80 lb., &#x00A3;6 5s.; 60 lb., &#x00A3;6 16s. 2d., f.o.b. British ports, (b) 80 lb., &#x00A3;5 0s. 5d.; 60 lb., &#x00A3;4 19s. 9d., f.o.b. Continental ports.</li>
+
+<li>(2) Rails, &#x00A3;1 5s. 2d. per 2,000 lb.; Sleepers, &#x00A3;1 4s. 7d. per 2,000 lb.</li>
+
+<li>(3) Rails: United Kingdom. Sleepers: France, Germany, Luxemburg, Belgium.</li>
+
+</ol>
+
+</answer>
+
+<question by="#madeley" to="#minister_of_finance">
+
+<from>Mr. MADELEY:</from>
+
+<p>How about the sleepers&#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#madeley">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>They are also 2,000 lbs.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#railway_overtime_pay">
+
+<heading>RAILWAY OVERTIME PAY.</heading>
+
+<p>First Order read: Adjourned debate on motion on rates of pay to servants of the Railways and Harbours Administration, to be resumed.</p>
+
+<p>[Debate, adjourned on 14th February, resumed.]</p>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>When we broke off, the Minister of Railways and Harbours had challenged me to establish a statement I had made, namely, that the railwaymen were worse off under the present regime than they ever were before under the South African party Government. I shall accept that challenge at once. The present Government at the last election said to the Government servants, and particularly to railway servants, &#x201C;Put us back, and we will improve your conditions.&#x201D; That was a pledge, and one which I felt I could support them in, and I did so on the platform very much to my subsequent regret. I can prove definitely, and the railwaymen, I am sure, will endorse what I am saying, that they are infinitely worse off under the present Nationalist-pseudo-Labour regime than they were under the South African party Government. Under this combination we have lost, for instance, a principle that was fought for in the days gone by, namely, the principle of each day standing by itself, and overtime rates being paid for any time worked on that same day. That principle has been thrown overboard, not the eight-hours&#x2019; day. That was introduced on an occasion by the South African party, I am afraid with its tongue in its cheek, and the way it was worked, it proved a failure. I must confess that the present Minister of Railways and Harbours was rather well-advised not to holus-bolus introduce an eight-hours&#x2019; day all round, before arranging his organization so as to make it a success. But the fact is, that that old trade union principle, namely, each day standing by itself, has been thrown overboard by this Nationalist so-called Labour combination.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Which you contributed towards.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>No, I did not. I at once refused to shoulder any of the responsibility for the retrogressive acts of that party, because I bitterly opposed every one of them. If I could only show that, and you could show other numerous small improvements, the fact would remain that the men are worse off under this Government than they ever were under the South African party Government. There is, in addition to the fact that your day&#x2019;s work does not stand by itself, all the little and miserable and irritating things that arise therefrom. The Minister of Railways and Harbours stated in reply to one of my friends over here, that the schedule of times worked by guards, conductors and engine-drivers, was not deliberately manipulated. I join issue with him on that. This manipulation has taken place, though I do not accuse the Minister of deliberate manipulation. <span class="col_1589-1590" refersTo="page_0865"/>In practice this is so arranged. The hon. member for Pietermaritzburg (North) (Mr. Deane) gave you numerous examples of how this was done. They are true, and will be endorsed by every railwayman in the service. Then there is speeding up with all its irritating supervision. A man cannot call his soul his own under those conditions. In my earlier and palmier days, I have thrown up many a job father than submit to speeding up, and no man of independent soul will endure that miserable, irritating supervision, having a man standing over him, seeing how fast he is doing his job, and whether the job is done correctly. No man will stand it, and that is why, referring to a previous debate on another subject, I used that expression, that you are rapidly manufacturing a race of cringers afraid of their own shadow; afraid of their next door neighbour. The Minister does not like my calling them apprentices or white labourers; he likes to call them probationers. A rose by any other name would smell as sweet; all we are conscious of is the aroma. Every man has to join as a probationer. I would like to know what grade he has in his service who does not have to join as what he calls a probationer, and in the absence of demonstrable proof to the contrary I maintain it is so. That did not exist in the South African party time. It does exist to-day and is a dominating feature of the present Nationalistcum-Creswellite combination. I think the hon. member for Uitenhage (Mr. Bates) knows it is true. It comes from the men themselves. I am demonstrating by actual facts&#x2014;by information I have from the men themselves&#x2014;under the South African party Government, your engine-driver when he had been a first-class driver for three years he was entitled to enter a special class with an extra 1s. a day.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">BROWN</person>:</from>
+
+<p>I can give you documentary proof to the contrary.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>The hon. member may be able to bring documentary proof in one individual case. What is it to-day&#x003F; Under the regime of these people who claim to have done everything they can for the railwaymen, these drivers have to be first-class drivers for 15 years before they can enter the special driver class. Am I right that these men are infinitely worse off than ever before&#x003F; Again I refer to the hon. member for Germiston (Mr. Brown), who may be able to bring documentary proof. Porters, supposed to have had their conditions improved by shortening of the working day, are working nine hours a day on seven days a week, and they get one Sunday a month off; this, for a glorious remuneration of &#x00A3;13 a month. Hard graft, terribly hard graft, having to endure the unpleasantness of rather irritable travellers&#x2014;who may be members of Parliament. Sixty-three hours a week, and one Sunday off a month, by the grace of God and the kind condescension of the Minister of Railways. Then &#x2014;which counts perhaps almost as much in the minds of our friends on the railways&#x2014;the Government itself broke faith with their representatives on the hours of duty committee. The committee was composed of officials on one hand and direct representatives of the men on the other. They were promised that if their report was a unanimous one, they would get what was asked for in that report. Do not shake your head. The hon. member had better adopt the attitude of defending practically the action of the Government. Do not shake your head. My hon. friend says there is nothing in it; it certainly has a hollow sound. If there is anything calculated to hurt and render inefficient a vast body of men such as this, it is the consciousness that their employers have deliberately broken faith with them. Take another grade&#x2014;stewards. They are taken on as probationers, and after a good deal of strenuous effort to fit themselves for their job, when they have been less than twelve months in the employ of the Railway Administration, they are incontinently sacked for some little misdemeanour. Others, when they have got past that hurdle, and have been employed for two or three years and naturally regard their work as a career, and hope for advancement&#x2014;again, they are discharged, and what is worse, re-engaged as probationers. A damnable state of affairs; I have no hesitation in using the expression. Dare the Minister&#x2014;or his backers through thick and thin, the Creswellites&#x2014;say that this condition of affairs is not infinitely worse than under the South African party.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>We did not have your support.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>No, I could not do any more. It may have been my lack of capacity, but I had a very unreceptive set of minds to deal with when I tried to instil the necessity to do something for the poor unfortunate railwaymen. Then men are transferred. I notice that questions have been asked and I can reinforce the truth of what I say by means of these questions. Men are transferred. They may have been eight, ten, twelve or fifteen years in the service in a particular grade, and they are transferred and have to begin all over again. That is admitted by the Minister. What a state of affairs! Surely men in the employ of the railways for a large number of years, who have earned the confidence of their employers and immediate superiors, and have made good sufficiently to get the miserable wage they were then receiving, are worth considerably more when transferred to another job than the position of a probationer. Above all, as the coping-stone to my charge is the fact that, right throughout the service, there is a general feeling of jumpiness and miserable insecurity. Well, the Minister and his quondam friends may or may not think that I have made out a case. But the men are standing behind me. They are standing behind hon. members who have already outlined the case. I know that I have only succeeded in dotting the &#x201C;i&#x2019;s&#x201D; and crossing the &#x201C;t&#x2019;s.&#x201D; You may deny it as you may, <span class="col_1591-1592" refersTo="page_0866"/>with all the sophistry at your command, but under the present regime conditions are infinitely worse than they were under the South African party Government. I was challenged by the hon. Minister to establish my case, and I appeal to all fair-thinking men in the House to say whether I have not established that case completely and to the satisfaction of everyone concerned. [Time limit.]</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>I ask your permission, sir, for the hon. member to continue.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member asks, as an unopposed motion, that the hon. member for Benoni (Mr. Madeley) should be allowed to continue. Is there any objection &#x003F;</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I object,</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Thank you very much, Mr. Prime Minister.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">PRETORIUS</person>:</from>
+
+<p>If anything has ever surprised me in all the years I have been in this House, then it is the motion by the hon. member for Pietermaritzburg (North) (Mr. Deane), and the amendment that has been proposed to it. I am astonished at the former Minister, the hon. member for Benoni (Mr. Madeley), and his attitude has astonished me the most. The question arises in my mind whether those people ever think in the past, the future, and the present. Has the hon. member for Pietermaritzburg (North) forgotten that years ago, I think it was in 1906 or 1907, at the time the late Gen. Botha was Prime Minister of the Transvaal, similar unemployment existed amongst the Europeans to what there is to-day&#x003F; To assist those people, and save them from hunger, those white labourers worked for three or four pence a day on the railway, and numbers of people were employed on the railways on those conditions. After 1924 the same conditions prevailed again. Throughout the whole country there were unemployed poor whites and their wives and children almost died of hunger. No one will deny that the finances of the railways, as the result of the policy of the previous Government, were very bad. When Mr. Jagger was Minister of Railways he discarded quite a number of railwaymen on the branch lines, and had their houses broken down. We can still see the walls to-day. To balance the finances of the railways he then employed natives. When the present Government came into office, there was a tremendous stream of poor whites who asked for work. I still remember when I was reelected in 1924 that a few hundred unemployed people came to me the following day asking that the Government should give them work. The Government systematically decided to bring the white man back on the railways, but he did not come back again for three or four pence, but he received from 6s. 9d., or, in the case of unmarried men, 5s. I do not say that I am satisfied with these wages. My attitude is that whoever the man is that is employed, he should be paid enough to properly keep his wife, children and himself. I grant that in this case the wages are not sufficient, but it is better than dying from hunger. This motion of the hon. member&#x2019;s is, however, misleading and half-baked. Those two hon. members know just as well as I that it is only an attempt to catch votes. Hon. members also know the state of the railway&#x2019;s finances, and that it would cost a million and a half if their motion was adopted. I ask hon. members whether, in the existing circumstances, they see any opportunity of making the railways pay a million and a half more&#x003F; It looks suspicious to me. The hon. member for Pietermaritzburg (North) always spoke about white labour on the railways, and how he had taken up the fight against the National Council group. I do not know whether he has joined them, but in the past he was always against the worker, and I ask what it means now&#x003F; Has he deserted his party, or what is the matter with him&#x003F; No, it is nothing else but to catch votes, but I want to tell the hon. member that he won&#x2019;t succeed in that. Since I have been in this House I have used my powers inside and outside of it with the Minister to get something better for the men. I have taken the matter up with the Minister year after year, and then he points out to me the state of the finances, and that if he granted the higher wages the result would be that he would have to discharge half the people and get cheaper labour. It is not, therefore, a question of paying full wages, but of saving the people from dying of hunger. Three shillings a day is mentioned, but there are already those people who are earning three shillings a day, and others who are getting seven shillings a day. It is true that there are also those who get five shillings, but when they have been a few years in the service they get an increase of 6d., and when they have been there more than three years the amount is 1s. Hon. members must clearly understand that I am convinced to-day that the people get less wages than what they can live on, and, as long as I am representing them, I will plead for them, and when there is an opportunity I shall see that their position is improved. Matters have been settled as far as the permanent railway workers are concerned. They get their annual increase, but what we are opposed to is that 96 hours are calculated for 14 days. I do not think that is right. When a man is employed he must be employed the whole day. That position must be altered, in my opinion. Then the hon. member for Benoni comes and makes a speech which astonishes me. He sat for three years on the Government benches like a naughty child which gets a dummy to suck, and he never bothered the House with the story which he tells to-day. I recommend him rather to leave the railways alone, but to look into the Department of Posts and Telegraphs. Has he ever moved a finger for those people&#x003F; Some of the people there are working under even worse conditions than the railwaymen, but he never did anything for them. No, like a naughty child he only sucked his dummy. I admit that <span class="col_1593-1594" refersTo="page_0867"/>there are complaints on the railways, but as long as there are railways there will be complaints, and whatever we do, cases of injustice being done will always occur. My view is that labourers should be treated as well as possible, and paid as much as the finances permit, but that ex-Minister beats my comprehension. I do not know what the House thinks of him, but I do not understand him. When he sat here he was one of the best-behaved members of the House, we never heard from him that there were people on the railways who got too low a wage, but now he brings up all these complaints. He now states that his trade union principles are that a good fixed wage must be paid, but I ask him whether he, for the time, forgot those principles while he sat on the Government benches&#x003F; I do not think the House can take much notice of such a member. With all respect, I want to say as before, that I am not satisfied with the present wages. I think every white man is entitled to 10s. a day, but the question is whether the finances will stand it. If the Government were to pay the railway men a minimum wage of 10s. it would mean nothing else under the present circumstances than that half of the people would have to be dismissed. Therefore, we must go slowly, and the Minister will assist the people where he can. As soon as the railways make a better profit, he will be able to pay better wages.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>I am sorry certain hon. members opposite continue to draw red herrings across the trail in connection with Mr. Jagger&#x2019;s railway administration. The last speaker stated that Mr. Jagger dismissed Europeans employed on branch lines and replaced them with natives. That matter has been thoroughly investigated; Mr. Jagger has denied the assertion in this House, and explained that all he did was to transfer European labourers from branch lines to main lines, and the Select Committee on Railways also found the allegation to be nothing but a canard. The hon. member who has just spoken knows that perfectly well, but notwithstanding that, he repeats the allegation. I think the time has arrived when hon. members opposite should get away from that sort of expedient, and say something worth listening to in reply to criticisms from this side of the House. The hon. member for Fordsburg (Mr. Pretorius) made a great deal of the fact that the country&#x2019;s finances will not permit the Union to increase the rates of pay of the European railway labourer. I would like to ask the hon. member why he did not talk like that on the platform during election times, when all sorts of promises were made to these European labourers and the railway staff generally. I do not propose to dot the &#x201C;i&#x2019;s&#x201D; and to cross the &#x201C;t&#x2019;s&#x201D; of other speakers. My attitude on the eight hour day is well known, and it is not necessary to re-state it. A promise was made by the Government, in 1924, that an eight hour day would be granted. I am also in favour of doing away with differential rates of pay, and of each day standing by itself. Another grievance which appealed to me very strongly is this overtime being worked by some of the running staff. It is not denied that some of them do as much as 230 miles in a day, which means being occupied for 12&#x00BD; hours. The administration can obviate men being worked these long hours, and surely matters can be so adjusted that it is not necessary to work 12 hours a day. The Minister challenged this side to prove that any hon. members on the other side had, during the 1924 election, pledged themselves that this Government would introduce the eight hour day. I am in a position to say that the railwaymen in my constituency all so understood it, and consider that the Government has been guilty of a breach of faith in connection with these pledges. In order to appreciate the nature of this pledge it will be necessary to refer to the terms of the eight hour day adopted by the late Government. It was an eight hour day based on a 48 hour week, applicable to the whole of the running staff&#x2014;drivers, firemen, guards, ticket examiners and others. During the election of 1924, Pact candidates, not only in other provinces, but in Natal and in my own constituency, distinctly pledged that if they got into power they would restore what had been taken away from the men by the late Government. That was distinctly understood by the railwaymen of the whole of the Union. An Hours of Duty Commission was appointed by this Government and made recommendations with regard to the eight hour day. It reported recommending a general eight hour day, based on a 96 hour fortnight, and that it should be applicable to all sections of the running staff. That is where I agree with the hon. member for Benoni (Mr. Madeley)&#x2014;the Government was guilty of a breach of faith when they ran away from that recommendation which they agreed to stand by. Instead of doing what was recommended they restricted the application of the eight hour day to drivers and firemen only, and the position is that the guards, ticket examiners and others who were led to believe that the eight hour day would be restored to them, were left out in the cold. I see the Minister of Finance shake his head. The Minister of Railways challenged this side of the House to prove that a pledge was made in the terms stated by me and I accepted the challenge.</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>By the Prime Minister in one of his speeches.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>Yes. I have the speeches of hon. members which were made when the report of the Hours of Duty Commission was presented to the House in 1926. We had the sorry spectacle of hon. members opposite hurling charges of breach of faith at each other in connection with the pledge referred to.</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>But a true one.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>A perfectly true one. Let me read from the speech of the hon. member for Troyeville (Mr. Kentridge).</p>
+
+<block name="quote"><span class="col_1595-1596" refersTo="page_0868"/>The administration accepted only a portion of the report and interpreted that in such a way as to stultify the whole principle of the eight-hour day. I submit this is a just grievance the railwaymen have. We were given to understand that if a unanimous decision was arrived at, it would be given effect to, but the administration has dealt with it in its own way. On the eight-hour day &#x2026; a definite pledge was given to the railwaymen, in connection with the last election.</block>
+
+<p>The hon. member, replying to an interjection, said that so far as they on their side of the House were concerned a definite pledge was given that the eight-hour day would be restored. He said that the eight-hour day was a principle to which the country was committed by the Washington convention and the Peace treaty. During the 1924 general election speeches were delivered throughout the Union by Pact candidates containing pledges that the eight-hour day as adopted by the former Government would be restored if the Pact came into power, and I want to ask hon. members on the other side of the House if they can deny that such pledges were given by the Pact candidates.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>The Prime Minister never did.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>Did he not&#x003F; Let me quote from a speech of the Minister of Labour. The Minister of Labour was charged in this House by certain hon. members, including the hon. member for Troyeville (Mr. Kentridge), with having been guilty of a breach of faith in regard to the eight-hour day. He said that the final decision arrived at by the Government was that the present instalment of the hours of duty committee recommendation should be adopted. He added&#x2014;</p>
+
+<block name="quote">We have made a promise, and we have taken steps towards the fulfilment of that promise.</block>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Who are &#x201C;we&#x201D;&#x003F;</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>The Government. The Minister of Labour said&#x2014;</p>
+
+<block name="quote">I wish there had been longer strides, and so do my hon. friends, very likely. The step taken is a guarantee of our good faith.</block>
+
+<p>He admits that a promise was made during the general election, and he says that this is the first instalment. The first instalment in 1926, and I venture to say that as long as this Government remains in power there will be no further instalment. The Minister also said in this same debate that the Government had confidence that the railway servants would continue to co-operate with the railway management awaiting the full fruition of the eight-hour day, Then we have the member for Langlaagte (Mr. Christie). This is what he said&#x2014;</p>
+
+<block name="quote">As far as the eight-hour day is concerned I would certainly be failing in my duty if I did not express my opinion in regard to that. I stood for re-election in 1924, and I certainly understood it was the policy of the Pact to introduce the eight-hour day. I personally gave that assurance repeatedly. Now we hear the Minister say we are not pledged to it. I can only say that I am pledged to it, and like the hon. member for Brakpan (Mr. Waterston), I am prepared to consider my position</block>
+
+<p>The then hon. member for Bloemfontein (Mr. Barlow) said&#x2014;</p>
+
+<block name="quote">The railwaymen to-day are not satisfied. I went down to Wakkerstroom on behalf of the Labour party, and I preached the doctrine down there, and that was that if the National party were returned to power the eight-hour day would be restored.</block>
+
+<p>There you have it. The pledge was the restoration of the eight-hour day adopted by the late Government, and subsequently taken away by them. Mr. Barlow asked, &#x201C;Are we delivering the goods&#x003F;&#x201D; and added, "I doubt it.&#x201D; In 1926 hon. members were actually talking of raising the question whether they should not break away from the present Government because of this breach of faith. We also had a few words from that cautious Scotchman, Tommy Strachan. He did not commit himself at any great length, but what he said was that he desired a contented staff, and that he agreed with what his colleagues had said with reference to an eight-hour day. I accepted the challenge of the Minister of Railways and Harbours and I have discharged the onus which rested on me. If he is not in his seat it is not my fault. This will probably be my only opportunity of fulfilling my acceptance of the challenge he threw out, and I fail to see in the speeches&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>What was the challenge &#x003F;</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>He challenged this side of the House to prove that any hon. member on that side of the House had given a pledge that the Government would restore the eight-hour day if returned to power. The hon. the Minister shakes his head.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>There was an election last year.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>I have nothing to do with the election of last year. This matter was disposed of before the election. As a result of the breach of faith by this Government what support did they get from the railways&#x003F; The railwaymen threw you over almost to a man. I want to issue a challenge. I challenge the Minister of Labour to get up in this House and deny that he and his followers made a definite and distinct pledge in the general election of 1924 that if the Pact Government was returned to power the eight-hour day adopted by the late Government would be restored to the railway. I throw out that challenge. I see a few survivors of his party on the other side of the House. There are not many of them left, but <span class="col_1597-1598" refersTo="page_0869"/>the challenge applies to them as well. The railwaymen gave expression to their views and feelings in a practical way with regard to these broken pledges at the last election, and very few of the followers of the Minister of Labour were returned to this House. I issue that challenge. Can any hon. members opposite who were in the last Parliament deny that they promised in 1924 that the eight-hour day would be restored&#x003F; I have every confidence that not one of them would dare to get up and deny it. I am sorry the Minister of Railways and Harbours is not here. I would invite him to get up and refute my statements, and attempt if he can to explain away the speeches which I have read out to this House. I know that the Minister of Railways has already indicated that he is not prepared to accept this motion, so that stressing the differential rates of pay is just beating the air and I am not going to waste the time of the House by doing that.</p>
+
+</speech>
+
+<speech by="#stals">
+
+<from>&#x2020;*Dr. <person refersTo="hansard_za">STALS</person>:</from>
+
+<p>On the introduction of this motion the question arose in my mind whether hon. members opposite really wanted to advance the interests of the railway workers at present, but after the debate I have heard from the opposite side, and the way in which the question has been tackled there is not the least doubt to my mind that to a great extent this debate is in any case being used, not to assist the railwaymen, but to make as much political capital out of it as possible. I am sorry that the interests of a considerable section of the population, of a large part of the working classes, are being exploited in this House for political advances. When we see the turn the debate is taking it is necessary to carefully look into not only the facts as they really are, and not as they are represented, but also the effect which the proposals might have on the workers outside, who, of course, are not well acquainted with the affair. I do not say that the workers do not know what their interests are, but all the facts are not within the reach of all the railwaymen. I also come into contact with working men frequently, and many of them do not know the intricate details. The workers might be brought under a wrong impression by speeches of hon. members opposite who do not consider it part of their responsibility to state the facts. I do not intend to follow the tragic behaviour of the hon. member for Benoni (Mr. Madeley), but it is very necessary to rebut some of the irresponsible statements. In the first place I think that it is necessary, especially after the speech of the hon. member for Klip River (Mr. Anderson) to ascertain what actually were the recommendations of the commission about the eight-hours day. He repeatedly mentioned the introduction of the eight-hours day by the S.A.P. He did not tell the House, and the workers outside it, how long the South African party applied that eight-hours day. That was good enough during the election, but not good enough after the election, and was actually repealed one year after its introduction. What was the result&#x003F; A large number of the workers became so dissatisfied, firstly, because the eight-hours day had been in force such a little while, and further about things that were subsequently done by Mr. Jagger, that it was necessary for this Government to appoint a commission which made a report. They recommended the system of the spreading out of hours. The S.A. party want to have the credit of an eight-hours day, but we know what the state of affairs under the previous Government was, when drivers and firemen were paid a day&#x2019;s wage for nine hours, and guards, ticket collectors, including conductor guards, were paid a day&#x2019;s wage for ten hours. The speeches now being made are to create the impression that the Minister of Railways departed on his own responsibility from the recommendation of the working hours commission about the pooling of days. I refer the hon. member for Benoni, who has made all kinds of irresponsible remarks, to the recommendations of the committee itself, viz.&#x2014;</p>
+
+<block name="quote">Eight hours for which a day&#x2019;s pay is paid for all running staff employees (drivers, firemen, guards and ticket examiners) with a guaranteed fortnight of 96 hours, on the understanding that the following conditions are accepted as part of the recommendation:</block>
+
+<ol>
+
+<li>(a) Sunday time to stand alone.</li>
+
+<li>(b) Bonus time not to be included in the 96 hours.</li>
+
+<li>(c) No overtime to be due until completion of 96 hours.</li>
+
+</ol>
+
+<p>The hon. member for Benoni said that the Minister had robbed the workers of a privilege which they had won after a long struggle, viz., that each day should be considered by itself. From the recommendations of the commission it is very clear that the recommendation of the commission itself is not to regard every day by itself, but to put the days together and spread out the hours. There is, therefore, no departure in this respect. The commission consisted of employees and officers of the administration in equal numbers. I refer to the recommendations of the commission. What the administration expected as regards hours was&#x2014;</p>
+
+<block name="quote">Eight hours for drivers and firemen, 9 hours guards and examiners, on the basis of 96 hours per fortnight for enginemen, and 108 hours per fortnight for guards and examiners.</block>
+
+<p>Recommendation in (a) with regard to Sunday time was accepted; recommendation (b) with regard to bonus time was also accepted; recommendation (c) was accepted with the special privilege that the administration granted that with regard to the average for fourteen days a concession should be made with regard to vacation leave, sick leave and absence due to injury. As for the other conditions, five more were fully accepted, and the others were considered, and other concessions were granted in relation to the booking on and off within working hours. There is, therefore, the consideration that drivers and firemen are given eight hours work and in some cases nine hours. In <span class="col_1599-1600" refersTo="page_0870"/>every case some relief was granted. It must, therefore, be very interesting for the railwaymen outside to hear the pleas that have been put up for them, and to compare them with conditions that prevailed when those who made them were in office. The position was then much worse than now, but now that those members have no responsibility they feel, of course, that it is a very nice case to come and advocate here. I therefore think that, it is necessary for us to accept these two things in the proposals. The first refers to the grievances of the railwaymen. I should be the last to treat such a thing lightly if people asked for an improvement in their working conditions. But as anyone who takes an interest in the welfare of the country and who is responsible for a large number of railway voters, I can say that the conditions in the railway service are better than those in most other industries. I will not say better than in all. But when we consider the pay and other advantages such as a pension, then we see that the railway service is advantageous in comparison with many other services. Let me now deal with the second part of the motion, viz., the part that deals with the manual labourers. The request is that the wages and allowances prior to 1923 should be restored. In November, 1923, a reduction was made in the payment of the artizans in their workshops. Let me now mention what the present position is; for grade one it is 18s. for an eight-hour day, grade two 18s. 9d., grade three 19s. 4d., grade four 20s. 4d., and grade five 21s. 6d. Each of us would like to improve our position as much as possible, but as we pay these wages to the people for an eight-hour workday, it cannot be said that they are starvation wages, although it is technical work, and we cannot here with certainty define the value of it. Nor is there such a great difference between the wages that were paid before 1923, and those that are paid now. They were only reduced by 2s. a day. When the circumstances of the country permit and when it will tend to the improvement of this great national institution then it may be necessary to urge a revision of the wages, but when we want to advocate that, then those who want to do so must be assured that the granting of better wages is practically possible. But those who have introduced this motion, and spoken in favour of increase of wages, have taken no account of the economic position of the railways, and the general economic position of the country. They have not taken the least account, of the earnings of a large section of the people who work and who do not have the incomes of the railwaymen. Is this the time to push such a proposal through the House in the existing circumstances of the country&#x003F; Time does not permit me to go into the economic position. It is, moreover, unnecessary because the House is fairly well acquainted with it. Suppose now that the House to-day were convinced by the Opposition and to vote in favour of this draft. From what source would the additional payment come. That is the question which I would like to put to the hon. members for Pietermaritzburg (North) (Mr. Deane) and Salt River (Mr. Lawrence). As the hon. member for Ladybrand (Mr. Swart) said it will mean 1&#x00BD; million. Actually if we go into the revenue of the railways, harbours, and steamships, then it is not a fact that the railways show a surplus. A great deal of surplus comes from our harbours. Why should we consider the harbours as a source of revenue to cover the deficit on the railways&#x003F; We may expect such an important service to pay. Thus when an increase of wages is urged it means that we must be prepared to increase the revenue of the railways in order to reduce the deficit. All of us, however, who look at our country and take an interest in the matter will find that the railways are not only crushed under a reduction in revenue, i.e., that the revenue is not only proportionately less, but there is actually a reduction on the figures of the previous year in spite of the extended services. How then can a responsible member urge that there ought to be an increase of expenditure when we know that the reduction of revenue is due to outside competition and to the general condition of our country. There can only be three possible remedies. I want to deal with those three remedies, and ask which one is chosen by hon. members who have advocated this motion. The first alternative is that there must be a general reduction of the wages of the other ranks. Will one of those hon. members vote for that&#x003F; Certainly not. But the money will have to be found. The second alternative is that we should discharge a section of the workers. The hon. member for Fordsburg (Mr. Pretorius) has already dealt with this and I do not want to enlarge on it. There are however, some hon. members who have considered this possibility. The hon. member for Salt River at least thought of it because he said that the Government ought rather not to have employed the people if it were not able to pay them properly. The contra-proposition would be that if the Government cannot pay them they should be discharged. He is, however, afraid to put the matter that way. The Government certainly will not follow that course. Then there is another alternative, and I should like to know what the Opposition think of it. The third possibility is that we might reduce the contributions to the railway funds. We can weaken funds like the renewal fund, etc. Will the hon. member for Yeoville (Mr. Duncan) favour a reduction of the contributions to those funds&#x003F; If we follow the examples of our predecessors in connection with the pension funds we shall make the railway bankrupt. There remains one alternative and that is to increase the railway rate and it looks very much to me as if that were the object of the Opposition. I would like the supporters of the motion to tell me which alternative they will support and if they will support none of them, then it is irresponsible of them to table this motion. I understand that a division will be called for. Then I expect a few more members opposite to speak on the motion so that we can see from what source they intend making up the deficit which will follow on the proposed increase of wages, and if not then it is dishonest to propose <span class="col_1601-1602" refersTo="page_0871"/>such a motion. If we act like this we shall be condemned not only by the public but also by people in whom we raise a hope which cannot be realized.</p>
+
+</speech>
+
+<speech by="#bowie">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BOWIE</person>:</from>
+
+<p>A great many promises have been made to the railwaymen, but, unfortunately, they have not been kept. It was most cruel to promise these men things which those who made the promises never intended to keep. I represent a large railway constituency, and I am not speaking from any political motive, but because I know many of these railway workers, and realize that a feeling of hopelessness has come over large numbers of them. Poor whites are being sent to the large towns to work for 5s. a day, and the natural outcome of their presence in big towns and their inability to pay sufficient rent to get decent housing accommodation, is the creation of slums, a problem which is exercizing the minds of the people of the city of Cape Town at the present moment. I have seen many of these people in a half-starved condition. It would be much more to the Government&#x2019;s credit if they would open soup kitchens for these unfortunates instead of free dispensaries. The Minister has refused to level up the pay of the artizans. These men are persons of the very highest integrity and know their jobs. I am of the opinion that no distinction should be made between the pay of one artizan and another, providing they do the same kind of work. Therefore, I hope the Minister will reconsider his decision and see that these men are properly paid. We have high officials, mechanical engineers, as well as shop foremen, and now we have piece-work inspectors. Unfortunately, when a man finds that he is being spied on all the time, he is not inclined to put his heart into his job as he would be if he were permitted to do his work unwatched. Many white labourers are doing their best to turn themselves into efficient railway workers, but the Minister should lay it down that they should not encroach on the province of the skilled artizan. As to the 8-hours day for the running staff, there has been a species of &#x201C;wangling&#x201D; through an unfair distribution of work. Sometimes these poor fellows are made to work 12 to 14 hours at a stretch, and they get no extra pay. The men should work 8 hours a day, and any time over that should be regarded as overtime, and be paid for as overtime. The Minister, in answer to a question this afternoon, stated that when there was a congestion of work at the wharves, casual labour was employed to do checking work. But the work of these checkers is highly skilled, and the men who perform it should have a good education and a long training. For instance, they have to know every siding and station on the line, and they have to check the handling of thousands and thousands of pounds&#x2019; worth of valuable cargo. Notwithstanding that, I believe they are the lowest paid servants in the whole of the Railways and Harbours Administration. Many men now in casual employment as checkers went on active service; others were superseded, and now they receive only occasional employment, although they are thoroughly skilled men. One of them writes me&#x2014;</p>
+
+<block name="quote">I have had a hard time, but I am only a labourer now at 5s. a day, plus a shilling house allowance.</block>
+
+<p>I am in entire agreement with the general motion, and I would say to the Government: for God&#x2019;s sake, don&#x2019;t promise people you will do things for them when you know that you have not the least ability to carry those promises out.</p>
+
+</speech>
+
+<speech by="#naud&#x00E9;">
+
+<from>*Mr. <person refersTo="hansard_za">A. S. NAUD&#x00C9;</person>:</from>
+
+<p>I did not intend speaking, but as civilized labour has been attacked, I feel it my duty to say a few words. The South African party continually go about the countryside warning the electors against the Labour party, who are bolshevists, socialists and communists. Now, however, the South African party have followed the left wing of the Labour party. I congratulate the National Council group on its four converts, the hon. members for Salt River (Mr. Lawrence), Klip River (Mr. Anderson), Pietermaritzburg (North) (Mr. Deane), and Greyville (Mr. Richards). What they preach is entirely the doctrine of the National Council group, and I fear that socialists, bolshevists and communists already sit in the South African party quarter. The motion is nothing but a vote-catching one. They propose things which they themselves see no way of carrying out. At the time the Minister of Railways introduced white labour, he at once stated that he was going to begin with 5s. a day for unmarried men. He said he could not give more, because it would be uneconomic, and he would be compelled to follow the South African party policy and employ native labour. The workers are not quite satisfied. Of course not. There are few people that are satisfied, and I have, myself, often said that I do not blame the labourers for agitating for more, because if one does not try to improve oneself, one does not amount to much. That, however, was the policy of the Minister of Railways, and they were satisfied. Undoubtedly there is dissatisfaction, but that is largely due to the South African party electioneering agents, who continually go round among the railway workers and agitate. The railway officials themselves complain about it. The so-called would-be candidates of the South African party cause the dissatisfaction. After the election, it will be a little less, but there is a provincial election coming, and we may once more expect a livening up. As for the raising of the railwaymen&#x2019;s salaries, hon. members will possibly remember that I said three or four years ago, when the Minister was reducing the railway rates by &#x00A3;500,000, that he had better keen the rates as they were and pay the railway men, especially the poor whites a little more. Then the hon. members, who have now made so much noise, remained silent, except the then member for Salt River (Mr. Snow) and a few other <span class="col_1603-1604" refersTo="page_0872"/>members. What, however, does the railway leader of the South African party say&#x003F; He complained a little while ago of the expenditure being too high, and so did the hon. member for Uitenhage (Mr. Bates). It was calculated that the expenditure would be increased by million pounds if the suggestions were complied with, which would be impossible for the railways. Then we shall have to revert to the old South African party policy, and abolish the white labourers, replacing them by natives. The hon. member for Klip River said that Mr. Jagger had categorically denied that he had done so. I refer him to the memorandum which the general manager sent at the time to Mr. Jagger to the effect that the position of the white labourers was worse than that of the natives. The position of the white labourers on the railways was made impossible, but as soon as this Government came in, it felt that something must be done, and its policy was rather to let the people honestly earn something than to give them doles, which was unsound. The hon. member for Klip River said that we, every member of this side, promised in 1924 that we would restore the eight-hour day; I challenge him to go with me to the railway centre at Volksrust and to enquire whether I, as candidate, ever made such a promise. I always told the workers that they must not expect too much from the Government, who could not go further than the revenue allowed. The workers always said that I was free, and had made no promise; that I had put the matter fairly. What is the cause of our being saddled with thousands and thousands of poor whites&#x003F; It is the policy of the previous Government who did nothing to develop the country, and the development consequently did not keep pace with the increase of the population, so that there are thousands to-day without a living. When this Government came into office there were thousands of unemployed, and the position is much better to-day.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Very little.</p>
+
+</speech>
+
+<speech by="#naud&#x00E9;">
+
+<from>*Mr. <person refersTo="hansard_za">A. S. NAUD&#x00C9;</person>:</from>
+
+<p>If it is only 1 per cent., the position is still better, and I am glad that the hon. member admits it.</p>
+
+</speech>
+
+<speech by="#shaw">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SHAW</person>:</from>
+
+<p>The mover of the motion seems to be more concerned, not at the long hours, but rather at the rate of pay for the long hours being the cause of dissatisfaction on the railways. I am looking at it from another aspect. I do not believe in overtime, and, therefore, am supporting the motion. I cannot see that increased pay would make overtime less responsible for accidents. I believe that when a man has done eight hours he has done all that he is physically capable of, if he is to keep his mental faculties in full force. The omniscient and immaculate hon. member for Benoni (Mr. Madeley.)&#x2014;the paragon of Labour&#x2014;appears to be more concerned with scoring a debating point off his old colleagues than with the conditions of the worker. Hon. members on the Opposition side of the House are revelling in a position of attack by implied promises which they feel they may not, at any rate for a long time, be called upon to fulfil. I support the motion for the reason that I feel that an injustice was done to the railway workers by the previous Administration in the matter of dual rates, and, though I see no hope of remedying that injustice, I shall register my protest. Young men who entered the service as apprentices in the belief that they would have certain defined rates of pay, found that they were badly dealt with when the Jagger cut was put into operation. With regard to the white labourers, the difficulty is that we have no standard by which we can judge the status of the labourer, because of those who filled his place in the days of the South African party regime. There were no probationers then. These places were then occupied by men of another colour. The hon. member for Benoni must have known that, travelling as he did over the railways. The position is this: If we are to pay the wages proposed by the hon. member for Salt River (Mr. Lawrence) to these men, irrespective of their ages, we shall find that the young man who has entered the service as a labourer will choose to remain as a labourer rather than aspire to something better. Instead of wanting to be an apprentice, he will prefer to remain as a labourer at the 10s. rate. I suggest the possibility of dividing the men into two classes, the older men we have to provide for as labourers in one class, and the younger men whom we hope will be the artizans of the future in another class. The younger men could be averaged at rates more in conformity with apprenticeship. I commend this suggestion to the Minister. I do not know whether there is any possibility of it being carried out, but it seems to me that we have been spending a lot of time in discussion without any practical suggestion being put forward. I suggest that the Minister investigate the matter in order to see whether something cannot be devised on those lines to satisfy the railwaymen.</p>
+
+</speech>
+
+<speech by="#oost">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">OOST</person>:</from>
+
+<p>Before the hon. member replies, I would like to say a few words, especially to congratulate the youthful member for Salt River (Mr. Lawrence) on the enthusiasm he has shown in connection with the railwaymen&#x2019;s wages. He went so far as to break forth in poetical effusion which has been immortalized in Hansard. I congratulate him on his enthusiasm for the poor people, and I do not doubt he has warm sympathy for his fellow men. I am, however, disappointed to see that in connection with this matter there is much difference between hon. members opposite. His own leader, the hon. member for Standerton (Gen. Smuts) also made a speech on the same subject in 1924. His leader, however, spoke then under other circumstances, viz., in ticket meeting, where not only were only people with tickets admitted, but where the press also were directly under the instructions of the speaker. We should like hon. members opposite <span class="col_1605-1606" refersTo="page_0873"/>to talk here in the same way that they do in private. The hon. member for Salt River said rightly that 8s. a day was very little, although we must add to that that under the present circumstances it is still a fair amount of money. We must take things as they are to-day owing to the depression, and when we remember how 80 per cent. of our farmers have to live, and compare it with the wages on the railway, then I say the railwaymen are not badly off, especially as the Railway Administration is engaged in certain parts of the country in improving their housing. I want to give an instance of what they have already done. At Bronkhorstspruit the previous Government built three houses, but of such a kind that the health of the people suffered in consequence. The present Government has had the houses broken down and proper, neat buildings erected about which the people themselves, as Europeans, did not have to feel ashamed. But the Government also did much in Natal. I read here in the general manager&#x2019;s bulletin that the Administration has provided housing on a large scale at various places, inter alia, at Pietermaritzburg and Ladysmith, and how splendid the institution for young people on the railways at Weltevreden is. At present a further &#x00A3;50,000 is being voted for houses. What, however, are the municipalities in Natal doing to encourage the Administration&#x003F; Have they, as e.g., in Cape Town, and especially like the municipalities of Germiston and Bloemfontein, stood by the railways&#x003F; No, Natal, I might almost say, like the unfaithful housewife, wanted everything, and wanted to do nothing for her husband. To get back to the amendment of the hon. member for Salt River, I want to point out what at that time his leader said in a speech in 1924, which was not actually intended for publication. It sounds different to what he said here, because the speeches he has made here are usually for publication and nothing else, I shall quote the speech of the hon. member for Standerton, so that it shall be reported, and the hon. member for Salt River and other hon. friends will have their consciences set at rest. This ticket meeting was held in the Wanderers Hall in Johannesburg, where, as has been said, the press also came under the careful instructions of the speaker. The result is that this part of the speech was not published at that time. The hon. member there said&#x2014;</p>
+
+<block name="quote">And now, Mr. Chairman, ladies and gentlemen, I come to the question of unemployment. As you know, the Government has started relief work for the benefit of those who came to this country from overseas and who unfortunately, as a result of the reaction after, and the effect of, the great war, have now lost their work. Well, what has happened&#x003F; [To the press]: &#x201C;The press need not report this.&#x201D; As soon as Piet, Jan and Klaas of the backveld heard that the Government was offering work, they rushed from their homes to take the posts which were intended for the English returned soldier. [Shouts &#x201C;shame.&#x201D;] Some of these fellows had to be employed, because otherwise distrust would have been felt in the Government. Unmarried men got up to 5s. a day, and married men 7s. 6d. per day. This wage appeared very attractive to the farming people, because they thought that it was a princely sum in comparison with theirs, never in their whole lives having yet had 5s. or 7s. 6d. on their farms. It was a lot of money to them, and you must know that the young fellows had the temerity to get married. At any rate, they took Sannie, Kato and Kaatje with them to the place where they work, in order to get the extra 2s. 6d. for married men. [Loud and continued laughter, in which Gen. Smuts heartily joined.]</block>
+
+<p>It is the hon. member for Standerton who made that speech. That portion was twice published and never contradicted; therefore, I can assume that it conveys the actual words used by the hon. member. I ask the hon. member for Salt River whether he agrees with his leader in the suggestion here made that the daughters of his own blood have sold their bodies for 2s. 6d., and which represents that the sons of his own blood are prepared to abduct a girl to get 2s. 6d. It is the young people of his own people which, according to him, are so poor and have so little buying capacity that in their lives they have never seen 5s. or 7s. 6d. on their farms. What is the truth&#x003F; Did hon. members opposite mean that they felt sorry for these people, or do they agree with the hon. member for Standerton that these people ought not to have 5s. a day&#x003F; I do not want to give a reply to this. The public of South Africa will say whether these words were used out of love for the people, or out of pusillanimity or from political interest. The poor people who have been thrust into poverty by them, because this poverty is the result of the second war of independence, whether they actually sympathize with those poor people, or want to use them for political purposes. I will leave the answer to that question to the public.</p>
+
+</speech>
+
+<speech by="#mcmenamin">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">McMENAMIN</person>:</from>
+
+<p>In listening to the debate, I think one would be justified in assuming that a great portion of it has been going on to make political capital for the Opposition, rather than to benefit the railwaymen. It is very amusing to hear so much about broken pledges urged against this side of the House, and particularly from a party which in a few years has had its majority of 18 converted into a minority of 28, which certainly shows the opinion of the public, so far as the South African party and its pledges are concerned. Broken pledges cannot be laid to our charge, for pledges are subject to the possibility of their being carried out, and the Labour party did its best to carry out any pledges it made. Hon. members opposite may not know this, but I cannot acquit the hon. member for <span class="col_1607-1608" refersTo="page_0874"/>Benoni (Mr. Madeley), who is, at the very least, politically dishonest in coming forward with the criticism he has made, seeing that he knew perfectly what happened at the time, and how many times the Labour party approached the Government on the very matters mentioned by him. We had only three of the eleven members of the Cabinet, and 18 out of 135 members in Parliament, and we could not expect to get entirely our own way. On many of these points that have been raised, the Government, for financial reasons, though pressed by us to do so, could not achieve what we desired. For practically five years the hon. member for Benoni was perfectly satisfied&#x2014;at least he never complained&#x2014;to go on with conditions as they were. It was not until he resigned, or, rather, not until the Cabinet resigned and was reformed, so as to get rid of him, that he revealed the views which he has given to-day, and it is an act of political dishonesty for him in the circumstances to speak of his, old colleagues in the way he has done. Regarding pledges, I suppose we shall be asked by members of the Opposition to believe, if they are returned to power at some remote period, that all the pledges they are in effect making in this discussion will be carried out. But we know that they will certainly not carry out those pledges, and that past experience tells us that railwaymen will do far worse under the South African party Government than under the present Government. The great difficulty of the Government regarding railway matters is to reconcile the widely divergent views of hon. members opposite. Whenever the big guns of the party speak on railway matters, they plead for lower rates and fares, and all their arguments are in the direction of reducing railway revenue. But when the pop-guns of the party, like those who are sponsoring the motion and amendment before the House, get busy, they urge propositions which, according to the experts, will involve expenditure from &#x00A3;1,000,000 to &#x00A3;1,500,000. The hon. member for Uitenhage (Mr. Bates), himself an old railway man, and who knows something about the subject, candidly told the House that the railway cannot stand the demands made upon it. I am quite satisfied in my own mind that, if a miracle should happen, and hon. members on the other side of the House came into power, the railwaymen would not be better off than they are to-day. With all these divergences of opinion on the other side, we are in this difficulty that we cannot get any authoritative opinion. In the debate we have frequently asked for someone on the other side to give us a lead in the matter. I shall ask the hon. member for Yeoville (Mr. Duncan), who is the one responsible member of the party who has been sitting out the debate, two questions. Number one is: If the South African party came into power, will they increase the wages and improve the conditions of the workmen in accordance with the resolution and amendment before the House&#x003F; Number two is: whether they will retain the same number of railwaymen in their employ that are employed at the present time&#x003F; These questions have been raised time after time, but the answer to them has been silence or a quibble like that of the hon. member who interjected. One hon. member has suggested that a South African party Government would increase the employment of coloured people. I am asking them if they will at least retain the present ratio of European, coloured and native employees as in the service to-day&#x003F; With regard to the grievances of the running staff and the question of an eight hours day, and each day standing by itself, as I have said before, the Labour party has endeavoured to get the Government to accept these principles, but for financial reasons the Government has not seen its way to do so. It would have been no use for the Labour party, even if it had been in its power, to kick out the present Government and bring in the gentlemen opposite, because we know that they would not do any better. In fact, the chances are they would do worse for the railwaymen than is being done for them at present. The railway service is a big concern, probably the biggest railway service in the world&#x2014;and it stands to reason that there is room for a lot of grievances in such a service. We have had specific instances of such grievances. We have heard of men working very long hours, and we sympathize with them, and I am hoping that the Minister and his department will make a note of these instances, and as far as possible, endeavour to make things easier for these men. But the railwaymen are reasonable, and must understand that the railways are not an ordinary enterprise. The railways must be run to suit the public and not to suit the staff. In regard to long hours of work, these are no gain to the Government, who would like it to be possible to make the working hours of the railwaymen the same as the hours in a factory, from 8 o&#x2019;clock in the morning until 5 o&#x2019;clock in the afternoon, but we know this would be ridiculous, and any attempt in that direction would lead to a dislocation of the service and to retrenchment, which would do the men more harm than good. We have had a lot of hysterical criticism about what is called speeding up and about espionage in the railway workshops. I regret it is necessary to speak about this, because, in the first place, to talk about extra supervision suggests that the men are not doing their best. We all know that in every big system, whether Government or municipal, there is what is commonly called the Government stroke. I do not know from my own knowledge, but I am told that that system exists in some branches of our railway workshops. It is contended that there are a number of men&#x2014;I won&#x2019;t say a lot of them&#x2014;who do not give the efficient service they could do. A great deal of sympathy has been expressed for these men, because there has been someone put over them to supervize them and see that they do their work. I think instead of sympathizing with them we should condemn them, because if they would play the game and do the work that they are paid to do without <span class="col_1609-1610" refersTo="page_0875"/>extra supervision, the money that is paid for extra supervision could be devoted to assisting many of the poor people in the service of whom we hear. The hon. member for Benoni (Mr. Madeley) condemns this extra supervision in very round terms. Well, we are continually hearing in this House the hon. member preaching state socialism, but anybody who knows anything about state socialism must know that the reason it has failed in various cases is on account of the failure of the human factor. Nevertheless, the hon. member, by the attitude he has taken up, is assisting private enterprise to break down the few examples of state socialism which we have. The case of Australia has often been quoted. There they went in for state socialism on a large scale, but it did not matter whether it was a state railway, a state butchery or a state bakery, the men thought they were entrenched in a comfortable Government position, and instead of working in the interests of the public, as well as of themselves, they said, &#x201C;We are here, and you cannot put us out and we shall work just as we please.&#x201D; That is the reason why most of these state enterprises became unpayable and had to close down, and the men in the finish got the wrong end of the stick, for they found themselves walking the streets. In this country our biggest experiment in state socialism is the railways. We have already had it stated many times that if private enterprise were running the railways, railway rates would be lower and passenger traffic would be better organized. I say that if a proportion of men do not work efficiently to-day and if hon. members encourage them in this attitude they are practically asking for private enterprise to supersede state socialism in our railways. There is nothing wrong with state socialism&#x2014;its only weakness is the human factor&#x2014;but if we are going to do as hon. members have done in this House, show sympathy to Government employees who do not do a fair day&#x2019;s work for the money they receive state socialism is bound to be a failure. I think that hon. members, instead of making the speeches they have done, should impress upon the railway workers that the best policy for the workers, for the Government and for the public, is to have sympathetic treatment all round. We should say to the railway workers, &#x201C;You give us loyal service, and we will do the best we can for you.&#x201D; With regard to the question of differentiation of pay, which has been mentioned in this debate, hon. members opposite do not seem to appreciate that this differentiation was really brought about by their own Government. In 1923 they had a cut of 10 per cent. right throughout the Government service. Following that a trades union deputation waited upon Mr. Jagger and suggested to him that mechanics should not be placed in the same category as clerical men, inasmuch as the clerical men had continual increases of salary, whereas mechanics remained on the same scale. In reply to that deputation Mr. Jagger delayed putting the scheme into operation for 12 months. He said, &#x201C;All right, we shall issue a circular to the effect that up to August, 1924, the old hands in the service will be paid the old rates, but all new hands will be paid 10 per cent less.&#x201D; That was the beginning of the differentiation. Before August, 1924, the Government went out of power, and when the present Government came in the new Minister cancelled the circular sent out by Mr. Jagger, leaving the old hands permanently on the higher rate, but he did not alter the ruling that new entrants had to be paid 2s. less than the old hands. If you scrutinize this carefully you will find that by the action of the present Minister all the old hands in the Government service have been getting 2s. a day extra ever since the Government came into power, which it was proposed to take away from them by the previous Government, but the new entrants are in the same position as they were under Mr. Jagger. I can understand the difference between old servants and new ones in certain walks of life where the man with the longer experience is more efficient than the newcomer, but that argument does not apply in the case of mechanics. This system of differentiation has led to great dissatisfaction, and the Government in the interests of the smooth working of the workshops should alter it and bring the remuneration of the new entrants up to the same rate as that of the old workers. The argument used by the Minister that if the new entrants are not satisfied they can get out as others can be found to fill their places at the rate offered might be used against anyone in the Government service, so why should it be applied only to the mechanics. By the use of such an argument the Government is putting itself in the position of an unscrupulous employer who in advertising for an assistant, asks the applicants what wages they want and in that way gets labour at less than the ruling rate because economic pressure has made someone desperately anxious to obtain employment. With regard to the amendment the mover omitted some salient facts. The rate of pay as stated in the House is very much a question of bookkeeping, and whether privileges and allowances should be considered as part of the pay. A man employed on a mine who says he is getting &#x00A3;1 a day knows that when he receives his monthly cheque a certain amount will be deducted for housing and other services. If the Government adopted that system it would make a big difference in the face value of what the men are getting. Probationers in the unskilled department of the railway now receive 3s. a day, adults 5s. a day on joining, 5s. 6d. a day after two years&#x2019; service, and 6s. after three years&#x2019; service, with the addition of a free house and municipal services, or if they prefer it, an extra 1s. 9d. per day in the Transvaal and a little less elsewhere. The men also have medical and hospital attention for themselves and their families, which is estimated at another 1s. 4d. a day. So that the actual rates of pay work out at 8s. 1d. for adults on joining, and 9s. 1d. after three years&#x2019; service, which is actually more than called for in the amendment. At Germiston, the conditions of which I know, a house and municipal services cannot be <span class="col_1611-1612" refersTo="page_0876"/>got from a private landlord at as reasonable a rate as that charged by the Government. However, 9s. 1d. a day is not enough, and Government should wherever possible introduce the piece-work system, so as to give an energetic man who wishes to earn more an opportunity of doing so. All our young men cannot be clerks, mechanics or farmers, and white unskilled labour has become a settled policy. If we accept that policy we must reorganize the whole system, for the entire basis of our unskilled labour system is wrong. White men should be made to realize that there is nothing degrading in manual labour, and we must remove the impression that it is "only kaffirs&#x2019; work.&#x201D; It is interesting to recall how the poor whites came to be employed on the railways. They were first introduced by the late Mr. Sauer, the then Minister of Railways and Harbours, just after Union. The first experiment was made at Germiston, where there were a number of derelicts from the Boer war. They were old men and it was a question of either giving them a dole or work, and the Government decided that the best thing to do would be to give them employment on the railways at 3s. 4d. a day and free quarters. They were not expected to do much work; in fact they had been underfed for years and their physical condition would not allow them to do it. Unfortunately almost immediately people commenced to compare their work and its cost with that of well-fed, hefty natives in the prime of life, but the comparison was no test of the actual value of white unskilled labour. Later on when drought prevailed a number of country people flocked into the towns. They were physically fit, but were not trained for business or industry, and they were only too glad to accept an offer of work at 5s. a day and quarters. Unfortunately as soon as they came in contact with the other people working on the railways they imbibed the same environment, they were told they were doing kaffir&#x2019;s work and they got a feeling that they should not in any case be expected to do much for 5s. a day, although that was the best the Government could do for them under the circumstances. If we are going to continue this white labour policy we ought to try to get on to the basis of a fair day&#x2019;s work for a fair day&#x2019;s pay, and give men an inducement to use their brains and their brawn. The objection that white unskilled labour is uneconomic as compared with natives has been disproved in several places. We know that the motor traders concentrated at Port Elizabeth first of all employed a lot of coloured men and natives&#x2014;for a fortnight&#x2014; and that the cute Yankees who ran the show said these people were not economic and took on whites, recruiting the same class of men as the white labourers on the Rand. To-day we have 1,500 of these whites working at the motor works in Port Elizabeth, and earning from 12s. to 20s. a day. The organization is such that they are earning it; if they could not earn it, these people would not keep them on. My argument is that the Government should organize as these people are doing, and then they could afford to pay the men more as they would be doing more work.</p>
+
+</speech>
+
+<speech by="#mcilwraith">
+
+<from>Mr. <person refersTo="hansard_za">McILWRAITH</person>:</from>
+
+<p>Can you tell us how many days they work &#x003F;</p>
+
+</speech>
+
+<speech by="#mcmenamin">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">McMENAMIN</person>:</from>
+
+<p>No, I cannot, Then we had the very successful test of our own Labour Department, in excavating the site for the Cape Town hospital, a job which took 18 months, and as separate accounts were kept this was quite a good test. There were 100 whites and 100 coloured men working in gangs. On an average throughout the period the white men earned 10s. 3d. a day, and the coloured men 8s. 1d. The estimated cost of the job done by native labour was &#x00A3;45,000, and the white and coloured relief workers earning the wages mentioned only cost &#x00A3;50,000. These particular men were not selected for proficiency at this work&#x2014;pick and shovel&#x2014;they were picked up at random because they were out of work, and they had no inducement to hurry, for every day they were getting nearer the end of their job. If they had been trained men, there is no doubt they could have competed successfully with the natives on this particular job. If the Government were to reorganize the white labour service on the railways, there would be less men required and wages could be higher all round. There need be no retrenchment as promotions and wastage would soon right matters without increasing the Government&#x2019;s financial burden. If the Government cannot organize its labour supply as other industries have done it must be conceded that their management is inefficient. The present system (and the present wages) is not one which can commend itself to the House or the country. It is not a system which is allowing these workers to bring up their children as healthy and intelligent citizens. With meat at 1s. per pound and bread at 8d. per loaf there would be nothing to spare with &#x00A3;10 a month over and above housing, and we have 50,000 to 60,000 children growing up to-day, underfed, under-clothed and getting very little education. It seems to me that by perpetuating the present system we are creating another problem for ourselves. We had one problem with the parents of these children, and we said we cannot do anything with them, but with education we shall do something for their children. But the position is now worse for the railways are not taking on more of these people for the time being, and the lads coming to manhood are walking about unemployed. If the Government reorganize their white labour service with a view of getting greater efficiency and paying more for it, and permitting these workers to equip their children properly for the battle of life it would be a splendid investment for this country. I am going to support the motion and the amendment, not that I entirely agree with them, for they are like the curate&#x2019;s egg, only good in parts. But I hope they will make the Government realize that there is a good deal of dissatisfaction in the service and this might easily be lessened, and also to impress upon the Government the necessity for thoroughly re-organizing <span class="col_1613-1614" refersTo="page_0877"/>the white labour system, which on its present basis is expensive to the country, and could be made much more favourable to those whom it is supposed to benefit,</p>
+
+</speech>
+
+<speech by="#christie">
+
+<from>Mr. <person refersTo="hansard_za">CHRISTIE</person>:</from>
+
+<p>I think we must agree that the only good thing the hon. member said was that he was going to vote for the motion and the amendment, because his whole speech has been one of excuses, apologies and plenty of sympathy. When it comes to the question of sympathy, he might remember the expression of an old scholar, that "sympathy without relief is like mustard without beef.&#x201D; If the Government will give consideration to this motion I am quite sure they would be doing something. The Minister said that the 96 hours&#x2019; fortnight is in accordance with the report of the hours of duty committee. When the men&#x2019;s representatives on that committee signed the report as they did, they did it because they were assured that if they gave way on certain things, the report would be adopted in its entirety. They would never have foregone the eight-hour day, each day standing on its own, if they had not been assured that all the recommendations in that report would be adopted. Therefore there is a feeling abroad on the railways which does not tend to contentment, I am not going into the question of long hours worked one day and short hours the next day to balance the 96 hours&#x2019; fortnight. The fact that the Minister himself has said he is opposed to such a policy does not alter the fact that officials throughout the service are deliberately following such; and service and efficiency are suffering. The hon. member for Boksburg (Mr. McMenamim) in referring to speeding up states that, of course, there is such a thing as the Government stroke, and he excuses the necessity for speeding up, but I would point out to the hon. member that the complaint is with regard to bonus work inspectors who, after all, are only inspecting piece work. Therefore, there cannot be any question of the Government stroke. I am told that not only do these inspectors go round with a stop-watch in their hand, but that under them there is a chargeman, and a foreman, also to see that the work is done expeditiously and satisfactorily. Here we have the absurd position of men doing piece work under a chargeman and a foreman, and then we have the expense and the irritation of an inspector. My hon. friend from Boksburg ought to know that trades unionists have had to fight against employers taking the fastest man as a standard. That causes dissatisfaction, and very often indifferent work results. With the object of doing that in these shops, these inspectors have been appointed, and the works are seething with irritation and annoyance. On the top of it all, it is costing the department a very big sum of money. As far as the hon. member&#x2019;s explanation with regard to differential rates of pay is concerned, he points out that the South African party reduced it. Is that a good reason for continuing it&#x003F; If it is wrong, it should be put right, and it should have been put right long before. I might say, in connection with the amendment which asks the Government to adopt the minimum wage of 8s. a day, hon. members on the Government benches have tried to explain that there are other benefits which make it 9s. 1d. Nevertheless, the wage as paid is 5s. 6d. per day, increasing by 6d. a day after a year&#x2019;s service, up to 6s. 6d. After all, these extras have to be given to these people. You have to give these low paid men medical service. The sick fund has been compelled to charge 3s. 6d. per month to the unskilled white labourers, because of the tremendous demands made on the sick fund by those poor people. Now these people have to contribute to the fund. I think I know exactly where the sick fund stands. Let me tell the Minister that those unskilled white labourers come into the big towns with families of five, six and seven children, and those children are not able to stand up to going to school because their parents cannot feed them well enough. What is the result&#x003F; The parents take the children to the sick fund doctor. The doctor sees that they are not in the condition they ought to be in, and he recognizes that it is for want of nourishment. If the Minister will examine his sick fund accounts, he will see that he is spending thousands of pounds a year on malt extract and other foods which the doctor is compelled to order for those children. That of itself shows the necessity of seeing that those people should get another couple of shillings a day, so that they may be able to provide more nourishment for themselves and their children. I hope the Minister will give due attention to that point As far as we are concerned, the attitude we take up is that which we took up in 1926 and on other occasions. I welcome some of my ex-colleagues, I welcome their support, because they have declared they will support the amendment. They are now on the right road, and doing a thing that will be of much more utility than excusing what the Government is doing. I remind the Minister that the bulk of the people who are affected by the amendment, the 8s. amendment, are people who have voted Nationalist in season and out of season, people who have believed in the Nationalist cause, and believed that the National party would help them in their aspirations. From what I have seen amongst those people I can say that they are being sorely tried in their allegiance to the National party. The hon. member for Fordsburg (Mr. Pretorius) knows that they are sorely tried, and the Minister of Railways and Harbours knows that that is so. They are becoming bitter about it, and I hope that due consideration will be given to the matter, and that the Government will accept the amendment, and then they can do something that will help towards the building up of that white South Africa that the National party has always said they support.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>During the course of the de bate the hon. member for Wakkerstroom (Mr. A. S. Naud&#x00E9;) made a statement that members of the National Council were now attending the caucuses of the South African party. That is not true. It is a deliberate untruth.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from><span class="col_1615-1616" refersTo="page_0878"/>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member is accusing another hon. member of deliberate falsehood, and he must withdraw that.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>Yes, it is a mistake; an unfortunate one. This motion would never have been before this House were it not for a serious breach of faith on the part of the Government. I would not be representing the constituency I do but for that breach of faith. The Hours of Duty Committee consisted of five, and the committee were told that if they presented a unanimous report, the Government would adopt the report of the committee in regard to the running staff, otherwise there would have been a minority report. Here is their recommendation&#x2014;</p>
+
+<block name="quote">That a general eight-hour day on the basis of a guaranteed fortnight of 96 hours should be applied to all sections of the running staff.</block>
+
+<p>Now that has never been done, and that is the cause of the trouble. The men on the running staff are not wanting more pay, as the hon. member for Bloemfontein (North) (Mr. Shaw) said. These men want each day to stand by itself, as was the case under the previous Administration. The pool system for drivers has proved a failure. It is here where these unfortunate men are called upon to do excessive hours, for which they are not paid, and this constitutes a grave danger to the travelling public. The men are worn out mentally and physically with excessive hours, and I am surprised we are not having more accidents from that cause; but the derailment of trains is a daily occurrence. Overtime pay is costing the Administration &#x00A3;30,000 more in 1929 than the previous year through derailments caused by excessive hours&#x2014;</p>
+
+<block name="quote">Now at De Aar and Kimberley there has been an endeavour from the system manager&#x2019;s office at Kimberley to combine the two dep&#x00F4;ts, Kimberley and De Aar, into common working for the purpose of, not keeping down overtime, but for compensating overtime work by idle time inflicted. The running men themselves have had a meeting with the system manager of Kimberley for the purpose of emphasizing how the time schedules are being manipulated in order to balance overtime worked in the pool system. What really happens is that if a set of De Aar running men work from De Aar to Kimberley, as usual, if it is found they are in danger of extending their pool, they are left lying off at Kimberley for an unreasonable length of time. Then search is made for Kimberley men, who are short of their pool, and they are sent to De Aar and back again while the De Aar men lie off idle at Kimberley. This system often leaves the men short of time at their home station, where their houses, their wives and families are, and leaves them idling away their time at places where they have only rest-rooms until the time comes for their next turn to proceed home.</block>
+
+<p>These are examples sent to the system manager at Kimberley. I hope my hon. friend, the member for Winburg (Dr. N. J. van der Merwe) will pay attention&#x2014;</p>
+
+<block name="quote">(1) December 19th. A De Aar guard, named Marais, arriving at Kimberley after nine hours&#x2019; duty, was laid off at Kimberley for 19 hours 8 minutes. (2) January 8th. A De Aar driver working to Kimberley, was booked off there for 13 hours away from his home station, while on the same day a Kimberley driver was diverted from his northern route and sent to De Aar, where on arrival he remained 8 hours off duty. (3) January 10th. A De Aar guard of No. 7 down, arrived at Kimberley at 7.27 p.m. and was retained at Kimberley 14 hours 43 minutes. (4) January 10th. A De Aar guard working 83 down was kept 11 hours 30 minutes at Kimberley before his return was arranged. (5) January 11th. A De Aar guard worked to Kimberley, and was kept there 16 hours before being arranged to return.</block>
+
+<p>I have a number more, but that is sufficient to show how the system is being worked. The operating officers work these men 12 and 14 hours, and so manipulate their time on their pool of the fortnight that they make them work three days 14 hours by side contract away from their home, so that they shall not accumulate overtime. Could any more pernicious system exist&#x003F; I warn the Government that this system must be abrogated, or serious trouble will result. These men say body and mind will not stand these excessive hours. Men who work the passenger trains say they cannot stand it, and they cannot be responsible for what they do in a long run in a tropical country like this. Imagine a driver of a passenger train, travelling 243 miles when the 8-hour day is represented by 130 miles. It is a cruel, dangerous and also expensive system. We are piling up overtime when men are waiting for break-down gangs to clear derailments. That is how the overtime of daily paid men is mounting up. It is unreasonable to expect men to be on duty more than eight hours. Now, as far as the artizan staff is concerned, I have gone into the figures very carefully, and I find it will only affect 2,000 men. That means between &#x00A3;50,000 and &#x00A3;60,000 a year. It would be economy to adopt it, because you would establish contentment, and you would have greater efficiency and safety. Nowhere in the world is any Government or any institution paying double pay for identical work. I hope in this respect that the House will favourably consider the motion and will adopt it. It is idle to say that the South African party were responsible for this cut. We admit it was. It was done at a time when depression was stalking through the land, and it was only intended as a temporary cut. That time passed and a new Government came in. The new Government boasted about its railway surplus and its budget surplus, but they made no move <span class="col_1617-1618" refersTo="page_0879"/>whatsoever to rectify this state of affairs. They had promised on the hustings that they would do so. The hon. Minister of Railways and Harbours and the Minister of Finance, all of them, promised on the hustings in 1924 that they would put these things right. They made a great point of the sins of the South African party in bringing about the Jagger cut. But there was justification for it. In 1924, when the new Government came into office, the tide had turned and money was flowing into the coffers. I appeal to this House, to the humanity of this House, to the fairmindedness of it, I appeal to the House on both sides, to support this motion.</p>
+
+</speech>
+
+<p>Amendment put and the House divided:</p>
+
+<p>Ayes&#x2014;32.</p>
+
+<p>Abrahamson, H.</p>
+
+<p>Acutt, F. H.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Borlase, H. P.</p>
+
+<p>Bowen, R. W.</p>
+
+<p>Bowie, J. A.</p>
+
+<p>Brown, G.</p>
+
+<p>Buirski, E.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Chiappini, A. J.</p>
+
+<p>Christie, J.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Eaton, A. H. J.</p>
+
+<p>Friend, A.</p>
+
+<p>Tellers: Gilson, L.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Jooste. J. P.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Kotze, R. N.</p>
+
+<p>Lawrence, H. G.</p>
+
+<p>Madeley, W. B.</p>
+
+<p>McIlwraith, E R.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Pocock. P. V.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Robinson, C. P.</p>
+
+<p>Rockey, W.</p>
+
+<p>Shaw, F.</p>
+
+<p>Wares, A. P. J.</p>
+
+<p>Williamson, J.</p>
+
+<p>Tellers : Gilson, L. D.; O&#x2019;Brien, W. J.</p>
+
+<p>Noes&#x2014;55.</p>
+
+<p>Alberts, S. F.</p>
+
+<p>Bekker, J. F. van G.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>De Jager, H. J. C.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>Du Toit, C. W. M.</p>
+
+<p>Du Toit, F. D.</p>
+
+<p>Du Toit, M. S. W.</p>
+
+<p>Du Toit, P. P.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Fourie, A. P. J.</p>
+
+<p>Geldenhuys, C. H.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Haywood, J. J.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Heyns, J D.</p>
+
+<p>Jansen, E. G.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Moll, H. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Oost, H.</p>
+
+<p>Potgieter, C. S. H.</p>
+
+<p>Pretorius. T. S. F.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Roberts, F. J.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, K.</p>
+
+<p>Sampson, H. W.</p>
+
+<p>Sauer, P. O.</p>
+
+<p>Stals, A. J.</p>
+
+<p>Steyn, G. P.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Strydom, J. G.</p>
+
+<p>Swanepoel, A. J.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van der Merwe, R. A. T.</p>
+
+<p>Van Hees, A. S.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Vermooten, O. S.</p>
+
+<p>Verstor, J. D. H.</p>
+
+<p>Visser, W. J. M.</p>
+
+<p>Wentzel, L. M.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Wolfaard, G. v. Z.</p>
+
+<p>Tellers: Malan, M. L.; Roux, J. W. J. W.</p>
+
+<p>Amendment accordingly negatived.</p>
+
+<p>Original motion put and the House divided:</p>
+
+<p>Ayes&#x2014;33.</p>
+
+<p>Abrahamson, H.</p>
+
+<p>Acutt, F. H.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Borlase, H. P.</p>
+
+<p>Bowen, R. W.</p>
+
+<p>Bowie, J. A.</p>
+
+<p>Brown, G.</p>
+
+<p>Buirski, E.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Chiappini, A. J.</p>
+
+<p>Christie, J.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Eaton, A. H. J.</p>
+
+<p>Friend, A.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Jooste, J. P.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Kotz&#x00E9;, R. N.</p>
+
+<p>Lawrence, H. G.</p>
+
+<p>Madeley, W. B</p>
+
+<p>McIlwraith, E. R</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Nathan, E.</p>
+
+<p>Pocock, P. V.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Robinson, C. P.</p>
+
+<p>Rockey, W.</p>
+
+<p>Shaw, F.</p>
+
+<p>Wares, A. P. J.</p>
+
+<p>Williamson, J.</p>
+
+<p>Tellers: Gilson, L. D.; O&#x2019;Brien, W. J.</p>
+
+<p>Noes&#x2014;53.</p>
+
+<p>Alberts, S. F.</p>
+
+<p>Bekker, J. F. v. G.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>De Jager, H. J. C.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>Du Toit, C. W. M.</p>
+
+<p>Du Toit, F. D.</p>
+
+<p>Du Toit, M. S. W.</p>
+
+<p>Du Toit, P. P.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Faure, A. P. J.</p>
+
+<p>Geldenhuys, C. H.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Haywood, J. J.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Jansen, E. G.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Moll, H. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Oost, H.</p>
+
+<p>Potgieter, C. S H.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Rood, K.</p>
+
+<p>Rood, W H.</p>
+
+<p>Sampson, H. W.</p>
+
+<p>Sauer, P. O.</p>
+
+<p>Stals, A. J.</p>
+
+<p>Steyn, G. P.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Strijdom, J. G.</p>
+
+<p>Swanepoel, A. J.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van der Merwe. N. J.</p>
+
+<p>Van der Merwe, R. A. T</p>
+
+<p>Van Hees, A. S.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Vermooten, O. S.</p>
+
+<p>Verster, J. D. H.</p>
+
+<p>Visser, W. J. M.</p>
+
+<p>Wentzel, L. M.</p>
+
+<p>Wessels. J. B.</p>
+
+<p>Tellers: Malan, M. L.; Roux, J. W. J. W</p>
+
+<p>Motion accordingly negatived.</p>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I think that hon. members opposite, after the abdication of their leaders, will welcome the adjournment of the House.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1930-03-07T17:45:00">5.45 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

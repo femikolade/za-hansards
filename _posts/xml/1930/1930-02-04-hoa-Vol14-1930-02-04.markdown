@@ -1,0 +1,1405 @@
+---
+title: 'House of Assembly: Vol14 - TUESDAY 4 FEBRUARY 1930'
+layout: debate
+year: 1930
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 4th FEBRUARY, 1930.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1930-02-04T14:20:00">2.20 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#oath_of_allegiance">
+
+<heading>OATH OF ALLEGIANCE.</heading>
+
+<p>Mr. McIlwraith, introduced by Col.-Cdt. Collins and Mr. Kayser, made and subscribed to the oath and took his seat.</p>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Municipal Rates on Government Property.</heading>
+
+<question by="#waterson" to="#minister_of_finance">
+
+<num>I.</num>
+
+<from>Mr. WATERSON</from>
+
+<p>asked the Minister of Finance whether it is intended to introduce during the current session legislation in regard to the payment of rates on Government properties in municipal areas&#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#waterson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>Yes.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Alfred Nelson.</heading>
+
+<question by="#roper" to="#minister_of_justice">
+
+<num>II.</num>
+
+<from>Mr. ROPER</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether one Alfred Nelson was apprehended by the Cape Town police on the 15th March, 1920, on suspicion of being of unsound mind;</li>
+
+<li>(2) whether such apprehension was based upon information given to the police by certain individuals, and, if so, what are the names of such individuals;</li>
+
+<li>(3) whether the said Nelson was thereupon lodged in the police cells and removed to the Valkenberg Mental Hospital by the police on the following day;</li>
+
+<li>(4) whether the said Nelson was medically examined before being so removed, and, if so, by whom;</li>
+
+<li>(5) whether, if so examined, the medical officer who examined him granted a certificate that he was of unsound mind; and</li>
+
+<li>(6) whether the Minister will lay upon the Table the papers relating to this case&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#roper">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Yes; the sources of information are privileged, and it would be contrary to public policy and detrimental to the public interest if divulged.</li>
+
+<li>(3) Yes.</li>
+
+<li>(4) Yes, by police medical officer.</li>
+
+<li>(5) Yes; certified by the medical officer and three qualified doctors.</li>
+
+<li>(6) No. The papers contain privileged information which cannot be divulged, but the hon. member may inspect them at my office.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Coal Contracts.</heading>
+
+<question by="#robinson" to="#minister_of_railways_and_harbours">
+
+<num>III.</num>
+
+<from>Mr. ROBINSON</from>
+
+<p>asked the Minister of Railways and Harbours whether he will lay upon the Table a return showing the coal contracted for at present by the Railways and Harbours Administration, in accordance with the following particulars, viz.:</p>
+
+<ol>
+
+<li>(a) Monthly tonnage of coal contracted for from Witbank district (i) for loco, purposes, (ii) for all other purposes;</li>
+
+<li>(b) monthly tonnage of coal contracted for from Breyten district, (i) for loco, purposes, (ii) for all other purposes;</li>
+
+<li>(c) monthly tonnage of coal contracted for from Natal, (i) for loco, purposes, (ii) for all other purposes;</li>
+
+<li>(d) average calorific value of coal contracted for, for loco, purposes, as above, (i) from Witbank, (ii) from Breyten, (iii) from Natal; and</li>
+
+<li>(e) average price per ton paid f.o.r. pit&#x2019;s mouth, (i) from Witbank district, (ii) from Breyten, (iii) from Natal&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#robinson">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>The information desired by the hon. member is as follows:</p>
+
+<ol><li>(a) (i) 145,000; (ii) 848.</li>
+
+<li>(b) (i) 51,000; (ii) Nil.</li>
+
+<li>(c) (i) 49,400; (ii) 967.</li>
+
+<li>(d) (i) 12.47; (ii) 12.28; (iii) 13.74.</li>
+
+<li>(e) (i) 5s. 8.9d.; (ii) 5s. 2.5d.; (iii) 5s. 1.25d.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#railways:_promotion_committee">
+
+<heading>RAILWAYS: PROMOTION COMMITTEE.</heading>
+
+<question by="#sturrock" to="#minister_of_railways_and_harbours">
+
+<num><span class="col_359-360" refersTo="page_0249"/>IV.</num>
+
+<from>Mr. STURROCK</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a committee has been established in the Railways and Harbours Administration for the purpose of recommending or deciding any or all matters of promotion arising in the service; and, if so,</li>
+
+<li>(2) how and by whom is such committee appointed, and what is its personnel&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#sturrock">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (a) There is a promotion selection committee in the general manager&#x2019;s office to examine nominations submitted by heads of departments, and advise the general manager thereon. This committee functions in respect of salaried appointments between &#x00A3;410 and &#x00A3;600 per annum, (b) There is also a promotion selection committee at the headquarters of each system manager and other head of department to examine the claims of officers eligible for promotion to salaried appointments up to and including grade II (&#x00A3;390 per annum) or the equivalent and advise the head of department thereon by whom such appointments are decided.</li>
+
+<li>(2) These committees usually consist of three responsible officers and are appointed in the case of (a) by the general manager and in the case of (b) by the head of the department concerned. The constitution and functions of these committees are in accordance with the recommendations of the conciliation board. The personnel varies according to the nature of the appointments to be filled, e.g., if the appointment is a mechanical post, a mechanical officer is included in the personnel of the selection committee.</li>
+
+</ol>
+
+</answer>
+
+<oralStatements>
+
+<heading>Natives, Mines and Compensation.</heading>
+
+<question by="#payn" to="#minister_of_finance">
+
+<num>V.</num>
+
+<from>Mr. PAYN</from>
+
+<p>asked the Minister of Native Affairs whether, as undertaken last session, he has made enquiries into the matter of compensation to natives partially or permanently incapacitated whilst in employment on the mines, and, if so, with what result &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#payn">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Irrigation Registrations.</heading>
+
+<question by="#bekker" to="#minister_of_native_affairs">
+
+<num>VI.</num>
+
+<from>Mr. BEKKER</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol>
+
+<li>(1) Whether the affidavits with attached reports which Attorney Kruger of Steynsburg forwarded to the Registrar of the Water Court, South (P.O. Box 23, Cape Town), on the 19th and 20th February, 1929, and the receipt of which was duly acknowledged on the 26th February, 1929, have been registered; and, if not, when the said registration will take place;</li>
+
+<li>(2) whether the above-mentioned affidavits and transfers, similar affidavits or transfers, or a section of similar affidavits were handed to any private firm of attorneys; and, if so, by whom, on whose authority and for what reason; and</li>
+
+<li>(3) whether any affidavits regarding an application by the Great Fish River Irrigation Board have, in accordance with the rules of the Water Court, been registered; if so, how many; and, if not, whether the Minister will take into favourable consideration the question of expediting such registration &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#bekker">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>South Africa House, Newspapers For.</heading>
+
+<question by="#anderson" to="#minister_of_the_interior">
+
+<num>VII.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) What South African newspapers and periodicals are provided in the reading room at South Africa House, London, and in what language are they printed;</li>
+
+<li>(2) how many copies of each issue of such newspapers or periodicals are so provided;</li>
+
+<li>(3) what is the cost therof; and</li>
+
+<li>(4) whether the Minister is satisfied that the provision made is ample &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The particulars asked for by the hon. member will be furnished as soon as they are available.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Mrs. Wynne, Dismissal of.</heading>
+
+<question by="#lawrence" to="#minister_of_railways_and_harbours">
+
+<num>VIII.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the services of Mrs. Gertrude Mary Wynne, who was employed by the catering department of the Railways and Harbours Administration as a waitress at De Aar, were dispensed with as from the 12th December, 1929, in terms of the contract of service entered into by her when joining the service;</li>
+
+<li>(2) whether the said Mrs. Wynne is a widow with four young children, and is dependent upon what she earns for her support;</li>
+
+<li>(3) what were the reasons for the termination of Mrs. Wynne&#x2019;s services;</li>
+
+<li>(4) whether her position as a waitress has been filled by any other person; and</li>
+
+<li>(5) what is the total number of the catering staff employed at De Aar (a) at the time of Mrs. Wynne&#x2019;s dismissal and (b) at the present time &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#lawrence">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Yes. Three of the children are in the Railway Children&#x2019;s Home.</li>
+
+<li>(3) Discourtesy to customers.</li>
+
+<li>(4) Yes.</li>
+
+<li>(5) (a) 17; (b) 14.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Sheep Inspector G. L. Joubert.</heading>
+
+<question by="#lawrence" to="#minister_of_agriculture">
+
+<num>IX.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether Gert Louis Joubert, a sheep inspector of Williston, Cape Province, was <span class="col_361-362" refersTo="page_0250"/>found guilty of the crime of theft at the Circuit Court, Calvinia, on the 21st September, 1929, and sentenced to two years imprisonment with hard labour;</li>
+
+<li>(2) when was the said Joubert engaged by the Department of Agriculture as a sheep inspector;</li>
+
+<li>(3) what were his qualifications for such appointment; and</li>
+
+<li>(4) whether, at the time of making the appointment, the Department was aware that he had a number of previous convictions &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#lawrence">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) 23rd September, 1927.</li>
+
+<li>(3) (a) He completed the usual course at the Johannesburg abattoirs where he showed good knowledge of sheep and scab; (b) practical sheep farming at Senekal; (c) knowledge of official and Basuto languages; (d) clerical experience.</li>
+
+<li>(4) No.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Housing.</heading>
+
+<question by="#lawrence" to="#minister_of_the_interior">
+
+<num>X.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of the Interior whether, in view of his statement during the last session of Parliament, it is his intention to introduce legislation this session dealing with the housing question, and, if so, when &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#lawrence">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<p>The question of further measures regarding the housing of the poorer classes and the removal or improvement of insanitary dwellings or areas has been receiving the careful consideration of the Government. I have arranged to meet and discuss the whole matter with representatives of the Provincial Administrations, local authorities and other bodies specially concerned on 18th instant, after which I hope to make a statement on the subject in the House.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Public Service: Mr. Steyn.</heading>
+
+<question by="#pocock" to="#prime_minister">
+
+<num>XI.</num>
+
+<from>Mr. POCOCK</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) To what division of the public service has the office of consul at Louren&#x00E7;o Marques been assigned;</li>
+
+<li>(2) by what authority was the assignment made;</li>
+
+<li>(3) under what section of the Public Service Act of 1923 was the present incumbent of the office appointed thereto;</li>
+
+<li>(4) on what date did Mr. Steyn take up his appointment, and from what date was he paid his salary and emoluments;</li>
+
+<li>(5) whether he has been absent from his post since his appointment, and, if so, whether it was on private or public affairs; and</li>
+
+<li>(6) if the latter, what was the nature of the work on which he was engaged, and if the former whether he was granted leave on full or part pay, and, if so, under what regulation was such leave granted &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#pocock">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) Administrative Division.</li>
+
+<li>(2) By direction of the Public Service Commission under the powers delegated to it by the Governor-General in terms of Section 1 (7) of Act 27 of 1923,</li>
+
+<li>(3) Section 11 (b).</li>
+
+<li>(4) 1st September, 1929.</li>
+
+<li>(5) Mr. Steyn was granted leave of absence after taking up his post, but was recalled from leave to assist the High Commissioner in London.</li>
+
+<li>(6) Leave on full pay was granted in terms of public service regulation No. 55 (6). During the period that he was required to assist the High Commissioner he was employed on special work pertaining to the Department of External Affairs.</li>
+
+</ol>
+
+</answer>
+
+<question by="#pocock" to="#prime_minister">
+
+<from>&#x2020;Mr. POCOCK:</from>
+
+<p>Might I ask if the Prime Minister will state whether Mr. Steyn was instructing the High Commissioner in his duties or whether the High Commissioner was instructing Mr. Steyn in his new duties as consul at Louren&#x00E7;o Marques&#x003F;</p>
+
+</question>
+
+<answer by="#prime_minister" to="#pocock">
+
+<from>The PRIME MINISTER:</from>
+
+<p>No, I do not think the House expects me to answer a question of that kind.</p>
+
+</answer>
+
+<question by="#nathan" to="#prime_minister">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p>Will the Prime Minister tell us whether his Majesty&#x2019;s subjects are not already represented by a British consul there&#x003F;</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cattle: Tuberculosis.</heading>
+
+<question by="#abrahamson" to="#minister_of_agriculture">
+
+<num>XII.</num>
+
+<from>Mr. ABRAHAMSON</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether the Agricultural Department has any reliable knowledge as to what extent the herds of the country are infected with tuberculosis:</li>
+
+<li>(2) what number of animals slaughtered for human consumption at the public abattoirs and slaughter houses of the Union have been found infected with tuberculosis;</li>
+
+<li>(3) whether anything is done to trace the herds from which these animals come, and, if so, whether they are controlled or kept under observation;</li>
+
+<li>(4) what is being done to protect the public against the sale of animals or dairy produce from herds known to be infected with tuberculosis;</li>
+
+<li>(5) what number of herds in the Union have been tested during the last five years at the request of owners, how many have re-acted, and how many have proved to be clean;</li>
+
+<li>(6) in respect of those that have re acted, what action has been taken;</li>
+
+<li>(7) whether the Government has compulsorily tested all herds in the Union which to its knowledge are infected or which it has good reason to suspect were infected;</li>
+
+<li>(8) whether the Government has quarantined all herds in which to its knowledge one or more infected animals have been disclosed by the tuberculine test or otherwise, and, if not, what restrictions have been placed on the sale of these animals or produce <span class="col_363-364" refersTo="page_0251"/>from them; and</li>
+
+<li>(9) whether, if the present policy of the Government with regard to tuberculosis is not adequate, immediate action in the direction of strengthening that policy will be taken &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#abrahamson">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Accidents at York Road.</heading>
+
+<question by="#lawrence" to="#minister_of_railways_and_harbours">
+
+<num>XIII.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a fatal accident took place on the 13th December, 1929, at the York Road level crossing, Wynberg, as a result of which Lieut. Howard Crockett, R.N., met his death;</li>
+
+<li>(2) whether the attention of the Minister has been drawn to the following comments made at the subsequent inquest by the chief magistrate of Wynberg: &#x201C;The Court &#x2026;. is of opinion that the Railway Department has not discharged its obligations to the public by reason of its failure to provide signalmen at the crossing, especially in view of the fact that there are no booms or gates at the crossing. The court is also of the opinion that the warning bells are inadequate&#x201D;;</li>
+
+<li>(3) whether any steps were taken by the Administration after the accident to provide signalmen at the crossing, or to provide other means for ensuring safety; and</li>
+
+<li>(4) whether another fatal accident took place at the same level crossing on Saturday, 25th January, 1930, resulting in the death of a Slightly deaf pensioner, aged 82 years, who was knocked down by an electric train when walking over the crossing &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#nathan">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) and (2) Yes.</li>
+
+<li>(3) No; warning boards and loud-tone bells, which can be clearly heard for some distance before the crossing is reached, are provided. The crossing is one regarding which the Level Crossings Commission recommended&#x2014;</li>
+
+</ol>
+
+<block name="quote">that a vehicular subway be constructed at this point or at Park Road or between those points as may be found most convenient.</block>
+
+<p>In accordance with its policy, the Administration is prepared to share with municipalities or local authorities concerned the cost of providing a subway or an overhead bridge where such is considered necessary. The level crossing problem as affecting the Cape Town-Simon&#x2019;s Town line is to be discussed at an early date with representatives of the Cape Town municipality at a special meeting arranged for that purpose.</p>
+
+<ol>
+
+<li>(4) Yes.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Police Transfers.</heading>
+
+<question by="#lawrence" to="#minister_of_railways_and_harbours">
+
+<num>XIV.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether several members of the railway police staff have made application for transfer to other departments;</li>
+
+<li>(2) whether a notice has been issued to the police staff at the Cape Town docks to the effect that those who apply to be transferred to another grade can do so only on reduction to the learner grade and on the servant undertaking in writing to sacrifice any pay he may be earning above 8s. per day; if so,</li>
+
+<li>(3) (a) on whose authority was the notice issued and (b) whether such a reduction in remuneration is provided for in the Employees Staff Regulations; and,</li>
+
+<li>(4) whether it is quite common for a railway employee to be transferred from one grade to another without loss of pay, and some times with an increase of pay, without reverting to a learner grade &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#lawrence">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) and (2) Yes.</li>
+
+<li>(3) (a) The notice was issued by the railway police inspector, Cape Town, (b) An employee, desirous of changing his grade and who is required to be trained in his new duties, becomes a learner and is paid at a learner&#x2019;s rate as laid down in the Staff Regulations.</li>
+
+<li>(4) No. Where servants apply for transfer to positions which require a definite period of training in the learner&#x2019;s grade, such servants are required to accept learners&#x2019; rates on transfer.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Cape Town Suburban Staff Reductions.</heading>
+
+<question by="#lawrence" to="#minister_of_railways_and_harbours">
+
+<num>XV.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether steps have recently been taken by the Railway Administration to ascertain whether any reduction can be made in the staff at present employed at the various suburban railway stations in the Cape Peninsula; and, if so,</li>
+
+<li>(2) (a) why and (b) what decision has been taken by the Administration &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#lawrence">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) (a) To reduce expenditure; (b) no decision has yet been taken.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Blanket Factories.</heading>
+
+<question by="#payn" to="#minister_of_finance">
+
+<num>XVI.</num>
+
+<from>Mr. PAYN</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) How many factories are there in the Union manufacturing cotton blankets and / or cotton sheeting; and</li>
+
+<li>(2) how many European employees are there in such factory or factories, respectively, how many coloured and how many native &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#payn">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Promotions and Languages.</heading>
+
+<question by="#steenkamp" to="#minister_of_railways_and_harbours">
+
+<num><span class="col_365-366" refersTo="page_0252"/>XVII.</num>
+
+<from>Dr. STEENKAMP</from>
+
+<p>asked the Minister of Railways and Harbours how many officials, English-speaking and Afrikaans-speaking respectively, were promoted to Grade I and higher grades from the 1st January, 1929, to the 31st December, 1929 &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#payn">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Assuming that the hon. member&#x2019;s question refers to the mother tongue of such officials, it is regretted that the information desired cannot be given for the reason that it is not necessary to keep records of such particulars, it being sufficient, for the purposes of the Railways and Harbours Service Act, to establish whether an official possesses the language qualifications laid down in that Act.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Farmer Auctioneers.</heading>
+
+<p>The MINISTER OF FINANCE further replied to Question XIV by Mr. Marwick, asked on 21st January.</p>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the fact that the Revenue Department of the Treasury has intimated that farmers&#x2019; organizations engaged in direct auctioneering and the selling of members&#x2019; cattle on a co-operative basis are liable for licence fees under Act No. 32 of 1925, plus penalties for having operated in the past without licences;</li>
+
+<li>(2) whether it is true that in the case of the South Waterberg farmers&#x2019; associations the sum of &#x00A3;100, covering operations for the year 1926, has been demanded; if so,</li>
+
+<li>(3) what action has the Minister taken with a view to farmers&#x2019; associations being rendered exempt from such charges; and</li>
+
+<li>(4) whether the Minister is prepared to introduce an amendment of the Act so as to allow all farmers&#x2019; associations to sell the produce of their members without licence &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) No such general intimation has been given. Persons auctioneering on behalf of associations for promotion of agriculture are exempt under Act 32 of 1925 provided any such association does not hold more than four fairs or markets in one year.</li>
+
+<li>(2) (a) South Waterberg Farmers&#x2019; Association, which is not a registered co-operative society, held during years 1926, 1927 and 1928 more than four sales annually and persons who conducted the sales in excess of four each year are liable to payment of licence duty, (b) The Department of Inland Revenue is seeking information as to constitution of the association and the names of the persons who conducted the sales with a view to the recovery of any licence duty payable.</li>
+
+<li>(3) and (4) As sales by persons on behalf of farmers&#x2019; associations would be in direct competition with licensed auctioneers it would be undesirable to introduce any exemption. If associations arrange for the carrying on of a form of business for which Parliament has made a licence necessary, no good grounds exist for excluding them from the general liability. The existing exemption is considered adequate for relieving casual sales.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Death Duties, Double.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question XVII by Mr. Bowie, standing over from 31st January.</p>
+
+<question by="#bowie" to="#minister_of_finance">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether all British dominions, colonies, possessions and dependencies, with the exceptions of South Africa and the Province of Quebec, have reciprocating arrangements with the British Treasury to avoid double death duties;</li>
+
+<li>(2) whether, on account of the double death duties, British investors are inclined to avoid employing their capital in South African securities and industries; and</li>
+
+<li>(3) whether it is the intention of the Union Government to take steps in the near future to bring about reciprocity in this matter of double death duties between Great Britain and the Union of South Africa &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#bowie">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) While unable to say definitely what is the present position between Great Britain and all British dominions, colonies and other dependencies, I may say that it has not as yet been found possible to secure for the Union the benefits of an Order of Council under section 20 of the British Finance Act of 1894, owing to the divergence of opinion between the two countries on the local situation of shares&#x2014;a matter of supreme importance to this country.</li>
+
+<li>(2) and (3) While I am not aware that any disinclination to employ their capital in South Africa has been manifested by British investors, I fully appreciate the desirability of securing a favourable arrangement between the two countries. The matter has already been discussed between representatives of the two countries, and it is intended to raise the question again at an early date.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#petition_j._s._van_rooyen_and_others">
+
+<heading>PETITION J. S. VAN ROOYEN AND OTHERS.</heading>
+
+<speech by="#van_broekhuizen">
+
+<from>Dr. <person refersTo="hansard_za">VAN BROEKHUIZEN:</person></from>
+
+<p>I move, as an unopposed motion, and pursuant to notice&#x2014;</p>
+
+<block name="quote">That the petition of J. S. van Rooyen and 61 others, patients in the West Fort Leprosy Institution, Pretoria, praying for an enquiry into the question of compulsory and permanent segregation in cases of leprosy, presented to this House on the 2nd August, 1929, be referred to the Government for consideration.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#soil_erosion">
+
+<heading>SOIL EROSION.</heading>
+
+<speech by="#stals">
+
+<from><span class="col_367-368" refersTo="page_0253"/>*Dr. <person refersTo="hansard_za">STALS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That, in view of the undeniable proof of the increasing desiccation of the country and the far-reaching results thereof for the present and future generations, and seeing that this process of desiccation is the result of the actions or omissions of the inhabitants themselves, this House requests the Government to consider the advisability of appointing a commission to enquire into the whole question of rain-causing influences, water conservation, erosion of the soil, forest fires, afforestation and kindred matters, to make recommendations for the protection, promotion and coordination of the different interests and for the more effective carrying out of existing and future legislation in order to protect and safeguard the most valuable asset of the people of the Union of South Africa.</block>
+
+<p>In introducing this motion I make no apology for taking up the time of the House to debate the subject in view of the incidence of the rainfall and what is concerned with it. I think it is not only a privilege to bring it up in the House, but it is, in my opinion, our absolute duty to consider the factors which contribute to the conditions of the rainfall, and to take steps as far as possible to get the most favourable conditions in South Africa. This is, in the first place, an agricultural country, and will probably remain so for hundreds of years, at least as long as conditions remain favourable. While we have a few towns which depend on mining, the population of South Africa is chiefly dependent on agriculture, which, in turn, depends on the rainfall. Agriculture last year produced the considerable sum of about 30 million pounds, which is a tremendous income for the white population of our country. Moreover, large sums have been spent on irrigation works, and everybody will understand that the success of those works depends on the flow of rivers. Then we have our growing industries that are dependent on agricultural produce, while a considerable part of our population in the towns live on those industries. I want to point out that history teaches us that lands which were agricultural lands and have dried up, and which were formerly independent, prosperous, and self-supporting countries, have to-day not only become dependent, but also become uninhabitable. I am certain that if the people and the Government of South Africa are not fully aware of the drying up of our country, with the Kalahari close by, the sad prophecy of the drought commission will be realized, viz., we must expect a dried-up and uninhabitable South Africa. I want to convince hon. members that I am not expressing merely my own conclusions here, but I want therefore to give the names of the books of experts who have come to this conclusion. The first is the report of the Senate commission of 1914; the second is the report of the drought enquiry commission of 1923, the third is the report of the Kalahari commission of 1925, the fourth &#x201C;Veld-burning Experiments&#x201D; by M. L. Loyers, and further the standard works on this subject, &#x201C;Kalahari, or Thirst-land Redemption&#x201D; by Prof. Schwartz (1920), and &#x201C;Dry South Africa&#x201D; by Dr. J. D. Schonken (1921), and finally the report of the irrigation committee. These reports and books are scientific, and no one doubts the data. I would like hon. members who doubt my facts at all to consult these works. First I shall quote data to support my allegation that South Africa is drying up. The strongest proof is found in the report of the drought commission which made a study for years of the matter. Allow me to quote from this report. We find the following in paragraph 3&#x2014;</p>
+
+<block name="quote">Two points, however, seem firmly established; firstly, that a large portion of South Africa was dry long before the white man arrived; and, secondly, that since the white man has been in South Africa enormous tracts of country have been entirely or partially denuded of their original vegetation, with the result that rivers, vleis and water-holes described by old travellers have dried up or disappeared. This drying out of extensive areas of the Union is still proceeding with great rapidity in many portions of the country&#x2014;we must not forget this was only written six years ago&#x2014;and in parts now apparently too dry to permit of their growth, tree stumps of indigenous and exotic trees would seem to corroborate the human evidence to that effect.</block>
+
+<p>Further the Senate Commission in its report of 1914 says-&#x2014;</p>
+
+<block name="quote">Your commission wishes to state that the evidence as to the progress of erosion and desiccation has been most definite, and the most irresistible conclusion is, that many parts of the Union, in spite of the apparent constancy of the total amount of rainfall, have been slowly but surely drying up, the rate of desiccation varying with the differences of locality, soil and gradients, and that such parts must sooner or later become uninhabitable, if the process proceeds unchecked. The evidence available during historic times, and recorded by many earnest observers and the evidence submitted to the commission by witnesses, proves that numerous streams, springs, vleis and other forms of surface water, have been for generations getting weaker and in many instances drying up entirely.</block>
+
+<p>But the same sad history is also established over and over again in the works of Dr. Schonken and Prof. Schwartz. A large number of other men of repute, who are not only known on account of their thorough knowledge of the subject, but who have also shown their interest in and love of South Africa, have from time to time, in vain, like voices in the wilderness, drawn the attention of the people to the danger of drying up. I would just mention a few names. Mr. D. K. Featherstone, who for 40 years lived as a farmer in the Aberdeen district, gives the same evidence on page 176 of the report of the drought commission. Mr. S. L. Kleng, also, according to page 199 of the report, <span class="col_369-370" refersTo="page_0254"/>after he had lived for 41 years in all parts of the country, stated&#x2014;</p>
+
+<block name="quote">Certain places were pointed out to me where fountains existed twenty years ago, and now the water has to be drawn by buckets.</block>
+
+<p>Prof. Compton, the director of the botanical gardens at Kirstenbosch, stated, according to page 124&#x2014;</p>
+
+<block name="quote">There is adequate evidence that these dry climatic conditions have been considerably aggravated during the period since the colonization of South Africa by Europeans first commenced.</block>
+
+<p>I further wish to refer to the evidence of Dr. Marloth, the well-known botanist, on page 107, and finally to the report by the Rev. J. W. Pears to Prof. Brown in 1875. The Rev. Mr. Pears came in about 1837 to Somerset West as a minister of religion, and he states as follows&#x2014;</p>
+
+<block name="quote">Formerly veld shrubs were plentiful, and the water was retained a long while so that all the streamlets flowed perennially. The mountains are now burnt every year, with the result that the running water has dis appeared.</block>
+
+<p>He noticed this as far back as about 65 years. The example of Merweville is a further speaking proof. Merweville was laid out in 1904 on a strong fountain; about 1913 it was no longer possible to irrigate with the water, and in 1920 the level of the fountain had dropped so much that the fountain not only could no longer be seen, but Merweville had to be supplied with water got from boring. Here we have an example, therefore, of such a drying up within twenty years. We find other evidence in Prof. Brown&#x2019;s book, which was written between 1879 and 1880, viz., &#x201C;Hydrology of South Africa,&#x201D; in which the experiments of the university of Cape Town in connection with this matter are described. So much for the evidence about the drying up, or rather the desiccation of South Africa. The proofs are given by men who have made a serious study of the subject during the last 100 years. The first proof that the drought is increasing we find in paragraph 5 of Dr. Kearn&#x2019;s evidence&#x2014;</p>
+
+<block name="quote">It is the firm conviction of all the witnesses that droughts come more frequently nowadays and that they cause more damage than formerly. This is not due to the rainfall itself but to the effect of it.</block>
+
+<p>The best proof comes from the remark in Prof. Schwartz&#x2019;s book &#x201C;Kalahari,&#x201D; which is obtained from the data of the rainfall for the interior of the Cape Province, which were collected by Mr. G. W. van Zyl. The statistics are for a period of 45 years from 1874 to 1919. The years are subdivided into good, normal, dry and seriously dry years. The period is divided into two portions: one of 23 years, and one of 22 years. Between 1874 and 1896 there were 7 good years, 8 normal years, and 8 drought. The dry years were 1876, 1877, 1879, 1881, 1882, 1883, 1884 and 1895. The second period of 22 years gives the alarming proof of the increase of drought in South Africa. From 1897 to 1919 there were only two good years, four normal years, and 16 drought years, and of these 10 were moderate drought, and 6 years serious drought. The statistics therefore show that during the two periods a doubling of the dry years came about in comparison with the former periods. But hon. members can consult their own recollections if they look back at the last 10 years. During the 55 years before 1919 there were 8 dry years during the first half and 16 dry years during the last half. During the past 10 years we have, however, actually hardly had 2 good years, viz., 1925 and 1929. The unavoidable conclusion we must come to is that South Africa is drying up. The second point I want to point to is that the water level is dropping. In paragraph 29 of the drought commission report we read&#x2014;</p>
+
+<block name="quote">It clearly appears that in consequence of the conditions caused by the white population of South Africa, the water retaining capacity of the surface of the land has been much reduced generally.</block>
+
+<p>The third proof is the numbers of fountains that are drying up. In this connection, I want to refer to what Mr. G. Bouman of Bloemfontein has observed. He states that during the past 40 years, 99 per cent, of the fountains within a radius of 30 miles of Bloemfontein have ceased to exist. Hon. members from the western Free State and Griqualand West will be able to confirm this from their own experience. We have also the case of the Great Fish River. According to the description of F. H. Barker of Grahamstown, the great French traveller De Vaillant visited South Africa in 1793 to collect birds. He described how, at that time, the Great Fish River was a large clear river flowing level with its banks. Large inlets and vleis stretched themselves for miles above and below it. He relates how he at first wanted to fire at a hippopotamus, but that he could not do so on account of the rushes on the bank being too dense. He also says what animals he found there, viz., hippopotami, alligators, flamingoes, cranes, storks, pelicans and many other wild birds. This evidence is confirmed by a large number of old travellers of those days. If we want to learn we have all the information here. If we do not, then all that information will be in van. Then we come to the reduction of the carrying capacity of our country, which is another proof. No responsible person will deny that it has been reduced. In paragraph 350 of its report the drought commission speaks of the reduction in the number of stock, and of the population of certain areas on account of the reduction in the carrying capacity of the ground. That is also the experience in other parts of the world where civilized people have gone to live. The carrying capacity of the land has lessened until in some cases it has changed into a desert. I admit that conditions have considerably improved in the interior since the jackal <span class="col_371-372" refersTo="page_0255"/>proof fencing has been erected. Officials of the Irrigation Department have informed me that they attribute the improvement to that because the veld has been less trodden down in consequence by the stock. Our vegetation is retrogressing was the evidence of Prof. Compton before the drought commission. But I would like to draw attention to the evidence we have in 1870 where it is stated that our shrubs in the country have gone backward owing to trampling by stock. Every one of us, however, who now think about the rainfall we have had in the interior will agree that the jackal fencing has done a good deal to reinstate the veld. Thirdly, I want to ask what the present cause is of the drying up of the country. This matter is considered from various angles and points of view. There are the people who ascribe it to cycles, according to them we have a cycle of dry, good and less good years. I think those of us who have followed the analysis of Van Zyl&#x2019;s figures, of which I have mentioned, will at once dismiss the cycle theory. I do not say that it is quite untrue. I have not sufficient data about it at my disposal. As for South Africa, the explanation is, however, not this cycle, but possibly the smaller interest taken by the population. Nor is it a reduction in rainfall that explains the matter. The rainfall remains more or less the same. In the report of the Senate Commission of 1914 we read&#x2014;</p>
+
+<block name="quote">All available evidence goes to prove there has been no definite diminution in the rainfall in South Africa during historic times.</block>
+
+<p>The commission of 1923 says&#x2014;</p>
+
+<block name="quote">Apart from prehistoric climatic changes there is no proof that the average rainfall of South Africa has decreased.</block>
+
+<p>The commission therefore says that there was no change apart from prehistoric changes in the climate. Not only is the view of this or that commission against it, but we have actual data which shows that the rainfall has changed little over a very long period. We have indeed the report of the Kimberley rainfall for the last 50 years. The rainfall for periods of five years was from 80 to 90 inches, with the exception of three periods when it was 70, 108, and 69 inches. We can therefore assume that the average rainfall in Kimberley was 16 to 17 inches a year. Those are not only the Kimberley figures but also of many other parts of the country. The first reason I would take is the reduced value of our rainfall. Prof. Touney of the Forest Department in America told us in 1905 that the value of the rainfall is not in the quantity of water that fell, but in the quantity of water that soaked into the ground. He adds that it is not the quantity of water that falls, but the small quantity of water which goes into the ground which makes a desert of the forests. There are other proofs in South Africa that the value of our rainfall has considerably lessened during the last fifty years because the time during which it fell has been considerably shorter. We often still hear our old people saying that general rains and nice soft rains no longer exist. I would like to refer the House to a few quotations which establish these points. The first is from Mr. A. T. Smith, lecturer in the Grootfontein agricultural school. He says&#x2014;</p>
+
+<block name="quote">Rains usually come in the autumn; they formerly came in spring, but for the last ten years those rains have, so to say, disappeared, and the late rains seem to come later and still later. The annual rainfall has possibly not diminished but the incidence of the fail has changed.</block>
+
+<p>Then there is the evidence of Mr. Griffith, the superintendent of forestry at Bloemfontein. He states&#x2014;</p>
+
+<block name="quote">In former years the Free State got nice afternoon rains, but nowadays the sky may be clouded for a week without a drop of rain falling. It is due to the dryness of the atmosphere. Veld fires, excessive grazing, and treading down by stock, has resulted in our rains now coming by way of thunderstorms instead of soft afternoon showers.</block>
+
+<p>Then we also have the evidence of Mr. P. J. de Wet of Tarkastad&#x2014;</p>
+
+<block name="quote">For the past 40 years approximately we had droughts as well, but as a rule they were well interspersed by soft penetrating rains in the beginning of the summer and always at the end of the summer. The penetrating rains have now become very rare.</block>
+
+<p>Senator D. J. Malan of Bethlehem formerly M.A.C. in the Free State gives the same evidence. Then we also have the testimony of Dr. Schonken, and of Mr. Featherstone of Aberdeen. The alteration in the rainfall is thus the first cause of drying up. The two chief causes of drying up and desiccation are the destruction of veld vegetation. We have the cutting down of forests. Of this Griqualand West is a speaking truth. It still takes place to-day in the neighbourhood of Postmasburg in the western Transvaal, and in those parts. We have old hunters who describe trips and they say that the country right up to Bechuanaland, was formerly full of big forests. The disappearance of vegetation is of course to a great extent caused by over grazing and treading down by stock. These factors are so well known to honourable members that I will not detain the House by going into them. I just want to give hon. members an idea of the distances stock in South Africa have walked for water. Diagram No. 9 in the report of the drought commission gives us an idea of this. One quarter of the stock of the Union must go from two to four miles for water. Fully one-third of them have to walk four miles or more. The third great cause of desiccation is veld fires. These I need hardly speak of. If anyone doubts it he need only refer to the report Dr. M. L. Levyns read last year. She does not give any data, but a few things appear very clearly from her lecture. The first is the change in the vegetation; the second is the erosion, and the third is the increase of desiccation. Dr. Marloth has told us a lot about veld fires. He gives about the best summing up of the damage South Africa suffers <span class="col_373-374" refersTo="page_0256"/>through them. Formerly there were parts of our country with running water, beautiful vegetation, and mountains full of forests. The shortest way to put an end to the beauty of our mountains is to allow veld fires to continue. If there were no other reason, then the beauty of our mountains would be sufficient reason for steps being taken against the devastating mountain fires. We had beautiful mountains that held water, and were irrigation arteries, and we were proud of them. The mountain fires have converted them into places whence the storm water drowns the inhabitants of the valleys. I am not now speaking of fires in suur vleis. I am talking of the vandalism at work in our country. A further cause is erosion, which washes out the fruitful soil in various parts of the country. Paragraph 134 of the drought commission deals with this. I shall not enlarge upon it, but I just want to refer to a few results of erosion. The running off of rain water in our country is estimated at 6 per cent, on the average. I want however to point out that 6 per cent, in this connection means 32 million acre-feet water, which will be adequate to irrigate 2 million morgen of ground. The washaways and accumulation of silt is a subject deserving our serious attention. Three million acre-feet silts away every year from the Orange River, and its tributaries; from the Tarka 1,747,000,000 cubic feet. Mr. Kanthack has argued that 187,000,000 tons of soil washed out of the Orange River and a number of other rivers in 1920. The silting away is however partially due to destruction of our ground, but more especially to the complete treading down and burning of our veld. It is interesting to compare the silting in our country with that of rivers elsewhere. We find that the siltage of the Rhine in Holland is one per cent., the Maas .047 per cent.; the Danube .012 per cent., the Nile .047 per cent., the Mississippi .034 per cent. When we come, however, to the Fish River in our country we get the alarming figure of 33&#x00BD; per cent. The high evaporation as a result of desiccating is another important factor. While the average rainfall per annum in the Union is from 20 to 30 inches, the average evaporation is from 60 to 90 per cent. Thus on the average three times as much evaporation as rainfall, which of course leads to desiccation. I will not give all the figures, but for Kimberley the evaporation figure for 1926 was 97.1 inches; Van Ryneveld&#x2019;s Pass 91.05 inches; for the Rand (excluding urban areas) 90 inches; for Grass Ridge 86.35 inches; for Bloemfontein 73 inches; for Tarka 78.66 inches. I think that this is also an important factor. I do not want to go into the economic results of the desiccation, but only to point out that, according to the census figures given in the drought commission report of 1923, it appears that the loss caused by the 1919 drought was estimated at about &#x00A3;16,000,000. That is the direct loss, and does not include the indirect loss. I make bold to say that the direct loss during the past 10 years was about &#x00A3;100,000,000. I have no time to examine what factor this constitutes in estimating the poor white position. I shall be glad if someone else will deal with that. The Minister will ask what it to be investigated. I should like to express appreciation of the work done by the various commissions. It would take us too far to go into details, but I just want to express appreciation now. What remains to be investigated is, in the first place, the relative importance of the various factors in connection with desiccation in South Africa. I want to quote a few more figures on evaporation. The evaporation on the Rand outside the inhabited area was 90 inches per annum; it is noteworthy that when Johannesburg developed, the evaporation in the developed area commenced to drop considerably, and the question is whether the drop in the evaporation in the inhabited area is due to the planting of trees, the making of gardens, and irrigation. If it is so it would be an important matter to South Africa. The evaporation has, from time to time, dropped&#x2014;I always give the average over periods of three years since 1904&#x2014;from 82.3 inches to 70.9 inches, to 68.6 inches, to 62.1, to 55.8, to 60.7, 61.9, 56.5 inches, and was 57.2 inches for 1928/9. The average evaporation from 1904 to 1915 has thus dropped by about 20 inches per annum, and from 1916 to 1929 by a further 10 inches per annum. It is certainly worth while to investigate this matter. Another important field for enquiry is the great catchment areas; the question of protecting the catchment areas. The drought commission mentions that it should be considered first, because they think that it is one of the chief causes. The question in that connection is whether the catchment areas belong to the public; whether expropriation should take place; what protection there should be; what the protective measures should be, etc. The great question is how far the state should assume the responsibility and follow the example of other countries in protecting its water supply. If Holland thought it worth while to create a board of water position, and America considers it necessary to protect its water supply, I see no reason why we should take no steps towards creating a similar body. South Africa will sooner or later be compelled to protect its water supply by the best methods. The next matter is the scientific use of grazing land, and the best way to prevent washaways. It is clear that our present legislation is inadequate. The Afforestation Act of 1913 is inadequate. The Minister and everyone feels that year after year great damage is being done by veld fires, etc. All the departments, that of Irrigation, Labour and Railways, and the provincial councils, etc., are concerned in the conservation of water and precautionary measures against erosion. There must be co-ordination to find the best means for the conservation of water, and to apply it. Another important point is that the public must be educated in this respect. I want to quote a word of warning from the report of the irrigation commission&#x2014;</p>
+
+<block name="quote">It is unnecessary for your commission to paint a picture of the dark and terrible future awaiting our country if we permit the evil to any longer continue its ravages unhindered. The naked truth, without the help <span class="col_375-376" refersTo="page_0257"/>of argument, is sufficiently alarming and the logical outcome of it all is the great uninhabitable South African desert.</block>
+
+<p>and further paragraph 410&#x2014;</p>
+
+<block name="quote">We are permitting an invaluable asset, the land, to be broken up and destroyed.</block>
+
+<p>and in paragraph 414&#x2014;</p>
+
+<block name="quote">The protection of our catchment areas is a national matter which can brook no further postponement. Every day this matter is delayed is not only a day lost but a day of retrogression.</block>
+
+<p>It is not a sentimental commission that said that, but men of cold logical reasoning. G. H. Maxwell, chairman of the National Irrigation Board of the United States has said&#x2014;</p>
+
+<block name="quote">I ask you to imagine Palestine and the flats of Mesopotamia, and to answer the question where are the nations that were destroyed by war, who were not able to re-establish themselves, as they would have been if the land on which they lived were only productive&#x003F; But where is the nation which has been devastated by the desert which re-established itself, or ever will.</block>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">P. C. DE VILLIERS:</person></from>
+
+<p>I second the motion and I want to congratulate the hon. member on introducing it by way of a first attempt of getting legislation on the report of the Drought Commission. As one who more particularly knows the western Transvaal, Bechuanaland and the north western Free State, I must say that the conditions there have of recent years become very serious. The beautiful and splendid rains of former years have stopped and the fountains have dried up. I have been assured by someone in the western Transvaal that at least 95 per cent, of the fountains have disappeared. My hon. friend has introduced the matter very well, but he appears to be in doubt about the reasons for the change in the rainfall. It appeared to me that he was not certain on the matter of the causes. If we remember that according to statistics the rainfall has not diminished, how then is it that the position has become so much more unfavourable that the crust of the earth is changing and drying up&#x003F; The rainfall is determined by the laws of the sun, water, sea, land, etc. We see how the old civilized nations have disappeared in Arabia and Mesopotamia, and their countries become deserts. We find, however, that they destroyed the vegetation and took no step to replace what was destroyed. Should not this also warn us in a country which is following the same road&#x003F; We find that parts of the Free State, Transvaal, Natal and the Cape Province, were covered with forests and bush fifty years ago. There was a luxurious and magnificent vegetation. It is a well-known fact that in summer the north-east winds start to blow. High winds blow over the country and they come heavily laden with mist, and in the old days the clouds discharged a steady, even rain. Then the vegetation was very good. To-day the position is quite different. We have the bare level flats right up to the Union, desert right into the Free State. The sun burns very hot, and the bare flats cause confusion in the air currents with the result that the clouds are driven back and that we get dust clouds instead of a sharp rain. The rain clouds still appear, but conditions are totally changed. I do not want to go further into the matter, but just to congratulate the Minister of Agriculture on what he has already done. There was a conference of various departments to discuss the erosion problem. I want to say, however, that instead of fighting the erosion, attempts ought rather to be made to fight the causes of the erosion. Let me point to the experience of Germany. There about one-fifth is forest country, and observations have shown that the rainfall over the forest areas is spread over more days than in the non-afforested parts. The difference in rainfall is not worth mentioning, but in the forest area it is spread over more days and falls much more softly than in the other parts. That is an encouragement to us. In England again we notice that millions are spent in afforestation, and Germany has a large army of foresters. All the civilized countries give the greatest attention to it, and our country has not got many foresters. The number is very insignificant, and notwithstanding the improvement which the present Government has effected, we do comparatively very little for afforestation. If we could get back the conditions of the old days, the old soft rainfall, then we would stop the cause of erosion, otherwise the position will constantly become more serious and more money will be required from the treasury to combat the results of the erosion. We must tackle it as a national matter and the Government must be supported by all farmers and landowners, while the children must be taught at school the great importance of afforestation. This is a serious matter, and I shall be glad if the Minister will take notice of the experiments in Germany and the decisions of our own geologists, that we can change the position by afforestation. I hope the House will very seriously consider the motion.</p>
+
+</speech>
+
+<speech by="#sephton">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SEPHTON</person>:</from>
+
+<p>I wish to compliment the mover upon focussing the attention of the House on one of the most momentous subjects affecting South Africa; it stands above any other subject with which this country has to deal in the future. It fills one with misgiving to take a trip from Queenstown through the Eastern Province to Basutoland, and back through the Free State and the Midlands, to see the havoc which is being played by erosion. The country cannot stand it for many years at the rate it is going on, and if nothing is done, I fear that in a century or two the country is going to have half its soil washed into the sea. The primary cause of erosion is overstocking or injudicious stocking. The Drought Commission of 1920 said it was overstocking and the method of farming which obtained at that time which primarily caused this serious erosion. They also concluded that we were not getting the best result from the farms. The first remedy that <span class="col_377-378" refersTo="page_0258"/>should be applied is fencing and proper paddocking. A few years ago I bought a farm which was very badly eroded. It was at once fenced and paddocked, and not less stock but actually more, were kept on it and in two or three years that farm had wonderfully recovered. Farmers don&#x2019;t sufficiently realize how essential it is to let their sheep run here night and day. I know the Minister is gradually being educated to a realization of these conditions, but the present Government has never done much towards encouraging the fencing system; in fact, they have always regarded the matter in a very unsympathetic way. However, I am still hopeful that having realized how important the paddocking is all over the country, the Minister will do more to promote it. Then there is another feature to which many of our thinking men attach a good deal of importance, and that is the burning of the veld. In certain parts of the country it is absolutely impossible to dispense with veld-burning; Natal, for instance, or East Griqualand, and Maclear, where I have interests, and portions of the Transvaal, all these grassy countries must be burned before they can be stocked, and if legislation is introduced to prevent burning, it would simply prevent people farming there. Burning is not so serious as it is believed to be in a grassy country. In travelling along the railway where the line is enclosed, it is noticeable that inside the enclosure, where the veld has been burned, there is much grass, but outside, where it has been fed off and not burned the grass is short and the ground dry and tramped out. That shows that it is not the burning but overstocking that causes erosion. I think that this is not so much a question for Government, it is for the people who are engaged in farming to prevent the first symptoms. An Act of Parliament would hardly serve the purpose. We want to educate the people; to send missionaries amongst them to persuade them to help themselves. In doing so we should render a very valuable service to the country.</p>
+
+</speech>
+
+<speech by="#badenhorst">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">BADENHORST:</person></from>
+
+<p>I did not really want to speak on this subject, but when our literary member comes and says that the Government should consider the stopping of drought, that there should no longer be drought, then I do wish to say a few words. I see that there was drought as far back as the time of Elijah. In that report on the drought it is said that it did not rain for three years, even if all the priests of Baal were killed. Yes, hon. members may laugh, but that was the case, and to-day hon. members come here and say that such an expert and such a man who examined diagrams, knows how drought is caused, but as a farmer, who has grown up on the veld, I also know something about drought. I recently met the same professor, that the hon. member for Hopetown (Dr. Stals) mentioned, at a flower show. I then asked him whether he knew that there was not a single flower on the show which had not been gathered on burnt veld. He replied that someone else had told him so, and I then pointed out to him that if we do not burn for two years we get no flowers. The professor consequently investigated our position, and at the end he told me that the mountains of Riversdale were probably different to others. I have already said before that I am opposed to the mountains being burnt in the Karroo and other parts, but with us no damage is caused by burning the veld, and when we burn the mountains in the Riversdale district, the veld subsequently is just as good, and we find the same old shrubs once more. I pointed out to the professor some veld where the whole area was burnt two years ago; he admitted that signs of the fire were still present, but that the veld looked very good. The experts look for reasons, but they do not find the actual reasons. The reason is that our Lord has caused the drought and even if the Minister, and the Government exist, they can do nothing in the matter, it remains the same. One year superabundance and the next year drought. If it only rains well one year, the same shrubs reappear which had apparently disappeared. It is possible that what the hon. member said about the little paths made by the stock make the drought worse, and it will possibly help a bit to divide up farms in some parts of the country into camps, but for the rest I do not at all agree with hon. members, and those savants who have nothing better to do. If they had other work, they would not talk in that way. I know this from my own experience. One of my neighbours, who is a good friend of mine, lives on his capital, and he also examines a little bush every day and thinks he has discovered something. I do not say that it is wrong for them to make investigations, but we must not attach too much value to their finding. I hope that the Minister will not waste any money for that purpose.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>I must congratulate the hon. member, who introduced the motion, on his speech and the way he has quoted the various experts. I believe that when it is read in the country it will certainly impress on the public. It is not a question which can be easily solved by legislation, but preferably by education and giving a lead to the farmers. This motion embraces various matters which the mover wants a commission to go into. Let me tell the hon. member regarding the commission, that we held a congress in October at which all those interested, such as representatives of various departments, of farmers&#x2019; associations, municipalities and divisional councils, were present. We came to the decision there that the various Government departments ought, first of all, to co-operate, because we found that the Government departments were joint sinners in connection with the erosion. It was so in the case of the Department of Railways, and I am glad the Minister of Railways is here. The engineers often had trenches dug and did not see to it that they did not cause any erosion. The result is that we find serious erosion along the railway lines in various parts of the country. I am glad that the Minister of Railways has observed this, and has promised his hearty support and co-operation to see that the mistakes of the past are not repeated. Other joint offenders are the road makers of the provincial <span class="col_379-380" refersTo="page_0259"/>councils; they have made roads and trenches and not bothered themselves where the water was to run off to, with the result that it has caused big erosions in places. It is, however, not only the departments, but also the farmers themselves who have sinned in this respect. It is necessary for all to co-operate to prevent the drought becoming more serious by erosion. I am very glad that a large part of the country has paid attention to the report, with the result that a large area has been fenced, so that less erosion is taking place, and the veld is less trodden down by stock. The hon. member for Hopetown (Dr. Stals) has told us how many miles the stock have to walk. That was the case formerly, but it is not so to-day. Our people have woke up, and camps are being made; boreholes have been sunk in the camps, and the stock need not go so far for water to-day. The state is also doing its best to take steps to give effect to the report of the Drought Commission. If our people also would only pay more attention to it, conditions could be considerably improved. Now I am asked to appoint a separate commission to investigate the matter. There is already a standing commission which is supported by the Agricultural Department and the Education Department, in order that our children may be taught the facts on this matter, the Department of Forestry, the Railway Department, the Irrigation Department, the Native Affairs Department, the Labour Department, the four provincial administrations, the four municipal associations, and the South African Agricultural Union. This standing commission will give its attention to erosion. In this connection, therefore, there is already a standing commission to co-ordinate, as far as possible, all the efforts and to give a lead and to advise. It will, therefore, be unnecessary to appoint a further commission. Such a commission would report. The report would be pigeonholed, and possibly no one would read it. How many people are there who have read the report of the Drought Commission&#x003F; The motion says that the factors influencing the rainfall should be investigated. The Irrigation Department is doing so. This department also co-operates with other countries and a commission will, therefore, be unable to do more than a department that has for years had experience with the matter. Water conservation has also been mentioned. It will not be long before this House is called upon to vote money for that purpose. We are, therefore, attending to this matter as well. Then the hon. member referred to veld fires. The Government has already decided that the various mountain ranges belonging to the state are not to be leased in order to retain them as areas for water conservation, so that they shall not be burnt out. We could pass stronger legislation now, but what use is that if we cannot catch the person who starts the fires&#x003F; We try to arrest people who start bush fires, but in vain. We know that even here in Cape Town where there are thousands of eyes forest fires take place day after day, and the guilty persons are not arrested. It will, therefore, be useless to make the Act more severe if we cannot catch the offenders. The farmers must assist in arresting them. The hon. member also referred to afforestation. The hon. member for Klerksdorp (Mr. P. C. de Villiers) wants us to move faster. If he went to the areas where we have plantations he would at once agree that we cannot go faster. We are planting trees, not only to push water conservations, but because we still import too much wood, but our own people are great sinners in this respect. Is it not the duty of every farmer to plant as many trees as are necessary&#x003F; It can always be done on every farm. It is, indeed, done in many parts, but not in other parts of the country. The first duty of members of the House is to make more propaganda on the subject. The hon. member further mentioned that the subterranean water-table was dropping. If our ground is over-stocked and the veld is trodden down, the water must sink. Then there are also many boreholes which will be affected. These are all matters we can debate and should bear in mind. If, however, our farmers properly fence the farms, and see that the veld is not trodden down, the fountains will not dry up. The Government is fully aware that steps must be taken along the lines suggested by the hon. mover. As I have shown, we are already doing much in that direction, but it is impossible for us to finish everything in a day. We are already exempting from income tax those who are fighting erosion. The Land Bank advances money for that purpose, and the department is ready with advice. The hon. member for Aliwal (Mr. Sephton) has clearly indicated what he has done in two years.</p>
+
+</speech>
+
+<speech by="#sephton">
+
+<from>*Mr. <person refersTo="hansard_za">SEPHTON</person>:</from>
+
+<p>No, in three or four years.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>His farm was full of holes and sluits, but he has changed it in three or four years to a paradise. If he could do that, I do not see why our other farmers cannot follow his example. I am, however, glad that he is not the only one who does it. Our people have woke up because they have realized that the best soil washes away. Therefore, the state departments, as well as the owners of the ground, must do their best to prevent erosion. It has done much good to have the matter brought before the House. Hon. members can now do much, and assist us a good deal if they will help in awakening our people to make use of the Drought Commission report and the pamphlets issued by my department from time to time. I hope he will not press for the appointment of the commission inasmuch as there is already a standing commission, and the department is doing its best. I hope that he will be satisfied with the standing commission, and withdraw his motion.</p>
+
+</speech>
+
+<speech by="#stals">
+
+<from>*Dr. <person refersTo="hansard_za">STALS</person>:</from>
+
+<p>I want to thank the House for its reception of my motion. I should not, however, be doing my duty to myself and the country if I did not reply to the hon. member for Riversdale (Mr. Badenhorst) about veld fires. He has quoted from the Bible, and he has probably also read that the old Jewish people were promised a land flowing with milk <span class="col_381-382" refersTo="page_0260"/>and honey. That was Canaan in the year 1400 B.C., and we do not read that there were three-year droughts then, because otherwise it could not have been a land flowing with milk and honey. In 600 B.C. there were three-year droughts, and the result was that the Jewish people of the year 1400 B.C. to the year 1600 B.C. went back so much that it went to exile and is still there to-day to our sorrow and the regret of the whole world. That is not only the history of Palestine and of the Jewish nation, but of other countries. The Minister of Agriculture wishes me to withdraw my motion. I do not want to press it on the House, but as the Minister has done so much in connection with this question, it is a pity that he has not referred the whole broad question of erosion, denudation, irrigation, and all the other relevant questions to his commission. These matters are closely connected with each other, and we could have referred it to the commission, which could investigate the big question as a whole with representatives from other parts of the community to strengthen it. In the circumstances there is no other course for me but to withdraw the motion. I will only hope that as the Minister has asked me not to press it, that the matter will be further investigated in this manner, and that the Government will see that the catchment area of our rivers and streams shall be protected. It is the duty of the House, of the Government, and of the public as a whole. It is a matter of national importance. I hope the time will come that the present Government will yet table a motion that all who are interested in the matter will be inspanned to provide better permanent flows in our rivers; this will lead to the prosperity and happiness of our country.</p>
+
+<p>With leave of the House, motion withdrawn.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#bailway_charges">
+
+<heading>BAILWAY CHARGES.</heading>
+
+<speech by="#henderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That in the opinion of this House the maintenance of the present high rail charges on the necessaries of life to the consumer in the inland centres of the Union constitutes a burden upon industry, militates against progress, and is incompatible with the clauses in the constitution which outline the Union railway policy.</block>
+
+<p>The motion has been endorsed by every association of traders and chamber of commerce in the inland centres; in fact, no question can be of more importance to the railway users in the interior. When we remember the history of our railways long before Union, we will better appreciate the fact that there has been no improvement in this matter since 1910. When the delegates from the north returned from the National Convention, they assured the people of the interior that in Sections 129, 130 and 131 of the Act of Union they had a Magna Charta for them. Instead, however, of these sections proving a Magna Charta the whole position in regard to the treatment of the inland centres has gone from bad to worse. I want to show the position in regard to preferential rates and their bearing on other railway rates, but before doing so, I wish once more to remind the House of the basis upon which our railway rates rest, namely, that the railway earnings shall not be more than sufficient to pay for working costs, maintenance, depreciation and interest on capital. That being the basis, it is perfectly clear that gifts granted in the shape of reduced railway rates to one section of the community alone, must be borne by other users of the railway. Let us look at a few of these preferential railway rates. I think that the House will agree with me that the whole position is entirely impossible. Preferential railway rates are really a second protection, and are given to certain manufactured South African articles at a lower rate than the ordinary in order that they may compete with the imported article. We have only one means of protection and only one legitimate way, and that is through protection at the ports. It makes no difference whatever so long as the protection is of the same amount; consequently, the system of preferential railway rates is unsound and unfair to the users of the railways and bad policy for the country. Taking the railway rates on 100 lbs. for 500 miles, the first I have is tea, the imported rate on which is 8s. 4d., and that on South African tea is 4s. 2d., or a difference of 100 per cent. Then there is cheese, on which the rate is 8s. 4d. imported and 3s. 2d. South African, or a difference of 160 per cent. We have such articles as sugar, 6s. 4d. imported, while the rate on South African is 3s. 2d. This House supports the sugar industry, and rightly so, and the country is agreeable to that industry being supported as one of the main industries of the country, but it makes no difference to the producer, so long as he gets the protection, whichever way he gets it. Macaroni which is manufactured (from imported wheat paying 1s. 7d. per 100 lbs. duty, pays a railway rate of 1s. 2d., whereas the rate on the imported article is 8s. 4d., a difference of 650 per cent. I am sure that the people of this country, while they are desirous of protecting the South African article, and it is the policy of the country and there is no feeling and opinion against this, say this is not the proper means of protecting it; and you are not making the people of the country, but you are making a section, pay it&#x2014;the users of the railways, and particularly in the north. As far back as 1911 this matter was very much to the fore, and the general manager in that year reported in his annual report, page 101&#x2014;</p>
+
+<block name="quote">In regard to preferential rates for South African products and manufactures, I can only reiterate the opinion I expressed in my last report, that the principle of affording protection to South African industries by this means should be abandoned, and that such protection as may be considered necessary or desirable should be given by means of a protective tariff. &#x2026; It cannot be considered part of the functions of a transport department.</block>
+
+<p><span class="col_383-384" refersTo="page_0261"/>The anomalies in preferential rates which existed at and before Union have not been removed, and the position to-day is at least as bad as, if not worse than, at the time of the Union. We cannot manage our railways on sound principles, or give a reasonable charge for reasonable services rendered, until these preferential rates disappear or are largely modified. In 1916-&#x2019;17 the general manager reported again &#x2014;see his annual report, page 55&#x2014;</p>
+
+<block name="quote">The rates are so devised that the tariff for the South African article does not exceed the rate for the imported article from the nearest port to its destination.</block>
+
+<p>I would like hon. members to mark that, as it is one of the most subtle arrangements that has ever found its way into any tariff book.</p>
+
+<p>The report goes on to state&#x2014;</p>
+
+<block name="quote">The minimum rate per mile is fixed per article and the minimum also applies to certain coastal industries to enable them to compete in the neighbourhood of other ports &#x2026; the object is to penalize the imported article and to grant bounties to the South African manufactured article.</block>
+
+<p>I want to look at the rates on main line traffic. It makes no difference whether you quote from Cape Town, Port Elizabeth, East London or Durban, but the present position, I think the House will agree with me, should not be permitted to remain any longer. In this No. 1 rate there are many articles of food which the poorest household must have. You cannot get the cheapest article of wear, but it will come under this No. 1 rate. Tariff No. 1 from Port Elizabeth to Johannesburg in 1918 was 96d. per 100 lbs. This was at a time when prices were high and rates were high. I want to show that, although the rate was high to begin with, we have got to an impossible rate to-day. In 1919 the rate was raised from 96d. to 107d. In November, 1919, it was raised to 122.5d. In 1920 it was further raised to 130d., and in October, 1920, it was raised to 144d., an increase of practically 50 per cent, in a period of two years. Since then it has come down 1d. to 143d., and it is that to-day. It is this No. 1 rate from the coast that affects the cost of living more than anything else. It is all very well to argue that it is of great importance for goods of South African manufacture to get into the homes of the people, but here are goods that are not manufactured in South Africa, and these goods are required, and the rate has gone up 50 per cent, within two years. Calculations have been made that this particular traffic bears a clear profit of 100 per cent. This particular traffic includes all the necessaries of life which go into the various towns and districts of the north. I don&#x2019;t think that any portion of the country would feel that it is a fair thing that the people of the inland centres should pay this enormous rate, and should make up for the losses on other rates, particularly where preferential rates are given. It stands to reason that you cannot charge a quarter rate without losing a good deal of money. On page 11 of the Auditor-General&#x2019;s report you will find that the tonnage is a matter merely of interest. It proves nothing, because the figures are approximate, but it is stated that the tonnage of traffic under each rate is known, and also the distance and zone, and by applying a mean rate, it is possible to arrive at the approximate revenue earned. In 1927, under tariffs 1-6, 2,517,950 tons were carried, and for that the railway got a revenue of &#x00A3;9,251,102. Under tariffs 7 upwards, 18,970,419 tons were carried, and for that service we got &#x00A3;7,240,012. It goes to show that we are doing a great deal of work on the railway for far less than cost price. For the year ending March, 1928, under tariffs 1-6, we carried 2,140,774 tons, but we get for that a revenue of &#x00A3;10,000,000 odd. Under tariff 7 and the others, the amount is greater than ever before. There is an increase in the goods rates, and, consequently, the loss on the low rates is made up. Under tariff 7, we carried 18,000,000 odd tons, and for carrying that, the railway got &#x00A3;7,000,000 odd. These figures are so striking that they don&#x2019;t require any argument. I feel quite certain that if the country would only realize that one section of the railway users are paying for the other section by the tariff rates, there would be a demand for an alteration. I want to look for a minute or two at the position of the railway. The provision made under Section 131 with regard to new lines has not, as far as one can judge, been carried out to the letter. We know that immediately after Union when we had a Railway Board that was entirely non-political, the position was eminently satisfactory. Subsequently, the position was that if we built a branch railway without the authority of the Railway Board, or without the Railway Board recommending it, that railway it was clear, had its loss paid out of consolidated revenue. There has been a general consensus of opinion that the Railway Board have recommended all these lines. They have done nothing of the kind. I think if the hon. Minister will go there he will find that some of these lines were actually made before the Railway Board considered them at all. They were started, not in order to help the particular district, but in order to relieve unemployment. In one particular report the Railway Board very rightly says&#x2014;</p>
+
+<block name="quote">Under the circumstances, seeing this line has been commenced and considerable work has been done, the building of the line is recommended.</block>
+
+<p>But the making of the line was not the work of the Railway Board. The line was commenced by the Ministry of the day. It was built by authority of this House, and provision is here made that the losses on these lines shall be paid from the consolidated revenue upon presentation of the report of the Auditor-General, who, so far as I know, has never been asked to render a report. Some of these extraordinary rates we are paying are due to the fact that the railway is not getting the provision made in the Act of Union. They are not getting back <span class="col_385-386" refersTo="page_0262"/>the losses on those lines where money has been lost, and where they have been made and contracts entered into without the Railway Board&#x2019;s sanction. There is another point. Section 132 makes provision which covers white labour perfectly well, but where work has been done at a greater cost than the economic cost there is provision for that cost to be paid from the consolidated fund. Now I can only find one payment which does establish the principle, but this was paid just after Union. Now all these thousands of pounds which have been spent on civilized labour is in addition to the economic amount which ought to be paid for all these years by the consolidated railway fund. Seeing that it has not been so paid, the railway users are now paying it, which is the same section who are paying the high rates, and they all belong to the inland centres of the Union. Here again we strike at the profit-making portions of the railways; the long-distance traffic to the large inland towns. There are two other points. Until the railway is getting its just due it is impossible to give the railway users justice. So long as the railways pay for losses on branch lines, losses not in accordance with the Act; lines for which this House is responsible, in addition to paying the increased cost of the white labour policy on the railways, then it is impossible to give the railway users of the country a fair deal. Now, with regard to the latter part of my motion, I find extraordinary positions relating to coal rates in our tariff book, but I will leave them for another opportunity. What hits the industries of a certain centre hits the people of that centre, and the railway rates are just as heavy if put upon coal as if put on in any other way. For instance, the rate on coal is 6s. 9d. per ton; Witbank to the Witwatersrand to Delagoa Bay, 276 miles, the rate is 5s. 3d. per ton. Now here is an industry which the Act of Union was designed to protect. To large industrial centres inland coal is just as necessary as fertilizer is to an agricultural district, and here we are carrying the same coal 276 miles to our friends the Portuguese at 5s. 3d. per ton, while for 76 miles, to Johannesburg, the cost is 6s. 9d. It is generally accepted that coal rates have not been raised. The coal rate in this district was down to 5s. 3d. per ton. It has gradually gone up, until the rate to-day is 6s. 9d. per ton. There are two other items which bear on our industries and the prosperity of our people. Any oppression that hits an industry bears upon the people who are working in or the great population surrounding such industries. Agricultural machinery, for instance, Durban to Johannesburg, the tariff is 43d. per 100 lbs. In mining machinery the tariff is 77d. per 100 lbs., that is, 80 per cent, higher. Then, taking pipe fittings and valves for irrigation, the rate is 43d. per 100 lbs., Durban to Johannesburg, but for mining the rate is 101d. per 100 lbs., a difference of 135 per cent. We would like to know from the Minister, where is the reason for the differentiation, because if the Act of Union means anything at all, it surely means that by cheap coal rates we are developing the interior both industrially and agriculturally that for which the Act of Union specially provides. I submit that this is in conformity with the clauses in the Act of Union upon which our railways rest. One looks for a remedy. The matter has been brought up before, but nothing has been done. I speak with the greatest respect of the Railway Board, but I say that nothing can make up for a man who does not know his job. He may have courtesy, intelligence and everything else, but the first thing is to know his job. When I look round the great countries of the world, I see that we have a rating board in every such country, and the hon. Minister knows that such a board exists in England where the railways are privately run. The hon. Minister will remember the Royal Commission of Canada in 1907. It has been pointed out to me that up to 1907 the railways of Canada were not in a better position than the South African railways of to-day, and God knows that is bad enough. Following the Royal Commission referred to, there is a railway commissioner. This should be a lifetime appointment. It should be non-political, and that ought to be underlined because, to my mind, that is largely the cause of all our troubles in connection with the railways. I do not say it is entirely the cause, but it is largely the cause. What is the position in Canada&#x003F; I think that some of our friends who have visited that country recently will tell you that they have a rating board there which is a credit to any country. It is a rating board that cannot be influenced, and that no politics can interfere with. To-day, the position is that all their evidence is taken in public, and their decisions and rates are known to the public. You can go to the office when evidence is taken and the country knows just where it is. The appointment is made for life, and there is perfect independence. There is no question from what I can gather and from the correspondence I have seen, but that they do know their job and carry it out. There is no question that that is what is wanted in this country. We shall not get any further without a railway rating board. I do not mean the kind of board that will be influenced here and there. I mean a rating board such as is appointed under the Royal Commission mentioned. On the board you have a lawyer, a business man and a railway man, a trained railway man, a man trained in rate-making. Such men are to be found. We know that such men can be had in this country. I may tell the hon. Minister, and I tell him very respectfully, that the men trained to ratemaking should know something of rate-making and export railway management, but here they are entirely pushed out of the way. That will be seen from the extracts I have read from the general manager&#x2019;s report. The experts have disappeared because the hon. Minister supersedes them, and it is the country that suffers. I would suggest to this House that they would be satisfied, at any rate, in the meantime that the rates, regulations, and all the works connected with the railway should be left to the general manager and his expert officers. I would not <span class="col_387-388" refersTo="page_0263"/>be rude and suggest a holiday for anyone, but if the Railway Board did disappear, so far as the railway users of the inland centres are concerned, I can assure you there would be no tears. I suggest to the hon. Minister to take the position that the railways ought to occupy with the Consolidated Revenue Fund, because if that is put right, the due payments made, and if the sections of the Act of Union are carried out, upon which the railway system is founded, then surely the hon. Minister will not be able to come to us and say, as he did on a previous occasion: &#x201C;You grudge the poor farmer his low rate&#x201D;; you will be able to give the farmer lower rates than ever, and yet see justice done to the other railway users. You will be able to go fairly into the question, as it affects the whole of the users of the railway, and you will be able to make a reasonable charge for a reasonable service, which is the only sound &#x201C;business principle&#x201D; upon which this great department of state can safely rest.</p>
+
+</speech>
+
+<speech by="#pocock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">POCOCK</person>:</from>
+
+<p>I second the motion. I am pleased indeed to be able to do so, because the motion has some relation to a motion which I hope to move a little later on. I consider in this matter that the Minister has a realization of the seriousness of the rate problem in this country. During the last month or two he has appointed an expert committee to go into the whole of the railway rate question, and I feel certain that as a result of that committee we shall obtain recommendations which will very materially bear out the various points which the hon. member for Hospital (Mr. Henderson) has made this afternoon. The particular system prevailing in this country has grown up during many years, and no party has felt able, or, perhaps, strong enough, to take up the position of reconsidering the whole of the railway rate question in its relation to the interests of the various industries and sections in this country. There is one point on which I think the Minister was wrong in the appointment of this committee, in that he only required written representations from various bodies to be made to the committee. Obviously, representations from a body, either representative of industry or commerce, are supposed to represent the views of the whole of that body. It is manifestly impossible on a very intricate question like rates, to get anybody, whether of commerce or industry, to speak with a united voice. I shall forestall the hon. Minister&#x2019;s retort, because, if he will consider for a moment, he will realize that the interests of the interior are very often diametrically opposed to the interests of the coast. Therefore, you must obtain the views of both sections. I consider it is for that expert committee to then judge on the evidence brought forward by those bodies which are the sounder views, and to adopt the views which they consider are most sound. Some time ago I went into the question and endeavoured to ascertain what was the actual cost to the consumer in Pretoria in his household accounts in regard to necessaries, such as groceries, coal and other articles of domestic life. After a very careful test, and working out the rates as near as I possibly could, I found that the average householder paid a fraction over 5 per cent, of his household accounts in railway rates. That in itself, perhaps, does not seem to be a very large item, but taken with other factors, it must tend to increase the cost to the consumer, and it particularly hits the poorer man, who, although he pays the same rates, can ill afford to pay the proportion that the wealthier man pays. I feel that if the Minister will only consider that the effect of railway rates on necessaries goes back and affects particularly the primary producers in this country, he will see the necessity of carefully examining any factors that affect the cost of living. The ultimate burden of railway rates and taxation must fall upon the primary producer, who is the farmer, and it should be to our interests to see that everything that is possible is done to reduce railway rates on what I consider are the necessaries of life. I do not intend to take up the time of the House any longer this afternoon, because I think the hon. member who has just spoken (Mr. Henderson) has fully covered the various points. I do, however, hope that the Minister will seriously consider, in regard to this committee which he has appointed, of going further and inviting the personal views of all sections, for I believe he will get matter which will prove of far greater value than that which he can get by the written representations of those bodies.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>With regard to the concluding remarks of the mover that the appointment of the Railway Board members should be non-political, I wonder whether he has ever given thought to the practical difficulties in achieving what he has suggested&#x003F; Does his attack on the present Railway Board extend to the previous board &#x003F;</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>It was not an attack.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Does the hon. member&#x2019;s criticism then extend to the period when we had practical railwaymen on the board&#x003F; Difficulties arose which forced Parliament in 1916 to make the board purely advisory, except on the question of railway construction. The hon. member should bear in mind that the policy he attacks was carried out by my immediate predecessor, who was an outstanding business man, and by my other predecessors.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>Agreed.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I am glad he agrees to that, so that we are agreed that the policy is not a political one. He may also say our rates policy is wrong and not satisfactory in many respects, but I do not think any hon. member has the right to say that it has been framed on political lines because all parties are responsible for our railway rates policy. I think the Union and Parliament have every reason to be satisfied with that policy, which has been built up over a long period of years. Dealing with branch <span class="col_389-390" refersTo="page_0264"/>lines, the Minister said: Take the programme of 1922 for which Mr. Jagger, the then Minister of Railways, and his board were responsible. That programme contained a number of lines which have shown a loss, clearly proving that it is not a question of political influences at work. We must deal with facts as they are. No railway board, however conscientious or carefully guided by figures supplied to them, can be held responsible for these large discrepancies between the estimated and actual results of branch line working. The hon. member referred to the cost of living. I will give him some figures from the official year book which will enlighten the House. The cost of living in the nine principal towns in the Union during the third quarter of 1928, was as follows (1,000 represents weighted average for all nine towns in 1910): Pretoria, 1,429; Durban, 1,416; Bloemfontein, 1,375; Johannesburg, 1,344; Cape Town, 1,277; East London, 1,262; Maritzburg, 1,241; Port Elizabeth, 1,225; Kimberley, 1,119. If the mover&#x2019;s arguments were sound the cost of living should be low at Durban and high at Kimberley, but the reverse is the case. This clearly indicates that other factors than railway rates are responsible for increases in the cost of living. The increases in the cost of living at the named towns comparing the third quarter of 1928 with 1910 were as follows: Cape Town, 53 per cent; Durban, 50 per cent.; Maritzburg, 45 per cent.; East London, 44 per cent.; Bloemfontein, 32 per cent, and Kimberley, 30 per cent.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The railway rates are partly responsible.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>They are not the main factor. If the hon. member studies the figures he will see that some imported articles are sold at a lower price in the interior than they are at the coast. Where, then, does the argument about the cost of living and the high railway rates come in&#x003F; It must be admitted that there are other factors.</p>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>Obviously, the cost of living would be lower in the interior if there were lower railway rates or no railway rates at all.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>The mover&#x2019;s argument was that the railway rates are so high that the cost of living in the interior has risen.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Do the Minister&#x2019;s figures include house rents and coal&#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>The hon. member for Bezuidenhout (Mr. Blackwell) is so impatient; I am coming to coal rates. I now come to the second point raised by the mover, who asserted that the high railway rates constitute a burden on industry, but the fact that they have not unduly burdened industry is shown by the fact that in 1911, the ton miles of revenue-earning goods, coal and livestock, were in thousands, and in 1928-&#x2019;29, 5,080,000. There was therefore a percentage increase of 174 per cent. The European population increased during the same period by only 33 per cent., and the total population by 28 per cent.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>What was the increase in your rates &#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>In some cases they are down to pre-war, and in some higher. Does my hon. friend suggest that we should reduce them to pre-war&#x003F; Are the prices in his shop pre-war&#x003F; An interjection of this sort shows that he has not given sufficient attention to the whole subject. Industries of all kinds in South Africa have developed to an enormous extent under our rates policy. Let me say to the hon. member for Hospital (Mr. Henderson) that the railway board is not responsible for the policy which he has attacked&#x2014;in connection with branch lines, civilized labour and preferential rates. Parliament is responsible. My hon. friend may like it or not, but Parliament has laid down the policy, and it is not fair to blame the railway board for a policy for which Parliament itself is responsible. With regard to the policy of preferential rates, I am largely in agreement with my hon. friend when he attacks it, and argues that it would be better to give the necessary protection for our industries, through the customs at the ports. We have largely abolished these preferential rates since Union&#x2014;we have abolished them on 170 articles, and they exist only on 72 articles at the present time. Of course, it is easy enough to condemn preferential rates, but when you deal with particular articles you find that very often an industry has been built up on these rates, and it is not desirable to sweep them away. With regard to branch lines, the policy the hon. member has advanced is not one which the Government can accept. As to the so-called losses on branch lines, as I have on many occasions indicated, it is largely a question of accounting. We have a system of crediting our branch lines with 10 per cent, of the revenue earned on the main lines on traffic from and to the branch line. In India they credit them with 50 per cent. That is my answer to my hon. friends who asked me to publish the statistics of branch lines. They form a part of our system and act as very valuable feeders to our main lines.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Every branch line is a payable proposition &#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I do not say that. If you added 100 per cent, they certainly would be. I could mention particular districts where there are branch lines and where there has been a drought for three or four years. Do hon. members expect that there will be anything like a profit on these lines&#x003F; Surely we are not going to hold any railway board responsible for those results. I know of no single case where any line of railway was constructed without the railway board having recommended it, except the line to South West Africa, north of Upington, during the war.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from><span class="col_391-392" refersTo="page_0265"/>Mr. <person refersTo="hansard_za">HENDERSON</person></from>
+
+<p>made an interjection.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I do not think my hon. friend can give a case where no covering authority was granted by the Railway Board.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>On a point of order, the position I put to the Minister he has completely misunderstood. It is that the authority for certain of these branch lines was the authority of this House, not that of the Railway Board, in order to relieve unemployment. Subsequently the Railway Board approved of the line, but only after the line had been sanctioned and the work already begun.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Yes, I appreciate that, but does the hon. member suggest that the members of any self-respecting board would simply give their covering authority because Parliament had approved of a particular line&#x003F; They must satisfy themselves whether the line is not to become a burden to the State. It is a reflection on the personnel of both the previous and the present board. As to the question of civilized labour, I do not think I need take up the time of the House with it; it has been thoroughly debated. Hon. members made a point of it before the election; but the country has decided that question. I want now to come to another important aspect, the point raised with regard to high rated goods, for which the hon. member quoted figures. For the year ended 31st March, 1929, the tonnage in classes 1-6 was 2,906,000, and the revenue &#x00A3;10,950,000. On low rated goods (classes 7 and lower) the tonnage was 9,437,000 and the revenue only &#x00A3;3,643,000. My hon. friend&#x2019;s argument was, why not reduce your rates on high-rated goods and increase them on low-rated goods&#x003F; Let us suppose that any administration was so unwise as to raise the rates by 25 per cent. It would mean a very material increase in cost to the primary producer, and would not benefit the consumer materially. It would give increased revenue of &#x00A3;910,000. Is that going to solve our difficulties, and is the consumer going to get the benefit of it&#x003F; I am afraid he is not. The Government views with the greatest alarm the fall in the values of our primary products, and this is the time when an hon. member on the Opposition benches advocates the raising of rates on our primary products. The Government is not prepared to accept the motion. Now, with regard to my hon. friend&#x2019;s remarks respecting coal rates</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I was not talking about coal rates.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>The hon. member must not run away now.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I have not the remotest intention of running away from the Minister of Railways and Harbours, or anybody else. I mentioned coal as costing much less in Johannesburg and Pretoria than at the coast. I was not referring to rates on coal.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Notwithstanding the explanation of my hon. friend, I am going to give the House the facts. We have heard so much about coal rates having gone up, and that we are fleecing the unfortunate Witwatersrand consumer. What were the rates in 1910 under the C.S.A.R.&#x003F; It was 81d. per short ton of 2,000 lbs. In 1929 the rates were the same.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>That was so high that even you could not raise it.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I am sorry the facts have caused my hon. friend embarrassment. With regard to what the hon. member for Pretoria (Central) (Mr. Pocock) has said, that we have placed commerce in an unfortunate position</p>
+
+</speech>
+
+<speech by="#pocock">
+
+<from>Mr. <person refersTo="hansard_za">POCOCK:</person></from>
+
+<p>I did not say so.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>The chambers at the coast take quite a different view from the chambers in the interior.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>We are honest.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Commercial honesty. What happens&#x003F; These commercial gentlemen hold their meetings and they lay down the law. In Johannesburg it is one policy, in Durban another, and in Pretoria yet another. They speak with many voices. Surely the time has come when the chambers of commerce should be prepared to give us some constructive ideas on which they are all agreed.</p>
+
+</speech>
+
+<speech by="#pocock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">POCOCK</person>:</from>
+
+<p>I stated very definitely that commerce was fully prepared to make further representations on this matter, but it was quite impossible to expect the Associated Chambers of Commerce to speak with one voice on the matter of railway rates.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS:</person></from>
+
+<p>That is just what I have been saying. My friend says: &#x201C;How can you expect the chambers of commerce to give you a policy&#x003F;&#x201D; I am not asking them for a policy. We have a policy, and it is a sound policy. But I say that if commerce is not prepared to give us a better policy, I do not see that they have a right to criticize. Commerce must be prepared to advocate a national policy, and if they do we will consider it. We have evolved a policy, and that policy has assisted South Africa very materially. My answer to hon. members is: if you have a policy agree among yourselves what that policy is to be. That is my whole point, and I think on a little reflection my hon. friends will see that that is not an unfair position to take up. The mover of the motion has not convinced the House, and I am not prepared to accept the motion.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>It seems that the hon. Minister of Railways is going to remain content with this policy&#x2014;what it is I have not yet found out.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from><span class="col_393-394" refersTo="page_0266"/>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Look up the rate book.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I understand that until the chambers of commerce of Cape Town, Johannesburg and Durban have so composed their differences that they are able to agree upon a common rates policy that we shall get no change. Surely it is a foolish argument to say that before a change can be made we must wait until the Johannesburg lion is ready to lie down with the Cape Town lamb. The interests of the interior are vastly different from those of the coast. It is impossible to imagine the hon. member for Newlands (Mr. Stuttaford) putting forward an argument similar to that of the previous speaker (Mr. Henderson), yet they are both prominent members of the Chamber of Commerce for their respective towns. Yet it seems that until commerce, as personified by Mr. Stuttaford in Cape Town, is in agreement with commerce as personified by Mr. Henderson in Johannesburg, we shall get no further. That is characteristic of the debating society attitude take up by the hon. Minister.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>You must not run away.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>If there is one phrase that constantly leaps to the lips of the hon. Minister it is the phrase &#x201C;you must not run away.&#x201D;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>But the hon. member must not always run away.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am not one of those who is ready to run away from the hon. Minister of Railways or from any other Minister. In my particular case I was not referring to rates on coal from Witbank to Johannesburg, but I simply wished to point out how superficial an argument is which is based on the statement that cost of living is not increased by high railway rates. The figures show that in Durban cost of living is higher than it is in Pretoria or Bloemfontein or Kimberley, and the hon. Minister said that shows that the cost of living is not influenced by railway rates. If he asks the House to believe that railway rates have nothing to do with cost of living, that is an insult to the intelligence of the House, because the cost of living is intimately affected by railway rates. If the hon. Minister is right, it would not make any difference if he doubled his rates or halved them. The cost of living is kept at its present high level in the interior by the present railway rates. The hon. member who moved this motion does not claim that this is the only factor. We know that the cost of living is lower in Kimberley than it is in Johannesburg or Pretoria, because of the distress and contraction of employment which has gone on in Kimberley. Moreover, house rents are high in Durban. I do not know whether the Minister included rents.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I included food, fuel, light and rent.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The figures the Minister gives us did include rent. We know that rents are very high in Pretoria, we believe also in Durban, and I think very low in Kimberley and low in Bloemfontein.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Well, I do not know about Bloemfontein, but that accounts for the cost of living figures between Johannesburg and Kimberley; but to quote these figures at large as the hon. Minister has done merely indicates that they do not carry the proof which he sought to carry. That part of his speech was of little value to the present discussion, if he tried to prove that cost of living is not influenced by high railway rates. Now, about branch lines, after much consistent pressure for years we induced the hon. Minister last session to lay upon the Table of the House a statement showing the workings of branch lines for the period ending 30th September, 1928, based on the results for four months of the year. I think it was laid on the Table last session. The point which has just immerged is this, these figures are not true figures. If anyone asked me how I would arrive at the result for a branch line, I would say: take the revenue and the expenses, including interest, on the cost of construction, and the difference would show whether the line is paying or not. The hon. Minister says we take the income from that line and we add 10 per cent, for the traffic which has gone from the branch line to the main line, or conversely the traffic which has come from the main line to the branch line, and we arrive at the total revenue of the branch line. I ask how many members knew that these figures were not true figures, but were loaded by 10 per cent.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>But that is the system.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>It would simply have required two lines of print to make this clear, and I must express my regret that this was not done. The heading of the column is &#x201C;total earnings.&#x201D; I assume that &#x201C;total earnings&#x201D; mean the amount of revenue earned by a particular line, and not the actual receipts loaded by 10 per cent, in the manner indicated. But even so, the total earnings of all the branch lines in the Union were &#x00A3;1,596,989, and the total working expenditure, not including interest, was &#x00A3;1,442,612. The deficit, if you take into account the interest on the expenditure on those lines for the 12 months, was &#x00A3;589,000, nearly &#x00A3;600,000. That, I now learn, was after loading the figures of earnings by 10 per cent, in the way the Minister describes. It is no use for the Minister to say that these branch lines pay. Probably the hon. member for Hoopstad (Mr. Conroy) never did a more statesmanlike thing in his life than when he did not attend the House this afternoon to move the motion standing in his name. We have got to realize in this country that this policy of building more and more branch lines under political pressure is a policy that cannot go on. I am <span class="col_395-396" refersTo="page_0267"/>certain that the Minister of Railways and Harbours was only too glad this afternoon to be relieved of the necessity of telling the country that it cannot go forward with indefinite expansion of branch railways. There are railways being run in regard to which it would pay this country to follow the policy adopted in regard to the Sea Point railway&#x2014; pull them up and scrap them altogether. I am referring particularly to lines up-country. Some of them pay so badly and incur so much loss, that it would pay the country&#x2014;for they will never become payable&#x2014;to pull them up and to replace them, where necessary, with motor traffic. I must reply to the challenge of the Minister of Railways and Harbours. What the hon. member for Hospital (Mr. Henderson) has said is felt by every member on the Rand, and I believe by every member in the Transvaal, that the interior of this country is not being treated fairly in the matter of rates especially. The Minister can quote figures of the South African railways in 1910, but more particularly the mining industry is being penalized by these rates on coal from Witbank. Seven shillings a short ton for coal over that short distance is preposterous. The hon. member for Hospital introduced the matter in a very fair way. He did not seek to create any political capital. He did not make it a party matter, or have a gibe at the opposite benches, and it ill-becomes the Minister in the speech he made to appeal to the political passions and prejudices of his own followers on the backveld, by saying, at this juncture, of all junctures, it was unwise and unfair and impolitic for the hon. member for Hospital to suggest any increase in the rates of export of primary products. This question is not being raised to-day for the first time. It has been raised during the past five or six years, when the primary industries were more prosperous than they are to-day. It is not suggested that any changes should be made as a result of the discussion on the spot. If a change is to be made, it will be made at the proper time, having regard to the position of the various industries. I think the hon. member has done the House a distinct service by bringing this matter forward in the manner in which he has done.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>I thank the Minister in that he should have replied to most of the representations made by me in introducing the motion. It is rather difficult for some of us, quite to understand the hon. Minister&#x2019;s reasoning. It is so great that it is really beyond us. Particularly he wants us to accept the position that these high railway rates to the interior have little, or no effect, upon the cost of living. We have endeavoured to persuade him that these rates are double what they ought to be. Immediately following he asks us what we are going to do. You are going to pay 25 per cent, on the products of the country and you will raise the cost by 25 per cent. Now if that increase you will raise the cost of the farmers&#x2019; products i will also raise the cost of living. I am afraid the Minister&#x2019;s arguments are too much for me. Then there is another point. I want to reply to this because the Minister has told us this before, that commerce speaks with two voices. I think, sometimes, he says it speaks with three or four. He never said a truer word in his life, but no one understands him. When he gets on to the question of coal rates to the Witwatersrand, or Bloemfontein, or Cape Town, it is perfectly natural that there should be a difference of opinion on the question of rates. He tells us, and keeps on telling us, that commerce speaks with two voices. I really think that is hardly quite a correct attitude, though in a way it is perfectly true and I hope they will always speak with two voices. I now want to reply to the Minister&#x2019;s reference to branch lines. I do want to maintain this position, that losses on branch lines should be paid for from the Consolidated Revenue Fund, and the best authority one can give for that is the reference again and again in the Auditor-General&#x2019;s report. I think you will find it particularly in the report for 1918. Then, with regard to the additional cost of civilized labour, which is an enormous tax on the users of the railways. We have had again and again the Auditor-General of the country giving the section of the constitution in this regard and pointing out that this payment should be made from the Consolidated Revenue Fund to the Railways and Harbours Fund. These are two of the greatest features in connection with our demands to-day. The South African railways and harbours are not getting justice according to the Constitution and according to the Auditor-General of the country. There are immensely large sums which ought to be paid to the South African railways and harbours by the Consolidated Revenue Fund. The railways and rates and harbours should be put on a sound basis either by appointing an independent commission or certainly by people who know their job. I do believe that the suggestions made by the Minister in regard to the farmers would not take place at all if we had a rating board, because there is such a large amount of money that ought to go to the railways under these sections of which you have had nothing all these years. I will leave the matter there. I hope the hon. Minister, at least, will think over the two latter suggestions. He has accepted the injustice that is being done to the inland communities, but it is to the civilized railways policy, or what is called the white labour policy und the losses on the branch lines, which he has got to get from the Consolidated Revenue Fund. If that large amount of money is given to the railways as provided, then there would be no more motions of this character in regard to the railway rates of the country. The railway rates would not only be reasonable, but we shall be able to give a fair charge for the services rendered. If the hon. Minister will take that into consideration, on that understanding, I shall withdraw the motion.</p>
+
+<p>With leave of the House, motion withdrawn.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s.c._on_low-grade_mines">
+
+<heading>S.C. ON LOW-GRADE MINES.</heading>
+
+<speech by="#robert_kotz&#x00E9;">
+
+<from><span class="col_397-398" refersTo="page_0268"/>&#x2020;Sir <person refersTo="hansard_za">ROBERT KOTZ&#x00C9;:</person></from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a select committee be appointed to enquire into and report upon the mining of low-grade ore on the Witwatersrand, the committee to have power to take evidence and call for papers.</block>
+
+<p>The subject of my motion is a consideration of the problem of the mining of low-grade on the Rand, a problem which is one of the utmost importance to the country. The subject was considered by the Low-grade Mines Commission in 1919; the commission reported in 1920 and made certain recommendations. The problem was further considered in 1922 by the Mining Industry Board, which presented a report and furnished some data of very great value even to-day. I should first explain what is meant by low-grade ore. In every mine there are reefs and portions of reefs which do not pay for the cost of working. If, for example, the average cost of working is 20/- a ton, and the ore is only returning 19/- a ton, obviously there is a loss of 1/- a ton, and in that case that ore had better be left alone. Most of the ore in mines is of a grade that does not yield a very high profit; mainly the ore is somewhere just above the cost of working, and it is only the proportion of ore of a higher grade which brings up the grade of the whole mine. By the addition of that higher grade ore, the average may be brought up from 20/- to 25/- or 30/- a ton, or even higher, but even in the richest mine there is low grade ore. But the definition of low-grade ore has been extended, and nowadays we speak of it also as meaning ore which is not payable. I should like to refer to a point raised last session&#x2014;that it is within the discretion of a mine management or the board of directors to fix the grade of a mine. That is not the case&#x2014;the grade is fixed automatically by nature. It is arrived at by including all the ore in the mine above the pay limit, and finding its average value. For example, in mines worked under a government lease, when the average grade is 7&#x00BD; dwts., the Inspector of Mining Leases examines whether the mine has been working to grade or not. If it works to another grade, then he will report accordingly, and it means that the mine is taking more of its rich one than it ought, or less, as the case may be. Low-grade ore is ore from which little or no profit can be derived. The Mining Industry Board of 1922 in its report furnished figures as to the amount of ore which was just below the pay limit. It records that in producing mines 220,000,000 tons of ore fell in the category between 4&#x00BD; and 3 dwts. of gold per ton. At that time four-and-a-half pennyweights was about the pay limit. It was also estimated that in the non-producing mines, that is, mines not working, either because they had not reached the producing stage, or had been closed down in the past, there were available a further 220,000,000 tons of ore of this character; so altogether if the cost of mining could be reduced to three pennyweights we had 440,000,000 tons available. If these were worked on a reasonable scale and exhausted in a period of say twenty years, we would have an enormous tonnage of ore available every year.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>Mr. <person refersTo="hansard_za">STUTTAFORD</person></from>
+
+<p>seconded the motion.</p>
+
+<p>On the motion of Sir Robert Kotze the debate was adjourned; to be resumed on the 7th February.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1930-02-04T17:43:00">5.43 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

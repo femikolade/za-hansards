@@ -1,0 +1,56 @@
+---
+title: 'House of Assembly: Vol14 - SATURDAY 31 MAY 1930'
+layout: debate
+year: 1930
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>SATURDAY, 31st MAY, 1930.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1930-05-31T10:34:00">10.34 a.m.</recordedTime></narrative>
+
+</prayers>
+
+<p>Business suspended at 10.35 a.m. and resumed at 11.30 a.m.</p>
+
+<debateSection name="#agricultural_warehouse_bill">
+
+<heading>AGRICULTURAL WAREHOUSE BILL.</heading>
+
+<p>Message received from the Senate returning the Agricultural Warehouse Bill with amendments.</p>
+
+<p>Amendments considered and agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#irrigation_districts_adjustment_bill">
+
+<heading>IRRIGATION DISTRICTS ADJUSTMENT BILL.</heading>
+
+<p>Message received from the Senate returning the Irrigation Districts adjustment Bill with an amendment.</p>
+
+<p>Amendment considered and agreed to.</p>
+
+<p>Business suspended at 11.45 a.m. and resumed at 11.50 a.m.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1930-05-31T11:55:00">11.55 a.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
+</debateBody>
+
+</debate>
+
+</akomaNtoso>
