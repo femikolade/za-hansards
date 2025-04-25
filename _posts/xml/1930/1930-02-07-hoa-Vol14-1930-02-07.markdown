@@ -1,0 +1,2957 @@
+---
+title: 'House of Assembly: Vol14 - FRIDAY 7 FEBRUARY 1930'
+layout: debate
+year: 1930
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 7th FEBRUARY, 1930.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1930-02-07T14:21:00">2.21 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#s.c._members_appointed">
+
+<heading>S.C. MEMBERS APPOINTED.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that the Committee on Standing Rules and Orders had appointed the following members to serve on the Select Committee on the Cattle Improvement Bill, viz.: The Minister of Agriculture, Messrs. Abrahamson, Baines, Bekker, P. C. de Villiers, Gilson, Marwick, A. S. Naud&#x00E9;, van Rensburg and Col. Stallard. The Committee has further discharged Mr. Conroy from service on the Select Committee on Subject of Kaffir Corn and Mealie Lands Cleansing Bill and appointed Mr. Heyns in his stead.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#privilege">
+
+<heading>PRIVILEGE.</heading>
+
+<speech by="#krige">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>Mr. Speaker, I beg to draw your attention to the fact that a regrettable incident took place in the precincts of Parliament this morning in that an assault was committed on the hon. member for Illovo (Mr. Marwick) by Senator the hon. Mr. Boydell, as the result of which the former sustained injuries and is now in hospital receiving medical attention, and I ask you what action is proper to be taken in the matter.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member has no doubt raised this question of privilege in order to comply with the rule that complaints of breach of privilege should be raised as soon as possible after the breach has occurred. There are, however, two features of the case which seem to me to be unusual. In the first place, I think the complaint is usually made by the member personally affected; and in the second place a charge is being made against a member of the other House. Parliament in any event will never proceed summarily against a person charged with an offence against its privileges, but will always give him an opportunity of defending himself. Under these circumstances I would suggest to the hon. member that he should give notice, if he so desires, for the appointment of a select committee to examine the matter of the complaint of breach of privilege and to report its opinion thereon to the House. This notice, if given, will take precedence of other motions as well as of Orders of the Day under Standing Order No. 52.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>I would submit to you, sir, that since you have held that it is a matter of privilege, whether it is not now for the leader of the House, the Prime Minister, to move that such committee be appointed&#x003F;</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I will say at once that I know nothing about the incident. I have not received the least notice of it, not even that it would be raised here this afternoon. Without knowing anything about it, I am not prepared to table any motion.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>Will the Prime Minister be prepared to accept the motion if I propose it&#x003F;</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from><span class="col_523-524" refersTo="page_0331"/>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>I move in terms of your ruling, sir&#x2014;</p>
+
+<block name="quote">That a select committee he appointed to enquire into this incident.</block>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I do not, of course, by this intend to convey that such a select committee would have any jurisdiction. I do not know where the incident happened, and whether it is necessary to appoint a joint committee. The question is where it took place. In this House, or in the Senate&#x003F; If it was in the Senate we must take care that we do not approve of a committee on the assumption that it would have jurisdiction over the Senate. I do not know what the rule says.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>It was a member of this House, but possibly a joint committee would have to be appointed.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Precisely. I am thinking of England. If a similar incident happened there the awkward question might arise whether the House of Commons had any jurisdiction if the incident had taken place in the House of Lords. If it is according to the rules I have no objection to a select committee. I do not, however, thereby want to convey that any irregularity has taken place.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Does the hon. member wish to propose a committee to consult with a select committee of the other House &#x003F;</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>If I may make a suggestion, it is, it seems to me, that the first question that has to be decided by any committee which may be appointed is whether a breach of the privileges of this House has been committed; and of that we are the best judge. If this committee comes to the conclusion that no breach of the privileges of this House has been committed, their jurisdiction is finished, and if they come to the conclusion that a breach of privilege has been committed by a member of the other hon. House, it is time to go into the matter. If the committee considers a breach of privilege of this House has been committed, it is time to consider what further action should be taken.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Does the hon. member move that a select committee be appointed to enquire whether a breach of privilege has occurred and to report to this House &#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I suggest that according to the hon. member&#x2019;s intention this committee should enquire whether a breach of the privileges of this House has been committed, and nothing more.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I think what ought to be enquired into first is whether the act was a breach of the privileges of this House. When that is reported upon we can get into communication with the other hon. House. I should like to know though whether a complainant is not required. I am afraid of creating a precedent. Possibly both men will say that it is a regrettable affair and that it had better be left alone. We shall perhaps be introducing a new principle.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>May I move the motion &#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I would suggest to the hon. member that he gives notice to move the motion on Monday.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>Will Mr. Speaker allow me to hand in the motion, although the time has expired to-day to give notice of motion &#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Railways: Apprentices.</heading>
+
+<question by="#van_coller" to="#minister_of_railways_and_harbours">
+
+<from>I Mr. VAN COLLER</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many apprentices are employed in the Railways and Harbours service;</li>
+
+<li>(2) how many apprentices are attending (<i>a</i>) technical college classes and (6) continuation classes;</li>
+
+<li>(3) whether the apprentices are attending such classes during their own time or that of the Administration;</li>
+
+<li>(4) what facilities, if any, are being granted to apprentices to attend such technical colleges and/or continuation classes; and</li>
+
+<li>(5) in what manner are apprentices encouraged to acquire further education, and whether promotion is subject to any educational qualifications &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_coller">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) 1,271.</li>
+
+<li>(2) (a) 934; (b) 2.</li>
+
+<li>(3) Wherever practicable, in their own time, but, if in the Administration&#x2019;s time, four hours a week are allowed them without loss of pay.</li>
+
+<li>(4) Free travelling is allowed where attendance involves a railway journey, and technical class fees are refunded to an apprentice who has displayed diligence in his studies and attended not less than seventy-five per cent, of the classes.</li>
+
+<li>(5) By affording those who attain distinction in their studies and who possess outstanding ability an opportunity of being trained in the drawing office of the mechanical department, to fit them for positions on the salaried staff, in respect of which certain educational qualifications are necessary.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Sugar Exports.</heading>
+
+<question by="#stals" to="#minister_of_finance">
+
+<num>II.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) How much sugar was produced in the Union during the four years 1926 to 1929;</li>
+
+<li>(2) how much sugar was exported during those years, to which countries was it exported, and what was the value for each of those years;</li>
+
+<li><span class="col_525-526" refersTo="page_0332"/>(3) how much sugar was imported during those years and from which countries;</li>
+
+<li>(4) what was the difference between the landed price of the imported sugar and the fixed inland price; and</li>
+
+<li>(5) whether a dumping duty was levied on all that imported sugar and, if so, what did the said dumping duty amount to&#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#stals">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) 1926-&#x2019;27, 242,600 tons; 1927-&#x2019;28, 247,300 tons; 1928-&#x2019;29, 295,900 tons; 1929-&#x2019;30 (estimated) 297,500 tons.</li>
+
+<li>(2) and (3) I lay statements upon the Table giving the information asked for.</li>
+
+<li>(4) The retail price of refined sugars is fixed at the ports of Durban, East London, Port Elizabeth, Mossel Bay and Cape Town at a maximum price of 3&#x00BE;d. per lb. (&#x003D; 31s. 3d. per 100 lbs.) by virtue of Proclamation No. 237 of 1926, issued under the provisions of the Sugar Prices Act, 1926, so that the figures quoted hereunder represent the average difference between the landed price of imported sugars and the fixed maximum price of sugar at those ports: 1926, 8s. 9d. per 100 lbs.; 1927, 8s. per 100 lbs.; 1928, 8s. 3d. per 100 lbs.; 1929, 9s. 6d. per 100 lbs.</li>
+
+<li>(5) No. &#x201C;Ordinary&#x201D; dumping duty equal to the difference between the domestic value free on board and the export price free on board was imposed on sugar imported into the Union from the following countries, viz.: (a) Germany. (b) Czechoslovakia, by Proclamation No. 180, 1929, effective from 16.8.1929. (c) United States of America, Proclamation No. 221 of 1929, effective from 6.9.1929. (d) Canada, Proclamation No. 314 of 1929, effective 20.12.1929 (but does not include shipments on the water at those dates). The amount of dumping duty collected was &#x00A3;25.</li>
+
+</ol>
+
+<p><i>The following are the statements referred to in paragraphs</i> (2) <i>and</i> (3)&#x2014;</p>
+
+<p>Statement Showing Quantity and Value or South African Sugar Exported from the Union.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td colspan="2"><p>1926.</p></td>
+
+<td colspan="2"><p>1927</p></td>
+
+<td colspan="2"><p>1928</p></td>
+
+<td colspan="2"><p>Ten months ended October, 1929.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>United Kingdom</p></td>
+
+<td><p>112,493,359</p></td>
+
+<td><p>684,402</p></td>
+
+<td><p>119,870,189</p></td>
+
+<td><p>778,398</p></td>
+
+<td><p>167,813,200</p></td>
+
+<td><p>984,664</p></td>
+
+<td><p>168,217,165</p></td>
+
+<td><p>842,804</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Canada, Dominion of</p></td>
+
+<td><p>1,747,940</p></td>
+
+<td><p>106,221</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>20,705,000</p></td>
+
+<td><p>112,750</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Ascension Island</p></td>
+
+<td><p>4,000</p></td>
+
+<td><p>24</p></td>
+
+<td><p>200</p></td>
+
+<td><p>3</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Nyasaland Protectorate</p></td>
+
+<td><p>424</p></td>
+
+<td><p>8</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>104</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Tanganyika Territory</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>458</p></td>
+
+<td><p>7</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>St. Helena</p></td>
+
+<td><p>8,050</p></td>
+
+<td><p>152</p></td>
+
+<td><p>1,025</p></td>
+
+<td><p>15</p></td>
+
+<td><p>150</p></td>
+
+<td><p>3</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Belgian Congo</p></td>
+
+<td><p>548,864</p></td>
+
+<td><p>6,322</p></td>
+
+<td><p>409,919</p></td>
+
+<td><p>4,947</p></td>
+
+<td><p>371,311</p></td>
+
+<td><p>4,783</p></td>
+
+<td><p>48,165</p></td>
+
+<td><p>529</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Germany</p></td>
+
+<td><p>10,500</p></td>
+
+<td><p>126</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Portuguese East Africa</p></td>
+
+<td><p>8,623</p></td>
+
+<td><p>150</p></td>
+
+<td><p>23,143</p></td>
+
+<td><p>321</p></td>
+
+<td><p>78,823</p></td>
+
+<td><p>980</p></td>
+
+<td><p>9,636</p></td>
+
+<td><p>141</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>114,823,760</p></td>
+
+<td><p>797,405</p></td>
+
+<td><p>120,304,476</p></td>
+
+<td><p>783,684</p></td>
+
+<td><p>168,263,484</p></td>
+
+<td><p>990,430</p></td>
+
+<td><p>188,980,528</p></td>
+
+<td><p>956,233</p></td>
+
+</tr>
+
+</table>
+
+<p>Statement Showing Quantity and Value of Sugar Imported into the Union.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td colspan="2"><p>1926.</p></td>
+
+<td colspan="2"><p>1927</p></td>
+
+<td colspan="2"><p>1928.</p></td>
+
+<td colspan="2"><p>Ten months ending October, 1929.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+<td><p>Quantity.</p></td>
+
+<td><p>Value.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>United Kingdom</p></td>
+
+<td><p>436,936</p></td>
+
+<td><p>5,007</p></td>
+
+<td><p>330,748</p></td>
+
+<td><p>4,445</p></td>
+
+<td><p>435,455</p></td>
+
+<td><p>4,218</p></td>
+
+<td><p>455,110</p></td>
+
+<td><p>4,095</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Canada, Dominion of</p></td>
+
+<td><p>3.365</p></td>
+
+<td><p>222</p></td>
+
+<td><p>3,307</p></td>
+
+<td><p>196</p></td>
+
+<td><p>2,154</p></td>
+
+<td><p>103</p></td>
+
+<td><p>3,432</p></td>
+
+<td><p>127</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>India</p></td>
+
+<td><p>4,759</p></td>
+
+<td><p>77</p></td>
+
+<td><p>5,228</p></td>
+
+<td><p>95</p></td>
+
+<td><p>1,742</p></td>
+
+<td><p>37</p></td>
+
+<td><p>1,433</p></td>
+
+<td><p>22</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Ceylon</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>584</p></td>
+
+<td><p>13</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Mauritius</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>120</p></td>
+
+<td><p>3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>British West Indies</p></td>
+
+<td><p>1,226</p></td>
+
+<td><p>15</p></td>
+
+<td><p>784</p></td>
+
+<td><p>12</p></td>
+
+<td><p>112</p></td>
+
+<td><p>2</p></td>
+
+<td><p>112</p></td>
+
+<td><p>6</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Hong Kong</p></td>
+
+<td><p>558</p></td>
+
+<td><p>5</p></td>
+
+<td><p>1,194</p></td>
+
+<td><p>10</p></td>
+
+<td><p>858</p></td>
+
+<td><p>8</p></td>
+
+<td><p>1,000</p></td>
+
+<td><p>8</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Czechoslovakia</p></td>
+
+<td><p>2,096</p></td>
+
+<td><p>39</p></td>
+
+<td><p>3,170</p></td>
+
+<td><p>69</p></td>
+
+<td><p>8,304</p></td>
+
+<td><p>152</p></td>
+
+<td><p>2,346,140</p></td>
+
+<td><p>13,061</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Italy</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>1,760</p></td>
+
+<td><p>23</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Belgium</p></td>
+
+<td><p>728</p></td>
+
+<td><p>12</p></td>
+
+<td><p>2,086</p></td>
+
+<td><p>26</p></td>
+
+<td><p>567,793</p></td>
+
+<td><p>4,489</p></td>
+
+<td><p>8,310</p></td>
+
+<td><p>216</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>France</p></td>
+
+<td><p>336</p></td>
+
+<td><p>3</p></td>
+
+<td><p>7,247</p></td>
+
+<td><p>87</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Bourbon</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>112</p></td>
+
+<td><p>2</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Greece</p></td>
+
+<td><p>1,200</p></td>
+
+<td><p>10</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Germany</p></td>
+
+<td><p>44,535</p></td>
+
+<td><p>323</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>74,315</p></td>
+
+<td><p>552</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Holland</p></td>
+
+<td><p>305,717</p></td>
+
+<td><p>2,216</p></td>
+
+<td><p>12,308</p></td>
+
+<td><p>152</p></td>
+
+<td><p>23,863</p></td>
+
+<td><p>230</p></td>
+
+<td><p>5,397,017</p></td>
+
+<td><p>28,807</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Other Dutch Possessions</p></td>
+
+<td><p>304</p></td>
+
+<td><p>4</p></td>
+
+<td><p>336</p></td>
+
+<td><p>5</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>2,722</p></td>
+
+<td><p>22</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Norway</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>240</p></td>
+
+<td><p>4</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>China</p></td>
+
+<td><p>820</p></td>
+
+<td><p>6</p></td>
+
+<td><p>3,443</p></td>
+
+<td><p>40</p></td>
+
+<td><p>5,089</p></td>
+
+<td><p>44</p></td>
+
+<td><p>2.688</p></td>
+
+<td><p>19</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Japan</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>2,450</p></td>
+
+<td><p>28</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Portuguese East Africa</p></td>
+
+<td><p>1,787,692</p></td>
+
+<td><p>12,861</p></td>
+
+<td><p>3,778,744</p></td>
+
+<td><p>25,971</p></td>
+
+<td><p>22,863,548</p></td>
+
+<td><p>118,771</p></td>
+
+<td><p>1,862,848</p></td>
+
+<td><p>7,974</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Russia</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>1,120</p></td>
+
+<td><p>14</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Argentine Republic</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>224</p></td>
+
+<td><p>2</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cuba</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>25,400</p></td>
+
+<td><p>254</p></td>
+
+<td><p>100,000</p></td>
+
+<td><p>663</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Peru</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>56</p></td>
+
+<td><p>2</p></td>
+
+<td><p>11,368</p></td>
+
+<td><p>102</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>United States of America</p></td>
+
+<td><p>6,133,393</p></td>
+
+<td><p>47,279</p></td>
+
+<td><p>1,763,671</p></td>
+
+<td><p>16,370</p></td>
+
+<td><p>11,040,805</p></td>
+
+<td><p>77,921</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Straits Settlements</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>2,240</p></td>
+
+<td><p>20</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>8,723,665</p></td>
+
+<td><p>68,079</p></td>
+
+<td><p>5,941,404</p></td>
+
+<td><p>47,778</p></td>
+
+<td><p>35,135,870</p></td>
+
+<td><p>207,298</p></td>
+
+<td><p>36,313,076</p></td>
+
+<td><p>217,227</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Licence Consolidation Act, 1925.</heading>
+
+<question by="#pocock" to="#minister_of_finance">
+
+<num><span class="col_527-528" refersTo="page_0333"/>III.</num>
+
+<from>Mr. POCOCK</from>
+
+<p>asked the Minister of Finance what was the total Union and Provincial revenue received (a) under the Licence Consolidation Act, No. 32 of 1925, for the financial years ending the 31st March, 1926, and the 31st March, 1927, and (b) for the year ending the 31st March, 1925, under Acts repealed or amended by Act No. 32 of 1925&#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#pocock">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>(a) Year ended 31st March, 1926, &#x00A3;516,000. This figure represents the collections for the year, 1st April, 1925 to 31st March, 1926, in respect of licences specified in the Licences Consolidation Act. 1925. No information is available which would permit of the collections being split up between the periods, 1st April, 1925 to 31st December, 1925, and 1st January, 1926 (the date on which the Act came into force) to 31st March, 1926. Year ended 31st March, 1927, &#x00A3;518,000; (b) Year ended 31st March, 1925, &#x00A3;563,000.</p>
+
+</answer>
+
+<question by="#pocock" to="#minister_of_finance">
+
+<from>&#x2020;Mr. POCOCK:</from>
+
+<p>Since the turnover tax is one of those repealed by the Act of 1925, am I correct in assuming that that tax is included in the item (b) for that year&#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#pocock">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The hon. member&#x2019;s question relates to licences which were abolished. I cannot give the hon. member, at the moment, the various licences dealt with in those Acts.</p>
+
+</answer>
+
+<question by="#pocock" to="#minister_of_finance">
+
+<from>&#x2020;Mr. POCOCK:</from>
+
+<p>I want to be quite clear that the turnover tax is included.</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#pocock">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I am not quite sure. The hon. member must give notice.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Imports and Exports, Portuguese Territory.</heading>
+
+<question by="#pocock" to="#minister_of_finance">
+
+<num>IV.</num>
+
+<from>Mr. POCOCK</from>
+
+<p>asked the Minister of Finance what was the average value of the under-mentioned imports and exports between the Union and Portuguese East Africa for the five years 1920 to 1924, and the annual value for the years 1925 to 1929, viz., (a) imports of fruit and ground nuts, (b) exports of maize and maize meal, tobacco, cigars, cigerattes, etc. &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#pocock">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I lay a statement on the Table which gives the desired particulars.</p>
+
+<p><i>The following is the statement</i>&#x2014;</p>
+
+<p>Statement showing the value of certain imports from and exports to Portuguese East Africa.</p>
+
+<table>
+
+<tr>
+
+<td><p>Imports.</p></td>
+
+<td><p>Fruit.</p></td>
+
+<td><p>Ground Nuts.</p></td>
+
+<td><p>Total Importations into Union from P.E.A.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1920</p></td>
+
+<td><p>&#x00A3;664</p></td>
+
+<td><p>&#x00A3;27,399</p></td>
+
+<td><p>&#x00A3;301,550</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1921</p></td>
+
+<td><p>517</p></td>
+
+<td><p>7,864</p></td>
+
+<td><p>446,814</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1922</p></td>
+
+<td><p>7,766</p></td>
+
+<td><p>11,966</p></td>
+
+<td><p>601,462</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1923</p></td>
+
+<td><p>8,007</p></td>
+
+<td><p>20.240</p></td>
+
+<td><p>148,802</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1924</p></td>
+
+<td><p>13,713</p></td>
+
+<td><p>11,588</p></td>
+
+<td><p>84,283</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1925</p></td>
+
+<td><p>10,395</p></td>
+
+<td><p>25,054</p></td>
+
+<td><p>207,932</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1926</p></td>
+
+<td><p>13,959</p></td>
+
+<td><p>33,408</p></td>
+
+<td><p>218,198</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1927</p></td>
+
+<td><p>40,705</p></td>
+
+<td><p>34,786</p></td>
+
+<td><p>228,538</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1928</p></td>
+
+<td><p>59,326</p></td>
+
+<td><p>52,276</p></td>
+
+<td><p>370,909</p></td>
+
+</tr>
+
+</table>
+
+<p>NOTE.&#x2014;1929 figures are not available.</p>
+
+<table>
+
+<tr>
+
+<td><p>Exports.</p></td>
+
+<td><p>Maize.</p></td>
+
+<td><p>Maize meal.</p></td>
+
+<td><p>Tobacco.</p></td>
+
+<td><p>Cigars.</p></td>
+
+<td><p>Cigarettes.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1920</p></td>
+
+<td><p>1,072</p></td>
+
+<td><p>15,889</p></td>
+
+<td><p>19,491</p></td>
+
+<td><p>1,818</p></td>
+
+<td><p>11,687</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1921</p></td>
+
+<td><p>21,075</p></td>
+
+<td><p>17,666</p></td>
+
+<td><p>10,647</p></td>
+
+<td><p>862</p></td>
+
+<td><p>9,228</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1922</p></td>
+
+<td><p>50,700</p></td>
+
+<td><p>29,636</p></td>
+
+<td><p>6,793</p></td>
+
+<td><p>769</p></td>
+
+<td><p>4,931</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1923</p></td>
+
+<td><p>4,083</p></td>
+
+<td><p>9,000</p></td>
+
+<td><p>9,763</p></td>
+
+<td><p>361</p></td>
+
+<td><p>1,752</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1924</p></td>
+
+<td><p>1,837</p></td>
+
+<td><p>3,444</p></td>
+
+<td><p>5,029</p></td>
+
+<td><p>70</p></td>
+
+<td><p>206</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1925</p></td>
+
+<td><p>6,233</p></td>
+
+<td><p>1,449</p></td>
+
+<td><p>4,198</p></td>
+
+<td><p>27</p></td>
+
+<td><p>186</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1926</p></td>
+
+<td><p>8,969</p></td>
+
+<td><p>587</p></td>
+
+<td><p>1,071</p></td>
+
+<td><p>45</p></td>
+
+<td><p>309</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1927</p></td>
+
+<td><p>11,953</p></td>
+
+<td><p>235</p></td>
+
+<td><p>607</p></td>
+
+<td><p>100</p></td>
+
+<td><p>464</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1928</p></td>
+
+<td><p>9,524</p></td>
+
+<td><p>12</p></td>
+
+<td><p>790</p></td>
+
+<td><p>47</p></td>
+
+<td><p>556</p></td>
+
+</tr>
+
+</table>
+
+<p>Total Exports from Union to Portuguese East Africa.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>S.A.Produce.</p></td>
+
+<td><p>Imported goods re-exported.</p></td>
+
+<td><p>Total.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1920</p></td>
+
+<td><p>309,492</p></td>
+
+<td><p>404,199</p></td>
+
+<td><p>713,691</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1921</p></td>
+
+<td><p>288,569</p></td>
+
+<td><p>317,624</p></td>
+
+<td><p>606,193</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1922</p></td>
+
+<td><p>259,997</p></td>
+
+<td><p>181,684</p></td>
+
+<td><p>441,681</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1923</p></td>
+
+<td><p>200,708</p></td>
+
+<td><p>151,649</p></td>
+
+<td><p>352,357</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1924</p></td>
+
+<td><p>167,096</p></td>
+
+<td><p>192,315</p></td>
+
+<td><p>359,411</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1925</p></td>
+
+<td><p>161,010</p></td>
+
+<td><p>158,482</p></td>
+
+<td><p>319,492</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1926</p></td>
+
+<td><p>137,727</p></td>
+
+<td><p>157,874</p></td>
+
+<td><p>295,601</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1927</p></td>
+
+<td><p>159,246</p></td>
+
+<td><p>164,757</p></td>
+
+<td><p>324,003</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1928</p></td>
+
+<td><p>200,995</p></td>
+
+<td><p>184,322</p></td>
+
+<td><p>385,317</p></td>
+
+</tr>
+
+</table>
+
+<p>NOTE.&#x2014;1929 figures are not available.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Customs; Suspended Duties.</heading>
+
+<question by="#pocock" to="#minister_of_finance">
+
+<num>V.</num>
+
+<from>Mr. POCOCK</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) What is the number of items in the customs tariff where provision exists for a suspended duty; and,</li>
+
+<li>(2) what is the number of items where such duty has been imposed &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#pocock">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>(1) 35; (2) 4.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Maize Purchases.</heading>
+
+<question by="#wares" to="#minister_of_finance">
+
+<num>VI.</num>
+
+<from>Col. WARES</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Whether the Government has recently purchased a large parcel of maize, approximately 36,000 bags; if so,</li>
+
+<li>(2) (a) what was the date of purchase, (b) who were the person or persons from whom the maize was purchased, (c) what was the price paid; and</li>
+
+<li>(3) whether the purchase was by tender or private purchase &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#wares">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>(1) No;(2) and (3) Fall away.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Magistrate At Nelspruit.</heading>
+
+<question by="#van_zyl" to="#minister_of_mines_and_industries">
+
+<num>VII.</num>
+
+<from>Maj. G. B. VAN ZYL (for Col. D. Reitz)</from>
+
+<p>asked the Minister of Justice whether <span class="col_529-530" refersTo="page_0334"/>it is the intention to create a separate magisterial district for Nelspruit, in the district of Barberton, and, if so, whether he will indicate the boundaries of such new magisterial area &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#van_zyl">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>The question of creating a separate magisterial district for Nelspruit is at present under consideration and investigation. The magistrate of Barberton is holding a meeting at Kaapsche Hoop on the 14th instant to receive representations in regard to the boundaries; any other representations relative to the boundaries may be submitted to the Department of Justice.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Engines, Defective.</heading>
+
+<question by="#lawrence" to="#minister_of_railways_and_harbours">
+
+<num>VIII.</num>
+
+<from>Mr. LAWRENCE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many of the 19A class engines, manufactured by the Swiss Locomotive and Machinery Works, of Winterhur, have been imported during the past five years;</li>
+
+<li>(2) how many of them (a) have been and (b) are at the present time out of service for alteration and repairs;</li>
+
+<li>(3) whether the 19A engine which failed to haul a full load up Sir Lowry&#x2019;s Pass on the 30th December, 1929, has been delayed on any other occasion by derailment or any other cause;</li>
+
+<li>(4) how many derailments of these 19A engines have occurred while working, on what dates, and in what localities;</li>
+
+<li>(5) whether the defect which causes derailment has been ascertained, and, if so, what is it;</li>
+
+<li>(6) whether the part of the 19A engine known as the &#x201C;element&#x201D; has been proved to be defective and the cause of failure;</li>
+
+<li>(7) whether these engines have proved capable of pulling the load contemplated in their specifications;</li>
+
+<li>(8) whether another derailment occurred on the 3rd February about two miles beyond Bot River to 907 down passenger train to Caledon, and, if so, what are the particulars and cause of the said derailment;</li>
+
+<li>(9) what was the number of the engine which was derailed and whether it was another of the 19A Swiss class;</li>
+
+<li>(10) what was the duration of the delay caused to 907 down passenger train by the derailment;</li>
+
+<li>(11) whether, in view of the several derailments, the Minister will consider the advisability of discontinuing the use of these engines, as being dangerous to the public safety;</li>
+
+<li>(12) whether the breakdown train proceeding from Cape Town to re-rail 907 down was involved in a head-on collision at Faure Station at about 4 o&#x2019;clock the same afternoon; if so,</li>
+
+<li>(13) what was the cause of this accident; and</li>
+
+<li>(14) whether the goods train with which the breakdown train collided was conveying dynamite from De Beers Explosive Factory &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#lawrence">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) 36.</li>
+
+<li>(2) (a) Twenty-eight have received ordinary minor shed repairs at various times and have been stopped for repairs to defective superheater elements. (b) 4.</li>
+
+<li>(3) Yes.</li>
+
+<li>(4) Eight, as follows: 11th November, 1929, between Moorreesburg and Koringsberg; 30th November, 1929, between Botrivier and Houwhoek; 14th December, 1929, between Elgin and Houwhoek; 15th December, 1929, near Makokskraal; 21st January, 1930, near Cathcart; 22nd January, 1930, between Elgin and Houwhoek; 25th January, 1930, between Elgin and Houwhoek; 3rd February, 1930, between Botrivier and De Vlei.</li>
+
+<li>(5) Yes; insufficient side play in the leading bogie.</li>
+
+<li>(6) Yes; the superheater elements were badly welded and have caused several failures, but this defect is being rectified at the makers&#x2019; expense.</li>
+
+<li>(7) Not yet; on account of under weight. The short weight will be made good at the expense of the makers.</li>
+
+<li>(8) Yes; I would refer the hon. member to the replies given under (4) and (5).</li>
+
+<li>(9) Yes; engine No. 688.</li>
+
+<li>(10) Three hours.</li>
+
+<li>(11) This is receiving the attention of the Administration&#x2019;s technical officers. These engines are performing very satisfactory work on various sections of the Union railways.</li>
+
+<li>(12) Yes.</li>
+
+<li>(13) Contravention of the train regulations by the station official concerned.</li>
+
+<li>(14) Yes.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Transvaal University College Appointments.</heading>
+
+<question by="#de_villiers" to="#minister_of_education">
+
+<num>IX.</num>
+
+<from>Mr. W. B. DE VILLIERS</from>
+
+<p>asked the Minister of Education:</p>
+
+<ol>
+
+<li>(1) Whether the appointment during last year at the Transvaal University College, Pretoria, of a professor of, music in place of the professor who retired, was a permanent or only a temporary appointment;</li>
+
+<li>(2) if permanent, whether the vacancy was advertised before the appointment was made;</li>
+
+<li>(3) what were the qualifications of the person who was appointed;</li>
+
+<li>(4) whether he was born in South Africa; and</li>
+
+<li>(5) whether the Minister had any say in the appointment &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_education" to="#de_villiers">
+
+<from>The MINISTER OF EDUCATION:</from>
+
+<ol>
+
+<li>(1) The appointment is a part-time one, made from year to year.</li>
+
+<li>(2) Falls away.</li>
+
+<li>(3) Dip. H.M., Berlin.</li>
+
+<li>(4) No.</li>
+
+<li>(5) No.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Watchmen at Salt River.</heading>
+
+<question by="#roper" to="#minister_of_railways_and_harbours">
+
+<num><span class="col_531-532" refersTo="page_0335"/>X.</num>
+
+<from>Mr. ROPER</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the plain clothes constables in the railway office at Salt River whom it is proposed in future to call &#x201C;watchmen&#x201D; are at present entitled to be promoted (as vacancies occur) to the rank of uniformed police constable with pay on the scale 10s. 6d. to 13s. 6d. per day;</li>
+
+<li>(2) whether these men will be eligible for promotion direct to the rank of uniformed police constable in the same manner as if their designation was not altered;</li>
+
+<li>(3) whether they will be eligible for such promotion on the same footing as plain clothes constables whose designation it is not proposed to alter to &#x201C;watchman&#x201D;; and</li>
+
+<li>(4) whether they will retain the powers conferred upon them by Section 57 of Act No. 22, 1916, exactly as if their designation was not altered &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#roper">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes, provided they possess the necessary qualifications.</li>
+
+<li>(2) The prospects of the men concerned are in no way diminished, and their claims for advancement will continue to receive consideration in conjunction with the claims of others equally eligible.</li>
+
+<li>(3) Yes.</li>
+
+<li>(4) Yes.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Posts: Arniston Service.</heading>
+
+<question by="#van_der_byl" to="#minister_of_posts_and_telegraphs">
+
+<num>XI.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol>
+
+<li>(1) Whether the fishing village of Arniston is served by only one mail per week; and</li>
+
+<li>(2) whether he will increase the facilities &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#van_der_byl">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) The volume of postal traffic does not warrant a more frequent service. Even at present the cost of maintaining the weekly post exceeds the revenue derived from this office by more than 50 per cent.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Arniston Harbour.</heading>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether he has received a petition from the fishermen of Arniston, district of Bredasdorp, asking that improvements be made to the harbour; if so,</li>
+
+<li>(2) whether it has been reported to him that boats are being continually damaged owing to the present conditions of the place, which are dangerous and may result in the loss of lives; and</li>
+
+<li>(3) what action he proposes to take in the matter &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) No.</li>
+
+<li>(2) No.</li>
+
+<li>(3) In any case, the Administration has no jurisdiction at Arniston and, consequently, is not in a position to provide funds for harbour improvements there.</li>
+
+</ol>
+
+</answer>
+
+<question by="#van_der_byl" to="#minister_of_railways_and_harbours">
+
+<num>XIII.</num>
+
+<from>Maj. VAN DER BYL</from>
+
+<p>[withdrawn].</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Public Service: Retirals and Pensions.</heading>
+
+<question by="#conradie" to="#minister_of_the_interior">
+
+<num>XV.</num>
+
+<from>Dr. CONRADIE</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) How many officials of the public service and the South African police have been retired from 1920 to 1924 on account of (a) reorganization and (b) abolition of office;</li>
+
+<li>(2) what are their names and what were their ages when they were retired; and</li>
+
+<li>(3) to what extent has the pension list been increased by pensioning those referred to under (1) (a) &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#conradie">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Bridge at Umbilo River.</heading>
+
+<question by="#eaton" to="#minister_of_railways_and_harbours">
+
+<num>XVI.</num>
+
+<from>Mr. EATON</from>
+
+<p>asked the Minister of Railways and Harbours whether the Administration has agreed to the suggestion that the Provincial Administration, Railway Administration and Durban Corporation should share equally the cost of a scheme involving the construction of a bridge over the Umbilo River on the corporation boundary, and that the necessary work involving the elimination of certain level crossings be proceeded with, and, if so, what is causing the delay in commencing the work &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_byl">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>No, the matter is still under consideration.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Wool: Co-Operative Society at P.E.</heading>
+
+<question by="#kayser" to="#minister_of_agriculture">
+
+<num>XVII.</num>
+
+<from>Mr. KAYSER</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether it has been reported to him that a large co-operative society in Port Elizabeth has actively solicited the business of inland speculative wool and mohair buyers and invited them to take a few shares in the company in order that they may qualify for a rebate of 3s. per bale on produce sent to the society and sold free of taxation;</li>
+
+<li>(2) whether he will ascertain to what extent rebates out of profits earned free of taxation have been paid on produce sent by non-members and by members who have purchased that produce and not produced it;</li>
+
+<li>(3) whether it has been reported to him (a) that many members of a large co-operative society in Port Elizabeth which has adopted the compulsory clause in its <span class="col_533-534" refersTo="page_0336"/>articles of association are anxious to cease to be members, and are only prevented from resigning by virtue of the penalties and forfeitures attached to doing so, and (b) that in many instances dissatisfied members are transferring their produce to the name of their sons and other relatives in order to escape the penalty attached to selling their produce through any other channel than the society to which they belong;</li>
+
+<li>(4) whether he will ascertain to what extent the funds of this society have benefited since its inception by fines and penalties paid and by forfeiture of shares made by dissatisfied members;</li>
+
+<li>(5) whether he will ascertain the amount outstanding in the books of the society as regards fines and forfeitures which it is claiming against members but which have not yet been paid; and</li>
+
+<li>(6) whether he will ascertain the amount of fines and forfeitures that have been waived by the society conditionally on members to whom these fines and forfeitures have been debited continuing to send their produce to the society in future &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#kayser">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>There are only two Wool Co-operative Societies operating at Port Elizabeth. Both these companies are registered under the Co-operative Law in terms of Section 57 of Act No. 28 of 1922, which provides that such companies may continue to carry on their operations in the same manner and to the same extent as before the commencement of the Act. I have no reason to believe that the companies in question are not observing the conditions of their registration and am therefore not prepared to order any enquiries in the matter.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>German Treaty.</heading>
+
+<question by="#nathan" to="#minister_of_mines_and_industries">
+
+<num>XVIII.</num>
+
+<from>Mr. NATHAN</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Whether an agreement has been concluded in terms of the provisions of section 7 of the protocol to the treaty concluded between Germany and the Union of South Africa in September, 1928, wherein it is laid down that &#x201C;in order to facilitate and increase the reciprocal exchange of articles produced or manufactured in their respective territories the contracting parties intend to conclude an agreement on mutual customs tariff concessions&#x201D;; if so,</li>
+
+<li>(2) whether he will lay the agreement upon the Table; and</li>
+
+<li>(3) when he proposes to submit the same for discussion in the House &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#nathan">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1) An agreement in terms of Section 7 of the Protocol to the Union-German Treaty has not yet been concluded.</li>
+
+<li>(2) and (3) Consequently fall away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Mines And Works Act Regulations.</heading>
+
+<question by="#anderson" to="#minister_of_mines_and_industries">
+
+<num>XIX.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Who are the members of the departmental committee engaged in the work of framing new regulations under the Mines and Works Act;</li>
+
+<li>(2) how long have they been so engaged, and when is publication expected to take place; and</li>
+
+<li>(3) what is the cause of the delay in publication &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#anderson">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1), (2) and (3) No departmental committee has been appointed for this purpose. Amendments to the Regulations under the Mines and Works Act which are of a highly technical nature, have been framed by the department after protracted discussion with the interested parties, and it is hoped to promulgate these amendments at an early date.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Native Agriculture.</heading>
+
+<question by="#payn" to="#minister_of_native_affairs">
+
+<num>XX.</num>
+
+<from>Mr. PAYN</from>
+
+<p>asked the Minister of Native Affairs whether Mr. Thornton, Director of Native Agriculture, has made any report to the Administration upon native agricultural development, and, if so, whether he will place such report upon the Table&#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#payn">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Meat. Frozen.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question XII, by Mr. Gilson, standing over from 31st January.</p>
+
+<question by="#gilson" to="#minister_of_finance">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) What quantity of frozen mutton and beef, if any, was shipped to Union ports during the years 1925, 1926, 1927, 1928 and</li>
+
+<li>(2) whether such meat was sold for local consumption or whether any such meat was held in bond and disposed of to visiting shipping, ex bond, without paying duty, and, if so, what quantities; and</li>
+
+<li>(3) who were the firms engaged in this trade&#x003F; REPLY:</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#gilson">
+
+<heading>Reply:</heading>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Beef &#x0026; Veal.</p></td>
+
+<td><p>Mutton.</p></td>
+
+<td><p>Total.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>lbs.</p></td>
+
+<td><p>lbs.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(1) 1925</p></td>
+
+<td><p>3,540</p></td>
+
+<td><p>880</p></td>
+
+<td><p>4,420</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1926</p></td>
+
+<td><p>18,042</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>18,042</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1927</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>51,770</p></td>
+
+<td><p>51,770</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1928</p></td>
+
+<td><p>1,500</p></td>
+
+<td><p>46,558</p></td>
+
+<td><p>48,058</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1929</p></td>
+
+<td><p></p></td>
+
+<td><p>Not available.</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(2) So far as can be ascertained all the above was disposed of as ships&#x2019; stores ex bond without payment of duty.</li>
+
+<li>(3) Being of a confidential nature this information cannot be supplied by me.</li>
+
+</ol>
+
+</answer>
+
+<question by="#gilson" to="#minister_of_finance">
+
+<from>&#x2020;Mr. GILSON:</from>
+
+<p>Is the hon. Minister prepared to take the necessary statutory steps to <span class="col_535-536" refersTo="page_0337"/>prevent that trade from continuing, and to secure same to Union producers &#x003F;</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#gilson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The hon. Minister will appreciate that these duties &#x2026;</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cotton Factories.</heading>
+
+<p>The MINISTER OF MINES AND INDUSTRIES replied to Question XVI, by Mr. Payn, standing over from 4th February.</p>
+
+<question by="#payn" to="#minister_of_mines_and_industries">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) How many factories are there in the Union manufacturing cotton blankets and/or cotton sheeting; and</li>
+
+<li>(2) how many European employees are there in such factory or factories, respectively, how many coloured and how many native &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#payn">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) There are at present four factories in the Union engaged in the manufacture of cotton blankets and/or cotton sheeting.</li>
+
+<li>(2) There are 301 Europeans, 92 coloured and 93 natives employed in these factories</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cattle: Tuberculosis.</heading>
+
+<p>The MINISTER OF AGRICULTURE replied to Question XII, by Mr. Abrahamson, standing over from 4th February:</p>
+
+<question by="#abrahamson" to="#minister_of_agriculture">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether the Agricultural Department has any reliable knowledge as to what extent the herds of the country are infected with tuberculosis;</li>
+
+<li>(2) what number of animals slaughtered for human consumption at the public abattoirs and slaughter houses of the Union have been found infected with tuberculosis;</li>
+
+<li>(3) whether anything is done to trace the herds from which these animals come, and, if so, whether they are controlled or kept under observation;</li>
+
+<li>(4) what is being done to protect the public against the sale of animals or dairy produce from herds known to be infected with tuberculosis;</li>
+
+<li>(5) what number of herds in the Union have been tested during the last five years at the request of owners, how many have re-acted, and how many have proved to be clean;</li>
+
+<li>(6) in respect of those that have re-acted, what action has been taken;</li>
+
+<li>(7) whether the Government has compulsorily tested all herds in the Union which to its knowledge are infected or which it has good reason to suspect were infected;</li>
+
+<li>(8) whether the Government has quarantined all herds in which to its knowledge one or more infected animals have been disclosed by the tuberculine test or otherwise, and, if not, what restrictions have been placed on the sale of these animals or produce from them; and</li>
+
+<li>(9) whether, if the present policy of the Government with regard to tuberculosis is not adequate, immediate action in the direction of strengthening that policy will be taken &#x003F;</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#abrahamson">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) No, accurate knowledge re this can only be obtained by systematic extensive testing of herds. The disease is almost entirely confined to dairy or stabled animals.</li>
+
+<li>(2) At the three largest abattoirs in the Union where the largest number of cases of tuberculosis may be expected the figures for 1929 are as follows: Durban, 23 or .05 of total cattle slaughtered; Johannesburg, 35 or .02 of total cattle slaughtered; Cape Town, 56 or .09 of total cattle slaughtered. These figures reveal that tuberculosis is a rare disease in farm animals which ultimately reach the slaughter house.</li>
+
+<li>(3) In view of the extremely rare cases as shown in (2) and the difficulty of tracing the farm of origin of the slaughtered animals no steps have been taken.</li>
+
+<li>(4) Infection in herds can be established by examination after slaughter or by observation of clinically-affected animals or by tuberculin testing. Clinically-affected animals are always destroyed under the Stock Diseases Act and cattle that have been in contact with such animals are either destroyed or isolated according to the Minister&#x2019;s discretion. If isolated they are branded with a special brand and sale is prohibited by existing regulations. The disposal of dairy products from infected animals can be prohibited or controlled by local authorities acting under the Public Health Act.</li>
+
+<li>(5) 41 of which 14 were clean and 27 reacted.</li>
+
+<li>(6) Reactors were either destroyed or isolated.</li>
+
+<li>(7) No. As stated by me during the discussion on the Stock Diseases Bill, I intend to await results of the experimental measures now being undertaken before embarking upon any comprehensive scheme for eradicating the disease.</li>
+
+<li>(8) Quarantine restrictions imposed only on animals which are shown by the tuberculin test to be actually infected.</li>
+
+<li>(9) As explained in (7) this will be considered in the light of results.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#customs_agreement">
+
+<heading>CUSTOMS AGREEMENT.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I would like to make a statement with regard to the Rhodesian negotiations. I am pleased to say that customs agreements have been concluded to-day between the Union and Southern Rhodesia, and between the Union and Northern Rhodesia. The conference held in Pretoria in September last unfortunately broke down because it was found impossible to reconcile the conflicting interests of the three countries on a basis satisfactory to all parties. The agreement with Southern Rhodesia was to have terminated on the 31st December last, and both parties agreed to carry on under conditions of complete fiscal independence. The most friendly feelings still prevailed and no avenue <span class="col_537-538" refersTo="page_0338"/>was left unexplored in efforts to arrive at a solution of the problem. Following on certain negotiations in December with the Government of Northern Rhodesia, a modus vivendi was agreed upon with Southern Rhodesia, under which the conditions of the late agreement were to continue pending the holding of another conference, which has just happily concluded. The main reasons advanced by Rhodesia for denouncing the agreement were that the Union was free to alter its tariff as it wished, whereas they were tied to the Union tariff of 1924, with the result that the object of the Rhodes Clause, which extends preferential treatment to British goods was being defeated by allowing foreign goods purchased in the Union to enter Rhodesia on more favourable terms; that the direct importer in Rhodesia was similarly placed at a disadvantage, and that trade with the Union in motor cars built in the Union tended to decrease industrial employment in Rhodesia. Hon. members are aware of the offers which were made at the September conference to meet these objections, without avail, and I will now briefly outline the main features of the agreement concluded to-day showing how by mutual concessions and goodwill it has been possible to obviate the erection of customs houses on the border, and continue in a modified form the free interchange of duties which has been the basis of our relations for many years. First and foremost the Rhodesias required the right to trade and alter their tariffs at will to suit their own needs, a right which the Union Government does not, and has no wish, to contest. In regard to imported goods purchased from open stocks in the Union, we propose, in place of the former payment of 12 per cent, of the oversea value of such goods, to hand over to Rhodesia the duty we originally collected, less a small charge to defray expenses. Where certain goods, specified in the Agreement, are concerned, on which Union rates of duty are appreciably lower than the Rhodesia rates, we propose to collect the difference before they are railed north, and pay it over to the Rhodesian Government. This will restore the balance which their tariff is designed to maintain between British and foreign goods. As regards South African produce and manufactures, there will be a free interchange of raw products except beef and scrub cattle and scrap tobacco, the importation of which into the Union will as hitherto be prohibited, and leaf tobacco of which 2,400,000 lbs. per annum, i.e. 2,000,000 lbs. of Virginia type and 400,000 lbs. Turkish type, will be admitted free of duty into the Union from Southern Rhodesia and 400,000 lbs. from Northern Rhodesia. In their turn, the Rhodesias will limit the free importation of leaf tobacco from the Union to 150,000 lbs. and 50,000 lbs., respectively. Rhodesia retains the right to levy duty on Union spirits, with a rebate of 25 per cent, off the British rate. This is approximately the same as the present rebate of 9/- per gallon. They will have the further right, which is reciprocal, to levy duty on Union beer and wines with a rebate of 50 per cent, on cigarettes and tobacco manufactures with a rebate of 75 per cent. On motor vehicles of South African manufacture Southern Rhodesia will levy duty at the lowest rates chargeable on motor vehicles imported from other British dominions, less a rebate of 10 per cent. I may be allowed to add Here that the right given to Rhodesia to levy these duties on a limited number of Union products will not mean the institution of customs formalities on the borders, because most of these goods will be sent up in bond and the collection of duty can very well be controlled through the customs in the Union. That does not infringe on the general object that we have in view, namely, to obviate the necessity of having customs formalities on the borders. Other Union manufactures will be admitted into Rhodesia free of duty, including motor vehicles into Northern Rhodesia, and a compensating payment will be made by the Union Treasury. Under the last agreement this payment was six per cent, of the value of Union manufactures removed to Rhodesia, and the oft debated question as to whether this should be increased to nine per cent, as desired by the Rhodesian delegates, has been solved by a compromise. Twelve per cent, will be paid on products, mainly foodstuffs, in Class I of the annual trade statements, and six per cent, will be paid as before on the rest of our manufacturers, i.e., Classes II to XIII, escluding those articles, mainly in Classes II and III, which I have already mentioned as being liable to duty. The Rhodesias will make similar payments on such of their manufactured goods as are removed to the Union, and the net payment will thus be a true compensation for the balance of trade, as the percentages represent in the aggregate approximately the duties which Rhodesia would collect at the rates of duty otherwise leviable. This brings me at one to the crux of the question as it presents itself to a Minister of Finance. Can such a payment, which is virtually a subsidy by which the Union secures an open market for its manufacturers be justified from general revenue&#x003F; I direct benefit is conferred on one section of the community, who are already protected in their own markets and to whom rebates of duty on imported materials have been freely extended. I feel that the payment can only be justified if one can anticipate some measure of eventual political union or federation of the parties to these agreements, with uniform tariffs, for thus only can a customs union exist. A payment of this nature, the extent of which in future years no one can foresee, but which must grow with our industrial exports, cannot be made indefinitely, and I must therefore utter a note of warning to our manufacturers. Let them not build their industries on the foundation of a subsidy, for which no permanence can be guaranteed. I do not wish to give the impression that the agreements are merely a temporary measure destined to last but a few years; on the contrary, I am satisfied that the agreements, which I will presently lay on the Table of the House, will forcibly direct the attention of the peoples on both sides of the Limpopo to the question of the ultimate political future which should be envisaged, <span class="col_539-540" refersTo="page_0339"/>and while serving as a means of bridging the intermediate period should have the effect of strengthening the bonds of friendship and common interests which already unite us. The main provisions of the agreements will come into effect from 1st July next, but the articles dealing with the imposition of duties will operate from date of signature. I now lay on the Table the draft agreements as initialled by the respective delegates.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#unlawful_trading_schemes_bill">
+
+<heading>UNLAWFUL TRADING SCHEMES BILL.</heading>
+
+<p>First Order read: Second reading, Unlawful Trading Schemes Bill.</p>
+
+<speech by="#pienaar">
+
+<from>*Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>When a private member introduces a Bill in the House he is not much to be envied, because of the many hon. members who are a little prejudiced when a private member introduces a Bill. When those members hear that a private member&#x2019;s Bill is coming on, they commence to hesitate, and, therefore, I want to appeal to the members of the House to give me their attention for a moment to deal with a few points in the Bill. This is not the first time that this Bill has appeared in the House. In 1926 it was on the list of Bills which our then Minister of Justice handed over, through overwork, to Mr. Alexander, then hon. member for Hanover Street. It will, perhaps, be asked why I have now taken the Bill on my shoulders. Well, as a farmer, I feel that our tobacco industry is suffering damage through the coupon system, and I feel that something must be done by which the coupon system, which goes too far, may be restricted, so as not to cause damage to the primary producer of the country. Hon. members will possibly ask how the tobacco farmers are going to suffer under the coupon system. We are told, as was the case recently at the conference, that the tobacco producer does not always deliver a tobacco suitable to the consumer&#x2019;s taste. We have been engaged for years in tobacco production, and there have been large factories for years. They have always told us what tobacco to grow, but, although we are now producing that kind, the coupon system is cultivating another taste, and then when we have a big production of tobacco, which we have specialized in, and hope to get a good price for it, because we were told that it was very much in demand, we are told that the tobacco we now produce is not required very much any more, because the taste of the public has changed again. Then we have to take what the big factories offer for the tobacco, and, consequently, the farmer gets merely a low price for his tobacco, and one morning we may wake up and be told that the taste has changed once more, and that the mixture we are now producing is not in demand. I think even hon. members in this House can testify that they have in some cases not changed the cigarettes they smoke, because the new kind tastes better, but because their wives have said that they would like to have that kind of coupon to exchange for a certain article. It seems to me that some members look guilty, and I myself will admit that I have also been guilty of it; because my daughter wants certain coupons, I change to another kind of cigarette to get those coupons, and, by so doing, the other mixture gets in the market. So much for the farmer. I do not say that the factories intended by the coupon system to hit the farmer, I have not the least intention of saying so, but that has been the result of the introduction of the coupon system on a large scale in our country. We feel that the free gifts which are offered under the coupon system will have to be paid for by two persons&#x2014;the first is the primary producer and the second is the consumer. They pay for all the articles which various firms exchange for coupons. Another objection we have to the coupon system is that the stronger manufacturer, by the advertisement of his coupon system, has a much better market than the small manufacturer; while the big manufacturer can force a certain kind of tobacco on to the consumer by means of his coupon system, the weaker manufacturer cannot do so. Consequently, as we have seen, a large number of the smaller factories are swallowed by the stronger ones, with the result that with every factory that disappears the competition becomes less, until finally we fall into the hands of one great power organization, which can do as it pleases. I do not think I go too far when I say that the disappearance of the smaller factories in the country is greatly attributable to the benefit the big factories get from the coupon system. We have allowed a system to extend without seeing that that system does not encroach upon the interests of the producer and the consumer. Then we also find spread out far and wide throughout the country the shops which give so-called free gifts to the public. I am told that many of these shops, so-called free shops, are the cause of some shops, especially those who sell luxuries, suffering loss, with the result that many of them disappear. That is what we feel with regard to the tobacco farmers; that is what I feel with regard to the competition between factories. We feel that the more factories we have in the country to compete for the produce of the primary producer the more buyers there will be to compete for the products of the primary producer. If we put everything into the hands of one company, then not only the tobacco producer, but also the consumer, will suffer. Then we come to the other part of the Bill, and in this connection I want to quote a resolution passed by the joint chambers of commerce at their annual congress which sat in Kroonstad from 22nd to 25th August, 1929. The resolution reads&#x2014;</p>
+
+<ol>
+
+<li>(1) In the opinion of this congress, it is desirable that the Union Government should introduce legislation to consolidate and make uniform the law with regard to the spreading of coupons for gifts which are being issued for the extension of the sale of certain wares.</li>
+
+<li>(2) This congress is of the opinion that the system ought to be abolished.</li>
+
+<li><span class="col_541-542" refersTo="page_0340"/>(3) In case the Union Government do not agree to the abolition of the gifts coupon system, this congress is of opinion that legislation ought to be introduced that the coupons can only be exchanged for the class of goods in connection with which they were issued.</li>
+
+</ol>
+
+<p>This motion was passed. I do not know whether it was passed unanimously. Besides this resolution of an important body, resolutions have also been passed by the chambers of commerce throughout the length and breadth of our country. As for the trading stamps, I want to say that the original idea was that they were a discount for cash. That was good, because it was calculated to encourage cash payment. The matter, therefore, commenced well; but after the introduction of trading stamps they were also given in credit transactions. I have been told that in many cases it occurs that people who buy on credit get their trading stamps and go and exchange them for articles even before they have paid their account for those goods at the end of the month. The smaller dealers think that this encroaches upon their business, and they therefore ask for a law to be passed to stop this kind of thing. There is, of course, something to be said for the trading stamp. It is alleged that the trading stamps and the saving of them creates a feeling of thrift among people, and enables them to buy something with the stamps which they otherwise would not have been able to acquire. But then there are all the other objections which I have mentioned against this system, and they outweigh entirely this alleged benefit. The first argument against it is: who pays for that gift&#x003F; I have had the privilege of visiting a few of those shops that make free gifts. They are large and have a large stock, but to come and tell us that all these thousands of pounds are the value of their free gifts is to expect us to believe too much. I ask again who pays for them&#x003F; It is the consumer himself who has to pay. He thinks that he is getting something as a present, but he pays very well for it. How does it happen&#x003F; The issuer of the trading stamps sells them to the smaller shopkeepers at. I believe, about 25s a thousand. I have not gone into it, but I think that is the price. The shopkeeper has in turn, to issue them as a sort of discount, and to cover himself, he puts 5 per cent, on the value of his goods.</p>
+
+</speech>
+
+<speech by="#roux">
+
+<from>*Mr. <person refersTo="hansard_za">ROUX</person>:</from>
+
+<p>No, on the price.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>*Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>Yes, on the price. I am glad the hon. member reminded me of that, because value is not the same thing at all as price in our shops.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>*Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>Is the shopkeeper compelled to issue the stamps &#x003F;</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>*Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>Yes, there are certain cases where they are compelled. I do not say that all the companies are guilty, but we have the case of the &#x201C;nucleus,&#x201D; which I am going to call the container. A syndicate is established to issue trading stamps. They have stamps printed in a little book, and then explain to the buyer that that is the kind of stamp which they must ask their shopkeepers for. The result is that the shopkeeper is obliged to issue stamps, and he puts 5 per cent, on the price to cover himself. If they had a choice, many of them would not go in for it, but, because the shopkeeper, and especially the smaller shopkeeper, in our country are compelled to do so, it is, in my opinion, an unsound state of affairs in trade. That is one of the objections to the present system. The other is that of unfair competition, which causes loss to the smaller trader. Millions of stamps are circulated, and millions, of course, are lost, of which the consumer has no benefit, but only those who issued them. Let us pause for a few minutes and consider whether the consumer gets any benefit from the system. As I have shown, he pays for the stamp by the increase of 5 per cent, in the price. Moreover, he is compelled to go to a particular shop to exchange the stamps. There again a profit is made. Sometimes the value of the thing given to him is probably better than that of those in the shops, but, nevertheless, a profit is made on them. He possibly only gets 12s. 6d. for 25s. worth of stamps. &#x201C;Free gifts&#x201D; is, therefore, a very pretty title, and some people may find pleasure in it, but that they are paying for their pleasure is also a fact. Everyone with sound common sense who considers the matter will feel that the people who run these shops would not be able to continue so successfully if there were no profits in it. They would not incur all the expense of advertising if it were not worth while. If we decide to continue this system, then I feel almost inclined to get a share in one of those undertakings. I have mentioned a few points to explain what actually the principles of the coupon system are. In conclusion, I just want to say that this Bill is more drastic than the previous one. But I have met representatives, and I am inclined to accept amendments, so that the system need not be entirely abolished, but so that a person shall exchange for the same goods as he sells. In this way we shall not have a large quantity of new paper money circulated in our country. The first part of the Bill says that a scheme of this kind is a lottery. It is asked why we should make it a lottery. I am following the good example of the Natal Act of 1909. That Act laid down that the issue of coupons on tobacco and spirits was a lottery. That represents the Bill. I am prepared to make amendments. I am asked to allow the institutions in the country who want to give prizes, to give prizes of articles they have in stock, and for which they themselves want to give coupons. I have made that amendment. I hope that the business people who know more of these coupons will make themselves heard this afternoon. I have introduced the Bill in a hurry, and hope that it will receive the support of the House.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I claim to be quite impartial in this matter. I do not smoke cigarettes, and I do not sell Good Hope Lever watches, so that I am quite impartial. Usually, when one is impartial, one is not much interested. <span class="col_543-544" refersTo="page_0341"/>I am not much interested in the sale and purchase of cigarettes or of Good Hope watches, but what I am interested in is the large number of don&#x2019;ts that are coming about. There are already so many don&#x2019;ts in our lives, there are so many don&#x2019;ts to which penalties are attached on our statute books, that I think we should hesitate before we increase the number. The member for Tembuland (Mr. Payn), I think it was, said quite rightly the other day that if this kind of thing goes on we shall very soon need a law to tell us what few things we can still do. What is this evil, if it is an evil, and how did it come about&#x003F; I think what happened was this: that the manufacturers of cigarettes, and the sellers of cigarettes, decided to give a discount to their customers. It may be that they did this in order to sell more cigarettes, or it may be that their consciences worried them for charging 6d. for 10 cigarettes containing about 1d. worth of tobacco. At any rate, they decided on a discount of 5 per cent., and I must say that if their consciences worried them they got rid of that worry very cheaply. Five per cent, on 6d. is just about a farthing. They had this practical difficulty, that if a man buys a packet of cigarettes for 6d. they could not very well give him a farthing, so some bright manufacturer conceived the idea of putting a coupon in the packet of cigarettes. Then after the purchaser has got a certain number of coupons, 1,000 I believe, he can get a Good Hope Lever watch. What is wrong in that&#x003F; I am not a smoker of cigarettes, but 1,000 coupons mean 10,000 cigarettes, and I understand it takes a moderate average smoker from two to three years to qualify to get a gold watch. In the beginning people used to throw these coupons away, then later on it dawned upon somebody that you don&#x2019;t need to smoke all the cigarettes yon buy, and that your friends, will be kind enough to assist you in obtaining a watch. It also dawned upon the kiddies and others that you don&#x2019;t need to buy any cigarettes at all. You can get the coupons from others. And the coupon system became more and more popular. It looked like getting something for nothing, and there has never been an idea so popular as the idea of getting something for nothing. This coupon system became so popular that it became the hard and fast custom of the trade, so much so, that if a customer did not get a coupon he would be very much annoyed. He would be rightly annoyed; technically, I think he would have a right of action. The hon. the mover has provided for a term of imprisonment in the penal clause of the Bill. I am surprised that the hon. member has not added lashes to it. I cannot see what there is wrong in it. It is very silly, as the hon. member has said, for a smoker not to realize that each coupon is only worth about a farthing, and that he is paying for it himself. But what is there wrong in it&#x003F; There are two classes of people who are against this coupon system, and they are the smaller manufacturers, who don&#x2019;t give coupons, and the watchmakers and other people who deal in those goods that are given in exchange for coupons. Their complaint is this: that the larger manufacturer induces the smoker to smoke only his cigarettes because he gives coupons. What is there wrong in that&#x003F; If I advertise my cigarettes widely, and my competitor does not advertise his, I probably sell more cigarettes than he does. Is that any reason for forbidding me from advertising&#x003F; If I have a very large business, with branches of my business all over the Union, and if I employ a large number of travellers, I shall probably get more business than my smaller competitor. Are we going to limit the size of a business&#x003F; Are we going to forbid branches, and the employment of travellers&#x003F; It would be absurd, in the same way that the proposals of this Bill are absurd. Take the case of the watchmaker who thinks, that he loses the sale of watches. He believes that if the watch obtained for 1,000 coupons is not given away, he might be able to supply it. It is not correct, because those people who get watches for coupons may not otherwise buy watches. I was struck by what the Minister of Mines and Industries said in dealing with combines. He said that the correct way to fight producers&#x2019; combines was for the consumers also to combine, and the correct way to fight the coupon system is for those people who think they are injured to issue coupons themselves. Why does not the watchmaker give 5 per cent, discount when he sells watches, and give it in the form of cigarettes. If he sells a watch for &#x00A3;5 he can give away 500 cigarettes. If he sells &#x00A3;25 worth of watches he can give away 2,500 cigarettes.</p>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>He cannot put coupons in the cigarettes.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>No, hut he could give a coupon enabling the purchaser to go to an emporium where cigarettes are kept, and the result would be that the cigarette seller would lose the supply of so many cigarettes on all the watches and clocks that are sold. Just in the same way to-day, the watchmaker and other jewellers lose the supply of watches and jewellery only to the extent of five per cent, of the cigarettes that are sold. It cuts both ways, and neither can complain; and the consumer for once in his life, will have it both ways. He will get a gold watch if he smokes enough cigarettes and if he buys enough watches, he will get plenty of cigarettes. It was stated by the hon. member for Marico (Mr. Pienaar) that this coupon system will injure the tobacco farmers. I represent a tobacco-producing district and if I though the hon. member&#x2019;s contention was correct, I would support the Bill, even though in my opinion it is a silly Bill. He said large manufacturers of cigarettes induce people to acquire a taste for tobacco, other than Union tobacco. That is quite right, and it reflects no credit on them as Union citizens. But how can stopping the coupon system put a stop to that. A manufacturer buys the cheapest tobacco he can sell and tries to induce all smokers to smoke his cigarettes. He does this by supplying only the kind of cigarettes that he wants to. If the coupon system is stopped, the manufacturer will simply make use of the farthing which he now offers on the coupon to <span class="col_545-546" refersTo="page_0342"/>increase the size of the cigarette or to improve the packing of the cigarettes or doing something else in order to make them more attractive. In that way, he will get smokers to consume cigarettes not made in the Union and we have the same result as before, so that that argument falls away. I specially asked the chairman of the Congress of Co-operative Tobacco Societies if he objected and he said &#x201C;Yes,&#x201D; because it is better for our farmers to sell pipe tobacco. By putting coupons in the cigarettes and not in the pipe tobacco you induce people to smoke cigarettes. When I told him that sellers of pipe tobacco also gave coupons, a fact he had not known, he said he had no further objection to the coupon system. That is the serious aspect of the Bill, but there is also a ludicrous aspect. This Bill, as worded, will make all trading possible. Amongst all the other &#x201C;don&#x2019;ts&#x201D; that appear in section 1, is the following&#x2014;</p>
+
+<block name="quote">Any scheme for the giving of any reward in connection with the sale of any goods shall be a lottery.</block>
+
+<p>I challenge any lawyer in the House to deny that that section makes ordinary trading a lottery. Consequently, Messrs. Markhams and Cleghorn &#x0026; Harris, etc. are carrying on lotteries because their scheme&#x2014;and it is a paying one&#x2014;is to employ a large number of people who are to be given a reward in connection with the sale of goods. And again: &#x201C;Any scheme for the giving of any prize in connection with the purchase of any goods shall be deemed to be a lottery, notwithstanding that the prize or reward is given in connection with skill displayed in such competition. We may conclude that the Cape Times becomes one gigantic lottery. You buy a copy for two pence, and you enter for the &#x201C;Beach Kiddies&#x2019; Competition&#x201D; which depends solely upon skill. If this Bill becomes law, and the Cape Times continues with that competition, the Cape Times will become a lottery. I even begin to suspect the hon. member for Marico of a deep-laid scheme to get possession of the Cape Times because he has specially made the provisions of the lottery law applicable to that Bill of his, including the power of confiscation. It follows that if the Cape Times continues to run such competitions, they are liable to have their machinery and assets confiscated. If I were sure that was the intention of the Bill I would vote for it. I would like to see the Cape Times first run in and then after confiscation run as a Nationalist paper. Section 3 says in line 28&#x2014;-.</p>
+
+<block name="quote">Nor shall any reward be given or based upon the delivery or return of empty containers.</block>
+
+<p>When I buy a dozen beer, I get a document that says that on the return of those bottles, I will get 1s. 6d. Therefore in terms of this Bill, I would not be allowed to get payment for those empty bottles; so I would not deliver them. This Bill is so absurd and there are so many ludicrous results from the Bill that I might almost warn the hon. member for Marico that if he should go to dine at the Mount Nelson or any other hotel, he may take a taxi from the hotel after dining, but would incur a fine of &#x00A3;100 if he took a taxi away from the hotel afterwards because he would have given a reward for the delivery of an empty container. I have the &#x201C;Review&#x201D; of the 31st January and I see there is an article entitled &#x201C;Why the free gift system should be abolished&#x201D;. This is not &#x2014;like so many articles in the Cape Times&#x2014; signed &#x201C;pro bono publico&#x201D; or something of that kind. This article is signed &#x201C;A. Wolff&#x201D;, Chairman of the Association for the Suppression of Free Gifts. I take it the hon. member for Marico should be appointed vice-president of this association. The chairman of that association must know quite a lot about the evils of coupons. He gives four reasons for being against the coupon system. He states that, first of all, cigarettes can be sold 12&#x00BD; per cent, cheaper if sold without coupons. But so also can watches, and very much cheaper. He bases his 12&#x00BD; per cent, on the fact that you can buy 100 coupons for 6s. The chairman of the Association for the Suppression of Coupon Gifts does not know everything. I can give him an address in Pretoria where he can buy 100 coupons for 2s. 6d. But that does not affect the matter whether it is 5 per cent, or 12&#x00BD; per cent. The practical difficulty is that you cannot give a man a farthing, and 12&#x00BD; per cent, will be 2&#x00BD; farthings. His second reason is, &#x201C;It will do away with unfair trading.&#x201D; He is really begging the question to say he wants to abolish the free gift system to do away with unfair trading. He must prove that it is unfair trading. The third reason he gives, and nothing could be more childish. He says, &#x201C;It will prevent those criminally inclined from being encouraged to commit crime.&#x201D; Hon. members will rack their brains to know in what way the coupon causes people to commit crime. Mr. Wolf says that in connection with the coupons it opens out a field for those criminally inclined. A man was charged at Johannesburg &#x201C;with criminally producing imitation coupons, and was sentenced to imprisonment.&#x201D; I have heard of a man in Johannesburg who forged tram tickets. Are we going to stop the issue of tram tickets&#x003F; Then what about bank notes&#x003F; They also open out a field for those criminally inclined! The fourth reason is &#x201C;Last, but not least, it will prevent the encouragement of young boys and girls to smoke in order to obtain coupons.&#x201D; He talks about young boys and girls. Could there be anything more silly than that reason&#x003F; No hon. member, I submit, who reads this article by Mr. Wolf, and who is not convinced that this Bill should not be passed, will ever be convinced of anything.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>I rise to support the Bill. I am sure that after the advice given to the Horse by the hon. member for Brits (Dr. H. Reitz) you will be able to buy all your requirements throughout the length and breadth of the Union, with coupons. You will not confine them to cigarettes, but there will be a development of the scheme to bring in nearly any other article as well. While one shares, to the highest degree, the delightful speech of the hon. member, one must look upon this Bill as, <span class="col_547-548" refersTo="page_0343"/>at least, having a serious side. I agree with the hon. member for Brits. I believe that in the past there has been too much government or legislative interference in business, and it is one of the last acts one would desire to see, namely to encourage or to develop that interference in business. Now, one admits at once that the Bill appears to be drastic. It appears to be particularly drastic when you read it for the first time. It improves slightly on acquaintance. But after a slight conference and suggestions of modification in committee, in my opinion it is the Bill that is wanted. It is wanted now, I believe, and such a Bill would be very much wanted in the future. I look at the position from this point of view. The hon. member, in introducing the Bill, mentioned it, and it has been delightfully and amusingly referred to by the hon. member for Brits. That is the question of cigarettes. After all, the question of cigarettes is the only important one. Clause 3 of this Bill is, after all, all that matters. Five years ago this Bill would not have been listened to anywhere. It would not have been suggested. No one would have thought seriously of the Bill. I submit that the portion is considerably different to-day, and the development that has taken place in coupons warrants, at least, serious thought, and I should regret, very much if this Bill was either jeered at or sent lightly out of this House without serious consideration. The development that has taken place in connection with coupons has been quite remarkable, in developing a certain class of article for which coupons are given. But what one fears for the future, if it has developed in this way in five years is that it will develop in other ways in the coming five years. I put it to the House in this way. If the coupons were increased in value, if they were double or treble the value they are to-day, and I tell the House that that is the tendency, then I say if that tendency is existing to-day, in the course of a few years the coupon will be particularly valuable. There is the question of cigarettes and tobacco. Cigarettes and tobacco are not bought so much on account of their name but because of the coupon. If that is so I can see a very dangerous position indeed. You would leave it in the hands of the tobacco people and in the hands of the large concerns who make the coupons, and the value of the coupon would be purchased, and the cigarettes with it. What does that mean&#x003F; It means that they have it in their hands to turn over from one tobacco to another without any notice or without any reason. It may be that they will have it in their power to do away with the Union manufactured tobacco and introduce Rhodesian tobacco, and then to do away with Rhodesian tobacco and get foreign tobacco. Why&#x003F; Because the coupon is becoming much too valuable. Consequently, it is not the article that is of real matter, but the coupon. Now I know that there are many who hold that the manufacturer has a perfect right to adopt his own course of conducting his business and disposing of his wares. He has a perfect right to advertise in the manner in which he feels disposed to. It is as well to bear in mind that the ordinary merchant, or industrialist, does pay for the advertisement himself. He does not, first of all, take it out of the goods delivered before he pays. I can see, in quite a few ways, how a Bill of this character is necessary, and how, in course of time, it would become more necessary. There is one fundamental commercial proposition which should never be lost sight of, namely, that a purchaser is entitled to his full quantity and value at all times, and that there is no authority for the seller to keep something back in order to return it to the purchaser at a later stage. Many years ago, Fry&#x2019;s, one of the largest concerns in Great Britain, gave a coupon away with every tin of their cocoa, with the idea of introducing their chocolate. That was quite a legitimate form of doing business. The Bill suggests that coupons should be redeemable only with the same type of goods with which they were given away. That is a fair proposal. The ordinary coupons, however, may be exchanged for all sorts of articles quite dissimilar in character from the goods with which they were presented. Some protection is called for, for the smaller men throughout the Union find that their business is being interfered with by the enormous extension of the coupon business, for instance, thousands of watches are imported annually to be given in exchange for cigarette coupons. A large percentage of the population, it is true, desire these so-called &#x201C;free&#x201D; gifts, but some of them are too dense to see that really they are not free gifts at all. The articles could be sold at a lower price if no amount had to be retained by the manufacturer to pay for the goods exchanged for his coupons. The object of the protection we afford through the customs, is to give the South African article the largest possible market. But the coupon system diminishes the demand for the South African article, as the consumer does not get full value for his purchase money, as part of it is retained for the coupon. When we find that protection is being utilized for the extension of this coupon business, the question arises whether the rate of protection is not too high. I believe the Bill to be more or less necessary; that it will be more necessary still in the future, and that it will be wise for the House to take the matter into serious consideration and send a measure to the select committee. That such a Bill is desirable, I have not the slightest doubt, although it contains many provisions with which I do not agree. Take the trading stamps which have been in existence for 40 years, and I have not heard a word against them. Their use is confined to the poorer districts, and I see no reason for disturbing the present arrangements. The Bill does not really affect the large people, but only the small traders who purchase trading stamps which they give to their customers who are drawn from the poorer walks of life. I see by correspondence in the press that trading stamps have proved a great blessing to people by enabling them to acquire articles which otherwise they could have no hope of obtaining.</p>
+
+</speech>
+
+<speech by="#roper">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ROPER</person>:</from>
+
+<p>I have listened with care to the hon. member who has introduced the Bill <span class="col_549-550" refersTo="page_0344"/>and to the hon. member for Hospital (Mr. Henderson), who supported it, and I fail to find in their remarks any serious arguments in support of the Bill. If the Bill was so urgently required, as they would lead us to believe, there would have been some public demand for it, but I have not found any public demand for it, and there is no evidence that it is required by the people of this country. A Bill similar to the present one, so far as its earlier portion is concerned, was introduced in 1926 by an hon. member who is not now a member of this House, and it found little support in this House. I do not think a single hon. member spoke in favour of it; it was emphatically opposed, and its second reading was postponed for six months. If there had been some demand for a Bill of this sort, one would have expected it to be shown during the three intervening years. This Bill goes further than the other Bill, and proposes to prohibit not only games of skill, but a number of other advertising devices. There has been some discussion about the desirability of stopping the coupon and the trading stamp system, but that has taken place only in chambers of commerce, which usually have been equally divided on the subject; so that even there it cannot be said that there is any opinion overwhelmingly in favour of the Bill. The opinion is widely held in business circles that it is a mistake to come to Parliament to ask it to take action in the direction indicated. The consumer has not asked for the Bill, and so far has not expressed his views to any great extent; but certainly the experience of hon. members of town constituencies, and especially of the Peninsula, is that he is against this Bill. My experience has been that I have been rung up by persons of the commercial classes, who are decidedly against it, and so are the poorer classes, because it will inflict a great hardship on the working man&#x2014;the man with little income. These schemes which it is proposed to prohibit are nothing more or less than advertising schemes, and the people who use them find they are the best for extending their business and advertising their goods. The lottery laws in the various provinces are quite sufficient to prevent any abuse of skilled competitions. The coupon system appeals to the public. It is suggested that it means that the public are put off with a poorer quality of goods, but that I submit is a complete fallacy, because bad goods will not be sold by a coupon system. A man will not smoke bad cigarettes because he gets a coupon in a packet. When he gets a coupon it may induce him to smoke one brand as against another which does not give him a coupon, if the two are about equal in quality. But it would not induce him to smoke a bad cigarette instead of a good one. The money that goes into the coupon is not taken out of the pocket of the producer. A business man decides at the beginning of his business year to set aside a certain amount of money for advertising, and out of that allocates what he thinks fit for the coupon system. If he does not spend what he has set aside on that, he will simply spend it on some other form of advertising. The persons who will benefit will not be the producers, but the advertising agents and the newspapers. By prohibiting the trading stamp system, this Bill will inflict very great hardship on the poorer people. This system is a form of discount for cash, and it is not necessary for me to describe it, as the hon. member for Marico (Mr. Pienaar) has done so. It encourages the poor man to buy for cash, and not to run up credit. If a man were to buy &#x00A3;1 worth of groceries and get 1s. discount, he would probably not save that shilling, but spend it on sweets for his children or on a drink for himself. He would not save it. Under the trading stamp system he saves up his discounts and when the amount is sufficient he exchanges his trading stamps for something worth while. I think it will be found to be the experience of the poorer or working classes in the Peninsula that the trading stamp system has been valuable to them and has enabled the housewife to save up the discounts to acquire furniture for her home. I discussed this with a man in a humble walk of life, and he told me that the kitchen of his house had been furnished entirely by means of trading stamps. Not only had the housewife in that case obtained all her kitchen utensils through trading stamps, but had also acquired a good deal of the equipment of other parts of the house. It is a most valuable system for the poor man, and the abolition of it would discourage the system of thrift which it at present encourages. It has been suggested that goods will be cheaper if the system is prohibited. I don&#x2019;t admit that for a moment, because the purchaser will still expect discount, and he will be under the disadvantage, if this Bill passes, of not enjoying that wider choice of goods which he has at present under the trading stamp system. It has been suggested that the system might be allowed if only goods of the same description as that supplied by the trader were given. That would deprive the purchaser of the variety of choice he now has. Why should the housewife be restricted simply to the goods that she can obtain from the shop where she deals. The member for Hospital (Mr. Henderson) said this measure was called for in the interests of the small trader. Experience points exactly in the reverse direction, because it is the small trader who has found the trading stamp system a benefit, and who is using it and increasing his business by means of it. There is no evidence whatever of a demand on the part of the public for a Bill of this sort, I associate myself with what the hon. member for Brits (Dr. H. Reitz) has said against the tendency to run to this House for legislation on every conceivable subject under the sun. If this Bill goes through, we shall next have people complaining of the bazaar system. You already hear bitter complaints from the commercial community of the way the so-called &#x201C;tickey bazaar&#x201D; is cutting into their business, and before long, if this Bill goes through, we shall be asked to legislate against the &#x201C;tickey bazaar.&#x201D; This is another specimen of that fancy legislation of which we already have some examples on the statute book. I move, as an amendment&#x2014;</p>
+
+<block name="quote"><span class="col_551-552" refersTo="page_0345"/>To omit &#x201C;now&#x201D; and to add at the end &#x201C;this day six months</block>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>I second the amendment. I understand that the commercial community at their last congress indicated that a certain measure of reform was necessary in respect of the present developments of the coupon system, but I would point out that this Bill goes very much further than anything contemplated by that congress. The application of this Bill is not confined to the retail trade. Under the Bill it would be impossible for me, without rendering myself liable to a penalty, to tell my travellers that I wanted them to increase my turnover, and that if any of them did so, I would increase their salaries. That would subject me to a penalty. Not long ago a commercial firm of Johannesburg offered to give 10 per cent of its cash takings to the Star seaside fund. Under this Bill that would no longer be possible.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>Why&#x003F;</p>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>You have only to read Clause 1 of the Bill, which says that no gift shall be given in connection with the purchase of goods.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>To the purchaser of goods.</p>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>The Bill does not say so. What happened there was that this firm gave 10 per cent, of its takings to the Star seaside fund. The firm got an advertisement out of that generous donation. The Star seaside fund benefitted to the extent of 10 per cent, of the cash takings, and the only people who suffered were the competitors of this particular concern. Why did they not come forward with the same offer&#x003F; Either they were not sufficiently generous or not sufficiently enterprising. Are we going to put a penalty upon generosity and enterprise&#x003F; It would be a very sorry thing for the tobacco farmers of Marico if a penalty of this kind were put on commercial enterprise in this country. The only hope for our South African industries is to allow the people associated with their commercial development the widest possible enterprise in competition with the powerful competitive organizations overseas. With regard to Clause 3, the mover did not explain what was meant by a discount only being given &#x201C;bona fide,&#x201D; but I gather from the text of the Bill, and from his remarks, that what is meant is that you may give a discount, but you must not advertise the fact. You can give a discount, but you must not promise to give a discount. That is borne out by Clause 3.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>I explained that I will amend that.</p>
+
+</speech>
+
+<speech by="#sturrock">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STURROCK</person>:</from>
+
+<p>The giving of discount may be legal under the Bill as it reads, but a promise to perform the same act is illegal. I would remind the mover that it is customary&#x2014; I know, of course, that this Bill does not affect the sale of stocks and shares&#x2014;but it is customary for the treasury of this Government to offer to any agent purchasing any quantity of Union Government stock a commission of &#x00BC; percent, on its purchase. Why, therefore, should it be illegal for a small retail firm to follow the example of the treasury itself Under this Bill this is an illegal thing for them to do. There is another point, and that is that cooperative societies will be affected by the Bill. Co-operative societies make a regular practice of advertising the advantages accruing to membership of such societies, because you get a rebate on any purchase. This also would be illegal on the part of a co-operative society, and I hope that this House will not be so rash as to support this measure.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>I just want to say a few words after the speech of the hon. member for Brits (Dr. H. Reitz). I think the Bill had a very poor chance. I think that it has been effectively killed by the hon. member, but I want to say that if there is any general desire by the public for legislation of this kind, the Government would not have hesitated to thoroughly investigate the matter, if it was desirable to bring legislation before the House. As far as we are concerned, no general request for legislation of this kind has been made. On the whole, very little interest in this Bill seems to have been taken by the public, and even amongst the trades people there is still a great difference of opinion. If such difference still exists amongst them, and the consumer agrees that they do not desire legislation, and if we have as yet no proofs that there is actually anything harmful in the system towards the public, I do not think that we ought to interfere with the course of events. I shall not support the Bill. Much more information will be necessary before we can pass such a Bill, and, in any case, it will first have to go to a select committee for a thorough enquiry. To send it to a select committee, however, there must be a general need and demand for legislation of this kind, and that is entirely absent in my opinion. I just want to say that the hon. member does not find himself entirely in bad company. There are a few countries which have legislation of this kind. Denmark and Norway, and also New Zealand have legislation prohibiting trading stamps and the coupon system. The Act in New Zealand, however, lays down that trading stamps must be issued by the post office. There the traders can go to the post office for the trading stamps, and they can then put them on the articles, and the buyer can then exchange the stamps once more for cash in the post office. For that service the post office is paid a small sum. If the trading stamp system is really an evil, and I am not convinced that it is, then it is still always possible for us to apply the New Zealand system, if the Minister of Posts and Telegraphs is propared in future to sell those stamps. But at the moment that need does not yet exist. With these few words I hope that the House will not accept the Bill, or, if the House thinks that it is necessary to institute further enquiry, or that something must be done, then it will be best for the Bill to be referred to a select committee.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from><span class="col_553-554" refersTo="page_0346"/>*Mr. <person refersTo="hansard_za">PIENAAR</person>:</from>
+
+<p>I am sorry that I have received so little support for this Bill. It is said that the public do not want it, but I read the judgment in a resolution of the Chamber of Commerce appealing to the Government, if necessary, to introduce legislation against the coupon system. I must say that in 1926 it was the Minister&#x2019;s intention to propose this legislation; not altogether, but to a great extent, and especially with reference to the tobacco industry, and if it had not been that he was too busy, he would have put it through. When important bodies make an appeal to the Government, the matter deserves the Minister&#x2019;s attention. I am quite concerned when such an important body raises its voice and no notice is taken of it. Many arguments have been used here in favour of the existing system, but I understand that the arguments of the hon. member for Brits (Dr. H. Reitz) are supposed to have actually killed the Bill. His arguments have nothing to do with the Bill at all. He made assumptions and jokes which were interesting to listen to, but he never realized that all the time he was engaged in unnecessarily wasting the money of the taxpayers, of whom the tobacco farmers form a part. The hon. member for Brits says that he represents tobacco farmers. Well, I am myself a tobacco farmer at Brits, and I am certain that if it were made dear to the chairman of the Magaliesberg Cooperative Society what his answer in this House would lead to, he would protest against it. He holds the same opinion as I do, and I am a member of the society. We feel that the people in the Union will never develop a taste for our tobacco as long as the coupon system exists. This is a fact, and I am surprised that so little weight is given to it in the House. The hon. member for Wynberg (Mr. Roper) said that the previous Bill on this subject was rejected. It is true that Mr. Jagger moved at the time to read the Bill in six months, but another member moved the adjournment of the debate, and the debate was not concluded. The argument was very weak. The hon. member for Turffontein (Mr. Sturrock) asked why the arguments are not before the House. There is time for that in committee, and the amendments will be published, but they are to the effect that coupons may indeed be issued by only the Business that sells goods, and only for that business&#x2019;s goods. The hon. member for Brits spoke sneeringly on the matter in order to declare the methods lotteries. The Natal Act No. 3 of 1909 also treats them as lotteries, and the procedure is being followed for the sake of uniformity. I want to say again that the 1926 Bill interested me; not so much because I was so much concerned about trading, but because I felt that the coupon system would ultimately squeeze out the small manufacturer, and prevent the consumption of our own tobacco. It is said that the remedy is for the farmers to co-operate. What is the use of that if the factories get tobacco from other countries to satisfy the taste which they are introducing in this way&#x003F; The farmers have no chance against it. I think the need for this kind of legislation has long existed. If there is a wish to send it to a select committee for more information, I have no objection to that course after the second reading.</p>
+
+<p>Question put: That the word &#x201C;now&#x201D;, proposed to be omitted, stand part of the motion,</p>
+
+<p>Upon which the House divided:</p>
+
+</speech>
+
+<p>Ayes&#x2014;29.</p>
+
+<p>Baines, A. C. V.</p>
+
+<p>Bowie, J. A.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Deane, W. A.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, M. S. W.</p>
+
+<p>Faure, P. A. B.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Henderson, R. H.</p>
+
+<p>Kayser, C. F.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>McIlwraith, E. R.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naud&#x00E9;, S. W.</p>
+
+<p>Oost, H.</p>
+
+<p>Pienaar, J. J.</p>
+
+<p>Pocock, P. V.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Roberts, F. J.</p>
+
+<p>Robertson, G. T.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Sauer, P. O.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van der Merwe, R. A. T.</p>
+
+<p>Verster, J. D. H.</p>
+
+<p>Wares, A. P J.</p>
+
+<p>Tellers: Malan, M. L.; O&#x2019;Brien, W. J.</p>
+
+<p>Noes&#x2014;55.</p>
+
+<p>Abrahamson, H.</p>
+
+<p>Acutt, F. H.</p>
+
+<p>Alberts, S. F.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Blackwell, L.</p>
+
+<p>Borlase, H. P.</p>
+
+<p>Bowen, R. W.</p>
+
+<p>Bremer, K.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Chiappini, A. J.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Coulter, C. W. A.</p>
+
+<p>De Jager, H. J. C.</p>
+
+<p>De Souza. E.</p>
+
+<p>De Wet, W. F.</p>
+
+<p>Duncan, P.</p>
+
+<p>Du Toit, C. W. M.</p>
+
+<p>Eaton, A. H. J.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Fourie, A. P. J.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Hockly, R. A.</p>
+
+<p>Hofmeyr, J. H.</p>
+
+<p>Humphreys, W. B.</p>
+
+<p>Kotze, R. N.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lawrence, H. G.</p>
+
+<p>Malan, D. F.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nicoll, V. L.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Reitz, H.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Robinson, C. P</p>
+
+<p>Rockey, W.</p>
+
+<p>Roper, E. R.</p>
+
+<p>Sephton, C. A. A</p>
+
+<p>Stallard, C. F.</p>
+
+<p>Steyn, G. P.</p>
+
+<p>Sturrock, F C.</p>
+
+<p>Van Coller, C. M.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Vermooten, O. S.</p>
+
+<p>Visser, W. J. M.</p>
+
+<p>Williamson, J.</p>
+
+<p>Wolfaard, G. van Z.</p>
+
+<p>Tellers: Conroy, E. A.; Struben, R. H.</p>
+
+<p>Question accordingly negatived, and the word &#x201C;now&#x201D; omitted.</p>
+
+<p>Addition of the words &#x201C;this day six months&#x201D;, put and agreed to.</p>
+
+<p>Motion, as amended, viz.&#x2014;</p>
+
+<block name="quote">That the Bill be read a second time this day six months put and agreed to.</block>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1930-02-07T16:55:00">4.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

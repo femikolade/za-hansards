@@ -1,0 +1,1911 @@
+---
+title: 'House of Assembly: Vol14 - TUESDAY 10 March 1914'
+layout: debate
+year: 1914
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 10th March, 1914.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair at <recordedTime time="1914-03-10T14:00:00">2 p.m.</recordedTime> and read prayers.</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska),</from>
+
+<p>from inhabitants of the North-west districts (Cape), praying that during the present session legislation be introduced and necessary funds voted for abstracting water from the Orange River at Buchuberg.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from F. Botha and 21 others, formerly officers on the Fixed Establishment (Cape), who were retired on abolition of office, for increased pensions.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from the widow of A. F. Hunsen, who was employed by the South African Railways, for relief.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville),</from>
+
+<p>from J. Gleeson, formerly in service of the Natal Railways, for relief.</p>
+
+</speech>
+
+<speech by="#fichardt">
+
+<from>Mr. <person refersTo="hansard_za">C. G. FICHARDT</person> (Ladybrand),</from>
+
+<p>from registered voters of Bloemfontein, Bultfontein, Boshof, Hoopstad, and Winburg, for construction of a railway from Bloemfontein to Bultfontein via Zoutpan.</p>
+
+</speech>
+
+<speech by="#neser">
+
+<from>Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom),</from>
+
+<p>from A. J. Friend, praying that his service in the Imperial and Natal Civil Services be taken into consideration in the calculation of his pension.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg),</from>
+
+<p>from E. F. Roos, Postal Department, for condonation of a break in his service.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>Mr. <person refersTo="hansard_za">J. A. P. VAN DER MERWE</person> (Vredefort),</from>
+
+<p>from H. N. Middleton, for condonation of a break in his service.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central),</from>
+
+<p>from Ethel Tredrea, teacher, for condonation of a break in her service.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division_lists">
+
+<heading>DIVISION LISTS.</heading>
+
+<speech by="#macaulay">
+
+<from>Dr. <person refersTo="hansard_za">D. MACAULAY</person> (Denver)</from>
+
+<p>said he wished to call attention to an inaccuracy in the division lists as published in the Votes and Proceedings of yesterday&#x2019;s date.</p>
+
+<p>His name should have appeared among the &#x201C;Ayes,&#x201D; but had been omitted.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the tellers would see that the lists were rectified.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MACNEILLIE</person> (Boksburg)</from>
+
+<p>said he found that his name had been included among the &#x201C;Ayes,&#x201D; whereas, as a matter of fact, he had not voted.</p>
+
+<p>Mr. SPEAKER, having called upon the Tellers for the &#x201C;Ayes,&#x201D; who after examining the lists, reported that the name of Dr. MacNeillie had been inadvertently inserted in place of that of Dr. Macaulay and the lists were ordered to be corrected accordingly.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#standing_rules_and_orders">
+
+<heading>STANDING RULES AND ORDERS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>brought up the first report of the Select Committee on Standing Rules and Orders. He stated that the Committee recommended an amendment of rule 43 on the lines of the motion submitted by the hon. member for Port Elizabeth, Central, the other day. The report would lie upon the Table, and if no objection were taken to it by Monday next the new rule would be adopted.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he took it the report would be printed and circulated in the Votes and Proceedings.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It will appear in the natural course to-morrow. He added that unless notice of objection to the Report was given on or before Monday next, the Report would be considered as adopted.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Report on Protection of Crops and Life against Damage by Hail and Lightning by August Karlson, M.Inst.C.E.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Estimates of Additional Expenditure of the South African Railways and Harbours to be defrayed from Revenue Funds year ending 31st March, 1914.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#field-cornets_and_defence_act">
+
+<heading>FIELD-CORNETS AND DEFENCE ACT.</heading>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>asked the Minister of Defence what duties, if any, have been assigned to Field-cornets in the Transvaal under the South Africa Defence Act, No. 13 of 1912?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>replied:</from>
+
+<p>None.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#postal_servants_leave">
+
+<heading>POSTAL SERVANTS&#x2019; LEAVE.</heading>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>asked the Minister of Posts and Telegraphs: (1) Whether postmen are allowed only fourteen days&#x2019; leave a year, including Sundays, whereas sorters and clerks have fourteen working days&#x2019; leave, excluding Sundays, and, if so, what as the reason for this difference of treatment; and (2) what is the maximum amount of sick leave on full pay <span class="col_1111-1112" refersTo="page_0562"/>allowed to (a) postmen; (b) sorters; (c) clerks?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person>replied:</from>
+
+<p>Assuming that this question has reference to the Leave Regulations in force in the Transvaal Province, the reply is: (1) Yes. The reason for differentiation is that sorters and clerks are members of the Administrative and Clerical Division of the Public Service and are granted leave accordingly, while postmen are members of the General Division and receive the leave authorised for employees graded in that division. (2) Under the Transvaal Leave Regulations the maximum sick leave which can be granted with pay to the undermentioned officers is as follows: (a) Postmen&#x2014;one month during any one year. (b) Sorters&#x2014;six months on full pay and six months on half-pay during any one period of three years. (c) Clerks&#x2014;ditto.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#damage_caused_by_hail_storms">
+
+<heading>DAMAGE CAUSED BY HAIL STORMS.</heading>
+
+<speech by="#smuts">
+
+<from>General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>asked whether the Government has given effect to the instruction of this House given during last session to institute an inquiry into the working and practicability of the methods employed in France to prevent damages caused by hail storms, and, if so, whether he will report on this matter during the present session?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>replied:</from>
+
+<p>During 1913 Mr. A. Karlson, an officer of the Irrigation Department, made a very full inquiry in France into the working of certain apparatus for the prevention of hail, and a copy of his report has to-day been laid on the Table of this House. Mr. Karlson&#x2019;s recommendations are now under investigation by the Government.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#encouragement_of_mining">
+
+<heading>ENCOURAGEMENT OF MINING.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Mines and Industries: (1) Whether the Government intends introducing any legislation which will encourage and induce the introduction of fresh capital into the Union for the development of dormant mining areas, if so, in what direction; (2) whether the Government is prepared to encourage prospectors and small mining men by the reduction or abolition of claim licences where claims are in the early stages of development; and (3) whether the Government will include in such legislation the throwing open of all farms to prospectors, with due safeguards to owners?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>replied:</from>
+
+<p>(1) While the Government is anxious to encourage the introduction of fresh capital and the development of prospecting end mining operations, there is no intention of introducing any legislation during the present session affecting the Mining Laws. (2) The reduction of claim licences would necessitate amendments to the existing Mining Laws which are not possible at present, especially having regard to the magnitude of the work of consolidating the Mining Laws of the Union. (3) The question of the throwing open of private farms to prospectors was fully investigated by the Select Committee of the Transvaal Parliament when the present Gold Law of 1908 was passed. The Government is not prepared at present to depart from the policy which was laid down.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#a_transvaal_water_right">
+
+<heading>A TRANSVAAL WATER RIGHT.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Mines and Industries: (1) Whether an application was received some months ago by the Mining Commissioner, Barberton, from one Andrew Danks, for a water right on Fig Tree Creek; (2) whether his application was refused on the ground that it would interfere with the disposal of the Sheba Company&#x2019;s slimes; and (3) if so, on what principle is the Mining Commissioner acting in refusing a water right to a legitimate applicant in order to protect a mining company in the use of a site to which it has no mining title?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>replied:</from>
+
+<p>(1) The answer to the first part of the question is in the affirmative. (2) The application was granted, but is awaiting confirmation until the applicant has filed a diagram according to law. This has been deferred at the special request of the applicant. (3) This part of the question therefore falls to the ground.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#variations_in_licences">
+
+<heading>VARIATIONS IN LICENCES.</heading>
+
+<speech by="#meyer">
+
+<from>Mr. <person refersTo="hansard_za">I. J. MEYER</person> (Harrismith)</from>
+
+<p>asked the Minister of Finance whether legislation will be introduced during the present session to remove the unfair difference at present existing between the several licences in the various Provinces?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>replied:</from>
+
+<p>If the hon. member will indicate the classes of licences to which he alludes, I shall be better able to deal with his question. He knows, of course, that the Provincial Administrations now receive and control the bulk of the trade licence dues.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#extension_of_avontuur_line">
+
+<heading>EXTENSION OF AVONTUUR LINE.</heading>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether he intends to introduce a Railway Construction Bill this session; and, if so, (2) whether he will carry out the intention of the late Cape Government by including in such Bill the extension of the Port Elizabeth Avontuur railway from Avontuur to Doorn River, so as to connect it with the south-western system, and to deviate the line from Kabeljauws River, via Ferreira&#x2019;s township and Jeffrey&#x2019;s Bay.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>(1) I am not in a position to state definitely whether a Bill <span class="col_1113-1114" refersTo="page_0563"/>will be introduced this session. (2) It is impossible at this stage to say what lines will be included in a Railway Construction Bill should one be submitted to the House. I may point out, however, that I am not aware of any intention on the part of the late Cape Government either to extend the line from Avontuur to Doorn River or to deviate the Avontuur line in the direction of Jeffrey&#x2019;s Bay.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_railways_and_harbours_strike_and_service_amendment_bill">
+
+<heading>THE RAILWAYS AND HARBOURS STRIKE AND SERVICE AMENDMENT BILL.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) How many railway and harbour servants in the Transvaal, Orange Free State, Natal and Cape of Good Hope will be entitled under the Railways and Harbours Strike and Service Amendment Bill (if carried) to (a) four days&#x2019; leave on full pay, and (b) seven days&#x2019; leave on full pay; (2) what will be the total cost of granting this leave on full pay in the Transvaal, Orange Free State, Natal and Cape of Good Hope; (3) how many strikers in the Transvaal, Orange Free State, Natal and the Cape of Good Hope have been reemployed and will be liable under this Bill to be fined (a) one day&#x2019;s pay for every day on strike, and (b) one and a half day&#x2019;s pay for every day on strike; (4) what is the total amount of the fines which are thus liable to be deducted in the Transvaal, Orange Free State, Natal and Cape of Good Hope; and (5) What is the total amount of the men&#x2019;s contributions to various superannuation Funds which under this Bill will be forfeited by strikers who have not been re-employed?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>(1) The figures are approximately as follows:</p>
+
+<table>
+
+<tr>
+
+<td><p>(a)</p></td>
+
+<td><p>Cape</p></td>
+
+<td><p>12,584</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Transvaal</p></td>
+
+<td><p>4,727</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Orange Free State</p></td>
+
+<td><p>1,673</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Natal</p></td>
+
+<td><p>4,590</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>23,574</p></td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td><p>(b)</p></td>
+
+<td><p>Cape</p></td>
+
+<td><p>484</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Transvaal</p></td>
+
+<td><p>775</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Orange Free State</p></td>
+
+<td><p>51</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Natal</p></td>
+
+<td><p>251</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>1,561</p></td>
+
+</tr>
+
+</table>
+
+<p>(2) In certain cases only will the leave stipulated for in the Bill entail additional expenditure. Even a moderately accurate estimate of the extra cost involved could not be framed without considerable labour, but it is considered that a sum approximating &#x00A3;10,000 may be regarded as an outside figure, (3) (a) 1,439, (b) 2,975. (4) A rough estimate is as follows: (a) In respect of employees liable to be fined one day&#x2019;s pay:</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape</p></td>
+
+<td><p>427</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Transvaal</p></td>
+
+<td><p>2,433</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Orange Free State</p></td>
+
+<td><p>1,039</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal</p></td>
+
+<td><p>94</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Total</p></td>
+
+<td><p>&#x00A3;3,993</p></td>
+
+</tr>
+
+</table>
+
+<p>(b) In respect of employees liable to be fined one and a Half days&#x2019; pay:</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Transvaal</p></td>
+
+<td><p>19,503</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Orange Free State</p></td>
+
+<td><p>2,789</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal</p></td>
+
+<td><p>2,622</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Total</p></td>
+
+<td><p>&#x00A3;24,622</p></td>
+
+</tr>
+
+</table>
+
+<p>(5) It has been found impossible to get this information ready in the time available, but the figure is roughly estimated at about &#x00A3;7,000.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#slimes_from_the_sheba_mill">
+
+<heading>SLIMES FROM THE SHEBA MILL.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Mines and Industries: (1) Whether the deposition of slimes from the Sheba Mill has made the drifts over the Fig Tree Creek on the public road impassable; (2) whether complaints on this point have been received by the Mining Commissioner from A. Danks and other owners of small mines affected; and (3) whether the Mining Commissioner has taken any steps to protect such owners of small mines in this matter, and, if so, what steps?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>replied:</from>
+
+<p>(1) The answer is in the negative. (2) One complaint has been received from Mr. Danks, which was duly investigated and the officer who made the inspection reports that the complaint is not justified. No other persons have complained. (3) Under the circumstances the answer is in the negative.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sheep_in_quarantine">
+
+<heading>SHEEP IN QUARANTINE.</heading>
+
+<speech by="#marais">
+
+<from>Mr. <person refersTo="hansard_za">P. G. MARAIS</person> (Hope Town)</from>
+
+<p>asked the Minister of Agriculture: (1) How many sheep conveyed to Johannesburg from stations and sidings between De Aar and Kimberley and between De Aar and Prieska were placed in quarantine in Johannesburg between the 1st July, 1913, and the 31st December, 1913; (2) how many persons were prosecuted in connection with sheep placed in quarantine as above; (3) how many of them were found guilty and sentenced; (4) what was the amount paid in fines by the convicted persons; (5) what did the Government expenses in connection with the above prosecutions amount to; (6) how many farmers were prosecuted because they allowed the sheep, subsequently placed in quarantine as above, to be removed from their farms; and (7) what has the Government done to protect farmers living along the trek-paths against the infected sheep which are driven overland?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from><span class="col_1115-1116" refersTo="page_0564"/>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>asked that the question be allowed to stand over.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#night_classes">
+
+<heading>NIGHT CLASSES.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Education: (1) Whether applications have been made to the Director of Education for the establishment of night classes in Turffontein and Kenilworth for youths who have to work in the day; (2) whether such night schools were recently established; and (3) whether after a few weeks one or more of them have been closed down, and, if so, what was the reason of such closing down?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>replied:</from>
+
+<p>As the question deals with a matter which entirely concerns a Provincial Administration the Minister is not disposed to institute an enquiry.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_sick_fund">
+
+<heading>RAILWAYS AND HARBOURS SICK FUND.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville),</from>
+
+<p>asked the Minister of Railways and Harbours whether he will lay upon the Table of this House a return showing: (1) The total amount contributed by railway and harbour servants in the Transvaal, Orange Free State, Natal, and Cape of Good Hope to the South African Railways and Harbours Sick Fund for the four months ended February 28, 1913; and (2) for the same period in each Province (a) the total amount contributed by the Government to this fund; (b) the total expenditure in fees of doctors, dispensers, assistants, etc.; (c) the total cost of medicines, appliances, etc.; (d) the total cost of clerical and committee work in connection with the administration of this fund; (e) the total working expenses; and (f) the balance or deficit?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>The South African Railways and Harbours Sick Fund had not been established in February, 1913, and at that date there was no fund in existence for servants of the late Natal Government Railways.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#deaths_on_the_rand_mines">
+
+<heading>DEATHS ON THE RAND MINES.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>asked the Minister of Mines and Industries: (1) Whether the return published in the &#x201C;Government Gazette&#x201D; of July 4 last, showing 2,330 deaths on the Witwatersrand Mines from accidents and diseases, for the three months January, February, and March, 1913, included the deaths which occurred outside as well as inside the compounds; if not, what arc the total figures; (2) what are the number of deaths on the Witwatersrand of (a) whites (b) coloured, through (1) accidents on the mines; (2) miners&#x2019; phthisis; (3) other diseases contracted while working on the mines for the quarters ended June 30 and September 30, and December 31, 1913, and for the whole year; and (3) what is the mortality rate per thousand, taking only the underground workers on the mines?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>replied:</from>
+
+<p>(1) Yes. (2) I have the return and will lay it on the Table. (3) Complete figures are not available showing mortality rate of underground workers, but the following is the accident mortality rate for the year 1913 for underground miners: Whites, 5.65 per thousand; coloured, 4.88 per thousand; total, 4.94 per thousand.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#telephonic_extensions">
+
+<heading>TELEPHONIC EXTENSIONS.</heading>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">J. H. B. WESSELS</person> (Bethlehem)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether the Government will make provision during this year for telegraph or telephone connection between the following towns, viz., Clarens with Bethlehem, Paul Roux with Bethlehem, and Petrus Steyn with Lindley?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person>replied:</from>
+
+<p>The question of establishing telephonic communication between Clarens and Bethlehem is under consideration, and it is hoped that it may be possible to undertake this work during the ensuing financial year. The opening of a telephone office at Paul Roux is awaiting the renting of suitable office accommodation and the attendance of a local person. It is hoped to give the desired connection at an early date. In regard to the suggested telephone line from Lindley to Petrus Steyn, it has not been found practicable to provide for this work during the ensuing financial year.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_original_list_of_deportees">
+
+<heading>THE ORIGINAL LIST OF DEPORTEES.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Defence if he will lay upon the Table of the House a return showing the names of those individuals the Government originally contemplated deporting in connection with the late industrial troubles?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It is not proposed to lay such a return on the Table.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#passengers_baggage_from_the_continent">
+
+<heading>PASSENGERS&#x2019; BAGGAGE FROM THE CONTINENT.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked the Minister of Finance if it is correct that the Customs authorities in the United Kingdom examine passengers&#x2019; baggage though consigned from a Continental centre direct to the steamer at the British port by which the passenger intends to travel to South Africa, thereby causing considerable delay in the transit of such baggage; and, if so, will the Minister take steps to arrange with the Imperial Customs authorities that such baggage may in future be free of British Customs examination?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>replied:</from>
+
+<p>I have no authoritative information respecting the matter alluded to by the honourable member, but I am causing his representations to be communicated to the <span class="col_1117-1118" refersTo="page_0565"/>Union High Commissioner in London, for such action to be taken as, after investigation, the circumstances may appear to require.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#an_echo_of_the_strike">
+
+<heading>AN ECHO OF THE STRIKE.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether he is aware that a railway apprentice, named Palmer, employed in the carriage shop at Durban, whose increase of pay from 2s. 6d. to 3s. per day was due on the 17th of last month, was informed that he would not get his increase for another twelve months because he came out on strike for one day; (2) whether the Minister does not think this ah excessive punishment for the boy, amounting, as it will, to about &#x00A3;7 10s., or ten weeks&#x2019; wages; and (3) will the Minister cause inquiries to be made and abolish or considerably modify this and any other penalty of a similar character that may have been imposed on any other apprentices for any action they took during the recent strike?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>I have made inquiries and am assured that the hon. member has been misinformed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_from_bethlehem_to_frankfort">
+
+<heading>RAILWAY FROM BETHLEHEM TO FRANKFORT.</heading>
+
+<speech by="#serfontein">
+
+<from>Mr. <person refersTo="hansard_za">N. W. SERFONTEIN</person> (Frankfort)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) What it has cost the Government to build and complete the railway from Bethlehem, via Reitz, to Frankfort; and (2) what the estimated cost is of an extension of the line from Frankfort, via Villiers, to a point on the Charlestown&#x2014; Johannesburg line?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>(1) Approximately &#x00A3;352,718. The construction accounts on the Reitz&#x2014;Frankfort section have not yet been closed, consequently portion of the expenditure has had to be estimated. (2) Approximately &#x00A3;149,000 for a line Frankfort to Grootvlei, via Villiers. From Grootvlei there is a privately-owned line, which connects at Balfour with the Johannesburg&#x2014; Charlestown line.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#cape_town_station_waitresses">
+
+<heading>CAPE TOWN STATION WAITRESSES.</heading>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>asked the Minister of Railways and Harbours whether it is a fact that, although the waitresses at the restaurant at Cape Town Station are called upon to do extra work by attending on Sundays, they receive no extra pay; if so, what is the reason?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>As a result of strong recommendations made to the Administration, it was decided, as an experiment, to open the Tea Room at Cape Town Station between the hours of 2 and 6 p.m. on Sundays during the months of January, February, and March. Each waitress is on duty every third Sunday afternoon, and will receive extra pay for the additional time worked during the period covered by the experiment.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#water_supply_at_de_aar">
+
+<heading>WATER SUPPLY AT DE AAR.</heading>
+
+<speech by="#marais">
+
+<from>Mr. <person refersTo="hansard_za">P. G. MARAIS</person> (Hope Town)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) What the total expenses are which the Government have incurred in connection with the waterworks at Carolus Poort; (2) what the yearly working expenses of those works are; (3) whether it is a fact that the said works do not yield sufficient water for the wants of De Aar; and, if so (4) what steps do the Government intend to take to make better provision; and (5) whether the Government are aware that there is a sufficient supply of underground water procurable at De Aar?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>(1) &#x00A3;22,610. (2) &#x00A3;885, plus &#x00A3;64 for depreciation. (3) In dry seasons the supply at times has been inadequate. (4) Further boring operations are in progress at the site of the intake eight miles from the station, with promising results. (5) The reply to this question is in the negative and any information likely to lead to a sufficient permanent supply being obtained at or in the near vicinity of De Aar would be gladly welcomed. I may mention there are already two boreholes at De Aar station, but the yield thereof is small in comparison with the Administration&#x2019;s requirements. A further bore, 1,630 feet in depth, was sunk several years ago, but the results were unsatisfactory.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#burghers_and_defence_force_rifle_clubs">
+
+<heading>BURGHERS AND DEFENCE FORCE RIFLE CLUBS.</heading>
+
+<speech by="#serfontein">
+
+<from>Mr. <person refersTo="hansard_za">N. W. SERFONTEIN</person> (Frankfort)</from>
+
+<p>asked the Minister of Defence: Whether the Government intend to introduce, during the present session, a Bill to compel all burghers, liable to military service, to join the Defence Force Rifle Clubs?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>replied:</from>
+
+<p>If circumstances permit, a Bill will be introduced during the present session not to compel all citizens to become members of Defence Rifle Associations, but, &#x201C;inter alia,&#x201D; to make all able-bodied citizens up, to the age of forty-five liable to service in class &#x201C;B&#x201D; of the Citizen Force Reserve under certain conditions.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#durban_railway_guards">
+
+<heading>DURBAN RAILWAY GUARDS.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>asked the Minister of Railways and Harbours: Whether he is aware that considerable dissatisfaction is rife amongst the railway guards at Durban, owing to their having to work their trains through from Durban to Pietermaritzburg, necessitating guards remaining on duty for eighteen or nineteen hours; and, if so, whether this is caused by shortage of engines, and whether he <span class="col_1119-1120" refersTo="page_0566"/>can do anything to avoid this state of affairs?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>During the latter portion of last month four guards worked the round trip Durban to Pietermaritzburg and back and were on duty 18 to 19 hours, but no complaints were made departmentally by the men concerned. Shortage of engine-power and an endeavour to obviate congestion at Pietermaritzburg were the cause. This method of working was resorted to purely as a temporary expedient to overcome unforeseen and unavoidable difficulties, and it is hoped that it may not again be necessary to introduce a system of working involving such long hours for the men. The engine-power at present available is at times inadequate to cope with the steadily increasing traffic. One hundred and forty-seven new locomotives have been placed in service since Union, three are in course of erection, and 157 more are under order. The locomotives now being placed in traffic are of a high tractive capacity, and as soon as those under erection and order are ready for service the existing pressure should disappear, or at least considerably be relieved.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#salt_river_workmen">
+
+<heading>SALT RIVER WORKMEN.</heading>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>asked the Minister of Railways and Harbours: Whether he is aware that the workmen at Salt River Works have recently been asked to send in their addresses; and whether this has been done for the purpose of a new electoral roll, with a view to disfranchising the men?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>There is no ground for the insinuation which this question contains. The addresses of the men were obtained in terms of clause No. 128 of the Staff Regulations.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#economic_commissions_report">
+
+<heading>ECONOMIC COMMISSION&#x2019;S REPORT.</heading>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>asked the Minister of Mines and Industries why a section of the Press secured insight into and publication of the report of the Economic Commission before the report had been placed in the hands of hon. members of this House?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>replied:</from>
+
+<p>I have made inquiries into this matter, and have ascertained that the majority of the copies of the report of the Economic Commission were delayed in transit on the railways, and it was therefore not possible to give copies to members on the same day that the report was laid on the Table of the House. Copies for this purpose arrived in advance by post. All early copies which were available have been accounted for. How it was that a copy came into the hands of a section of the Press I have been unable to ascertain.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#convict_prisons">
+
+<heading>CONVICT PRISONS.</heading>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MACNEILLIE</person> (Boksburg)</from>
+
+<p>asked the Minister of Justice which of the convict prisons and gaols of the Union (European and non-European) are graded as second class (i.e., institutions having a daily average number of prisoners over 100), and what is the average number of prisoners in custody in each of such institutions respectively?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>replied:</from>
+
+<p>The following prisons and gaols in the Union are graded as second class, the number attached being the respective average number of prisoners in custody for the month of January last:</p>
+
+<table>
+
+<tr>
+
+<td><p>Prisons:</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>De Beers</p></td>
+
+<td><p>1,338.1</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cinderella</p></td>
+
+<td><p>797.6</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Tokai</p></td>
+
+<td><p>367</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Simon&#x2019;s Town, with the Donne Attente Camp</p></td>
+
+<td><p>267.1</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Gaols:</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Durban</p></td>
+
+<td><p>582.7</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Pietermaritzburg</p></td>
+
+<td><p>519.4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Town</p></td>
+
+<td><p>500.7</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Pretoria</p></td>
+
+<td><p>370.3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Krugersdorp</p></td>
+
+<td><p>336.8</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Boksburg</p></td>
+
+<td><p>282.4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Kimberley</p></td>
+
+<td><p>236.5</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Germiston</p></td>
+
+<td><p>231.1</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Barberton</p></td>
+
+<td><p>212.8</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Bloemfontein</p></td>
+
+<td><p>209.9</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Middelburg (Transvaal)</p></td>
+
+<td><p>142.5</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Port Elizabeth</p></td>
+
+<td><p>129.4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Potchefstroom</p></td>
+
+<td><p>86.6<sup>*</sup></p></td>
+
+</tr>
+
+</table>
+
+<p>*In this case the average has fallen below the minimum required for the class.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#natal_railway_guards_uniforms">
+
+<heading>NATAL RAILWAY GUARDS&#x2019; UNIFORMS.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether it is a fact that some railway guards in Natal have not yet received their summer uniforms, although the time for issue is now five months overdue, and, if so, what is the reason for the delay; and (2) whether it is a fact that the railway guards in Natal are kept so short of uniform caps that their present caps have been in use for eighteen months, and, if so, what explanation is there for this?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>(1) Summer uniforms for guards arrived in Natal over a week ago, and have been or are now being distributed. The uniforms were made in Johannesburg from imported material, delay being due (1) to the late arrival of the material from England consequent upon the first shipment being rejected by the High Commissioner&#x2019;s office as not being up to standard, and (2) to the tailors&#x2019; strike in Johannesburg. Suitable representations have been made regarding the inconvenience resulting from the late delivery of the material. (2) Caps are included with uniforms now being distributed. The responsible officers of the Administration are not aware of any case in which a guard has <span class="col_1121-1122" refersTo="page_0567"/>not had his cap renewed for eighteen months, but I am causing investigations to be made in this matter.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_service_list">
+
+<heading>PUBLIC SERVICE LIST.</heading>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula)</from>
+
+<p>asked the Minister of the Interior when the Public Service List will be issued, which he said last session would be likely to be published during the past year?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>(replying on behalf of the Minister of the Interior) said: I would refer the hon. member to paragraph 82 of the Public Service Commission&#x2019;s Report for 1913, and say that it is not possible to name any definite date for the issue of the list, but, as the hon. member will see, the Commission promised its appearance shortly.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_ntabanana_lands">
+
+<heading>THE NTABANANA LANDS.</heading>
+
+<speech by="#hunter">
+
+<from>Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban, Central)</from>
+
+<p>asked the Minister of Lands when the Ntabanana Lands, Zululand, for the occupation of which, it is understood, many young colonists are anxious to apply, will be thrown open for this purpose?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>replied:</from>
+
+<p>The matter is at present under the consideration of the Land Board, Natal, whose recommendation I am expecting to receive at any moment.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_case_of_guard_gryspeert">
+
+<heading>THE CASE OF GUARD GRYSPEERT.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether his attention has been drawn to the following recommendation of the jury who found Guard Gryspeert not guilty of the charge of culpable homicide, on Tuesday, 3rd March, 1914, at Durban: &#x201C;The jury would further respectfully submit to the consideration of the Railway Administration the reinstatement of Guard Gryspeert&#x201D;; and, if so (2), whether he will take this recommendation into his favourable consideration?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>replied:</from>
+
+<p>My attention has been drawn to the recommendation of the jury in this case, which is being considered by the Administration.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#thursday_an_order_day">
+
+<heading>THURSDAY AN ORDER DAY.</heading>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person> (on behalf of the Prime Minister)</from>
+
+<p>moved: That on and after Thursday, the 12th inst., Thursday be an Order Day, Government business to have precedence, such precedence for the 12th inst. to have effect only after the two notices of motion already placed on the Order Paper for that day have been disposed of.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#powers_under_martial_law">
+
+<heading>POWERS UNDER MARTIAL LAW.</heading>
+
+<speech by="#serfontein">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">H. P. SERFONTEIN</person> (Kroonstad)</from>
+
+<p>moved: That in the opinion of this House the Government be requested to introduce legislation during this session to define the powers which the Government may exercise under Martial Law, and to lay down as nearly as may be what steps may be taken and what amount of force may be used for the maintenance of public order and safety in cases of urgent and paramount necessity. In the course of his remarks, Mr. Serfontein said the happenings of January had clearly proved the necessity of such legislation. Had the Government had certain laws under which they could have acted this House would not have had to spend a month on the Indemnity Bill. The Government was regarded as a sympathetic Government, but what would happen if ever they had an unsympathetic Government at the head of affairs? For its own protection and for the protection of the people against disturbances a Bill such as he suggested should be introduced.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020; The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said the motion proposed by the hon. member covered a very wide field. His intention was to have a Bill introduced to say what could and what could not be done under Martial Law. Of course, once they did that Martial Law was no longer Martial Law. The object of the hon. member was to get the House to declare what the Government might do in order to preserve order and peace, but he (the speaker) wished to point out that the Government had already introduced a Bill to deal with the maintenance of law and order in extraordinary circumstances, and laying down what steps could be taken with that end in view. In these circumstances he thought the motion was somewhat superfluous, and he hoped the hon. member would withdraw it. If a law such as had been introduced was passed they would have the machinery to deal with extraordinary circumstances, and naturally there would then be no necessity for the proclamation of Martial Law. Strictly speaking, Martial Law was no law, and even if they made such a law as proposed Martial Law would still remain.</p>
+
+</speech>
+
+<speech by="#serfontein">
+
+<from>Mr. <person refersTo="hansard_za">H. P. SERFONTEIN</person> (Kroonstad)</from>
+
+<p>withdrew his motion.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#return_called_for">
+
+<heading>RETURN CALLED FOR.</heading>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>moved for a return showing: (a) All tenders exceeding &#x00A3;2,000 called for by the Government from January 1, 1913, to date; (b) how many of those contracts were placed outside the Union; (c) the reasons, if any, for so doing; and (d) what encouragement is given by the Government to South African tenderers.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#immigrants_regulation_act">
+
+<heading>IMMIGRANTS REGULATION ACT.</heading>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street),</from>
+
+<p>moved that a Select Committee be appointed to enquire into the working of section 22 of the Immigrants Regulation Act. No. 22 of 1913.</p>
+
+<p><span class="col_1123-1124" refersTo="page_0568"/>The mover said that they held no brief for those guilty of immoral practices or habitual criminals, but they wanted to be satisfied that justice and fair play were being done. He would call attention to the extraordinary powers given under clauses 21 and 22 of the Immigration Regulation Bill of last year. They had heard a good deal lately about clause 21, and they were now dealing with clause 22, which made provision for the deportation of certain men who had been convicted of crime; in fact, it gave extraordinary power to the Minister to inflict a double punishment. He wanted to point out the frame of mind of that Parliament when this clause was passed, and he would draw attention to the fact that although clause 21 was discussed at some considerable length no discussion, according to Hansard, took place in regard to clause 22. Now the Minister at the time had in view the Asiatic problem, and he thought that hon. members had that in view, and they were led to believe that they were dealing with the Asiatic problem, and were passing a clause that would be used very rarely in the case of Europeans.</p>
+
+<p>Continuing, he quoted remarks made by the Minister of the Interior, and said he did so to show the frame of mind the House was in at the time. The House accepted that and the clause was passed without great scrutiny. They did make provisions for a return of all cases under section 22 being placed upon the Table of the House within 12 days after the commencement of the House. This year the return was laid on the Table, but hardly a day had passed but they had heard of other cases. They got to know of some by letter and some by visiting the steamers. The hon. member for George Town asked for the return of these cases since the commencement of the session, and although that was promised a week ago, it had not yet come to hand. Power was given for the deportation of persons who had committed crimes laid down in a certain schedule both before and after the commencement of the Act. Any person who had committed a crime could, before or after the passing of the Act, at the will of the Minister, be sent out of the country at any time although no further offence was committed. That was what had been happening, so they had been informed. Let him quote a case heard in the Transvaal before Mr. Justice Mason. The report stated: &#x201C;It appears that the warrant had (been issued by the authorities, and signed by the Secretary for the Interior, for the deportation of W. Farmer, a grey-headed man, who has spent 40 years of his life within the Province of the Union. The legality of this order for deportation was based upon section 22 of the Immigration Act, 12, of the year 1913. The grounds upon which the operation of this last year&#x2019;s Act were enforced were that Mr. Farmer had been convicted in 1909 of an offence against the Gold Law, which offence he had expiated in prison for a term of 18 months.&#x201D; It was argued that &#x201C;In the affidavit made by the Minister it was stated he had applied his mind to the case of a deportation, but this could hardly be the case, as the applicant had not been convicted within the fast four years. Further, there was nothing in the warrant as required by law showing any circumstances under which the applicant should be deported.&#x201D;</p>
+
+<p>Mr. Justice Mason, in the course of his judgment, said: &#x201C;The applicant was taken into custody under a warrant issued under the Immigration Act of 1913. This was put in force owing to the applicant having been convicted of an offence under the Gold Ordinance in 1909 and sentenced to eighteen months&#x2019; imprisonment. The warrant was signed by Mr. Gorges, Secretary of the Interior, on November 22, 1913. The first objection taken was that Mr. Gorges was not authorised to sign the warrant, but his appointment had been handed into court and was in order. In ordinary cases evidence of an appointment given under oath would be sufficient, but objection had been raised and tbs authorities had been given the opportunity of replying. The next objection was that, according to the affidavit, the Minister did not apply his mind sufficiently to the case to warrant the signing of the order of deportation of the applicant. There was no doubt that it was a most drastic&#x2014;in fact a most despotic&#x2014;law. A man could be deported by the Minister practically without appeal. The contention of the applicant that the Minister had not properly applied his mind to the case was based upon the Minister&#x2019;s affidavit together with the warrant. The Minister had sworn, positively, that he did go into the circumstances, and he (the Judge) was not prepared to go further with it. As he had said, it was a most drastic Act and it was incumbent upon the court to see that the regulations were carried out properly. In such a warrant there had to be included the circumstances under which a person was being deported. It was only right that a person should be told why an offence he may have committed twenty years ago was such that he should be deported now. He may have been living a perfectly honest life since. It enabled the person to know why the drastic power was being exercised. In the present case it was invalid, because it did not set forth the circumstances under which the applicant should be deported. He could not make any provision for the future, he could only say that the warrant was invalid.&#x201D; Mr. Sampson also alluded to the case of A. E. Heyer, who had sent an affidavit to the hon. member for Cape Town, Central&#x2014;which would probably be used during the debate&#x2014;and the cases of two men arrested under Martial Law.</p>
+
+<p>He thought that the deportation was going altogether further than ever that Parliament had intended it to go when it had given such extraordinary powers. He contended that they were stretching beyond the bounds of justice and fair play, and that the House should insist on some alteration <span class="col_1125-1126" refersTo="page_0569"/>in the procedure in deporting men, It was having a bad effect on a large section of the people in the country. The man who had once been a criminal was not always a criminal, yet men had been deported without committing any second offence. One could well understand the alarm which many others felt who had made a slip in their life. That House had not intended to create that feeling of unrest in people&#x2019;s minds. They had made a mistake in making the law retrospective. No one would raise the slightest objection to the law being put in force against habitual criminals, but when men were taken from their homes and had been deported who were not habitual criminals, it was going too far, according to his knowledge of justice and fair play. To reassure the country and hon. members of that House a Select Committee should be appointed to inquire into those matters, and they should see whether the deportations were justifiable. Deportation was becoming very cheap of late. They had appointed Select Committees in that House for far less serious matters than that.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>*Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville),</from>
+
+<p>who seconded, said that in regard to two cases he had brought forward some time ago, he had satisfied himself upon inquiry that the men had been deported for offences under the Immigration Act. He knew that there were many members in that House who were of opinion that the Government was embarking on a very dangerous course, and the only way they had of finding out how many people were being deported and the gravity of the offence for which they were being deported was by appointing a Select Committee. The hon. member went on to refer to a case where a man had been sentenced to one month&#x2019;s imprisonment some six years ago, and the previous year, in regard to some escapade with a motor-car, had been brought before the court and allowed &#x00A3;5 bail, which had been forfeited. Four months after that, without any warning whatever and without any notification, he had been picked up in the street and told he was to go to the charge office, and had been put into gaol. The man had asked for an opportunity to get into communication with his wife, but that had been denied him. He had been brought down to Cape Town and put in Roeland-street Gaol, and then had been quietly deported. One man had been deported to England, and another to Australia. When he (Mr. Boydell) had interviewed these men he could not help thinking that here a man was deported six years after he had committed an offence without any further crime of a serious nature having been committed by him. One of the men had been sowing his wild oats and living a harumscarum life years ago when he was a single man, but had since married and settled down, and had one child. It seemed hard that a man who could not be called an habitual criminal should be taken away at the dead of night, and without further trial banished from the country which he had made his home. He (Mr. Boydell) was not defending men who were guilty of serious crimes, but those who were endeavouring to live a better life, and he said that they should be treated the same as in other countries, and that they should do their best to reform them, so long as they were leading honest and respectable lives. They knew that the Act had only been in force something like six months, but he had got there some hundreds of cases of people who had been deported under that Act, including a good many Indians. They must have sent them out of the country at the rate of a score or more per week. In conclusion, the hon. member hoped that the Minister would agree to that motion, and that he would act as chairman of the Select Committee.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said that he thought the hon. member who had just sat down was under a misapprehension, and the return he had referred to was of people who had been either refused admission into the Union or removed from the Union under other clauses, as well as clause 22. He had a return up to February 28, showing the number of people who had been removed under section 22, and the numbers were: Transvaal, 40; Cape Province, 10; Natal, 5; and O.F.S., none. The total was 55. It seemed a big total, but it was a new Act they were starting, and they had done it for a particular purpose, and he certainly hoped and trusted that in the next few months they would be able to remove a good few others.</p>
+
+<p>In reply to an hon. member, the hon. Minister said that the return was since August 1, and he could not tell how many had been removed since January 1. He wished to differ entirely with one of the previous speakers, when he said that that Act was having a very bad effect. He preferred in that case again to take the evidence of an official&#x2014;the Chief Commissioner of Police&#x2014;who had informed him that the Act was having a most excellent effect, and had said that there was nothing tending to keep down serious crime more than that section of the Act.</p>
+
+<p>It seemed to him that the speeches of the two hon. members had really been an attack upon the principle which this House deliberately laid down in the Act last year and not so much speeches in favour of having a Select Committee. Surely, they must first make out some prima facie case that there was something to be investigated. There was one case that had not been mentioned that day. It was a case which had been mentioned in the newspapers, and a case which was, perhaps, one of the reasons why the motion had been brought forward, namely, that of Smith, alias Roberts. This gentleman was in Roeland-street Gaol at present for the purpose of being deported. He was arrested in the Trades Hall in January last. The warrant for his deportation had been signed by the Minister of <span class="col_1127-1128" refersTo="page_0570"/>the Interior a considerable time before that, but the police could not lay their hands on him. Then they found him in the Trades Hall. This gentleman had been sentenced at various times for housebreaking, robbery, and theft, and the last sentence imposed on him was in consequence of a breach of the Martial Law regulations. No doubt it would be said that this man was being deported for breach of the Martial Law regulations; but, as a matter of fact, he was being deported because, in the opinion of the police, he was an habitual criminal. He could assure the House that, in carrying out the provisions of the Act, the Minister of the Interior acted on the reports laid before him by the police authorities, which he went into. The principle his hon. friend had laid down was one that he entirely agreed with, that they were not going to deport a man who tried to live a honest life. That was one of the points that had to be gone into. Then he might refer to the cases of Whelan and MacDonald. He could not find a case of Casey in the list. Casey must be a person who was not deported under this clause.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street):</from>
+
+<p>What about Farmer?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>As regards Farmer, the court held that the warrant in his case was out of order, because there was some technical mistake. That technical mistake has been rectified; it was merely a question of the provisions of a particular clause not being properly quoted.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street):</from>
+
+<p>Why was he deported?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I have not got the return here. If I had the return I would satisfy my hon. friend. Proceeding, the Minister of Justice denied that these men who were departed were torn away from their wives and families, and said that facilities were granted to them to make arrangements with their wives before they left. Michael Whelan had four convictions recorded against him of theft, attempted theft, liquor selling to natives, and robbery. The police report was that he became known to the police in Johannesburg in 1902, that at that time he was a member of a large gang of criminals and that in 1903 he was a member of a gang who were doing safe robberies on the Rand. Thomas Ringrose, alias MacDonald, was convicted on no less than five occasions between 1903 and 1907, some of these being for exercising the trick known as the pea-and-shell trick. The police said that he was an associate of well-known criminals. So he might go on in every case. If the hon. member wished an inquiry to be made in every particular case where anyone had been wronged one could understand him, but what reason was there for having an inquire into each one of the 55 cases seriatim. Returns would have to be prepared, and a Select Committee would have to sit and inquire into each one of the 55 cases seriatim. He would submit that there had been no necessity made out for any such inquiry as the hon. member had asked for.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he was very sorry to hear the Minister&#x2019;s refusal to allow the Select Committee, and he would suggest that he should reconsider his decision. The Minister&#x2019;s criticism on the speech of his hon. friend was that it was rather an attack upon the principle of this clause than upon the method of its being carried out. He would submit to the Minister that, after all, it was a principle the advantage of which they had got to judge largely by experience. The Minister ought to be the last one to deny that, in the words of Mr. Justice Mason, it was a very despotic law. Surely, it was well that this House, having passed this law last session and having placed this despotic power in the hands of the Executive, should be exceedingly careful, and at the earliest possible opportunity, if there were complaints that it was used with some harshness, they should have a Select Committee to inquire and see what safeguards it might be advisable to incorporate in that law, so as to prevent its being used in any way except that which the House originally intended. The Minister had quoted the opinion of the Commissioner of Police that this was the very best step that had been taken in the putting down of crime. The Commissioner of Police was, no doubt, a very zealous officer, but he thought just now there were many of them in that House who viewed with a little bit of suspicion the production of a police record. It was typical of the opinion of the Commissioner of Police that he should imagine that it would be an excellent thing to have some very heavy penalty in his own hands practically. The very fact that it was a very severe punishment to inflict ought surely to induce the Minister of Justice not to go back upon the whole course of many generations and regard as a good way of putting down crime the infliction of very heavy penalties. The world had come to the conclusion that the infliction of very heavy penalties was not in accord with public policy. The Minister had quoted the case of Whelan. This man&#x2019;s last crime was in 1907. He had expiated that crime. Surely the fact that a man was convicted of a crime seven years ago was not going to be used as a pretext for deporting him from the country to-day without any fresh charge. He did not think it was the view of that House when the Act was passed that old crimes should be raked up as a ground for deporting the men when no fresh charge had been brought against them. He would take the case of the last man, which, he thought, was more striking still. The first two crimes, he understood, were committed in 1902 and 1903. It was said that the man was connected with a gang of thieves. In 1906 he was convicted of selling liquor to natives. He must say the more he considered this Act which they passed last year <span class="col_1129-1130" refersTo="page_0571"/>the more doubtful one was of having given these great powers to inflict this penalty. Let them admit that they in that House were as much responsible for the selling of liquor to natives as the men themselves. Owing to the laws passed by that House, there were many men continually with the fear of starvation before them, to whom this way of getting a little money to keep body and soul together presented itself as an overwhelming temptation. He was not going to defend it for a moment, but in many cases this crime was committed under the stress of the very direst poverty. The next crime this man was found guilty of was in 1893, when he was discovered working underground with another man&#x2019;s certificate. They did not know what the reason of that was, or what temptations might have lain in his way to make him take that course. It might be that it was the only way he had of getting a living, but it certainly was a very trivial cause for deporting him. He (Mr. Creswell) thought a very sufficient case had been made out to justify the appointment of a Select Committee. The Minister ought to welcome such a committee, in order to see that the law was administered with the least possible amount of injustice, and to prevent this arbitrary power being used in a way the House could not approve of.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>asked if the Minister had forgotten that a Select Committee was sitting to enquire into the working of the Miners&#x2019; Phthisis Act. The selling of liquor to natives was a crime in the Transvaal, but not in the Cape. In regard to that, and also the possession of gold and diamonds, the pernicious system of trapping was in vogue, men thereby being tempted to follow illegal courses There were as big scoundrels in the pay of the police tempting men to vice and crime as were men who were being deported. A man might be tempted into the commission of crime and driven out of the country by unscrupulous traps in the pay of the police.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>*Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>said that the public did not know all the circumstances connected with deportation, the number of cases of which had caused a very large amount of uneasiness. (Hear, hear.) He was surprised at the Minister being hostile to the motion, for he should have thought that with all the information at the Minister&#x2019;s disposal he would have welcomed such a committee which might re-establish public confidence. As he (Mr. Alexander) would like to see a committee appointed to go into the general working of the Act, which would do a great deal of good, he would move the omission of the words &#x201C;section 22 of.&#x201D; He was glad to know that shortly before the sitting of Parliament Government took immigration officers off the Appeal Boards so that these officials no longer sat in judgment on the decisions of their officers. If the Minister were to agree to the appointment of a Select Committee he would be astonished at the number of people who would give evidence from all parts of the Union. There had recently been cases in Cape Town which had caused a great deal of public attention. It was far better for the Government to agree to the appointment of a Select Commiteee to have this matter sifted than to have complaints coming up session after session.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street)</from>
+
+<p>said he had no objection to the amendment, but he did not want to drag into his motion the very contentious matters which widening it might lead to. In proposing his motion he thought he was asking for something reasonable which would not raise difficult questions in connection with the working of the Act. The Minister had given them no satisfaction with regard to the man Farmer. It would be nothing short of persecution if he were deported. He (Mr. Sampson) did not think he was going to raise the ire of the Minister over this matter in the way he had done, and consequently he was a little more suspicious than he was before that the Minister was afraid to face the Select Committee; at any rate it looked very much like it.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">Sampson</person>, continuing,</from>
+
+<p>said he thought he had made it perfectly clear that they on the cross-benches were not attempting to shield the habitual criminal of this country. But they did claim that old sores should not be re-opened. Assuming that a man had committed a crime years ago and had again committed a crime, then he (Mr. Sampson) could see the justice of the Government in putting the Act into force. But if a man was found to be living a reformed life, then that man should not be deported. The case of Farmer was exactly on all fours with this. The Minister had stated that 61 deportations had taken place in the short space of six months, but they on the cross-benches would require some evidence in regard to these deportations before they felt justified in agreeing with the action of the Government. Whelan and MacDonald had been working on the mines for some years and apparently without having committed any fresh offence, yet these men had been deported, and for what reason other than that which existed some years ago, he (Mr. Sampson) would like to know. The Minister spoke as if he had been waiting for this law to be passed in order to carry out these wholesale deportations. He considered it was very unsatisfactory for the Minister to say that a Select Committee could not be granted, but such a course, in the opinion of members on the cross-benches, was imperative in order to gain the confidence of the people outside that House. The reply of the Minister to the motion would certainly give a feeling of insecurity amongst a certain class of people which he (Mr. Sampson), in proposing that motion, had never intended.</p>
+
+<p><span class="col_1131-1132" refersTo="page_0572"/>The amendment of the member for Cape Town (Castle) was then put, and accepted.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>then put the motion, as amended, and declared the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street)</from>
+
+<p>called for a division, which was taken with the following result:</p>
+
+<p>Ayes&#x2014;12.</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Boydell, Thomas</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Jagger, John William</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>Morris Alexander and H. W. Sampson, tellers.</p>
+
+<p>Noes&#x2014;50.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Bekker, Stephanus</p>
+
+<p>Bezuidenhout, Willem Wouter Jacobus J.</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>De Wet, Nicolaas Jacobus</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Hunter, David</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>King, John Gavin</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, Goorge</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Neser, Johannes Adriaan</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Theron, Hendrik Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van der Walt, Jacobus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wessels, Daniel Hendrik Willem</p>
+
+<p>Whitaker, George</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>C. Joel Krige and H. C. Becker, tellers.</p>
+
+<p>The motion, as amended, was therefore negatived.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#leave_to_give_evidence">
+
+<heading>LEAVE TO GIVE EVIDENCE.</heading>
+
+<p>On the motion of Mr. WATERMEYER, leave was granted to him to appear and give evidence before a Select Committee of the Senate.</p>
+
+</debateSection>
+
+<debateSection name="#the_speakers_ruling">
+
+<heading>THE SPEAKER&#x2019;S RULING.</heading>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>moved: That in the opinion of this House the ruling of Mr. Speaker given on the 24th February (page 150 of the Votes), ruling an amendment to the amendment on the motion for the second reading of the Indemnity and Undesirables Special Deportation Bill out of order, on the ground that it dealt with events which occurred prior to the proclamation of Martial Law, was not in accordance with the Standing Rules and Orders, was an infringement of the rights of members of this House. The mover said it was not a pleasant duty which he had to perform in bringing that question before the House. The office of Speaker had been termed as the first Commoner of the Realm, and for nearly 100 years there had been no dispute with the Chair in the House of Commons, and he hoped that after the same period had lapsed in this Union they would have the same record. The holder of this high office was in some degree the servant of the House.</p>
+
+<p>There was a time when the person holding the office of Speaker was not an officer of the House and a good friend of the House, but really a creature of the Crown. The hon. member went on to refer to a case that happened in 1629 in the British House, when Speaker Finch, a paid servant of King Charles, refused to put a motion which he knew the King would not approve of. After being persistently requested to do so, he burst into tears, and only remained in the chair by being forcibly kept there by several of the young hot-heads.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>asked the hon. member what this had to do with the motion?</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">MEYLER</person></from>
+
+<p>said he was leading up to his point.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>asked the hon. member whether he imputed motives towards the Chair or that he (Mr. Speaker) used his discretion mala fides.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">MEYLER</person>:</from>
+
+<p>No, sir.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Then I don&#x2019;t see the object of this.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">MEYLER</person></from>
+
+<p>was understood to say that he was leading up to the point.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from><span class="col_1133-1134" refersTo="page_0573"/>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the hon. member must confine himself to the motion before the House.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">MEYLER</person> (continuing)</from>
+
+<p>said he was showing how the position had changed. The rules of that House were not the same as those of the Parliament of Great Britain, where the Speaker had the right of closuring a debate. That right was specially exempted under our Rule No. 280. Mr. Speaker&#x2019;s ruling on the 24th February had the effect of closuring the debate in a certain respect&#x2014;in respect of the shooting of natives and the assaults of citizens under Martial Law. This had been alleged by various members. He wanted certain information from the Government, and had a right to oppose the second reading of the Bill until this information was forthcoming. He moved an amendment on the amendment of the hon. member for Jeppe, and Mr. Speaker queried his right to bring the matter forward, and had said that he (Mr. Meyler) had only spoken about certain shooting that took place in July.</p>
+
+<p>He was not aware that any natives were shot in July, and he was referring to the question of shooting of natives in January. He did not expect Mr. Speaker to be omniscient, and it was a fact that natives were shot and citizens assaulted between 8th and 30th January last, the period covered by his amendment. The hon. member then proceeded to detail his amendment. He must claim that as a member of that House he had a perfect right to bring forward an amendment, especially an amendment dealing with people who had no direct voice in that Parliament. He had been accused of having put up this amendment from an obstructive point of view and in collusion with certain members of the House who sat on the cross benches. He denied that. The amendment was entirely of his own drafting and came from his own brain, and until the hon. member for Commissioner-street seconded the amendment he did not know for certain that he was going to do so. Supposing he had done so for the purpose of obstructing, he claimed he should have been perfectly entitled to do so. Mr. Gladstone systematically obstructed the passage of the Divorce Act, and Sir Robert Peel did the same with regard to Lord Grey&#x2019;s Reform Bill. He felt that the shooting of their subject races was too serious a matter to use for mere obstruction purposes, and he did consider that he should bring this matter forward because if he had not done so there would have been no chance of obtaining the details he required. He brought this motion with no sense of making an attack on Mr. Speaker, but he did so because it was his only opportunity of defending himself. He claimed the support of hon. members of that House. The rules were partly framed for the protection of minorities, so that the minority got a fair chance of expressing its views until the division was taken. This was of great importance, especially as minorities had a way of turning into majorities. He claimed privilege and he asked the House to support him in this matter, because he had no other means of redress, and what had happened to him might happen to some other member in the future.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>hoped that the silence of members would not be taken as an indication of agreement with the motion before the House. He thought on a previous occasion the ruling of Mr. Speaker was disputed by the member for Jeppe, but the matter died a natural death after that member had spoken. But here he (the Minister) wanted to point out that, after all, as even the member for Weenen had admitted, these disputes of Mr. Speaker&#x2019;s ruling did tend to set up or shadow a state of things quite foreign to the history and traditions of that House. The member might feel aggrieved as to the position in which he found himself, but he (Mr. Burton) could not conceive on what fair grounds he based that motion.</p>
+
+</speech>
+
+<speech by="#ministerialist">
+
+<from>A <person refersTo="hansard_za">MINISTERIALIST</person></from>
+
+<p>Cheek.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> (continuing)</from>
+
+<p>said that because when they had allowed everything they could allow a member there could be no justification for this motion unless it was that he was impugning the good faith of the Chair or its impartiality.</p>
+
+<p>Therefore the whole question resolved itself merely into whether Mr. Speaker was correct or not in deciding, that the amendment, proposed by the hon. member for Weenen, was relevant or not. That was the entire issue. And that question of relevancy of an amendment was, if that Parliament was to endure, a question which must be left to the discretion of one member of the House alone&#x2014;and that was Mr. Speaker. (Hear, hear.) Unless they adopted that attitude there would be an end to all order in that House and an end to the respect which every hon. member should feel for the Chair. (Hear, hear.) The hon. member (Mr. Meyler) had said that there was nothing further from his mind than to impugn the good faith and the impartiality of the Chair. By making that admission his whole case fell to the ground. In the opening stages of the hon. member&#x2019;s speech he seemed to indicate that at the back of his mind was a suspicion of lack of integrity, because he had quoted those instances, but he (Mr. Burton) would not press that because the hon. member had stated that he had no such idea. The hon. member had said, quite rightly, that the rules of Parliament were drawn up largely for the protection of minorities, but he (Mr. Burton) could not think that any fairminded man could say that on that debate on the Indemnity Bill the minority in that House had not had fair play, or more than fair play. (Hear, hear.) Hon. members were entitled to make full use of the time <span class="col_1135-1136" refersTo="page_0574"/>of the House to place their case as strongly and firmly as possible before it, but could any man say that they had not been allowed the fullest possible show? From their (Labour members&#x2019;) point of view they had made a very good fight and had been allowed the fullest possible scope, and he felt bound to admit that. There had been nothing like improper interference with the debate on that occasion. There had been a number of amendments which, he did not think hon. members on the cross-benches could deny, had been moved to impede the passing of the Bill&#x2014;what they, at all events, considered wrong legislation. When the hon. member for Weenen had made his speech he dealt at very great length with a number of matters that had occurred in July, and his (Mr. Burton&#x2019;s) recollection of that speech was that it had been almost entirely devoted to what had taken place in July. On that ground Mr. Speaker had ruled the hon. member&#x2019;s amendment out of order. He (Mr. Burton) did not want to pursue that matter; but it appeared to him that the hon. member&#x2019;s amendment was a dilatory amendment, and looked so under the circumstances, and the way in which it had been moved and the way in which it had been supported by the hon. member in his speech. The question of the relevancy of the amendment was a matter of discretion which must be left in the hands of Mr. Speaker. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that he had not proposed to intervene in the discussion at all, had it not been for the speech which had just been made. The Minister had said that a number of amendments had been moved. He saw from the Votes and Proceedings that only one amendment had been moved, which he (Mr. Creswell) had moved at the commencement of the day. The incident referred to had occurred near the close of the day, at 2.50 a.m., when the hon. member for Weenen had moved an amendment to that amendment. The Minister had said that no rule of the House had been broken. He (Mr. Creswell) had always thought that it was a rule of the House that any hon. member had the right to move a relevant amendment. The Minister had said that there could be only one person in that House who could determine the relevancy of an amendment, but when they had to depend upon the discretion of the occupant of the Chair, they had to be very careful about the establishment of a precedent which might establish their rights in future. If there was a distinct rule, there would be no need to pay such careful attention to an act which might establish an evil precedent. For that reason he entirely endorsed and supported the motion made by the hon. member for Weenen. Proceeding, the hon. member said that it was clear in his recollection that the reason Mr. Speaker had given for not allowing the amendment, was not that it was irrelevant, but that the hon. member had not made it plain in his speech that the shooting of natives was not in July, and Mr. Speaker had been impressed with the idea that the only shooting that had taken place of natives and the only assaults were those which had taken place in July. Because he had thought (although it was not mentioned in the amendment) that the hon. member had largely spoken of July, and had been referring to July, Mr. Speaker had declared the amendment out of order. That was establishing, in his (Mr. Creswell&#x2019;s) humble judgment, a most dangerous precedent, when it should be admitted by that House that whether an hon. member&#x2019;s motion was in order or out of order did not depend on the hon. member&#x2019;s motion, but on the speech which he had addressed to the House. He agreed with the Minister that there could only be one ruler in that House, and for that reason the House should be exceedingly watchful in establishing a precedent which might in future very greatly limit the absolute right of every member of that House to propose amendments which were entirely relevant.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said that having had the fortune or misfortune to occupy the Chair in another House, he knew well enough that, no matter how one tried to interpret the rules, occasions would arise when members felt they were aggrieved. He had been very conscious of this during his term of office, when members felt deeply and strongly upon certain subjects, that nothing made them feel more strongly that Mr. Speaker was wrong than his ruling that they could not bring the matter up. It was necessary to guard the rights of minorities, and if there were any principle at stake in that ruling, or any breach of the rules, he would certainly do all he could to maintain the rights of members. It seemed to him that there was not any principle involved at all in the ruling, except as to whether the amendment was relevant or not. There had been no rule broken, unless it could be positively ascertained that the amendment was entirely relevant, and that there was no scope of difference of opinion on that. It was a mere question whether the amendment was relevant; and he thought there was a great deal to be said from the point of view that it was wholly irrelevant. He did not see that that was going to establish a precedent. It was a well-established rule that if an amendment were irrelevant it could not be put, and if relevant it could be put. No principle and no rule had been violated. Mr. Sneaker was the only person who could decide upon that point. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said that he was very unwilling to rise to speak on that question, but he thought he could throw some light on it which would explain the misunderstanding. The hon. member for Weenen had brought the amendment to him before he had proposed it, and the dates mentioned were January.</p>
+
+<p><span class="col_1137-1138" refersTo="page_0575"/>That was his impression, and he certainly understood that it dealt with the shooting of natives in January, but if the hon. member altered the amendment before proposing it into the form in which it stood in the Votes and Proceedings, the mistake made by the Speaker was understandable.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth. Central)</from>
+
+<p>said he regretted the hon. member for Weenen had brought his motion before the House, because his grievance was a very little one. It was the first time he (Sir E. H. Walton) had known a motion of that kind put on the paper, and it should not have been put on without stronger and graver reasons. Moreover, the amendment was really included in that of the hon. member for Jeppe.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>was understood to say that the first part of his amendment declined to have anything to do with the deportations or the shooting of natives.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>said in his experience of Parliament he had known many eases where speakers might have been allowed more latitude than they received, but they had refrained from raising a discussion. There should be very strong reason before that course was adopted.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that with regard to the merits of the motion, he wished to refer to a remark made by the hon. member for Jeppe, in which he insinuated that the Votes and Proceedings in regard to what took place in the early hours of the morning were not in accordance with fact. He wished to inform the House that his attention was not drawn to the matter until two days afterwards, but he had nothing to do with the actual form; the Clerk of the House was responsible for that. It was the third time this session that a motion had been introduced to impugn the impartiality of the Chair. He could, however, assure hon. members that they certainly could rely on the absolute integrity of the officials of the House with regard to the Votes and Proceedings, as they appeared on the paper&#x2014;(hear, hear)&#x2014;and he wished to remove any impression which might have been created by the remarks of the hon. member for Jeppe.</p>
+
+<p>With regard to the matter raised by the hon. member for Weenen, it must be remembered that those proceedings took place in the hours between four and six o&#x2019;clock in the morning, after the House had been sitting something like 14 to 16 hours, and he thought the hon. member for Weenen would agree with him that he, too, was tired that morning; the whole House was tired, and the Chair was tired, naturally, almost beyond the bounds of human endurance. If his memory served him, the hon. member made a long speech, and at the end of that speech he proposed an amendment. There was no suggestion in the speech that any amendment was going to be proposed, and when it was proposed there was no reference made whatever to the question referred to by the hon. member for Tembuland. It referred to the unlawful shooting or assaulting of citizens of the Union. (An Hon. Member: &#x201C;Not natives.&#x201D;) If the hon. member for Weenen, knowing the feelings of the hon. member for Tembuland and his special care of the natives, showed him (Mr. Schreiner) the amendment, and if the hon. member could not support it, he (Mr. Meyler) must have re-drafted his amendment, for the amendment introduced was a totally different one. The hon. member in his speech, which lasted about two and a half hours, principally dealt with the occurrences and the shooting of the 5th July. It had nothing to do with the events of January. It was only after he (Mr. Speaker) had given his ruling, that the hon. member interposed that he meant natives. But the ruling had been given already, and he could not say to the House, as the hon. member for Weenen had rightly said, that he (Mr. Speaker) was the servant of the House, appointed to carry out the will of the House, and had also the duty imposed on him, the difficult and very responsible duty, of guiding the House, and in dealing with propositions sprung on the Chair at any moment. He had absolutely no intention of imposing as a side issue any closure on the proceedings of the House. The House itself had decided that there was to be no closure. Concluding, Mr. Speaker said that a misunderstanding might have arisen on the part of the hon. member for Weenen, or perhaps on the part of the Chair, but if that was so, the joint excuse must be time of the night, or the morning, when the proceedings took place. He could assure the hon. member that, although it was during an early hour of the morning, he had a very vivid recollection of his speech, and natives, which he said was the burden of his amendment, were not included in his amendment.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street)</from>
+
+<p>said he was the seconder of the amendment. He need hardly assure the House that he had not consulted with the hon. member in regard to this motion. Before the hon. member for Weenen had spoken during the debate, the hon. member had told him he found himself in some difficulty. He said he would like to support the amendment before the House, but, in his opinion, it did not go far enough. If there was to be an inquiry it should be extended to inquire into the shooting of certain natives, and he drafted an amendment in which the word natives was introduced. If he (Mr. Sampson) remembered rightly, he had information about the shooting and assaulting of white citizens in Johannesburg, and he told the hon. member he did not think an inquiry should be confined to the shooting of natives only. He consulted his hon. friends there and they assured him that they would support <span class="col_1139-1140" refersTo="page_0576"/>the amendment if the scope of the inquiry was so extended. It still struck him that if the amendment of the hon. member for Jeppe was in order relating to deportations, then, certainly, the amendment regarding the shooting was also relevant. He was convinced in his own mind that the hon. member for Weenen had acted bona fide in putting forward the amendment.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>said he wished to say a few words in order to clear up some misunderstandings. He did not speak for two and a half hours on the morning in question; he believed he spoke for just over one hour, though he quite understood it might have seemed like two and a half hours, or even longer, to his hearers. As to the remarks of the hon. member for Cape Town, Harbour, he had based his argument on the idea that this was an amendment to a motion. It was an amendment to an amendment.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour):</from>
+
+<p>Which is a motion.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (continuing)</from>
+
+<p>said that if the original amendment were in order, he claimed that his amendment was also in order. They had had an opportunity of discussing this matter between themselves, and he was perfectly satisfied with Mr. Speaker&#x2019;s explanation. With the leave of the House, he proposed to withdraw this motion.</p>
+
+<p>Leave was granted, and the motion was accordingly withdrawn.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#suggested_geduld-springsheidelberg_line">
+
+<heading>SUGGESTED GEDULD-SPRINGSHEIDELBERG LINE.</heading>
+
+<speech by="#bezuidenhout">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">W. W. J. J. BEZUIDENHOUT</person> (Heidelberg)</from>
+
+<p>moved: That the petition from I. J. Ginsberg and 1,223 others, farmers, landowners, and residents in the districts and towns of Geduld, Springs, Nigel, and Heidelberg, praying for the construction of a line of railway from Geduld to Springs, and thence to Heidelberg, via Nigel, or for other relief, presented to the House on the 23rd February, 1914, be referred to the Government for consideration.</p>
+
+<p>The hon. member said he hoped the Government would note the large number of signatories to the petition asking for a railway. The Minister of Railways and Harbours had promised last year that he would inquire into the matter; and the speaker hoped the Government would give its serious attention to the question of the proposed new railway, and that the request would be granted.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#a_personal_explanation">
+
+<heading>A PERSONAL EXPLANATION.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that, before the House proceeded to the next order, he would like to make a personal explanation. He was out of the House a few minutes ago and he understood that Mr. Speaker referred to his remarks as if they contained something which might be construed as a reflection upon the officials of this House in regard to the Votes and Proceedings. He could not for one moment recall any word of his which could have conveyed such a meaning, and there was nothing further from his mind in the remarks that he made.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_july_casualties_in_johannesburg">
+
+<heading>THE JULY CASUALTIES IN JOHANNESBURG.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town),</from>
+
+<p>on behalf of Mr. W. B. Madeley (Springs), moved that the report of Mr. Jordan, the Commissioner appointed by the Government to inquire into the circumstances attending the injuries caused to and the deaths of certain citizens of the Union in connection with the suppression by the military of the strike in Johannesburg on 4th and 5th July, 1913, be laid upon the Table.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#contract_immigrants_bill_second_reading">
+
+<heading>CONTRACT IMMIGRANTS BILL. SECOND READING.</heading>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street),</from>
+
+<p>in moving the second reading of the Contract Immigrants Bill, said it was a very welcome surprise to him that they should have reached this Bill so early in the session. He trusted that the Bill would receive more consideration and support than it had received on former occasions. The Bill was typical of the protective legislation asked for by the working classes of this country at the present time, instead of the repressive legislation which was being offered to them. He wished to remind Ministers of the representations that had been made for many years past for a measure such as this, a protective measure. In 1906 they found that a Select Committee, appointed from a House where there were no Labour members, had reported that they found that the conditions, as far as the Cape Colony was concerned, warranted such a measure as this being passed. They had had no such enquiry in the Transvaal, but, from their observations, and knowledge of the industrial conditions there obtaining, they maintained that the necessity of such an Act as this was as great as, if not greater than, it was in the Cape Colony. In Natal also they found that the workers claimed the necessity for some protection such as this Bill would afford. He would remind the Minister that in the list of grievances which the various Unions forwarded to the Government last July for their consideration, this measure was included. They considered that they were being undermined by a body of people who were being brought into the country at lower wages and under worse conditions than those which prevailed in the various occupations.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#unorganised_workers">
+
+<heading>UNORGANISED WORKERS.</heading>
+
+<p>They must not forget that a large body of the working-classes were engaged in drapery <span class="col_1141-1142" refersTo="page_0577"/>establishments, clothing warehouses, and tailoring shops, who were unrepresented by the representatives of the trades who met the Minister on that occasion. These people were unorganized, and they suffered in a very large degree from this constant stream of imported men. It was the common practice, as he understood, for a sort of standing order to be given to certain large drapery establishments in England that, if they saw a suitable man who wanted to go to the Cape, he was to be engaged, and, in order that the firm who engaged him should take no risk, he was generally engaged at a lower wage than that which prevailed, and with the promise, which was in some cases carried out, that, if he suited the requirements of the place to which he was going, his wage would be raised to the ruling wage of the place. But in some cases he was merely made a convenience of, or had to wait for some considerable time before that increase was given, and it was often found convenient in some cases to dismiss men who had a longer period of service to make room for them. In many ways they saw the ramifications of this system of contract labour. He could deliver a long speech on a contract which he read some time ago in connection with a big hotel here. It was instructive to this House as showing how foolish men could be in signing contracts. In the case that he mentioned the wage was &#x00A3;4 per month. There was no specified number of hours. The man was not to leave the premises without the consent of the employer, and only then when relief could be found. In addition to that, some percentage of his wages was to be withheld, and was to be payable to him only at the termination of the contract. He had seen contracts making conditions of service which, he was sure, no Kafir in Johannesburg would accept.</p>
+
+</debateSection>
+
+<debateSection name="#an_old_principle">
+
+<heading>AN OLD PRINCIPLE.</heading>
+
+<p>After all, the principle contained in this Bill was allowed and had been allowed for many years in the laws of this country. He believed that one of the reasons which made it competent for an employee to appear before a court when he came to this country and have his contract ratified was to see that the conditions in that contract were fair and above board and were not onerous conditions. Even under the Masters and Servants Act it was laid down that there should be some sort of inquiry into the conditions under which men were called upon to work and under which contracts of service were agreed to. It was but an extension of that principle, from a few people, domestic servants, farm labourers, etc., to the whole of the general industrial community, that they now sought. It had been contended in the past that this Bill would prevent employers from getting out men under contract, and that it would in fact be a hardship on the men themselves. A little inquiry into the provisions of this Bill would show that it would not prevent any such thing. It was, again, complained that it would prevent the Government, the mining companies, or some large corporation from obtaining an expert. If they read the Bill they would see that it would prevent no such thing.</p>
+
+</debateSection>
+
+<debateSection name="#a_reservoir_of_unemployed">
+
+<heading>&#x201C;A RESERVOIR OF UNEMPLOYED.&#x201D;</heading>
+
+<p>Contract labour could still be employed, but under fair conditions. It was laid down in the Bill that contract labour must not be imported in view of, or with the desire to affect the result of, an industrial dispute. Instead of employers and employees fighting out their own battles the former had brought out large numbers of men under contract to fill the places of men who were already here. This had caused distress and had engendered ill feeling. There was nothing worse than trying to put a premium on scabbing. A good deal of our past troubles were due to men having been taken to a mine on the Rand during an industrial dispute with a view to breaking a strike. The House should say it was not going to assist employers to get out men during times of industrial troubles. He believed it was proposed to prohibit strikes. It might be possible to prohibit them, but not to stop them. It would be an act of better faith if Parliament showed in its legislation that it was prepared to maintain the status quo in the event of an industrial dispute. On the Rand it was claimed that during the troubles last July the Government took the side of the employers by assisting them in getting blacklegs. Whenever workers were brought here in times of trouble then naturally employees thought Government was assisting the employers at their expense. Under the Bill an employer would have to show to the satisfaction of the Minister that there was a difficulty in obtaining within the Union an employee of at least equal skill and ability to the one he desired to bring out under contract. It was contended by employers that their aims were best served if they could create a reservoir of unemployed men who through hunger were prepared to work for less than the usual rate of pay, but was that a good thing for the country? Men should not be brought here under contract with a view to bringing down wages and making the conditions worse than they were already. If we had any thought for the future we should prohibit people employing persons to work for them at low rates of wages; frequently such men could hardly speak the English language. A large number of people was being imposed on in this way, in the tailoring trade especially, and also in some other trades which were not organised. That should be made impossible, and a person brought out here under contract should have a fair start.</p>
+
+<p>Really there was not much need for contract immigrants. If the conditions were as good here as some hon. members would <span class="col_1143-1144" refersTo="page_0578"/>have them to believe we would not be able to keep people away from this country. Contracts did not attract people to a country, but the conditions of labour. We should see that the conditions were such as would attract people to these industries without the necessity of contracts.</p>
+
+<p>Then it was not fair to the youths of this country that large numbers of people should be brought out here under agreement to do work which the former might be trained to perform equally as well as the imported people. Government Com missions had drawn attention to the difficulty there already was in South Africa of finding suitable occupations for our youths and of giving them a fair start in life. That difficulty would remain so long as the present unsatisfactory system remained. Just recently the Economic Commission, in its report, had alluded to the great difficulty with which employers could be found to teach a boy a trade. It was not fair to a boy born in South Africa that this should be so, nor that he should be dismissed to make room for a friend of a buyer of his firm who might be sent out to South Africa under contract to take the place of an improver. It had not been shown, concluded Mr. Sampson, that there was anything extreme in the measure. It was the intention of a Select Committee of the Cape to prohibit the importation of contract labour altogether, but that was unreasonable. A Bill of this kind, however, which contained fair conditions should commend itself to the House. (Hear, hear.)</p>
+
+</debateSection>
+
+<debateSection name="#disadvantages_of_the_bill">
+
+<heading>DISADVANTAGES OF THE BILL.</heading>
+
+<speech by="#krige">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>remarked that this was the third attempt at introducing a Bill of this kind, but so far hon. members on the cross-benches had not met with much success in their endeavours. The Labour Party attached great importance to a Bill like this as it laid down that all contracts must be made in the country from which immigrants came. Even if a person was a desirable immigrant he would not be allowed to enter unless he had a contract concluded in Europe. That would mean that South Africa would be unable to obtain labour when it perhaps badly required it, and that was asked for solely in the interest of the Labour Party. Another provision of the Bill was that contract labour could not be imported in times of strike, nor for a less salary than that which prevailed here. The effect of that would practically be that free labour would in future strikes be prohibited from entering South Africa. In other words, the Bill was intended to support strikes, and that would never do. In the event of a railway strike, for instance, the Government would be compelled to ask the Trade Unions to work the railways for them. In such a strike they would not have the right to import free labourers to take the places of those on strike. If the Government were willing to accept such a Bill, they would be doing something in strife with the interests of South Africa. Another object of the Bill was practically that every worker would be compelled to become a member of some Trade Union. The members of the Labour Party objected to the too great power of the immigration officials, and yet they were willing to give power to those officials not merely to refuse to admit contract immigrants but also the right to trace them afterwards, in which event both immigrant and employer could be punished. He held that a Bill of this kind was not in the interest of the oversea workman, but in that of the workman in South Africa, so that their Trade Unions could dominate all industries here. That could not be in the interest of the country, and he hoped the House would not accept it. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>deprecated the attitude which the last speaker had adopted towards the Bill. He (Mr. Haggar) maintained that the measure should be judged by its merits or demerits, and not from the standpoint of those introducing it. If they were to maintain a right spirit in the House members would have to judge from the measure itself, and not by those who introduced it. They on the cross-benches knew something about the industrial conditions of the people in this country, and that something was required in the direction towards which the Bill pointed. Already the principle of the Bill was admitted, and it was becoming more important every day to apply that without delay. A similar measure was already in force in Canada and the States, and he did not see why such a Bill should not become law in this country. The hon. member for Commissioner-street (Mr. Sampson) had referred to cases where men had been told, after having completed part of their contract, that they did not suit. He (Mr. Haggar) would give some cases of which he had proof. There was the case of a young man who, after having been in the country a short time, was blamed for a mistake which had arisen with regard to the despatch of some goods, although it was proved that he was not at fault. The employer told, him that the best thing he could do was to pack up and go home. The employee naturally refused. The employer then said, &#x201C;I shall change the terms of your contract and you will get &#x00A3;5 per month less salary.&#x201D; The young man took advice, and he was told to sign for the salary he received as &#x201C;on account.&#x201D; This proved a very wise step, as it enabled him to secure the salary under which he came out. He would mention that the case occurred in Natal in order to show that he (Mr. Haggar) was not having a dig at the hon. member for Cape Town, Central (Mr. Jagger). A case happened in this city last year where a woman having a contract which had still two months to run, was told that her services would not be required any longer. There was a possibility of the man <span class="col_1145-1146" refersTo="page_0579"/>and his wife being thrown on the streets, and he (Mr. Haggar) mentioned the case to the immigration people, who took the matter up, which led to arrangements being made whereby the person was secured in her rights. Had it not been for the influence of Government officials these persons would no doubt have been thrown on the streets. Another case was that of a man engaged by a Cape Town firm for three years. After working several months he was taken sick.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>How long ago is that?</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">HAGGAR</person>:</from>
+
+<p>It is going on now. After being sick a few days the firm wrote stating that the contract must be broken, and offering to give the man &#x00A3;25, barely sufficient to pay a steerage passage for himself and wife. These people were face to face with destitution. A further offer of &#x00A3;3 5s. in lieu of the first was made by the firm, on condition that no further demand would be made. He (Mr. Haggar) mentioned these facts to show that there was need of some decisive action being taken in regard to contract labour. Sub-section (a), clause .3, of the Bill referred to circumstances under which persons were brought into the country during the time of industrial troubles. It was well known that men were brought out to this country in times of strike, and after the trouble was over these men were dismissed. No doubt had they been first class artisans they would have been absorbed. But it was not to be expected that they could get expert labour under these conditions. They did not want that sort of labour in South Africa. But if they wanted the best men to come out to this country then they must be prepared to grant the best possible terms and conditions. He was prepared to give the names and full details of the cases he had mentioned. He supported the Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said that this Bill had been brought up every session of the Union Parliament. He thought that it had got less chance, and rightly less chance, of acceptance this year than was the case last year. This Bill had been described by the hon. member for Commissioner-street as protective legislation. He maintained that there was ample protection at present. They had the natural protection of being 6,000 miles away from the nearest supply outside, and it stood to reason that no employer would take lightly the risk of bringing a man from abroad. First there was the cost, then there was the risk of not knowing the man, and when the man came here and did not suit the employer, the latter ran the risk of losing a good deal. Experience had shown that if they did that they would be cutting their own throats. The man who was brought out here on a low wage soon found out that an attempt had been made to do him down. The result was that he was a dissatisfied man, and as the result of bitter experience employers did not do these things. But they had gone further than that. Last year, when the Immigration Act was under discussion, this matter of giving legislative protection to the workmen of the country was not only considered, but a clause was put into the Bill to deal with the matter. That was clause 5, sub-section (h). He asked the hon. member for Roodepoort whether this had escaped him. When that hon. member gave those three cases, he (the Minister) asked him especially about the dates. The first one, he said, was three years ago, the second one he did not know the date exactly&#x2014;</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort):</from>
+
+<p>Within 12 months.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person> (continuing)</from>
+
+<p>said that the last one was nine months ago, and that two years and three months of the contract had still to run. This Act came into force on June 13, 1913, and it was perfectly clear that all three cases occurred prior to that Act coming into force. He thought that Act, coupled with the natural protection which the circumstances of South Africa gave them, was ample protection from their point of view, and no one was able to deny that. But the hon. member for Commissioner-street went a step further. Although he spoke of protection, he really wanted a monopoly and what he attempted to create&#x2014;he did not see how he could succeed&#x2014;was to create a monopoly for the skilled white artisan in this country. It was different in the Transvaal where there was a colour bar, but if that was attempted in the Cape Colony and Natal, the coloured man would cut out the white man. The circumstances were different; they had a mixed population. The report of the Economic Commission dealt with that point, but he did not think it was a proper time to deal with it now. He said that as they had in South Africa a small and limited number of white artisans and mechanics, and no immediate supply upon which to draw to try and introduce into South Africa, with its mixed population and small white population, the same conditions which were imposed in other countries of the world, was impracticable. If the hon. member thought it meant that it would prevent men from introducing competition during a strike or trades dispute, then he said he was going too far. That was not legitimate protection. That was an attempt to strengthen the hand of one side in times of industrial dispute. The hon. member for Jeppe&#x2019;s idea was that in an industrial dispute the Government and everybody else must stand aside and let the employer and the employees fight it out, while they held the stakes. That was not the attitude that should be adopted, and he did not think any responsible body of public opinion should adopt it, and to try and <span class="col_1147-1148" refersTo="page_0580"/>bring that about by legislation of this kind was going further in the direction of creating a monopoly than the legitimate protection of labour. The Government could not accept the second reading of the Bill for these reasons.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that the Minister of Mines and Industries had credited him with certain views which he thought it was hardly the moment to go into. The position he took up, as the Minister would have the House believe, was that the Government should maintain an impartial attitude, and that the Minister himself thought the Government should take up an impartial attitude. He had the very highest authority. The hon. member went on to quote from the report of the Witwatersrand Disturbance Commission a telegram to the effect that &#x201C;the Government regret no solution of the dispute, but must adhere to impartial position.&#x201D; He only complained that under this cloak of impartiality they found the Government favouring the scale on the side of the employer. This Immigration Act provided no protection whatever in any of the cases quoted by the hon. member for Roodepoort. The Immigration Act provision had nothing whatever to do with it, and he was surprised at the attitude taken up by the hon. member for Cape Town, Central. There was no sort of protection in this, and he was sure the Minister saw that. To come to the Bill, there were three main provisions. The principle of the Bill was as simple as possible. The Minister had said that one had got the protection of 6,000 miles, and the protection of the bad policy it would be on the part of the employer to engage employees at less than the current wage. It was common knowledge that very frequently they had to recognise that there were very stupid employers who were addicted to that practice. There were a good number of remarks in the report of the Economic Commission about employers who could not by any means be classed as sensible employers. If it was common cause that it should be stopped, why not put it into the law? Then he came to what was really the stumbling block in the passage of that Bill&#x2014;sub-section (a)&#x2014;which prohibited employers from bringing in men in contemplation of or in connection with an industrial dispute. Hon. members on both sides of the House looked upon all those incidents almost entirely from the employers&#x2019; standpoint. He referred them to the debates in the Australian Parliament, where it was freely admitted that industrial disputes should be settled on the spot without external intervention. They took the view that the hon. Minister took last July, that they must adhere to an impartial Commission. It was not in the interests of the public nor in the interests of sound policy to encourage the intervention of contract immigrants, brought out simply to take the place of men out on strike.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town Central)</from>
+
+<p>moved the adjournment of the debate.</p>
+
+<p>The motion was agreed to, and the debate was adjourned untill Wednesday week.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1914-03-10T17:54:00">5.54 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

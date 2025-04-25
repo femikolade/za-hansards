@@ -1,0 +1,811 @@
+---
+title: 'House of Assembly: Vol14 - WEDNESDAY 1 April 1914'
+layout: debate
+year: 1914
+month: APRIL
+month_slug: Apr
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, 1st April, 1914.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair at <recordedTime time="1914-04-01T14:00:00">2 p.m.</recordedTime> and read prayers.</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska),</from>
+
+<p>from A. F. W. E. Fahrenheim, formerly gaoler, for a pension.</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansherg),</from>
+
+<p>from J. Oosthuizen and 140 others, for remission of repatriation debts.</p>
+
+</speech>
+
+<speech by="#bekker">
+
+<from>Mr. <person refersTo="hansard_za">S. BEKKER</person> (Aliwal),</from>
+
+<p>from H. Schwarzkopf, formerly chief constable, for increase of pension.</p>
+
+</speech>
+
+<speech by="#bezuidenhout">
+
+<from>Mr. <person refersTo="hansard_za">W. W. J. J. BEZUIDENHOUT</person> (Heidelberg),</from>
+
+<p>from F. R. Cronje and 62 others, for remission of repatriation debts.</p>
+
+</speech>
+
+<speech by="#van_der_riet">
+
+<from>Mr. <person refersTo="hansard_za">F. J. W. VAN DER RIET</person> (Albany),</from>
+
+<p>from the widow of B. J. Wilter, late attendant, lunatic asylum, Graham&#x2019;s Town, for a gratuity.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from S. Goldreich, Pongola Rubber Estates, Ltd., which holds a contract in respect of certain land in northern Zululand, known as Amatongaland, which is proposed by the Government to he cancelled, for relief.</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansherg),</from>
+
+<p>from inhabitants of the ward Groot Spelonken, praying the House to consider the advisability of the afforestation of certain portions of the said ward.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from><span class="col_1679-1680" refersTo="page_0846"/>Mr. <person refersTo="hansard_za">J. VAN DER WALT</person> (Pretoria District, South),</from>
+
+<p>from J. B. Cornelius, wounded during the late war, for relief.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour),</from>
+
+<p>from F. G. Parks, whose son entered the Department of Posts and Telegraphs in 1912, and whose services were dispensed with owing to physical unfitness, for relief.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">J. H. B. WESSELS</person> (Bethlehem),</from>
+
+<p>from registered voters in Heilbron, for extension of the Wolvehoek-Heilbron railway to the town of Lindley and thence to Lindley-road (four petitions).</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#royal_assent">
+
+<heading>ROYAL ASSENT.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>announced that H. E. the Governor-General, on behalf of the King, has given his assent to the following Bills:</p>
+
+<p>Appropriation (Part) Act.</p>
+
+<p>Railways and Harbours Appropriation (Part) Act.</p>
+
+<p>Additional Appropriation (1913-1914) Act.</p>
+
+<p>Railways and Harbours Additional Appropriation (1913-1914) Act.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_disclosed_telegram">
+
+<heading>THE DISCLOSED TELEGRAM.</heading>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>laid on the Table the report of the Select Committee on Official Telegram Disclosure.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person></from>
+
+<p>moved, as a matter of privilege, that the report be now considered.</p>
+
+</speech>
+
+<speech by="#hertzog">
+
+<from>General <person refersTo="hansard_za">J. B. M. HERTZOG</person> (Smithfield):</from>
+
+<p>Mr. Speaker&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Before the hon. member addresses the House, I will read the report in order that he may see what it contains.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>then read the report.</p>
+
+<block name="quote">Your committee begs to report that it has taken evidence on the matter submitted to it, and has, ascertained that the information quoted by Mr. Creswell on the 20th February in the House was given to him by Mr. M. G. Nicolson an attorney-at-law of Pretoria. Your committee has examined Mr. Nicolson, who admitted that he gave Mr. Creswell this information by letter. Mr. Nicolson stated to your committee that he obtained this information from a certain person who is not a member of the public service, but is a journalist at Pretoria. He has refused to answer the question put to him asking him to give your committee the name of the said informer. The reasons he gives for his refusal are: &#x201C;I consider the matter is of a private nature and does not affect the subject of the inquiry, and I cannot see my way to give the answer. Another reason is, I am not bound to incriminate any other person. I am not called here as an informer against anyone. In the next place, I understand there is a precedent for such a course in the action of Mr. Rhodes before the Select Committee of the House of Commons on British South Africa in 1897. He was allowed not to divulge the names of certain informants of certain information he had got. On these grounds I wish to be excused from answering the question.&#x201D;</block>
+
+<block name="quote">Your committee begs to report the facts to the House, and now awaits the further instructions of the House in terms of section 20 of the Powers and Privileges of Parliament Act. No. 19. of 1911.</block>
+
+</speech>
+
+<speech by="#hertzog">
+
+<from>&#x2020;Genl. <person refersTo="hansard_za">J. B. M. HERTZOG</person> (Smithfield)</from>
+
+<p>said the House was practically in the same position now as it was before the report was read. He wished to point out that this matter was of the greatest importance both to this House and the people concerned, and he hoped the Minister of Finance would not insist that this House should discuss the question before members had had an opportunity of looking into the evidence. He therefore moved that the consideration of this report stand over until after the recess. Members would like to see the evidence given before the Select Committee. It would be most unwise to take a hasty and ill-considered step. He had from the very first disagreed with the steps taken by the Minister of Finance, which could only lead them into difficulties. But he wished to point out now that it would be wrong to punish anyone without members having read the evidence. He for one was determined to see that the liberty of the public was not endangered by hurried and ill-considered action.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the hon. member could move that the debate be adjourned, and the date could be fixed later.</p>
+
+</speech>
+
+<speech by="#hertzog">
+
+<from>&#x2020;Genl. <person refersTo="hansard_za">J. B. M. HERTZOG</person> (Smithfield)</from>
+
+<p>accordingly moved that the debate be adjourned.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that he did not understand the argument of the hon. member except on the ground that he stated that he had been opposed to the steps taken&#x2014;(cheers)&#x2014;that he was; prepared to see official telegrams disclosed and made use of without the culprit being brought to book. That was the position of the hon. member, and on that assumption he could understand the opposition. The position was a perfectly simple and crisp one. He (General Smuts) was not a member of that Select Committee, and did not know what had happened in the Select Committee but he did know the report which had been handed to Mr. Speaker and read by him. It was stated in the report that Mr. Nicolson had refused to answer that question, and as a matter of privilege he (General Smuts) had, therefore, moved that the report should be considered now, and he did not see, in the position taken up by Mr. Nicolson, as reported by the Select Committee, that there was any reason whatever for trifling with the position which <span class="col_1681-1682" refersTo="page_0847"/>had arisen, and for flouting the authority of that House. (Ministerial cheers.) The hon. member (General Hertzog) wanted that matter postponed. He did not know why. It was not necessary to get the evidence before the Select Committee, and the evidence of Mr. Nicolson, which was pertinent, was before the House. He had given three reasons why he should not answer the questions; firstly, because he was not an informer&#x2014;(Labour cheers)&#x2014;secondly, because he did not want to incriminate anybody else&#x2014;(Labour cheers)&#x2014;and thirdly, because on some previous occasion the late Mr. Rhodes had declined to answer a question He did not see that any reason had been given for postponing that question, and as far as the Government was concerned, he could not agree to the amendment.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that he had no doubt that a large number of members of that House would agree with what had been said by the Minister of Finance, but what he would say to his hon. friend was this; that he knew that there was a very important motion upon the paper&#x2014;the second reading of a Bill which was considered to be of very great importance by many people in the country. He knew that there were many differences of opinion in the House and in the country about the matter, and he himself held views which did not coincide with those of his hon. friend (Mr. Wyndbam), but that was no reason why the House should not hear the arguments of his hon. friend and other arguments which might be put forward. One could see that the matter which had just been brought up was likely to lead to a protracted discussion, and under those circumstances, it was not fair, he thought, to the hon. member for Turffontein (Mr. Wyndham) and other members that that opportunity should be taken away from them that afternoon; and what he would suggest to his hon. friend was that, recognising the importance of the report which had just been read to the House, and considering that the report should be considered with as little delay as possible, nothing would be lost if the report was put down for consideration the first thing to-morrow. The Government must see that that report would lead to a good deal of discussion in the House, and the matter was one of the most important character&#x2014;whether the authority of that House was or was not to be flouted. (Hear, hear.) It was not a matter which could be disposed of in a few minutes. He did hope, therefore, that his hon. friend would agree to withdraw his motion, and that the report should be considered to-morrow.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said there was much to be said for the argument of the Leader of the Opposition. There seemed to be a likelihood of that debate lasting a long time. There was, however, an important Bill on the agenda for which many persons had prepared, and he would therefore agree to the consideration of the report being set down, not for to-morrow, but for Friday. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>regretted that Ministers, with the exception of the Minister of Justice, spoke so indistinctly, making it impossible for members far away from the Chair to hear what was going on. He agreed with the amendment of the hon. member for Smithfield, and held that members should be enabled fully to consider the evidence before giving judgment. He could not understand why the Minister of Finance would not accept the motion, as all that it asked for was that they should be able to read the report before coming to a decision. It was usual to print a report first and put it in the hands of members.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said the hon. member could not go into the merits of the question. The only matter before the House was to decide the date when the report could be considered.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WILCOCKS</person> (Smithfield)</from>
+
+<p>continued that he strongly disapproved of the attitude which the Minister of Finance adopted towards the hon. member for Smithfield. Not only hon. members, but the public also, felt sore about it. Personally he was in favour of the motion moved by the hon. member for Smithfield, so that there would be an opportunity to have the report printed. It was a question of dealing with State secrets, and the culprit ought to be punished, but that could only be done when they had examined the report of the evidence on which that report was based.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he rose merely to make a suggestion. The House, in its wisdom, thought fit to appoint a Select Committee to inquire into the source of information which he had given to the House. The committee had one simple point to investigate, and that was to find the source of his information. They had taken three weeks, and it would appear from the time the committee had taken, that their investigation had been of the widest range.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the point was as to when the discussion should be adjourned to. They were not then going into the merits of the case.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Will you be good enough, sir, to allow me to finish my sentence. Continuing, he said that the committee had carried on investigations. In order that the House might be in the position of surveying the position up to the moment, he submitted it would be wise, proper, and only right that hon. members should have a printed report of the evidence.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The point is whether the report will be considered now or at a later date.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>said he was not discussing the merits of the matter, but merely <span class="col_1683-1684" refersTo="page_0848"/>pointing out how necessary it was that they should have a copy of the evidence taken to date.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I must point out to the hon. member&#x2014;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>It is important for us&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must understand that the only point is whether the report shall be considered now or at a later date.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>said he would like to point out the impossibility of considering it now, as they had not the evidence upon which they could judge. He agreed that the debate should be adjourned until Friday, but he thought they should be furnished with a printed record of the evidence, so that they might be able to consider the matter and dispose of it finally.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof),</from>
+
+<p>in supporting the motion of the hon. member for Smithfield, held that it was only right that the House should have an opportunity of seeing the printed evidence and report before considering this matter. He could not but express his disapproval of the remarks of the Minister of Finance, who had insinuated that there was something behind the attitude of the hon. member for Smithfield, and that the latter was sitting with his arms round the necks of members on the cross-benches. That sort of remark did not tend to improve the present state of affairs. Proceeding, the hon. member urged that time should be given to enable members to study the report of the evidence. Someone had been playing with State secrets, but he hoped the principle of punishment without trial would not be continued.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said he wished to point out that, under paragraph 231 of the Standing Rules, the evidence of the Select Committee could not be printed.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>said he opposed the motion of the hon. member for Smithfield, as the Rand Water Board Bill was down for consideration on the first day after the recess. He thought the House did not require further evidence, and thought they might consider the report on Friday.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>said he would like to emphasise the suggestion made by the hon. member for Jeppe that members should be supplied with the evidence. He asked the Minister whether that course could not be pursued.</p>
+
+</speech>
+
+<speech by="#serfontein">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. P. SERFONTEIN</person> (Kroonstad)</from>
+
+<p>said he had not been able to grasp the meaning of the report, which had been read in English. He therefore held that members should be given an opportunity of considering the matter. He objected to the remark which had been made by the hon. member for Vrededorp.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that apparently the matter was now a very simple one. He did not think that the evidence would help them, but he thought that they ought to have the evidence. The point was clear. A certain person had acknowledged that he gave the information to the hon. member for Jeppe, but he declined to go further. Now this was a case in which the House had an opportunity of making itself supremely ridiculous.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said the point was whether the report should be considered at once or at a later date.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person> (continuing)</from>
+
+<p>said he was quite aware of that, but would like to point out that further time for consideration was necessary. This was a case which should be considered carefully else they might get themselves into as horrible a mess as the House of Commons. Mr. Speaker would know that the House of Commons had got into a dreadful mess before in a case of this sort. He agreed with the Prime Minister that they should put this off until Friday, and with that he thought they ought to be content. This was no matter to be dealt with in a helter-skelter fashion, and they should not be called upon to judge of the matter without being given an opportunity of looking up the law on the subject. If they found on Friday that the could not go on without the evidence then the debate could be adjourned until they could be supplied with the records.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>said he saw the Minister shaking his head while his hon. friend was speaking and asking for the evidence. But he (Mr. Andrews) would point out that it did not lie with the Minister as to whether the evidence should be printed or not.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the point was whether the report should be considered at once or at a later date.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town):</from>
+
+<p>I submit that we should not discuss the report until the evidence is before us.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That question can be raised when the report is being considered; it cannot be raised at this juncture. The only point is whether the House should consider the report now or at a later stage.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town):</from>
+
+<p>I would like to ask the Prime Minister whether he will give us an undertaking that we can have this evidence before us on Friday&#x003F;</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said he thought the House should hot adjourn this matter for such a short while that it would be impossible to have the evidence before them. As far as he knew, it would not be possible to have the evidence printed by Friday, and he would therefore, suggest that the consideration of the report should be put off a little <span class="col_1685-1686" refersTo="page_0849"/>longer. He thought some member of the House should move that the evidence he printed. As far as he understood, the Minister of Justice had given a, misreading of Rule 251. The rule was that members might not publish the evidence until it had been printed by order of the House, but it did not prevent the House from ordering that the evidence should be printed at once.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said that there was no report at present before the House.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage),</from>
+
+<p>held that there was a report before the House, and he suggested that the debate be adjourned until Monday next.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said he hoped the House would agree that the evidence should be printed and circulated amongst members before the report was considered. The matter ought to be threshed out with all the cards on the table. He would like to move, as an amendment, to add &#x201C;And that meanwhile the evidence taken to date&#x201D;&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person> (interposing):</from>
+
+<p>I cannot take that.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>May I move this as a separate motion&#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>No, the hon. member is out of order.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked whether it would not be in order to move that the debate be adjourned until the evidence had been printed&#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I do not know whether the hon. member understood what I said.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said they were placed in a difficulty. The motion suggested by the hon. member on the cross-benches seemed to have a good deal of weight in it, but it was impossible to move it on a motion for the adjournment. The only way in which such a motion as that which had been suggested by the hon. member on the cross-benches and the hon. member for Uitenhage was for the hon. member for Smithfield to withdraw his motion for the adjournment. It would then be competent to move that the report and evidence be printed and considered on a date to be fixed.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I think the hon. member for Queen&#x2019;s Town does not quite understand. The only question is &#x201C;that the report be now considered.&#x201D; It has been moved that the word &#x201C;now&#x201D; be omitted for the purpose of inserting &#x201C;on Friday next.&#x201D;</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen's Town):</from>
+
+<p>I understand that. Therefore I suggested that the hon. member for Smithfield should withdraw the motion for the adjournment. Then we should be in a position to move a further motion.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that, in view of Mr. Speaker&#x2019;s ruling, Le would content himself with appealing to the feelings of the Government. He supported the motion for the adjournment of the debate until Friday next.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the question that the debate be adjourned until Friday next, and declared that the &#x201C;Ayes&#x201D; had it.</p>
+
+<p>The motion was therefore agreed to.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said he would move that the report and evidence be printed.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>There is nothing before the House. The report will appear on the Votes and Proceedings in due course.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_pensions_grants_and_gratuities">
+
+<heading>SELECT COMMITTEE ON PENSIONS, GRANTS, AND GRATUITIES.</heading>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George),</from>
+
+<p>as Chairman, brought up the first report of the Select Committee on Pensions, Grants, and Gratuities.</p>
+
+<p>The report was set down for consideration on April 22.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#womens_enfranchisement_bill">
+
+<heading>WOMEN&#x2019;S ENFRANCHISEMENT BILL.</heading>
+
+</debateSection>
+
+<debateSection name="#second_reading">
+
+<heading>SECOND READING.</heading>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein),</from>
+
+<p>rising amid cheers to move the second reading of the Women&#x2019;s Enfranchisement Bill, said that this Bill was supported by approximately 24 different organisations representing a membership of 2,600. It also received the full support of the Women&#x2019;s Christian Temperance Union and its various branches numbering upwards of 1,800 members. Therefore this Bill had the support of upwards of 4,500 active workers in the cause of political and social reform. Last session, he thought it was, a petition was presented to the House in favour of granting the franchise to women bearing no fewer than 12,000 signatures. Therefore, it appeared to him that this Bill represented a body of opinion in the Union which had every right to a respectful hearing in this House. (Hear, hear.) He thought it would be convenient if he were to deal first with the provisions of this Bill. Then, having got the Bill out of the way they could turn their attention to the general arguments for and against women&#x2019;s suffrage. This Bill had no claim to be a Franchise Bill. All it claimed to do was to set up equality as regarded the franchise between the two sexes. In this Bill they were in no way concerned with the different kinds of franchise to be found in the different Provinces of the Union. All that they who had drafted this Bill had done was to take the franchises as they existed at present and make them applicable to both sexes equally. He wished to draw attention to the proviso to clause 2, which laid down that, where a proper qualification was required for the franchise, a married woman living with her husband should not be entitled to be registered in respect of that qualification, unless <span class="col_1687-1688" refersTo="page_0850"/>the property occupied by her jointly with her husband was double the necessary qualification. That simply repeated the provisions which already existed in the Constitutions of the Cape and Natal. In those Constitutions it was laid down that, where property was occupied jointly, people who occupied that property should have the right to the franchise in the event of its being sufficiently large, when divided, to give each of them the necessary qualification. That was the principle which was enacted in clause 2, but there was one slight difference. It was necessary to enact this clause, because, if it were not enacted, it would mean that a man at the Cape who had the necessary qualification and was married in community of property would lose his franchise, in the event of the property not being double the necessary qualification. If the Bill were passed it would enfranchise a certain number of coloured women in the Cape. The supporters of the Bill perfectly well recognised that fact, but they considered it was not sufficient reason to withhold the franchise from white women. Were hon. members opposite so frightened of the coloured population that they would condemn their white women to be disfranchised because the giving of the vote to them would also enfranchise a few coloured women as well&#x003F;</p>
+
+<p>He now came to the general arguments, which divided themselves into two principal heads&#x2014;justice and expediency. He would deal with justice first. They were constantly met with the argument that they should not enfranchise women because the majority of the women in this country had not asked for the vote&#x2014;(hear, hear)&#x2014; and that only a small minority wanted it. (Ministerial cheers.) This argument had been used by the Minister of Railways, and it was constantly used by the Prime Minister, but it was absurd to say that the franchise should be given only when it was wanted, like a cup of tea or something of that sort. The minority laboured under a sense of injustice, and Parliament had no right to withhold the privilege from the minority simply because the majority did not require that privilege. To give a certain portion of the community a privilege it did not want was not to do it an injustice, but to withhold it from the minority which wanted it might be doing a great injustice to the latter. Women&#x2019;s activities in men&#x2019;s spheres were steadily increasing. In every direction women were competing with men, and it was not entirely from their own choice, but arose very largely from the fact that women had to earn their own living. Hon. members opposite&#x2014;like one hon. member who said that women&#x2019;s suffrage was the invention of the devil&#x2014;(laughter)&#x2014;who lived comfortably on their farms, did they realise that women were being forced to take an active part in the competitive system, and that being so, surely it was right that they should have some say in the laws that governed that competitive system. There were 11,962 women employed industrially in the Union. He was not going to import any inflammable matter into this debate and would not discuss Socialism, Syndicalism, or any other ism&#x2014;</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville):</from>
+
+<p>You will be deported.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">WYNDHAM</person>:</from>
+
+<p>Well, I may. (Laughter.)</p>
+
+<p>Whatever measures are brought forward you are never under any circumstances going to achieve the Millennium. Continuing, Mr. Wyndham said that women should have some say in the system to be adopted in order to right the wrongs which at present existed in industrial matters. It had been said that everything could not be done with the vote, while other people had asserted that everything could be done with the vote. He did not think either contention was correct, but people who had the vote got a great deaf more attention paid to them than people who had not the vote. (Cheers.) The native races in the Cape Province were better looked after than any other natives in the Union because they had a certain measure of representation. He believed a great deal could be done without the vote, but until women had it they would not be able to exercise the influence which was their right if they took part in industrial pursuits. There were no women members of Town Councils in South Africa, and women were not eligible by law to become members of Town Councils. But there were eight women members of School Boards. The women in every Province of the Union were eligible for election to School Boards, but the women had the School Board franchise only in the Cape and the Free State, while in Natal they could vote as proxy for their husbands. That was the full measure of political activities allowed to women in a direct way. While a movement was taking place among women to obtain the franchise a movement was going on by which the State was increasing its activities in women&#x2019;s spheres. The opponents of suffrage continually asserted that women&#x2019;s activities should be relegated to the home. (Cheers.) That might be very true, and might be very delightful, if a woman had a home, but what sphere of activity were they going to open up to a woman who had no home&#x003F; The State was constantly interfering with the home, and taking women&#x2019;s responsibilities out of their hands, but he did not want to base his claim entirely on the justice of the case. He believed that the demand for votes for women was a just one, but he would not be prepared to grant it if he considered it would he to the detriment of the State. He had upheld that no one had a right to a vote unless it could be proved that his vote would be a benefit to the State, but he did not consider that women&#x2019;s suffrage would be a danger to the State, but thought it right that they should have it from the point of view of expediency.</p>
+
+<p>There were various points of view from which the subject could be regarded, but <span class="col_1689-1690" refersTo="page_0851"/>he proposed to consider only that of education. One of the primary duties of the home had been to educate the rising generation, but this duty was being taken over more and more by the State. In a recent report issued by the Education Department there was a passage which clearly admitted the responsibility of the State for the education of the youth of the country between the years of 13 and 18. There was no mention in that report of the family duty in that connection, but everything pointed to the fact that this had been taken over by the State and that House was responsible for it. Hon. members were for ever asking for increased activity on the part of the State in home matters, and there was a danger of this interference reacting in an unfavourable mariner upon the home life of the country. Throughout the world this place was being taken by the State in lieu of the family, and if the State was to educate the young, which was once regarded as the paramount duty of the woman, it was essential that women should have a share in this most important matter by giving them the vote. He thought the House would admit that it was only fair that women should have a share of the responsibility given them. It was being said that the vote should not be given to those who did not want it; but he maintained that this responsibility should be given whether women assumed it or not. The only way that women now had of performing their duties to the State was by recording their vote. Therefore he was not in the least concerned whether the majority of the women wanted the vote, but it was most important that the opportunity should be given them of assuming that responsibility. While it was a fact that force could not be exercised without the consent of the governed, yet how could it be said that the authority of the Government was based on the consent of the country when only one-half of the population was represented. Continuing, he believed there were several dangers in front of them unless they granted this demand. There were two dangers in particular, and these dangers were in two extreme directions. There were signs of a sex war, and the other danger was the other extreme, that there was likely to be born a state of hopeless apathy amongst the women of the country, and he believed that the only way to avoid these two dangers in particular was to give women the vote. He asked the House not to be carried away by prejudice, but to realise that there was a certain minority who asked for the vote, and it was due to that minority to give their claim a fair hearing. By granting the franchise to women they would be removing a sense of injustice felt by many, while they would broaden the base of government, increase the sense of responsibility amongst the community, and earn the gratitude of generations to come. (Cheers.)</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>rose to support the second reading of the Bill. He remembered being taken severely to task by the hon. member for Turffontein (Mr. Wyndham) last year for dragging in the Social question when that Bill was before the House. He (Mr. Andrews) was now pleased to see the change which had taken place in the hon. member&#x2019;s views. The question of the vote for women had always been one of the prominent planks in the platform of the Labour Party, and he hoped that a clear issue would be arrived at that afternoon upon the Bill. The hon. member for Turffontein (Mr. Wyndham) said he was not concerned with the particular franchise which was to be given, but he (Mr. Andrews) was, and would like to see a general suffrage granted, although members on the cross-benches might now be able to swallow the second clause of the Bill after the explanation which had been given.</p>
+
+<p>They said that the only qualification for the franchise should be that a person, male or female, was of age, was not insane, and a citizen of the country in which he or she resided. Under the circumstances, in South Africa it might be necessary to allow the provision to remain as it was in clause 2 of the Bill. The hon. member for Turffontein had mentioned that question of the sex war. He (Mr. Andrews) was not a believer in that, and he did not believe in the least that they were going to develop on such lines. He was more afraid of the continuance of the class war than of the sex war, and when they heard people say that women workers were a danger to the male workers in industries, that was not because of the women or because of the sex, but because of the system, and they found the same argument brought up in regard to the coloured and the native people. They were told to look upon them as their economic enemy. Their (Labour members&#x2019;) solution was that equal pay should be given for equal work. (Labour cheers.) There need be no sex war, and there would not be any sex war, once they abolished that capitalist system of theirs If women got the franchise they would have a larger democratic vote, which would be able to understand industrial problems from the point of view of the worker They would never have conditions existing in industrial life that ought to exist until women had the vote. There was not the slightest doubt about it. The hon. member for Turffontein was quite right when he said that when any section had the vote more attention was paid to them than if they did not have the vote. He could quite imagine if the railwaymen were disfranchised&#x2014;and some hon. members had seriously suggested that they should be disfranchised&#x2014;and if Civil Servants and other Government employees were disfranchised he would pity them in the conditions they would find themselves in. Their conditions were not particularly enviable at the present time, and they would be much worse if they did not allow the <span class="col_1691-1692" refersTo="page_0852"/>shadow of the railwaymen to appear in that House, as the Minister of Railways and Harbours had said the other day. Again women voters would he able to get far more consideration at the hands of their employers if they had the vote. The conditions under which women workers worked in that country were in many instances atrocious, and he had only to allude to the hours of labour and their pay. Even the Government was an offender in that. If they looked at the advertisements for school teachers, or for women engaged in other occupations under the Government, they invariably found that there was one scale of pay for the men and another for the women, for the same qualifications. They (on the cross-benches) said that that was absolutely wrong, and that it would not exist if the great mass of the women in that country were able to influence the electorate. He had no fear of the result if they adopted that motion. In other countries where the women had the Parliamentary franchise he had yet to learn that those countries had lapsed into barbarism. On the contrary, they had progressed. An hon. member said &#x201C;No,&#x201D; but he would be obliged if the hon. member could give an instance of a country going backwards because women possessed the franchise. Some countries had even put women into Parliament, and some women of his acquaintance could shine as much in Parliament as the hon. member who had just intervened.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>said he regretted to have heard the drastic proposals of the hon. member for Turffontein. What was going to be the outcome of these proposals&#x003F; Were the women going to attack the Ministers if the Bill was not passed&#x003F; Were the beautiful pictures going to be torn up, the Houses of Parliament blown up, and was there going to be a reign of terror by the women&#x003F; (Laughter.) They who were no longer bridegrooms, the hon. member went on, could testify to the fact that it would be unwise to pass this Bill. They knew, of course, that we stood under women&#x2019;s reign&#x2014;(laughter)&#x2014;but of course these young men who were only married last year could not judge yet. (Laughter.) They all admitted, however, that woman was their baas. Let them look at the French history and see what Joan of Arc had done. Let them see what Florence Nightingale, Grace Darling and other women had done. They had great examples in history of what women had done. He was sure that Milton had been inspired by his wife, and who said that Shakespeare was not a woman&#x003F; If the Bill was passed what would be the position in 25 years&#x003F; The House would be full of women. The wives of the present Ministers would sit on the Treasury benches. whilst they themselves would have to find their seats in the galleries, taking care that they were home by 11 p.m. in order to warm the bottles for the babies. (Laughter.) There would be no Minister of Defence, because there would be no more war. If any man were still found in the House, he would wear skirts or kilts. He thought the time had not yet come to give women the suffrage. As it was, the country was faced with quite enough difficulties, and he hoped the Bill would not pass.</p>
+
+</speech>
+
+<speech by="#lemmer">
+
+<from>&#x2020;General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>said the matter was one of so much importance that it should be carefully considered and not treated as a joke. He was against the principle of giving women the vote, but he had voted for the first reading because he thought it would be wrong to throw out a Bill like this at the first reading. The speeches which had been made so far had not convinced him. He had the utmost respect for women and was prepared to do everything to make women happy, but he opposed the granting of this so-called privilege, because he held that this privilege carried with it burdens which women could not undertake. Had woman not quite enough burdens peculiar to her sex&#x003F; Man could not bear her burdens, neither could she take over the work of the man. Could not woman make her influence felt sufficiently&#x003F; Was her home beneath her dignity&#x003F; The man who did not respect woman was not worthy of the name of man. There could be no question of equality of sexes, because sex meant difference of equality. His opinions were based on what he had read in the Book of Books, and it was one of man&#x2019;s burdens to plough the land with the sweat of his brow, in order to maintain those who were dependent on him, and it was one of the burdens of women to bear children, look after the home and obey her husband. It would be against the laws of nature now to make woman do what was man&#x2019;s work. All that was created in conflict with the laws of nature proved in the long run to be unstable. Nature always revenged herself for such things, as they saw with flowers in a nursery garden, which lost their odour and became unfruitful. The hon. member went on to say that he regarded the Bill as the thin edge of the wedge, as woman would not be satisfied with suffrage, but would eventually demand to have the right to become a member of Parliament. Could a woman in such conditions continue to carry out her peculiar responsibilities&#x003F; Would she be any the happier because she helped to make the laws of the country&#x003F; Many men made no use of their votes, but they were not unhappy in consequence. Would not the home suffer&#x2014;and what then&#x003F; He held there was nothing in the Bible to justify woman&#x2019;s suffrage; in fact, he held if they gave women the suffrage they would act in conflict with the Ten Commandments. If women got the franchise, he foresaw the time when men would cease to love and honour them and act as their natural protectors.</p>
+
+<p><span class="col_1693-1694" refersTo="page_0853"/>When the day came that man could no longer carry out his duties, it would be time for the Lord to make an end to the present generation. General Lemmer concluded by moving, as an amendment, that the Bill be read a second time that day six months.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg),</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said he had listened with interest and sympathy to the speeches made so far. He thought circumstances were of such a nature that where they spoke of the rights and position which a woman should take up they spoke of one of the most worthy and dignified matters they could speak of. And this was not a matter which they should ridicule. He had expressed himself on this matter in the past, and he wished to do so again. There was a world-wide feeling in favour of female suffrage, and they could not ignore this. The old idea that woman would lose her prestige if she was given a vote did not carry much weight with him any longer. In some countries women had already been given the vote, and in others this question was the great question of the day. Even in this country the question was an important one, and hon. members must not think that they could settle the matter once and for ever by throwing out this Bill. The question would keep on coming back. The majority of to-day had no monopoly for the rest of time. Therefore, the question must be gone into with the greatest care. The cause of woman&#x2019;s suffrage had gained a lot of ground in South Africa of late. He thought women had as great interest in South Africa as men, and they therefore deserved to have a vote. The mother was the person on whom everyone depended. Should they, then, allow the mother to bring up the man, should they entrust her with the upbringing of the future generation and yet refuse her the right to have any say in matters appertaining to the interests of the country&#x003F; He could not see why if woman was given a vote she would be unfitted for her noblest work. Most men of business consulted their wives in business matters, and woman&#x2019;s advice was generally good and safe. He had often consulted his own wife and had repeatedly obtained good advice from her. South Africans should read what their mothers and grandmothers had done for the civilisation of this country. Let them see what their mothers and grandmothers had sacrificed for this country, and find out who suffered most from the savage men and wild animals whom the Voortrekkers had to encounter.</p>
+
+<p>Who was generally the sufferer&#x003F; Who were the principal sufferers in the war &#x003F; Was it man or was it woman&#x003F; They could see that 10,000 men had perished and a very large number of women. If woman had had a vote would all this trouble have occurred&#x003F; Would not woman have secured that at any rate there should have been less misery in the country. Woman had great rights and he could not see that it would be wrong to give woman greater rights than she had to-day. But he doubted whether the time was ripe for the introduction of a Bill of this kind, which would bring about such fundamental changes, and if the hon. member for Turffontein had (consulted others, they would have advised him that the people should first be educated up to the meaning of, all this. A good deal of spade work had to be done; the people had to be educated to the meaning of this. Of course, the attention of the people was directed to the matter by this Bill, but the matter should be worked up out of the people. A fundamental change would be involved by this Bill and that was a point to be considered.</p>
+
+<p>The question was one of great importance for the people in the towns, but it was one of far greater importance to the people in the country. In the towns there were plenty of polling stations about, but what about the country, where large areas had to be covered ere one got to a polling station&#x003F; It would be very difficult for women to vote there, and it might be necessary to have the principle applied of voting by, post, as was done in Australia. He was not speaking on behalf of the Government, because he thought even members of the Government did not agree on this subject. He therefore only spoke on his own behalf. If the hon. member for Turffontein wished to achieve any success he should bring about radical changes in his Bill, as this Bill, if accepted, could only cause a lot of trouble. In regard to certain remarks by the hon. member for Marico, General Botha referred to a letter from Mr. Cloete, British Commissioner in Natal, dated August, 1843, addressed to the Colonial Secretary, and dealing with a deputation of Boer women. The spokeswoman of that deputation (Mr. Cloete wrote) had stated that in consideration of what they had gone through, women had been promised a vote by the menfolk in all matters pertaining to the affairs of the country. They had shared the privations of the men under the distinct promise that they would be given the vote, but the promise had never been carried out. He (the Prime Minister) referred to this to point out that even the old Voortrekkers had taken up this attitude. If the Bill was to be made practical, the mode of voting as existing had to be altered. He was prepared to assist in bringing about something useful, and he suggested to the hon. member that the system in vogue in Australia, under which women could vote by post, would give a good basis to act on. He thought that although the Bill contained a good principle, it should be radically altered, and he therefore hoped that the hon. member would not insist on pressing the Bill through as it was now. He concluded by saying that he saw no objection to women being given the vote. He was in favour of the principle of the Bill, but <span class="col_1695-1696" refersTo="page_0854"/>opposed to many of its details. They had nothing to fear from the influence of the women, and he intended therefore to vote for the second reading of the Bill. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said that the hon. member for Marico (General Lemmer), in his very earnest speech, relied on the Bible. He would remind the hon. member that Christianity came to release women from the disabilities under which they had previously laboured, and women&#x2019;s enfranchisement was one of the topmost fruits of Christianity. The hon. member for Queen&#x2019;s Town asked &#x201C;What about St. Paul&#x003F;&#x201D; St. Paul&#x2019;s advice to women not to chatter in church had nothing to do with this question. Anyone who studied St. Paul&#x2019;s life carefully would realise that he had many women coadjutors in his work, and at the present day St. Paul would no doubt have favoured their enfranchisement. Proceeding, he said the hon. member opposite said the woman&#x2019;s place was in the home and that the vote would change her character. Nobody yet had pointed out that any harm had occurred in any of those countries where women had the vote, or that they had become less fitted for their home duties. When the Prime Minister began his speech he was glad to find that he was entirely in favour of the principle of the Bill, but he (Mr. Schreiner) regretted that afterwards the Prime Minister seemed to indicate, and that was a principle held very largely, that because the majority of the women of the country were not petitioning for the vote therefore it was quite right to presume that they did not want it. In regard to the argument that the majority of the women did not want the vote, it was the acme of injustice to any class of people when a minority were deprived of a certain right which they ought to have because the majority of the same class did not want it.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>Have not asked for it.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person> (proceeding)</from>
+
+<p>said, to his mind, it was the height of injustice. It was as much an injustice to do a wrong to ten people as it was to a thousand; because it was only the minority who asked for the vote, it indicated to him that they ought to give it to them. The hon. member for Marico (General Lemmer) said a great many would not exercise the vote if they had it. He (Mr. Schreiner) thought that too. But let those women who did not care for the vote not exercise it. Who was going to force them&#x003F; Many men had shown by their abstention that they cared very little for the right to vote, and it would be the same with the women. Supposing one-half, or even three-quarters, did not go to the vote, those who valued the privilege would. To wait until the majority of the women of the country said they wanted the vote would, to his mind, be a great injustice, which would eat into the hearts of the enlightened women&#x2014;he did not say others were not enlightened&#x2014;who claimed the same privileges as man. That question ought to be dealt with irrespective of party. It was a great and important question, affecting the whole nation, and ought to be above party. That was why he was glad that the Prime Minister had indicated to his followers that they were free to vote as they liked, and he himself had supported the principle. If he (Mr. Schreiner) had had his way, he would have felt inclined to introduce a motion into the House favouring the principle rather than a Bill, because that would have gained far greater support than the Bill before the House. The principle the Bill advocated was that there should be no difference made on account of sex. Even those who were opposed to the details of the Bill should realise that, if they were in favour of the principle of the Bill, they should vote for the second reading.</p>
+
+<p>The Prime Minister had said they should leave that matter until the time they had the Consolidated Franchise Bill before them. But it was not well to leave it. It was quite right that when they got the consolidated franchise law, that question of votes for women would have to be dealt with, but there would be other questions. There would be difficulties with regard to colour throughout the country. Every thinking person knew that the provisions which might, under certain circumstances, be applicable to Europeans, might not be applicable to the whole of the native population. He was not in favour of every man or woman having a vote without some qualification&#x2014;that is where he differed from the hon. members on the cross-benches. When they had the question of the consolidated franchise before them, it would be found that, if justice was to be done, that some differentiation would have to be made in regard to the large native population, of whom a certain proportion were civilised. But there was no difficulty in the way which could not be surmounted. He had mentioned that in order to reassure those hon. members who felt inclined to vote for the second reading of the Bill, but hesitated to do so lest they should be opening the door unduly to native or coloured women. The principle of the Bill was that there should be no differentiation with regard to sex. The mover of the second reading mentioned the matter of sex war, and it might be thought he meant militant suffragism. He (Mr. Schreiner) believed that some of the hon. members of the House misunderstood him to that extent. Militant suffragism had been held up as a bugbear. He was as opposed to militant suffragism as anybody could be. He thought it was putting the clock back in the United Kingdom, and if ever militant sufragism was introduced into this country, it would be found that this was not a country where they would stand anything of that kind, and it would kill all hope of enfranchisement. He would, however, say <span class="col_1697-1698" refersTo="page_0855"/>on behalf of those people, that when a great reform was put forward by people who had been feeling oppressed in any way in the past, and when such a reform came to a head and went before the Legislature of the country and time after time was approved in principle by a very large number of the legislators and nothing eventuated, and it never became law, it was only human nature that these people be roused to overt acts of violence in order to indicate their sense of injustice. He thought it was a wrong matter to do; but let them be fair even to those militant suffragettes, and let them remember that for generations almost they had kept a certain class of people out of the exercise of political rights. It had been said that women were not fit to have the vote. Small wonder, when for generations they had not been allowed to exercise the right. That was the argument to use against the contention of those who said that women were not fit for it. They should give the women the vote. The women of South Africa of both races compared well in every respect with the women of any other country. Nobody respected the grand old Boer women of the country more than he did. He remembered that those women shouldered the rifle during the war. They said that women could not fight, but he knew differently, and he remembered one dear old woman who stuck to the last on commando. Did not the women help the men about everything in connection with their farms&#x003F; The women of South Africa were just as fit as the men to exercise the vote. He hoped that an advance would be made that afternoon and those who had hitherto felt timid about granting the franchise would vote for the second reading of the Bill. One of the objections urged why the vote should not be given was that women were different to men; but that, he thought, was just the reason why they should have the vote, because, as a rule, they realised more instinctively what was right; they held more tenaciously to what they believed in than men did, and were not given to compromise. Then again, the wisdom of a woman had more to do with the heart than with the head, and that was what many men most lacked. By all these qualities they would exercise a beneficial influence as voters. It was also said if they were given the vote they would be seen sitting in that House, but he could see no reason against that being the case if they were thought to be the best representatives that could be sent to Parliament. If they wanted examples of public women, they had only to look back to the time of Queen Elizabeth, or, later, to the days of Queen Victoria, who was universally admitted to have been one of the best Sovereigns that ever reigned. The question of women becoming members of Parliament might, however, be left for a future occasion, but let them first of all have the right to say who should represent them in Parliament. He was sure the country would not suffer, but would rather gain by passing that Bill. He believed it would bring men and women into better companionship by placing them on the same level. He strongly supported the second reading of the Bill.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>supported the Bill. He could quite understand the objections urged by some members from the country districts, who believed that the proper place for women was in the household. That might be so in the large tracts of South Africa, but they had to look to the towns, where a steady advance had been made by women in professional and industrial pursuits. Many of the objections which might have held good in the past had now broken down as women had to carry on their own lives and earn their own livelihood, and it was therefore only right that they should have a voice in the making of the laws which governed them. The opponents of the Bill were trying to set back the clock, and although men for past centuries had striven to broaden the franchise for themselves they were now refusing to grant the same right to women who had advanced equally with the men. In the early history of England women took an extremely prominent part in the affairs of the country, and in the feudal times were summoned to Parliament and even undertook military duties. It was only as men began to be franchised that women commenced to drop out of the position they held. He asked hon. members, in view of the great strides made in the education of women and the position they occupied in the industrial community of the country, whether they were justified in withholding from them the vote&#x003F; One objection which had been urged was that the giving of the vote to women would bring the country into contempt from the natives; but would that contempt be any greater than that which they had for the white people at the present time, for while the vote was given to natives who had qualified for it, yet it was refused to the white women of the country. He hoped the House would pass the second reading of the Bill.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. J. W. DU TOIT</person> (Middelburg)</from>
+
+<p>said he had not intended speaking on this Bill, but the remark of the introducer that he had said that female suffrage was of the devil had prompted him to rise to contradict this. The introducer of the Bill had given himself away by saying that only a minority of women were in favour of being given the suffrage. In his (the hon. member&#x2019;s) district there was a unanimous feeling against female suffrage, and he had consulted his constituents last year. If women were given a vote they would have to undertake the same responsibilities as men, and women would, for instance, have to go on commando. Experience had taught them that women on commando were a nuisance. It was due to the presence of women in the commando of the late General Cronje that the latter and his <span class="col_1699-1700" refersTo="page_0856"/>men were taken at Paardeberg. One of his (the speaker&#x2019;s) objections was that if the white women were given the vote the coloured women of the Cape would also have to get the vote. If women once got into Parliament he held that they would never get through the session. Women would draw men&#x2019;s attention from the questions under consideration, and no business would be done. The Minister of Finance had found in regard to his Marriage Law Bill that he could not make any distinction between white and coloured people, and the same thing would be found in regard to the proposed extension of the franchise. If women got the vote, 25,000 coloured women would be entitled to it. He intended to vote against the Bill.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>*Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>said it seemed to him that the hon. members for Middelburg and Marico had used the old argument of pure selfishness and the old inherited male prejudice against giving women the vote. He challenged the hon. member for Marico in so far as he based his arguments on the Old Testament. He would remind the hon. member of Deborah, who judged Israel for 40 years, and said he would find that during her time there was peace in the land. He could remind the hon. member of many other Biblical characters. Had he read the last chapter of the Book of Proverbs&#x003F; If he based his arguments on the Bible then he ought to vote for the second reading of the Bill. The hon. member said that he did not want to place this burden on women. The vote was not a burden; the vote was a weapon for self protection. He would remind the hon. member of the many widows on farms who owned a great deal of property but could not vote, while their servants who earned a pound a week had a say with regard to the laws of the country. There were cases of women in Cape Town who owned large businesses and paid taxes. What protection had they got&#x003F; What protection had those thousands of breadwinners&#x003F; The majority of women had to light their way in the world with the great disability that they had not got the weapon of the vote to help them. He referred to the case of teachers. While the same qualifications were demanded in candidates of both sexes, the women were not paid as well as the men. That was because the woman had not got the vote. It was the same with shop assistants. In the Cape Parliament they passed an Act lightening the labours of shop assistants, and providing that chairs should be placed in the shops for the female assistants. Anybody who went into a Cape Town shop would see that that law was a dead letter and nobody worried about these women because they had not got the vote. They put forward the claim for the vote on the ground of justice. The hon. members for Marico and Middelburg were apparently unaware of the march of modern democracy. They brought up the old commando argument, but he pointed out the soldiers&#x2014;he was not referring to the Citizen Forces&#x2014;had not got the vote. In China, 4,000 women who were armed and employed as soldiers after the revolution banded themselves into suffrage societies with the object of getting the vote for themselves and their sisters. If men wanted women to fight they would be found quite capable of doing so, and he said that history showed that women had shouldered the rifle and fought as well as men. Men did not base their claim to the vote on their capacity for fighting. Continuing, he said that first the aristocracy had to fight for its rights, then the landed proprietors came along and got what they wanted, then they had the middle class traders, and lastly they had the working classes claiming their rights, and getting them. They had now come to the next step, when half the population came forward and claimed their share of the franchise. Why should the coachman vote, While the cook could not&#x003F; He would like to give the number of countries in which the right had already been extended. There were at present 39 States or countries where women had the right to vote for Town Councillors. Of these, 32 were English-speaking countries, 5 Scandinavian, and 2 Asiatic. The Parliamentary franchise had been granted in 19 States or countries, of which 17 were English-speaking and 2 Scandinavian. Recently they had had the example of Massachusetts, thus making 20 in all. If they went to the countries where women exercised the vote, they would find that the men told them that the women&#x2019;s franchise had been a blessing to those countries. Not only the position of women, but also the position of men, had been altered for the better. The interests of children had also been better looked after. He would urge hon. members to follow the advice that the Prime Minister had given, and vote according to their consciences in this matter. This was part of a modern democratic movement, which insisted upon every section of the people having its due share in the government. When South Africa adopted the principle of granting the franchise to the other half of the population, she would share in the great blessings that had resulted from the grant of the franchise to women in the countries he had mentioned. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#woolls-sampson">
+
+<from>*Col. <person refersTo="hansard_za">Sir A. WOOLLS-SAMPSON</person> (Braamfontein)</from>
+
+<p>said that he supported this Bill from a different standpoint than that which had been advanced by any member in this debate as yet. He supported it because the Legislatures of this country had been guilty of gross neglect in the matter of a very important duty in South Africa, viz., that they had failed to make due provision to prevent the terrible spread of colour that was passing over the land from one end to another. It appeared to him that the men of this country were either indifferent, or that they had little consideration for the future of our country, and that they had failed to <span class="col_1701-1702" refersTo="page_0857"/>tackle&#x2014;and tackle seriously&#x2014;a subject which would have far more wide-reaching consequences in the future than any other subject that he knew of in South Africa today. He advocated women&#x2019;s franchise, because he believed that the women, without one single exception, the white women of this country, would do their very utmost in every possible form to maintain the purity of our colour in South Africa. (Hear, hear.) In that respect, he thought they should call in the assistance of those who were better able to deal with this matter than themselves. He thought one of the saddest and most sorrowful things that could occur to any white woman in this country was to see the colour of our race perpetuated through her children, with a, strain of colour. He had made this question a special study, a far wider study than, perhaps, any hon. member in this House. His work carried him very frequently to great native districts and territories, and it had been borne in upon him in those districts that our population was ever becoming a coloured one. There were no restrictions, and men were marrying black women, and coloured children were increasing here, there, and everywhere. A few years ago he visited East Griqualand, and there came across three farmers who were well-to-do and whose children were coloured and educated. He spoke to these men, and they said that there was one thing they regretted more than anything else in their lives, and that was that they had created children who were occupying a lower social status than themselves in this country. These men said that if, in their younger days, there had been a law which would have prevented this, they would not have brought, upon themselves such sorrow in their old age. He knew there were considerations in this colony which made it perhaps undesirable, but, speaking of South Africa as a whole, he desired not only to maintain the dominance of the white race, but also the purity of the white race, so as to uphold our position in South Africa in the sight of the coloured people and natives. They knew that in families where there happened to be an infusion of coloured blood it was looked upon with sorrow by their friends and as a discredit by their enemies. He thought that could be avoided by legislative measures in this country. There were States in America where intercourse between white and black was a penal offence, and he had discovered, on looking up the figures, that the increase of coloured children had been enormously restricted by this legislation.</p>
+
+</speech>
+
+<speech by="#hunter">
+
+<from>*Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban, Central)</from>
+
+<p>said the best speech that could be made was to vote for the second reading of the Bill, and he would be very brief. The franchise should be given to women as a matter of mere abstract justice. No woman should be prevented from exercising the vote on account of her sex. South Africa was in a peculiarly advantageous position to grant the franchise to women. There were many matters in which a woman was much more qualified to vote than was the average man. Woman had an intuitive sense of what was right which led her straight to the point. The various Legislatures would be very much improved if women had the vote, because they had a keen sense which enabled them to detect the windbags and the humbugs. (Hear, hear.) On all moral and social questions the woman&#x2019;s vote would be most valuable.</p>
+
+</speech>
+
+<speech by="#serfontein">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. P. SERFONTEIN</person> (Kroonstad)</from>
+
+<p>said it was very difficult for hon. members to say what they wished, especially in view of the fact that the galleries were full of ladies. (Laughter.) The Prime Minister did not know how to turn owing to the same difficulty, and had spoken of the great deeds of the mothers of the old Voortrekkers. These women had been able to do what they did because they were satisfied with the place which had been allocated to them by Providence. Each sex had its own duties imposed by Providence, and if a man wished to alter what Providence had done, the whole world would become demoralised. If the mother was taken away from where she was placed by Providence the whole home must become demoralised. How must South Africa&#x2019;s future great men grow up if the mothers were taken away from the homes and their families&#x003F; He would vote against the second reading.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg)</from>
+
+<p>said he could not agree to the Bill. He had too much respect to allow woman to go on platforms and do work which should be done by men. He could not agree with the Prime Minister, who had only spoken as he did in order to pleas the women.</p>
+
+</speech>
+
+<speech by="#geldenhuy's">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>said when important matters were being discussed members on the cross-benches often kept on talking. Well, he was one who held that this matter should be carefully gone into, and if necessary a further day should be set down for its consideration. Proceeding, the hon. member asked where the hon. member for Turffontein had received his instructions to introduce a Bill of this kind&#x003F; Had he consulted his constituents on the matter&#x003F; He (Mr. Geldenhuys) had been instructed by his constituents to oppose any motions of this kind. The hon. member for Turffontein required courage to have brought up this measure (Hear, hear.) He (the speaker) wished to express himself in accord with the hon. member for Marico. Where, he asked, had these noble mothers referred to by the Prime Minister ever asked for the vote&#x003F; If the Prime Minister ever made a speech such as he had made to-day in a rural district, he would find himself in trouble. (Hear, hear.) At any rate the time had not yet come for the introduction <span class="col_1703-1704" refersTo="page_0858"/>of a measure of this kind, and if it was thought desirable to alter the laws in regard to the suffrage in such a radical manner, then at any rate the country should first of all be consulted. Amongst the women now asking for the vote, he emphasised, there were but very few mothers. He held that even now, during election times, women made themselves too cheap. He certainly had too much respect for women to see them exposed to the insults which men had to stand when addressing meetings. Did hon. members on the cross-benches wish to tell him that the supporters who were continually trying to break up meetings would not break up meetings addressed by women&#x003F; He quite agreed that some men were not worthy of a vote.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>said the question of the franchise for women was one on which every member should have an opportunity of expressing his opinion; nor was the Bill one which could be disposed of in one sitting. He would therefore move the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>thought it was not right to adjourn the debate now as he (Mr. Van Niekerk) feared there would be no other occasion for discussing this matter. There were many hon. members who desired to express their views, and it was not generous on the part of the hon. member for Clanwilliam to try to deprive hon. members of their chances to speak.</p>
+
+<p>On the motion to adjourn being put,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>declared that the &#x201C;Ayes had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>called for a division, which was taken.</p>
+
+<p>As fewer than ten members (viz., Messrs. Schreiner, Van Niekerk, and Whitaker) voted against the motion,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>declared the motion agreed to.</p>
+
+<p>The debate was adjourned until April 29.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1914-04-01T17:54:00">5.54 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

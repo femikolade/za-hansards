@@ -1,0 +1,2945 @@
+---
+title: 'House of Assembly: Vol14 - FRIDAY 19 June 1914'
+layout: debate
+year: 1914
+month: JUNE
+month_slug: Jun
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 19th June, 1914.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1914-06-19T10:30:00">10.30 a.m.</recordedTime>, and read prayers.</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban. Greyville),</from>
+
+<p>from G. R. Andrews, formerly technical storeman, South African Railways, for a pension.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Report of Natal Mines Rescue Stations Committee of Inquiry.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#second_appropriation_(part)_bill">
+
+<heading>SECOND APPROPRIATION (PART) BILL.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>asked for leave to introduce a Bill to apply a <span class="col_3597-3598" refersTo="page_1805"/>further sum not exceeding &#x00A3;1,500,000 on account of the service of the year ending March 31, 1915.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that he wanted to raise an important question, which he thought the House, and certainly the Minister, should face. He wanted to know when the Estimates were to be brought before the House. (Hear, hear.) It was understood in the House that Parliament would be prorogued about the end of this month</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said he must point out to the hon. member that the Estimates were down on the Paper for that day.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person></from>
+
+<p>was understood to say that hon. members knew very well that the Order would not be reached.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>No, no. I cannot allow&#x2014;</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person></from>
+
+<p>said that this was a most important question.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said he could not allow any discussion, seeing that the Estimates were down on the Paper for that day.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>It is very unfair, Mr. Speaker</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I cannot allow any discussion.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved as an amendment, &#x201C;That this House regrets the action of the Governor-General-in-Council in reserving assent to the Municipal Rating Ordinance duly passed by the Transvaal Provincial Council.&#x201D; He said he took this opportunity of calling the attention of the House to the action of the Government in a matter of great importance. The position, as was well known to hon. members, was that the Provincial Councils were charged with certain functions, and they had all &#x2018;had the experience that when they raised certain matters they had been put off with the assertion by Ministers that such matters were, by the Constitution, delegated to the Provincial Council, and, therefore, it was not fitting that that House should discuss these matters. Under the constitution there was no doubt that certain matters were delegated to be dealt with by the Provincial Council. It was quite true that under the Constitution the Governor-General-in-Council&#x2014;Ministers on the right of Mr. Speaker&#x2014;had the right to reserve assent to any Ordinance passed. That was a right which should be constitutionally exercised and not exercised for party purposes. (Hear, hear.) He took it that the constitutional position was that the veto was left in the and of the Governor-General-in-Council so that Ordinances should not be passed by the Provincial Council contrary to the will of the people of the Province. (Cheers.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Nonsense.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>We all know the right hon. gentleman&#x2019;s position with regard to the Provincial Councils. He would like them done away with.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person>:</from>
+
+<p>Quite Tight.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>We know that.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person>:</from>
+
+<p>I want to see them in their proper place.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I suppose that would be the limbo of forgotten things. Continuing, Mr. Creswell said that two sessions ago he raised a similar question with regard to an Ordinance that was passed. It was passed by the majority of the Council, and took away the rights enjoyed by the electors at the time that Council was elected. He maintained at that time that that was a proper occasion for the Government to exercise its restraining power, to assure that no rights were taken away from electors by virtue of an Ordinance upon which the electors had no opportunity of expressing themselves. The position here was just the contrary. The rating of land values in municipalities was a matter upon which the people had expressed themselves in no uncertain manner. The Provincial Council gave expression to the wishes of the people by the passing of this Ordinance, and now it was reserved by the Government and assent refused. The Provincial Councils were looked upon as not being too much under the domination of the Parliament sitting a great distance away, and that there should be certain measures of autonomy.</p>
+
+<p>A curious experiment had been embarked upon, of having an Executive Committee elected from all parties of the Council, by means of proportional representation If the idea had been in the minds of the members of the Convention that party divisions would not take place in the Council, they must have had a very limited idea of what was going to take place. Party candidates had stood for the Provincial Council elections and party divisions had taken place. The Labour Party had been twitted with not being sincere with regard to the question of proportional representation. The fact was that proportional representation, as devised by the Constitution, did not apply to the Executive of the Provincial Council, because a system had been instituted whereby four members out of the five of the Executive Committee were elected by proportional representation and a fifth was nominated by the Government, and proportional representation was ineffective therefore. Two members represented the governing party, but they were top-weighted by the Administrator, who had been nominated by the Government, who would use his position as a party man. The case had risen where the majority in the Provincial Council in the Transvaal could not govern, although they had a majority. Under those circumstances, the Labour Party had decided to do what any other political party would do: that if they could not govern they would take up the course of being a strong opposition, and from their position <span class="col_3599-3600" refersTo="page_1806"/>as an opposition force themselves to exercise their right in the way the majority of the country desired. The hon. member went on to say that, following on the constitutional lines, the Provincial Council of the Transvaal had passed two Ordinances. Those who had criticised heavy expenditure ought to welcome the appointment of Select Committees, as had been done in that Council. They were only doing in increased measure what had been done during the first session of that Parliament, when a Select Committee on the Estimates had been appointed&#x2014;rather a futile Committee, as it proved. The experiment in the Transvaal was a most valuable one. The hon. member went on to allude to one of the Transvaal Provincial Council Ordinances having been declared ultra vires by the Government owing to Select Committees sitting while the Council was not sitting. He, would be the last to say a word about the law advisers of the Government which might be taken in a disrespectful way The persons were not there to answer for themselves, but the most simple-minded of them in that House&#x2014;he would not say the most feeble-minded of them&#x2014;must find great difficulty in understanding that while, one Provincial Council was in existence nothing was found ultra vires in that Council setting up Select Committees which had sat during times when the Council was not sitting, when the Select Committees had been appointed by parties dominant in the Government, but it had been found ultra vires when these Select Committees were appointed by the Labour Party. Select Committees had sat away from Pretoria while the Council was in session, and the Administrator of the Transvaal had had no qualms in the matter then. Now an Ordinance was declared to be ultra vires on the ground that Select Committees should not sit while the Council was not in session. What was sauce for the Nationalist goose was not sauce for the Labour Party gander. Here they had a clear case of the bias with which the Government was treating the Transvaal Provincial Council. What about the Provincial Council of the Orange Free State, what about the Provincial Council of the Cape Province, and what about the Provincial Council of Natal&#x003F; Was Natal going to acquiesce in a state of affairs which enabled the Government to emasculate the functions of the Provincial Council if the Council did not deal in precisely the way in which the Government would like to see it do&#x003F; The principal provision of the Municipal Rating Ordinance was to change the present condition of affairs in municipalities, and that Ordinance told municipalities that they were to base their rating on site values only. Was there any reason to consider that those concerned had not been sufficiently consulted &#x003F; There was not a vestige of ground for any doubt whatever that the decision of the Provincial Council of the Transvaal was in accord with the wishes of the electorate concerned.</p>
+
+<p>That was not a new matter, it was a matter that had been before the electorate and the municipalities for a long time. Would any hon. member deny that the Transvaal Provincial Council was the best constituted body to judge of what was best in the interests of the municipal bodies in the Transvaal&#x003F; Were the Provincial Councils to be a farce and had they only to pass Ordinances which were in tune with the views of the majority of that House, or were, they to have Provincial authority&#x003F; That principle of rating site values only was advocated by nearly all the candidates against whom the Labour members were opposed during the Provincial Council elections. But the Ministry had decided that as the measure did not suit their friends they were going to reserve that Bill. They had heard of a Geldenhuis Relief Bill in the Transvaal Parliament. They knew the influences that were brought to bear on the Government because friends of theirs held large areas of land in the centre of municipalities. If a man had an area of land in Commissioner-street and planted cabbages there, it would be said that they must not rate him because he was only planting cabbages. If the Government was going to govern the Provinces, then they should do away with the Provincial Councils or let the Government give their reasons for reserving that Ordinance. The only grounds the Government should have for reserving an Ordinance would be some demonstrable reason that that Ordinance had not the sanction of the people who elected the Council. They knew how that could be brought about, they knew how that doctrine had been used in England. It was the use of that veto which had led to the wings of a party being clipped a few years ago. The Provincial Council of the Transvaal took one view and the Government took another. Because the Ordinance passed by that Council did not suit the Government&#x2019;s idea, the Government was going to make the labours of the Provincial Council of no avail. Supposing the Provincial Council of the Orange Free State passed some Ordinance which did accord with the wishes of the Free State and the Government reserved it.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof):</from>
+
+<p>That was done last year in the Free State.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Then they ought to have kicked up a dust about it. Continuing, he said that if the Government was going to reserve a measure, then let them proceed upon some principle. He could understand the Government reserving a measure on the ground that the people did not approve of it. Then it would be a heavy responsibility, but the Government would be acquitted at the next election. But in a case like that, where people had expressed their opinion, the Government could not allege that the people were not behind the principle. The Government <span class="col_3601-3602" refersTo="page_1807"/>said that they (the Labour members) belonged to a party that differed from them, and therefore they should not have those measures. That was not local Government at all. They (the Labour members) had had some experience in that House, and were prepared to see the opinion expressed that what was sauce for the Nationalist goose was not sauce for the Labour Party gander. They recognised that the Government had taken that action, and had suddenly found legal difficulties in connection with Select Committees sitting away from Pretoria, and that they were &#x201C;ultra vires.&#x201D; They were aware that the real reason of it was that the people were taking an interest in their own Government, and that Labour representation was in increased power in various bodies, and the respect of hon. members for constitutional Government had suffered a serious set-back. They (the Labour members) warned other hon. members that if they submitted to the Transvaal Provincial Council being emasculated by the action of the Ministry, the same thing might happen to their own Provincial Councils one of these days. So long as the Provincial Councils remained, and so long as they enacted measures, they (the Labour members) protested against the Government reserving measures, except on the grounds that the proposals did not accord with the wishes of the people. He wished to add a word of protest about the way in which the business of that House was being conducted and the delay in bringing forward the Estimates.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>seconded the amendment, and hoped the Ministry would give some clear explanation as to the reservation of the Municipal Rating Ordinance. The Unionist Party candidates at the Provincial Council election had been earnest in their endeavours to lay before the electorate the benefits which were included in the Municipal Rating Ordinance. Hon. members on the Opposition side could not turn a deaf ear to this matter, and pretend to be disinterested.</p>
+
+<p>As far as the taxation of site values was concerned, he supposed more educational work had been carried on in the Transvaal than in any other part of South Africa. Anybody who knew the Municipality of Johannesburg would know that they had a long straggling city, covering an area as large, he thought, as Greater London. The people were rated far in excess of what they would be if the land now held up nearer the centre of Johannesburg were not so held up, but put to some useful purpose. The report of the Select Committee on the Working of the Miners&#x2019; Phthisis Act (p. 5) showed that the Mines Department had been trying to put men suffering from miners&#x2019; phthisis on the land, but they had found that the prices at which land was obtainable were prohibitive. A Rating Ordinance would bring down the price of land, and bring this land into the market, and make it obtainable by the Government for the purpose to which they desired to put it. He believed it was not right to use this power of veto at the present time. He would remind hon. members opposite that they were not going to govern the country for all time. They might appear to be a solid party to-day, but the time would, come when they would be split up into sections. In the early history of Union he thought it was very regrettable that this incident should have happened. After all it was not to the Ministry that the Provincial Council were responsible, but to the people of the Transvaal. Those who had passed these measures were confident that they would have the majority of the people behind them, and a still larger majority behind them if this Ordinance were put into effect.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>*Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>said that, as representing a Natal constituency, he wished to support this amendment, because the people of Natal had ever looked with a very jealous eye on the rights of Provincial Councils. The position of Natal to-day was that their own Provincial Council were not inclined to support any existing party, and, therefore, they very jealously regarded their rights of passing laws without interference. The hon. member proceeded to quote at some length from the Natal Hansard of four years ago when the question of Union was under consideration in the Natal House, and referred more particularly to speeches made by Sir F. Moor and Sir (then Mr.) T. Watt He went on to say that he thought the Minister of Public Works had forgotten that he, perhaps more than any other man in Natal, helped to induce the people there to accept Union. He did not blame him for that, as he (the speaker) had worked with him, but the promises made to Natal were that the Provincial Council&#x2019;s Ordinances should be held sacred. The Minister had gone back on his pledges. He also quoted from a speech made by ex-President Steyn as reported in the &#x201C;History of the National Convention,&#x201D; and remarked that when the people of the Transvaal by no uncertain voice started to &#x201C;work out their own destiny&#x201D; (to use ex-President Steyn&#x2019;s words), they found immediately, because they supported a party which was in opposition, direct opposition, to the party that held power in this Assembly, their Ordinances were to be overruled, and the only excuse they had was that their legal advisers had told them that they were ultra vires. When the lawyers disagreed they had a power that had to decide, a constitutional power, and that was the voice of the people. (Labour cheers.)</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he did not wish to prolong this debate. He desired to make a few brief observations in regard to what had fallen from the member for Jeppe. Whatever action the Government had taken in advising the Governor-General, there had not been the slightest idea in their mind of attacking the present Provincial system or any other <span class="col_3603-3604" refersTo="page_1808"/>system. If any attack had been made upon the Provincial system he thought it had been made by the Province of the Transvaal in raising a hornet&#x2019;s nest in this country at a time when such action was entirely unnecessary. Some months ago four Bills were sent up by the Provincial Council to the Governor-General-in-Council for action under the constitution. Having quoted section 90 of the S.A. Act in regard to the procedure, the Minister went on to say that four Bills were presented to them, two assented to, and one which was vetoed practically repealed the whole Provincial Council system of administration as settled in the constitution. The fourth Bill, and that was the one to which this amendment referred, dealt with the question of the compulsory rating of site values in municipal areas, a subject of very great complexity, and a great deal of novelty. At that time the Commission which was appointed to go into the matter had not yet reported, although the Government was advised that its work would end very shortly. The subject was one of great complexity and great difficulty, and so far as the Government had been able to make inquiries it had not been able to find that the system as proposed to be created was in existence in the world. There were a couple of localities where the system of compulsory rating of site values was in force, but in those areas there were safeguards&#x2014;the provision that the municipal electors should be the ratepayers, and there was a further provision that the local rating could only proceed to a certain limit. When they looked at this Ordinance they found that all limitation of rating had been abolished and it was possible for the local authorities to rate up to 20s. in the &#x00A3; and confiscate all property, and they found that instead of the ratepayers being the electors, the whole adult population, criminals, prostitutes and other people, constituted the electorate.</p>
+
+<p>Although the principle of the compulsory rating of site values was in force in a few countries, there were proper safeguards which prevented the system becoming grossly abused and also the confiscation of property. He had found this to be the state of affairs, though greater light might be thrown on the subject by further information. He thought it was the duty of the Government to make full inquiries into this matter before they advised the Governor-General to assent. The argument had been put forward that they must listen to the voice of the people&#x2014;that the Governor-General-in-Council was a mere formality. That was not so. Hon. members must bear in mind that the Provincial Council, however great its authority, and however much it represented the voice of the people, was a subordinate authority, and the people of South Africa were represented in Parliament. But the Provincial Council was a subordinate authority just as a Divisional Council or a Municipal Council, and the provision in, the constitution which made the Governor-General-in-Council an essential factor in legislation was not a mere formality, but a very important duty on the Governor-General-in-Council. They had taken a grave view of this matter, and thought the subject, being one of such complexity and difficulty, should be more fully investigated. It was because of those considerations and not because the Government was against the Labour Party or the Provincial Council system that the Government had advised that this Ordinance should be reserved for further consideration.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said the Minister had proved to the hilt the charges made by the hon. member for Jeppe. He said that the attitude of the Government in advising the vetoing of this Ordinance had not been based on hostility to the Labour Party. Could they place any credence in the statement after having listened to the Minister&#x003F; No one single reason had the Minister advanced to prove the necessity of either vetoing or delaying assent to these measures. The Minister had said they had very little information on the subject, and that there were no precedents in the world. If they had to wait for precedents they must be very badly off for brain power and enterprise. In all corners of the world&#x2014;he did not say all over the world&#x2014;they had this system of taxation, and it had proved a most successful and effective system of taxation. It had been in force in New Zealand for eight or nine years, and the local authorities in Sydney were opposed to departing from the system. It was also in force in Canada. The Minister had said there were no safeguards in this case, but in the Transvaal they had the finest safeguard that ever existed&#x2014;the voice of the people. If this measure was against the will of the people that will could be expressed at the next general election. The fact was that the Government and its supporters were so hipped by what had happened in the Transvaal that they would go to any length to defeat the Labour Party. The action the Government had taken had reduced the Provincial Council to the level of a third-rate debating society. His hon. friend had made out a case which was absolutely unanswerable, and that House should express its displeasure with the action of the Government in preventing the people of the Transvaal from doing as they wanted to.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>said that he supported what the previous speakers had said, and he must say he had not been convinced by the Minister&#x2019;s speech. It had been very cleverly put, and he believed that the Minister&#x2019;s reasons were honest and frank, and were the real reasons. The reasons given by the Secretary for the Interior were not the same, and they were to the effect, firstly, that, the law advisers were in considerable doubt about the matter as to whether the Ordinance was ultra vires or not; and secondly <span class="col_3605-3606" refersTo="page_1809"/>that the Ordinance was not drafted as it should be. Well, the latter could also be applied to several of the Bills that had been before them in that House. As to what the Minister had said about the Provincial Council being a subordinate body, and having to take second place to that Assembly, they were quite aware of that, but the point was that the Provincial Councils had certain rights, whether they were subordinate or otherwise, and the question was, why should those rights be taken away&#x003F; The more limited those rights were the more jealous people were to retain the rights that those bodies had Some of those rights had been infringed by the decision of the Government in that instance. The Minister had also said that the people of South Africa were represented in that Parliament, but that was only partially true, as that Parliament was four years old, and since the time when it had been elected many things had happened which caused one seriously to doubt whether that Parliament did represent the majority of the people of South Africa. The Minister dealing with the merits of the Ordinance, had said it was very complex. That might be the case, but although it was slightly complex it was not impossible to have rating by site values. The valuation of Johannesburg areas was in two parts&#x2014; buildings were valued and land was valued, so that it was quite a familiar proposition to rate site values. Then the Minister had said it was a novel proposition, and in no place in the world had it been brought into effect as proposed in that Ordinance. But if they accepted that, why should South Africa always he looking for precedents&#x003F; Why should not South Africa take the lead in good things&#x003F; The Minister had not looked for precedents in regard to what had happened in January, and had said that South Africa was showing the rest of the world an example in what had been done. At that time the Minister had not been afraid to set the lead in things which he (Mr. Andrews) considered bad. Were they incapable of working out their own destiny in that country for themselves&#x003F; There was nothing in the argument used by the Minister that that proposition was a novel thing. The Minister had said that there was no safeguard in the Transvaal because of the adult suffrage which involved a possibility or the certainty of some criminals and prostitutes voting; but these people having a say in governing bodies was not an unusual thing, and took place not only in America. He (Mr. Andrews) maintained that when they had adult suffrage it was true that only ratepayers voted. He was not convinced because a man owned a house that he was a ratepayer, and a tenant who paid rent had no right at all to vote, and that the same applied to the lodger. He thought they were perfectly justified in ventilating that matter before the House. As his friend the hon. member for Jeppe (Mr. Creswell) had said, it did not affect the Transvaal only. Just at present it did; but at any time&#x2014;and it might be in the near future&#x2014;conditions might arise in the Orange Free State, the Cape Province, and Natal, and a similar state of affairs might be created. He thought it was particularly liable to arise in the Orange Free State. Let the Government go to the country if they thought that Provincial Councils should be abolished, and he did not think the country would be with them. A considerable part of the people of South Africa would feel safer if more power was given to the Provincial Councils. Why should not more work be given to these bodies when they heard the cry that Parliament was choked up with work&#x003F; They were now sitting morning, noon, and night&#x2014;an unheard-of thing&#x2014; because they could not get through their business. Well, let the Provincial Councils do some of their work.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<p>On the amendment being put,</p>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>called for a division.</p>
+
+<p>As fewer than ten members (viz., Messrs. Creswell, Sampson, Madeley, Andrews, Haggar, Boydell, Maginess, and Meyler) voted for the amendment,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>declared the amendment negatived.</p>
+
+<p>The motion for leave to introduce the Bill: was then agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#first_reading">
+
+<heading>FIRST READING.</heading>
+
+<p>The Bill was read a first time and the second reading stage set down for Monday next.</p>
+
+</debateSection>
+
+<debateSection name="#second_railways_and_harbours_appropriation_(part)_bill">
+
+<heading>SECOND RAILWAYS AND HARBOURS APPROPRIATION (PART) BILL.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved for leave to introduce a Bill to apply a further sum, not exceeding &#x00A3;1,500,000; on account of the service of the Railways and Harbours Administration for the year ending 31st March, 1915.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that with regard to Mr. Speaker&#x2019;s ruling on the motion of the hon. member for Cape Town, Central, he wished to move, &#x201C;That this House refuses to consent for leave being given to introduce this Bill until the House has an assurance from the Government that the House will have early and full opportunities of discussing the Estimates of Expenditure.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I cannot accept that. It would overcome the ruling I gave this morning. The Estimates are already down for discussion on the Paper to-day.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>On a point of order. If you will permit&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>What is the point&#x003F;</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from><span class="col_3607-3608" refersTo="page_1810"/>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>If you will permit me to put the point of order I will put it. Continuing, he said that the Government had asked for leave to introduce a Bill for a certain amount of money to be voted on account of the Estimates. Before the House was prepared to give that money he wanted to know whether it was not within the privilege of a member of that House to ask the Government whether the House would be given full and early opportunity of discussing the details of the Estimates. The matter was one of supreme importance, because if the powers of the House to deal with supplies were taken away the Government could deal with the business of the House as they liked.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>This amendment is not only in essence a negative of the motion for leave to introduce the Bill, but has direct reference to the subject matter of the Order of the Day&#x2014;House to resume in Committee of Supply on the Estimates of Expenditure&#x2014;which is on the Order Paper for to-day. The amendment is therefore out of order.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I submit it is open to any member to express his reasons for not being prepared to give leave to introdue a Bill.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is very unusual. I have been 24 years in Parliament and I have never known a debate to arise at this stage.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>Up to this Parliament there have always been two separate motions&#x2014;one for leave to introduce and the next the first reading.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that in Mr. Speaker&#x2019;s many years&#x2019; experience, had he ever known a session come to the period that session had arrived at without the Estimates having been put before the Committee for discussion&#x003F; He recognised that the position was a peculiar one, but that House had a right to have placed before them earlier the Estimates of Expenditure for the purpose of fully discussing them. If the Minister would give an assurance that the Estimates would be ready at the earliest possible date it would meet the wishes of the hon. member for Cape Town, Central.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said the whole question rested with the House itself to consider the Estimates. He wished to remind the hon. Leader of the Opposition that he (Sir Thos. Smartt) himself had urged the Government to proceed with the remedial legislation, and that the Government had done so. He could assure the hon. member that it was the Government&#x2019;s desire at the earliest possible opportunity to proceed with the Estimates, and to have them properly discussed. Every facility for that purpose would be given.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>appealed to the Prime Minister to take the matter seriously. With all Mr. Speaker&#x2019;s twenty-four years&#x2019; experience, had he ever known the House to come to the last quarter of the session and the Estimates not to have been put before the House&#x003F; They (the Opposition) would not be taking that extraordinary measure if it was not the fault of the Government. It was well known throughout the House that the session would probably end at the end of the month. The Income Tax Bill and the Customs Bill were still on the paper, and for Monday the Workmen&#x2019;s Compensation Bill, the Riotous Assemblies Bill, and the Miners&#x2019; Phthisis Bill were down. What time was the Government going to give them for the discussion of the Estimates&#x003F; There were members of that House who had certain grievances to bring forward, and they had always brought them forward on the Estimates of Expenditure. It looked very much to him as if the Government were going to treat this House in the same way as they treated the Senate, and bring forward the Estimates at the last moment, when they could not have a proper and adequate discussion. The position was due either to the gross mismanagement of the Government of the business of this House or the Government&#x2019;s desire to burke discussion. The Government had had this House in session four and a half months. In the last fortnight of the session, Parliament was going to be asked to vote thirty-seven millions of money. He wanted the country to know that and to realise the gross mismanagement of the business of the House by the Government.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>*Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>said he would remind the hon. member (Mr. Jagger) that there was no obligation on this House to rise in a fortnight or three weeks. If he wanted to discuss the business adequately, let him go on for the rest of the year. (Hear, hear.) They were asked now to give leave to the Minister of Railways and Harbours to introduce a Bill to apply a sum not exceeding &#x00A3;1,500,000 to the Railway Service, and he (Mr. Boydell) desired to take advantage of this opportunity of raising a matter which was not on the Order Paper, and which had not been discussed during the present session. He moved as an amendment to delete all the words after &#x201C;That&#x201D; and substitute the following: &#x201C;this House is of opinion that membership of a Trade Union or industrial organisation should afford no reason for the dismissal of any servant from the Administration.&#x201D; He desired to refer to something which had taken place since the black-list had been published by the department, something which had happened since the Railway Strike Bill was before the House. He referred particularly to the two cases of Messrs. Bernicot, of Port Elizabeth, and Chapman, of Pretoria.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>As this is a matter which arises on one of the debates on the Railway Service Bill introduced by the Minister, I cannot allow further debate upon it.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from><span class="col_3609-3610" refersTo="page_1811"/>*Mr. <person refersTo="hansard_za">BOYDELL</person> (proceeding)</from>
+
+<p>said that it was only within the last month that Messrs. Bernicot and Chapman had been retrenched. They claimed that these employees had been dismissed because they were officials of their Trade Union. They wished to raise their voice in protest against the present policy of the Government in dismissing men, as they claimed, for no other reason than that they were officials and representatives of their Trade Unions.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I cannot accept the amendment. There is an Industrial Disputes and Trade Union Bill before the House now.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>*Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>This has nothing whatever to do with the Industrial Disputes and Trade Union Bill. It is the policy of the Government which they are now pursuing in retrenching men belonging to Trade Unions. I submit, with all due deference, that this is a fit and proper opportunity for raising this question.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have told the hon. member that I cannot accept the amendment. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>*Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>Well, sir, I will delete the word &#x201C;industrial,&#x201D; if it is the word &#x201C;industrial&#x201D; that connects the amendment with the Industrial Disputes Bill.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have informed the hon. member that he is out of order, and I cannot allow him to proceed.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that, on a point of order, he would submit that Mr. Speaker&#x2019;s ruling was based on a misapprehension. The Bill before the House said &#x201C;that the provisions of this chapter shall only apply to the following industries,&#x201D; and these were &#x201C;mining and any undertaking carried on by a local authority, company or person.&#x201D; &#x201C;Local authority, company or person&#x201D; could not refer to the Administration.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have given my ruling.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said the Government must see the position in which they were placing Parliament. Their criticism of the Government was that they had been extravagant and made no attempt at economy. Now they were to be denied opportunity of making good that charge. This House would be denied any opportunity of thoroughly examining the expenditure which it was proposed to pass. He did not say it was the intention, but it certainly was the result of the management of the affairs of the House by the Government. The plain fact was that they were not going to get any opportunity of properly discussing the Estimates. The Prime Minister must recognise that they had got to a period when members wanted to go home, and when really they had done enough work for one session of Parliament. It really amounted to a grave mismanagement of the affairs of Parliament. All they could hope was that it would not occur again.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said he wondered whether hon. members opposite were in earnest in the pressure which they brought to bear upon the Government to get certain remedial measures passed while Parliament was in session. If they were in earnest how could they expect the Government to place these matters before the House and place the Estimates before them at the same time&#x003F; It had been at the request of the House that Bills had been dealt with by Select Committees. These Bills were now returning from the Select Committees, and he supposed hon. members opposite would indeed raise a hue and cry in the country if they were to drop these remedial measures. What measures which were on the Order Paper to-day would hon. members opposite have them drop in order to proceed with the Estimates&#x003F; The Government were going to keep their pledges and go forward with legislation which some members had described as &#x201C;repressive,&#x201D; but which he maintained was for the preservation of law and order in this country. As to the argument that they should take a night a week for the Estimates, no one had inveighed more against their taking the Estimates at night than the hon. member opposite.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>You have other time besides the night.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> (continuing)</from>
+
+<p>said he remembered being impressed with the hon. member&#x2019;s views that they should not take the Estimates at night. The hon. member for Port Elizabeth, Central, had said it was time that hon. members went home. Might he remind the hon. member that this was their 87th day of sitting, and that the average sittings hitherto had been considerably over 100&#x003F; (Hear, hear.) The Government must get this money. Of course, they were not in a minority yet.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>You were. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>(in concluding) said that, by adopting the line they had taken they had adopted the very wise course of leaving it in the power of the House to deal with the Estimates as they thought fit. He really thought this was not such a very genuine cry that had been raised.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that if the Opposition had taken the proper course and shown the Government that this legislation was unnecessary and that the House was not competent to deal with it, they would have been in a better position to support the cross-benches in the protest against the Estimates being treated in a most perfunctory manner. The Opposition was responsible, and the Opposition would have to bear the responsibility. He <span class="col_3611-3612" refersTo="page_1812"/>considered that the Government should never have been in the position of having to come to that House and ask for another Partial Appropriation. If they had had some definite programme and way of carrying on business they would never have got the House into this blind alley. He would move: &#x201C;That this House is of opinion that the dismissal of railway servants on grounds other than those connected with their employment is not in the best interests of the country.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said the amendment was out of order in view of the debates on the Railway Service Bill.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Excuse me, sir, but I</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have given my ruling.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Well, sir, if you won&#x2019;t accept this amendment, will you accept any amendment &#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I will give no ruling on a hypothetical case.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person> (aside):</from>
+
+<p>Very well, just draft me another. (Laughter.) Continuing, Mr. Creswell said that the dismissal of railway servants</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that that matter had already been the subject of debate.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>said they disapproved of the Railway Administration using public money in a way not voted by that House. Last year money out of the vote was used in an illegal way. Because the Railway Board and the Minister held certain views with regard to Trade Unions they had spent &#x00A3;60 in buying and distributing a book called &#x201C;Sane Trades Unionism.&#x201D;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Hear, hear. (Laughter.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>said that the right hon. gentleman was a member of the Public Accounts Committee, and he knew very well there was no money voted for purchasing this book. Proceeding, he referred to the case of driver Chapman, who he said was no nearer South Africa than the Commonwealth of Australia at the time of the trouble, and yet when he came back he was told he would be retrenched on August 1. He was a member of the Executive of the Railways and Harbours Servants&#x2019; Society, and when he left the Government was prepared to recognise that organisation on certain terms. If the Railway Administration was going on like that it was not preparing the way to peace&#x2014;he spoke metaphorically. (Laughter.)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Here we come back to another debate.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I am not debating it, sir.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member is criticising the action of the Minister in the debate on the Railway Service Bill.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I am not doing so, sir. Continuing, he said he was alluding to the fact that the whole of the good done was being undone by this sort of petty espionage. So great was the feeling on the part of the men that many of them felt they must exercise the most careful circumspection, lest they should even be seen in company with a prominent Trade Unionist. He asked the Ministry to scrap this silly remedial legislation</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member is coming back to remedial legislation on a railway matter.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Well, is the Government justified in spending money on these books&#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is repetition. (Laughter.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Cannot I</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The House will resume at 2 o&#x2019;clock.</p>
+
+<p>Business was suspended at 1.45 p.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#afternoon_sitting">
+
+<heading>AFTERNOON SITTING.</heading>
+
+<p>Business was resumed at 2 p.m.</p>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved that leave be granted to introduce the Bill this day six months.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town),</from>
+
+<p>in seconding the amendment, said they had tried several times to have the case of driver Chapman explained, but without success. Chapman was a first-rate man from every point of view. He was a member of the Grievances Commission, and he (Mr. Andrews) had every reason to believe that Chapman was one of the most useful members of that Commission. Throughout his conduct had been most exemplary, his abilities were beyond question, and he had been a most useful servant to the State. There could be no question but that the Railway Department had been animated by antagonism to Trade Unionism when it sacked Chapman.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Col. <person refersTo="hansard_za">C. P. CREWE</person> (East London)</from>
+
+<p>said he could not support the amendment for the simple reason that to refuse supply would mean the withholding of payment at the end of the month from the railway service. The Minister of Railways had endeavoured to put the blame for the congested state of the business of the House on to the Opposition. The Select Committee on the Workmen&#x2019;s Compensation Bill was appointed on May 1 and reported on June 10, and surely between those dates there was sufficient time for the consideration of the Estimates had the Ministry desired to go on with the financial business of the country. There was only one set of people in the House responsible for the business of the House. (Opposition cheers.) He (Col. Crewe) had never known Partial. Appropriation Bills brought in in the last <span class="col_3613-3614" refersTo="page_1813"/>days of any session. It was simply because there had not been sufficient consideration by the Government for the interest of to-morrow that the House was called upon to pass Appropriation Bills within almost a fortnight of the end of the session. But there were also other people in the House who were responsible for the condition in which they now found the business of the country. This session there had been a most persistent, wilful, and continued obstruction by hon. members on the cross-benches&#x2014;(cheers)&#x2014;and quite half the period that the House had sat had been occupied by long discussions on comparatively trifling points that came from hon. members on the cross-benches. He hoped Government would learn the lesson that, after all, it was responsible for the management of the business of the country. The Opposition was not in the least responsible for the present position of affairs. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said it was very amusing to hear the remarks of the hon. member for East London, who meant that because the seven or eight members on the cross-benches had taken upon their shoulders the functions that the Opposition had deliberately avoided&#x2014;questions involving the abrogation of the Constitution&#x2014;in the eyes of the hon. member for East London they were guilty of obstruction. They were quite prepared to allow the country to decide that. Continuing, Mr. Madeley said that the policy pursued by the Railway Department was against the best interests of the country, the confidence of which the Railway Department had lost. It was a most significant fact that every man who had been appointed upon a Government Commission by the railwaymen themselves had been victimised.</p>
+
+<p>The policy of the Railway Administration was all wrong and not in the best interests of the country. What was going on at the present time&#x003F; Men were walking the streets and their families were becoming destitute as the result of the re-organisation of the hon. Minister. There were two men in Cape Town, both from the Stores Department, one with 11 years&#x2019; service and another with 12 years, who were walking the streets. What had those men done&#x003F; They had not struck and did not even belong to a Trade Union. Those men were now prepared to take 30s. a week. That was the policy of the Minister of Railways and Harbours. What had they done at the Harbour&#x003F; As a matter of re-organisation all the temporary clerks were now stopped even from applying for casual work. It was something terrible in the Railway Service the way men were encouraged to spy on one another. At the Cape Town Station they had seven superintending officers to look after 23 ticket examiners. In the offices of the Railway Department men were continually watching one another. Friends of his in the Railway Department had been afraid to be seen speaking to him. The policy of the Minister seemed to be one deliberately designed to cause unrest in the service. A man had been placed in charge of the cleaners and porters at the station who was absolutely repugnant to those men. Recently the Harbour Department started a motor lorry department and motor-men employed by the Tramway Company applied for jobs. Nine of them applied by letter and not one received a reply. One man was sent to the Department and it was then discovered that an arrangement had been made between the controller of the lorry department and the manager of the Tramway Company by which the Department agreed not to take a man from the company until he had left that service. There were 10,000 white workers on the railways to-day not earning 5s. a day. They had frequently preached in that House that the service was seething with discontent. That was truer to-day than it had ever been.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>said that on a point of explanation he wished to correct a remark made by his hon. friend, who had said that he had been victimised by the Railways. That was not the case. He (Mr. Andrews) left the Railways before victimisation set in.</p>
+
+<p>The amendment was negatived.</p>
+
+<p>The motion for leave to introduce the Bill was agreed to</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#first_reading">
+
+<heading>FIRST READING.</heading>
+
+<p>The Bill was read a first time, and the second reading set down for Monday.</p>
+
+</debateSection>
+
+<debateSection name="#industrial_disputes_and_trade_unions_bill">
+
+<heading>INDUSTRIAL DISPUTES AND TRADE UNIONS BILL.</heading>
+
+</debateSection>
+
+<debateSection name="#in_committee">
+
+<heading>IN COMMITTEE.</heading>
+
+<p>The House went into Committee on the Industrial Disputes and Trade Unions Bill.</p>
+
+<p>On clause 1, Application of Act,</p>
+
+<p>Old clause 1 was negatived.</p>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>then put the new clause 1 proposed by the Select Committee.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>said that under the clause as it stood employees of the Government were not subject to the provisions of the Act if the conditions of their employment were regulated by any Statute or by statutory regulations. He moved, in line 13, after &#x201C;that,&#x201D; to insert &#x201C;except in regard to those provisions of this Act which relate to the registration and management of Trade Unions.&#x201D; He said he did not think any distinction should be drawn as regarded Government servants.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that the amendment of the hon. member for Turffontein would allow Trade Unions of Government servants to register as other Trade Unions did. He <span class="col_3615-3616" refersTo="page_1814"/>did not know why they should not go to the length of having Conciliation Boards between various branches of the service and the administrative heads of the various Departments. They had the Amalgamated Society of Railway and Harbour Servants, and would they prevent that society from registering&#x003F; They would have this position, that a large number of members of the Society of Engineers would take steps to register and they were not allowed to register that portion of their members who were on the railways. Surely they should all be registered in one Union.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he did not propose to argue this matter at great length. It was fully discussed in the Select Committee. This very amendment was moved by the hon. member for Turffontein and was negatived in the Committee by six votes to four. The main argument against a motion of this kind was that if they had got a Trade Union it must come to the Government and ask for recognition. Take the Railway Union. After the railway trouble they came forward and asked the Government to recognise them. The Government intimated that on certain conditions, special conditions which did not apply to any ordinary private employer, they would recognise their Association. He thought that was the right line to take by the Government. If they were to admit this amendment into the clause it would be a sort of intimation to the Government servants that they were private employees, which they were not They were in the Government service and as such he thought they ought to stand under separate rules. They were under separate rules and they should be dealt with separately by the Government as such. For these reasons, the Government could not accept the amendment.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said he could not see anything in what the Minister had put forward to show why, when the Government undertook ordinary industrial business, such as was undertaken by private companies in other countries, they should claim to be in a different position from private employers.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that the only difference he could see between the Government servant and the private servant was that under no circumstances could the Government, servant go on strike, and almost invariably he was paid less for the same class of work than the private employee. Here they had the railways and other Departments of State employing men in the ordinary way in doing the same sort of work, nearly always at less than private employees were paid for doing it. If they were tied up in the matter of strikes, surely, if there were no other outlet, they were, if anything, all the more entitled to band themselves together, and that banding together should be recognised by the Government.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said he understood that the object of this Bill was to bring about industrial, peace. It was not the wish of the Committee to pass anything which would have the opposite effect. What he wanted to bring to the Committee&#x2019;s notice was that this Bill was proposed to be applied to all trades and undertakings, and in that respect it went very much further than any similar Bill in any other part of the British Empire. Section 17 stated that &#x201C;The provisions of this chapter shall apply only to the following industries: (a) Mining; and (b) any undertaking carried on by a local authority, company or person for the supply of light, power, water or sanitary or transportation purposes.&#x201D; Section 1 laid down that whenever a dispute or difference existed between an employer or Trade Union of employers and of any of his employees or Trade Union of employees in relation to various matters, an industrial dispute would be held to have taken place. He wanted to emphasise the-fact that a single employee could have a, dispute with his employer as to anything in the matter of employment, wages, privileges, rights, hours of employment, etc. The difficulty was going to be immense. A happy custom had hitherto existed in this country in which the employer and employee had worked together for the good of the business. It would be a disastrous thing if they put into this Bill any provisions which were going to disturb that happy state of things. If they allowed clauses 1 and 2 to go forward in their present state they were encouraging disputes. It was a reductio ad absurdum of legislation. As the Bill stood it meant that a single employee, on a trumpery matter like the employment of coloured men next to white, could declare an industrial dispute, and then the hands of the employer would be tied for 14 days. He said they were going to defeat the whole object of the Bill if they were going to carry things to such an extreme. He asked the Minister to consider the matter in the interests of industrial peace. He moved in clause 1, line 10, the deletion of the words from &#x201C;Apply&#x201D; down to &#x201C;Trades,&#x201D; and the insertion of the words: &#x201C;To mining and public utility undertakings and trades, as may be proclaimed by the Governor-General as coming under this Act.&#x201D;</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said he did not know his position after the speech of the last hon. member. He went into the Committee to make this Bill a better Bill, but now he did not know where he was The position was created of a Trade Union, a part of whose members were employed on a public undertaking and the other part on private work, How were they going to cover all of them without amendment of this clause &#x003F;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that the best way of settling disputes was not by this Bill, but by treating men <span class="col_3617-3618" refersTo="page_1815"/>well. He regarded this Bill as one for the promotion of industrial disputes and quarrels between men and masters. If the decisions were in favour of the men they would be obeyed; if decisions were against the men they would in most cases be neglected, and then they would be plunged into trouble. Did the Minister know what happened in Canada&#x003F; The men there in a congress at Calgary moved for the repeal of the Conciliation Act, owing to the decisions, delays, and rulings of the Department of Labour. This Bill would plunge them into a sea of difficulty, and he said that an Act of this sort was not applicable to this country. The vast majority of the workmen of the country were excluded because of the colour of their skins. They were now suggesting that the railwaymen should come under this Bill. He supposed the next thing the police would come under it, and afterwards they would have a Trade Union of the organised forces of the country. The whole of the foundation of society in this country would be broken up. He moved that progress be reported and leave asked to sit again.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said that if the right hon. gentleman wanted to kill this Bill he had better move that the Chairman leave the chair. It was no good reporting progress and asking leave to sit again. He thought it was the wish of the majority of members that they should do something in this direction this session.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>pointed out that the right hon. gentleman voted for the second reading of the Bill. They on the cross-benches believed that this was a move in the wrong direction, and that the Government were treading a path in this country it would do well not to tread.</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>put the motion to report progress, and declared it negatived.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>said that although he had a good deal of sympathy with the hon. member for Cape Town, Gardens, he thought they might go a good deal further than the point suggested by that hon. gentleman. The right hon. gentleman was quite right when he said, that one of these days they would see the railwaymen and police in Trade Unions. Perhaps the right hon. gentleman would be in the Trade Union himself before he was very much older. School teachers would demand from the Government the recognition of their Union. The Bill should embrace all sections of the community and all organised bodies, or none at all. Hon. members on the cross-benches would prefer not to have the Bill, which did not suit them. The Transvaal Act had not been a blessing either to the Trade Unions or to the employers, and this was a worse measure than that. The Amalgamated Society of Engineers included in its ranks men who were employed in every branch of industry in which machinery was used, and these men had to be considered among others. He moved, as a further amendment: In line, 13, after &#x201C;trades,&#x201D; to omit all the words to the end of the clause.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>said he was a member of the Select Committee which sat on the Bill, and he pointed out that if it were carried in its present form employees such as clerks and shopmen would come under the operation, of the measure. This would lead to continual trouble and friction in all classes of business. In the Select Committee he had moved in the definition of the term &#x201C;employee&#x201D; after &#x201C;person&#x201D; to insert &#x201C;other than clerks or store assistants,&#x201D; and in line 36 to omit &#x201C;clerical.&#x201D; Unfortunately, however, the Minister of Mines and Industries, who was the Chairman of the Select Commmittee, preferred to listen to the hon. member for Commissioner Street rather than to him (Mr. Henderson). He hoped the Minister would accept the amendment of the hon. member for Cape Town, Gardens.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>said the mistake they were making was running two Bills into one, but having done that the formation of Trade Unions should not be limited. He was not at all in love with the Bill as it stood.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said, that in Australia and some other countries machinery was provided for the settlement of industrial disputes, but this was applicable only to Trade Unions. Hence such legislation tended to throw men in the Trade Unions. But the majority of the Union Parliament said their particular charge was to see that the free labourer was protected, but now that the free labourer was to be given an opportunity of availing himself of the provisions of the Bill it was urged by the hon. member for Durban, Berea, that business would be dislocated.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>said evidently the hon. member for Durban, Berea, preferred a discontented staff to haying machinery for the adjustment of its grievances. The great danger the hon. member for Durban, Berea, saw was that the clerks would form themselves into Trade Unions. What they wanted to do in South Africa was to foster the Trade Unions and get clerks to improve their position.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said they had been appealed to by the Minister not to discuss the Bill too much. He had looked through the names of the gentlemen who formed the Select Committee, and they were all gentlemen, perhaps very well versed in their own line of business, but, with one exception, that of the hon. member for Commissioner-street, there was not a single one of them that could be an authority on industrialism. How many people were there in the country who were <span class="col_3619-3620" refersTo="page_1816"/>authorities on industrialism&#x003F; This was not an industrial country. He wanted to know what arguments the Government had for introducing a Bill of that sort at all&#x003F; They were introducing an industrial Bill in a non-industrial country. What he objected to was wasting ten days in discussing a Bill that nobody wanted. He moved that the Chairman leave the chair.</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>put the motion that he leave the chair, and declared that the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>called for a division, which resulted as follows:</p>
+
+<p>Ayes&#x2014;12.</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Boydell, Thomas</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Fichardt, Charles Gustav</p>
+
+<p>Jagger, John William</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Maginess, Thomas</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Wilcocks, Carl Theodorus Muller</p>
+
+<p>A. Fawcus and C. H. Haggar, tellers.</p>
+
+<p>Noes&#x2014;74.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Berry, William Bisset</p>
+
+<p>Bezuidenhout, Willem Wouter Jacobus J.</p>
+
+<p>Blaine, George</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Cronje, Frederik Reinhardt.</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>De Wet, Nicolaas Jacobus</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry.</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Henderson, James</p>
+
+<p>Henwood, Charlie</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Juta, Henry Hubert</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>King, John Gavin</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Maasdorp, Gysbert Henry</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Nathan, Emile</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Rademeyer, Jacobus Michaer</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Searle, James</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Theron, Hendrik Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van der Riet, Frederick John Wemdly</p>
+
+<p>Van der Walt, Jacobus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Watt, Thomas</p>
+
+<p>Whitaker, George</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Woolls-Slampson, Aubrey</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>J. Hewat and H. C. Becker, tellers.</p>
+
+<p>The motion was accordingly negatived.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said he regretted to see so many hon. members were absent from the House while a Bill of such importance was being discussed. He held that the title of the Bill was wrong in the first place.</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">ACTING CHAIRMAN</person>:</from>
+
+<p>Clause 1 is under discussion.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (continuing)</from>
+
+<p>said the Bill applied to every enterprise, therefore also to the shopkeeper, the tradesmen, and the farmer, and if ever a dispute arose between a farmer and a number of his herd boys, this Bill could be brought into operation. Therefore a dispute, which in ordinary circumstances would be settled amicably, would have to be settled in future by the provisions of this law. He contended that instead of removing difficulties, the measure would create difficulties.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said he was sorry that the hon. member for Umlazi was not in the House, and still more sorry that he was not on the Select Committee. He seemed to be the only man in the House who knew anything about industrial matters. (Laughter.) Those of them who sat on the Committee were all ready to admit that they were learners in matters of this kind. There was no doubt that they were met with very serious difficulties when they set to work. He pointed out that in the old countries of the world <span class="col_3621-3622" refersTo="page_1817"/>legislation of this kind had been largely devoted to removing disabilities upon workmen, in so far as combination was concerned. That had been the trend of legislation in England. In South Africa, however, there were no such restrictions. Now they were bringing in legislation in order to tie the workmen up. In order that they might not be altogether tied up, they provided for the formation of Conciliation Boards. At the same time the Minister was going to tie up the great body of workers who were employed in the Government service. By the very first clause of the Bill he was going to exclude them from all benefits of Conciliation Boards and everything connected with Trade Unions, unless they were registered. The Minister still refused the admission of those men into Trade Unions. He still wanted to exclude them, whether they were registered or not The hon. member for Turffontein wanted a provision put in that bodies of workmen in the service of the Government, whether in the Railway or Post Office, might become members of an association or a Trade Union, provided they were registered. Who was to register them&#x003F; The Government was to register them. The Government had to approve of the rules of those unions and yet, although they had that power given them by this Bill, they refused these men the right to form themselves into associations. Unless they were prepared to recognise that the vast bulk of the workmen in this country who were in the employ of the Government, they should have the right to form these societies or Trade Unions, provided, of course, they were registered, they were going to do very little in the way of improving the condition of the workmen in this country. He would ask the Committee to go on a little bit further and see whether in the united wisdom of the Committee they would be able to improve the Bill a little more.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that they were endeavouring on those benches to improve the Bill. The hon. member had said that the members of the Select Committee were in the position of learners. He (Mr. Madeley) thought it was frankly admitted that there was only one member on the Select Committee who was competent to give any instructions, the hon. member for Commissioner-street. Most members of this Committee, he thought, had rather missed the point of the hon. member for Berea. He took it that the hon. member was not concerned so much with the fact that under this Bill warehousemen, clerks, etc., might form Trade Unions. What he objected to was that any individual employee might be able to take advantage of the machinery of this Act. He (Mr. Madeley) wanted to point out to the hon. member, if it were right for a dozen men to do it, it was quite right for one man to do it. He wanted to ask the Minister why he objected to the Government Departments forming their Trade Unions, why the Government would not recognise Trade Unions in the various Departments of the Government itself&#x003F; They had precedents for recognition of this kind, all over the world, and especially in England and Australia. He could assure the Minister that, if the Government frankly recognised Trade Unions among Government employees without any embarrassing restrictions, such a step would make for industrial peace.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that this was a difficulty in the smooth working of the Bill. There were two courses open to the Minister&#x2014;either to accept the amendment of the hon. member for Georgetown or the compromise of the hon. member for Turffontein. Trade Unions could not reconstruct their organisation to suit the Bill. If the Government agreed to the appointment of Conciliation. Boards and they allowed to deal with Government employees, there would be no necessity for bringing small grievances on to the floor of the House, and much time would be saved.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>,</from>
+
+<p>in reply to the hon. member for Fauresmith, said the provisions of the Bill throughout were optional. The same applied to the establishment of Trade Unions. In the Cape there were 18 Trade Unions, in the Transvaal 22, and in Natal 12. The Bill did not aim at interfering between the individual employer and his employees, but where a serious dispute arose those concerned had the option of availing themselves of the provisions of the Bill. Addressing the House in English, the Minister said that with regard to the amendment of the hon. member for Cape Town, Gardens, he would say that he would have no objection to accepting his amendment, but he thought under the circumstances&#x2014;seeing the whole Bill was voluntary, it would be better to leave the clause as it stood. There was a second reason, and that was that in new clause 17 they limited that part of the Bill that was compulsory to mining and utility services. Originally the clause was general. He hoped, however, the hon. member for Gardens would not insist upon his amendment. With regard to Government employees, he said that these men were regulated by Acts of Parliament, and they stood on a different footing. That being so, he said that they did not prohibit them from forming Trade Unions, but they would have to come to the Government and be subject to the conditions which Government laid down as to whether they would be recognised or not Dealing with the question of mixed branches which was brought up by the cross-benches, the Minister said there was nothing in the law to prevent such Trade Unions from being formed. At the same time he felt there was so much truth in the arguments of the hon. member for Commissioner-street that he felt the tendency would be for Government servants to have their own <span class="col_3623-3624" refersTo="page_1818"/>separate Unions. That was the object of the Government and that was what the Government wanted.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said the fact that the whole Bill was optional impressed him merely with its uselessness. Why have a Bill at all, he asked. He thought that before men could go on strike or before a lock-out could be declared a Conciliation Board had to decide. Now the Minister told them that both parties had to invoke its aid.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>That is provided for.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GROBLER</person>:</from>
+
+<p>Well, in that case I am satisfied.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said he did not think the Minister had grasped his argument. The Minister said this was a voluntary Bill. It was a voluntary Bill in part, but not in regard to industrial disputes.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Certainly, it is.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">BAXTER</person>:</from>
+
+<p>I, as a business man, know that you are simply inviting the Labour members to come and make trouble in every business in the country. I regard the point as so important that I feel bound, to make my voice heard here. Continuing, he referred the Minister to clause 2, and also to new clause 13, under which nothing could be done for 14 days.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Wait till we get there.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">BAXTER</person>:</from>
+
+<p>The best way is to deal with this now. Would the Minister lay it down that as far as the first portion of the Bill was concerned it should apply only to mining, public utility occupations and trades to be named by the Minister and that the next portion of the Bill should apply to all&#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said there were two clauses in the Bill which were of a compulsory nature apart from the general machinery&#x2014;clauses 13 and 18. The Select Committee widened the scope of old clause 15, but when the Committee got to that clause it could consider this question and see whether it was necessary to limit its operations, for he (the Minister) recognised there was a good deal in what the hon. member for Cape Town, Gardens, said. It was rather against his (the Minister&#x2019;s) inclination that clause 15 was extended.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said in the second reading he expressed his unqualified hostility to the Bill. How could the measure be voluntary if they deliberately excluded a large number of workers&#x003F; If the Minister recognised the right of all workers to form unions the measure would be useless, for then there would be no disputes at all. The English police had formed a Trade Union, and the police in this country were going to do the same, for if they did not they would simply be trodden in the gutter until no police would be left worthy of the name. If the Minister meant to do anything worth doing he ought to withdraw the Bill. There was nothing in the measure which would prevent strikes. Let the Minister withdraw this paltry thing and do something worthy of the name of this country.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said it was possible he had been under a misapprehension, which, however, was due to clause 19 being mentioned where it should be clause 17. Yet that clause said that the chapter only applied to mining, works carried out by a local authority, company, or person for the supply of light, power, water, sanitation, or transport. It was clear that the Bill did not refer to farming. At the same time, under clause 2 the Bill could be made applicable to farming. At present this was impossible, but they did not know what might happen. At present there were no Trade Unions among farming employees, but what might not happen in the future&#x003F; He held the whole principle of the Bill should be discussed again, in view of the alterations brought about by the Select Committee.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that the further they proceeded the deeper they got into the mire. There was much misunderstanding about clause 1, on which the whole of the Bill hinged. No one had had time to look through the measure, which was full of alterations made by the Select Committee. He would appeal to the Minister to allow the clause to stand over until the Committee had gone a little further into the Bill, when hon. members could see what they were committing the country to.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>said the Minister had stated that he was against the extension of the operation of clause 13, but he (Mr. Henderson) would remind the Minister that he voted for the amendments in Select Committee.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>I admitted that.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">HENDERSON</person> (continuing)</from>
+
+<p>said he was not against the formation of Trade Unions. They were giving the Minister power to bring any Trade Union under the provisions of the Bill. He felt that they should not let that clause stand until they got some assurance from the Minister. If the Minister would only agree to the amendment of the hon. member for Cape Town, Gardens, it would do away with all the trouble.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said the only difference between shop assistants, clerks, and warehousemen and other trades was that the former were in smaller numbers in different establishments, were under the employers&#x2019; eyes, and there was consequently more difficulty in organisation. The Minister had explained that the view of the Government was that <span class="col_3625-3626" refersTo="page_1819"/>they should force the men in Government service to join Trade Unions formed solely by Government servants. There was the Amalgamated Society of Carpenters and Joiners and the Amalgamated Society of Engineers. They had a large number of men belonging to each of those societies in the Government service&#x2014;some of them in the railway service and some in the Public Works Department. He understood from the Minister that those persons inside the service should join a society approved of by the Government. He thought the men would never do that, but that they would stick to their own society. Such a man&#x2019;s protection was his Trade Union, and it was no good running along a line of country which cut through all those old traditions. He urged that the Minister should accept the amendment of the hon. member for Commissioner-street and extend the voluntary portions of the Bill to Government servants. If the Government allowed that it would discover that the methods of the men were far more convenient than the other channels to the Government.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said he had at first thought that the amendment of the hon. member for Turffontein was very wide, and that it would lead to complications which ought to be avoided, but he had been looking carefully through Chapter 5, which dealt with the registration of Trade Unions and their management, and did not notice any objection to Postal or Railway employees of the Government being allowed to form Unions which should receive the recognition of Government. He thought it must be better to have a body through which complaints could be brought before the Government than simply to allow the individual members to bring forward individual complaints. Despite what had happened in the past, he did believe that it would tend to the benefit of all concerned to recognise these societies. There was no allowance given for a strike among Government employees, and if there was a strike the people would have to fall under the provision of the laws they had already made governing such Government Departments. He failed therefore to see any reason for refusing to recognise such associations. He would support the amendment of the hon. member for Turffontein.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said the hon. member had spoken as though every man in the railway service was entitled to a pension. That was not so. A very small percentage of the men were entitled to a pension, and when they did get a pension it was so small that it was not worth kicking up a row about. The hon. member was quite right in saying that the Government had a large measure of control over those people, and the Government had the deciding voice as to whether they should recognise the men&#x2019;s society or not The Minister had already signified his intention of recognising the Amalgamated Society of Railway and Harbour Servants, provided he was satisfied with their rules.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said he would like some light from the Minister. That clause was subject to the provisions of section 19, new clause 17. Under Chapter 4 no strike might take place, either directly or sympathetically, before the matter had been submitted to a Conciliation or Arbitration Board. That had originally applied to all lock-outs and strikes. Now, under new clause 17, which limited the provisions of that chapter to certain utility trades and to mining, it was only unlawful to have lock-outs or strikes in those particular industries before there had been any sitting of any Conciliation Board, etc.; but it was not unlawful to have a lock-out or strike with regard to any other trade&#x2014;so if they had a direct strike of one of those bodies and a sympathetic strike of a trade or a number of trades, people who did not fall under Chapter 5, then they could punish one party and not the other. That seemed to be the effect of it, and he would like to have the guidance of the Minister as to why it was done. He understood the object was when they passed the second reading to try and put a stop to disputes by Conciliation Boards and arbitrators&#x2014;to try and get a settlement before they adopted a strike or lock-out. According to that clause they would be able to punish one body of men and not another body.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he thought it would be more convenient to go into the matter when they came to clause 17.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said he was asked to agree to a clause which was subject to the provisions of a later clause. That was rather putting the cart before the horse. He was asked to agree to something he did not follow.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said in view of the representations made by the hon. member, he would accept the suggestion of the hon. member for Umlazi, and agree to the consideration of clause 1 standing over.</p>
+
+<p>The motion was agreed to.</p>
+
+<p>On clause 2, What is an understood dispute&#x003F;</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>put the amendment proposed by the Select Committee.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said the clause raised the same question as the previous clause.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said the clause was a mere definition, and nothing more. Clause 8 said Conciliation Boards may be registered; clause 15 said notice must be given. That was compulsory. When they arrived at clause 15 they could discuss it, but they <span class="col_3627-3628" refersTo="page_1820"/>should not raise difficulties on points of definition.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said, according to clause 2, a dispute between one man and his employer constituted an industrial dispute. That was reducing legislation and conciliation to a farce. The definition was so wide that it covered any possible contingency. An agitator could go into a place of business and get hold of one recalcitrant employee, and there would be an industrial dispute. The whole thing would be hung up for 14 days. It should be limited to a body of men, and he would move after the word &#x201C;any,&#x201D; in line 19, to insert the words &#x201C;body of his employees not less than seven in number&#x201D;; and, as an amendment to the amendment proposed by the Select Committee, in line 20, after &#x201C;or&#x201D;, to insert &#x201C;any.&#x201D; They must have a number of men disaffected, and not a single one.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said the hon. member had not given the matter sufficient thought. In the Transvaal Act at the present time the number was 10, and when the Klemfontein dispute arose there was no industrial dispute, because there were only nine men affected, but it very quickly spread. There they had a certain limitation. As a matter of fact limitation had been taken out of the Bill on account of experience in the past.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said they were asked to make legislation solely for one particular place, Witwatersrand, and he strongly objected to that. It was a clause which would enable them to do exactly what was wanted to get up little rows all over the country, whether in a creamery, or a jam factory, or anything else. They were creating the means to stir up little rows; the whole object of the clause was to put the country in a perpetual ferment. He wanted to move an amendment, to omit paragraph (e). Under that clause they could get up industrial disputes and bring into play all the paraphernalia of arbitration and Conciliation Boards, because someone outside said a person was obnoxious, and did not belong to a Trade Union. Now they were asked to help that sort of thing along by passing a clause like that. They were going to have the whole of the country put under the heel of Trade Unions. How anybody charged with the responsibility of government could bring in a provision like that he could not understand. They were doing the gravest injury to the country by its introduction.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said that by leaving out that clause they were not going to prevent people going out on strike. If the right hon. gentleman studied the provisions of the Bill he would see they were not creating disputes. They were created by the men.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>Or the masters.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said they did not want to limit the number. It was purely a definition, and they wanted to make the net as wide as possible, but it was ridiculous to say that if they defined a dispute there would be industrial disputes; if they did not there would be no disputes.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Col. <person refersTo="hansard_za">C. P. CREWE</person> (East London)</from>
+
+<p>said he had had no trouble with the men working in his establishment, but it was suggested that a man could walk into his office and say to him, &#x201C;You have some coloured men on your machine&#x2014;turn them out,&#x201D; and that if that were not done that would be an industrial dispute. That would be an intolerable position, and would create trouble. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he really did not know why the Minister paid so much attention to the right hon. gentleman (Mr. Merriman). Why the last piece of legislation before the House was almost openly and admittedly for one part of the Union.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person> (continuing)</from>
+
+<p>said the fact of the matter was that the right hon. gentleman&#x2019;s cynical hatred of the white worker was so great that he could not see a quarrel on any subject in which they were in the right, and he threw any sort of insulting remark across the floor of the House when the white worker was concerned. The Minister had provided a number of subjects on which men must not strike. Was there any member so ignorant of the history of labour troubles as not to know that the question of whether a man had been paid less than Trade Union wages had been a most fruitful cause of all disputes&#x003F; Supposing, for instance, that the hon. member for East London was paying, less than the Union wages.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Col. <person refersTo="hansard_za">C. P. CREWE</person> (East London):</from>
+
+<p>You may not suppose it.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I can very easily suppose it. Continuing, Mr. Creswell said that suppose some employer at East London proposed to cut wages he would try to engage men at a lower rate than the existing one, and the only way the employees could counteract that would be to say to the employer that if he did so they would not remain at work. Proceeding, Mr. Creswell opposed the suggestion of the hon. member for Cape Town, Gardens. The best way to arrive at a solution of this question was to encourage trade organisations, but the House put up impediments to frighten the men away. Why was not one man as much entitled to justice as seven men were&#x003F;</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>asked if there were anything in the Bill <span class="col_3629-3630" refersTo="page_1821"/>which interfered with the common right at law under which both employer and employee could give one another notice&#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">BROWN</person>:</from>
+
+<p>Will the Minister accept a motion to adjourn the debate and get on with other legislation&#x003F; After a discussion of this kind, which has been so fruitless, it would be worth while to leave, this over until the House is in a better frame of mind.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that they were not going to allow an employer to discharge his men. Where were they going to end&#x003F; He hoped the Minister would not carry his Bill to that extent&#x003F; South Africa, not being an industrial country, was not on all fours with other countries, and there was no demand for the Bill. Let the Minister&#x2019;s experience at New Kleinfontein be a warning to him. The Minister tried his apprentice hand there and made an awful mess of it. (Laughter.) Clause 2 hinged on clause 1, and so did clause 3. (Laughter.) He would therefore move that clause 2 stand over.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Certainly not.</p>
+
+<p>The motion that the clause stand over was negatived.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>took it that the common law rights of a man were not affected by the Bill so that a man could leave his employment by giving notice, and what one man could do a hundred or a thousand could do. But the Bill aimed at preventing men leaving their work suddenly for certain specific reasons. Every one of these things was a curb on a man from striking. The hon. member for Cape Town, Gardens, said it applied only to one employee. For the purpose the Minister had in view, viz., to make striking a penal offence, it must apply to every single person.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that time was given in the Bill for employers and employees to talk the matter over. If the Bill were carried men would be able to strike suddenly. He would refer to a personal experience at Port Elizabeth. One Friday evening at 6 o&#x2019;clock, at his firm&#x2019;s printing office, when the men were paid they put down a number of demands. His partners proposed to the men that they should talk it over, but the men said if he did not agree at once to the demands they would go out. His hon. friend, the member for Commissioner Street, was connected with the strike. They took their money and went. With regard to the point mentioned by the hon. member for Three Rivers he said that that was dealt with in clause 13, and if it was not satisfactory the hon. member could move amendments. He saw the difficulty of the hon. member for Gardens, but pointed out that the Bill could not work unless it applied to one man. But it was never going to apply. This was one of the impossibilities.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>was understood to draw attention to a discrepancy in the Dutch version.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said he would like to assist in passing the Bill through the House, because it had a noble object. The Bill was going to do away with strikes. Owing to the fact that one man was able to cause trouble he thought the whole Bill should be amended or the Bill withdrawn and re-introduced in a new form.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>One man can do it now.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">WILCOCKS</person>:</from>
+
+<p>But you are going to legalise the thing. (Laughter.)</p>
+
+<p>Members might laugh at him, but he was talking from practical experience. They would soon have these Unions extended to farm labourers. According to hon. members on the cross-benches one would think that employers were the cruelest persons on earth, while as a matter of fact both on farms and in industries employers had always shown consideration to the employees.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">W. H. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that the printers&#x2019; strike in Cape Town in 1911 was started by one man called Stone who had been a blackleg in the past, and who was employed by the Cape Times, Ltd. Because the Cape Times insisted upon keeping this man in employ of the firm the men went out on strike, and the rest of the men in the town were locked out. If they took the clause they were discussing out of the Bill the hon. member for Fauresmith would see what a result such an action would have. Large strikes often took place out of sympathy with one person. With regard to the statement of the hon. member for Port Elizabeth, Central, he wished to say he was not at Port Elizabeth when that strike was on. The Vice-President of his Association was there, and he took a ballot of the men after they had come out as to whether they should go back or not He (Mr. Sampson) came down a week later and took over the running of the strike, so as to bring the trouble to a close. He went to the Manager&#x2019;s office of the firm of the hon. member for Port Elizabeth, Central, in order to ask whether a deputation might be heard, and the manager threatened to throw him out of the window. (Loud laughter.) That was the sort of reception one got when one went in the interest of conciliation. He thought it was far more honest if members voted according to their conscience.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that when they read in the Bill that one employee might go to his master because of some alteration the master wished to make in reference to his hours of employment or something of that kind, and the master had no right to make any alteration for a <span class="col_3631-3632" refersTo="page_1822"/>period of fourteen days, surely the hon. member who spoke on the other side was perfectly right when he said it was introducing a new state of affairs. This showed how little the Minister of Mines knew about his own Bill when he said that nothing was altered. All these questions in clause 2 absolutely hung on clause 1.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>said that if the Minister had only accepted the amendment moved by the hon. member for Cape Town, Gardens, on clause 1 a great deal of this discussion would have been saved. Under this clause, one employee who had a difference with an employer could raise an &#x201C;industrial dispute.&#x201D; That was not the case under the existing law. One employee could raise a dispute on every one of these sub-sections in clause 2, and the employer would be hung up for 14 days. That was the position the Committee had to face.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he thought that when they came to clause 15 they could discuss the scope of this particular clause. What the Committee did not seem to understand was the effect of clause 2. The more they limited clause 2 the more they would limit the usefulness of this Act. The whole object of the Act was to prevent difficulties and give time for consideration. If they limited the definition of &#x201C;industrial dispute&#x201D; for the purposes of this Act they would limit the scope of this Bill. The matter had now been very fully discussed, and if the Committee would not come to a vote they would have to adopt other methods.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that the debate which had taken place showed that a good many members in this House knew very little about the Bill. What annoyed the hon. member for Durban, Berea, was that he feared, should this Bill become law, that if he desired to alter the conditions of one man, he would be debarred by this Bill from sacking this man if he wished to or dealing with him for 14 days, until a Conciliation Board had been set up or some inquiry had been made into the matter. The very attitude of the hon. member for Durban, Berea, was the attitude which caused disputes. He thought the hon. member belonged to a party that was anxious to avoid industrial disputes. The printers&#x2019; strike in Cape Town was an instance of a dispute caused by one man, the objection of the men to the employment of a certain individual.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said that they were all anxious to learn, but they had had the experience, some of them, in their lives that with some teachers the confusion became worse confounded. That was the state of his mind after listening to the hon. member for Springs. (Laughter.) He was getting tired of hearing constantly that they wanted remedial legislation, and now when it was here why didn&#x2019;t they take it &#x003F; They were in favour of remedial legislation, but it did not follow that they should take everything the Government placed before them. The way the matter struck him was this, that supposing 49 out of 50 men wanted an alteration to which the employer was agreeable, and the fiftieth man was opposed to it, as far as he read this clause, that one man could hold everything up for a fortnight. There was no doubt a good deal in what the Minister said, that, when they came to a subsequent clause, they could to some extent deal with that, but his experience was that, when they had once passed their definition, it became very difficult afterwards to adjust their legislation to their definition.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said he was afraid the Bill was going to be stifled if they went on spending time at the rate they were doing, and that the Bill would not go through. He could not understand the difficulty of hon. members on that side of the House with regard to the one man. What could one man do&#x003F; If an employer wished to make an alteration in the conditions of employment fourteen days&#x2019; notice must be given by him, and on the other hand, fourteen days&#x2019; notice must be given by the employees of a demand for any alteration. That was the beginning and the end of the whole one-man business. There was nothing to prevent an employee giving notice to his employer that he intended to leave, and nothing to prevent an employer giving an employee notice. To say that one employee would hang the whole thing up was not right. He was afraid that some hon. members realised that that was going to apply to their own employees. The Bill contained many provisions which were going to make for industrial peace, but the Bill could with advantage be re-drafted, although of course that could not be done this session.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said the hon. member for Fordsburg took exactly the opposite view to that which he took. He was an old official, and was all for regulation, and approached the matter from a different point of view to that from which he (Mr. Merriman) did. All those measures they were now trotting along, trying to copy, had led to an increase of industrial disputes. If the men did not want to carry out the award of a Board, then they were helpless to prevent it. They dragged the Government into it, and the Government was set at defiance. That was the real meaning of all that legislation. He had read recently of some colliery where a man asked for permission to go to a football match, and was refused. The man nevertheless went, and was rightly dismissed. Then the three hundred other men &#x201C;came out,&#x201D; as it was called, threw the whole thing into confusion, and eventually the colliery was forced to take the man back&#x2014;that insubordinate man. The Bill was going to help on things like that, and by-and-bye they would say it was a pity that they had had that legislation.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from><span class="col_3633-3634" refersTo="page_1823"/>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>referred to the 50 men instanced by the hon. member for Cape Town, Harbour, and said there would be nothing to prevent the employer carrying on his business with the one man, and sending a wire to the Minister of the Interior saying that there was an industrial dispute.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>moved that the question be now put.</p>
+
+<p>The motion was put and the Committee divided.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<p>Ayes&#x2014;50.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Bezuidenhout, Willem Wouter Jacobus J.</p>
+
+<p>Bosnian, Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>De Wet, Nicolaas Jacobus</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Merriman, John Xavier</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling. Andrew Murray</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Theron, Hendrik Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van der Walt, Jacobus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watt, Thomas</p>
+
+<p>W iltshire, Henry</p>
+
+<p>H C. Becker and F. R. Cronje, tellers.</p>
+
+<p>Noes&#x2014;24.</p>
+
+<p>Alexander, Morris</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Fremantle, Henry Eardley Stephen</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Henwood, Charlie</p>
+
+<p>Jagger, John William</p>
+
+<p>Juta, Henry Hubert</p>
+
+<p>King, John Gavin</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Maginess, Thomas</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Struben, Charles Frederick William</p>
+
+<p>Van der Riet, Frederick John Werndly</p>
+
+<p>Wcolls-Sampson, Aubrey</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>Charles G. Fichardt and Thomas Boydell, tellers.</p>
+
+<p>The motion was therefore affirmed.</p>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>then put the amendment of the hon. member for Cape Town, Gardens (Mr. Baxter) to insert the word &#x201C;body&#x201D; after &#x201C;any&#x201D; in line 19.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<p>A division was taken, with the following result:</p>
+
+<p>Ayes&#x2014;16.</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Fichardt, Charles Gustav</p>
+
+<p>Henderson, James</p>
+
+<p>Henwood, Charlie</p>
+
+<p>Jagger, John William</p>
+
+<p>Juta, Henry Hubert</p>
+
+<p>King, John Gavin</p>
+
+<p>Merriman, John Xavier</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Serfontein, Nicolaas Wilhelmus</p>
+
+<p>Van der Riet, Frederick John Werndly</p>
+
+<p>Whitaker, George</p>
+
+<p>Woolls-Sampson, Aubrey</p>
+
+<p>C. Struben and C. A. van Niekerk, Tellers.</p>
+
+<p>Noes&#x2014;66.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Alexander, Morris</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Bezuidenhout, Willem Wouter Jacobus J.</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Botha, Christian Lourens</p>
+
+<p>Botha, Louis</p>
+
+<p>Boydell, Thomas</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Creswell. Frederic Hugh Page</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>De Wet, Nicolaas Jacobus</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p><span class="col_3635-3636" refersTo="page_1824"/>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Hewat, John</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Louw. George Albcrtyn</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Maginess, Thomas</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Theron, Hendrik Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe. Johannes Adolph P.</p>
+
+<p>Van der Walt, Jacobus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>H. C. Becker and F. R. Cronje, tellers.</p>
+
+<p>The amendment was accordingly negatived.</p>
+
+<p>The amendment of the hon. member for Cape Town, Gardens, to insert the words &#x201C;not less than seven in number &#x201D; was negatived, and the further amendment to insert &#x201C;or &#x201D; was agreed to.</p>
+
+<p>The amendment of the hon. member for Victoria West to omit paragraph (e) was negatived.</p>
+
+<p>Clause 2 as amended was passed.</p>
+
+<p>On clause 3, What is a strike and a lockout&#x003F;</p>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said he wished to move an amendment which the hon. Minister would no doubt argue was unnecessary on the ground that it was already provided for in the common law, but that was a Bill which many would assume took away their common law rights, and there would be no harm in the repetition, which would arise by inserting the provision: &#x201C;Provided that a strike shall not be deemed to have taken place when the customary notice of termination of contract of employment has been tendered and expired.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>intimated his willingness, as the meaning was not plain enough, to accept the amendment. He pointed out, however, that it was an unnecessary addition, because when a notice had expired a man would no longer be an employee.</p>
+
+</speech>
+
+<speech by="#van_der_riet">
+
+<from>Mr. <person refersTo="hansard_za">F. J. W. VAN DER RIET</person> (Al bany)</from>
+
+<p>was understood to say that protection was given in sub-section (1) of clause 3. He urged that if, say, 300 men working on a mine gave notice that they wanted to leave the next day, in connection with an industrial dispute, surely that would be a strike, although they would have given lawful notice</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>wanted to move a further amendment to add a new paragraph (d) to follow (c) in sub-section (2) &#x201C;A suspension by an employer of any number of his employees,&#x201D; and in line 28 in the same sub-section to insert &#x201C;or.&#x201D; Business was suspended at 6 p.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<p>The House resumed in Committee on the Industrial Disputes and Trade Union Bill, clause 3.</p>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that he moved the addition of a new subsection (d), to bring about the same state of affairs, so far as the employers were concerned, as the first part of the clause, which covered the employees. He referred to the A.S.E. strike in England, and said that in that instance the employers suspended a section of the men at a time, in the hope of coercing the remainder. An employer could suspend everybody except one man.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said that (a), (b), and (c) were governed by (1) and (2), which followed, and he thought the amendment was unnecessary.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that this clause hung on No 2, and the fact that No. 2 was forced through was no reason why they should accept No. 3 without a protest. Dealing with the right of the employer to suspend some of his men, he said there was a distinct understanding in the House that the rights of minorities would be considered. He thought their rights would be taken away by this clause.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said he did not think the deletion of the word &#x201C;or&#x201D; would meet the case, and he quoted authorities to show how the employers were responsible for many big strikes in Great Britain and the United States. The two great strikes in Australia, the shearers strike and the shipping strike, were in <span class="col_3637-3638" refersTo="page_1825"/>stigated by the employers. The Natal strike was due to a deliberate insult offered to the men, and the strike of January was the result of employers throwing men on to the streets to starve. They wanted to tighten that matter up so as to make it as fair for the one as it was for the other.</p>
+
+<p>Mr. H. W. Sampson&#x2019;s amendment was agreed to.</p>
+
+<p>Mr. Madeley&#x2019;s amendment, to insert a new paragraph (d), was negatived.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>moved to insert the following proviso at the end of the clause: &#x201C;Provided that a lock-out shall not be deemed to have taken place when the customary notice of termination of contract has been tendered and expired.&#x201D;</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>Clause 3 as amended was agreed to.</p>
+
+<p>On clause 4, Appointment of officers,</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said he thought the Committee ought to decide against any addition to the number of officials. Surely the Department of Mines was large enough, and he thought the work should be undertaken by that department. He moved the deletion of the clause.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said they would find very few men capable of filling the post. The man would have to have the confidence of both sides. He had to approach both the employers and the Trade Unions and get them to set up Conciliation Boards. It required a man with expert experience.</p>
+
+<p>Clause 4 was agreed to.</p>
+
+<p>On clause 5, Powers of the Minister,</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said surely the Government had enough to do without keeping registers of people who wanted employment. He wondered what the Government would do for them next&#x003F;</p>
+
+<p>Clause 5 was agreed to.</p>
+
+<p>On clause 8, new sub-section (3),</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>moved to add at the end of new sub-section (3), &#x201C;and with the determination of the claims of persons to appear for either party to any industrial dispute before the Board.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said that in old clause 12, subsection (2), it was provided that the officers of Trade Unions should be recognised. He could not accept the amendment. He moved: On page 8, line 18, after &#x201C;chairman&#x201D;, to insert &#x201C;the keeping of minutes&#x201D;.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said it was not enough to say that the officers of Trade Unions should have the right to appear before a Conciliation Board. The Board might want to hear counsel. He thought it would be unwise to limit them to officers of registered Trade Unions. If the men preferred to be represented before Conciliation Boards by counsel why should they not be&#x003F;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>They can be.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>Yet at the same time the Minister limits the Trade Union officials to the representatives of registered Trade Unions.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>hoped the Minister would accept something in the nature of that proposed by the hon. member for Queen&#x2019;s Town.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>advised that the clause be made as simple as possible in order to prevent misunderstandings.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>wished to know if all this machinery of barristers and Conciliation Boards was to be set in motion on every little dispute. (Laughter.) If a couple of men could start all this machinery where was the matter going to end, and how far was our lunacy going to extend&#x003F;</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said the hon. member for Umlazi seemed to fear the expense, but the members of the Conciliation Board would not be paid and if either side desired to employ barristers, why should they not be allowed to do so as they would have to pay the fees out of their own pocket and there would be no expense either to the State or to the hon. member for Umlazi.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>said he would remind the hon. member for Umlazi that six men had a dispute with the management of the New Kleinfontein Mine, and because there was no means whereby they could discuss the matter with their employers on a proper basis this country was involved in an expense of nearly half a million of money, twenty-one lives were lost on the Market-square of Johannesburg, and thousands of men were thrown out of work.</p>
+
+<p>The amendment of the Minister of Mines and Industries was adopted.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>said he thought the amendment of the hon. member for Queen&#x2019;s Town was quite unnecessary.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said he would withdraw his amendment.</p>
+
+<p>The clause, as amended, was agreed to.</p>
+
+<p>On clause 9,</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>moved the omission of the word &#x201C;undertaking&#x201D; from line 23.</p>
+
+<p>The amendment was negatived.</p>
+
+<p>The clause was adopted.</p>
+
+<p>On clause 13.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>moved the deletion of the word &#x201C;registered&#x201D; before &#x201C;Trade Union.&#x201D; The retention <span class="col_3639-3640" refersTo="page_1826"/>of this word, he said, would create difficulties and prejudice.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>supported the amendment as he was of the opinion that there should be no such thing as a registered Trade Union. (Laughter.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said it was much better to take the word out.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>asked whether the Minister was going to accept the amendment.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said he had understood that the Minister was going to accept the amendment. If not, at the very outset the Minister was going to kill the Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said it was a purely voluntary thing. If the representatives of the Trade Unions were refused to be accepted, all conciliation was at an end. On the recommendation of the Industrial Commission, who said that they must definitely provide for officers of registered Trade Unions having the right to appear, he had been induced to put in that thing. He thought it would be a mistake to take away that right which they gave to registered Trade Unions, and it was a sort of additional inducement to register. He admitted it was not a strong point; but he would ask the Committee to stick to the clause as printed.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that by putting that word in they might smash up these Conciliation Boards.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said that if that sub-section were confined to where a Trade Union was a party to a dispute, he thought it was all right, but if the mere fact that workmen who were parties to these disputes were members of Trade Unions, the officers of these Trade Unions should have the right to come to that dispute before the Board, he thought (he was understood to say) that it should be altered. He thought the operation should be limited to where a Trade Union was actually a party to a dispute.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said it was with a view to giving a general Trade Union and their officials in cases of that kind the right to appear before these particular Conciliation Boards that that clause had been inserted.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>moved, as an amendment, in line 20, after the word &#x201C;shall,&#x201D; to insert the words &#x201C;at the request of the parties.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he accepted the amendment.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville)</from>
+
+<p>said that he thought that compulsory element in what ought to be a voluntary Board was going to defeat the object they had in view. He thought the Minister would be well advised to delete the whole clause.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that he would like to know from the Minister, who was there to put the point of view from the employers&#x2019; side&#x003F; He looked round the House there and saw no one who could put the point from the employers&#x2019; view. They had the workman&#x2019;s point of view very ably put, and very persistently, from the cross-benches. (Labour cheers.) There they had the Minister giving way to them. All the leaders of the mining industry were not present. There was not one. He thought the Committee ought to take seriously to heart words of warning in regard to that matter.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (George Town)</from>
+
+<p>said the hon. member need not worry: his class interests had been fully safeguarded. The Minister, he had no doubt, had consulted the Chamber of Mines, and was in full touch with the Department. Do not let his friend (Mr. Fawcus) get unnecessarily alarmed. That Bill had not been brought in by the Labour Party, and was not there because they had asked for it. They were criticising it.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that in insisting on that clause the Minister was adopting a method which other persons had found not only useless, but injurious. What the hon. member for Umlazi (Mr. Fawcus) had said reminded him of the lines, &#x201C;among the faithful, only I.&#x201D; (Laughter.)</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that with the addition of the word &#x201C;shall&#x201D; the Minister seemed to think that by having there &#x201C;registered as unions&#x201D; he was going to induce Trade Unions to register. For a society to be registered Under that Bill the rules had to be approved by the Minister, but such unions as the A.S.R, with thousands of members, and similar societies which were represented in this country, would not, draft their rules to suit the Minister of Mines and Industries in South Africa. The Minister would have to accept their rules, or they could not be registered, and therefore could not be represented on those Boards. The Minister had either to knock out &#x201C;registered&#x201D; to make it effective or knock out the clause altogether.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said if that was a compulsory Conciliation Bill he would be fighting just as hard for the insertion of the clause as he was then to get it out. In a compulsory Bill which he saw first the Minister was giving recognition to Trade Unions under that clause, but with the voluntary nature of the Bill as it was at the present time he was giving no recognition at all. Instead, <span class="col_3641-3642" refersTo="page_1827"/>he was putting a stumbling block in the way of conciliation, and consequently sub-section 2 ought to be deled altogether, and he would withdraw the amendment to delete the word &#x201C;registered&#x201D; in favour of deletion of the whole sub-section.</p>
+
+<p>The amendment of the hon. member for Fordsburg was agreed to.</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>put the question, that sub-section 2, as amended, stand part of the clause.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>called for a division, which resulted as follows:</p>
+
+<p>Ayes&#x2014;59.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Alexander, Morris</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Berry, William Bisset</p>
+
+<p>Bezuidenhout, Willem Wouter Jacobus J.</p>
+
+<p>Bosnian, Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fremantle, Henry Eardley Stephen</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Henderson, James</p>
+
+<p>Jagger, John William</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Maasdorp, Gysbert Henry</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Smuts, Jan Christiaan</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Struben, Charles Frederick William</p>
+
+<p>Theron, Hendrik Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van der Riet, Frederick John Werndly</p>
+
+<p>Van der Walt, Jacobus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wessels, Daniel Hendrik Willem</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>H. C. Becker and F. R. Cronje, tellers.</p>
+
+<p>Noes&#x2014;10.</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Boydell. Thomas</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Henwood, Charlie</p>
+
+<p>Maginess, Thomas</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>H. W. Sampson and Walter B. Madeley, tellers.</p>
+
+<p>The question was accordingly affirmed, and the amendment proposed by Mr. H. W. Sampson, negatived.</p>
+
+<p>Clause 13, as amended, was agreed to.</p>
+
+<p>On clause 14,</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>moved in line 27, to delete the word &#x201C;all&#x201D; and insert the words &#x201C;a majority of the,&#x201D; and in line 28 to omit &#x201C;all&#x201D; and to substitute &#x201C;of&#x201D;, so that it would read, &#x201C;any registered Conciliation Board shall be entitled to have its name removed from the register on sending to the Minister a copy of the resolution of the Board to that effect, or if a majority of the representatives of the employer or of the representatives of the employees withdraw from the Board.&#x201D; A majority of the representatives either one side or the other should, in his opinion, be sufficient.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said it might be that some of the representatives on that Board represented different Trade Unions connected with the same employment. Then one particular section might say they did not want to go on, and the other section might want to continue. A Conciliation Board of that kind would not be of much use when the support of one section was withdrawn. To say, ipso facto, that it should come to an end and start de novo, did not seem to him to be right. He did not think the amendment was advisable.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that the argument of the Minister would apply in the case of an Investigation Board, but not in regard to permanent Conciliation Boards. Those Boards could only redress grievances when they were representing a majority. It would either be remodelled or cease to exist.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said if a Board was originally formed to represent two or more parties, and one or more withdrew, then it could no longer be the same Board&#x2014;it would no longer be competent to settle a dispute. He moved to omit all the words after &#x201C;effect &#x201D; in sub-section (1) down to the end of the sub-section, and to insert after the word &#x201C;act&#x201D; in sub-setion c&#x2014; <span class="col_3643-3644" refersTo="page_1828"/>(2) the words &#x201C;or if he is satisfied that it no longer properly represents the parties by whom it was constituted.&#x201D;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>suggested to the Minister that the proposal that had come from the cross-benches was much more automatic than the other proposal.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said if he had to choose between the two amendments he would prefer the amendment from the cross-benches, as that threw the responsibility on the Board. He did not think it wise that the Minister should take the responsibility. He would accept the amendment from the cross-benches.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said it was delightful to see the hon. member for Fordsburg and the Minister of Mines and Industries falling over each other in order to conciliate the Socialist section. (Laughter.) He thought it was a delightful situation.</p>
+
+<p>The amendment of the hon. member for Commissioner-street was agreed to.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said he thought the Socialist party should write out its demands en bloc. (Cries of: &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>I rise to a point of order, sir</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">FAWCUS</person>:</from>
+
+<p>The Chairman has not called me to order.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Is the hon. member in order in interfering with the proceedings of the Committee&#x003F; (Ministerial cheers and Labour laughter.) I hope you will restrain the hon. member. (Laughter.)</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">T. BOYDELL</person> (Durban, Greyville):</from>
+
+<p>Suspend him. (Laughter.)</p>
+
+<p>The amendments of the hon. member for Fordsburg were negatived.</p>
+
+<p>The clause, as amended, was agreed to.</p>
+
+<p>On clause 15,</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>moved that after the word &#x201C;act&#x201D; in line 37 to insert the words &#x201C;except upon agreement between the employers and the employees concerned or.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he had no objection to accepting the amendment of the hon. member for Queen&#x2019;s Town.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>suggested that they might take this clause out altogether and make it applicable only to those industries mentioned in Chapter 4. That would hot interfere with voluntary Conciliation Boards.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said it was a safeguard to both-employers, and employees to know that notice must be given before a strike could take place, but if both parties agreed to no notice being given he was willing to accept that. He would accept the amendment of the hon. member for Cape Town, Gardens.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>We are just about sick of being subjected to laws which are called for only owing to the conditions on the Rand. I would like to knock the clause out altogether.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said sub-section (2) was wholly obscure.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said the employee was more or less at a disadvantage all through the Bill. Under the common law there was nothing to prevent a man being dismissed and then being re-engaged on different conditions, and thus the whole object of the Bill might be defeated. If hon. members would assist him to delete clauses 17 and 18 he would have the greatest pleasure in assisting to delete this clause. The clauses in this and the next Chapter went together, and to take this clause away and to leave the others would be absolutely penalising the employees. He believed trouble would be caused by legislation of this kind. The Conciliation Boards would do more good than all the rest of the Bill to stop strikes, He was not to be inveigled into deleting clause 13 unless clauses 17 and 18 were also deleted.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he agreed with what the hon. member for Commissioner-street (Mr. Sampson) had said. Hon. members had got to understand that that Act was not going to stop strikes.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>What&#x2019;s the good of it, then&#x003F;</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person>:</from>
+
+<p>You are going to offer the employers and employees machinery for coming together. (Cheers.) If they won&#x2019;t come together and the men won&#x2019;t accept the terms, nothing further can be done, and you can&#x2019;t send 50,000 men to gaol. The hon. member went on to say that the right hon. member for Victoria West (Mr. Merriman) had said that after legislation of that kind they had more disputes than before. It was not because of the legislation, but because of the greater education amongst the working classes. (Labour cheers.)</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>said he thought the hon. member for Commissioner-street (Mr. Sampson) had entirely misunderstood the suggestion. It was not to eliminate clause 13, but to transpose it and place it after clause 17, making it new clause 18. He thought that would improve the position a good deal from the point of view of the hon. members on the cross-benches, but that was for them to say.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from><span class="col_3645-3646" refersTo="page_1829"/>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said it was not merely disputes leading up to a strike that they were going to deal with under that Bill. The Minister did not see that, and he was obsessed with conditions in Johannesburg. They need not put shackles on ordinary industries.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>moved, as an amendment, in line 1, subsection (2), to delete the word &#x201C;made&#x201D; and insert the word &#x201C;proposed.&#x201D; He said chat that clause was inconsistent with what followed.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street):</from>
+
+<p>Am I in order, Mr. Chairman, in moving that Chapter 3 stand over until Chapter 4 is disposed of&#x003F;</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>said chat the hon. member might move that a clause stand over.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>Then I move to delete clause 15. He proceeded to say that he would ask the Minister whether it was worth while going on with the class of legislation laid down in Chapters 5 and 4. It was no settlement of the question whatever, and if the purpose in view, to delay a strike, was to effect a settlement, there might be some justification, but all that it was going to do was to delay a strike. The effect of that was to alter the natural advantage on the part of the workmen into a disadvantage, and turn it into an advantage for the employers. There were periods of slackness and periods of prosperity, as everyone who knew what trades were was aware of. The report of the investigation board must take some time. No workmen in their senses were going to have a dispute in times of slackness. If there was a dispute in times of prosperity, and they had to wait, say, three months before the report was submitted, the time of prosperity might be altered into a time of slackness. The advantage of the workmen would then be altered into a disadvantage. The only machinery which he knew to have succeeded at all was voluntary Conciliation Boards. In Canada legislation on similar lines to this had been passed and failed to stop strikes. In their own experience in the Transvaal, legislation of that character had not been successful. It caused dissatisfaction all the way round, and those conflicts of July would not have taken place but for the law which existed. It had been limited now, but still they were going too far. Did not the Minister think they were sufficiently covered by the Bill which was passed two days ago where it was made a penal offence for a man to break his contract&#x003F; In the Bill before the House that was also provided for, but there was a lighter penalty. He suggested that they should delete Chapters 3 and 4 from the Bill.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>thought the Minister was frightened by the bogey of strikes. Railwaymen could not strike, and the miners would not so long as they were fairly treated. Surely the Committee could take that to heart and leave things alone. If they would only leave more to the good sense of the men and the employers, and not interfere with the right to strike and lock-out, things would go much better. He appealed to the Minister to withdraw.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>agreed with the hon. member for Commissioner-street. The Bill was not going to compel anybody to seek conciliation. It only offered that means. If the workmen of this country accepted an Act as fair, then the Act would be a success, but if they did not it would not be a success. Under that clause workmen were giving something up by forfeiting their right to stop at short notice.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>agreed with the hon. member for Commissioner-street, and said that if they scrapped the clause they would certainly scrap the most debatable part of the Bill. The previous part, where they depended upon voluntary mutual recognition would be thoroughly useful. He referred to the delay which had taken place in connection with Conciliation Boards with which he had been connected, and expressed the opinion that those more or less compulsory Conciliation Boards which were being instituted in clause 4 were, in his opinion, a great mistake. It would be far better to leave the position as it was at the beginning of Chapter 3 and content themselves with the legislation they had passed up to Chapter 3.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>did not think it was a serious alteration to remove the obligation to give notice. He did not believe that the so-called Canadian system had been an entire failure.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person>:</from>
+
+<p>What happened last year&#x003F;</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>There must have been a remarkable change.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>An entire change.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person></from>
+
+<p>said he would like to know what it was In 1912 Sir G. Askwith, who was a most competent investigator, had reported that after experience of the Canadian Act the railwaymen, who had been previously opposed to the measure, had entirely changed their opinion. In his opinion the fewer restrictions there were the better.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>said he thought members had gone too far in both directions. The hon. members for Cape Town, Gardens, and Cape Town, Central, went to one extreme, while the hon. member for Port Elizabeth, Central, who thought it was essential to the whole Bill, went to the other extreme. He thought the clause was of use as leading up to clause 16. If they had no notice and a strike took place and they could not put the machinery of clause 16 into operation, <span class="col_3647-3648" refersTo="page_1830"/>what was the good of it&#x003F; He did not mind the first portion of the amendment of the hon. member for Cape Town, Gardens, if it met with the assent of the Committee, but, if he wanted to negative the amendment made by the Select Committee he thought it was open to argument. He was open to accept the first part of the amendment, and hoped the Committee would come to a decision.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he agreed with what had been said by the hon. member for Fordsburg. If it would mean endangering a later clause he would withdraw his opposition.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>in support of what he had previously contended, that legislation of this kind had not stopped strikes in Canada, referred to a report on strikes and lock-outs in Canada in 1912, which had just come to hand, by which it was shown that there were more strikes during 1912 there than ever before. He wished the Minister would proceed in the light of the experience gained in the passing of such a Bill in their own country. So far as he knew they had peace and quietness before that for twenty-four years, and ever since there had been a state of turmoil. There had been no such Bill in the Cape Province, find they had peace and quietness. In the light of this report, which had just come to hand, he thought the Minister was wrong in pursuing this course.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>thought the Minister should take time to consider the matter, and suggested that progress should be reported.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister to make himself fully acquainted with the effects of this clause. There was a good deal of divided opinion in the Committee, and this was due to the fact that so few knew anything about it. He was understood to say that the first chapter, with which they all agreed, would go a long way towards settling disputes. In England the right to strike on one hand and lock-out on the other had not been given up, but there everybody realised the advantage of getting together and talking it over. The hon. member then read the terms of an agreement entered into last April between the Employers&#x2019; Federation and the Amalgamated Society of Engineers. Concluding, he urged that employers and men should be allowed to come together and discuss their grievances in their own way. Let conciliation work, and conciliation only.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person></from>
+
+<p>asked the hon. member for Cape Town, Gardens, to accept the amendment of the Select Committee, which would put the clause in line with clause 16.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>in withdrawing his amendment to delete the clause, said he washed his hands of all responsibility in regard to the passing of legislation of this kind. The Minister, by accepting this clause was doing wrong, and the responsibility rested with him.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>expressed the hope that progress would be reported, the hour being late and members being tired.</p>
+
+<p>The amendments of the Select Committee, Mr. Baxter and Sir W. B. Berry, were carried.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that the amendment just agreed to made the clause ridiculous.</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person></from>
+
+<p>called the hon. member to order, The amendment had, he said, been passed.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>But cannot we discuss the clause as a whole &#x003F;</p>
+
+</speech>
+
+<speech by="#acting_chairman">
+
+<from>The <person refersTo="hansard_za">ACTING CHAIRMAN</person>:</from>
+
+<p>You cannot criticise a decision just come to.</p>
+
+<p>The clause, as amended, was agreed to.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>moved that progress be reported, and leave asked to sit again.</p>
+
+<p>This was agreed to.</p>
+
+<p>Progress was reported, and leave obtained to sit again on Monday.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1914-06-19T22:40:00">10.40 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
