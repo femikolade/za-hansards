@@ -1,0 +1,1405 @@
+---
+title: 'House of Assembly: Vol67 - THURSDAY 10 MARCH 1977'
+layout: debate
+year: 1977
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>THURSDAY, 10 MARCH 1977</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1977-03-10T14:15:00">14h15</recordedTime>.</narrative>
+
+</prayers>
+
+<debateSection name="#publications_amendment_bill">
+
+<heading>PUBLICATIONS AMENDMENT BILL</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Mr. Speaker, I move&#x2014;</p>
+
+<block name="quote">That Order of the Day No. 19 for today&#x2014;Second Reading,&#x2014;Publications Amendment Bill [B. 70&#x2014;&#x2019;77] (Assembly), be discharged and the Bill withdrawn.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#criminal_procedure_bill">
+
+<heading>CRIMINAL PROCEDURE BILL</heading>
+
+<summary>(Second Reading resumed)</summary>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>Mr. Speaker, I enter this debate so that I can deal with some of the problems which relate to these medical legal aspects which present themselves in this Bill. However, before I come to these problems I want to deal with another problem. I want to say to the hon. member for Houghton that she&#x2014;and I am saying this in all sincerity&#x2014; must stop her veiled attacks on our police. [Interjections.]</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Ha, ha, ha!</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>The impression she gives to this House and to the country is that our police force consist of a lot of trigger-happy toughies who are ready to shoot to kill for minor offences and at the slightest provocation. I have part of her Hansard here, that part which is relevant to what I say, this is the sort of thing she says (Hansard, 9 March, cols. 3279-80)&#x2014;</p>
+
+<block name="quote">What I am arguing is the readiness with which the police shoot people who have committed a minor crime while they are trying to evade arrest.</block>
+
+</speech>
+
+<speech by="#suzman">
+
+<from><span class="col_3291-3292" refersTo="page_0239"/>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Look at the figures!</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>She continued&#x2014;</p>
+
+<block name="quote">This does not happen in other countries.</block>
+
+<p>Why are we exceptional in allowing this in our country? Well, I want to say to her that I, for one, do not agree with her. [Interjections.] &#x2026; and I am sure that none of those on my side of the House agree with her. [Interjections.]</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>And those on that side of the House do not agree either.</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>It would be nice to hear a word of praise for our police force now and again. These people do a remarkable job of work in the most difficult of circumstances.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>Mr. Speaker, the hon. member for Houghton probably sleeps well at night, and I think she does owe a little of this peacefulness in her existence to our police force. [Interjections.]</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Do you want to be a commissar? [Interjections.]</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>Mr. Speaker, I do not want to go further into the matter.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Well, go on!</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>I do not want to go further, because words that come from us here fall on deaf ears, because she continues on her way. She is not doing this country very much good. [Interjections.]</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>I think they should make you a Deputy Minister!</p>
+
+</speech>
+
+<speech by="#fisher">
+
+<from>Dr. <person refersTo="hansard_za">E. L. FISHER</person>:</from>
+
+<p>Mr. Speaker, I want to get back to the subject that I wanted to deal with. The first matter that I want to raise with the hon. the Minister is the definition of &#x201C;mental illness&#x201D;. The definition according to the Mental Health Act does, in my opinion, include mental defects. So, in the amendments that I put forward, I have asked for the phrase &#x201C;mental defects&#x201D; to be deleted, because the definition says&#x2014;</p>
+
+<block name="quote">A &#x201C;mental illness&#x201D; means any disorder or disability of the mind and includes any mental disease, any arrested or incomplete development of the mind and any psychopathic disorder.</block>
+
+<p>A &#x201C;mentally ill&#x201D; has a corresponding meaning. The reason why I am stressing this is because a lot of the work that is going to be performed by our judges and by our magistrates is going to revolve around the mental state of some of the people who commit crimes. Therefore I believe that right at the start we have to have a clear definition of what &#x201C;mental illness&#x201D; means.</p>
+
+<p>In chapter 13 we deal with persons who may or may not be held responsible for then-actions. The extent of the investigations of the accused&#x2019;s mental state, according to this Bill, depends on the charge. I just want to repeat that: it depends on the charge, how far one is going to go with the investigation of the accused. If the charge is one where the sentence of death can be imposed, it requires, according to the Bill as it now reads, at least two psychiatrists to examine the patient and to give their opinion. If, however, the charge is one where the death sentence cannot be imposed, only one psychiatrist is necessary. Surely the hon. the Minister realizes that in the second category there can be some very, very serious charges. Can we imagine a man who, in an unsatisfactorily mental condition, attack an innocent person and cripple that person for life, yet when he comes before a judge, according to the Bill only one psychiatrist is necessary to say whether he is mentally deranged or not. I believe that rather than say that the charge must determine the extent of the examination, we should put it the other way round, i.e. the examination should determine whether or not the accused can stand the charge. I do not know whether the hon. the Minister has gone through this section of the Bill properly, but I think he can understand what my concern is.</p>
+
+<p>Here, through the action of one psychiatrist, the future of that man&#x2019;s life may be determined. This is contrary to the Mental Health Act, which states that if a man is going to be committed to a mental institution he must be certified by two medical practitioners. <span class="col_3293-3294" refersTo="page_0240"/>In this case, when a man does something that lands him in court before a magistrate or judge, we find that is only one person who gives an opinion. I feel very strongly on this matter and want to go further and say that the two psychiatrists who I hope will be appointed to examine these people, should give their opinions separately. They can sit in consultation, there is no reason for their not doing that. The report must, however, not be a joint report of the two psychiatrists, but each psychiatrist should give his report separately. If these reports are conflicting, it will be up to the judge or magistrate who is trying the case to call for a third opinion. Provision is made for this in the Bill and that we therefore do not have to argue. That is the one aspect. During the Committee Stage I shall have the opportunity of arguing the case further should it become necessary. However, I am sure that when the Minister goes through the amendments, he will realize that what I say is desirable and I am sure he will agree to them. I did go into the matter more deeply and fully when we discussed it in the Second Reading stage in the 1973 debate. If one of the hon. Minister&#x2019;s assistants could read that through, he would see the full reasons why I am coming back to this point again.</p>
+
+<p>The next thing that I want to discuss with the hon. the Minister is the question of the disposal of the accused if he is going to be detained while his detention is associated with a mental disturbance. A prison is no place for these people. As we are placed at the moment&#x2014;I am talking about the present position and not about what may come in the future with the new Prisons Bill that the hon. the Minister has on the stocks. I am talking about now. If a man is going to be detained, either under observation or for any other reason, and he is mentally deranged, he must be transferred as quickly as possible to a mental hospital. A prison is a most undesirable place for him to be kept in, because he will have to be kept there alone, virtually in solitary confinement while he is awaiting transfer. The chances of his getting treatment while he is in prison are not very good. They will have to get a psychiatrist to see him every day and will have to have trained people to look after these people. I know all the difficulties that exist. All that I am asking is that they should not be kept in prison, but should be transferred to a mental hospital as quickly as possible. I do not want to anticipate legislation, but I do understand that provision is going to be made for prison hospitals to accommodate these people. If that is the case a lot of these problems are going to be solved, because in prison hospitals these people can be kept under observation and can be prevented from harming other people or themselves. That is very, very important.</p>
+
+<p>I quickly want to say one or two words about whipping. I see that the request I made on the 1973 debate appears now, to an extent, in this Bill. I want to say to the hon. the Minister that whether the whipping is going to be inflicted on a juvenile or on an adult, it is still necessary for that adult to be examined prior to the whipping. That is the first thing. The second is that I want both juvenile and adult to be medically examined after the whipping has taken place. This must occur at least twice after the whipping, the first time to see what physical injuries have been inflicted and the second time to see whether or not any internal damage has been done. I feel that the second examination must be done at least six or seven days after the whipping has taken place. These examinations can be done by the district surgeon, but the reports he makes are most important. The severity of the whipping and the effects thereof must be placed on paper and sent to the person who has ordered the whipping, so that he can then judge whether or not that whipping has been too severe.</p>
+
+<p>I am sorry that I cannot go on, because my time has come to an end, but during the Committee Stage I hope to elaborate more on what I have been talking about.</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>Mr. Speaker, the hon. member for Rosettenville quite correctly criticized the hon. member for Houghton for her attitude towards the people. I quite agree with the hon. member for Rosettenville.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>They will make you a commissioner-general!</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>Furthermore, I want to say to the official Opposition that it is only a pity that they did not adopt the same consistent attitude towards the Indemnity Bill. They <span class="col_3295-3296" refersTo="page_0241"/>did not support that Bill. Had they done it, it would have been consistent with their criticism this afternoon of the hon. member for Houghton.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>They are voting against this Bill.</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>I know they will vote against the Bill. I should like to quote from the speech of the hon. member for Umhlatuzana, more particularly from the concluding paragraph thereof&#x2014;</p>
+
+<block name="quote">This Bill contains a lot of what is known, established and desirable in existing criminal practice. It contains a number of new innovations, some of which I have referred to, which are welcome. However, it contains, unfortunately, come fundamental changes which go to the very heart of our criminal practice and which are undesirable.</block>
+
+<p>For those reasons the Official Opposition will oppose this particular Bill. We on this side of the House are also very unhappy about clause 115. It is basically because of this clause that the official Opposition is opposing this Bill. The hon. member for Umhlatuzana centred virtually his whole argument around clause 115. With all respect, I want to point out to the official Opposition that this Bill consists&#x2014;as they are aware&#x2014;of 345 clauses. To reject one clause in a Bill is not, we feel, sufficient reason to reject the entire Bill.</p>
+
+<p>I thought I heard one of the hon. members of the Opposition talk about principle. I want to tell the hon. members of the official Opposition that last night in Port Elizabeth we faced an audience of 200 people who endorsed the members of this group on principle. The person who proposed the motion of confidence in us was the most senior voluntary worker of the UP in Port Elizabeth, the senior vice-chairman of the Eastern Province region. They must therefore not talk to us about principle. [Interjections.]</p>
+
+<p>We are also opposed to certain aspects of this Bill, but we considered that the positive aspects of the Bill outweigh its negative aspects. In a short while I shall deal with those positive aspects. I should like to ask my friends, the hon. members for Green Point, Griqualand East and East London City, whether they know of a single case in which anyone of them were involved in which an innocent man has ever been found guilty. They have vast experience in the legal field; in fact, the three of them combined probably have 100 years of experience in the legal practice. Yet I am convinced that they cannot mention a single case where an innocent man has been convicted. My own experience is that the judges and the magistrates lean over backwards to assist the accused and to give them an absolutely impartial and fair trial. I am most unhappy with the provisions of clause 115, and by saying that I am not casting any reflection on the judiciary, even though I have absolutely no doubt that our judicial officers will act correctly at all times. But I believe this clause places the accused in a very invidious position, but I shall deal with the matter a little later.</p>
+
+<p>The Bill is different from the Bill which had such a rough passage in 1973 and eventually did not make the grade. This Bill is the product of three commissions plus certain Opposition suggestions which have been incorporated in the Bill before us today and which improve the legislation of 1973. Having established the legitimacy of the parentage of this draft Bill, I should like to deal with the legal profession, with whom this side of the House consulted. I think the Bill is a blue-print for criminal procedure and that a host of people will be affected by its implementation. In this regard I am thinking of the judiciary, the Department of Justice, the police, the magistrates, the prosecutors, the legal profession and all other citizens because of their vested interests in the Bill. A host of other people&#x2014;far too many to mention&#x2014;will be affected by the provisions of the Bill. We in this House must try to view the Bill objectively and to gain some insight into and consideration for all those who will be affected by it. The object of the Bill must be that the innocent must be found not guilty while those who are proved guilty, must be punished or cautioned, as the case may be. We have consulted organizations and persons in connection to the Bill and certain things have been made very clear to us. We have been told for instance that the Bill is a vast improvement and that it should be supported as it stands. Another opinion was that the Bill should be passed at the Second Reading, but <span class="col_3297-3298" refersTo="page_0242"/>that clause 115 in chapter 18 should be amended during the Committee Stage. Some members of the legal fraternity who want chapter 18 amended told me clearly that&#x2014; despite the fact that they were not happy with the chapter&#x2014;the Bill was such a vast improvement that we should, nevertheless, support it. A substantial body of the legal fraternity felt that the Bill was acceptable in its entirety. We in these benches will, under these circumstances, and as a result of our consultations, not oppose the Bill at Second Reading, but shall support it.</p>
+
+</speech>
+
+<speech by="#bell">
+
+<from>Mr. <person refersTo="hansard_za">H. G. H. BELL</person>:</from>
+
+<p>Who is that &#x201C;substantial body&#x201D;?</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>The hon. member for East London City wants to know who that substantial body is. I want to tell him that I have been in the UP caucus as long as he and we both know that in regard to justice matters, we consult a particular body. He also knows that we do not bandy names across the floor of the House. He and I have consulted the same &#x201C;substantial body&#x201D; and he got the same advice that I got, which is to support the Second Reading of the Bill. [Interjections.]</p>
+
+<p>The hon. the Minister mentioned that there were very real problems in getting transcripts typed in order to speed up the legal process. In view of the present unemployment situation I want to ask the hon. the Minister whether it is not possible to make use of our vast manpower resources in order to overcome this particular problem. The hon. the Minister will concede that delays in reviews can lead to extreme hardship. But in the prevailing circumstances of unemployment we have a wonderful opportunity to obtain top staff and to ensure that transcripts are typed without delay. Top staff are available throughout the country. The hon. the Minister mentioned that the cost of transcripts was approximately R1&#x00BD; million. But I think it is absolutely essential that the extra cost must be incurred to ensure that the transcripts are typed urgently. The number of transcripts for review may even be substantially reduced because in terms of the provisions of clause 302 senior magistrates with special qualifications will, under certain circumstances, not have their cases reviewed.</p>
+
+<p>Clause 115 is sufficiently important to warrant clarification and a search in depth at the Second Reading. This clause, as I understand it, allows a judicial officer to ask the accused in open court whether he wishes to make a statement indicating the basis of his defence, and to question an accused on the allegations in the charge. The accused who is represented by a legal adviser is protected to a large extent, because he has his legal adviser present to advise him. To that extent the accused has protection, but I am deeply concerned about the man who is not represented by a legal adviser on such an occasion, and in saying that, I am not casting aspersions on anybody.</p>
+
+<p>The accused may be an illiterate person or somebody who is not able to fend for himself. If he does not have a legal adviser, I believe he should be allowed the fullest protection that we can incorporate in this law. I believe that we should have written into this law a provision to the effect that the judicial officer must carefully explain his rights and the implications of this clause to the accused, and I should like to ask the hon. the Minister whether he will consider an amendment to this effect. I should also like to ask the Minister to consider an amendment to make provision for State aid for a legal adviser for the accused in cases where legal aid is not provided, and where clause 115 is applicable and the charge is of a serious nature. Clause 115(3) worries us because it implies that an adverse inference can be drawn when an accused declines to make a statement or to reply to a question. In other words, if an accused remains silent, it seems that an adverse inference can be drawn from his silence. Clause 115(4) is also a matter of some concern because a legal adviser has a mandate to speak on behalf of his client, and this provision may well have the effect of driving a wedge between a legal adviser and his client. I do believe that in this regard an amendment should be allowed. Mr. Speaker, I specifically raise these matters at this stage, because this is one clause which we believe needs the most careful consideration before we even reach the Committee Stage.</p>
+
+<p>I believe that once somebody is charged, the process of the law must operate like greased lightning. I say this because the cost of postponements and the wastage of manpower and time cannot be measured in terms of money and wastage of hours. I believe, <span class="col_3299-3300" refersTo="page_0243"/>therefore, that once somebody is charged, the law must operate as quickly as possible.</p>
+
+<p>Mr. Speaker, I want to make a plea for the offender who has committed an offence which is of such a nature that it is a contravention of a by-law or regulation made by a local authority, for example the various offences committed with motor vehicles. My appeal relates to the case where, after a person has committed an offence, and a peace officer decides that that offence falls under schedule 3 of this Bill, the peace officer notifies the offender in writing that if he pays within seven days, no prosecution will follow. For various reasons delays occur, and sometimes, for a very good reason, these people do not pay within seven days. I should therefore like to appeal to the hon. the Minister to extend the period of seven days to 30 days. It is my sincere belief that if we extend the period from seven to 30 days, we will obviate many thousands of court cases and save the State as well as all the parties concerned millions of rand. In fact, I would almost go so far as to say that the cost of the court cases in such matters is higher than the fines that are imposed. Mr. Speaker, I specifically raise this matter during the Second Reading because, as the hon. the Minister knows, these fines go to local authorities. All of us come from local authority areas and we know that the local authorities are battling and that they are short of money. I do not know whether the hon. the Minister has to refer back to the local authorities in this regard, but I believe that he would be doing all South Africans a service if he were to extend the period from seven to 30 days.</p>
+
+<p>We welcome the establishment of rehabilitation centres for convicted offenders of all races, as this will allow offenders to get even more specialized treatment than the treatment they are getting at present. The way we read this Bill, and more especially clauses 296 and 297, it appears that the intention is to cut down on the gaol population and to give certain types of offenders a chance to play a far more useful role in society.</p>
+
+<p>If we are correct in our interpretation of this, then we welcome this particular provision. We welcome the possibility of the increased jurisdiction of the magistrates as this will decrease our gaol population because we believe that cases can be heard much more expeditiously than if they were to be heard by a more superior court. In view of the decrease in the number of cases where superior courts have changed sentences of magistrates there seems to be a case made out for changing the system of review where senior magistrates have adjudicated and more specially where the advisory board established for considering appointees to regional courts have issued a certificate as to the quality of the senior magistrate concerned. This, of course, places a tremendous onus on the advisory board, the onus to ensure an exceptionally high standard. We are pleased that there is still the further safeguard in that in certain categories of cases there will still be an automatic review.</p>
+
+<p>The Minister of Justice who introduced the 1973 legislation made very heavy weather and the official Opposition proposed certain very useful amendments, amendments which have been included in the legislation we have before us today and improve the legislation. I must say, however, that I am slightly surprised at the official Opposition and the PRP party opposing the Bill today, and I will tell the House why. One of their most senior advisers was in favour of this Bill. During the debate in 1973, Prof. Strauss was quoted as an authority. This Prof. Strauss was, if I am not mistaken, one of the experts who served on the Kowie Marais Committee which drew up the principles of the PRP and the UP, principles which they both accepted. So I assume that Prof. Strauss must be a leading light in both these parties. If it was the same Prof. Strauss, I want to quote what he had to say (Hansard, Vol. 43 of 1973, cols. 4458 and 4459)&#x2014;</p>
+
+<block name="quote">South Africa&#x2019;s criminal procedure ranks amongst the best in the world and is something of which the country may justifiably be proud. All the amendments being proposed now are, what is more, very constructive ones.</block>
+
+<p>Now, if that is the same Prof. Strauss who has guided or misguided these parties, then his advice should be accepted today. From our side we realize that this Bill, like any other Bill which we debate in this House, will have its pitfalls, but it will only be in practice that these problems will manifest themselves and we are at this stage prepared to give this Bill an opportunity and will not oppose its <span class="col_3301-3302" refersTo="page_0244"/>Second Reading. We realize that year after year in the future there will be further amendments to improve upon the Bill as and when those problems manifest themselves.</p>
+
+<p>In conclusion, Sir, we would like an undertaking from the hon. the Minister of Justice that he will most seriously consider the problems raised in regard to clause 115 before the Committee Stage.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from>*Mr. <person refersTo="hansard_za">H. J. D. VAN DER WALT</person>:</from>
+
+<p>Mr. Speaker, I want to say immediately that I am not going to react to the speech of the hon. member for Walmer now. I think that we are pretty much in agreement with one another and if the other Opposition parties get any kick out of it, then let them do so. I accept that the best lawyers are sitting here on this side of the House. We consider that hon. member to be the second best lawyer in this House. However, I do not think that the hon. member for Walmer went far enough in regard to the so-called official Opposition in this House. Therefore I should like to return to the standpoints of the so-called official Opposition. However, before I do so, I should like to tell the hon. member for Houghton that she should look at literally every word she uttered in this House last night.</p>
+
+<p>I want to associate myself with the hon. member for Rosettenville and ask that the hon. member for Houghton explain to us in this House what the motives behind her speech of last night were. I just want to tell the hon. member for Rosettenville that since his arguments belong for the most part to the Committee Stage&#x2014;I think he will grant me that&#x2014;this side of the House will deal with them during the Committee Stage. The hon. member for Houghton can rest assured that the mere fact that she is a woman &#x2026;</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Oh, come off it.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from>*Mr. <person refersTo="hansard_za">H. J. D. VAN DER WALT</person>:</from>
+
+<p>&#x2026; will definitely inspire us on this side of the House to reply to her speech this very day. She will get her answers.</p>
+
+<p>I want to return to the hon. member for Umhlatuzana. In 1973 a criminal procedure Bill was introduced in this House, and last night we learned what the official Opposition&#x2019;s attitude was towards Mr. Justice Botha in 1973. Something about the official Opposition which makes one not only sick, but tired as well, is for example that the hon. member for Umhlatuzana should tell us in this House: &#x201C;Mr. Justice Botha is the man. We must do what he suggested in his report in connection with this legislation.&#x201D;</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>*Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>He did not say that at all.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from>*Mr. <person refersTo="hansard_za">H. J. D. VAN DER WALT</person>:</from>
+
+<p>The Bill we were dealing with in 1973, was Mr. Justice Botha&#x2019;s Bill. It was the outcome of the inquiry by the commission of which Mr. Justice Botha was the chairman. In the present Bill the clause at issue is clause 115. The equivalent of this clause in the Bill which we discussed in 1973, was clause 119. I make bold to say that the present clause 115 is a very much watered down version of clause 119. While the official Opposition are now invoking Mr. Justice Botha, I should like to ask if one of them will tell us whether they are prepared to insert into this Bill the provisions which were contained in clause 119. We cannot continue to argue in this place if we are faced with this type of argument. It is senseless; there is no sense in it. We are simply making fools of the legal profession&#x2014;and I am now speaking as a lawyer&#x2014;if we try to conduct debate along these lines here. I am expressing myself forcefully on this point and I also feel very strongly about it, because the hon. member for Umhlatuzana did precisely what a lawyer ought not to do. I want to leave that aspect at that and leave it to the discretion of every member in the House to compare the old clause 119 with the present clause 115 and then to ask himself: If we are to accept Mr. Justice Botha&#x2019;s recommendations, must we then, according to the official Opposition, go back to clause 119 of 1973?</p>
+
+<p>In the course of my speech, I want to return to a few of the so-called important arguments which were raised. However, I want to mention one important argument which, in my opinion, has not yet been sufficiently emphasized. We are dealing here with a piece of legislation which, as the commissions have worked it out, is aimed at making the legal process as complete but at the same time as brief as possible for various reasons. Even the hon. member for Houghton, with her whole humanitarian attack last night and in her so-called appeal to <span class="col_3303-3304" refersTo="page_0245"/>the voters of the country, did not consider the fact that thousands of people have to turn up at our courts every day to give evidence in some case or other. Those of us who know something about the practical side of it, know that the situation may arise where, due to the fact that the accused does not have to reveal his defence in a criminal case&#x2014;if I may put it that way&#x2014;the State has to subpoena many witnesses to be present at the court. In terms of manpower and money this involves the loss of literally millions of rands per annum as a result of the fact that witnesses are summonsed, and have to spend the whole day at court until the case comes up. It is not the prosecutor&#x2019;s fault that there are problems in getting the case on the agenda. But at that stage it may seem that the public prosecutor will not need all the witnesses to prove his case. Meanwhile those witnesses often spend days at the court just because the accused does not want to say what his reply is to the charge against him. I can quote what somebody wrote in the <i>Natal Mercury</i> on 29 October 1975, and this is definitely not the only person to feel uncomfortable about the matter. I mention just for the sake of the record that this person drew attention to this, and I am sure that if we go to the department, they will be able to give us the names of thousands of people who have drawn attention to the time lost in this process.</p>
+
+<p>However, we do not want to encroach upon the rights of the accused in the process, but nevertheless, as the hon. member said, we want to expedite the whole matter. The concept which we have now built into clause 115, is a procedure which the Opposition is so fond of calling a &#x201C;pre-trial&#x201D; or &#x201C;inquisitorial&#x201D; procedure. But we must also be logical in our arguments. The Botha Commission was faced with this dilemma and obviously it looked for a solution to the situation. After all, we have section 169(5) in the present Criminal Procedure Act which the commission most probably adopted as its starting point. I say &#x201C;most probably&#x201D;, but I am also prepared to say that they definitely adopted it as their starting point. The section provides that&#x2014;</p>
+
+<block name="quote">Together with his plea the accused may offer an explanation of his attitude in relation to the charge, or a statement indicating the basis of his defence, and such explanation or statement will be recorded and shall form a portion of the record of the case.</block>
+
+<p>We are therefore not introducing a completely foreign concept into the Criminal Procedure Act now. This is not a preliminary examination. Later on I shall have something more to say about the question of preliminary examination. Basically, it is quite simply an extension of the accused&#x2019;s plea. In our administration of justice we also have proof of the fact that when advocates or presiding officers made use of section 169, we achieved the favourable results which the section allows. For instance, in the case of <i>State</i> v. <i>Vermeulen</i> 1976 (1) S.A. 632, on page 626. Here the accused is charged with perjury. However, now we must bear in mind that clause 115 also provides for this. At the same time I want to say that the justice study group on the NP side also made a plea for the introduction of these things. Clause 115, like section 169 of the present Act, provides that the legal representative can plead on behalf of the accused and we asked that if this be done, the accused should simply rise and say that this is his plea. As regards the case I have already quoted, the accused was charged with perjury, and a plea was made on behalf of the accused. We must take note of the advantage this entails for the accused. He pleaded, or a plea was made on his behalf, to the effect that he had already been acquitted of the crime with which he was charged, and that in any event he was innocent. Secondly, he pleaded that he testified as was alleged, but pleaded that his evidence was the truth. All that happened here was that the points of difference to be concentrated on were immediately defined, and that all points not in dispute were admitted.</p>
+
+<p>Furthermore, with quite considerable personal satisfaction, I should like to quote an example from the most liberal of liberals. There are people in this House who are very well acquainted personally with the man to whom I am now going to refer. I want to refer to the case in which South Africa&#x2019;s arch-enemy, Peter Hain, was charged with theft in England. Hon. members&#x2014;and the hon. member for Umhlatuzana in particular emphasized this&#x2014;mentioned here that we should rather keep to the old English system, that we <span class="col_3305-3306" refersTo="page_0246"/>should not adopt too much of the European system &#x2026; [Interjections.] No, wait a moment! The hon. member for Mooi River knows nothing about this. The hon. member for Umhlatuzana said that we were trying to bring about a marriage here between the accusatorial and inquisitorial systems, something which would not work. However, the hon. member for Umhlatuzana was actually very concerned about the fact that we were actually going to throw the old British system overboard and introduce the European system. However, let us now look at what happened to the arch-liberal Peter Hain. I quote this example in order to show hon. members that we must not simply allow ourselves to be misled into considering the matter from one point of view only. We must realize that this procedure, which is a mere extension of the pleading procedure, also entails many advantages for the accused himself. I do not want to dwell on this for too long, but hon. members will know that Peter Hain &#x2026; [Interjections.] Yes, those hon. members do not like us to discuss this. However, I can brood on it a little if that is what they want. However, they will not like that much either. Now let us see what was said about this matter. Peter Hain was charged with theft, and in terms of the system he was not allowed to expand on the matter or to explain his side of the matter as regards the charge against him. Hon. members ought to know about this. After all, they all read <i>The Cape Times. The Cape Times</i> of 29 October 1975 carried the following report in regard to the matter. This is what Peter Hain had to say&#x2014;</p>
+
+<block name="quote">He told reporters outside the court that he had expected to be able to plead not guilty.</block>
+
+<p>Very well, let us carry on.</p>
+
+<block name="quote">He felt concerned that he had not been able to place on record in court the fact that he was not guilty. &#x201C;I found the proceedings as bewildering as you did.&#x201D;</block>
+
+<p>His attorney, Mr. John Dundan&#x2014;</p>
+
+<block name="quote">&#x2026; issued a brief statement after the short hearing in which he described the case as one of mistaken identity. &#x201C;It is as simple and terrible as that&#x201D;, Mr. Dundan said.</block>
+
+<p>This simply means that had that man been allowed to make use of a right such as this, or a privilege such as this, he could have put the facts at issue straight there and then and it would not have been necessary for the Press of the whole world to announce the following day that Peter Hain had been charged with theft.</p>
+
+<p>That is how simple it is. This is precisely what we want to do. We are not dealing with a system of preliminary examination here. Definitely not. I want to point out to hon. members that the whole question of preliminary examination, interrogation and everything it entails, is not a new dispensation in the legal system of South Africa. As long ago as 1926, in the case of <i>Rex</i> v. <i>Keeves</i> (1926 A.D. 410), it was decided that the trial begins as soon as the accused is asked to plead. According to this Bill the accused pleads as part of the proceedings. In other words, when he pleads the trial begins. It is not a preliminary examination situation because the trial is already under way. I simply want to say to those who want to make an inquisitorial situation of this, that the fact that the accused is allowed to reply to the questions orally or in writing through his legal representative, surely indicates that what we have here is definitely not a preliminary investigation situation.</p>
+
+<p>I want to deal with one further aspect. The hon. members for Umhlatuzana, Durban North and various others argued as if a judge&#x2019;s position in our legal system was simply that of a referee, viz. that the judge simply sits there, listens to the two sides and then blows the whistle and gives his decision. After all there is nothing like this in our legal system. Hon. members surely realize and are aware that a judge is part of the system. He is part of the court. For the sake of completeness I want to point out that it was only in 1917 that we first got a real Criminal Procedure Act and gave it a trial. Hon. members can read the debates and reports on it. Mr. Justice Curlewis said in the case <i>Rex</i> v. <i>Hepworth</i> (1928 A. A. 265, on page 277)&#x2014;</p>
+
+<block name="quote">&#x2019;n Strafsaak is nie &#x2019;n spel waarin die een kant die voordeel kan opeis van elke fout of versuim van die ander kant nie, en &#x2019;n regter se posisie daarin is nie bloot die van &#x2019;n beoordelaar wat toesien dat die reëls van die spel deur albei die kante in ag geneem <span class="col_3307-3308" refersTo="page_0247"/>word nie. &#x2019;n Regter is &#x2019;n regspreker, hy is nie &#x2019;n strooipop nie; hy moet nie alleen die verrigtinge lei en beheer nie, maar ook toesien dat reg geskied.</block>
+
+<p>If we accept this position of a judge or presiding officer in the South African legal system, we must also accept&#x2014;we cannot do otherwise&#x2014;that we are not dealing here with a system of preliminary examination, but with a procedure aimed simply at clarifying the points of difference, and all the arguments of that side of the House fall away and there is no reason why we should conjure up spectres in respect of the matter. I do not have the specific Press report, but I want to put it as did the late Mr. Justice Harcourt and Mr. Justice De Vos Hugo, too, viz. that we must give the system a chance and see what happens. We must bear in mind that these judges were reacting to the old clause 119 and not to the present clause 115.</p>
+
+<p>We in South Africa have reached a stage of maturity as regards our criminal law procedure. We no longer need to borrow so much from other legal systems, because we have built up our own system, created our own traditions and have a judiciary which is not only highly regarded throughout the world, but is also treated with a great deal of respect. Therefore we can quite confidently leave this experiment to those presiding officers, and we shall see that this is going to be of great benefit to South Africa.</p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr. <person refersTo="hansard_za">D. J. DALLING</person>:</from>
+
+<p>Mr. Speaker, the hon. member for Schweizer-Reneke, who has just sat down, asked very early in his speech what the motives were of the hon. member for Houghton in her speech last night. It should be clear from the record of that hon. member in this House and in her political career in South Africa that her motive, particularly in relation to this Bill, is that she wants a good law, a fair law, a law which protects the individual citizen. When discussing the case of the British demonstrator, Mr. Peter Hain, I do not think that the hon. member, in putting the point to us, missed a point in our South African law and that is that a statement at the time of plea is already permissible in our present criminal code. All I have to do is to quote section 169(5). I quote&#x2014;</p>
+
+<block name="quote">Together with his plea the accused may offer an explanation, etc, etc&#x2026;.</block>
+
+<p>In terms of this Bill before us the accused cannot avoid the questioning.</p>
+
+<p>I wish to refer for a moment to the speech of the hon. member for Rosettenville who, from what I heard of his speech, seems to be in full agreement with the whipping of people as a punishment. All that he asks is that there should be medical examinations before and after the whipping. I did not, however, hear from that hon. member one word against whipping itself. I can only presume that that hon. member wants whipping, that he approves of it and that medical examinations are merely there for recording the findings relating to the injuries. I believe it should be said in this House that there are hon. members here who believe that whipping remains a barbarous punishment indeed.</p>
+
+<p>I also wish to refer to the few words uttered by the hon. member for Walmer. I am sorry that he chose to attack the hon. member for Houghton today. He did not hear her speak last night. He probably has not even read her speech. It seems to me, however, that that hon. member is so used to disagreeing with the hon. member for Houghton that attacks of this kind are second nature to him, irrespective of the merits of the case. If I may say so, I am not at all surprised that he and his colleagues on those benches are supporting the Bill at Second Reading. The only thing that puzzles me is why these six hon. members, who continually support the Government, do not do so from the benches on the other side of the House. [Interjections.] They do so regularly from where they sit under the guise of Opposition. When I recall the critical speeches made last year by the hon. member for Walmer&#x2014;very fine speeches, if I may say so, which were critical of Government action&#x2014;I find it very odd at this moment to note his intimacy with the Government side.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! I have now allowed the hon. member to go far enough with that point.</p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr. <person refersTo="hansard_za">D. J. DALLING</person>:</from>
+
+<p>I shall depart from that point, and accept your ruling, Mr. Speaker. I should like to make a few general remarks in regard to the Bill. This debate has <span class="col_3309-3310" refersTo="page_0248"/>lasted several hours and I think that most of the main points and the clauses in the Bill have been fairly well canvassed. If this debate has done nothing else, I think that once again it has demonstrated and revealed to all of us here the fundamental differences of approach to the law existing between the Opposition and the Government. What are those differences? Contrary to the allegations made in this House yesterday and today, we do not seek freedom for criminals. We accept that effective procedures are essential to ensure that criminals are brought to book and that society is protected against those who seek their ends at the illegal expense of others. But we always remember that society, the State, is nothing more than a community of individuals, who through accepted process exercise a common intent.</p>
+
+<p>We recognize the fact that the State loses its true reason to exist if, in that State, the individual loses his identity and is immersed in the machinery of the State. Therefore, in relation to law we look to the interests of the individual and to the interests of the community as well, but we never look to the interests of one to the detriment of another. In other words, in a country in which the dice are loaded in favour of the State and against the ordinary citizen, there will always be a need for further and more stringent laws. Our attitude towards the Bill reflects our consistency in that viewpoint. We do not wish to be a party to the creation of an enactment and a criminal code which is impotent in its ability to deal with those who choose to seek their ends outside the laws of proper human behaviour, but, on the other hand, we cannot support a system which radically changes past and tried practices and, which in changing those practices, tips the scale irrevocably away from the interests of the individual and towards the interests of the State. My hon. colleagues have already mentioned the major clauses concerned, but there are other examples of this in the Bill as well. For example, if I might mention a few, the Bill eliminates section 98 from the existing criminal code. Section 98 of the existing criminal code reads as follows&#x2014;</p>
+
+<block name="quote">Subject to the provisions of section 108<i>bis</i> and any other law, a superior court having jurisdiction in respect of any offence may at any stage of any proceedings taken in any court in respect of that offence, release the accused on bail.</block>
+
+<p>This section, as it stands, means that an accused person who has failed in his bail application to a lower court, may make application <i>de novo</i> to a superior court subject to the right of the Attorney-General, in special circumstances, to prohibit bail. This is a limited but a well-honed right and a protection, for the Supreme Court does not usually exercise its discretion easily in favour of an applicant, certainly not unless it is proved that the magistrate exercised his discretion wrongly. This built-in protection is now removed and the right to make a single application to the lower court on a particular set of facts&#x2014;if the lower court is the court of first instance&#x2014;is all that remains.</p>
+
+<p>Clause 65 of the Bill retains the right to appeal to the Supreme Court against the refusal of bail, but anyone who practises in our courts will know that there is a vast difference between the procedure on appeal and the procedure on a straight application to the Supreme Court. On appeal one has to wait for the magistrate&#x2019;s written reasons for the refusal. Only argument on that which is contained in the record, is allowed and one cannot go beyond or outside it or call evidence. It is a vastly inferior procedure to that which is presently in existence. It has often happened, in my experience, that an accused who has failed to obtain bail in the lower court and, after having gone to the Supreme Court, has succeeded in getting bail, is found not guilty many months later and is eventually discharged. This is just one aspect which tips the scale against an accused and which will place many people, over a number of years, behind bars for periods of time while they are innocent of any crime.</p>
+
+<p>Another such provision is found in clause 112(1). The lawyers in this House&#x2014;and this has already been commented on&#x2014;will know what I mean when I say that this clause effectively excludes evidence <i>aliunde</i> from being heard as a matter of principle in our courts. Convictions are now possible on all offences, except those carrying the death penalty, on the plea of guilty alone, unsupported by any independent evidence whatsoever. I do not believe that we in this House, or even members of the Opposition, should be slaves to the Botha Commission, but in <span class="col_3311-3312" refersTo="page_0249"/>line with the recommendations of that commission, clause 112(1)(b) provides that in more serious offences the presiding judicial officer shall question the accused prior to conviction and sentence. The practice up to now has always been that where an accused pleaded guilty, the court still had to be satisfied that there was evidence of the offence, which evidence had to stand on its own two feet other than the accused&#x2019;s plea and other than the accused&#x2019;s own evidence. There are very sound reasons for this. Firstly, and particularly in the courts of law in Africa, the vast majority of accused persons appearing in our courts are relatively uneducated and certainly ill-equipped &#x2026;</p>
+
+</speech>
+
+<speech by="#krijnauw">
+
+<from>*Mr. <person refersTo="hansard_za">P. H. J. KRIJNAUW</person>:</from>
+
+<p>That is the old story!</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>But it is true!</p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr. <person refersTo="hansard_za">D. J. DALLING</person>:</from>
+
+<p>Mr. Speaker, the hon. member over there says, &#x201C;that is the old story&#x201D;. It may well be an old story, but just because a story is an old one, that does not derogate in any way from its validity. Vast numbers of people who come before our courts are relatively uneducated and are ill-equipped to cope with legal jargon and the niceties of the law. Many people who have passed through my offices&#x2014;and I am sure through the offices of other lawyers in this House&#x2014;have, prior to seeking advice, thought themselves guilty of an offence, when in reality their actions or omissions were not culpable at all. Another reason for insisting on independent evidence relates to the assessment by the judicial officer of the gravity of the offence. There are, for instance, thefts and thefts. Some are far more serious than others. The best method of obtaining the facts is through evidence offered by the State under oath. I believe that the elimination of this principle knocks the presiding officer, particularly in the lower courts, off the pedestal of neutrality and places him, unwittingly perhaps, in the position of being an assistant to the prosecution and into the arena of the trial itself.</p>
+
+<p>Let us look, Mr. Speaker, at one further example which I quote as a tipping of the scales towards the State and away from the individual. Clause 148 relates to the constitution of a special superior court to hear charges relating to State security or to the maintenance of public order. This clause now provides, quite contrary to the existing principle, that there will be no verdict if the three judges who hear the case are not unanimous, and that the accused may be tried again. If the majority of the court, two of the three judges for instance, are therefore of the view that nothing has been proved against the accused, he is now not entitled to a verdict of not guilty or entitled to be acquitted, but can in fact be tried again. I can see no justification for this innovation in our law. Scores of cases, including cases revolving around State security, are tried in our courts every year, in which a majority decision of the court has prevailed. If either the State or the accused person are dissatisfied or aggrieved by the verdict, prescribed rights of appeal are available to both sides, but to put an accused who is found not guilty by the majority of a court, perhaps after a long trial, to the expense and trauma of yet another trial in this striving towards unanimity of the court, goes in my view beyond the bounds of that which is fair. I believe that if the majority of the court finds in favour of an accused, the verdict should be not guilty.</p>
+
+<p>The hon. member for Durban North expressed his alarm at the way in which inquisitorial procedures have been grafted onto an accusatorial system. He has, on our behalf, stated his opposition to the lack of rights available in this Bill to awaiting-trial prisoners. He has protested at what he calls &#x201C;trial by police docket&#x201D;. The hon. member for Houghton has expressed strong opposition, <i>inter alia,</i> to the provisions relating to the detention of witnesses, to the provisions which allow of the killing of escaping suspects as also to the continued wide use of capital and corporal punishment.</p>
+
+<p>I have tried, Mr. Speaker, to show that this Bill, in the few examples that I have quoted and in its many clauses, weights the scales unnecessarily in favour of the State and against the individual. I think we can agree that it is undesirable that guilty people go free. But is the existing criminal code the cause of that situation, if such a situation exists? Or is the cause to be found in another problem? Last year, if I may put it to you, in an answer to a question put by me, the hon. the Minister made known that in June 1976, and I quote from his reply to my question&#x2014;</p>
+
+<block name="quote"><span class="col_3313-3314" refersTo="page_0250"/>There are 509 prosecutors in the magistrates&#x2019; courts, excluding regional courts. 76 of them are legally qualified. Of the 433 prosecutors without legal qualifications, 163 are police officials.</block>
+
+<p>In other words, Mr. Speaker, our courts in fact are largely staffed by unqualified people.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>But they have the experience.</p>
+
+</speech>
+
+<speech by="#dalling">
+
+<from>Mr. <person refersTo="hansard_za">D. J. DALLING</person>:</from>
+
+<p>People who have the experience in many cases, yes, but the qualifications, no. I have, and I am sure there are other attorneys in this House who have the same experience, on more than one occasion seen an acquittal occur due entirely to faulty police investigation or to the incompetent prosecution of a case. Is that not where the fault perhaps lies, rather than in the existing criminal code? If that is the case, Mr. Speaker, is not the hon. the Minister trying to plug the gaps in the acquittals by weighing the procedures rather than by striving for greater efficiency in investigation and prosecution? In the light of all the above, we will persist in the amendment proposed by the hon. member for Durban North.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>Mr. Speaker, the sum total of the speeches of the hon. member for Sandton and of the two other members of his party who spoke, indicates a desire on their part to portray this Bill as an unfair one and, in the words of the member who has just sat down, even as one which now tips the balance in the favour of the State and places the accused in a criminal case in an unfair position in which he is virtually left to the mercy of an unfair Act.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>*Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>The hon. member for Houghton confirms it. However, Mr. Speaker, we are used to this negative approach by now. I think it is necessary to rap them on the knuckles because they neglect to mention, in the same breath, the counterbalancing factors in favour of the accused. They lay great stress on the fact that many of the people who appear in court are illiterate and in no position to look to their own interests, but they neglect to emphasize that we have a constantly developing legal aid system which is geared to granting legal aid to the maximum possible number of persons who have committed serious crimes and a growing number of other crimes. The purpose is specifically to eliminate that deficiency. They make mention of the fact that finding a person innocent in a State security case, in terms of clause 148, when there is no unanimous decision, is unfair towards the person who is found innocent. However, they neglect to say that the person who is found guilty on a non-unanimous court ruling is benefited by this clause because in future he will have to be found guilty on an unanimous decision. I could go on in this vein by showing hon. members, in respect of each of their complaints, that the balance which they claim is absent, is in fact built into this Bill.</p>
+
+<p>The most important aspect they neglect to mention, when discussing this Bill, is that it is administered by a refined, well-trained body of presiding officers, magistrates and judges who have built up a tradition of outstanding fairness and justice, even by world standards. Our legal system and the quality of the administration of justice by our presiding officers are held in the greatest possible esteem, even by our enemies in the world. It is these people who are going to implement the legislation. It is no Gestapo which is going to implement it. It is not a group of inquisitors with black masks who are going to implement this legislation. These are people who have always looked after the interests of the uneducated who comes into court and who have always ensured fair trials in South Africa. Because of the way they debated this Bill, the party opposite stands accused of displaying reckless disregard for South Africa&#x2019;s interests when it comes to our legal system and the fairness of that system. On the other hand, I want to say that this Bill complies with every demand which can be made of any fair law of procedure.</p>
+
+<p>Various definitions have been suggested. A very authoritative definition is that it will have to satisfy three conditions. The first is that of a quick conclusion. Several speakers on this side have indicated to what extent this Bill will speed up the conclusion of criminal cases. The second test is that costs must be as low as possible so that a man can defend himself or obtain legal aid. Several speakers have pointed out improvements in this regard. <span class="col_3315-3316" refersTo="page_0251"/>Time is money, and if we save money we lower costs.</p>
+
+<p>The final test is that there should be justice for both parties. Those hon. members do not want to acknowledge that until now the balance has, to a certain extent, been tipped against the State and in favour of the accused. Let us make a few comparisons between the law of civil procedure on the one hand and the law of criminal procedure on the other. Why are there pleadings in civil procedure? Their purpose is simply to get the facts in the dispute outlined so that one knows what is at issue and on what points there is agreement when the court case begins. Until now there has not been a procedure like this in our criminal procedure. All that clause 115 is doing is to insert such a procedure. After all, the presiding officer&#x2014;the judge or magistrate&#x2014;does not have an absolutely free rein when it comes to the questions he may put to the accused. The legislation contains the instruction that he is to limit his questions to determining only which facts are in dispute and which are not. The sum total of this, is simply another system of pleadings with the aim of learning from both sides, before the case begins, on which points they agree and on which they disagree. Once this has been established, the case begins. As far as the progress of the case goes there is not one really new principle in this Bill. The progress of the case remains the same, because the trial system we have has always been a satisfactory system. It was unsatisfactory, however, that the accused could remain silent and wait to see, for example, whether the prosecutor would forget to prove that he had driven the car, because the prosecutor still had the dossiers of 10 to 20 cases to look at that day and was consequently under pressure. If the prosecutor does not prove that the accused drove the car, the accused walks away scot-free whilst he, his attorney and the whole world know that he did drive the car and was, for example, under the influence of liquor. This provision is being introduced in order to eliminate acquittals on the basis of technicalities. I do not think any lawyer ought to oppose this because to have someone acquitted on a technical point is a hollow victory and is not an assurance that justice did, in fact, prevail. Justice demands that the guilty shall be punished and the innocent go free. In its implementation by our presiding officers who have created such a splendid tradition and have received such good training, the system will ensure that justice prevails to a greater extent than the old system did.</p>
+
+<p>I agree with the hon. member on one point, and that is&#x2014;fortunately I would say&#x2014;that there is a gigantic rift between our thinking and theirs on this matter. This is best illustrated by the speech the hon. member for Houghton made yesterday. Her speech was a manifestation of the impossibility of bridging that gap.</p>
+
+<p>I very briefly want to try to summarize our standpoint by saying that as far as the criminal procedure legislation is concerned, the National Party proceeds from the standpoint that authority must be maintained and that for the sake of law and order, and for the sake of the community, we must advocate and implement a dispensation in which discipline and order will play a large role. I therefore believe that the greatest amount of legal certainty must be obtained in the field of criminal law and criminal procedure and that the accused who is found guilty should be fairly but properly punished. I want to place particular emphasis&#x2014;because the hon. member for Houghton did so yesterday evening&#x2014;on the aspect of sentencing and punishment. I said that we should like to establish legal certainty. We want to do this by way of a fair trial in which, as far as possible&#x2014;in fact as close to 100% as possible&#x2014;the guilty party is found guilty and the innocent party goes free. I have already dealt with this and I am not going to elaborate further. Moreover, we want to ensure the just imposition of punishment by way of balanced sentences which do not make a joke of punishment but do ensure law-abidance. We find strong support for this position of ours in the report of the Viljoen Commission. We were reproached by the hon. member for Houghton yesterday evening for not having accepted every recommendation of the report of the Viljoen Commission.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>No, I never said that. I said notwithstanding the recommendations, in some cases they were ignored.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>She is fond of ignoring recommendations of the Viljoen Commission&#x2019;s report if they do not suit her. <span class="col_3317-3318" refersTo="page_0252"/>I want to put it to you, Mr. Speaker&#x2014;on the question of punishment&#x2014;that the Rumpff Commission found, as early as 1969, that the community accepts that the following constitute the essence of punishment&#x2014;and a little later I want to apply this to corporal punishment, capital punishment and other aspects which the hon. member for Houghton mentioned: (1) the protection of the community; (2) the deterrence of others; (3) the deterrence of the individual who is punished so that he will not repeat his behaviour; (4) the improvement of the criminal; and (5) retribution. We find support for this amongst academics as well. In Mr. Justice Viljoen&#x2019;s report we find an expert, Professor Joel Feinberg, stating the following about punishment&#x2014;and I should like the hon. member for Houghton to listen carefully to this.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>I have read the report.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>He said&#x2014;</p>
+
+<block name="quote">What distinguishes punishment from alternative modes of response is that it is a form of deliberately hard treatment that expresses blame and condemnation. It is a forceful and emphatic way of impressing upon the wrongdoer the public judgment that he has done wrong and that society resents him for it.</block>
+
+<p>Does the hon. member&#x2019;s problem not lie in the fact that she does not resent the wrongdoer for what he does, but sees him, particularly when it comes to certain crimes, as the aggrieved party and the State as the &#x201C;wrongdoer&#x201D;? She feels that the man who needs protection is the man who wants to incite unrest and that the real culprits in this matter are the police and the State who want to maintain the existing order and promote an ordered community.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>*Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>Yes!</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! The hon. member for Houghton cannot reply to every point.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>I find expressed in these two quotations what I consider to be the general view of this side of the House on punishment and sentencing, but this does not for one moment mean that we want to maintain a rigoristic and vindictive sentencing policy.</p>
+
+<p>Justice is just as important to us as to anyone else and one need not be a member of the PRP to be able to say that one advocates justice. We, too, advocate fairness and humaneness and still regard this as the basis for the imposition of sentences. When it comes to imposing sentences, we do not find our guarantee of justness and fairness in making the sentences so light that they can have no force behind them. We find the guarantee for fairness and justness in the fact that our presiding officers, with the discretion they have in the vast majority of cases, are perfectly capable of determining in which instances mitigating circumstances exist and in which instances they do not, and of imposing a decent, fair and just sentence within the framework of the maximum sentence allowed. We find this tradition illustrated&#x2014;if we must spell it out for the benefit of the hon. member for Houghton&#x2014;in the report of the Viljoen Commission, in which the learned judge explains to us so beautifully what distinction is made, in cases where the death sentence is passed, between someone charged with mercy killing, which is, in fact, also murder, and someone charged with an abhorrent and malicious crime. In the report the concept is employed that the mitigating circumstances are credited to the accused but that the maliciousness and malevolence are debited to him and that the presiding officer, at his own discretion, decides which case deserves mercy and which case deserves punishment which will indicate the discontent of the community, which will, at the same time, deter the accused from committing that same crime again and will effectively deter others from committing the same crime. Finally, the concept is employed in the report that the accused, by way of the punishment imposed upon him, is called to account for the crime he committed.</p>
+
+<p>The hon. member said that South Africa is a country in which the balance is tipped in favour of the State and against the individual.</p>
+
+</speech>
+
+<speech by="#boraine">
+
+<from>*Dr. <person refersTo="hansard_za">A. L. BORAINE</person>:</from>
+
+<p>Yes, that is true.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>Looking at the problems certain individuals create for us, and at the absolute freedom enjoyed here, I <span class="col_3319-3320" refersTo="page_0253"/>believe that this is a statement which cannot be proved, and I want to call them to account here today for having put South Africa in a bad light by their handling of this Bill. In the short time I still have at my disposal I want to say a word or two about a few of the specific charges made yesterday evening by the hon. member for Houghton. She made a tremendous song and dance about corporal punishment. She referred to this archaic form of punishment&#x2014;and she not only insinuated this; she stated it emphatically, as it were&#x2014; we want to see applied, on a virtually racialistic basis, particularly to Blacks. She said that. I see the hon. member for Sandton is frowning. I do not know whether he was here when the hon. member for Houghton spoke. She said&#x2014;</p>
+
+<block name="quote">It seems to me that the hon. the Minister and the Government set great store by this archaic form of punishment, especially as far as Africans are concerned.</block>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>Mr. <person refersTo="hansard_za">F. J. LE ROUX (Brakpan)</person>:</from>
+
+<p>She prefers not to listen!</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>Mr. Speaker, the hon. member has once again forgotten what the Viljoen Commission had to say on these matters. The commission investigated the question of corporal punishment very thoroughly. After stating very clearly that attention has to be paid to various factors when the presiding officer applies his discretion and decides how and when to apply corporal punishment, the commission nevertheless made the following recommendation&#x2014;</p>
+
+<block name="quote">After weighing all the considerations carefully, the Commission is firmly of the view that the retention of whipping as a form of punishment for both adults and juveniles is justified subject to the following limitations &#x2026;</block>
+
+<p>And then certain limitations are listed, the vast majority of which have been incorporated in the Bill. The most important aspect, which the hon. member for Houghton ignores, however&#x2014;and she says she is a democrat and her party says we must canvass Black opinion to a far greater extent than we do at present&#x2014;is that this commission gauged the Black opinion on corporal punishment and gave its findings in that regard. What she refers to as barbaric forms of punishment are viewed in a different light by the Blacks. To refresh her memory I should like to quote to the hon. member what the Black witnesses before the Viljoen Commission said about corporal punishment. They said&#x2014;</p>
+
+<block name="quote">The question of corporal punishment remains a controversial issue in this country. In contrast with the views as detailed the Blacks, in evidence before the Commission, were almost unanimous that this form of punishment is regarded in their circles as most effective and, as a deterrent, one to be employed by the courts in more cases.</block>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>And that is the Makgotla!</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>That is not the Makgotla, Mr. Speaker. I shall read to her a little later what the commission said about the makgotla. Here it is a matter of corporal punishment as an effective punishment and the Black witnesses before the commission said that it ought to be applied more often. However, the hon. member for Houghton says it is barbaric. In this regard she is turning her back on the opinion of the Blacks and rejecting it, appointing herself, in her typical paternalistic and liberalistic manner, as a better interpreter of Black opinion than the Black man himself. The hon. member spoke of the Makgotla system. The commission has dealt exhaustively with the Makgotla system. Yesterday evening the hon. member for Houghton launched a vehement attack on it and said we dare not even have a look at it. It is an intricate matter and there are various opinions about it. Any inclusion of the Makgotla would, according to the report of the commission, have to be done by linking it up with the existing reservist system. What is important is that a judge of the Supreme Court&#x2014;the Supreme Court which hon. members are always so eager to drag into their &#x201C;judicial commissions of inquiry&#x201D;&#x2014;said about the Makgotla, what the hon. member for Houghton dismisses as barbaric&#x2014;</p>
+
+<block name="quote">In so far as repressive measures are necessary these could be undertaken with the collaboration of the community.</block>
+
+<p><span class="col_3321-3322" refersTo="page_0254"/>Then he says the important words&#x2014;</p>
+
+<block name="quote">If the Kgotla is substantially representative of the community, it could be involved as well.</block>
+
+<p>The judge who heard evidence&#x2014;amongst the urban Bantu as well, those Bantu who are no longer in the homelands&#x2014;sees room for inclusion of the Makgotla, as far as the urban Bantu are concerned, because it is traditional to these people, a tradition which is implemented by them at present, even at the risk of police prosecution.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>So are ritual murders, you know!</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>In the whole story of the Makgotla there is a very costly lesson for the hon. members on my right to learn, and that is that they are harbouring illusions if they think that the urban Bantu, in their view of punishment, of discipline and of the maintenance of law and order, have drifted away from the traditional views of the land of their fathers and of their people.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>What about ritual murders? Are you in favour of those too?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order! The hon. member for Houghton must now really obey my orders.</p>
+
+</speech>
+
+<speech by="#de_klerk">
+
+<from>*Mr. <person refersTo="hansard_za">F. W. DE KLERK</person>:</from>
+
+<p>The hon. member for Houghton wants to discuss capital punishment. I do not think this debate is the time or the place to go into that in any detail. A basic mistrust of our courts has once again been reflected in her attitude towards capital punishment. The hon. member for Houghton did not recognize the fact that the number of people who are found guilty of murder differs largely from the number who are hanged. The hon. member did not recognize the fact that capital punishment is implemented with great circumspection in South Africa. Nor did she recognize the fact that we have a refined system of reprieve which is applied fairly and effectively. The hon. member neglected to say&#x2014;although she acknowledged this after an interjection&#x2014;that a number of States in America, the country which probably puts the highest premium in the whole world on freedom, still maintain the death penalty. In her view of capital punishment she once again emphasized a personal view and tried to portray us as people who impose the death penalty left, right and centre and do not care in the least whether justice prevails in the process. The hon. member indirectly tried to imply that the more people hung the better, as far as the National Party is concerned. On the contrary, in reality this is implemented with great circumspection and our attitude is that it is an effective punishment based on our traditions, a very potent punishment, a punishment we can confidently leave in the hands of our courts.</p>
+
+<p>In this Bill we have the product of the studies of various commissions, the hard work of several senior officials and highly educated people and now the sweat of many hon. members of this House as well. I think we take the results of all that work and very confidently say that probably no other Bill that will ever be passed by this House will receive such competent advance consideration as this one has.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>Mr. Speaker, the approach of the hon. member for Vereeniging, save for the criticism which he levelled at certain addresses in the House on this particular Bill yesterday, is to me somewhat extraordinary, because the issue at stake here is not the question of the integrity or the high standard either of the officialdom associated with justice or of the Bench. On the contrary, we appreciate that this Bill is a very important one because it is endeavouring to consolidate, to revise and to amend certain aspects of our criminal law and procedure, which over the years has from time to time been subject to revision and amendment. The Bill endeavours to bring it up to date in the present era in which we live. In that sense we welcome the Bill as a Bill, but we do not welcome certain provisions in it, more particularly clause 115, because we feel that that is an innovation which goes to the very heart of the entire system of justice in this country, that justice which we have traditionally accepted as our standard. On those grounds we therefore feel that we have every justification to oppose the passage of the Bill. I think that it has been contended both by the hon. the Minister and the hon. member for Schweizer-Reneke that the provisions in <span class="col_3323-3324" refersTo="page_0255"/>clause 115 bring about a substantial change to a similar provision of the 1973 Bill. I maintain that if one looks very carefully, the provisions of 1973 and those of 1977 are virtually the same, because apart from the fact that the magistrate has a partial discretion, he also has an obligation to ask certain questions. If the hon. the Minister will follow me on that point, I want to quote from clause 115(2)(b), as follows&#x2014;</p>
+
+<block name="quote">The court may in its discretion put any question to the accused in order to clarify any matter raised under subsection (1) or this subsection, and shall inquire from the accused whether an allegation which is not placed in issue by the plea of not guilty, may be recorded as an admission &#x2026;</block>
+
+<p>There is in other words an imposition on the court to ask certain questions. In that sense it becomes an inquisitorial system, as has been so eloquently demonstrated by the hon. member for Umhlatuzana, and introduces a completely new innovation in our approach to criminal procedure in this country in arraigning an accused before our courts. In that sense it becomes a fundamental principle of this Bill and therefore I think that we have every justification, in not agreeing to this new system, to oppose the Bill in the amendment we have moved. Beyond that nothing is at stake and it is not necessary to invoke any emotional approach to this Bill. The Bill generally complies with the standards which have been set over the years. It must be borne in mind that we have a very proud record when it comes to our standards of justice in this country. We must also particularly bear in mind the high standard of our Bench.</p>
+
+<p>It has been suggested in the course of the evidence before the commission that many of those who could be found guilty escape through the net as a result of the ability of defence lawyers, technicalities which are missing in the presentation of a case or in the technical formulation of a charge, and that, in order to bring those people back into the net, we require an inquisitorial system. I feel that that particular motive is not a very sound and healthy motive. I want to go further than that because I do not want to rely only on a personal opinion, an opinion from one&#x2019;s own particular experience or an opinion based on one&#x2019;s own conclusions in this regard. Let us also see exactly what the late hon. Justice Botha, who presided over this commission, had to say. I think he delivered a very fine report indeed. He says the following on page 9 in paragraph 1.26&#x2014;</p>
+
+<block name="quote">I am even less convinced that the inquisitorial procedure of Europe is to be preferred to the accusatorial system for South Africa with its heterogenous population. The proposal cannot therefore be supported at all.</block>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>On what page is that?</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>It is on page 9 in paragraph 1.26.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>This has nothing to do with that system at all.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>The commencement of the paragraph reads as follows&#x2014;</p>
+
+<block name="quote">Another supporter of the basic idea of Mr. Justice Hiemstra&#x2019;s proposal made a plea to the commission for the complete substitution for the accusatorial system in South Africa of the French inquisitorial system on the grounds of an allegation that the latter system ensures the release of innocent prisoners with less delay.</block>
+
+<p>That is another method of looking at it&#x2014;</p>
+
+<block name="quote">Of this I am not convinced. I am even less convinced that the inquisitorial system of Europe is to be preferred to the accusatorial system for South Africa &#x2026;</block>
+
+<p>That is the whole essence of this particular clause, because clause 115 converts the entire approach to an inquisitorial system. It enables the magistrate or the presiding officer to make inquiries into certain matters in which the accused may well supply any technical defect in the charge which is preferred. The hon. the Minister knows that there are other clauses in his Bill which deal with subjects of a similar nature. Clause 86 provides that if there is any defect, the charge can be amended and put right. If there is any defect at all in the course of the averment, it can be put right and the charge can be proceeded with or the charge <span class="col_3325-3326" refersTo="page_0256"/>can be laid again if a person is found not guilty on a particular clause where the averments do not meet with what is required as an important element in the crime with which the accused is being charged. There are other people who also have some doubt with regard to this matter. One of them is no less a person that Prof. James van Rooyen who is the professor in the Department of Criminal Procedural Law at the University of South Africa. He also has a great deal to say about the subject. He asks some very important and pertinent questions. He says&#x2014;</p>
+
+<block name="quote">The new procedure envisaged by the 1973 Bill leaves many questions unanswered.</block>
+
+<p>I base my use of this particular quotation on the fact that clause 115 of the Bill is in essence no different from clause 119 of a Bill which appeared before this House in 1973. It amounts to the very same thing and therefore this criticism applies. I quote&#x2014;</p>
+
+<block name="quote">Will the accused be awarded sufficient time for consideration and preparation?</block>
+
+<p>There is, for instance, discussion in the Botha Commission&#x2019;s report of the fact that if a man has to wait until he finds a lawyer to defend him, he might have second thoughts as to what he wants to say or whether to speak at all. The very object of this system is that the accused should be arraigned and the charge put to the accused as soon as possible and that he be asked to plead immediately. Then the questions, should be plead not guilty, can be put to him by the presiding officer, when the matter is still very fresh. For instance, if he is warned that he can have legal advice, and he looks for it, the purpose of this objective might well be defeated and that is why Prof. Van Rooyen asked whether the accused would be awarded sufficient time for consideration and for preparation. The professor goes on to say&#x2014;</p>
+
+<block name="quote">Will the magistrate be required to inform the accused regarding his rights, for instance, his right to silence, his right to counsel, his right to request postponement?</block>
+
+<p>He goes on further&#x2014;</p>
+
+<block name="quote">Will the magistrate be required to inform an unrepresented accused regarding the possible and/or permissible consequences of his options?</block>
+
+<p>These are all important questions, and he concludes with one of the most important issues with which Mr. Justice Botha agrees as well, i.e. that we have many ignorant criminal defendants in the country.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>You are repeating your speech of 1973!</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>No, the facts all apply as the clause is virtually the very same. It has been amended and it has been revised, but the essence of the system that is being changed is contained in clause 115 of the Bill, and any suggestion that there is a complete change or revision is wrong and I do not think can be accepted. Furthermore, Mr. Justice Botha has made this very point in regard to the more illiterate type of accused that very often appears before the courts. In fact in the German system &#x2026;</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Your party is too much against change.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>No, far from it. In the German system for instance all these protective measures are in-built. The courts will tell the man that he has a right to a defence counsel of his choice. They will tell the man that he need not answer certain questions. They tell him that he can get a postponement if necessary to enable him to consult someone. Section 136(a) of the West German <i>Strafprozessordnung</i> provides that exactly the same duty to inform the accused regarding his rights is even imposed upon the police and the prosecutor if they want to question him. It furthermore provides, as against the system suggested here, that the accused&#x2019;s silence may in no way be held against him. One of the provisions of clause 115 is that, should he maintain silence, then the court can draw an inference from that particular silence.</p>
+
+<p>The German system is after all the European system, into which a great deal of the inquisitorial system has been built, but they provide all the necessary protection for the accused. Our objection is not that we should try to overprotect the accused, but he has <span class="col_3327-3328" refersTo="page_0257"/>certain rights because until evidence is led against him he strictly speaking has no case at all to meet.</p>
+
+<p>Mr. Justice Botha came to another conclusion in regard to preparatory examinations and he made some very pertinent comments about the question as to how one can expect a man who has not had the chance to cross-examine a witness to be able to elucidate to the court what his defence is so that the court can decide whether he should be committed for trial or not. I am referring to preparatory examinations as an example in regard to this particular point. We therefore maintain that there is a complete and absolute change in the system which we believe is not necessary and is foreign to our legal tradition. I do not think that we need fear that many bad criminals have escaped the net of justice in the country. They escape the net in every country and it is not unusual in the legal system. The whole objective is to provide a man with every opportunity of defending himself in order to prove to the court whether he is guilty or not.</p>
+
+<p>The other aspect of the Bill that I would like to deal with is the question of automatic review. Here we believe that the change is not a very sound one. The change I refer to is that certain magistrates with a certain standard of seniority may avoid having their judgments sent for review. It is also interesting to read what Mr. Justice Botha reports on the subject, because after all his report is the basis of this Bill. He writes the following in paragraph 4.02 on page 17&#x2014;</p>
+
+<block name="quote">It is, however, also generally known that many magistrates are, especially in the early years of their judicial career, inexperienced, and that many magistrates, especially in the larger towns and cities, often work under enormous pressure without the assistance of legal representation on behalf of most of the accused persons. To err in such circumstances is human.</block>
+
+<p>He goes on to maintain the following in paragraph 4.09 on page 18&#x2014;</p>
+
+<block name="quote">The considerations which justify a system of automatic review of sentences imposed by magistrates&#x2019; courts, do not apply in respect of regional courts. Regional magistrates are all experienced, well trained and senior judicial officers, and they do not work under circumstances even nearly comparable to the circumstances under which many magistrates work.</block>
+
+<p>He also deals with the question of saving time and money, and he makes one or two suggestions in this direction. On page 18 of his report, in par. 4.05, he says&#x2014;</p>
+
+<block name="quote">For that the administration of justice is too important and priceless a function of the State. That the existing system of automatic review of sentence of magistrates&#x2019; courts by the Supreme Court provides an important contribution to the administration of criminal justice in South Africa, need not be further stressed, and the costs and work that it entails are not so excessive that that alone justifies the abolition of that system.</block>
+
+<p>He goes further and makes another suggestion, with regard to the reports which judicial officers are to submit in cases where these are called for, i.e. cases that go up for review to judges. He suggests a clause which may well, I think, meet the Minister&#x2019;s problem as regards costs and time. He says the following and I quote the provision which he actually suggests, on page 19 of his report&#x2014;</p>
+
+<block name="quote">Provided that if the judge is of the opinion that the conviction or the sentence imposed is clearly wrong, and that the accused may be prejudiced if the record of the proceedings is not forthwith laid before the court of appeal for its consideration, he may thus refer the proceedings without obtaining such a statement from the judicial officer who presided at the trial.</block>
+
+<p>In other words, Sir, it has been recognized by the commission itself that this is also a field in which we should maintain the system of automatic review, as we have it. We should not seek to avoid it because we feel that it is very costly to us, but rather find other methods, for instance, the one he has suggested here, whereby these matters can receive the proper attention. I think, Sir, and we have always boasted of this, that the system of justice, as administered under our criminal procedure legislation hitherto, has always been of a very high standard and of the very highest order. One must therefore be <span class="col_3329-3330" refersTo="page_0258"/>very careful before one builds new innovations into it, because of its many ramifications.</p>
+
+<p>There are many instances where one must improve the procedure in order to streamline such procedure, but I think that the essence of our system, which is that a man is not guilty until he is proven guilty, is the inalienable right of every citizen. This is not a plea to protect any criminal, but it is the inalienable right of every citizen, and in that respect his rights should be protected. It is in that respect that I believe the inquisitorial system is not a sound one. I think that in time it could lead to a great deal of dissatisfaction and perhaps many people will find themselves involved where they do not understand what the procedure is and do not even understand what the purpose of a question is. These people could often be overcome by the circumstances in which they find themselves. We have had many cases, involving innocent people, which have gone to review or appeal, where even people who have pleaded guilty have had the decisions against them reversed on the grounds that a man in fact pleaded wrongly because he did not understand what he was accused of or had pleaded guilty out of sheer fear.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>You are now supporting clause 115.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>No, I know what the objective of the hon. the Minister is, but I do not think that it is worth sacrificing this procedure for that. We believe that the inquisitorial system is one which is an imported system, and that system is the one which we wish to avoid in this particular Bill.</p>
+
+<p>There are other aspects of the Bill with which we will deal in the course of the Committee Stage and to which we feel the hon. the Minister should perhaps direct his attention. As regards clause 6, I shall move an amendment to eliminate the deeming clause. This is in respect of a man who has pleaded, and in respect of whom the charge is withdrawn. It is then deemed that he has not pleaded. I understand that the hon. the Minister has already indicated that he will probably accept the motivation for that particular amendment.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Do you wish me to indicate that again?</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>I refer to our amendment to clause 6. Unfortunately I was not here yesterday, otherwise I would have made that point with more assurance. Then there are various other aspects which are not as serious.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>There are other amendments I am also going to accept.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>In respect of clause 49 I suggested that the use of fire-arms, which can have lethal consequences, should be restricted to cases where the competent sentence for the type of crime involved would be a sentence of death. I feel that, as regards the use of fire-arms, the citizen should be protected. I know of the difficulties experienced with regard to an escaping prisoner and the difficulties that arise when a person tries to elude a law officer who is doing his duty, but unless the type of crime involved could lead to a sentence of death, I think the use of fire-arms should be avoided. The English constabulary do not carry fire-arms at all, except in special cases. That is perhaps our best example. I want to ask the hon. the Minister to give some thought to that, but we shall deal with it again in the course of the Committee Stage.</p>
+
+<p>Sir, if the hon. the Minister will meet us in respect of clause 115, we shall give him our blessing with regard to the Bill.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Dr. <person refersTo="hansard_za">H. M. J. VAN RENSBURG</person>:</from>
+
+<p>Mr. Speaker, like other hon. members, the hon. member for Jeppe devoted a large part of his speech to the official Opposition&#x2019;s objection to clause 115 of this Bill. In the process he repeated arguments that have repeatedly and very effectively been refuted by hon. members on this side of the House. The point of departure of hon. members of the official Opposition, however, is apparently that if one merely repeats an inaccuracy often enough, it will eventually be acceptable.</p>
+
+<p>Mr. Speaker, in the course of my speech I shall be coming back to clause 115, but I just want to digress for a moment by referring to the report of the Viljoen Commission. As is apparent, even at this stage, from the speeches of other hon. members, a comprehensive criminal procedure Bill to replace the existing Criminal Procedure Act, Act 56 of 1955, was introduced in this hon. House as <span class="col_3331-3332" refersTo="page_0259"/>early as 1973 and taken as far as the Committee Stage. However, a commission of inquiry into the South African penal system, the so-called Viljoen Commission, was appointed in September 1974 with a directive to investigate the penal system of the Republic of South Africa and make recommendations for its improvement. In my opinion it was therefore rightly decided to await the commission&#x2019;s report and recommendations before continuing with the Criminal Procedure Bill so that a measure could be introduced which was completely up to date. That commission published its report during 1976 and made its recommendations, and the Bill before the House at present also makes provision for some of the commission&#x2019;s recommendations. I therefore think it is fitting, at this stage, to express our thanks and appreciation to the commission for the excellent and thorough manner in which it carried out its terms of reference and for the informative report which it published.</p>
+
+<p>It is hardly feasible to try to give a summary of the whole Bill at present under consideration. Various aspects of the Bill have already been singled out and elucidated by hon. members who have already spoken. In the Committee Stage several of the 345 clauses of the Bill will be debated in detail. Under those circumstances all I consequently want to do is to refer to a few aspects of the Bill, even if this involves repetition, because it seems to me, listening to the arguments of the hon. members of the official Opposition, that one must repeat an argument over and over again and then merely hope that something, at least, will get through to them sometime or other.</p>
+
+<p>Firstly, I refer to clause 112 which provides that an accused can be found guilty on the grounds of his plea of guilty alone. Numerous minor cases come before our courts every day in which the accused pleads guilty and is obviously guilty. To expect, in addition, that proof <i>aliunde</i> of the commission of the offence or crime should be furnished, makes unjustifiable demands on the time and effort of the court and everyone involved with trying that specific case. What is more important, however, is that there is also the danger that an accused who has pleaded guilty, and indeed is guilty, could be discharged merely as a result of a technical shortcoming or error in proving the commission of the offence, even though he himself admitted to having committed the offence.</p>
+
+<p>It is sometimes alleged that it is more important to ensure that an innocent accused is not convicted than to allow a guilty accused to be acquitted o some occasions. Indeed, yesterday evening the hon. member for Houghton repeated this argument in the hon. House. The fact of the matter is, however, that the authorities&#x2019; responsibility to ensure that the person who is guilty is convicted and punished, is on a par with its responsibility to ensure that no innocent person is convicted. The acquittal of an accused who pleads guilty also confuses the public and frequently places the courts in a bad light. What is more, there are measures incorporated in this Bill to ensure that the provisions of clause 112 do not give rise to legal infringements. Clause 113 makes provision for the fact that if, during the questioning of the accused by a magistrate, it should appear that the accused who pleaded guilty is, for some reason or other, not guilty of the relevant offence, the magistrate must record a plea of not guilty.</p>
+
+<p>In a nutshell, it can therefore be alleged that clause 112 firstly saves time and energy, secondly, that it enhances the esteem of the courts and, thirdly, that it ensures a correct decision and punishes people who are guilty.</p>
+
+<p>I now refer to clause 115 of the Bill. I am of the opinion that clause 115 embodies the greatest and most important improvement in criminal procedure practice and that it also forms, in certain sense, the essence of the Bill under consideration. This clause makes provision for the questioning of an accused, in order to determine the points at issue in the case, in instances where the accused pleaded not guilty at a summary trial. The hon. member for Vereeniging has already referred to the fact that in civil actions parties are bound, at the hearing, by their respective pleadings. In other words, when pleadings are concluded, each party is fully informed about the case he has to answer</p>
+
+<p>Section 169(5) of the Criminal Procedure Act (Act 56 of 1955) also provides that before the commencement of the trial the accused can, by way of his legal representative, indicate in writing which allegations in the charge he admits to, which allegations in the charge are in dispute and what the basis of his defence is. <span class="col_3333-3334" refersTo="page_0260"/>The provision in section 169(5) is seldom implemented in practice, however. More often than not criminal trials have become like games of chess in which the defence aims at capitalizing on even the most trivial mistake or shortcoming in the State&#x2019;s case. The result is that trials are prolonged for unnecessarily long periods because the point of departure of some legal representatives is that as long as the trial continues there is a chance that something might crop up that can be employed or used in the interests of the accused. More often than not the inevitable result is that a guilty accused is found innocent because of a technical error or shortcoming in the State&#x2019;s case.</p>
+
+<p>These days, however, there is the growing realization that it is as much of a legal infringement if a person who is guilty is acquitted as it is when an innocent person is convicted. It is therefore vitally necessary to ensure that an accurate balance is maintained between the interests of the State and the interests of the accused. Clause 115 envisages the maintenance of this balance by making generally applicable, in a slightly amended form, what is already provided for in section 169(5) of the Criminal Procedure Act. Clause 115(1) only makes use of the underlying principle in section 169(5) to prevent an accused trimming his sails to the wind during the trial.</p>
+
+<p>In clause 115 there is no question of prejudicing an accused; it is merely a question of eliminating the prejudice which the State has been subject to in the past. In fact, clause 115 also embodies definite benefits for the accused. The honest accused will effectively be able to refute allegations that he has concocted his defence. The court will also more effectively be able to help an undefended accused with the questioning of witnesses when the court knows what the accused&#x2019;s defence is. The proposed procedure also affords the accused who pleads not guilty the opportunity, at an early stage in the trial, to put his side of the case against him, a process which could, more often than not, lead to his quick release or, at least, to a considerable shortening of the trial. The present system does not, in point of fact, benefit the innocent accused and&#x2014;may I add&#x2014;his legal representative. The ones who do, in fact, benefit are the guilty accused and the opportunistic legal representative.</p>
+
+<p>This also does away with the provision that an accused can make an unsworn statement from the dock instead of giving evidence under oath. In practice this opportunity to make an unsworn statement is all too frequently abused in the sense of turning the court into a forum for discussing matters that cannot serve as a defence but can only serve other motives of the accused. In the light of the amended procedure, as proposed here, there is, in any case, no reason why there should be unsworn statements from the dock. Consequently this can willingly be abolished.</p>
+
+<p>Sir, against the background of the statements I have just made, I now want to confine myself to a few of the statements made by hon. members of the Opposition. The hon. member for East London City maintained that the Bill was neither purely accusatory or purely inquisitorial but that it was, in fact, a mixture of both. He further alleged that the hon. member for Waterkloof ought therefore not to support the Bill and ought preferably to campaign for a purely inquisitorial system like that of the French. In that regard, I am afraid, the hon. member is suffering from incurable verkramptheid. He simply cannot or will not accept the fact that in the Republic of South Africa we can develop a system <i>sui generis,</i> a system containing elements of both accusatory and inquisitorial systems. According to him our legal system must, of necessity, accord precisely with some or other existing system that has developed in other countries, in other times and under other circumstances. That is a typically colonial mentality which the hon. member for East London City displayed in this connection. We have a young and dynamic legal system which has, in fact, derived its basic principles and concepts from other legal systems but which adapted them, and is still adapting them, to changed and still changing circumstances. Naturally the results cannot be cramped into the swaddling bands of systems that have developed elsewhere under other circumstances.</p>
+
+<p>The hon. member for Durban North referred to so-called &#x201C;inroads into the basic rights of an accused person&#x201D;. He also said that it is a fundamental principle of our law that an accused is innocent until he is proved guilty. That is a statement I cannot find fault with as such, but the hon. member went further and related this statement to applications for bail. <span class="col_3335-3336" refersTo="page_0261"/>The fact of the matter is, however, that refusal to grant bail in no way implies conviction. The consideration of an application for bail is based on factors other than the accused&#x2019;s guilt or innocence in relation to the charge against him. However, at all times the court must be realistic and take note of conditions that make the granting or refusal of bail desirable or undesirable.</p>
+
+<p>For the sake of the hon. member for Durban North I want to repeat that clause 115 makes no provision for a pre-trial hearing, as he implied, but only for a procedure to determine the points at issue in the case. There is no question of cross-examination or of an inquisition. Neither is there anything the presiding legal officer can unjustly do in terms of clause 115 that he cannot already do. If criticism against clause 115 presupposes that a presiding officer can now, by way of an irregularity, go further than the clause empowers him to do, my answer is that, in terms of the present dispensation, he can also do so. I believe that our courts will take very careful note of this and that, in decisions, the conduct of presiding officers will very quickly and clearly be checked in terms of this clause. The matter therefore has nothing to do with an accused being compelled to incriminate himself. There is no incompatibility between the authorization which it is now proposed to grant to a judicial officer and the traditional impartiality of the presiding judicial officer; in fact, as little incompatibility as there is between that and the judicial officer&#x2019;s powers to clarify evidence by way of questions to witnesses. Again the same argument applies. If a presiding judicial officer abuses the existing authority to put questions for the sake of clarifying evidence, at this stage there is nothing to prevent him doing so either, except for the fact that he lays himself open to an appeal to a higher authority. Likewise the judicial officer&#x2019;s conduct in terms of this clause will always be subject to an appeal to higher authority.</p>
+
+<p>The hon. member for Pietermaritzburg South alleged that the test to determine whether justice is done or not involves, amongst other things, the possibility or otherwise of an innocent person being found guilty. I agree with that, but I challenge hon. members of the Opposition to indicate how an innocent person can be found guilty in terms of any of the provisions of the present Bill. In terms of what provision of the Bill can an innocent person be found guilty? I want to ask hon. members on the other side of the House to point out one such provision to me. What is consequently the justification for the argument used repeatedly in the debate? It is simply a statement that is made, but when one tries to relate it to the Bill, one finds that it is actually an irrelevant statement. What could very well happen is that guilty persons who would otherwise have been found not guilty, in terms of the present dispensation, would now be brought to justice. That could happen, but I challenge hon. members of the Opposition to argue that it is desirable that guilty persons should be acquitted or should be entitled to acquittal.</p>
+
+<p>The hon. member for Pietermaritzburg South also said: &#x201C;People have faith in the administration of justice.&#x201D; He also spoke with praise and appreciation of our legal officials, and I agree with him wholeheartedly. He then went on, however, to question the same judicial officials&#x2019; ability to fairly and justly exercise the powers which the Bill wishes to grant them. He is therefore questioning their ability to justly and fairly exercise the powers which, as I have already indicated, are in no way essentially different to the powers they already exercise with distinction. Surely the hon. member is directly contradicting himself.</p>
+
+</speech>
+
+<speech by="#streicher">
+
+<from>*Mr. <person refersTo="hansard_za">D. M. STREICHER</person>:</from>
+
+<p>That is not funny.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Dr. <person refersTo="hansard_za">H. M. J. VAN RENSBURG</person>:</from>
+
+<p>Yes, I agree with the hon. member for Newton Park that this is not funny at all. Nevertheless, when such a contradiction crops up, it is surely not inappropriate to point it out. I repeat that at the present moment there is nothing in the existing Criminal Procedure Act that prevents a presiding judicial official from improperly interfering in the progress of the trial. If, according to the hon. member for Pietermaritzburg South, they do not do so at present, why must we jump the gun and suspect him of possibly doing so in terms of the provisions of the new legislation? I have the utmost confidence in our legal officials&#x2019; ability to fairly and justly exercise the powers granted to them in terms of this Bill, as they have applied and exercised their powers in the past. <span class="col_3337-3338" refersTo="page_0262"/>I just briefly want to react to the argument of the hon. member for Houghton who is unfortunately not in the House at the moment. I want to refer to her statement &#x201C;that it is a basic concept of justice that an innocent man should not be punished.&#x201D; That is a statement I am in complete agreement with, but I again want to ask: Where does the hon. member find, in the Bill at present under consideration, any justification for implying that innocent persons will be punished in future? How does she link up this statement she made with anything in the Bill? In other words, this is again merely an unjustifiable insinuation which is being made, an insinuation in terms of which the Bill consequently has a question-mark placed against it.</p>
+
+<p>Like other hon. members, for example the hon. member for Rosettenville&#x2014;and I am personally thankful that he also did so&#x2014;I want to take the strongest exception to the hon. member for Houghton&#x2019;s statement that &#x201C;police shoot people for minor offences&#x201D;. That is an untrue and reprehensible statement that the hon. member for Houghton made. She tried to justify this statement by referring to an instance when someone, involved in motor vehicle theft, was caught red-handed and fled, being fatally wounded by the police in the process. Surely that person was fatally wounded, however, because he fled and not because of the offence.</p>
+
+<p>For the said reasons, and for many others, it is my privilege to give this Bill my whole-hearted support.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Mr. Speaker, we are about to come to the end of a long debate on the principles involved in the new Criminal Procedure Bill. It is, one might say, a debate which began in 1973. It occupied much of the time of the House on that occasion and has again taken us a long time. In winding up this debate I want to crystallize the attitude of the official Opposition to the Bill. I want to begin by reminding this House what a Criminal Procedure Act in fact is. In a democratic country such an Act is the charter which embodies the rights of the individual citizen under the law as well as the rights of the State as protector of the rights and interests of society. The ideal or perfect criminal procedure legislation is one which is fair and just in the sense that it ensures that no innocent person is convicted and that no guilty person is acquitted. As far as I am aware nowhere in the world has a system of criminal procedure been evolved that achieves that degree of perfection. What South Africa&#x2019;s aim should be therefore as a civilized, democratic country, is in my submission to ensure that our criminal procedure reaches as closely as possible the ideal I have just stated.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>So far, so good!</p>
+
+<p>Mr. R. G. L. HOURQUEBIE. It would help if the hon. member for Waterkloof continued his discussion with you on another occasion, Sir. It is a little disturbing.</p>
+
+</speech>
+
+<speech by="#deputy_speaker">
+
+<from>The <person refersTo="hansard_za">DEPUTY SPEAKER</person>:</from>
+
+<p>Order! The hon. member may proceed.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Mr. Speaker, is the hon. member for Waterkloof going to be permitted to continue to discuss matters with you while I am speaking very close to you?</p>
+
+</speech>
+
+<speech by="#deputy_speaker">
+
+<from>The <person refersTo="hansard_za">DEPUTY SPEAKER</person>:</from>
+
+<p>Order! The hon. member is fully entitled to discuss any matter with me while the hon. member is speaking.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>In any event, Mr. Speaker, it has had the desired effect because the hon. member has now stopped speaking. Having established the foundation on which our system is based, I now turn to our existing criminal procedure.</p>
+
+<p>It is a procedure which has proved to be basically sound and fair, and above all it is a procedure which is respected by our citizens of all races and by the outside world. There is no doubt, however, that over the years our society has become more sophisticated and complicated and that crime has also become more sophisticated and better organized. In the view of many people our existing system makes it possible for too many guilty people to get away with their crimes. Furthermore, there can be no doubt that our present system results in much waste of time and money. These two factors, coupled with the fact that any system must from time to time be made as efficient as possible, has led many persons who practise law to the view that our criminal system needs improvement. We in the official Opposition accept the fact that the present <span class="col_3339-3340" refersTo="page_0263"/>system does need improvement, does need changes in certain respects.</p>
+
+</speech>
+
+<speech by="#krijnauw">
+
+<from>Mr. <person refersTo="hansard_za">P. H. J. KRIJNAUW</person>:</from>
+
+<p>But you will vote against the Second Reading?</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>We will vote against the Second Reading and if that hon. member would listen he would understand why.</p>
+
+</speech>
+
+<speech by="#krijnauw">
+
+<from>Mr. <person refersTo="hansard_za">P. H. J. KRIJNAUW</person>:</from>
+
+<p>Well, tell us the reason.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Oh, if it is the hon. member for Koedoespoort who interjected, then I am not surprised. He continually does so and I do not intend to take any further notice of any of his interjections while I am speaking.</p>
+
+<p>We are therefore not opposed to improving our present procedure so as to make it more efficient and to minimize the possibility of guilty persons escaping conviction. But we are totally opposed to changes that undermine the foundation upon which our criminal law is based and which increase the danger of innocent persons being convicted. We are opposed to this Bill because in our view certain of its provisions, and particularly clause 115 and the changes which are being made in the review procedure, will achieve both these undesirable results namely of undermining the foundations upon which our criminal law is based and of increasing the danger of innocent persons being convicted.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>Dr. <person refersTo="hansard_za">H. M. J. VAN RENSBURG</person>:</from>
+
+<p>How?</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>I now want to come more specifically to the Bill. If that hon. member who has just interjected and asked &#x201C;How?&#x201D; will listen, he will now understand. As has been pointed out before, it is a large Bill containing no less than 345 clauses, and it is a complete revision of our criminal procedure system. Many of the clauses are re-enactments of our existing law which we do not oppose. Some clauses introduce changes which we agree are either necessary or desirable and these clauses have our support. However, the Bill introduces two major changes to our existing criminal procedure.</p>
+
+<p>The first is of course the new procedure for questioning an accused person who has pleaded not guilty to a charge. That is the procedure contained in chapter 18. In our view this new procedure introduces for the first time in our law radical change of a far-reaching nature. We oppose this new procedure not because it introduces change. We are quite prepared to consider changes in the Criminal Procedure Act. In fact, we accept that certain changes are necessary. We also do not oppose this because it introduces radical change. We are quite prepared to see radical change. But what we are not prepared to accept&#x2014;and this is the reason why we oppose this Bill&#x2014;is radical change to our criminal procedure system without adequate safeguards. It is precisely because in our view the radical change which is being introduced is not coupled with adequate safeguards that we are opposed to this Bill and will vote against it at Second Reading.</p>
+
+<p>It is essential to be clear about what in effect the new procedure is. The essence of the new procedure is that the judicial officer, who is to try an accused person, is to be given the right for the first time in our law, before proceeding with the trial&#x2014;or, if the hon. members on that side prefer, before proceeding with the case and before any evidence is led&#x2014;to question or examine an accused person who has pleaded not guilty to the charge. It enables the judicial officer to put questions to the accused before that stage. This is a totally novel procedure, an innovation, in our criminal procedure system. For the hon. members opposite to say that no new principle is being introduced by clause 115 is simply not correct. It is a misrepresentation of what the effect of this clause in fact is.</p>
+
+</speech>
+
+<speech by="#wiley">
+
+<from>Mr. <person refersTo="hansard_za">J. W. E. WILEY</person>:</from>
+
+<p>Are you opposed to the putting of questions?</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Sir, I am not prepared to answer a question at this moment, because I have limited time at my disposal. However, if there is time left when I have said what I wanted to say, I shall certainly answer questions. In any event, the hon. member for Simonstown will have plenty of opportunity at the Committee Stage to put any question to me he wishes and I shall certainly endeavour to answer those questions to the best of my ability.</p>
+
+<p>Sir, there can be do doubt that this is a <span class="col_3341-3342" refersTo="page_0264"/>pre-trial judicial interrogation or, if you prefer, a pre-trial judicial questioning or, if you prefer the way the hon. the Minister put it, a pre-trial judicial examination of the accused. Alternatively, if you do not like the word &#x201C;pre-trial&#x201D;, simply because the accused has been asked to plead and, technically, that is the start of the trial, let me put it in this way: It is the questioning of the accused at a time when the main trial itself has not started, with the evidence being led. This, as I have already said, is foreign in our law.</p>
+
+<p>The gravamen of our opposition to such a procedure is that, whilst it is not the inquisitorial procedure recommended by Judge Hiemstra nor that to be found in some Continental countries, it is nevertheless a procedure which involves a questioning of the accused, a procedure which, without adequate safeguards, lends itself to being developed into or becoming a form of inquisitorial interrogation or, if you do not like the word &#x201C;inquisitorial&#x201D;, a form of questioning of the accused which could be prejudicial to him. It is one thing to try to match part of the Continental system, which is an inquisitorial one, with ours, which is an accusatorial one&#x2014;we do not object to the inquisitorial Continental system as such, because some such systems work very well&#x2014;but those inquisitorial systems work well because they have the adequate safeguards which I spoke about and for which this Bill does not provide.</p>
+
+</speech>
+
+<speech by="#wiley">
+
+<from>Mr. <person refersTo="hansard_za">J. W. E. WILEY</person>:</from>
+
+<p>That is all I wanted to ask you about.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Having said this, I should like to summarize more precisely why it is we are opposed to this new procedure. I have tabulated what I think are possibly eight objections.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Well, lay them on the table.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>Sir, I want to give the hon. the Minister plenty of time before the Committee Stage to consider these objections. In that way he will not be taken by surprise in the Committee Stage.</p>
+
+<p>The first objection&#x2014;these are not necessarily in order of importance&#x2014;is that the traditional role of judicial officers, as impartial arbiters of the issues between the State and the individuals concerned, is altered radically to the point where they become involved. We can debate this in the Committee Stage&#x2014;I intend to do so; I have no time to elaborate on this now&#x2014;but I do not think there can be any doubt that the new system does involve the judicial officer far more than was previously the case and in a way which, in my submission, is undesirable.</p>
+
+<p>Secondly, the fact that the questioning is done by a judicial officer in a court of law will carry with it a strong persuasive element which may render it difficult for the accused to avail himself of his right to remain silent and to put the State to the proof of his guilt. There is a risk that this procedure may induce a feeling of compulsion in the mind of the accused, and this point has already been made. If one has regard to the fact that subsection (2) or (3) of clause 115 enables the court to draw an inference from silence, then that compulsion is such that the accused cannot remain silent. That is the effect. Therefore he is seriously prejudiced. In any event, to place the accused in such a situation is in conflict with the basic principles of our criminal law on which I shall elaborate in a moment.</p>
+
+<p>Thirdly, the procedure has inherent in it the risk of being abused by judicial officers who may be persuaded by prosecutors to resort to questioning the accused in cases where there is very little, if any, evidence against an accused in the hope that he will make admissions while being questioned, thereby founding a case against himself.</p>
+
+<p>Fourthly, there is the practical objection. How is a magistrate to determine precisely all the issues involved in a case, all the elements of the charge, when he does not have any evidence before him at the time he is questioning?</p>
+
+<p>Fifthly, a further objection to the procedure is the danger of an accused person making erroneous admissions of fact or of law. This, I submit, is not a far-fetched objection, particularly, having regard to the less literate accused person and the fact that precise issues are not explained to him as carefully as they might be by a magistrate who is busy. This sort of thing, an erroneous admission of fact or of law, could quite easily happen to the prejudice of the accused.</p>
+
+<p>Sixthly, the procedure could lead to misunderstandings <span class="col_3343-3344" refersTo="page_0265"/>of a fundamental nature which, if they occur, will lead&#x2014;not &#x201C;could&#x201D; lead, but &#x201C;will&#x201D; lead&#x2014;to miscarriages of justice. This is so because of the difficulties of interpretation, and all practitioners in the courts know that this is a real difficulty when one is dealing with the Black population in particular, and because of the fact that magistrates work under pressure and will be pressed for time, not only in explaining the position to an accused person, but in satisfying themselves before questioning the accused as to what precisely the charge and its essential elements and issues are.</p>
+
+<p>Seventhly, the procedure creates problems regarding incorrect or inadequate appreciation of the essential elements and the possible defences.</p>
+
+<p>Eighthly, and this, I submit, is one of the most important objections, the new procedure could damage and indeed could destroy the basic principle, the very foundation of our criminal justice, as it is today. That basic principle is that the onus of proof of guilt beyond reasonable doubt rests upon the State to prove.</p>
+
+</speech>
+
+<speech by="#krijnauw">
+
+<from>Mr. <person refersTo="hansard_za">P. H. J. KRIJNAUW</person>:</from>
+
+<p>That is not disturbed.</p>
+
+</speech>
+
+<speech by="#hourquebie">
+
+<from>Mr. <person refersTo="hansard_za">R. G. L. HOURQUEBIE</person>:</from>
+
+<p>I am not going to answer that hon. member. He will understand. It certainly is disturbed, as we will see in the Committee Stage. I would remind the House and that loquacious hon. member for Koedoespoort that Mr. Justice Botha does not suggest that any change should be made with regard to this basic principle. He does not suggest that the onus of proof should be shifted, nor that the degree of proof which is required of the State should in any way be lessened, i.e. proof beyond a reasonable doubt. On the contrary, time and time again throughout his report, he rejects Mr. Justice Hiemstra&#x2019;s inquisitorial proposals for the reasons that they will do damage to that basic principle. What are the essential elements of that principle? They are, firstly, the right to remain silent on the part of the accused. This is what Mr. Justice Botha had to say regarding that principle, and I am reading from page 6, paragraph 1.16 of the report&#x2014;</p>
+
+<block name="quote">An accused&#x2019;s right to silence at his trial would lose all meaning if he could be placed under pressure at a pre-trial interrogation to incriminate himself in respect of the offence charged.</block>
+
+<p>I suggest that the same applies, whether it is at a pre-trial interrogation or at a questioning before evidence is led. Before leaving this aspect, I should emphasize again that fact that an inference is to be drawn from an accused&#x2019;s failure or refusal to answer questions. So, clearly, this basic principle is being considerably damaged.</p>
+
+<p>The second element of the basic principle of our criminal law is that an accused person cannot be compelled in any way, either to assist in proving the case against him, or to show his innocence. As I have pointed out in the objections which I have mentioned to the House, the form of questioning to which the accused may be subjected could, in our view, do damage to both these essential principles. We are not opposed to this new procedure, simply because it is new or simply because it introduces change, or simply because it introduces radical change. We are opposed to it because it introduces this radical change without adequate safeguards.</p>
+
+<p>Mr. Speaker, in the short time that I have left available to me, I want to deal with some of the points raised by speakers on the Government side. Firstly, I want to refer to this statement by the hon. the Minister. The hon. the Minister, quite rightly, pointed out in his introductory speech that this was a new procedure, contrary to what the hon. members for Schweizer-Reneke and Vereeniging were trying to tell the House. They were trying to tell the House that there was nothing new about this, but the hon. the Minister, quite rightly, pointed out that this was a new procedure. He called it the principle of examination of the accused, and it is important to bear in mind that it is an examination of the accused before evidence is led. Now, we have heard from hon. members opposite that this is simply an elaboration, an amplification, of the existing system, and is either nothing new, or is not a system which changes the law materially. Reference has been made to section 169 of the Criminal Procedure Act.</p>
+
+<p>However, this merely states what the accused&#x2019;s rights are in regard to a plea. He has the right to plead guilty to the offence, or <span class="col_3345-3346" refersTo="page_0266"/>to plead not guilty, etc. It gives him a number of options, but the one thing that section 169 does not do, is to give the judicial officer the right to question him once he has exercised his choice in terms of that section. This is the gist of the difference between section 169 of the Act and the new clause 115 of the Bill. The hon. the Minister pointed out that the examination provided for under section 115 is different from that in terms of clause 119 in the 1973 Bill. We can see that it is a different procedure, but in our submission the new section 115 has in essence the same basic objective that there was in clause 119. In his reference to this clause, the hon. the Minister pointed out that the judicial officer is not obliged to question an accused person, but that it is merely a discretion. This is indeed correct, but I challenge the conclusion that the hon. the Minister made thereafter. He said (Hansard, 31 January 1977, col. 430)&#x2014;</p>
+
+<block name="quote">Our procedure will not be revolutionized overnight. It will be possible to apply the system gradually and circumspectly. The superior courts will be able to take the lead</block>
+
+<p>We will be able to question him more closely at the Committee Stage about this, but at this stage I challenge him to justify this statement because in our submission it is perfectly clear that there is nothing gradual about the introduction of this system. It is brought in in one fell swoop. There is nothing gradual about it. If, on the contrary, the procedure had been limited to the superior courts, as is suggested by the hon. the Minister, in order to try it out and iron out any possible difficulties, we may well have supported this Bill, because then the new procedure would be put into operation by courts with considerable experience of the law, which is not the case with magistrates&#x2019; courts. We would like the hon. the Minister to justify this statement that he has made.</p>
+
+<p>I want to mention a couple of other points in the time available to me. The hon. member for Schweizer-Reneke made the point that clause 115 is considerably watered down from clause 119 in the 1973 Bill. Whilst I concede that there is a change, I do not accept that it can be described as having been considerably watered down. In any event, the hon. member seems to suggest that seeing that the clause has been watered down, we ought to support it simply because it is a watered-down clause. That is a very strange argument. We are still opposed to it, because it still has the essence of the procedure which the 1973 Bill contained. The hon. member for Schweizer-Reneke also mentioned that we do not need to rely on other systems; we can adopt a system of our own if that suits us better. I readily accept that. We on this side of the House do not make the point that we must necessarily adopt some or other criminal procedure system of some other country, but what we do say is that if we do make changes of a fundamental nature, they must be done on a proper basis which is not going to damage or possibly damage the very foundations of our whole criminal procedure system.</p>
+
+<p>I think I have dealt with some of the main arguments which were presented by hon. members on that side of the House in dealing with some of the points which were raised by speakers on this side of the House. I wish to close by summarizing our standpoint briefly. Whilst we support much that there is in this Bill, we are opposed to the two major changes which are brought about by clause 115 and the changes to the review procedure, both of which introduce radical changes without adequate safeguards. For that reason we shall oppose the Bill at Second Reading.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Mr. Speaker, the hon. member for Musgrave will pardon me if I do not reply to him immediately. I shall do so after I have replied to most of the other hon. members. I want to tell the hon. members that I listened to all the arguments which were raised during the Second Reading. I want to say in all honesty that in my humble opinion the debate showed that the top jurists are sitting on this side of the House, and with that I do not want to disparage those sitting on the opposite side of the House, for I have great appreciation for them. Anyone who can form an objective opinion and who listened to the debate, will have to concede that I am correct when I say this. There is no doubt about it. [Interjections.] It seems to me the hon. members on that side of the House do not agree with me. That shows that they are not entirely objective, for I referred to an objective observation. I referred to the &#x201C;referee&#x201D;, that judicial <span class="col_3347-3348" refersTo="page_0267"/>presiding officer whom they had such a lot to say about.</p>
+
+</speech>
+
+<speech by="#sutton">
+
+<from>*Mr. <person refersTo="hansard_za">W. M. SUTTON</person>:</from>
+
+<p>Surely you are blowing your own trumpet now.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I was not referring to myself, but to the men sitting around me.</p>
+
+<p>I think the basic premises stated here by the Opposition members were not entirely correct. Reference was made here in long and learned words to the inquisitorial system, to the accusatorial system, and such like systems. It is very interesting to see how people, who are more educated than I, professors among others, when they become very angry, begin to string long words together and then fasten concepts on to them. We, in the department, however, simply tried to establish very practical legislation. We tried not to be too learned or take over the complex systems of the continent of Europe. Also, we tried not to throw the English system overboard entirely. We are simply saying that we are South Africans, with our own unique problems, problems we must face up to when we come forward with legislation.</p>
+
+<p>The first question we asked ourselves was what approach we should adopt. Our approach is very simple. I do not know what other systems it follows, nor do I know whether it fits into any category according to what has been written about the subject, but we simply asked what would be best for justice. What we are endeavouring to achieve is justice. We wish to see that justice is done, firstly as far as the individual is concerned. We realize that the individual is entitled to liberty. We tried to incorporate in this Bill that which would protect that individual&#x2019;s liberty. But if that individual commits a crime, we say that the community and the State are no longer obliged to protect him, and are not entitled to protect him either. That is the major difference. Then we must protect the community against the person who has committed crimes. We must protect the community against his misdeeds and crimes. In protecting the freedom of the individual we must make every effort to ensure that it is possible to prove a person&#x2019;s innocence. If a person is innocent, we must make every effort to ensure that it is possible for him to prove to the world that he is innocent, but we must also afford the State the opportunity to prove his guilt beyond all reasonable doubt if he is guilty. We must not place any impediment in the way of the individual who wants to prove his innocence to the world, but neither must we bind the State with chains when it is the duty of the State to prove beyond all reasonable doubt that a person is guilty of a crime. Nor must we, in this regard, place an impediment in the way of the State or place obstacles in the way of the State which will make it more difficult for the State to do its duty. We are aware of the fact&#x2014;I think the Bill proves it too&#x2014;that we are unique in our country in so far as we have a heterogeneous structure with a very large percentage of people who, in the first place, have perhaps not attained that stage of development which other groups of the population have attained. What makes it even worse is that these people have a traditional system which adapts with difficulty to the old Roman-Dutch system and the English criminal procedure system which we inherited. We kept this in mind in the preparation of this Bill.</p>
+
+<p>As far as the Bill in general is concerned, I have an entirely open mind. I do not want to make a political issue of it, but I want to examine the amendments with a clear and open mind so that, if an amendment is good enough for us to be able to apply it in our system, I can say to myself that I shall accept it. That is my approach with regard to the Bill. In my opinion hon. members on that side of the House, argued from incorrect premises, and as an example of this I want to refer to the hon. member for Durban North. The hon. member is an advocate and in my opinion, he sees the position of a presiding officer quite incorrectly. The hon. member said the following in this regard (Hansard, 9 March, col. 3348)&#x2014;</p>
+
+<block name="quote">Mr. Speaker, our legal principle in South Africa has always been that a judicial officer is an impartial arbiter, simply in effect, a referee between two parties. He simply has to decide which of the two parties&#x2019; contesting versions is the correct one. All he does is to judge between the two versions.</block>
+
+<p>With that the hon. member implies that the presiding officers in our courts are merely straw dolls and have the same task as persons <span class="col_3349-3350" refersTo="page_0268"/>in a civil case who have to decide which one of the two parties&#x2019; stories sound the most plausible to them. The hon. member therefore wishes to allege that the officer is merely an arbiter in that sense of the word. But I am of the opinion that our presiding officer has a specific task, i.e. that he is seeking justice, not for or against the State, and not for or against the accused, but justice in itself. If justice points its finger at the accused, the presiding officer must not be afraid to say so, and if justice is not on the side of the State, the presiding officer must do the same. The presiding officer must therefore seek justice, and I think it is worthwhile reiterating this. In my opinion it is best stated in <i>Rex</i> v. <i>Hepworth</i> in the appellate division of 1928 on page 277. It was Mr. Justice Curlewis who gave this judgment. I shall quote the following excerpt from it&#x2014;</p>
+
+<block name="quote">A criminal trial is not a game where one side is entitled to claim the benefit of any omission or mistake made by the other side, and the judge&#x2019;s position in a criminal trial is not merely that of an umpire to see that the rules of the game are observed by both sides. A judge is an administrator of justice, he is not merely a figurehead. He is not only to direct and to control the proceedings according to the recognized rules of procedure, but he must see that justice is done.</block>
+
+<p>It is an active, strong and powerful role which he has to play in a court case. He is not there to score points off people; he is there to perform a task and to see that justice is done, wherever it may be. This is the approach we adopted when we were preparing this Bill. I think I can say in all humility that I am prepared to dig even deeper, in the Committee Stage, in the search for truth so that we may write it into the legislation. In my humble opinion, as I interpret this Bill, it complies with this requirement, and is a satisfactory Bill for South African conditions.</p>
+
+<p>I should now like to reply to the questions asked by the hon. members. Hon. members will pardon me if I did not refer to each hon. member individually, for in the nature of things, reference was made to objections to certain aspects of this Bill in general. Many hon. members had the same objections to certain aspects of the Bill, and therefore I shall deal with them in general. Where I feel there is a need to refer specifically to some speaker or other I shall do so. However, I could almost content myself by merely referring to all the replies given by hon. members by my side of this House. We also had philosophical arguments, which I was not even entirely able to keep up with. We had all these things, and replies have already been furnished to all the objections, but I know hon. members will expect me to reply specifically to them as well, and therefore I am going to do so.</p>
+
+<p>Firstly, there is the question of the plea. Criticism has been levelled at clause 6(b), namely when a person has already pleaded to a charge. In the Bill it is being provided that if a person has pleaded and no evidence is led, the State prosecutor may withdraw the charge and then subsequently, in spite of that plea, subpoena and charge that person again. I must honestly say that this is a change from the old system. We considered the entire matter. One of the amendments which I think an hon. member on the opposite side proposed was that we should return to the old system, so that when a person has made a plea, the case is disposed of and he or she has to be found either guilty or innocent. We are prepared to return to the old system for a very simple reason. We felt that there should be finality if a person is under a cloud. Although I do not think that it is unfair to him to tell him that because he pleaded not guilty, we are withdrawing the charge and shall subsequently charge him again, we feel that it is going a little too far because we are still holding a sword over his head and that sword has to fall to one side or the other. The State should not wait so long before saying what the case against the person is, and consequently I am prepared to accept the amendment.</p>
+
+<p>Criticism was also levelled at the granting of bail. Hon. members will recall that clause 60(2) provides that if an application for bail is refused, no further application may be made, unless other facts are discovered. That provision is based on judgments. There are judgments which lay down that other circumstances have to be present for a subsequent bail application. In that regard, however, we have again tried to meet the objections and we are prepared to return to the old system, viz. that a person may apply <span class="col_3351-3352" refersTo="page_0269"/>for bail as many times as he wishes, with this exception that he has to apply for it in the court in which he is standing trial. He must apply to the court which is going to try him for bail. He may do so as many times as he wishes. We know that in terms of the existing administration of justice the courts will require that certain stipulations be complied with. The courts have already laid down that a person may not apply <i>ad infinitum</i> for bail, which is repeatedly refused. The courts have laid down that there must be other circumstances. Where we spoke of other facts the court judgment referred to other circumstances. I am prepared to let it rest with what the courts determine in respect of bail. Bail is a very important matter. It means that the accused need not remain in a prison while he is awaiting trial. Therefore we do not want to be too hard on him, and if he therefore thinks he has a chance of being granted bail on a second or third application, we are satisfied. I am therefore prepared to accept the amendment of the hon. member for Durban North.</p>
+
+<p>Criticism was also levelled at the provisions of clause 73(1). The existing Act provides that a person who has been arrested is entitled to see his legal adviser and his friends. Experience over many years has shown that the first friends who visit him the moment he finds himself in prison are usually &#x201C;touts&#x201D;, i.e. people trying to find a little work for some firm or other. Unfortunately this happens. I am not blaming the firms, but those people who visit the prisoner. Those first friends of the prisoner are therefore people who want to make him believe that he should approach a certain firm for assistance. Well, if a person has that kind of friend, he does not need enemies. Of course one finds another kind of friend as well. These are friends who, together with the prisoner, committed the crime, but who are not yet in prison. They come there to tell the prisoner something, or to tell him what must be said in court. The State can do without people of that kind.</p>
+
+<p>We do not like that kind of person, and keep them away. In my humble opinion the hon. member for Durban North made a very big mistake by not quoting, or by not noticing, that clause 73 is subject to the prison regulations. Those regulations make ample provision for the visit to a prisoner of his relations or friends. However, it is subject to a stipulation by the commissioner. The commissioner will be able to determine whether a person is really a friend or a member of his family. Therefore, this is not a right which is only now being written into the penal code. Any person who wants to see a prisoner may go to the prison and say that he is a friend of the prisoner. In co-operation with the police the prison authority may then determine whether he is really a friend of the prisoner. Then there is no objection to the prisoner seeing his real friends or family.</p>
+
+<p>I come now to the contentious clause 115. The hon. member for Houghton asked me what the reaction of the Bench had been. I referred this Bill to the Bench.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs. <person refersTo="hansard_za">H. SUZMAN</person>:</from>
+
+<p>I asked about the Bar Council.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>: I received considerable comment from the Bench, but I do not think that hon. members in this House want me to drag the Bench into this argument. Therefore I shall prefer not to say anything about what I received from the Bench. The General Bar Council also commented, and indicated that they were satisfied with clause 115, with this exception that they should like to see subsections (3) and (4) disappear. I shall debate this matter further later on. Apparently they were satisfied with the basic provision. They also submitted a memorandum in which there were other arguments, but I am now speaking on the basis of their official letters. The Association of Law Societies also supported clause 115. We who are practising members of the profession and have had many criminal cases, know that at least one-third of the evidence led by the State in a criminal case today is in fact unnecessary. The legal practitioner sits there and knows without a doubt that his client cannot dispute the evidence of certain State witnesses. He knows this, but he remains sitting there, for as our system exists at present, he is trying to see whether he cannot get hold of something with a baited hook. He knows that a witness is going to give certain evidence, and he is simply waiting to see whether that person will not perhaps give evidence incorrectly and leave an opening which he will be able to capitalize on. If clause 115 becomes law, it <span class="col_3353-3354" refersTo="page_0270"/>will save a third of the time of the courts and the accused.</p>
+
+<p>Before I argue any further, I want to quote two passages which, in my opinion, may as well be read again. The Criminal Law Revision Committee of England quoted Bentham as follows&#x2014;</p>
+
+<block name="quote">If all criminals of every class had assembled and framed a system after their own wishes, is not this the rule, the very first which they would have established for their security: innocence never takes advantage of it; innocence claims the right of speaking as guilt invokes the privilege of silence.</block>
+
+<p>When a man remains silent in the face of his accusers, it speaks louder than the few mistakes another person may make in his explanations. One can very quickly judge when a person who is furnishing an explanation makes an honest mistake, but a person who remains completely silent, very often does so only out of cunningness. A cunning person knows that if he says nothing, nothing can be said against him and nothing can be brought against him. I want to state candidly that there are probably many legal practitioners here who would agree with me when I say that, when a person comes to me, as an advocate, my first question to him is: &#x201C;Did you say anything?&#x201D; If he comes for a consultation, my first question as advocate is: &#x201C;Did you say anything to the police?&#x201D; If he then says &#x201C;no&#x201D;, I say: &#x201C;Very well, my advice to you is to say nothing&#x201D;.</p>
+
+</speech>
+
+<speech by="#van_rensburg">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. J. VAN RENSBURG</person>:</from>
+
+<p>Cunning, isn&#x2019;t it?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>This is what generally happens, for our present system lends itself to this. If the provisions contained in clause 115 were to be applied, surely the advocates would change their approach too. One applies the system one has. The Scotting Commission on Criminal Procedure said the following&#x2014;</p>
+
+<block name="quote">We accept the arguments in favour of a revival of judicial examination put forward by many of our witnesses who are closely involved in the day to day working of the criminal courts. If judicial examination will assist in the ascertainment of truth, as we think it will, we see no good reason why it should not be reintroduced into our system in a realistic form. It is difficult to see how such questions could prejudice the position of an innocent accused, and even more difficult to appreciate why they should be regarded as unfair to a guilty accused.</block>
+
+<p>How does this procedure work? When a person appears before the magistrate and pleads not guilty, the first question that is put to him, is: &#x201C;Why do you say you are not guilty?&#x201D; Some hon. members implied that what follows is an inquisition, that what follows is an interrogation, but this is not so. If a person is not guilty, surely one is entitled to ask him: &#x201C;Why do you say you are not guilty? What are your reasons?&#x201D; Surely he must have a defence. The first question asked is: &#x201C;What is your actual defence. You say you are not guilty, but what is your defence?&#x201D; These are simple questions. The accused may say that he was not there. Then the magistrate knows that the accused is going to dispute the case, and that he knows nothing of the events because he was not there at all. In an assault case the accused may say: &#x201C;Yes, but he hit me first. I was there. There was a fight, but he hit me first. It was self-defence.&#x201D; In that case the magistrate and everyone involved knows precisely what is happening. In major trials such as those to which the hon. member for Durban North referred, the advocates are going to be saddled with clause 115 and will say to one another that they must not score debating points off one another. What facts do we accept? Let us argue the case here. A list is compiled and when the trial begins that list is quite simply handed in, in terms of clause 115, as evidence which is accepted. There is no argument about this, and it means that at least half of the witnesses waiting in the passage outside may now go home. The defence has already conceded that. [Interjections.] Yes, it is virtually being done today in any case. Therefore, there is no inquisition in progress here. The Bill states quite clearly that he may put questions to him. Surely he may draw inferences, and if there is a witness who cannot understand the questions, the questions will not be put to him; otherwise the question will be explained carefully. All that he has to do here is to unravel the matter a little. <span class="col_3355-3356" refersTo="page_0271"/>Now, hon. members have asked me: How will he know which questions to put; how will he know what is in dispute? The prosecutor must state what is in dispute. The prosecutor must rise and say that he has evidence, or he may even put it in writing. He may say that he is going to lead evidence that the accused did certain things. The magistrate is seated in court and makes notes of what the prosecutor says and of what the State&#x2019;s case is going to be. Here the State&#x2019;s case is disclosed to the accused. The magistrate writes those facts down. He may not ask the accused questions which could incriminate him. Hon. members implied that, in terms of this clause, we are going to come down on a person until he is found guilty, but there is a clause in the Bill which reads that an accused need not reply to a question which would incriminate him.</p>
+
+</speech>
+
+<speech by="#pitman">
+
+<from>Mr. <person refersTo="hansard_za">S. A. PITMAN</person>:</from>
+
+<p>It says he must get admissions.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>He may not put such questions to him. The hon. member for Durban North implied that the magistrate would now put questions which would demonstrate the guilt of the accused. That is not so. It is not stated in the Bill. He may not ask the accused, for example, whether he is guilty of committing the murder. &#x201C;Did you murder that person with the intent to murder?&#x201D; He may not ask such questions. He may only put questions which skirt around the issue and he must say to the accused: &#x201C;You need not reply to the question; it is an incriminating question.&#x201D;</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>*Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>Where is that stated? Is it in the Bill?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>It is stated in the Bill. All the hon. member must do is read it.</p>
+
+</speech>
+
+<speech by="#miller">
+
+<from>*Mr. <person refersTo="hansard_za">H. MILLER</person>:</from>
+
+<p>Is it stated in the Bill that he must caution him?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I want to reply to the hon. member for Jeppe at once. He made a <i>very</i> fine speech this afternoon, but it was a precise replica of his 1973 speech. In 1973 the hon. member worked very hard; he read through the Botha Commission report and he studied the Bill of that time very thoroughly.</p>
+
+<p>That was why he kept on telling us that clause 115 was the same as clause 119. He did precisely what a person does who has to sit for an examination and who has spotted a question on the flea, has learned all there was to know about this subject only to find when he got to the examination room that the question had been set on the elephant. Well, there he sits; he does not know what to do. Now he says, just as that hon. member did, that an elephant has many fleas. Then he writes all he has learned about a flea. That is what the hon. member did. He learned all there was known about clause 119 in the old Bill. Now he is dragging it into this Bill, come what may. There are only two subsections of clause 115 which cause us concern, viz. (3) and (4). Clause 115(3) provides that&#x2014;</p>
+
+<block name="quote">Where an accused declines to make a statement under subsection (1) or to reply to a question put to him under subsection (2), the court may draw such inference from his silence as is reasonable in the circumstances.</block>
+
+<p>I want to admit very candidly that I think there is perhaps substance in the argument that if this is contained in the Statute Book, the accused may feel that he must at least say something. It may appear as though he is being forced, and I am now in the process, together with the Justice group and the department, of considering whether we should retain subsection (3). The fact that we are still, at this late stage, considering such matters, ought to indicate that we are entirely serious when we say that we are prepared to consider and reconsider the Bill until it is 100% correct. I think the argument in favour of the retention of the subsection is that a person is entitled to say why he remained silent. The magistrate must, after all, have the right to ask him why he remained silent. Those questions of the magistrate form part of the record. An appeal may be lodged against it. Therefore, if the State makes a mistake, if the magistrate asks a question which he may not ask, which could cause a miscarriage of justice, it is possible to appeal against it because it forms part of the record. If this happens, the prosecutor may include that specific matter in his cross-examination. For example he can begin by asking the <span class="col_3357-3358" refersTo="page_0272"/>accused: &#x201C;Why did you not reply to the questions a moment ago? Now you will have to reply. Now you are under cross-examination. Now I want the answers from you.&#x201D; The accused could have replied to the same questions previously. Therefore, the magistrate may draw the inference in any event that it is strange that the man remained silent. Therefore it is formality. But it is a little worrisome. I should not like to create the impression that pressure is being exerted on an accused to say something. We are still working on this at the moment, and we shall reach a final decision on it tomorrow, during the Committee Stage, as to whether or not we should abandon that aspect.</p>
+
+<p>Another objection raised was to clause 115(4), which reads&#x2014;</p>
+
+<block name="quote">Where the legal adviser of an accused on behalf of the accused replies, whether in writing or orally, to any question by the court under this section, the accused shall be required by the court to declare whether he confirms such reply or not.</block>
+
+<p>The argument of some hon. members on the opposite side was that an attorney is entitled to make certain admissions on behalf of his client. They wanted to know why the client should consequently confirm it. Hon. members who have had considerable experience of criminal cases will know why it is absolutely necessary that these things should be confirmed by the accused. How many times does it not happen that an attorney defends a person in a court case and in the end advises him not to enter the witness-box, i.e. after the advocate has analysed all the evidence and made a proper evaluation of it. It happens that if the client obeys the recommendation of his legal representative and does not appear in the witness-box he may still be found guilty nevertheless. Do you know, Sir, that 99 times out of a 100 it happens that that person immediately writes a letter from the prison to the judge or the chief justice in which he alleges that his attorney did not want him to testify in his own defence. He agreed when his legal representative advised him to stay away from the witness-box, but when he finds himself in prison, he does not blame himself, but his legal representative. As the hon. member for Durban North will know, it frequently happens that a client changes his legal representative. It sometimes happens that a specific lawyer, in terms of clause 115, made certain admissions on behalf of his client. Now that legal representative recuses himself for some reason and another legal representative takes over the case. The first thing the accused tells his new legal representative is that he withdraws the admissions made on his behalf by his previous legal representative. The accused sometimes alleges that his previous legal representative made such admissions of his own volition. This happens of course when an accused sees that his case is beginning to falter. He therefore looks around for people to blame. The first thing he does is to say that the admissions which his first legal representative made on his behalf, were made without his actual consent.</p>
+
+<p>The legal practitioner must therefore be protected. The legal practitioner will admit nothing which he has not been instructed to admit by the accused. The protection, therefore, lies therein that the accused has to confirm that admissions which were made on his behalf were made under his instructions, and that he abides by them. The reason why this is so is because it forms part of the record. Because it forms part of the record, the accused has to say so himself. That is why clause 115(4) has been inserted in the Bill. My personal opinion is that it is a very good arrangement.</p>
+
+<p>I come now to the criticism of clause 151. Clause 151 provides that the accused must testify first for the defence. On this the hon. member for Durban North unleashed a terrible tirade. The hon. member said terrible things about this clause. However, there was something he omitted to say, and I take it that he did so because he did not see it. I cannot imagine that he would have omitted to mention it if he had in fact read it. It seems to me as though the hon. member might not have read the Bill in full. The hon. member omitted to say that the requirement that the accused shall testify first, is subject to &#x201C;except where the court&#x2026; allows otherwise&#x201D;. The hon. member mentioned instances in which technical evidence has to be presented which would prove immediately that the accused was not guilty. The hon. member is now alleging that this technical evidence cannot be presented, because it is required that the accused should appear first in the <span class="col_3359-3360" refersTo="page_0273"/>witness-box. The hon. member alleged that we want to induce the accused to, as it were, &#x201C;talk himself guilty&#x201D; while the technical evidence proves him to be not guilty. But that is a technical matter which the accused does not himself understand. The hon. member used drugs as an example. The accused, in the hon. member&#x2019;s example, used a drug but technically it might not answer to the definition of a drug. The technical evidence would be able to prove this. However, the accused is now forced to enter the witness-box first. Sir, surely this is simply not the case. The prosecutor or the defence can immediately inform the court that there is technical evidence which can tell us whether the substance found in the possession of the accused was or was not dagga. Under those circumstances the technical witness may in fact testify first. This refutes the entire argument of the hon. member for Durban North. It is a sound principle that the accused should testify first. How many times have we who have been in practice not had to listen to our clients giving testimony which differed from what they told us in the office. He is giving different testimony, because four of his friends whom we called for the defence, told different stories and he is adapting his story to their evidence. The accused sits there listening to what the defence witnesses say, and the witness imagines himself to be clever and tells a story which he thinks would get the accused off. The accused is often so stupid, and at that stage in such a state, that he immediately changes his evidence to fit in with the story told by the witness. The result is that all of them frequently find themselves in trouble. Therefore I say that the best thing we could do is to tell an accused to go under cross-examination and to declare what he did. The witnesses for the accused may subsequently be brought in to support him. In this way the accused does not alter his evidence to adapt to that of the defence witnesses.</p>
+
+<p>Reference was made to clauses 182, 183 and 185. Clause 182 reads&#x2014;</p>
+
+<block name="quote">A prisoner who is in a prison shall be subpoenaed as a witness on behalf of the defence or a private prosecutor only if the court before which the prisoner is to appear as a witness authorizes that the prisoner be subpoenaed as a witness, and the court shall give such authority only if it is satisfied that the evidence in question is necessary and material for the defence or the private prosecutor, as the case may be, and that the public safety or order will not be endangered by the calling of the witness.</block>
+
+<p>Mr. Speaker, do you know what is happening these days? A new game began two, three months ago. Every accused in a terrorist trial who is charged with having done something in Soweto, for example, in 1976, wants to call witnesses from Robben Island, and begins to subpoena them. This is strange, but it happens. The accused now wants to subpoena these people, and they have to brought from Robben Island to the court in Johannesburg. This is the very simple reason for this clause being in the Bill. In terms of this clause a witness may only be called when the court rules that his evidence is necessary and relevant. It is very easy simply to subpoena witnesses and turn round afterwards and say that they were not really necessary. In the meantime he was there as an inspiration to the accused, to everyone. After all, he is now a prisoner, one of the heroes. Now he stands there, and boosts everyone&#x2019;s morale. That is in fact what is happening here. I am afraid that it simply does not work anymore.</p>
+
+<p>I want to turn now to clause 185, at which criticism was also levelled. This deals with the witness who is detained for his own safety by the State. The objection is being made to the fact that the person is brought to court and is taken from thence back to the prison. It is so simple to understand that a witness whom we are detaining, who has to be detained for his own safety, as a result of the Attorney-General&#x2019;s decision, is either a witness who is going to disappear before the court case takes place because they might kill him, or a witness whom they are going to attempt to influence to such an extent that he is no longer able to give any evidence at all.</p>
+
+<p>I must say, as I said at the beginning, that the State was not born yesterday. We have also seen through what people who are really guilty try doing to get out of their predicament. In my humble opinion this provision is there to protect the witness. It has happened already, and hon. members have asked me what happens afterwards, whether we throw him to the wolves. After that the roles are <span class="col_3361-3362" refersTo="page_0274"/>reversed. A person who is now at large and who appears in the courts as an accused, goes to prison, and the witness is released. Moreover, we also see to it that the witness does not return to that area where the gangs can get hold of him to kill him. We offer him full protection, and that is all we want to give him. If I look at the hon. member for Houghton, who is sitting there mumbling to herself &#x2026; She looks up at the ceiling, and when she hears the word &#x201C;Black!&#x201D; she jumps this high and begins mumbling about the Blacks whom we are allegedly ruining and destroying. I should very much like to see the day when the hon. member has something good to say about the police and the State, and something in defence of the judicial procedure.</p>
+
+<p>The other item of criticism referred to the evidence of husband and wife, in cases where they are charged together. The hon. member for Durban North was quite correct that this was concerned with the case in which the two have committed murder. What the hon. member wants is that the evidence of a husband and wife may under no circumstances be used against either. It is stated in this way in the Bill, but he wants them to be able to give evidence against one another where there was a common purpose.</p>
+
+<p>The clause in the Bill was quite simply taken from the recommendations of the Botha Commission. I am quoting from page 43 of the report&#x2014;</p>
+
+<block name="quote">11.08.6 It is accordingly recommended that the following subsection be added to section 227 of the Criminal Procedure Act&#x2014;</block>
+
+<block name="quote">&#x201C;The evidence which a co-accused gives in his own defence on his own application in a joint trial, shall not, merely by reason of the fact that he is for any reason an incompetent witness for the prosecution against the other co-accused, be inadmissible against the latter.&#x201D;</block>
+
+<p>This relates to the evidence of husband and wife. Mr. Justice Botha discussed the entire Groesbeek case in which the two committed the murder and where the wife&#x2019;s evidence could not be used against the husband, etc. Mr. Justice Botha then made this recommendation, and it has been written into the Bill just as it was. I think it is a very good improvement on what the provision used to be.</p>
+
+<p>The hon. member for Durban North also had objections in regard to clause 213. In this clause the written statement of a witness may be allowed as evidence, and I think one ought to read what the hon. member for Durban North had to say in this regard. It was as though the heavens had descended, and he described it as an abomination. I am quoting what the hon. member said (Hansard, 9 March, col. 3249)&#x2014;</p>
+
+<block name="quote">I then want to come to clause 213. This is one of the most pernicious clauses in the whole Bill. That clause provides that written statements by any person other than the accused shall be evidence to the same effect as oral evidence.</block>
+
+<p>Once again the hon. member omitted to read something in the Bill. He forgot a very important provision in the Bill, i.e. that it may only be used as evidence if the accused gives his consent to this after it has been submitted to him. The statement is submitted to the accused, and after having been submitted to him, they ask him whether it may serve as evidence, and if he agrees, it may serve as evidence. If he wishes to ask questions in regard to it, it may not serve as evidence.</p>
+
+</speech>
+
+<speech by="#pitman">
+
+<from>Mr. <person refersTo="hansard_za">S. A. PITMAN</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>That is what is stated in the Bill. If the hon. member were to read the Bill, he would find that the written statement may only become evidence with the consent of the accused. Anything may be done in a court with the consent of these people. Surely there is nothing wrong with that. I think I should quote it to the hon. member quickly, for it does not seem as if he believes me. I am quoting from the Bill (clause 213(2)(d) and (e))&#x2014;</p>
+
+<block name="quote">(d) If a party objects under paragraph (c) that the statement in question be tendered in evidence, the statement shall not, but subject to the provisions of paragraph (e), be admissible as evidence under this section.</block>
+
+<block name="quote"><span class="col_3363-3364" refersTo="page_0275"/>(e) If a party does not object under paragraph (c) or if the parties agree before or during the proceedings in question that the statement may be so tendered, the statement may, upon the mere production thereof at such proceedings, be admitted as evidence in the proceedings.</block>
+
+<p>This takes place with the consent of the accused, after he has gone through it himself.</p>
+
+<p>I want to come now to the criticism in regard to automatic review. We believe that automatic review serves a very good, a very real purpose in our legal system, and we do not want to detract from it in any way. I shall argue the matter in full in the Committee Stage. However, I want to try to lay down the principle of review here. What is the principle of review, and why is the work of a judge not reviewed by the Appeal Court? Have hon. members ever asked themselves this question? The work of the magistrates is reviewed by the Supreme Court, but the work of Supreme Court judges is not reviewed by the Appeal Court. The reason for this is obvious, i.e. the judge&#x2019;s experience. No one appears on the Bench before he has had a long period of professional practice behind him. Usually he has first been a senior advocate, and after a long period in professional practice, he qualifies for the Bench. Only then does he become a judge. In other words, he has been a practising member of the profession for approximately 10 years before he becomes a judge. The principle is tacitly laid down that the decisions of any person who, for a certain period of time, has had practical experience of the professor, need not be reviewed. The judge has been drawn from the advocates&#x2019; profession, in which he has served for some time. However, the magistrate is not simply a person who fell out of a clear, blue sky and landed on a magistrate&#x2019;s bench. He, too, has come a long way and has been active in the courts for a long time. Hon. members need only ask the legal practitioners in this House. I have come up against prosecutors for whom I still have respect today, for the simple reason that one is aware that he knows his work, for he does it every day, and he is experienced. Now he becomes a magistrate, after he has qualified, after he has acted as prosecutor for all those years. I cannot, in principle, see anything wrong with it if we were to say that after he has served as a magistrate for a certain time he is also entitled to relief as far as reviews are concerned.</p>
+
+<p>The Bench is also entitled to a little relief for there is a tremendous amount of work attached to such review. At present cases are automatically reviewed when the sentence is imprisonment for more than three months or a fine exceeding R200. This means that the case of any person who has been sentenced to imprisonment for more than three months or to a fine exceeding R200 is automatically reviewed. The judge has to go through a great many of these cases to see whether the verdict was correct. If one were to look at the statistics, one would see that the number of occasions on which a magistrate is reprimanded on review is very limited. I am not in favour of review being abolished; I am in favour of our retaining it. I am, however, prepared to reconsider this provision to see whether, under certain circumstances, a higher review jurisdiction could not perhaps be granted to magistrates, for example only where the sentence is imprisonment for six months and a fine of R500 or more, so that the amount of work of the Supreme Court may be reduced without detracting from the good work which is being done by the courts.</p>
+
+<p>I do not think there is anything further I have to say. However, if there are any questions, I should like to reply to them. The hon. member for Rosettenville has two amendments on the Order Paper. The hon. member spoke with a background of knowledge which I do not have. I admit that candidly. I made notes of the representations he addressed, but I should like to argue the matter with him during the Committee Stage, for what I have to say about this during the Second Reading I shall have to repeat in any case. I have a great deal of sympathy for what the hon. member said. In some respects we are experiencing practical problems, but the principle he wants laid down is correct, and I want to assure him that I agree with it. He and I are not, therefore, talking at cross purposes, but from the same angle. I shall submit my problems to him during the Committee Stage and, owing to his superior knowledge, he can perhaps help to correct me as far as our problems are concerned. In this matter I have an open mind, and I am prepared to listen, for it is a very important matter dealing with people who are mentally <span class="col_3365-3366" refersTo="page_0276"/>ill. I do not think there is anyone in this House who would like to place people who are mentally ill in a position in which they ought not to be. If the hon. member agrees, I shall therefore go into this later.</p>
+
+<p>The hon. member for Musgrave put forward very interesting points. I do not know what came over the hon. member, for he was quarrelling with all of us. He even started in on the Chair. The hon. member had it in for all of us this afternoon. I wrote down and went through the eight points he raised. I could reply to the points one by one, but many of them are fundamental differences of principle, and these I tried to reply to when I was speaking a moment ago. I said then that I thought that the hon. member was arguing from incorrect premises. I think the hon. member sees more in clause 115 than is actually there. It is in reality a simple clause, and the magistrate need not even use it. The clause provides that the magistrate may use it. I have every confidence in our magistrates and believe that, if they feel in any way that an injustice could be committed against an accused by asking him questions, they would prefer not to ask any questions. I am convinced of that. Where a case is simple and it can be dealt with with the aid of only one or two witnesses, the magistrate will not say a word to the accused. He will merely ask him to plead, and after he has done so, the magistrate will ask for the State witnesses to be brought so that the case can be disposed of. In such circumstances he need not take trouble with a person who is obviously not going to understand. I therefore have every confidence that clause 115, in regard to which many misgivings have been expressed, will work very well in practice and that the magistrates will use the clause to save time and to ensure that justice is done, for the accused as well. In many cases a court case is prolonged, and it is in the interests of the accused that the court case be shortened, for every minute during which people are speaking on his behalf, costs him money. If there are things with which he agrees, therefore, he should say so as quickly as possible, so that that aspect can be disposed of.</p>
+
+<p>I think that I have now replied to all hon. members. I am now looking forward to the Committee Stage of the Bill.</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>Did I understand the hon. the Minister correctly that the Association of Law Societies are in complete agreement with clause 115?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Do you wish me to read their letter out to you?</p>
+
+</speech>
+
+<speech by="#aronson">
+
+<from>Mr. <person refersTo="hansard_za">T. ARONSON</person>:</from>
+
+<p>Did I understand you correctly, that the association is in agreement with this clause?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>They sent us a memorandum in which they debate certain points, but they are in general agreement with this, in that they say that it is a good Bill. They added a memorandum arguing certain points for our consideration, but their general attitude is that this is a good Bill, even if we do not accept their points. They were trying to be helpful, and that was all.</p>
+
+</speech>
+
+<speech by="#webber">
+
+<from>Mr. <person refersTo="hansard_za">W. T. WEBBER</person>:</from>
+
+<p>What was their attitude to clause 115?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I am telling you what their attitude was, and you must accept that.</p>
+
+<p>Question put: That the word &#x201C;now&#x201D; stand part of the Question,</p>
+
+<p>Upon which the House divided:</p>
+
+<p>Ayes&#x2014;100: Albertyn, J. T.; Aronson, T.; Badenhorst, P. J.; Ballot, G. C.; Barnard, S. P.; Bodenstein, P.; Botha, G. F.; Botha, J. C. G.; Botha, P. W.; Botma, M. C.; Brandt, J. W.; Clase, P. J.; Coetsee, H. J.; Coetzee, S. F.; Conradie, F. D.; Cruywagen, W. A.; Deacon, W. H. D.; De Jager, A. M. van A.; De Klerk, F. W.; De Villiers, D. J.; De Wet, M. W.; Du Plessis, B. J.; Du Plessis, G. F. C.; Du Plessis, G. C.; Du Plessis, P. T. C.; Greyling, J. C.; Grobler, M. S. F.; Grobler, W. S. J.; Hayward, S. A. S.; Hefer, W. J.; Henning, J. M.; Herman, F.; Hickman, T.; Hoon, J. H.; Horn, J. W. L.; Janson, J.; Janson, T. N. H.; Kotzé, G. J.; Kotzé, S. F.; Krijnauw, P. H. J.; Kruger, J. T.; Langley, T.; Le Roux, F. J. (Brakpan); Le Roux, F. J. (Hercules); Le Roux, Z. P.; Ligthelm, C. J.; Lloyd, J. J.; Louw, E.; Malan, G. F.; Malan, W. C.; Maree, G. de K.; Meyer, P. H.; Morrison, G. de V.; Mouton, C. <span class="col_3367-3368" refersTo="page_0277"/>J.; Muller, S. L.; Nel, D. J. L.; Niemann, J. J.; Nothnagel, A. E.; Palm, P. D.; Potgieter, J. E.; Potgieter, S. P.; Reyneke, J. P. A.; Rossouw, W. J. C.; Schoeman, J. C. B.; Scott, D. B.; Simkin, C. H. W.; Snyman, W. J.; Steyn, S. J. M.; Streicher, D. M.; Swanepoel, K. D.; Terblanche, G. P. D.; Treurnicht, A. P.; Treurnicht, N. F.; Ungerer, J. H. B.; Uys, C.; Van den Berg, J. C.; Van den Heever, S. A.; Van der Merwe, H. D. K.; Van der Merwe, P. S.; Van der Merwe, S. W.; Van der Spuy, S. J. H.; Van der Walt, A. T.; Van der Walt, H. J. D.; Van der Watt, L.; Van Heerden, R. F.; Van Rensburg, H. M. J.; Van Tonder, J. A.; Van Wyk, A. C.; Van Zyl, J. J. B.; Venter, A. A.; Viljoen, P. J. van B.; Vlok, A. J.; Volker, V. A.; Vorster, B. J.; Vosloo, W. L.; Wiley, J. W. E.</p>
+
+<p>Tellers: P. C. Roux, A. van Breda, C. V. van der Merwe and W. L. van der Merwe.</p>
+
+<p>Noes&#x2014;33: Bartlett, G. S.; Basson, J. D. du P.; Baxter, D. D.; Bell, H. G. H.; Cadman, R. M.; De Villiers, I. F. A.; Eglin, C. W.; Enthoven &#x2019;t Hooft, R. E.; Fisher, E. L.; Graaff, De V.; Hourquebie, R. G. L.; Hughes, T. G.; Jacobs, G. F.; McIntosh, G. B. D.; Miller, H.; Murray, L. G.; Oldfield, G. N.; Olivier, N. J. J.; Page, B. W. B.; Pitman, S. A.; Pyper, P. A.; Schwarz, H. H.; Sutton, W. M.; Suzman, H.; Van Eck, H. J.; Van Hoogstraten, H. A.; Van Rensburg, H. E. J.; Von Keyserlingk, C. C.; Wainwright, C. J. S.; Webber, W. T.; Wood, L. F.</p>
+
+<p>Tellers: D. J. Dalling and R. M. de Villiers.</p>
+
+<p>Question affirmed and amendment dropped.</p>
+
+<p>Bill accordingly read a Second Time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#bantu_laws_amendment_bill">
+
+<heading>BANTU LAWS AMENDMENT BILL</heading>
+
+<p>Bill read a First Time.</p>
+
+</debateSection>
+
+<debateSection name="#adjournment_of_house">
+
+<heading>ADJOURNMENT OF HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Mr. Speaker, I move&#x2014;</p>
+
+<block name="quote">That the House do now adjourn.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1977-03-10T18:16:00">18h16</recordedTime>.</p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
