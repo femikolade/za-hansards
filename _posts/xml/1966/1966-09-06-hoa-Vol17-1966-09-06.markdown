@@ -1,0 +1,49 @@
+---
+title: 'House of Assembly: Vol17 - TUESDAY 6 SEPTEMBER 1966'
+layout: debate
+year: 1966
+month: SEPTEMBER
+month_slug: Sep
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_2005-2006" refersTo="page_1014"/>TUESDAY, 6TH SEPTEMBER, 1966</heading>
+
+<prayers>
+
+<narrative>
+
+Prayers&#x2014;<recordedTime time="1966-09-06T14:40:00">2.40 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#motion_for_adjournment">
+
+<heading>MOTION FOR ADJOURNMENT</heading>
+
+<speech by="#minister_of_transport">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRANSPORT</person>:</from>
+
+<p>Mr. Speaker, I have not yet heard officially from the hospital whether the Prime Minister is still alive; I do not think he is. At this stage I therefore wish to move as an unopposed motion&#x2014;</p>
+
+<block name="quote">That the House do now adjourn.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1966-09-06T14:43:00">2.43 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
