@@ -1,0 +1,2447 @@
+---
+title: 'House of Assembly: Vol10 - TUESDAY 25 OCTOBER 1927'
+layout: debate
+year: 1927
+month: OCTOBER
+month_slug: Oct
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 25th OCTOBER, 1927.</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the Chair at <recordedTime time="1927-10-25T14:21:00">2.21 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#deputy-chairman&#x2019;s_remuneration">
+
+<heading>DEPUTY-CHAIRMAN&#x2019;S REMUNERATION.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I have received a letter from the Deputy-Chairman of Committees requesting that the nature of his duties and the remuneration attached to his office be taken into consideration.</p>
+
+<p>Letter referred to Committee on Standing Rules and Orders.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_appointments">
+
+<heading>SELECT COMMITTEE APPOINTMENTS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that the Committee on Standing Rules and Orders had discharged Mr. Conroy from service on the Select Committee on Native Affairs and had appointed Dr. D. G. Conradie in his stead.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>DRIED FRUIT IMPORTS.</heading>
+
+<question by="#stals" to="#minister_of_agriculture">
+
+<num>I.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether it is a fact that large quantities of dried fruit have been imported into the Union under dumping conditions; if so,</li>
+
+<li>(2) from which countries did such fruit originally come;</li>
+
+<li>(3) what kinds of such fruit, and approximately what quantity of each kind, were imported during last year; and</li>
+
+<li>(4) whether the Government intends to take any steps to protect local producers; and, if so, what steps?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#stals">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) An inspection of documents in merchants&#x2019; possession does not disclose any evidence of dried fruit having been imported into the Union under conditions which would bring it within the provisions of our dumping legislation. The types of dried fruit imported in any quantity are those which are not ordinarily produced in the Union such as dates from Mesopotamia and currants from Australia and Greece. When, however, a shortage of any particular fruit is anticipated owing to a bad season, importations take place at world&#x2019;s market prices.</li>
+
+<li>(2),</li>
+
+<li>(3) and</li>
+
+<li>(4) Fall away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DROUGHT LOSSES.</heading>
+
+<question by="#stals" to="#minister_of_agriculture">
+
+<num>II.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether returns have been obtained of the numbers of small and large stock that died in consequence of the drought in the drought-stricken districts;</li>
+
+<li>(2) what are approximately the numbers for the different districts respectively, and the total;</li>
+
+<li>(3) what is the financial loss estimated at; and</li>
+
+<li><span class="col_201-202" refersTo="page_0167"/>(4) whether it is fair to conclude that the use of wire-netting fences in the proclaimed districts diminished the losses?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#stals">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) and (2) Reliable statistics cannot be furnished at this stage owing to the fact that it is uncertain whether the great number of stock sent out of the drought-stricken districts will return. Statistics regarding large stock are not available, but returns have been obtained from sheep inspectors in regard to losses of sheep and goats that died in consequence of the drought and disease in the proclaimed drought-stricken districts during the 12 months ended 30th June, 1927. On that date the losses were as follows, viz.:</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>District.</p></td>
+
+<td><p>Losses through drought.</p></td>
+
+<td><p>Losses through disease.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Aberdeen</p></td>
+
+<td><p>169,977</p></td>
+
+<td><p>8,845</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Beaufort West</p></td>
+
+<td><p>241,194</p></td>
+
+<td><p>18,249</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Calitzdorp and Oudtshoorn</p></td>
+
+<td><p>1,859</p></td>
+
+<td><p>412</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Carnarvon</p></td>
+
+<td><p>30,005</p></td>
+
+<td><p>7,484</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Ceres</p></td>
+
+<td><p>2,500</p></td>
+
+<td><p>3,000</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Fraserburg</p></td>
+
+<td><p>147,132</p></td>
+
+<td><p>8,852</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Graaff-Reinet</p></td>
+
+<td><p>27,054</p></td>
+
+<td><p>10,069</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Jansenville</p></td>
+
+<td><p>173,768</p></td>
+
+<td><p>3,767</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Ladismith</p></td>
+
+<td><p>7,500</p></td>
+
+<td><p>3,000</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Laingsburg</p></td>
+
+<td><p>18,300</p></td>
+
+<td><p>4,060</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Murraysburg</p></td>
+
+<td><p>73,778</p></td>
+
+<td><p>Not obtainable.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Prince Albert</p></td>
+
+<td><p>67,791</p></td>
+
+<td><p>4,633</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Riversdale</p></td>
+
+<td><p>7,234</p></td>
+
+<td><p>4,136</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Somerset East</p></td>
+
+<td><p>25,951</p></td>
+
+<td><p>9,802</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Steytlerville</p></td>
+
+<td><p>88,264</p></td>
+
+<td><p>1,958</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Sutherland</p></td>
+
+<td><p>19,909</p></td>
+
+<td><p>6,132</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Uitenhage</p></td>
+
+<td><p>6,252</p></td>
+
+<td><p>1,696</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Victoria West</p></td>
+
+<td><p>63,090</p></td>
+
+<td><p>2,676</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Williston</p></td>
+
+<td><p>93,980</p></td>
+
+<td><p>800</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Willowmore</p></td>
+
+<td><p>101,805</p></td>
+
+<td><p>19,043</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Total</p></td>
+
+<td><p>1,367,343</p></td>
+
+<td><p>118,614</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(3) Since these statistics were obtained, the position has become worse and if losses represented by increase by breeding and future wool clips are taken into consideration, an estimated loss of &#x00A3;3,000,000 is not too low.</li>
+
+<li>(4) Yes.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>WHISKY IMPORTS.</heading>
+
+<question by="#stals" to="#minister_of_finance">
+
+<num>III.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) How many gallons of whisky were imported into the Union for local consumption during the half-years: January to June, 1926, July to December, 1926, and January to June, 1927;</li>
+
+<li>(2) what was the value thereof; and</li>
+
+<li>(3) how much was paid in customs duty on this importation for each of the half-years mentioned?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#stals">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) and</li>
+
+<li>(2) January to June, 1926, 175,867 gallons, value &#x00A3;226,987; July to December, 1926, 135,037 gallons, value &#x00A3;172,872; January to June, 1927, 130,039 gallons, value &#x00A3;168,090.</li>
+
+<li>(3) Half-yearly figures for 1920 are not available, but &#x00A3;704,392 was paid in Customs duty on whisky during the year. In the half-year ended 30th June, 1927, &#x00A3;237,492 was collected by way of Customs duty on whisky.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>REGISTRY OF DEEDS, FILING FEES IN.</heading>
+
+<question by="#conradie" to="#minister_of_finance">
+
+<num>IV.</num>
+
+<from>Dr. D. G. CONRADIE</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that in the registry of deeds and certain other public offices in the Orange Free State a filing fee is charged on documents filed of record, in addition to the usual stamp duty; if so,</li>
+
+<li>(2) whether he approves of the Free State public being in this way made to pay a tax which is not levied in the other provinces; and</li>
+
+<li>(3) whether, if he does not approve, he will take steps to remove this injustice?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#conradie">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) and (3) The fee in question is payable under Orange Free State Ordinance No. 10 of 1903, but the question of its abolition will be taken into consideration.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>POSTS: ACTING ASSISTANT P.M.G.</heading>
+
+<question by="#giovanetti" to="#minister_of_posts_and_telegraphs">
+
+<num>V.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol>
+
+<li>(1) What are the special, superior, or outstanding attributes that the Assistant Secretary (Postal) (presently Acting Assistant Postmaster-General) is considered to possess to justify his selection for that post in preference to other senior administrative officers of wider experience and higher qualifications;</li>
+
+<li>(2) whether it is the case that this officer performed translating duties exclusively during the years 1910-1922, and that since the latter year his salary has been almost doubled;</li>
+
+<li>(3) what were the circumstances that warranted the creation of the post of translator and statistician with the grade of senior clerk in 1920, when in 1922 it was found that the translating duties could be and were being performed by a woman clerk;</li>
+
+<li>(4) whether it is claimed that the knowledge and experience of postal administration acquired by this officer during the last five years have excelled in quality and merit those achieved by officers whom he has superseded, and, if so, in what respect; and</li>
+
+<li>(5) whether this officer has at any time been reported upon and recommended for advancement by the Departmental Promotions Board, and, if so, for what vacancy, or vacancy?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#giovanetti">
+
+<from><span class="col_203-204" refersTo="page_0168"/>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<ol>
+
+<li>(1) The claims of all eligible officers were carefully considered and the officer concerned was recommended by the Public Service Commission on the ground that he possessed in a greater degree than any of the other candidates the qualifications necessary for the post.</li>
+
+<li>(2) It is not the case that the officer concerned performed purely translating duties during the years 1910-1922.</li>
+
+<li>(3) This officer was appointed translator and statistician on the recommendation of the Promotion Committee. Owing, however, to the enormous increase of statistical work it was found necessary to transfer this particular duty to the accounting division. The translating has at no time been entrusted solely to a woman clerk.</li>
+
+<li>(4) The officer concerned was in the first instance specially promoted during the late Government&#x2019;s term of office and on the special and pressing representations of the Postmaster-General and after the fullest consideration of the Public Service Commission.</li>
+
+<li>(5) Yes, in the first instance he was recommended by the Promotion Committee for the post of translator and statistician. The promotions in the headquarters administration beyond the post of senior clerk are not dealt with by the Promotions Committee. The officer referred to has been very strongly recommended for higher posts by the late Postmaster-General, and also by his successor.</li>
+
+</ol>
+
+</answer>
+
+<question by="#giovanetti" to="#minister_of_posts_and_telegraphs">
+
+<num>VI.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>WAGES AND UNEMPLOYMENT.</heading>
+
+<question by="#gilson" to="#minister_of_labour">
+
+<num>VII.</num>
+
+<from>Mr. GILSON</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) How many investigations have been made, under the Wage Act, into employment and wage conditions, and in what trades; and</li>
+
+<li>(2) how many determinations have been made by the Minister, in which trades, and upon what terms?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#gilson">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<ol>
+
+<li>(1) The following investigations under the Wage Act have been made or are in the course of being made and have reached various stages of progress:&#x2014;</li>
+
+</ol>
+
+<p>A.&#x2014;Investigations completed.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Industry.</p></td>
+
+<td><p>Area.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1.</p></td>
+
+<td><p>Baking and confectionery</p></td>
+
+<td><p>Witwatersrand (supplementary) and Pretoria.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>2.</p></td>
+
+<td><p>Furniture</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>3.</p></td>
+
+<td><p>Leather</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>4.</p></td>
+
+<td><p>Sweets</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>5.</p></td>
+
+<td><p>Pumpmen</p></td>
+
+<td><p>Krugersdorp.</p></td>
+
+</tr>
+
+</table>
+
+<p>B.&#x2014;Investigations still under treatment.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Industry.</p></td>
+
+<td><p>Area.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>6.</p></td>
+
+<td><p>Baking and confectionery</p></td>
+
+<td><p>East London, Bloemfontein and Kimberley.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>7.</p></td>
+
+<td><p>Barmen</p></td>
+
+<td><p>Bloemfontein and Kimberley.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>8.</p></td>
+
+<td><p>Bespoke tailoring</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>9.</p></td>
+
+<td><p>Biscuits</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>10.</p></td>
+
+<td><p>Clothing (readymade)</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>11.</p></td>
+
+<td><p>Glass bevelling and silvering</p></td>
+
+<td><p>Union of South Africa.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>12.</p></td>
+
+<td><p>Hairdressing</p></td>
+
+<td><p>Pretoria.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>13.</p></td>
+
+<td><p>Hairdressing</p></td>
+
+<td><p>Witwatersrand (supplementary).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>14.</p></td>
+
+<td><p>Laundries</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>15.</p></td>
+
+<td><p>Motor omnibus drivers</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>16.</p></td>
+
+<td><p>Shop assistants</p></td>
+
+<td><p>Witwatersrand and Pretoria.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>17.</p></td>
+
+<td><p>Tea, coffee and chicory packing and roasting</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>18.</p></td>
+
+<td><p>Tobacco twisting</p></td>
+
+<td><p>Oudtshoorn.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>19.</p></td>
+
+<td><p>Brickmakers</p></td>
+
+<td><p>Bloemfontein.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>20.</p></td>
+
+<td><p>Firemen employed by whaling companies</p></td>
+
+<td><p>Durban.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>21.</p></td>
+
+<td><p>Storeboys and warehousemen</p></td>
+
+<td><p>Durban.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>22.</p></td>
+
+<td><p>Furniture</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(2) Determinations have been made in the cases of five industries mentioned above in which investigations have been completed. In the cases of Nos. 2, 3 and 4, the determination is supplementary in each case to an agreement under the Industrial Conciliation Act and was rendered necessary by reason of deficiencies of power due to the restricted definition of the terms &#x201C;employer&#x201D; and &#x201C;employee.&#x201D; The determinations were published under the following Government notices:&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td colspan="2"><p>Determination published under Govt.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Industry.</p></td>
+
+<td><p>Area.</p></td>
+
+<td><p>notice.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1.</p></td>
+
+<td><p>Baking and confectionery.</p></td>
+
+<td><p>Witwatersrand (supplementary) and Pretoria.</p></td>
+
+<td><p>1298 of 29.7.27.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>2.</p></td>
+
+<td><p>Furniture</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+<td><p>1089 of 1.7.27.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>3.</p></td>
+
+<td><p>Leather 1</p></td>
+
+<td><p>Union of South Africa (supplementary).</p></td>
+
+<td><p>1460 of 26.8.27.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>4.</p></td>
+
+<td><p>Sweets</p></td>
+
+<td><p>Union of South Africa (certain areas).</p></td>
+
+<td><p>1318 of 5.8.27.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>5.</p></td>
+
+<td><p>Pumpmen</p></td>
+
+<td><p>Krugersdorp</p></td>
+
+<td><p>2158 of 3.12.26.</p></td>
+
+</tr>
+
+</table>
+
+<p>A determination in connection with the clothing industry was made, but was rendered invalid <span class="col_205-206" refersTo="page_0169"/>by a decision of the Supreme Court (Transvaal division) and consequently determinations in the sweet and baking industries were rendered also invalid and have been superseded by the determinations quoted above.</p>
+
+</answer>
+
+<question by="#gilson" to="#minister_of_labour">
+
+<num>VIII.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>WIRELESS TELEGRAPHY ON FARMS.</heading>
+
+<question by="#oost" to="#minister_of_posts_and_telegraphs">
+
+<num>IX.</num>
+
+<from>Mr. OOST</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol>
+
+<li>(1) Whether he is prepared to inform the House what is being done to promote communication between farms by wireless telegraphy;</li>
+
+<li>(2) how many occupiers of farms avail themselves of wireless telegraphy;</li>
+
+<li>(3) whether he is prepared, as far as possible, to introduce into the Union the system adopted by the German Government to encourage the rural population to use wireless telegraphy; and</li>
+
+<li>(4) whether he will take steps to enable the extension section of the Department of Agriculture in particular to make more use of wireless telegraphy?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#oost">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<ol>
+
+<li>(1) Nothing has been done because there is no system of wireless telegraphy which is so suitable as the existing telephone system. In the present state of wireless development wireless telegraphy between farms is not an economical proposition, and apart from this considerable technical knowledge is required in the operation of the necessary sets.</li>
+
+<li>(2) I am not aware of any.</li>
+
+<li>(3) Nothing is known here of such a system, but inquiries will be made.</li>
+
+<li>(4) If the extension section of the Department of Agriculture have any particular points in view where the use of wireless telegraphy would be of value all possible assistance will be given to that section by the post office.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: LADYSMITH GOODS SHED.</heading>
+
+<question by="#anderson" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the space in the Ladysmith goods shed has been found to be inadequate to meet normal requirements as a result of which goods are being dumped in the open:</li>
+
+<li>(2) whether included in the goods so dumped are fertilizers and other perishables which have been placed on the bare ground, no precautions having been taken to prevent damage resulting from such goods being placed on damp ground or from rain wetting the bottom layers; and</li>
+
+<li>(3) what steps, if any, does the Administration propose to take, either to&#x2014;
+
+<ol>
+
+<li>(a) build a new goods shed; or</li>
+
+<li>(b) to make other adequate provision for the suitable warehousing of goods at the Ladysmith railway station?</li></ol></li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) It sometimes happens that the goods traffic dealt with at Ladysmith exceeds the available shed accommodation.</li>
+
+<li>(2) In all cases where it may be necessary to handle goods in the open, adequate precautions are taken to ensure against damage from whatever cause.</li>
+
+<li>(3) The question of providing additional facilities for handling goods traffic at Ladysmith is under consideration with a view to providing the necessary funds in next year&#x2019;s estimates.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<num>XI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>Question withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: STAFF PROBATIONARY PERIODS.</heading>
+
+<question by="#bates" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Mr. BATES</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the probationary period which must be served by railway and harbour employees before they can be placed on the permanent staff in respect of those in (a) the clerical grade, (b) the artizan grade, and (c) other grades;</li>
+
+<li>(2) whether such condition is governed by regulation; and, if so,</li>
+
+<li>(3) when did the regulation come into force?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#bates">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) (a) Clerks employed on open lines and upon work of a permanent character, two years; clerks employed on new construction, five years; (b) artizans, if employed upon work of a permanent character, four years; (c) catering staff employed on dining cars and in refreshment rooms, four years; engineers, draughtsman and other salaried staff (excluding clerks) employed on new construction, ten years. Other staff employed on work of a permanent character, two years.</li>
+
+<li>(2) The present conditions are governed by departmental instruction issued in terms of section six of the Railways and Harbours Service Act No. 23 of 1925, and approved by the Administration.</li>
+
+<li>(3) The existing instruction had operative effect from the 13th January, 1926.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: LIGHTERS, COST OF.</heading>
+
+<question by="#bates" to="#minister_of_railways_and_harbours">
+
+<num>XIII.</num>
+
+<from>Mr. BATES</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the cost of the two lighters built at Uitenhage and the two of the same pattern built at East London in respect of (a) wages, (b) material, and (c) travelling expenses;</li>
+
+<li>(2) whether the boats were entirely satisfactory;</li>
+
+<li>(3) whether the cost compares favourably with prices for similar vessels from oversea; and</li>
+
+<li>(4) whether it is the intention of the Government to continue building lighters at the two dep&#x00F4;ts mentioned in (1)?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#bates">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) Uitenhage: (a) &#x00A3;2,461, (b) &#x00A3;2,706, (c) &#x00A3;392. East London: (a) &#x00A3;3,370, (b) &#x00A3;2,864, (c) Nil.</li>
+
+<li><span class="col_207-208" refersTo="page_0170"/>(2) Yes.</li>
+
+<li>(3) Yes.</li>
+
+<li>(4) This must be determined by the volume of work in hand and in prospect at the two dep&#x00F4;ts mentioned when orders for lighters are placed.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PRETORIA ARCHIVES.</heading>
+
+<question by="#giovanetti" to="#minister_of_the_interior">
+
+<num>XIV.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) Whether it is true that the keeper of the Pretoria Archives, Mr. P. L. A. Goldman, on the instructions of the Minister, has lately published an annotated guide to the Pretoria Archives in high Dutch only; and, if so,</li>
+
+<li>(2) what are the reasons for not publishing the book in both the official languages;</li>
+
+<li>(3) whether applications from English newspapers for copies of the publication in the English language or permission to translate and print it in English, have been refused;</li>
+
+<li>(4) what number of copies of the work have been published and how have these copies been distributed; and</li>
+
+<li>(5) what is the cost of (a) writing and editing, and (b) printing, publishing and distributing the book?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#giovanetti">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) Mr. P. L. A. Goldman obtained permission from the Department of the Interior to prepare and publish the book in question. He compiled it in the language which was most familiar to him, viz.: Nederlands.</li>
+
+<li>(2) Volumes compiled by archives officials are published in the language in which the authors have written them.</li>
+
+<li>(3) No applications from English newspapers for copies in the English language have been received, nor has application for permission to translate and print it in English been received from English newspapers and refused. An application from a private gentleman to translate and publish the book in English at present under consideration.</li>
+
+<li>(4) 500 copies of the work have been printed and have been distributed to archives offices, and libraries in South Africa and Europe. Copies are also available for purchase by the public either direct from the Government Printer or through any bookseller.</li>
+
+<li>(5)
+
+<ol>
+
+<li>(a) The book was written in the official and private time of Mr. Goldman. Beyond the salary of this officer no extra cost was incurred.</li>
+
+<li>(b) The printing charges amounted to &#x00A3;182 9s. 2d. and transport of copies to the Government Printer, Pretoria, amounted to &#x00A3;3 1s. 5d. No other expenditure was incurred.</li></ol></li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_interior">
+
+<num>XV. and XVI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>Questions withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>TAYSIDE IRON ORE MINE.</heading>
+
+<question by="#nel" to="#minister_of_mines_and_industries">
+
+<num>XVII.</num>
+
+<from>Mr. NEL</from>
+
+<p>asked the Minister of Mines and Industries&#x2014;</p>
+
+<ol>
+
+<li>(1) Whether Mr. Milne, Inspector of Mines, recently visited the Union Steel Corporation&#x2019;s iron ore mine at Tayside, Dundee District, Natal;</li>
+
+<li>(2) whether he has made any report of his inspection and investigation; and, if so,</li>
+
+<li>(3) will the Minister lay the report on the Table of the House?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#nel">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>(1) Yes. (2) Yes. (3) Yes.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>NATIVE MEETINGS.</heading>
+
+<question by="#nel" to="#minister_of_native_affairs">
+
+<num>XVIII.</num>
+
+<from>Mr. NEL</from>
+
+<p>asked the Minister of Native Affairs&#x2014;</p>
+
+<ol>
+
+<li>(1) Whether he received a deputation during September, 1927, from the Natal Agricultural Union, who requested, inter alia, that the calling of native meetings by irresponsible persons should not be allowed without the permission of the magistrate; and</li>
+
+<li>(2) what action, if any, has been taken in this matter?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#nel">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) An order has been made by His Excellency the Governor-General, in his capacity of supreme chief of natives, in terms of Section 1 of the Native Administration Act, No. 38 of 1927, that no public gathering or assembly of natives above ten in number for any purpose other than religious service or public administration or the regulation of the domestic affairs of any particular kraal, shall be convened or held in any native location or reserve or mission reserve within the provinces of Natal, Transvaal and Orange Free State without the permission of the chief or headman of such location or reserve, and the approval of the magistrate of the district.</li>
+
+</ol>
+
+<p>The question of issuing regulations in regard to the holding of meetings on privately owned land is still under consideration.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_native_affairs">
+
+<num>XIX.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>Question withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>IRRIGATION: FISH RIVER VALLEY RATES.</heading>
+
+<question by="#van_heerden" to="#minister_of_agriculture">
+
+<num>XX.</num>
+
+<from>Mr. G. C. VAN HEERDEN</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether letters of demand, coupled with threats of legal proceedings, have been issued against any irrigators in the Fish River Valley in respect of arrear water rates or other irrigation assessments; and, if so,</li>
+
+<li>(2) against how many have such letters of demand been issued?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#van_heerden">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Nineteen.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<num>XXI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>Question withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>NATIONAL ROADS POLICY.</heading>
+
+<question by="#papenfus" to="#minister_of_labour">
+
+<num>XXII.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) Whether, when recently addressing a large number of unemployed at the new Law <span class="col_209-210" refersTo="page_0171"/>Courts, Johannesburg, he made use of the following words:<br/>
+
+Let me get the making of roads into my hands. Let us have national roads in South Africa, and I will solve the unemployment question to-morrow. At present the making of roads is in the hands of the provincial councils, but I must battle until I get it;</li>
+
+<li>(2) whether the Minister has &#x201C;battled&#x201D; and is still battling to achieve the object stated, and what success, if any, he has met or hopes to meet with;</li>
+
+<li>(3) whether the Minister&#x2019;s efforts will be directed towards the carrying out of the resolution adopted by this House on the 10th March, 1925, in regard to a national road policy; and, if not,</li>
+
+<li>(4) whether the Minister will indicate to the House what his policy is in regard to the making of roads?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#papenfus">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>(1), (2), (3) and (4) I did not address a large number of unemployed at the new Law Courts, Johannesburg, nor did I make use of the words referred to by the hon. member and which were reported in the press as having been said by me. The reference is evidently to an incident which happened in one of the corridors at the new Law Courts when on passing through, I was asked by several unemployed if there was any prospect of obtaining them work. I replied that I was doing my very best towards this end with the Railway Administration and the Provincial Council. I mentioned that the Labour Department had no work under its own control on which the unemployed could be engaged, and that all it could do, therefore, was to plead with employing bodies to provide the necessary work. I also said that from my point of view the unemployment position would be much easier if the Labour Department could undertake the making of roads or some other similar work. Since then I have raised the question with my colleagues, and the matter is still under consideration. In this connection there is no intention of the Government taking over road-making from the provincial councils. The most that is proposed in the meantime is that some portions of road work should be under the control of Government, so that an avenue of employment for civilized labour may be available in times of acute unemployment.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>NATIVES AND DEPARTMENT OF LABOUR.</heading>
+
+<question by="#papenfus" to="#minister_of_labour">
+
+<num>XXIII.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) Whether the activities of the Department of Labour are directed only to the advancement and interest of the European and coloured labourers, or do these activities also embrace the native labourer; and</li>
+
+<li>(2) if the answer be in the affirmative, will the Minister state in what directions his department has improved or benefited the native labourer?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#papenfus">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>(1) and (2) The activities of the Department of Labour are directed to the advancement of employees in industry which includes European, coloured and native labour, as will be seen from the Wage Determination now in force. Native employees in the industries affected have benefited by the minimum wages laid down for the different classes of work performed.</p>
+
+</answer>
+
+<question by="#allen" to="#minister_of_labour">
+
+<from>Mr. ALLEN</from>
+
+<p>Will the Minister, in the interests of the natives, take steps to do away with the compound system on the Rand?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#allen">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>Not yet.</p>
+
+</answer>
+
+<question by="#allen" to="#minister_of_labour">
+
+<num>XXIV.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: GRAIN ELEVATORS.</heading>
+
+<question by="#van_zyl" to="#minister_of_railways_and_harbours">
+
+<num>XXV.</num>
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the complaints against speculators occupying the grain elevators in country districts to the detriment of the bona fide farmer;</li>
+
+<li>(2) does the department contemplate taking any action to rectify the position; and, if so,</li>
+
+<li>(3) what action does the department contemplate taking?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#van_zyl">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>Yes. I have been informed that the grain elevators are congested owing to the slow rate of export of bulk maize. The matter is at present being considered by the Railway Administration.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: GENERAL MANAGER.</heading>
+
+<question by="#van_zyl" to="#minister_of_railways_and_harbours">
+
+<num>XXVI.</num>
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Has Government decided on a successor to Sir William Hoy as general manager of railways and harbours;</li>
+
+<li>(2) if not, will the Minister inform the House of the cause of the delay;</li>
+
+<li>(3) whether it is the policy of the Government to appoint a successor, or is there to be a change in the management; and</li>
+
+<li>(4) if there is to be a change, will the Minister inform the House as to what the contemplated change is?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#van_zyl">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The whole matter is still under consideration, and no definite decision has yet been arrived at.</p>
+
+</answer>
+
+<question by="#van_zyl" to="#minister_of_railways_and_harbours">
+
+<num>XXVII.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>EDUCATION: WOMEN STUDENTS IN AGRICULTURE.</heading>
+
+<p>The MINISTER OF AGRICULTURE replied to Question I by Mr. Papenfus, standing over from 18th October.</p>
+
+<question by="#papenfus" to="#minister_of_agriculture">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) At which of the agricultural colleges, and at which of the universities are facilities afforded to women students in agriculture;</li>
+
+<li>(2) how many male and female students are there, respectively, at these institutions, giving particulars in each case;</li>
+
+<li><span class="col_211-212" refersTo="page_0172"/>(3) what hostel accommodation is available in Government institutions for agricultural education for male and female students, giving particulars for each such institution; and</li>
+
+<li>(4) is such hostel accommodation adequate for the students of both sexes applying, and, if not, which institutions are lacking in such accommodation, and in respect of which sex?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#papenfus">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) At the Stellenbosch-Elsenburg College of Agriculture and at the Transvaal University College facilities are afforded to women students in agriculture on equal terms as those provided for men. Provision is also made for women students at the Glen and Potchefstroom Schools of Agriculture for attending special and short courses, and at the Cedara and Grootfontein Schools of Agriculture for short courses only. In addition to the above provision is also made by the Provincial Administration and the Union Education Department for instruction in agricultural education.</li>
+
+<li>(2) The following statement gives the number of students at the respective institutions (excluding special and short course students):&#x2014;<br/>
+
+Stellenbosch-Elsenburg College of Agriculture, 188 male, 5 women students.<br/>
+
+Transvaal University College, 98 male, 5 female students<br/>
+
+Glen School of Agriculture, 77 male, 0 female students.<br/>
+
+Potchefstroom School of Agriculture, 43 male, 4 female students.<br/>
+
+Cedara School of Agriculture, 40 male, 0 female students.<br/>
+
+Grootfontein School of Agriculture, 47 male, 0 female students.<br/>
+
+Onderstepoort (Veterinary Science Course), 21 male, 1 female students.<br/>
+
+Beginsel Training Farm, 34 male, 0 female students.</li>
+
+<li>(3) and (4):&#x2014;<br/>
+
+The following hostel accommodation is available at the respective institutions:<br/>
+
+Glen School of Agriculture for 78 male, 2 women students.<br/>
+
+Potchefstroom School of Agriculture, 98 male, 22 female students.<br/>
+
+Cedara School of Agriculture for 45 male, 0 female students.<br/>
+
+Grootfontein School of Agriculture for 90 male, 0 female students.<br/>
+
+Onderstepoort Laboratory for 40 male, 0 female students.<br/>
+
+Beginsel Training Farm for 40 male, 0 female students.</li>
+
+</ol>
+
+<p>The accommodation at Potchefstroom School of Agriculture is considered adequate for both male and female students and although at the other institutions it is considered adequate only in so far as male students are concerned, there is no justification for further provision until the available accommodation at Potchefstroom is filled.</p>
+
+<p>At the Transvaal University College there is hostel accommodation for 150 male and 50 female students, which is considered adequate.</p>
+
+<p>Ample hostel accommodation is provided for male students at the Elsenburg College Experiment Station and School of Farming Elsenburg Mariendal, where 90 male students can be accommodated. All women students are confined to the Stellenbosch side of the college in connection with the university and it is considered that the hostel accommodation for male and female students, which is considered adequate. College of Agriculture of the University of Stellenbosch is quite adequate for the present and immediate future.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>OLD AGE, PENSIONS.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question X by Mr. Strachan, standing over from 18th October.</p>
+
+<question by="#strachan" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<p>Whether the Government will this session introduce legislation giving effect to the recommendations embodied in the report of the Old Age Pensions Commission presented to the House last session; and, if the reply is in the negative, what are the intentions of the Government in connection with the establishment of an old age pension scheme for the Union?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#strachan">
+
+<heading>Reply:</heading>
+
+<p>The matter is under consideration.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PUBLIC SERVICE: ENGLISH AND DUTCH APPOINTMENTS.</heading>
+
+<p>The MINISTER OF THE INTERIOR replied to Question XI by Mr. Strachan, standing over from 18th October.</p>
+
+<question by="#strachan" to="#minister_of_the_interior">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) What is the total number of qualified persons who have applied for admission to the public service from the time the Government assumed office to the 30th day of September this year: (a) English-speaking South Africans; (b) Dutch-speaking South Africans;</li>
+
+<li>(2) how many appointments have been made during the same period, of (a) English-speaking; (b) Dutch-speaking South Africans; and</li>
+
+<li>(3) What is the number of officers promoted between the dates stated, giving the figures for (a) English-speaking; (b) Dutch-speaking?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#strachan">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) (a) English-speaking, 2,704. (b) Dutch-speaking, 2,169. In these figures are included applications received from 700 English speaking and 489 Dutch-speaking persons (qualified and unqualified) in response to advertisements in the public press, so that normally there were applications from 2,004 English-speaking and 1,680 Dutch-speaking persons qualified for admission to the Public Service. Among the applications thus received from persons qualified <span class="col_213-214" refersTo="page_0173"/>for admission to the Public Service are further included 1,258 from English-speaking and 563 from Dutch-speaking females. Comparatively a very small percentage of the female applicants secure appointments so that if their applications were disregarded the nett result would be 746 applications from English-speaking and 1,117 from Dutch-speaking persons.</li>
+
+<li>(2) (a) English-speaking, 1,208. (b) Dutch-speaking, 1,142.</li>
+
+<li>(3) (a) English-speaking, 1,124. (b) Dutch-speaking, 478. In the foregoing figures are included: in reply to Question (1) 495 applications, in reply to Question (2) 97 appointments, and in reply to Question (3) 24 promotions of persons who cannot racially be classified as English or. Dutch, but who are nevertheless English-speaking and have, therefore, been included as such.</li>
+
+</ol>
+
+</answer>
+
+<question by="#nicholls" to="#minister_of_interior">
+
+<from>Mr. NICHOLLS</from>
+
+<p>How does the Minister ascertain whether an applicant is English-speaking or Dutch-speaking&#x2014;is it by his name?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nicholls">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>We judge by their names whether applicants are English-speaking or Dutch-speaking, but there is always a certain small number of cases in which we cannot really class them on one side or the other. The department in giving me this information finds that practically all of these are English-speaking.</p>
+
+</answer>
+
+<question by="#allen" to="#minister_of_interior">
+
+<from>Mr. ALLEN</from>
+
+<p>Does Van der Merwe speak the best English?</p>
+
+</question>
+
+<question by="#marwick" to="#minister_of_interior">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the Minister kindly explain why the only public document that is available to us for checking the appointments made by the present Government&#x2014;that is, the Public Service Commission&#x2019;s report for 1926&#x2014;tells such a totally different story from the one he has just enfolded, viz., that of the appointments of new entrants made by the present Government up to and including the grade of senior clerical assistant 697 were Dutch and 575 English out of 1,272 appointments recorded, making a disparity of 122 against the English section.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#marwick">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>I do not know for what that period is.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_interior">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>For the entire period of the present Government&#x2019;s term of office up to the issue of the Public Service Commission&#x2019;s report.</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I think it would be better if the hon. member put that question on the Paper.</p>
+
+</answer>
+
+<question by="#nathan" to="#minister_of_interior">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p>Can the Minister inform us how many of those mentioned by him in answer to the questions under paragraph 2 are bilingual.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nathan">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>Practically all were bilingual. Practically no appointments are made in the Public Service of persons who are not bilingual.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RENTS.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question XII, by Mr. Strachan, standing over from 18th October.</p>
+
+<question by="#strachan" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<p>Whether, in view of the present unsatisfactory operation of Act No. 13 of 1920, the Minister is prepared to take into consideration the advisability of amending the Act so that the Board may fix the rent to be charged for the property instead of fixing the rent to be paid by the complaining lessee?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#strachan">
+
+<heading>Reply:</heading>
+
+<p>I am not aware that a case has been made out for the amendment of the Act in the direction desired by the hon. member.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#condolence">
+
+<heading>CONDOLENCE.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="#quote">That an address be presented to his Majesty the King, expressing the sincere and respectful sympathy of this House, with his Majesty, her Majesty the Queen and the members of the Royal Family in the bereavement sustained by them through the death on the 24th October, 1927, of the Marquess of Cambridge; and this House assures his Majesty of its continued loyalty to his Majesty&#x2019;s Throne and person.</block>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person></from>
+
+<p>seconded.</p>
+
+<p>Motion put and agreed to, members rising.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="#quote">That an address be presented to his Excellency the Governor-General expressing the sincere and respectful sympathy of this House with his Excellency in the bereavement sustained by him through the death on the 24th October, 1927, of the Marquess of Cambridge.</block>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person></from>
+
+<p>seconded.</p>
+
+<p>Motion put and agreed to, members rising.</p>
+
+<p>Resolutions transmitted by messages to the Senate for concurrence.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#easter_stabilisation_bill">
+
+<heading>EASTER STABILISATION BILL.</heading>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">For leave to introduce a Bill to provide for the stabilisation of the date of Easter.</block>
+
+<p>This motion intends to get a definite date fixed for Easter for which the League of Nations and the Empire Chamber of Commerce are both pressing. The British House of Commons has a Bill of a like nature and the last clause of this Bill provides that it shall come into force on a date to be fixed by the Governor-General after the British House of Commons has fixed a date.</p>
+
+</speech>
+
+<speech by="#tom_nadu&#x00E9;">
+
+<from>Mr. <person refersTo="hansard_za">J. F. TOM NAUD&#x00C9;</person></from>
+
+<p>seconded.</p>
+
+<p>Motion put and agreed to.</p>
+
+<p>Bill brought up and read a first time; second reading on 8th November.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#income_tax_on_farmers">
+
+<heading>INCOME TAX ON FARMERS.</heading>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Before calling upon the hon. member for Ermelo (Col.-Cdt. Collins) to <span class="col_215-216" refersTo="page_0174"/>move the motion standing in his name, I wish to state that a number of amendments to this motion were handed in yesterday, the object of which was to extend the scope of the motion to members of Parliament and Ministers of the Crown, railway servants, chemists and druggists, printers and printing operations, journalists and authors, widows and orphans, building workers, and mine workers. I am of opinion that these amendments are not relevant to the motion, which is confined to the relief of farmers and to farming operations, and for that reason they do not appear on the Order Paper.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Arising out of the ruling, and in view of the fact the motion says farmers and those indulging in farming operations, would I be in order in moving any other section as an amendment?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member will be entitled to move any amendment relevant to the motion. When the time comes the hon. member may move his amendment and I will rule whether it is in order or not.</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>&#x2020;Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">That the Government be requested to consider the advisability of exempting farmers and farming operations from payment of income tax.</block>
+
+<p>It seems to me the atmosphere in which I am trying to move this motion is to say the least, not very favourable. I am not referring to these amendments, but there are bigger matters in the air, and if I had been able to find another day I would have been glad to ask for a postponement. As I cannot find another day, I must go on and take my chance. It is not the unfortunate plight in which many of the farmers find themselves on account of this prolonged drought that has moved me to bring this matter before the House. Bad as it is, it is not that which has principally actuated me in making this decision. It is rather that I am hoping to persuade the Minister of Finance and the Government to accept my motion as a line of policy in the interests of the farmers, and so in the interests of the country at large. I certainly do not look upon this matter as a joke, as some of my friends seem to regard it.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Who does?</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>&#x2020;Col.-Cdt <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I must say that the manner in which it was received and the remarks of some of my friends that I surely do not mean it seriously, and that I surely do not hope to carry it, to say the least of it are not very hopeful. I think it is a very important matter and one that we might carefully consider and one from which the parties may be left out. I am only sorry that it is not in abler hands than mine. I am aware of the cry in the towns, especially in the larger towns, that the farmer pays no taxation. That is a parrot cry, and one that has been repeated so often that people have come to believe it. I will admit for argument&#x2019;s sake that, perhaps, there may be some truth in the allegation so far as it refers to direct taxation, but when it comes to the payment of indirect taxation, that it is a horse of a very different colour, and I say, and say deliberately, that the farmer pays a larger share of indirect taxation in this country than any other member of the community. I know of no other profession that requires so much dead capital, or, shall I say, so much dormant capital, to go into business with and to keep in business than the farmer requires in order to make his business productive. Discussing it casually, I put this point that it requires a lot of capital on the part of the farmer before he can make a start. I have been met by the argument that lawyers and doctors require to spend a great deal on education in order to qualify for their profession. The time has arrived when we have to give our sons a good education if we want to make them farmers. It has been laid down and laid down authoritatively that a man cannot hope to make a success of farming in this country even on a small scale on less than &#x00A3;2,000. I do not think hon. members who know much about farming will deny that he would require much more than &#x00A3;2,000 for his operations before he can pay income tax. The farmer must pay on his stock-in-trade large sums to the railways, customs, etc., before he starts farming, and he has to make large payments again in order to market his produce. Perhaps hon. members will bear with me if I read one or two quotations. The first is as follows&#x2014;</p>
+
+<block name="#quote">It is pretty generally admitted that the most urgent problem confronting our statesmen and politicians to-day is how to make the land in South Africa attractive to immigrants and capital from Europe. The total income tax paid by the farmers in the Union is comparatively small, but the annoyance it gives them is very great. What the vast majority of farmers object to is not so much the amount of income tax they have to pay, but the trouble and worry involved in making the income tax returns called for by the Commissioner for Inland Revenue. The amount which the farmers of the Union pay for legal advice in connection with their income tax returns is probably considerably greater than the total net amount received by the treasury from the farmers&#x2019; income tax. Moreover we want to attract large capitalists from Europe to come and take part in the development of agriculture in South Africa. It is the large capitalists who have done the lion&#x2019;s share in the expansion of the pastoral and agricultural activities of the great states of South America. Both Kenya and Newfoundland abolished the income tax, as they found it unsuitable and harmful for an agricultural community. It is true that theoretically a graduated income tax is just. It complies with the first of Adam Smith&#x2019;s maxims that &#x201C;The Subjects of every State ought to contribute to the support of the Government, as nearly as possible in proportion to their respective abilities; that is, in proportion to the revenue which they respectively enjoy under the protection of the <span class="col_217-218" refersTo="page_0175"/>State.&#x201D; Theoretically there is also a great deal to be said for estate and succession duties. In practice, however, these taxes tend to keep away and drive away capital from the countries where they are imposed to countries that have no such taxes. It is probably not an exaggeration to state that income taxes and death or estate duties are going to do for the European land-owners in South Africa what they have done for the country squires and landed aristocracy in England&#x2014;ruin them. Leading authorities on taxation agree with the conclusion arrived at by John Stuart Mill&#x2014;&#x201C;that the fairness which belongs to the principle of an income tax cannot be made to attach to it in practice, and that this tax, while apparently the most just of all modes of raising a revenue, is, in effect, more unjust than many others which are prima facie more objectionable. This consideration will lead us to concur in the opinion which, until of late, has usually prevailed&#x2014;that direct taxes on income should be reserved as an extraordinary resource for great national emergencies in which the necessity of a large additional revenue overrules all objection.&#x201D;</block>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Who wrote that?</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>&#x2020;Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I do not know who the author is. These are views which I have got together, and I think the Minister will admit that the arguments are pretty sound. I would like to quote from &#x201C;The Politician and Politic Economy,&#x201D; by Dr. Samuel Evans. He is not very complimentary to members of Parliament, but I hope hon. members will forgive him that. He says&#x2014;</p>
+
+<block name="#quote">The greatest sufferers from the general ignorance of the principles of political economy are the primary producers. Take the case of the discussion that took place in the Union Parliament and in the country five or six years ago on the advisability or otherwise of compelling our farmers to pay an income tax on their profits and on any increase that had taken place in the course of a year in the value of their livestock and produce on hand. The main argument used in favour of that policy was that without such an income tax the farmer would not be contributing his share towards the cost of Government. Even some of the representatives of rural constituencies were disposed to accept this view, and completely failed to realise that South African farmers are very heavily taxed through the customs tariff, more so than the farmers in the great states of Latin America, who compete with them in the markets of the world, and who pay no income tax. The friends of the farmers in Parliament did not offer any effective resistance to the proposed income tax, mainly because of their ignorance of economic facts. They did not realize that the taxes imposed on the goods which are brought to South Africa in payment for the farm produce exported are borne largely by the farmer. Unfortunately, lack of appreciation of the incidence of indirect taxation is very general. For instance, a leading politician representing an agricultural constituency recently urged that South Africa should be made self-contained, entirely independent of imports, and that all the goods at present brought into this country should be manufactured here. Had he possessed an elementary acquaintance with the economics of international trade, he would have realized that the policy he advocated would mean disaster to the South African producers of wool, mohair, hides, skins, meat, maize, sugar, cotton, tobacco, fruit, wattle-bark, etc., and would close down our diamond, gold and base-metal mines. He should have known that fundamentally all trade is barter, an exchange of produce between different classes of producers; that our exports can only be paid for by imports and that if there are no imports there can be no exports, unless exporters are willing to leave their money abroad, or to give their products away for nothing, on the ground, I suppose, that it is more blessed to give than to receive. It is reasonably certain that when Parliament decided to impose heavy income tax on persons engaged in farming operations the majority of our legislators had no conception of the magnitude of the burden imposed on our farmers by the customs tariff. It is a matter on which our farmers themselves are in need of enlightenment. They would soon learn, were a few of them to carry through their own transactions, without the intervention of money, banks or merchants. For instance, supposing a Free State farmer took to England his wool clip and exchanged it for clothing, groceries, harness, saddlery, footwear, etc., he would discover on his return to South Africa that the customs officials at the coast would insist on taking anything from 15 per cent. to 40 per cent. of his goods for the Government, and that he would only have for his own use and for disposal in South Africa from 85 per cent. to 60 per cent. of what he actually got for his wool in England. After such a lesson, I should think that farmer, at any rate, would then know who pays the customs duties on the goods that are brought to South Africa in payment for what our farmers export. He would not be likely to fall an easy victim to the glib advocates of the sacrifice of our primary industries in order to try to benefit our manufacturing industries, and would never again vote for a parliamentary candidate who was disposed to argue that the farmer should be made to pay income tax, because otherwise he would not be contributing his share towards the cost of the Government of the country. Let us take another instance of the way in which the politician, owing to his ignorance of economic principles, has added to the burden of the farmer. In many areas in South Africa a farmhouse, which could have been built from the proceeds of the sale of 100 fat oxen before the Great War, cannot be built now <span class="col_219-220" refersTo="page_0176"/>for less than the proceeds of 150 fat oxen. That is, measured in oxen, the cost of building a farmhouse has increased by 50 per cent. You will ask why? The answer is this: In his innocence of economic knowledge the politician has sacrificed farming, which is for the main part an unsheltered industry, for the benefit of the building trade, which is a sheltered industry. The prices of the most important products of the farm are governed by the prices in the export market, which cannot be controlled or regulated by the Union Parliament. Our Parliament cannot dictate to the farmers of the Argentine the price at which they shall sell their beef on the London market. Unfortunately, our Parliament can&#x2014;and has&#x2014;dictated the price which the farmer here must pay for his house. The cost of building in South Africa is what the majority of the masters and men in the building trade choose to make it, provided they can persuade the Union Parliament to make lower costs illegal. That is precisely what has taken place in this country. The standard of living and comfort of the farmers and others occupied in export industries, has been, and is being, lowered in order to raise the standard of living and comfort of the masters and the men in the building trade and other sheltered industries. The action of the Union farmer in encouraging and making it safe for the sheltered industries to raise their costs to the consumer has thrown and is throwing a heavy additional burden on the unsheltered industries, agriculture and farming, thereby preventing them, particularly the farmers, from competing on equal terms with their rivals abroad. I do not, for a moment, suggest that this is done intentionally. It is due to false notions based on an inadequate knowledge of economics on to the part of the majority of our legislators, and until they learn that they cannot by Act of Parliament raise the level of costs in sheltered industries, except at the expense of our unsheltered industries, agriculture and mining in South Africa will continue to be hopelessly crippled. There is a pretty general agreement as to the importance of making agriculture attractive to the people of South Africa and to European immigrants. Yet, owing to their ignorance of economics, both the present and the previous Union Government have been pursuing policies which have had the opposite effect. European immigrants, who would be likely to settle on the land, are not coming to South Africa. Further, in the Union more Europeans are drifting into the towns from the country districts than are leaving the towns for the farms. This is due, in no small measure, to the fact that we have created conditions which repel the capitalists, who otherwise might be disposed to take part in the development of agriculture in South Africa. In the past half century the European populations of the great states of Latin America have been increasing more rapidly than those of any other country. Take the case of Argentina. Its mineral wealth is negligible. It is dependent entirely on agriculture, and it was not developing its agricultural wealth rapidly until the large capitalists appeared on the scene and constructed railways, imported up-to-date implements and machinery, applied on an extensive scale the most recent discoveries of agricultural science, planted improved grass, introduced the best breeds of thoroughbred stocks from Europe, and organized the frozen and chilled meat trades, etc. All the authorities agree that the large capitalist is mainly responsible for the marvellous expansion of the pastoral and agricultural activities of the great states of South America in recent times and which has led to an enormous influx of immigrants from Europe to those countries.</block>
+
+<p>I want to put one or two other points only to the Minister of Finance. I think it is agreed that the amount of income tax that the farmers pay is comparatively small. I could not arrive at the figures, although I tried to do so. It is difficult, because I did not find the figures stated separately and to work out the figures from taxable income might lead me into error. Somebody tells me that the amount they pay in income tax is only between &#x00A3;60,000 and &#x00A3;80,000 per annum. Of this I am told the Free State farmers pay by far the biggest share. I put it to the Minister, is it worth the trouble that you give the farmers; is it worth the anxiety you give them? I think the Minister knows what a bugbear the income tax return is to the farmer. We have tried, and the previous Government tried, since we brought income tax into this country, to make a simple form. It has been a continual cry for the last ten years and we have not succeeded yet. We are certainly to-day still in the position that not more than 25 per cent. of the farmers can make up their own returns. I would like to know what the amount is that the farmers pay to lawyers for making up their income tax returns. I would like to know how many farmers are put to the trouble of making up income tax returns and are put to expense, and when they have made them up it is found they are not liable to tax. I think there are more of that class among farmers than in any other section of the community. I would like to put it to the Minister that the extra cost to the Government of collecting the income tax from the farmers must be very considerable. Is it not almost as great as the amount of tax he gets from the farmers? He would be the most popular Minister of Finance we have ever had if he removed the tax. I am serious. He knows as well as I what a sigh of relief would go up from the farmers in South Africa if the cry went up, &#x201C;No more income tax, no more worry, no more fear of gaol.&#x2019;&#x201D; You will put new life into them, and they would work better than ever. The first year I came to the House the late Mr. Merriman took a very strong line on this question. After considering the question he decided that farmers should be exempt and wanted to move accordingly, and it was only with great trouble that the late <span class="col_221-222" refersTo="page_0177"/>Gen. Botha got him to desist, because there were greater issues at stake. I would like to put it from another point of view. I think it is agreed by everybody that if we can make the farmers prosperous in this country everybody else will be prosperous, and I think we agree that whatever we do we must try and keep the farmer on the land. I want to say, and say emphatically, that if the farmer of this country works out what it costs him to keep in business, works out what he is making on his capital, very few of them, unless they have something else that keeps them on the land, will remain in business. They will give up and go into another line of business. I have tried to work out what farmers make on their capital, and I have taken six or seven of my clients, who are sheep farmers, admittedly the most prosperous line of farming to-day in South Africa, in our part of the world at any rate. I have taken their capital invested in their farm, capital invested in stock; I have not taken the interest they are paying on capital. I have taken their gross income, and deducted working expenses, and I find that such a farmer does not get 5 per cent. on his capital.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>He would be fortunate if he did.</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>&#x2020;Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>The figure I arrived at is in the neighbourhood of 3&#x00BD; per cent., and then I have not taken depreciation. You must try and give such men some extra encouragement to keep them on the land. I have tried to find out what other countries do in the way of helping the farmers. I find in Canada amongst the exemptions, the income derived from a farm, orchard or ranch by the person who actually operates it is exempt. In British India all agricultural income is exempt. In New South Wales the farmer gets a special consideration. In Australia, northern territories, exemption is granted in respect of income produced by personal exertion from land if the unimproved value of the land does not exceed &#x00A3;1,000. Queensland allows a certain deduction, and New Zealand allows a small deduction. I have tried to show to the House that the farmer should be exempt from income tax, firstly, on the ground that he pays a larger share of indirect taxation than any other members of the Community; secondly, on the ground that the income tax that is received is comparatively small. Do not worry the farmers; leave them alone; let them get on with their business, and, I believe, the State will profit much more in the end. I want to commend my motion to the consideration of the House by just quoting one paragraph from a statement by the manager of the Federal Agricultural Bank in America. This is what he says&#x2014;</p>
+
+<block name="#quote">Farmers are losing their margins of profit on account of high taxes, others are losing their homes, and still others are discouraged from taking up the vocation of farming because of the high overhead.</block>
+
+</speech>
+
+<speech by="#badenhorst">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">BADENHORST</person>:</from>
+
+<p>I second the motion, but do not wish to make as long a speech as the mover, as we are all converted. I do not know how long it will take him to convert hon. members on his side to the view that farmers should be exempt from income tax. It is strange, however, that the hon. member voted with his leader to impose the tax on farmers&#x2014;so that it even applies to our lambs. Although he did that he now wants to convince the wrong people. There is no need to convert this side Because we shall only be too keen to pass it.</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>*Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>We shall see how you vote.</p>
+
+</speech>
+
+<speech by="#badenhorst">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">BADENHORST</person>:</from>
+
+<p>I am glad the hon. member is now converted, but I wonder whether he really means it, or whether it is only an election speech. He acknowledged that hon. members around him were not yet convinced. The hon. member for Bezuidenhout (Mr. Blackwell) was looking surprised at him while he spoke. I hope the Minister will not act as did the S.A. party. The mover said that farmers pay between &#x00A3;60,000 and &#x00A3;80,000 in income tax, which is not worth the cost of collection. Farmers who do not pay also get the forms, and have to go to people like the hon. member for Ermelo to fill them in. Farmers have to pay for that. Perhaps the hon. member does not charge his constituents, and so keeps their votes. He acknowledged that the Nationalist party has a most capable Minister of Finance, and I hope I shall not be criticized if I say on the platform that he admitted that. If the hon. member for Paarl (Dr. de Jager) comes to Riversdale he will have to say that he also agrees with that. I hope the Minister will accept the motion.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>This motion threatens to become very popular in the House except in the corner occupied by the Minister of Finance, but before we allow our generosity to run away with ourselves, and while we express sympathy with the farmers in the lean times they have undergone, and the losses they have sustained during the drought, we should be careful to see that we do not try to create a privileged class amongst the farmers, and adopt a wrong method of rendering them assistance. There are a good many other persons in front of whom farmers would blush to stand when it comes to the question of relief from income tax. Take the case of the widow who is called upon to pay income tax on her husband&#x2019;s last year&#x2019;s salary out of the small residue of the estate left by her husband. There are many thousands of these cases of persons who can ill-afford to pay the tax, and I feel sure that the farmers do not want to shelter themselves behind these people. I move as an amendment&#x2014;</p>
+
+<block name="#quote">To add at the end &#x201C;and to substitute a tax on the unimproved value of land.&#x201D;</block>
+
+<p>When the hon. member quoted innumerable authorities on farmers being exempted from income tax he quite forgot to tell the House than though these farmers do not pay income tax, they pay a tax on the land. I do not say he was intentionally misleading the House, but he would lead the House to believe that farmers did not pay taxes in these other countries, <span class="col_223-224" refersTo="page_0178"/>which he knows to be wrong. As the motion stands, it would be easy to escape income tax, and large corporations owning land which they farm could say they were &#x201C;farmers.&#x201D; It would be good for farmers and for everybody if there was a tax on the unimproved value of land. It would be taxing the value which the presence of the community has given to the land, and the value in land which is due to the expenditure of public monies. It is due to the presence of a man&#x2019;s neighbours that his land has increased in value. He has not created that value, and a tax on the unimproved value of such land is a legitimate source of taxation. Then I would like to point out that under the present income tax one does not pay taxation unless he has an income of over &#x00A3;400 per annum. If any farmer pays income tax, he must have an income of &#x00A3;400 over and above his own keep. Then why should he not pay when a bricklayer and others are made to pay. The suggested tax on the unimproved value of land is not going to have the effect of driving farmers off the land at all. It is going to mean more farmers on the land, and make it easy for people working on shares to get land of their own. We want cheap, not dear, land. We were told a little time since by an hon. member that we ought to follow the principle of taxation according to ability to pay. Perhaps that is one principle of taxation; we ought to follow another principle, which is, taxation according to the services rendered by the State. Generally speaking, those who receive the most services from the State are those who pay the least taxation.</p>
+
+</speech>
+
+<speech by="#allen">
+
+<from>Mr. <person refersTo="hansard_za">ALLEN</person></from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#hattingh">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">HATTINGH</person>:</from>
+
+<p>I move, as a further amendment&#x2014;</p>
+
+<block name="#quote">To omit all the words after &#x201C;exempting&#x201D; and to substitute &#x201C;from the payment of income tax incomes derived directly from farming operations.&#x201D;</block>
+
+<p>The motion states that the object is to exempt the farmer and farming from income tax. I am, however, convinced that it was not his intention to exempt the farmer as such. His intention was to exempt the income which the farmer made out of farming. I agree to a certain extent, because we ought to do everything possible to encourage farming. There are so many trials like droughts and other visitations that the Government should do its best to encourage farming in every way, yet not so as to relieve every person employed in farming of the duty of paying taxes. Therefore I have moved an amendment.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member has seconded a motion and he cannot now move an amendment.</p>
+
+</speech>
+
+<speech by="#hattingh">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">HATTINGH</person>:</from>
+
+<p>No, Mr. Speaker, I did not second the motion. The hon. member for Springs (Mr. Allen) did so for the hon. member for Jeppe (Mr. Sampson). I want that all income directly obtained from farming to be exempt from income tax. The hon. member for Cape Town (Central) (Mr. Jagger) will not object to my quoting him. He may possibly get tired of business, and decide to go farming. At the same time he owns thousands of shares in his business and draws an ample income from it. He is a bona fide farmer, but the hon. member for Ermelo (Col. Cdt. Collins) surely does not want his whole income to be exempted. Take the case of the mine owners. They are not actively concerned in the mining industry; they are only the owners of thousands of shares, and farm as a pastime with sheep, etc. It will not be fair to exempt all their income. I therefore propose that only income out of farming itself shall be exempt, but not the income which a farmer possibly derives from industrial and other undertakings.</p>
+
+</speech>
+
+<speech by="#de_wet">
+
+<from>Mr. <person refersTo="hansard_za">Mr. DE WET</person></from>
+
+<p>seconded the further amendment.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I may inform the hon. member for Jeppes (Mr. Sampson) that the land-owners in the Cape Province have to pay road rates which the other provinces do not pay. Cape landowners also have to pay on the unimproved value of their land.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>You pay on improvements too.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Generally I am in favour of reducing taxation so as to ease the burden on the people and leave them with more money, for they can make better use of it than any Government can. I regret, however, that I cannot support the motion. The only sound foundation for all taxation, as the mover pointed out, is that a man should pay according to his income. Therefore, if you wish to make a reduction it must apply all round, and it would be inequitable to reduce the taxation of one class of the community only.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Don&#x2019;t you wish to encourage people to go on the land?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Certainly.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Don&#x2019;t you recognise the misfortunes of the farmers?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Yes, and we have voted a lot of money to put them in a better position. If the farmers are unfortunate and do not have any income, then they do not pay any income tax. The people who are exempt from paying income tax are those with incomes of under &#x00A3;400 a year, but against that they, as a general rule, pay considerably more than their fair share through the customs duties. For instance, the duty on sugar is 8s. per 100 lbs. A man does not buy sugar according to his income, but according to the size of his family, and generally, a poor man with a large family buys more sugar than a rich man with a small family. The same with tea, coffee and the like. People have to pay the duties on these articles according to their consumption and that consumption is dictated, not by the amount of a man&#x2019;s income but by the size of his family. The duty on tea is a fixed one, and so whether the tea is cheap or dear the poor man pays the same amount of duty on each pound of tea that his family uses as the rich man does. You can <span class="col_225-226" refersTo="page_0179"/>take it as a general rule, that when you have heavy customs duties the poorer part of the population pays more than its fair share of those duties. The State makes a remission of income tax in the case of a man with a large family as that large family entails the consumption of considerable quantities of dutiable articles. Take four taxpayers, a farmer with &#x00A3;1,000 a year, a business man with &#x00A3;1,000 a year&#x2014;</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>Which he generally makes out of the farmer.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>You should tax the parasite, the distributor.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>The distributor is doing just as useful a work for the community as anyone else. I know from my own experience that farmers&#x2019; profits are not very big, but farmers like other people pay income tax on what they make, so if they make no profits they pay no income tax. At the same time I agree that farmers and miners too, as far as that is concerned, are unjustly treated in regard to taxation, but particularly the farmers. They are the primary producers. The South African farmer has to sell the largest part of his produce overseas and has to be content with overseas prices. Over 50 per cent. of our products have to be exported, but Great Britain exports only about one-third of its products, while the United States exports less than 10 per cent. of its total products. The prices obtained for the produce exported from South Africa, with the exception of wool and cotton, are not very much higher than they were before the war, but the articles our farmers have to buy are about 75 per cent. dearer than they were before the war. Then the farmers have droughts to contend with. As regards gold, its purchasing power is less than it was before the war. Not only have imported goods gone up very considerably in price but Parliament has raised the price artificially by means of the customs duties. For instance, before the war the duty on boots was 15 per cent., but to-day it is 30 per cent. When the importer pays this duty he adds that to his landed costs and he charges a profit on the landed cost. The cost price, the freight and duties are added together, and generally the dealer takes 25 per cent. of that for expenses and profit. Take a pair of boots costing 20s. on the other side. The duty would be 6s. and the profit on that duty alone would be 1s. 6d. so the price to the purchaser is 7s. 6d. more than if there were no duty on the boots. The retail price of these boots reckoning in cost, freight, packing, duty and profit would be 40s. The duty on ready-made clothes has been increased from 15 per cent. to 20 per cent., on sugar from 3s. 6d. per 100 lbs. to 8s. and on furniture from 15 per cent. to 20 per cent. The mover of the resolution should start an agitation for the reduction of the customs duties&#x2014;that would be beneficial all round, for it would not only relieve the farmers but the poorer class of people throughout the country. In other words it is far more just because it would affect all the people and not one particular class in one particular industry. Everybody would get the benefit of it. I mention these things to show there are other and fairer methods to relieve the taxpayers of this country and I think they should be relieved. In other parts of the world they have reduced taxation and I think the time is coming, and I hope my hon. friend is going to do something, to reduce taxation, before the session finishes. But do not help one class alone, let everyone have some benefit.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I listened with interest to the advice given the Treasury from all sides with reference to our future taxation basis. On the one hand we heard that some kind of land tax will be the best change. The hon. member for Cape Town (Central) (Mr. Jagger) again took advantage of the occasion to ride his old hobbyhorse, and told us that the country is too heavily taxed with protective duties during recent years. He says the farmers are paying too much customs duty, and that there ought rather to be a larger direct tax and the abolition of protection. He thinks that is the best policy. The hon. member for Ermelo (Col.-Cdt. Collins) said: No, if we are to have a reform of the basis of taxation, look for it in the direction of exempting the farmers from income tax. The Treasury is always glad to receive hints, and I assure hon. members that all the advice will be duly considered. I think it is necessary to say a few words on some of the suggestions made to see how far I can accept one or all of them. A system of land taxation has been advocated, and in that connection I want to ask if there is any possibility of its being passed by the country. We must ascertain what is acceptable. It is no use juggling with theory. In the present circumstances I ask what is the good of talking about a land tax. Our climate varies greatly so that in large parts of the country continuous agricultural work cannot be done. When the farmer has sown, planted and worked hard he is never certain that he will have a harvest. It is only in a small part of the country that you have the certainty that the farmer will reap the fruit of his labour. What is the use of talking of a land tax when the farmer, notwithstanding his hard work, reaps no harvest? Whatever the position may be in other parts of the world, it is impossible here. The hon. member for Cape Town (Central) always seizes an opportunity of stating his views, but his is a voice crying in the wilderness. He receives no support on this side of the House, and very few members support him. We admire his persistence, and possibly he may some day convince the country and the House. The motion is described as a joke in some circles. I do not regard it as such, and propose to deal with it seriously. The hon. member for Krugersdorp (the Rev. Mr. Hattingh) has already pointed out that the proposal in the wide terms used will be impossible. I assume that he intends his motion to be on the lines stated in the amendment of the hon. member for Krugersdorp, namely, that not everybody <span class="col_227-228" refersTo="page_0180"/>who goes in for farming shall be exempt from income tax, but that income from farming shall be exempt. I think we should seriously consider how far that ought to be our future policy. The hon. member will excuse me if I say that I cannot agree with most of his reasons for the motion. To talk, e.g., of more taxes on the farmers by way of indirect taxation, and to defend the motion on that ground, does not hold water. I agree with the hon. member for Cape Town (Central) (Mr. Jagger) that income tax, whether imposed on farmers or others is justified because a man is not taxed if he has no income. If a farmer really makes a profit, why then should he not pay a tax on it like any other part of the population? That is quite a fair proposition. The system cannot be attacked on the ground of injustice, but I think that in our country with its peculiar circumstances we should be justified in regarding the matter from the aspect of how our farming will be made attractive by the alteration, and so to get a larger population on to the land. That is the basis on which we can consider it very seriously. The hon. member for Cape Town (Central) said that it would be unfair, but that is not so. Those who think we are preferring a certain section can obtain the same preference by going on the land. We shall welcome their capital there, as we welcome that of the hon. member for Cape Town (Central) in farming. It assists in increasing the production of the country, and our economic resources. If other sections of the population have capital, and say that the farmers are being preferred, then they can risk their capital on the land, and get the benefit. If they make farming more attractive to the people, who to-day invest their capital in other ways, I think it is a matter we should consider. The hon. member for Ermelo is quite right in asking whether it is worth the trouble of collection. I have unfortunately not had time to go into all the figures of the income tax payments by farmers. I had the information some time ago, and the hon. member is fairly correct in the figures he has mentioned. The trouble that farmers have, and the expense of collection ought to make us think seriously whether it is worth while including farming in our income tax system. The hon. member for Standerton also suggested it some time ago, and I do not think we should regard it as a joke. It is not a party question, and everybody who wants the country to go ahead ought to consider whether, in order to attract more people on the land, we ought not to abolish the income tax on agricultural produce. We find in Australia that the population in the country districts is getting less, notwithstanding the methods employed to keep the people on the land. Is this possibly one of the ways by which we can succeed? For that reason I think I am entitled to tell the House that the Treasury is prepared to consider the question to see if we can justify this and whether, and when it will be possible to give effect to the principle which the hon. member for Ermelo has advocated, and so strongly approved by hon. members who represent farmers. I accept the motion, not to give effect to it to-day nor to treat it as a joke, but to give serious consideration to it.</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>As I understand the Minister, it seemed to me he was speaking against the resolution proposed and unless I misapprehended him he seemed to indicate there should be no distinction in the taxing of the income of the farmer and anyone else and concluded by accepting the resolution and promising to give it consideration. I am glad he has done so because I have found a great deal of sympathy for the resolution introduced by the member for Ermelo (Col.-Cdt. Collins). Any investigation will show that the farming population of South Africa is in a worse position than any other section of the community and their income is less certain than that of any other section. Farmers have difficulties to contend with that other sections have not got. Members of this House have been concerned with the effect of the severe drought and one realizes if a farmer has two or three years of drought it is not much good to tell him in the following year that if he has an income he must pay income tax, because it will take some time to make up the losses from the drought. I was surprised at the attitude of the hon. member for Cape Town (Central) (Mr. Jagger). He has only utilized this resolution to give us his usual homily on free trade versus protection. In so far as the farming population is concerned maybe they have to pay more for their requirements as a result of the policy of protection but that policy of protection has created other avenues of employment in the country for thousands of people who would otherwise be unemployed, and has therefore created a greater local market. In addition everybody cannot be farmers. The mining industry is a vanishing industry. It is not a permanent industry and it is imperative that something should be done to create avenues of employment for those people who cannot be on the land and who, later, will not have the mines. Therefore, I think the argument of the hon. member for Cape Town (Central) (Mr. Jagger) is not only erroneous but it certainly is not something which would help the farming population of this country. There are other reasons for which I think the farming population deserve the sympathy and support of this House. There is, first of all, the insecurity as far as prices are concerned. The farming population are in the position that they have no security whatever as regards prices, and I believe a great deal could be done to assist the agricultural population of this country if you were to guarantee a minimum price for their produce for a specific period.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Who is to give the guarantee?</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>The Government.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>At the expense of the taxpayer?</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>No, at the expense of some systematic organization by which the Government will say&#x2014;</p>
+
+<block name="#quote"><span class="col_229-230" refersTo="page_0181"/>So much produce is required for consumption in South Africa; we will guarantee a certain price.</block>
+
+<p>The farmer would then be able to get that price before any imports could come into this country to compete. That is the policy that was pursued in Great Britain during the war period. It was afterwards dropped, it is true, because certain people were against that policy generally, but it was pursued in Great Britain by the War Cabinet, who found that it was imperative to have certain produce for the feeding of the people in England. The War Cabinet said that the farmers could not be expected to speculate in the interests of the community as a whole, and they guaranteed to give the farmers a certain price which resulted in a tremendous improvement in the agricultural position in England. The moment that was done away with farming in England went back, and to-day there are various sections of opinions in Great Britain supporting the principle which I have indicated, not merely sections belonging to the Labour party, but other sections of opinion also. At present the Empire Marketing Board is considering a proposition of this kind. Then there is another difficulty with which the farmers are confronted, and which cannot be gainsaid, and that is that the price which the farmer gets for his produce compared with the price which the consumer pays shows that both the producer and the consumer are fleeced. Again, I think material assistance could be given to the farming population by definitely arranging that they shall not be subjected to exploitation by shipping rings, as has been the case in the past. There is a further point, and that is that as a result of the industrial policy of the towns the farmers are often prejudicially affected without their having any say in the matter. I quote the position that arose in 1922 as a result of the strike on the Witwatersrand, when the mining industry reduced wages by something like &#x00A3;3,500,000. That did not affect merely the miners on the Rand, but it also affected the farming population whose market was restricted, and it was found subsequently that for the same amount of produce in 1923, as compared with 1921, which the farmers sold, they received something like &#x00A3;1,000,000 less. These are all different directions in which, on the one hand, the farmers are being prejudiced, their position is uncertain, and on the other hand I have indicated a direction in which they can be assisted very materially. In the absence of that assistance, or pending that assistance, I think it is only reasonable that they should get some further assistance, and that is indicated by the resolution which has been submitted by the hon. member for Ermelo (Col.-Cdt. Collins) as amended by the hon. member for Krugersdorp (the Rev. Mr. Hattingh). The hon. member for Jeppes (Mr. Sampson) introduced an amendment which in theory is perfectly correct, but which after all deals with alternatives to the proposal as to how the money which may be lost as a result of taking away the income tax could be raised. I believe that from the point of view of the farmer land taxation would be a good thing for him, but as a socialist, I am not enamoured of the policy of land taxation. The only effect of that policy of land taxation would be to break up the farms and create more competition amongst the farmers, and create a large number of little landowners who would become a bulwark of the present economic system. I prefer the present arrangement to go on until we can place things on a much more scientific system of production and distribution. I do say that as regards the question of raising revenue to replace the revenue which would be lost, a more scientific method and a more useful method would be to impose a tax which I believe would be very popular amongst the overwhelming majority of people, a tax on unearned increment.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>*Mr. <person refersTo="hansard_za">STEYTLER</person>:</from>
+
+<p>When the leader of the Opposition suggested, that farmers should be exempt from income tax I asked myself why, after fourteen years of office, he had put such a tax on farmers. I am glad that hon. members opposite have found that they made a mistake, especially when they taxed the lambs and calves as well. I welcome the acknowledgment of the mistake. A year ago I pleaded for this exemption from taxation, but I did not introduce a motion. Our Government is a Government of farmers, and if one of us on this side had introduced the motion, we should always have been reproached that we made use of our majority to put it through for the farmers. I did not want this, and therefore I welcome the present motion. I also welcome the fact that the motion has been supported on his side of the House, always of course with the exception of men such as the hon. member for Cape Town (Central) (Mr. Jagger). I am convinced that the farmers in my constituency will be glad if the Minister of Finance is able to accede to the request. The income tax is a nightmare to the farmer. The farmers are proud, and like to fill in the forms themselves, and therefore we often pay on things which might have been exempt. We are thankful that an attorney has introduced this motion, and the farmers will not forget it. The hon. member for Cape Town (Central) must remember one thing. If it were not for our farmers, he would not have been able to build up his big business. He has built it up by the sweat of the farmers&#x2019; work. What would have become of our country if the farmers had not gone to the dry Karoo? The hon. member has the more convinced me that farmers ought to be exempt with his quotation that the farmers produce 50 per cent. of our articles of export. The farmers enrich the country, and so the shopkeepers are able to build up big businesses. I hope the Minister of Finance will seriously consider the matter, and next year will be able to assist the farmers. I am glad the hon. member for Troyeville (Mr. Kentridge) supported the motion. We have heard a good deal about the people with whom the Nationalist farmers are co-operating. The hon. member, however, supports the farmer, while the hon. member for Cape Town (Central) (Mr. Jagger) opposes the motion. I thank the Minister of Finance for the encouragement he has <span class="col_231-232" refersTo="page_0182"/>given the motion and I hope that he will be able to grant the desired relief.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>We have listened to a number of speeches from the hon. member for Troyeville (Mr. Kentridge) for a good many years past, but I think with the hon. member for Albert (Mr. Steytler) that the most extraordinary speech he has ever made in this House is the one he made this afternoon Extraordinary for his candid confession that he had no time for land taxation, and still more extraordinary for the reasons with which he endeavoured to support the motion by the hon. member for Ermelo (Col.-Cdt. Collins). He devoted the whole of his speech to proving why some farmers do not make an income. I quite agree that there is a large proportion of farmers who do not make an income on which they need pay income tax. I agree that there are many whose lot is a hard one. But we were not dealing with the lot of farmers who do not make incomes; we were dealing with farmers who do make incomes. He never addressed himself at all to the proposition why a farmer who makes &#x00A3;600 to &#x00A3;800 or &#x00A3;1,000 a year should not pay tax on that income in the same way as a lawyer or shopkeeper. I have never heard anything quite so extraordinarily muddled and wide of the point as the speech which the hon. member inflicted upon the House. I venture to say that not a single member of his party would get up and support the line he took. I was surprised, judging by the diffident way in which the hon. member for Ermelo opened, at the measure of support he received and at the sympathetic reception which the Minister gave to the motion, and I will give the reasons for my surprise. We are not dealing with remedial measures to assist the poor and struggling farmer. If we were doing that, I do not believe there is one member on this side who would not be absolutely sympathetic. We are dealing with the case of the farmer who, to the satisfaction of the Receiver of Revenue, makes a good income, and we are asking ourselves the question whether he should be taxed on that income or not. Take the farmer who makes an income of &#x00A3;600 a year, and take the civil servant who makes &#x00A3;600 a year, each with a family of three children. Let me compare the lot of the farmer with the lot of the civil servant. The farmer lives on his own farm very largely out of his own produce.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>With a bond of 90 per cent.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am trying to take the case of a farmer who has actually made that income. He and his family live very largely out of the produce of the farm.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>You are quite wrong there</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Well, then, a very small allowance is made. I want you next to take the civil servant who earns the handsome income of &#x00A3;600. Most of our magistrates do not get as much as that. He has to pay rent and rates, he has to pay insurance, he has to buy clothing for his children on a far more generous scale than the farmer; he has to pay the butcher and the baker, where the farmer&#x2019;s wife makes her own bread and the farmer largely gets meat from what he kills, and so on, and I challenge any urban member to go on a platform and say the farmer who makes &#x00A3;600 a year should pay nothing, but the civil servant, the manager of a shop, the bricklayer or the contractor will pay. I say it is absolutely indefensible, and not one word can be said in favour of the equity of it. I am all with the hon. member for Cape Town (Central) (Mr. Jagger) for reducing the burden on the farmer by reducing the cost of living, and the cost of commodities which he must buy. I am surprised at this motion to-day because this is a motion to relieve the rich farmer, who can pay, from the taxation which he pays, but it is not a motion to reduce by one half-penny the burden on the struggling farmer who has not yet reached the income tax paying stage at all. That farmer has to buy boots for himself and his children, buy food, and has to pay the doctor when his children are sick. He is the person whom we ought to uplift. The taxable income of the farming community, as shown in the last report of the receiver of revenue, is &#x00A3;6,066,000, of which &#x00A3;2,700,000 is from the Cape, &#x00A3;511,000 from Natal, &#x00A3;762,000 from the Transvaal and &#x00A3;2,000,000 from the Orange Free State. This does not include the sugar farmers, who are shown separately. I do not know whether my hon. friend intends to relieve them from the payment of super tax. The total of supertaxable income derived from farming is &#x00A3;549,000&#x2014;&#x00A3;367,000 from the Cape, &#x00A3;47,000 from Natal, &#x00A3;55,000 from the Transvaal, &#x00A3;78,000 from the Orange Free State. Are you going to exempt the sugar companies? If not, why not; and on what principle? Are you going to exempt the ranching companies which are being established on a large scale in this country? Where are you going to draw the line? Are you going to say that your struggling artisan and the civil servant at the bottom of his grade has to pay, but your wealthy sugar farmer has not to pay? I am utterly surprised that the Minister of Finance has gone as far as he has this afternoon. Anything more indefensible I cannot think of. I am saying this not in any spirit of hostility to the farmers themselves, but it is doing the farmers the worst disservice by saying that they shall not pay. Up to the date of the French Revolution the economic position in France was that the nobility and the clergy were entirely exempt from taxation, and placed the burden on the third estate,&#x2014;the lower orders&#x2014;and the revolution came. The worst thing for the community, for the farmers, lawyers, or any other class, is to be specially privileged for the purposes of taxation. Nothing will do the farmers a worse disservice than to say, that they should not pay. The argument that you induce persons to go in for farming more if you relieve them from the payment of income tax is entirely fallacious. Do you want a capitalist like my hon. friend in front of me to go in for farming, or do you want a small man who will take off his coat and work? You want the second class&#x2014;large <span class="col_233-234" refersTo="page_0183"/>numbers of small progressive workers&#x2014;and they are not the farmers whom this motion will assist a little bit. Take a man with a family of three children. If you start off with an abatement of &#x00A3;400 and one of &#x00A3;60 for each child under 18, up to &#x00A3;580 your married farmer with three children does not pay one penny. The argument that you are discouraging farming seems to be utterly false, and it does not ring honestly to my ears at all. If it was stated that the burdens you are placing on the farmers by this taxation are intolerable I can understand that you ask for them to be removed, but the argument in favour of removing burdens from a limited number of well-to-do farmers is one I cannot understand any hon. member supporting, and certainly not a member of the Labour benches. I would love to hear the hon. member for Troyeville (Mr. Kentridge) deal with the subject at a gathering of working people.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The hon. member who has just sat down is quite honest in his sympathy with the farmers, but he is not one himself and has never probably grown a cabbage in his life. He does not know the hardships of the farmers. He compares a civil servant with a farmer making &#x00A3;600 a year, but the farmer has to work many years to make his capital, and the civil servant has not to work for that capital and also he gets a pension. I ask any farmers in the House whether children on the farms do not cost more than in the towns. We on the farms have to send our children to boarding schools, while in Bezuidenhout Valley you can send a child round the corner to school, and it costs you nothing to send him there. When your child has passed the primary education stage and is sent to a secondary school&#x2014;I am not talking about the university&#x2014;a boarding school costs from &#x00A3;100 to &#x00A3;150 a year. When I lived away from town I paid &#x00A3;6 a visit for a doctor. Let that happen for seven days, and see what it costs you. All the townsman has to do is to ring up a doctor. When an accident happens, and you live in the country away from a town, you have to wait a long time for the doctor to arrive. All these things cost extra money when you are living in the country. If there is a strike, the first thing the Government comes to the farmer, and they are the first people who are commandeered. It is they who have to go to the towns when there is native or other trouble, and they have to leave their farms alone. I do not say that the farmers are asking as a body for the income tax to be taken off, but I do say they want some assistance. There are years when a farmer makes a profit&#x2014;he may make a profit one year and go for three years without making any profit at all. Farmers are the only people in the world who sell their produce at a price which is regulated by the man who buys it. If the hon. member for Cape Town (Central) (Mr. Jagger) sells me, say, bedsteads, he fixes the price, but if I want to sell my butter or mealies the price is fixed by the storekeeper to whom I sell them, and so I pay that gentleman&#x2019;s income tax. The storekeeper says it costs him so much to run his business and so much for the payment of income tax, rates and so on, and he takes that off my produce. They are quite honest about it&#x2014;the producer pays the piper. I have nothing against the hon. member for Bezuidenhout (Mr. Blackwell). I admire the way he talks about things, but he has never paid income tax in his life&#x2014;it is paid for him by the producer who employs him.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>You never paid my income tax.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I have never paid it because I have not been so foolish as to employ you. There is another point. I am told that the cost of collecting income tax from the farmers is so heavy that it is really not worth the while of Government to collect it. Forms have to be served on every farmer whether he pays income tax or not. Farmers do not keep books, so they have to go to lawyers to have their returns prepared at a cost of two and three guineas each, and thus they help to pay the income tax of lawyers. Then my hon. friend says that a farmer saves because he kills his own meat, but the ox has to be fed whether it is sold or whether it is eaten by the farmer and his family. In my income tax return I have to put down how much meat, vegetables, eggs, butter and so on I have consumed from my own produce. On the other hand, I have a bond on my farm, but I am not allowed to deduct the interest I pay on that bond, although I am told that if I appeal I should win. However, I cannot afford to do that not being a lawyer. Farmers are fighting all the time in South Africa to-day, and there is no big farmer except the sheep farmer who is making 5 per cent, on his capital. It would pay most of us better to sell our farms and put most of our money into Government stocks, for the House has passed legislation to the effect that if you buy certain Government stock you do not pay income tax on the interest you receive from them.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>The 4&#x00BD; per cent. stock only, and that stock was issued during the war.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The only people who could buy that stock during the war were those with money&#x2014;the fanner did not buy it. Consequently, the rich men of South Africa have stock on which they pay no income tax at all, but still such men get up in this House and say the farmer should pay income tax. The only thing against the motion is this: That it is a bad advertisement for our country if we pass a resolution saying that farming is in such a bad way that farmers need not pay income tax. That is why, I think, we need to be very careful, for we do not want it to go all over the world that if settlers come out here they will become bankrupt. However, if the Minister of Agriculture is left alone for a year or two he will make farming in South Africa pay. Then our farmers are improving. We have better farmers to-day than we had five years ago and five years hence we shall have better ones still. While the Free State farmers are <span class="col_235-236" refersTo="page_0184"/>cutting out political meetings, but attending farmers&#x2019; meetings, and I am very glad to see it We have a most wonderful farmers&#x2019; association which is raising &#x00A3;24,000 of the members&#x2019; own money with which to look after their own interests. The farmers have at last become trade unionists and that is better than joining the Labour party or going to the Government for help. This is not a party question, and if we can only keep party questions out of it the better it will be. We are trying to do something which is good for the farmers and the remarks made by the hon. member for Cape Town (Central) (Mr. Jagger) regarding farmers and high protective duties are correct. The words of the hon. member for Cape Town (Central) (Mr. Jagger) are correct. The Government is putting up the cost of things to the farmers. Why we are called upon to turn out goods in our factories here that are not worth buying, I do not know. If I produce mealies to-morrow I must sell them in the London market, and if I get 10s. a bag for my mealies in London and I pay 20s. more for my boots here, I am giving two bags of mealies away. We have no time for these tin-pot factories; they are no good to us, and you usually find they employ coloured. We hear the cry, we can send our children to the factories. I would rather send my son on to the land, and if they were all sent on the land it would make a better country than a country of big, smoking factory chimneys. That is what the Minister has got to think about. We are carrying these factories on our backs. Clothing, boots, hats are going up, blankets have gone up, everything is going up, and the farmer in South Africa cannot sell his goods in South Africa. He has to sell them overseas. At least 50 per cent. is sold overseas. We are in the hands of the overseas market. This year our fruit and citrus have been wrong. The Empire Marketing Board is going to do a great deal of good for the farmers in South Africa. The Imperial Government to-day is doing more for the farmers than the Government of their own country, and the British taxpayer is paying for it, but I am not going to make an imperialistic speech. Indirect taxation to-day is crippling us, and that is why we cannot pay income tax. I say that seven-tenths of the properties belonging to farmers to-day are borrowed up to the hilt. The price of land is advancing, and farmers cannot cope with the land when it is going up so high. I have been surprised at the number of bonds going through the office in the Free State and other parts of the Union. Every farm is bonded. Farmers are making another mistake. They are using too many motor-cars, and the motor-car is ruining the farmer to-day. He is always off his farm and on his motor-car. I would rather not see these motor factories at Port Elizabeth. I would rather not see these motor-cars coming into the country at all. I do not know whether we should pass this resolution, because I am afraid of it on account of the bad advertisement to South Africa. It has, however, given us the opportunity to tackle the Government on this question. There are only seven of ns in the House to do it, and I know you call us fools because we are free traders. If it comes to the vote I shall vote for the resolution.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>If it were not for the speech of the hon. member for Bezuidenhout (Mr. Blackwell) I should not have said a word on the motion The hon. member probably knows nothing of farming, otherwise he would have shown sympathy with the farmers. Possibly he does not know that there are farmers in the midlands to-day who, a few years ago, paid income tax, but to-day are on relief works.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>*Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>So they do not pay income tax to-day.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>They do not pay to-day, but they are people who tried to make a living out of the farming gamble. There are people who bought a farm for &#x00A3;10,000 and have paid off &#x00A3;5,000, but have had to hand over the farm to the bondholder. The hon. member does not know the position, but there is no doubt that farming is the biggest gamble in the country. It is the custom of farmers to hide their distress, and even to-day they do not like to apply to the Government for assistance. I am sorry that the hon. member for Ermelo (Col.-Cdt. Collins) made certain remarks in introducing his motion. He wanted to create the impression&#x2014;probably with the press&#x2014;that we were opposed to his motion, and that we did not regard it with the seriousness he intended. I can tell the hon. member that we decided to support his motion, and that the Government did the same. Our decision is based on the remarks the Minister of Agriculture made years ago, and on the principles laid down by the Nationalist party before it came into office. We are in favour of the farmers and any other person getting the support of the Government when in distress as are farmers at present. Then they also ought to be exempt from taxation. It is with the object of inducing the general population of South Africa to go on to the land that this Government has been working in this direction in every possible way since it came into office. While all classes of the population are strongly organized, I regret that the farmers are still disorganized. When it is said that farmers should organize irrespective of political principles, then too often there is a feeling of distrust. I want to congratulate the Minister of Agriculture on always defending organization by farmers, and for saying&#x2014;</p>
+
+<block name="#quote">If you are properly organized, send your representatives to me, and I will act according to your wishes.</block>
+
+<p>If the 100,000 farmers in the country are properly organized they will be able to dictate even to the Minister of Agriculture, with his military principles. The motion embodies what we have always favoured, and I am glad it has come from the hon. member opposite. People who speak of the rich sheep farmer do not <span class="col_237-238" refersTo="page_0185"/>know what the position is; there is not a single sheep farmer in the Cape who has not had terrible losses. Agricultural statistics clearly show that the losses of stock every year amount to millions and millions. We accordingly support the motion with pleasure. The mover made out that he had to convince us, but it was unnecessary. I am certain that every member of the House&#x2014;except the hon. member for Bezuidenhout&#x2014;knows of the terrible losses of stock and how the farmers have tried to remain on their farms. When one sees how a farmer carries on with ten sheep, and says that things are satisfactory, then one cannot do otherwise than admire him. The people must be induced to remain on the land. I speak as a practical farmer, and as one who constantly comes into touch with the people. If ever there was a wise action possible for the Government, it is for them to exempt the farmers from income tax. When once they get into the town it is too late, because town life is too pleasant We must, therefore, keep the people on the land.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I hope that the House will not accept this motion. I consider that an income tax is by far the fairest form of taxation that we have, provided that income tax is levied in a just and equitable manner, though I do think that the farmers have some right to complain that the income tax on their profits is rather harshly levied, that is, that they are not allowed to deduct a fair and reasonable amount of depreciation from certain of their assets, but I do think that, provided the income tax is fairly levied, there is no better form of taxation. We know that in other countries great incomes are derived from farming. For instance, in Australia the owners of some of the sheep farms are amongst some of the wealthiest Australians that there are, and there is no reason whatever why certain sections of farming in this country should not be equally profitable. Take the sugar planting in Natal. Are we going to take up the position that a sugar planter in Natal is not to bear his fair proportion of the cost of governing this country? Personally, I think it is unfair that man should be exempt from this form of taxation. You may get in this country the position which you have in Australia, in which there are very big sheep farms, the owners of which make considerable incomes, and I do not see the justice and equity of a principle that lays down that a man making a large income out of farming should not pay income tax, while another man who derives his income from another form of work should have to pay income tax. Most of the arguments I have heard in favour of this resolution are all pointing out that the farmer has a very bad time in this country, that he makes very little money and so on. I quite agree with you that, as a general rule, the farming population of this country do not make large incomes, but make very small incomes, but that is not an argument in favour of this resolution, because the less a farmer makes the less income tax he will pay. It seems to me that the argument that a farmer makes little income is no argument whatever in favour of this motion. If a farmer makes little income, he will pay practically no income tax. We know from the returns that farmers, generally speaking, pay very little income tax, and, therefore, it does not bear very hardly upon them. The effect of most of the arguments, it seems to me, is that this motion is not required at all. These farmers do not pay considerable income tax, and, therefore, there is no necessity for a motion like this coming before the House. I must say I was astonished to hear the Minister of Finance give a qualified approval to this motion. It seems to me that, from the point of view of the treasury, it is a most unfortunate exception to take. I think the attitude of the treasury, in any case, ought to be that if a man makes an income, from whatever source he makes it, he should contribute towards the upkeep of the country, provided always that in the working of the income tax, a fair and reasonable, I might say, almost a generous allowance should be made to the farmer on his improvements for depreciation. That is where, I think, the Income Tax Department are unnecessarily harsh. They do not give the farmer a fair and reasonable depreciation on his improvements. I think I am right in saying on the question of fencing, for instance, they consider that is a capital improvement, and they do not allow a reasonable and considerable depreciation on fencing. All of us know, who have the pleasure of owning farms, that fencing is a very considerable item, and it is also a form of investment that depreciates very rapidly. Provided the Income Tax Department treat the farmer generously on the question of depreciation, I ask that if a man makes an income which is sufficient to bring him under the Income Tax Act, he should pay his fair whack like a man, just in the same way that every other inhabitant of the country does.</p>
+
+</speech>
+
+<speech by="#buirski">
+
+<from>Mr. <person refersTo="hansard_za">BUIRSKI</person>:</from>
+
+<p>I support the amendment of the hon. member for Krugersdorp (the Rev. Mr. Hattingh). I cannot go all the way with the hon. member for Ermelo (Col.-Cdt. Collins). I do certainly think that farmers should be exempted in respect of what they actually get out of farming operations, but there may be cases in which they are getting a handsome income in other directions, and in that respect I think they should be liable to income tax. I do not think some of our friends quite understand the difficulties under which farming operations are carried on in this country. The farmers live on hope. I maintain it is the duty of this Government or any Government, if they wish to keep men on the land, to assist the farmers as much as possible. I maintain that the money realized out of the income of the farmers is very little, and it does not pay for the amount of work that the officials have to put in to obtain that income. Above all, the mode of getting that income through various forms is also a source of very great difficulty to the farmers. I do not agree with hon. members who say that the farmers rush to attorneys and are &#x201C;rushed&#x201D; for two or three guineas. <span class="col_239-240" refersTo="page_0186"/>Usually they pay at the most five or six shillings. I submit with all due respect to some of my hon. friends on this side, that the farmer should have as much encouragement as possible and especially in the matter of income tax. I sincerely hope the amendment will be carried.</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>*Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I did not, of course, intend anything beyond what the hon. member for Krugersdorp (the Rev. Mr. Hattingh) has said. It is not my intention to exempt a person who only does casual farming from taxation of the income which he derives, e.g., from a bond. I am prepared to accept the amendment of the hon. member for Krugersdorp. I hope the Minister of Finance did not misunderstand me, I referred to those who regarded the motion as a joke, but I do not do so myself. It is a serious matter with me. To encourage the Minister I want to say that he will probably lose no revenue. He will find that the losses on their farming operations which men like the hon. member for Cape Town (Central) (Mr. Jagger) and I have suffered in the past will compensate for any losses if the motion is carried out, because those losses could no longer be deducted. The State will in this way be recompensed for what it loses directly through the proposal. I appreciate the way in which the motion has been received.</p>
+
+<p>Amendment proposed by the Rev. Mr. Hattingh put and agreed to.</p>
+
+<p>Amendment proposed by Mr. Sampson put and negatived.</p>
+
+<p>Motion, as amended, put and Mr. Blackwell called for a division.</p>
+
+<p>Upon which the House divided:</p>
+
+<p>Ayes&#x2014;65.</p>
+
+<p>Allen, J.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Badenhorst, A. L.</p>
+
+<p>Barlow, A. G.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bergh, P. A.</p>
+
+<p>Beyers, F. W.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers. A. A.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>Deane, W. A.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>De Waal, J. H. H.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit. F. J.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Hugo, D.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Malan, M. L.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>Moffat, L.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Naud&#x00E9;, J. F. T.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nicholls, G. H.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost, H.</p>
+
+<p>Pienaar, J. J.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rood. W. H.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Stals, A. J.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Visser, T. C.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Tellers: Collins, W. R.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;27.</p>
+
+<p>Alexander, M.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Chaplin, F. D. P.</p>
+
+<p>Christie, J.</p>
+
+<p>Close, R. W.</p>
+
+<p>Creswell, F. H. P.</p>
+
+<p>Gordham, A. C.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Henderson, J.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Macintosh, W.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Nathan, E.</p>
+
+<p>Oppenheimer, E.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Waterston, R. B.</p>
+
+<p>Tellers: Blackwell, L.; Sampson, H. W.</p>
+
+<p>Motion, as amended, accordingly agreed to, viz.&#x2014;</p>
+
+<block name="#quote">That the Government be requested to consider the advisability of exempting from the payment of income tax incomes derived directly from farming operations.</block>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-10-25T17:35:00">5.35 p.m</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

@@ -1,0 +1,1283 @@
+---
+title: 'House of Assembly: Vol8 - TUESDAY 22 MARCH 1927'
+layout: debate
+year: 1927
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 22nd MARCH, 1927.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1927-03-22T14:20:00">2.20 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#police_sergeant_kuruman">
+
+<heading>POLICE SERGEANT, KURUMAN.</heading>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I desire to move as an unopposed motion&#x2014;</p>
+
+<block name="quote">That notice of motion No. 3, transfer of Sergeant Kerwan from Kuruman, standing in my name for to-day, be discharged, and set down for Tuesday next.</block>
+
+<p>I do so because of the illness of the Minister concerned in this motion.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_pensions_grants_and_gratuities">
+
+<heading>SELECT COMMITTEE ON PENSIONS, GRANTS AND GRATUITIES.</heading>
+
+<speech by="#cilliers">
+
+<from>Mr. <person refersTo="hansard_za">CILLIERS</person>,</from>
+
+<p>as chairman, brought up the first report of the Select Committee on Pensions, Grants and Gratuities.</p>
+
+<p><span class="col_1685-1686" refersTo="page_0913"/>Report to be considered in committee of the Whole House on 28th March.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#oral_question">
+
+<heading>ORAL QUESTION.</heading>
+
+<oralStatements>
+
+<question by="#smuts" to="#prime_minister">
+
+<from>Gen. SMUTS:</from>
+
+<p>Before you go to the notices of questions, Mr. Speaker, I would like to ask the Prime Minister whether the Government proposes to make any arrangements in regard to the Easter holidays. Members on both sides of the House are very anxious to hear and to make arrangements, and I think the Prime Minister would be meeting the convenience of the House if he were to tell us what the proposals of the Government are.</p>
+
+</question>
+
+<answer by="#prime_minister" to="#smuts">
+
+<from>*The PRIME MINISTER:</from>
+
+<p>Yes, willingly. The Government is prepared to adjourn for the Easter vacation on Thursday, 14th April.</p>
+
+</answer>
+
+<question by="#smuts" to="#prime_minister">
+
+<from>*Gen. SMUTS:</from>
+
+<p>Thursday before Good Friday ?</p>
+
+</question>
+
+<answer by="#prime_minister" to="#smuts">
+
+<from>*The PRIME MINISTER:</from>
+
+<p>Yes, and to resume on Monday, 25th April, but on condition that Tuesday, Í2th April, and Tuesday, 26th April, are surrendered to the Government, Government work to have precedence on those days.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Mines: Boots Supplied.</heading>
+
+<question by="#hay" to="#minister_of_mines_and_industries">
+
+<num>I.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Mines and Industries what number of pairs of boots were supplied to mining employees under the provisions of sub-section (4) of section 6 of Act No. 52 of 1926 during the calendar year 1926 ?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#hay">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>The total number was 169,967 pairs.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Roads Construction.</heading>
+
+<question by="#papenfus" to="#minister_of_mines_and_industries">
+
+<num>II.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Mines and Industries what action, if any, has been taken by the Government to give effect to the motion adopted by this House on the 10th March, 1925, in regard to the proper construction and maintenance of a system of highways and roads for transportation purposes ?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#papenfus">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>The hon. member will, no doubt, remember the report of the Roads and Bridges Committee which was published in the Journal of Industries in July and August following the resolution of the House to which he refers. He will also recall that the report made certain very far-reaching suggestions as to the financing of a national road scheme and the participation of the Union and Provincial Governments. The Financial Relations Act, 1925, which places the financing of the provincial councils on a permanent footing has not been in operation long enough to enable the provincial councils to deal with this large and difficult problem.</p>
+
+</answer>
+
+<question by="#krige" to="#minister_of_mines_and_industries">
+
+<from>Mr. KRIGE:</from>
+
+<p>Arising out of this question, may I ask the Minister whether he is aware that last session the House also took a resolution upon this subject, and whether he has taken any action in connection with the resolution passed on the 26th of February last ?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#krige">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>I am afraid the hon. member will have to put that question on paper.</p>
+
+</answer>
+
+<question by="#papenfus" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. PAPENFUS:</from>
+
+<p>Arising out of that question, I want to know whether the Government have been in consultation with the different provincial authorities with a view to giving effect to the resolution of the House.</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#papenfus">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>The hon. member will have to put that on paper.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Ostrich and Other Plumage in England.</heading>
+
+<question by="#papenfus" to="#minister_of_agriculture">
+
+<num>III.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that the provisions of the English importation of Plumage Act of 1921 prohibits the importation of the plumage of any bird excepting, inter alia, the plumage of African ostriches;</li>
+
+<li>(2)whether he has seen the draft Bill, whereby it is now sought to amend the above Act by prohibiting the sale or offering for sale of such plumage, again, however, excepting the plumage of African ostriches;</li>
+
+<li>(3) whether he is aware that the High Commissioner for the Union of South Africa has lodged an objection to the said amending Bill with the Colonial Department in England:</li>
+
+<li>(4) whether the High Commissioner&#x2019;s attitude has the approval of the Government and, if so, whether the Minister will furnish reasons for such attitude, inasmuch as the passage of the amending Bill will result in the ostrich feather being the only one allowed to be imported and sold in the United Kingdom, thereby procuring a very real monopoly; and</li>
+
+<li>(5) whether, if the Government has no objection to the passage of the amending Bill, the Minister will cable the High Commissioner to withdraw the objection lodged by him ?</li></ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#papenfus">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2), (3), (4) and (5) I have seen the draft Bill and also the correspondence which the hon. member handed to the Minister of Justice, from which it appears that the High Commissioner has lodged an objection to an amendment to the Act of 1921, but I have not received any official communication from the High Commissioner and, therefore, do not know what his attitude is in regard to the Bill. I wrote to the High Commissioner on the 11th instant, and asked him what the position is.</li>
+
+</ol>
+
+</answer>
+
+<question by="#papenfus" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. PAPENFUS:</from>
+
+<p>I would like to ask the Minister whether it is one of the functions of the High Commissioner to object to projected legislation in England without authority obtained from this Government ? For these are the facts. The information I have given him is that the High Commissioner has lodged an objection with the Colonial Office, an objection of which this Government has no knowledge.</p></question>
+
+<answer by="#minister_of_agriculture" to="#papenfus">
+
+<from><span class="col_1687-1688" refersTo="page_0914"/>The MINISTER OF AGRICULTURE:</from>
+
+<p>If the hon. member will put it on paper, I will get the information.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cattle: Imposts from Rhodesia.</heading>
+
+<question by="#tom_naudé" to="#minister_of_agriculture">
+
+<num>IV.</num>
+
+<from>Mr. J. F. TOM NAUDÉ</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) What is the total number of cattle imported into the Union from Rhodesia during the twelve months immediately prior to the agreement with the Government of Rhodesia under which a restriction as to weight was imposed;</li>
+
+<li>(2) what is the number so imported for each of the two years subsequent to that agreement; and</li>
+
+<li>(3) what is the number imported from Bechuanaland (a) during the twelve months preceding the imposition of the restriction as to weight, and (b) during the twelve months after the said imposition ?</li></ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#tom_naudé">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) 36,121 including cattle for export. Prior to 1st January, 1925, separate figures for export and local consumption are not available.</li>
+
+<li>(2) 10,562 in 1925, 11,988 in 1926&#x2014;for local consumption only.</li>
+
+<li>(3) (a) 25,515, (b) 8.819&#x2014;for local consumption only.</li>
+
+</ol></answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>C. J. du Plessis, Sheep Inspector.</heading>
+
+<question by="#louw" to="#minister_of_agriculture">
+
+<num>V.</num>
+
+<from>Mr. G. A. LOUW</from>
+
+<p>asked the Minister of Agriculture why he found it necessary to dispense with the services of sheep inspector C. J. du Plessis, of Somerset East ?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#louw">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>Because he reached superannuation age of 55 and also on account of unsatisfactory services.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>South-West Africa: Diamond Tax.</heading>
+
+<question by="#munnik" to="#prime_minister">
+
+<num>VI.</num>
+
+<from>Mr. MUNNIK</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) What was the amount paid by all diamond producers in the Protectorate of South-West Africa for the last available year in respect of the gross diamond tax;</li>
+
+<li>(2) what was the amount of royalty collected by the Diamond Board for South-West Africa with the assistance of the Administration and paid over to the South-West Finance Corporation, Ltd.; and</li>
+
+<li>(3) under what circumstances are these royalties paid to the South-West Finance Corporation, Ltd. ?</li></ol>
+
+</question>
+
+<answer by="#prime_minister" to="#munnik">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) Gross diamond tax received for the calendar year, 1925, £469,556.</li>
+
+<li>(2) Of this amount £66,514 in royalties was paid to the Finance Corporation, Ltd.</li>
+
+<li>(3) Royalties are payable in terms of the Agreement of 1910 between the late German Government and the &#x201C; Deutsche Kolonial Gesellschaft &#x201D; under which latter received, as owner of the land and mining rights in the &#x201C; Sperrgebiet,&#x201D; out of the gross diamond tax from each producing company three and a half per cent. of their gross sale proceeds, the amount being limited in each case to thirty per cent. of the tax. The Finance Corporation purchased the rights of the &#x201C; Deutsche Kolonial Gesellschaft &#x201D; in 1920 and the Agreement was recognized by the Government, and the royalties are, in consequence, paid over to them. In the case of the Consolidated Diamond Mines, as, in addition to above royalty other royalties were payable in connection with some of the companies, whose rights they purchased, these were consolidated into one royalty by agreement between the Consolidated Company and the Finance Corporation and the Administration, dated 15th January, 1923. This consolidated royalty is calculated on an agreed formula corresponding approximately to the three and a half per cent. abovementioned.</li></ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Diamonds, Prices of.</heading>
+
+<question by="#munnik" to="#minister_of_mines_and_industries">
+
+<num>VII.</num>
+
+<from>Mr. MUNNIK</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) What amount was paid in the last available year by the ultimate retail buyers and users of diamonds in the world; and</li>
+
+<li>(2) what was the cost of cutting such diamonds ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#munnik">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>It is not possible to answer the question of the hon. member, as there are no data available on the subject.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Grootfontein School of Agriculture.</heading>
+
+<question by="#van_heerden" to="#minister_of_agriculture">
+
+<num>VIII.</num>
+
+<from>Mr. G. C. VAN HEERDEN</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) How many house masters have been appointed at the Grootfontein School of Agriculture since February, 1926;</li>
+
+<li>(2) what are their names, from where did they come, and what were their qualifications for the post;</li>
+
+<li>(3) how long did each appointment last;</li>
+
+<li>(4) whether these appointments were made upon the recommendation of the principal of the school or any other responsible official; if not, why not; and</li>
+
+<li>(5) whether applications were asked for, and whether those appointed were amongst those who applied ?</li></ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#van_heerden">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Four.</li>
+
+<li>(2) and (3) Mr. J. F. Weyland, from Molteno. Teaching, farming, bookkeeping experience, sportsman and good accomplishments; employed from 8th February to 4th May, 1926; resigned. Mr. P. J. Cloete, from Molteno. Teaching and farming experience; employed from 21st August to 3rd September, 1926; resigned. Mr. W. Anderson, from Lake Chrissie. Bookkeeping and commercial experience; employed from 8th October to 31st December; transferred to Potchefstroom, where good man was required. Mr. G. J. K. de Beer, from Prince Albert. Bookkeeping and commercial experience, sportsman and good accomplishments; appointed on 28th February, 1927.</li>
+
+<li><span class="col_1689-1690" refersTo="page_0915"/>(4) Mr. Weyland was appointed on recommendation of principal. The others were chosen in consultation with the chief of the division, owing to the urgency of the matter.</li>
+
+<li>(5) Applications were asked in the cases of Messrs. Weyland and Cloete&#x2019;s appointments. Mr. Weyland was one of the applicants, but not Mr. Cloete. Applications were not asked for in the cases of Messrs. Anderson and De Beer.</li></ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Coaches for Coloured Persons.</heading>
+
+<question by="#van_der_merwe" to="#minister_of_railways_and_harbours">
+
+<num>IX.</num>
+
+<from>Dr. VAN DER MERWE</from>
+
+<p>asked the Minister of Railways and Harbours whether under Act No. 22 of 1916 he will make provision for separate carriages for Europeans and coloured persons ?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_merwe">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Yes, wherever possible. Much has already been done by the Railway Administration to set aside carriages for non-Europeans, or where there is insufficient traffic to justify this, to provide reserved first and second class compartments in certain coaches with the necessary conveniences.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Liquor Sales.</heading>
+
+<question by="#van_der_merwe" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Dr. VAN DER MERWE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What quantity of (a) light wines and (b) other alcoholic liquor was sold during each of the last two years by the Railway Administration;</li>
+
+<li>(2) what was the profit or loss resulting from the said sale;</li>
+
+<li>(3) what quantity of (a) light wines and (b) other alcoholic liquor was sold during each of the last two years in the bars at the Cape Town railway station; and</li>
+
+<li>(4) what was the profit or loss resulting from the said sale ?</li></ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_der_merwe">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (a) 1925, 21,185 gallons; 1926, 21,147 gallons. (b) 1925, 161,871 gallons; 1926, 180,921 gallons.</li>
+
+<li>(2) Gross profit, light wines, 1925, £11,485; gross profit, light wines, 1926, £11,802. Gross profit, other alcoholic liquor, 1925, £85,177; gross profit, other alcoholic liquor, 1926, £90,008.</li>
+
+<li>(3) (a) 1925. 9,852 gallons; 1926, 9,539 gallons. (b) 1925, 15,336 gallons; 1926, 17,592 gallons.</li>
+
+<li>(4) Gross profit, light wines, 1925, £5,660; gross profit, light wines 1926, £5,802. Gross profit, other alcoholic liquor, 1925, £11,748; gross profit, other alcoholic liquor, 1926, £12,478.</li>
+
+</ol>
+
+</answer>
+
+<question by="#van_der_merwe" to="#minister_of_railways_and_harbours">
+
+<num>XI.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Native Administration Bill.</heading>
+
+<question by="#ballantine" to="#prime_minister">
+
+<num>XII.</num>
+
+<from>Maj. BALLANTINE</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) Whether the Native Administration Bill has been referred to the Native Affairs Commission; if so,</li>
+
+<li>(2) whether the commission has reported on the same; and, if so,</li>
+
+<li>(3) whether he will have the report placed upon the Table ?</li></ol>
+
+</question>
+
+<answer by="#prime_minister" to="#ballantine">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Yes.</li>
+
+<li>(3) Yes.</li></ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Motor Regulations in Cape Town.</heading>
+
+<question by="#jagger" to="#minister_of_justice">
+
+<num>XIII.</num>
+
+<from>Mr. JAGGER (for Mr. Stuttaford)</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) How many persons have been prosecuted by way of warning and summons for contravention of regulations issued by the Cape Town Municipality in re stopping and parking of motor-cars, taxi cabs, motor omnibuses, or other mechanically driven vehicles in the City, first promulgated in the &#x201C; Provincial Gazette &#x201D; of the 18th June, 1926, and amended by Notice in the &#x201C; Provincial Gazette &#x201D; of the 17th July, 1926;</li>
+
+<li>(2) what was the amount paid in fines;</li>
+
+<li>(3) what were the total terms of imprisonment imposed as an alternative to the payment of fines; and</li>
+
+<li>(4) whether the fines are paid into the Consolidated Revenue Fund, and, if not, into what fund are they paid ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#jagger">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) 694 persons. In 279 cases summonses were issued, and in 415 cases the accused were warned to appear before the court.</li>
+
+<li>(2) £383.</li>
+
+<li>(3) In no case was sentence of imprisonment imposed as an alternative to the payment of the fine.</li>
+
+<li>(4) Such fines are payable into the Provincial Revenue Fund.</li></ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#south_african_chartered_accountants_bill">
+
+<heading>SOUTH AFRICAN CHARTERED ACCOUNTANTS BILL.</heading>
+
+<p>Leave was granted to Mr. Pearce to introduce the South African Chartered Acountants Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 8th April.</p>
+
+</debateSection>
+
+<debateSection name="#co-operative_agricultural_societies_debt_repayment_bill">
+
+<heading>CO-OPERATIVE AGRICULTURAL SOCIETIES DEBT REPAYMENT BILL.</heading>
+
+<p>Leave was granted to the Minister of Agriculture to introduce the Co-operative Agricultural Societies Debt Repayment Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 24th March.</p>
+
+</debateSection>
+
+<debateSection name="#petition_g_robb">
+
+<heading>PETITION G. ROBB.</heading>
+
+<speech by="#rood">
+
+<from>Mr. <person refersTo="hansard_za">ROOD</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the petition from G. Robb, of Barberton, praying that he may be allowed to <span class="col_1691-1692" refersTo="page_0916"/>renew his licences on certain gold claims pegged by him in 1920, presented to this House on the 14th March, 1927, be referred to the Government for consideration.</block>
+
+<p>Mr. J. J. PIENAAR seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#work_colonies_bill">
+
+<heading>WORK COLONIES BILL.</heading>
+
+<p>Second Order read: Second reading, Work Colonies Bill.</p>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>This Bill sets up machinery for dealing with one of society&#x2019;s most painful problems, that is, how to deal with, and what to do with, those members of the community who have become indifferent to discipline, to habits of industry and, in many cases, to their own self-respect, and who have been sliding down the social scale until they eventually prey on society, lose all interest in themselves, their dependents, their prospects and their welfare. The main purpose of this Bill, I wish at the outset clearly to lay down, as far as I am concerned, is not to punish, but to rehabilitate and reclaim, as far as possible, the type of people to which I have just referred. This question of what to do with this particular type of individual is not a problem which is singular to South Africa&#x2014; it is to be found in all countries in the world, and every country has a portion of its population which has drifted, in many cases unintentionally, and through no fault of their own, into a position in which they eventually refuse to work, and live on society, on charity or any organization which will help them along, and, as far as possible, become dependent on the goodwill and charitable contributions of any person who is willing to help them. In other words, they develop into perpetual cadgers and habitual spongers on society. In other countries different institutions have been set up to deal with this social problem. In some cases penal settlements, workhouses and labour colonies have been set up and, in many countries, this type of person is sent to prison. That may punish the offender, but very seldom reclaims him, he is much more likely to come out of prison more brutalized and more determined to prey on society than he was before he was imprisoned. While the Bill is designed to exercise discipline, control and compulsion, its main objective is the assumption that every person has in him or her the elements that will enable them to make good, if we only deal with them kindly and firmly, and in the right way. In many cases some of these people were not always in the position in which they find themselves to-day, but it is no good to blame them for that. Some of them probably have been the victims of unfortunate circumstances over which they had no control; they may have fought against those circumstances, but the odds against them have been too great; consequently, they lost heart and hope, courage and confidence, and have drifted into the ranks of the won&#x2019;t works, the cadgers and the spongers. Had they had a fair opportunity they might never have drifted into that position, but, perhaps, sickness, unemployment or other adverse causes have resulted in their becoming no good either to themselves or to the community. Hence it becomes necessary to take steps to enable them to do what they cannot do of their own volition, to help them to help themselves, to try to restore their self-respect and habits of industry. That, in brief, is the purpose of this Bill. For many years the question has been before Parliament both before and after Union. Select committees have made recommendations, and the matter has also received the attention of organizations such as Boards of Aid and the Dutch Reformed Church. The latter established its own work colonies, and it has been crying out for years for something on the lines contained in the Bill, which would introduce that element of compulsion without which the Dutch Reformed Church says it cannot make a success of its schemes. In 1913, at the instance of the late Mr. Merriman, a select committee of this House was appointed to inquire into the matter, and in 1919 Mr. de Wet passed a Bill through the Senate, but it never got any further. The present Bill is mainly modelled on the lines of Mr. de Wet&#x2019;s measure, but more generous provisions have been included. The department has received resolutions from all sorts of organizations urging that something should be done in this direction. The Bill was referred, at my request, to the chief magistrates of Cape Town, Johannesburg and Durban for their views, and they were unanimous that a Bill of this description was urgently necessary, two of them saying that it was long overdue. There is a tremendous body of opinion throughout the country as to the necessity of legislation such as that now before the House. The only question is whether we have adopted the best machinery to deal with the problem. What is the procedure under the Bill? In the first place a public prosecutor, a commissioned officer of police, or an inspector of the Department of Labour can, in writing, submit to a magistrate that a certain person habitually begs or employs or uses others habitually to beg, or that any person has no visible means of support and allows his wife, children and dependents to be a charge on charity. We have numerous cases of men who have been given work time and again, but who actually refuse to continue in any employment and always depend on their wife and children going to the local relief organization and obtaining rations, out of which the man is maintained. Such a state as that should not be allowed, and this Bill lays down in cases like that, if reported to the magistrate, the magistrate can authorize the arrest of that person, or can issue a summons for him to appear before the court. He holds an inquiry into the circumstances, and must be satisfied, and this is a very important point, and a departure from past efforts in this direction, that the man has had suitable work offered to him, and has refused such work. It has got to be proved to the magistrate that this particular man has had his chance. The Labour Department is in a position to-day to give a <span class="col_1693-1694" refersTo="page_0917"/>large number of these men a chance by the offer of employment. It may be in the Forestry Department, on the railways, or on road-making, or, if suitable, in the ordinary trades and avocations which we are able to secure, but the magistrate must be satisfied that the work offered is suitable to the capacity of the man. If he is satisfied, and the man still persists in his old habits and methods, then the magistrate can commit him to a work colony. It is not a conviction, but a committal to a work colony for a period of not less than one year, and not more than five years. Experiences of other countries show that if you are going to rehabilitate a man of this kind, you cannot do it in six months, and provision is made for a minimum of twelve months. But if, at anytime, any of these men show, by their industry and merit, that they are making good, or that they are trying to make good, then the magistrate can suspend the committal at the request of the Labour Department, if we have suitable work to offer the man on training farms, or any other Government scheme. It is also at the discretion of the Minister if at any time he is satisfied that the individual is making good, and has reformed sufficiently to enable him to be released, to grant relief, and fix him up outside. There is another class dealt with; a person summoned for a contravention of the law on the grounds of vagrancy, illicit liquor selling, offences under the Child Protection Act, or theft. In these four offences a magistrate may, instead of sentencing him to prison, if he is satisfied the offence was committed solely on account of the conditions under which the man had been living, commit him to a works colony, but it must be an offence committed in direct consequence of the conditions under which he is living. We know that many offences are committed in a moment of desperation, where a man, seeing his wife and children going hungry, has committed an offence under the liquor laws by selling liquor to natives, and tells the court that he had to do something rather than see his wife and children starve. If the magistrate is satisfied the offence was committed owing to a man&#x2019;s economic circumstances, he can commit him to a work colony, instead of sending him to gaol. Supposing the man goes before a judge, and not a magistrate. A judge can find him guilty, but not so in the case of a magistrate, and a verdict of guilty would mean a record against him, but instead of sending him, as at present, to prison, he can order him to be detained in the work colony. Those are the main provisions for the different types of people this Bill proposes to deal with. Hon. members of the House would like to know where we are going to put them, and where they will be accommodated.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>And what it is going to cost.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>It has been contemplated setting up a new establishment somewhere, but we have dropped that idea, and propose utilizing one of the forestry settlements in the Cape Province.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Elgin ?</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>We have some very big forestry settlements, with the houses and the organization complete. They have schools, etc., and so we have a ready-made going concern. The people who are working there voluntarily to-day will have to be transferred to other settlements or to other forestry work to make way for the establishment of a work colony. In that way we shall avoid much capital expenditure, and go into a ready-made institution. Provision is made in the Bill so that if a man is committed and the department, or the inspectors, or the magistrates, think it would be in the interests of everybody concerned to have with the man his wife and family, then provision is made that the wife and family can accompany the man to the settlement where they will live as a family.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Who is going to pay for that ?</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I thought the hon. member would come to that. It might surprise the hon. member to know that, as far as I am concerned, I am going to try and make the man pay for his maintenance by the work he does. Of course, in some cases it would be inadvisable to allow a wife to accompany the man to such a settlement, but that will depend upon the magistrate. In the settlement or colony itself, we propose they shall be classified. They will be graded so that each will have his opportunity to aspire to something higher and better, until they qualify for release if the advisory board and the department consider that release would be justified. The hon. member for Cape Town (Central) (Mr. Jagger) says&#x2014;</p>
+
+<block name="quote">Who is going to pay ?</block>
+
+<p>I do not know how far I can succeed, or how far the department can succeed. After all is said and done, this is largely an experiment in the meantime, and a very important experiment. My proposal is this&#x2014;that if any of these men do the work which is now being done voluntarily on the settlements, then the country gets the benefit and value of that work, and why should not he be credited with the value of the work which he does ? The only difference between a work colonies scheme and the present scheme is that the men will be there in future under compulsion, whereas, to-day, they are there voluntarily as a means of livelihood. If men can go there voluntarily and earn a livelihood, I think it would be very unfair of the State not to give these men, whom it is sought to rehabilitate, the same opportunities, and, out of their earnings, we propose to deduct their keep and the keep of their families, if they are there as well. The State should be willing to do that.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>What happens if a man won&#x2019;t work ?</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>If he won&#x2019;t work, we have got to make the best of it and either punish him or adopt some other means. When he goes there we are going to try to rehabilitate him. It would be better <span class="col_1695-1696" refersTo="page_0918"/>even under those conditions to have that man under our control than to have him loafing about the streets, illicit liquor selling, and his wife and children a charge on charitable organizations. Another method of dealing with them in cases like that would be to put them on short rations. If a man won&#x2019;t work and won&#x2019;t earn his keep, why should society or someone else pay to keep him ? We will take suitable measures in the administration of the colonies to make the best job we possibly can with all the different types that we have to deal with.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Lashes.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>We don&#x2019;t want to go back to the dark ages. I think a spell of spare diet will be quite sufficient. You cannot lay down any hard and fast rule at this stage. The Bill provides for the setting up of an advisory board, a sort of prisoners&#x2019; aid society, consisting of not less than three and not more than five members who are nominated to take a close personal interest in the running and administration of the work colony and advise the Minister and department from time to time as to what they think ought to be done to improve matters in this direction or the other. Another important clause of the Bill says that while these people are detained in the work colony they will lose their citizenship rights, their franchise rights.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>In other words society has said to them&#x2014;</p>
+
+<block name="quote">In the interests of society you have got to be placed in the work colony. While you are there you cannot exercise your citizen rights.</block>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>And let him out just before an election !</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Of course, the hon. member there is bound to chip in. It would be an impossible position if, while you had 100 or 200 men in an institution of this kind&#x2014;we do not anticipate in the meantime that there will be more than 100, because I think the mere fact of the institution being there will act as a deterrent to large numbers of people&#x2014;it would be an impossible position, as I say, if, when an election came along, 100 or 200 people from various parts of the country were voters and were allowed out to attend political meetings and chased after with motorcars, handbills, etc. Discipline would become impossible.</p>
+
+</speech>
+
+<speech by="#nicholls">
+
+<from>Mr. <person refersTo="hansard_za">NICHOLLS</person>:</from>
+
+<p>Does this Bill apply only to Europeans ?</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I purposely left out of the Bill any reference to Europeans or coloured, so that if at any time we want to apply the Bill to any particular section of the community we can do so. Of course, we would have to separate them. The Bill of Senator de Wet, you will find, is confined to Europeans. I have dealt with the main principles, the procedure, and most of the important features of the Bill. I just want to say in conclusion, in moving the second reading of this Bill, that I regard it as a Bill as far as possible to rehabilitate and not to punish those unfortunate members of society who, through their own fault, or no fault of their own, are placed more or less in the position of social outcasts. I want to pick them up, to rehabilitate them, to try and win back for them, through habits of industry and discipline, their self-respect, and make them once more useful citizens and members of the community.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>I wish the Minister luck in this new experiment which he is trying. It is a measure that has been asked for a long time by people engaged in social work and in dealing with people who fall below the line, so to speak. Personally, I am a little sceptical as to whether this is going to bring about the millennium which is sometimes expected to come from it, but at the same time I think it is an experiment worth trying. We know the unfortunate people whom the Minister has referred to, people who live on charity, who are in and out of gaol, who desert their wives and families, and who refuse to avail themselves of any opportunities of working, and it certainly does seem as if a scheme of this kind, if it is well managed and carefully administered by the right kind of people, will be a means of reform to some, at any rate. It certainly is a better instrument for dealing with this class of people than the gaol. Then hon. members ask who is to pay, I think they ought to reflect on who pays now for these people. It is the community that is paying for them under conditions which offer the least possible hope of any benefit to the persons themselves. Then the other point that was raised was, if a man won&#x2019;t work. The Minister said that all sorts of measures were tried in the dark ages to compel people to work against their inclination, to compel them to accept their share of what is called the &#x201C; primal curse,&#x201D; but I do not know that they were very effective. The only means that I think will be effective will be sympathetic treatment under some such scheme as this. I, therefore, support the principle of the Bill. There are one or two things I should like to call attention to in it. I notice in Section 6, as the Minister told us, that if a man is brought before a magistrate accused of certain offences, such as offences against the liquor law, against the vagrancy law, contraventions of the Children&#x2019;s Protection Act in certain respects, or theft, the magistrate, if he believes that it is the best method of treating him, can, instead of sending him to prison, send him to one of these work colonies. But the Bill provides that that should not be regarded as a conviction, but, on the contrary, it shall be regarded as an acquittal. I really do not see why that should be. If he is brought before a judge and jury and tried before the high court for one of these offences, and the judge thinks the best way to deal with him would be to send him to a work colony instead of to gaol, he may do that, but it is regarded as a conviction. Why it should be regarded as an acquittal in the one case where it comes before a magistrate, and as a conviction in the other case, where it <span class="col_1697-1698" refersTo="page_0919"/>comes before a judge, I really do not know. Again, it seems rather curious to a person of a legal mind that the man may appeal against this acquittal.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>He appeals against the committal, not the acquittal.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>He must be careful, because he may get a conviction if he appeals. If it is an acquittal, I do not see what jurisdiction the magistrate has to deal with him. If it is an acquittal he is a free man. In Clause 8 I see that the Minister may, by writing under his hand, order that any person named by him be directed to reside in a colony specified in his order. I do not quite know what the object of that is. Is this a method for allowing Ministers to send their friends for a brief sojourn in one of these work colonies ? It is quite clear it is not confined to the family of any other person, because you will find it referred to afterwards. I want to know why the Minister should have power to allow a man to go there. I can only conjecture that it is intended to deal with cases where people do not want to appear in court, but they think that a little stay in one of these work colonies might be good for them. I can imagine such cases. In Section 11 the Minister is also allowed to release any person who has been committed under a magistrate&#x2019;s order or by sentence of the court. I think that power should be given to the Minister only on the recommendation of the advisory board, because how is the Minister to know whether a man should be released or not ? It does seem to me that if you have an advisory board, as the Minister tells us he is going to have, surely that board is the body which ought to recommend whether a particular case should be released or not, and I think the power of the Minister in this respect should be exercised on the same lines as the power of the Minister of Justice in the case of an indeterminate sentence; that is to say, the Minister can release a man provided the board of visitors of that particular prison has recommended he should be released. I support the principle of the Bill, and I think it is an experiment which may well be tried, and which, if it is carefully administered and administered by persons who have the gift for this kind of work&#x2014;because it is a gift and nothing else&#x2014;should be a successful social measure.</p>
+
+</speech>
+
+<speech by="#cost">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">COST</person>:</from>
+
+<p>I should like to congratulate the Minister on the Bill, because I think that the time arrived long since for the introduction of a Bill of this kind. In the first place, however, I think the Minister ought to place in the forefront that every man who is still prepared to work to-day must be given an opportunity of doing so. I am, however, pleased that during the last two years the Government has made many attempts to give the people an opportunity of working. The Minister of Lands has, e.g., done much to get people work on settlements, and there are many people who had already become hopeless who were encouraged once more on arriving at settlements and who once more became self-dependent and useful members of society, farmers who could look anybody in the world in the face. The Minister of Labour and his department have also given hundreds and hundreds of people an opportunity of working again. I wonder, however, whether all the chances of giving work to people are exhausted, because we know that many people who work on farms in one way or another are not suited to farm work. I know that the Minister cannot do much more, because industries in our country are not yet sufficiently developed to give many people work, but it is certain that many of the people who now do not feel at home on the land would feel much more so in some industry or other, and then do work they are fitted for. We know that only a definite percentage of people are suited to farming, and this must also be remembered, in applying this Bill, when the Minister speaks about a settlement under this Bill. This Bill must not only provide agricultural work, but also give an opportunity of making boots, doing leather work, blacksmith&#x2019;s work, or anything else, so that persons with various talents will have the choice of doing the kind of work for which they are fitted. It is said: What about the man who won&#x2019;t work ? If he won&#x2019;t work and is no good at any kind of work, then I think the remedy is simple. A man is paid for the work he does and for which he is fitted. If he does a certain quantity, he gets paid for it, and if he refuses he does not get paid, and has to suffer hunger. Then in the end he will do the work that he can. I am glad that the effect of this Bill will be that various persons who under present circum stances go to gaol will no longer go there. Hon. members possibly know that during my life I have twice had practical experience of prison life. Let me say that my experience there is that there is nothing that makes more convicts than the gaol. A man of more or less good character gets into prison, and ten to one, no, a hundred to one, he goes out of it as a convict for the simple reason that in gaol he came in contact with people who are professional convicts, and into surroundings where such schemes are planned and stories told that his character is ruined by the professional convicts in the gaol. More harm is done in gaol to the character of our people than outside of it. The gaol is not a means of improvement, but of deterioration, and I think I dare to say that about 70 or 80 percent. of people who are now in gaol should never have been sent there but, should have gone to such a settlement as the Minister is creating under the Bill. I should like again to draw attention to it that in the first place it must be seen that the people, before they reach the settlement, must have had every possible opportunity of finding work. I am also glad to see that the Bill permits that the wife and children of a man who goes there can accompany him. In that case, of course, the surroundings ought to be such as to be suitable for them, because in many cases there will no longer be any salvation for the man, but the <span class="col_1699-1700" refersTo="page_0920"/>great problem will often be to save the wife, and especially the children, of such a submerged household, and make them useful citizens of society. Then parallel to the existing Child Welfare Acts, the Minister&#x2019;s Bill will also contribute a great deal towards caring for the rising generation. I heartily support the Bill.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>I am afraid the Minister is a bit of an optimist. He says the object of this Bill is to catch hold of those who refuse to work, the cadgers and the spongers of society, and he estimates he will never have more than a hundred of this class in these establishments. If that is not optimism of the highest degree, I do not know what is. I rather agree with the hon. member for Yeoville (Mr. Duncan). I am a bit sceptical about this. There is much more the Minister should have told us. He should have told us where similar establishments have been set up in other parts of the world; what the results have been, and what the cost is in connection with them. I do not think he has quite proved his case. I am inclined personally to support the Bill by reason of the fact that it is an experiment in this country, but I think the Minister might have given us more information. He was asked the question as to what is the experience in other parts of the world. Why did he not answer ? If the Minister has the information, the House is entitled to have it; in fact, the country is entitled to have it. That information would have aided us very much in deciding, not alone whether we should support the principle of the Bill, but in what direction we could improve it. Take one illustration. A man is brought up for begging in order to maintain his wife and children. We will assume that his wife and children are sent to the colony also. Have they got proper accommodation for them ? Have they got proper schools for these children, because it is the greatest pity in the world to send children to an establishment of this nature, where they can see what goes on there. What control is there going to be ? Will they be allowed to have bridge parties ?</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>I hope at some stage perhaps in reply, the Minister will be good enough to furnish that information which is highly desirable in the interests of the country and for the information of the House.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>This Bill has now been on the tapis for quite 15 years. It was in 1912 that the united church in the Transvaal appointed a commission to go and see the Minister of Justice, who at that time was the responsible Minister, with a view to passing an Act. The Minister asked the commission to prepare a scheme, and he appointed an officer of his department to assist the commission in drafting the scheme. It was prepared, and when it was shown to the Minister he objected that the matter was not yet sufficiently in demand. He wanted first to see that all the Dutch churches should interest themselves in it, because they were principally concerned, as the people who would be assisted by the Bill were chiefly our Dutch speaking South Africans. He then wanted the churches to express their views on the matter. That was done because the synods of practically all the churches all decided in favour of it, as well as the united council of the Dutch Reformed Churches. When the commission went to the Minister again, there was another difficulty. The same Minister of Justice then raised the objection&#x2014;</p>
+
+<block name="quote">I am afraid that the other political party will make political capital out of such a measure.</block>
+
+<p>That he told us openly, and we then went to the leaders of both the other parties, and they gave us the assurance that they would never do that. They said that it was a matter in the people&#x2019;s interests, and that they would not try to make political capital out of it. The Minister then agreed to introduce a Bill into Parliament, and it was done in 1919, as the Minister of Labour has said. For some reason or other the matter did not reach finality. Thereafter the commission took further steps, and went to the then Minister of Mines and Industries, because the matter then came under his department. He had an objection based on a letter which had at that time appeared in the &#x201C; Volkstem,&#x201D; viz., that most people who would be affected by the Bill were for the most part of the poor white class, people who were feeble-minded, and that it would be too cruel to compel abnormal people by legislation. The poor innocent people would be forced into labour colonies, and when once there they would not have sufficient intelligence to get out again. That was the objection of the Minister after the Bill had failed to pass in 1919. Subsequently we also saw the then Prime Minister about the matter, and he not only made the same objection, but to our astonishment he went further, and told us&#x2014;</p>
+
+<block name="quote">The whole position is like that of an army advancing. The great army of the State has no time to wait for the people who lag behind. Those who remain behind do so for the reason that they are feeble-minded people, and they had better disappear in the great march of progress.</block>
+
+<p>That was the last consoling word which the former Government gave to the commission interested in the matter, viz., the poor whites are people who are all feeble-minded, and they had better remain behind and disappear.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Lt.-Col. <person refersTo="hansard_za">H. S. GROBLER</person>:</from>
+
+<p>No that, was never said.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>I am prepared to produce evidence.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Lt.-Col. <person refersTo="hansard_za">H. S. GROBLER</person>:</from>
+
+<p>Your statement is exaggerated.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>It was not only said in my presence, but also in that of two other <span class="col_1701-1702" refersTo="page_0921"/>members of the commission who are still alive. It was said to us.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>*Mr. <person refersTo="hansard_za">GELDENHUYS</person>:</from>
+
+<p>Do not now make a political matter of it.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>I am not making a political matter of it. I am simply speaking the truth, and going into the history of the whole matter. It is not so new as the hon. member for Von Brandis (Mr. Nathan) wanted to make out. It is an old matter about which we have had a lot of trouble, but could not get justice because proper sympathy was never shown by the Government of the day. We are glad to-day that things have got so far as the introduction of this Bill. The hon. member for Von Brandis wants to know what is done in other countries. Let me tell him that there is not one country in the world of any importance that does not do something of this kind. Something is being done in the other dominions and colonies. One finds it, e.g., in Australia, and there it answers well. If it did not answer, then it would not be so general in those countries. It is the only thing under certain circumstances to assist, because there are people who adopt a childish attitude in society. They have to be treated as minors and compelled to do right and to earn a respectable living. This does not mean that the Dutch-speaking South Africans are worse than other people. It is, moreover, not only the Dutch-speaking South Africans who are affected by the Bill, because quite 10 per cent. of uitlanders will fall under it. The percentage of this class of man in South Africa is not larger than in any other country in the world. The fact that the churches took up the matter should prove that the chief object was not to punish the people severely, but to assist them to get on their feet again. New circumstances have arisen in the country. Formerly the position was not so bad, but the new circumstances, method of life and customs, have driven many people to the villages and towns. They were, however, not serious enough for the towns, were carried away by the stream, and eventually got into gaol. The great argument for the Bill is that it keeps people out of gaol, and that the measures which are taken are corrective, and not only fear-inspiring. There is proof throughout the whole civilized world that the punishment ought to be more corrective in order to help and improve the people. The gaols only make the people familiar with crime, and there is a certain class of man who is always in gaol, so that subsequently we shall have a large class of gaol-birds in the country. The argument was once raised that things are being made too easy for that class of people, and that, instead of going to gaol, they are now being placed on a proper settlement. The Minister&#x2019;s statement was, however, quite correct. You will have at most a hundred families in the labour colonies, because the labour colonies will frighten people with self-respect from being compelled to work. Thank God, there is a large amount of self-respect amongst those people. When work is offered to one of them and he does not take it, but goes to the towns and uses his children for the illicit liquor traffic and for begging, then he will run away when he knows that he will come under the provisions of the Bill. He will run away for fear of a labour colony. I think this Bill is one of the most popular that has ever come before the House. The philanthropic institutions, the people who take an interest in the upliftment of humanity, and the right-thinking people, are all in favour of a measure to lift up the fallen part of the people and make them useful. What happened in the case of children ? For a number of years past there have been reformatory institutions for youthful offenders, and for young people who are heading for the gaol. What is the effect of those institutions ? The hon. member for Von Brandis wants to know what the effect is in other countries, but we can take as an example the effect of the reformatory institutions in our own country and the results of the work done in them. A large number of children are saved there, a thing which would never have happened if they had been sent to gaol. What has happened in the case of children of people of that class, can also happen with the parents. Give them an opportunity of getting to a place which offers a suitable field of work, and let them prove what they can do. If they earn enough to support their wives and children, then the latter can also go and live with them, and when they have proved that they can become self-dependent people, release them as soon as possible. I am convinced that the effect of the Bill will be highly satisfactory. People talk of the intellectual backwardness among the poor whites, and that they are mostly feeble-minded people. What, however, occurred recently ? In a certain school the teacher complained that the school children were making no progress because they were feeble-minded. The inspector agreed with that, and the doctor of the administration concurred. The Union department was asked for assistance, and the result of the inquiry was that it was found that the children did not in the first instance suffer from feeble-mindedness, but from physical neglect. Most of the grown-up people who are to-day regarded as feeble-minded are neglected people who ought to be taken in hand. They are people who should obtain decent work, eat proper food, learn to keep their persons clean, and to get a proper roof over their heads. Then it will be seen that the accusation for the most part falls away that they are poor whites because they are feeble-minded. The Minister has rightly said that the great object of the Bill is to give the people a chance, to assist them, and take them by the hand. As the hon. member for Yeoville (Mr. Duncan) said, the great secret of success in this work is to get the right man, who will be able to be firm, but at the same time friendly and sympathetic, and will know what is required for such cases. I fully support the measure before the House, and I am sure the whole House will agree that it is worth while giving <span class="col_1703-1704" refersTo="page_0922"/>the measure a trial to see if we cannot do something more to uplift these people.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>This Bill, amongst other things, is intended to deal with work-shy people, and it is a pity that the hon. member for Potchefstroom (the Rev. Mr. Fick) who, I understood, claims that the last Government had no sympathy with this, did not look to his right, and note how work-shy Labour members are on a matter of great importance to the people they claim to represent.</p>
+
+</speech>
+
+<speech by="#allen">
+
+<from>Mr. <person refersTo="hansard_za">ALLEN</person>:</from>
+
+<p>Who brought the matter into the House ?</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>The S.A. party. The state of the Labour benches at present is an eloquent testimony to the real views of the Labour party on what they are pleased to call the submerged tenth. While every member wishes the Minister well and hopes the Bill will be a success, it is impossible to feel very sanguine on the point. It is a necessary measure, but it will touch only the fringe of a very big subject, The poor whites represent about 8 per cent. of the total white population, and it is calculated that, in addition, 7 or 8 per cent. of the white population are on the fringe of destitution, so that at least a quarter of a million whites are below the economic standard. What will providing for a hundred families do to solve the problem of 250,000 people ? I hope that the Minister will go further, either in this Bill, or preferably in another Bill. To achieve any permanent effect, you must take children from their undesirable surroundings, and experience has proved that that can successfully be done. For instance, boys taken from the most unpromising surroundings and placed in Dr. Barnardo&#x2019;s homes have given well over 90 per cent. of successes. I have been struck with the aptitude of the poor white children of this country if they are given a chance. They seem to develop a marvellous instinct for handling machinery, and I have known many instances in which they have made good. This measure does not profess to punish vagrants, or to reform them &#x2014;it simply keeps them in the status quo. They are not necessarily improved to any extent, but they are to be given a chance just to live, and we cannot hope that there will be any reformation process involved in a sojourn in the work colonies. The Minister has ruled out the idea of inflicting punishment, but that is a problem which must be faced. If our poor white class is not to increase still further, we must tackle the matter at the roots. If children are taken from undesirable surroundings before reaching the age of 10 or 11, their subsequent improvement is rendered less difficult.</p>
+
+</speech>
+
+<speech by="#allen">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALLEN</person>:</from>
+
+<p>I am sure that this Bill will be endorsed and its main objects will be applauded in every quarter of the House, although there are one or two points as to method open to criticism. It is not because we differ captiously from the Minister&#x2019;s methods, however, that we offer criticism, but with a desire to assist and ensure success. It is a pity that forestry settlements should be selected as the field for the first experiment, as these settlements were instituted to provide employment for people of no specified calling when ordinary industrial resources had failed. Those who obtained work in the settlements, and who &#x201C;made good,&#x201D; graduating as farm settlers and to other useful and productive occupations, were the cream of our workers. The hard and exacting conditions which they had to endure tested them out. It is a pity that these forestry camps are to be tainted by association with a semi-penal scheme. The spirit of the Bill is to avoid attaching any taint to the people who will come under its operation, and rightly so. In most instances, the so-called &#x201C; work-shys &#x201D; are the victims of our social system, but people sent to work colonies by the courts will, almost inevitably, have attached to them the taint of having been &#x201C; dealt with &#x201D; by the authorities. Therefore, I should be sorry to see the forestry camps, or other attempts by Government to solve the white unemployment problem, being in any way prejudiced by a measure such as this. Members of the Labour party are the very people who would have been taunted by individuals like the hon. member for East London (North) (Brig.-Gen. Byron) with being unreasonably opposed to such a measure. As a matter of fact, we of the Labour party have always advocated a highly disciplined state of society. We believe that society should be so constituted that discipline should apply to every member of it, and each individual should have to conform, not only to the laws, but to the spirit of those laws evidenced in honesty and fair dealing, not only between man and man, but also between man and the State and the State and man. Therefore, this measure, piloted by a Labour minister, has the fullest endorsement of every member of the Labour benches. This is the first time it has been submitted to this House with the serious intention of placing it on the statute book. The hon. member for East London (North) has said that this measure was originally introduced by the South African party. If that were so, why did not the South African party pass it? Were they afraid of Labour or other opposition ? If they were convinced that it was a good measure, why did not the South African party pass it when they were in charge of the country&#x2019;s affairs? Many people are pushed down into the gutter by society, which then has nothing to offer these unfortunates but punishment. This Bill, happily, offers a substitute. We recognize that heredity and environment must necessarily have a great influence on people&#x2019;s circumstances, and circumstances largely determine conduct. If an individual&#x2019;s environment has been such that he has been forced to follow a bad course of life, and has ceased to be of use to society, then society, if it is not going to surrender to chaos, must face the problem. To solve that problem, what we want is not altogether a surgical operation on the patient, but prophylactic treatment. Degeneracy must be prevented. Those who control society must recognize&#x2014;</p>
+
+<block name="quote">The right to work.</block>
+
+<p><span class="col_1705-1706" refersTo="page_0923"/>That right has been recognized to some extent overseas, where the dole system has been introduced. I deplore the dole system, and its demoralizing effects. It is only a drastic alternative to scientific and just organization of affairs economic, and it is not going to cure the evil. Society will, I hope, set about a better way of dealing with this problem than that of the dole system which turns men into idle wastrels without in any way restoring communal health. That brings me to the point that, in providing a measure such as this, the Minister has only provided for the unsuccessful work-shies. There are different kinds. There are successful work-shies and unsuccessful work-shies. The work-shies which the hon. member for East London (North) (Brig.-Gen. Byron) referred to, comprise many individual types of society, and I ask the hon. member for East London (North) if he would like to see the Minister introduce a measure to deal with, for instance, the stock broker, the man who manipulates on the stock exchange the fruits of the enterprise and industry of others, the man who is not a captain of industry, is not an organizer of industry, nor does he control it. He works on a safe gamble all the time, on the principle of heads I win, tails you lose That man is a work-shy, but a successful work-shy, and is a greater menace to society than the unemployed man. By his operations a canker is propagated in industry bringing ruin to many. I hear a question&#x2014;is the professional politician work-shy ? I welcome that interpolation. The greatest problem which confronts humanity to-day, in every civilized country, is the question of government, which will enable human beings to live together in amity and justice, and in all forms of decency. That is the problem which scientific minds have applied themselves to for thousands of years, the problem which has never been solved, a problem to which ethical standards of thought have ever been applied. The individual who contributes the least little scintilla of solution to the problem has rendered an inestimable service to society and posterity. Is it, therefore, an unworthy thing that people should devote their talents and experience to the service of their fellows in an endeavour to reconstitute and regenerate our social and political conditions ? The cheap sneers of hon. members who refer to soap-box oratory, to the flotsam and jetsam of the cross-benches, fall flat on those who have the power to think a little beyond to-day or even to-morrow. People, with whom this measure is intended to deal, are the debris thrown up by the imperfect system governing society to-day. Although this Bill is only a beginning, I hope it will be a material beginning and one which will reveal to us our faults and our weak spots, enabling us to remedy them and, where indicated, to substitute something more utilitarian. Clause 4. sub-section (3) says that the Bill can deal with people who have refused work suitable to a certain standard and capacity which has been offered, either by or on behalf of the inspector or his officers. We had our friend from East London referring to work-shies, but there are many men who may refuse work who are not work-shies at all, but people who are anxious to get employment, but where the work offered is absolutely unsuitable, it is like trying to place a square peg in a round hole. You may get a man who will be very suitable in an office, but who would be absolutely useless in the forestry department. It would be just as absurd to take a man from a forestry camp, where all his life he has handled agricultural implements, and put him in an office to keep a set of books. The Minister takes the responsibility of seeing that before individuals are dealt with under the measure they have had work suitable to their capacity offered to them. Another point is in regard to colour. In dealing with an economic question such as this there cannot be any distinction of individuals on account of colour. At the present time we have no work-shies amongst the coloured population, except those who are successfully unemployed. The native who is semi-educated, to quote the words of the hon. member for Tembuland (Mr. Payn)&#x2014;</p>
+
+<block name="quote">The man who has an ambition to wear a collar and be considered a gentleman.</block>
+
+<p>The conditions are such that a successful work-shy of that kind does not leave his people unprovided for. They have resources. They are planted on the soil of the country with the resources of the country at their disposal, whereas the white people have no resources to fall back upon. The application of this measure to white and black proves the Government of the day is beginning to look at these economic problems purely as economic problems.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>About time.</p>
+
+</speech>
+
+<speech by="#allen">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALLEN</person>:</from>
+
+<p>We all agree. The sooner this difference in values, as between colour and colour, can be eliminated, the sooner we shall get down to the true principles of economic adjustment. I remember the Minister of Justice, in 1925, saying that the difference between those inside and outside the prison was the difference of opportunity. An American said that the difference between those inside and outside the gaol was the thickness of the walls. They both mean the same. The hon. member for East London (North) has probably never been unemployed in his life. He must undoubtedly have had such wares to offer that society found him to be indispensable, but in my own experience I have found occasions when society had no use for my wares. I know what it is to walk from town to town in the search for employment and to live for seven days on one loaf of bread and water, and I was not a work-shy. It was my good fortune that circumstances so improved, before I had become one of the submerged, that I escaped the lot of so many less fortunate, but of equal or greater merit and use, who may now have to come under the provisions of this measure. I want the Minister not only to deal with the present circumstances of the individual, but to take retrospective cognizance of the person&#x2019;s history and find out what has contributed to that individual becoming a work-shy. Personal history has a great deal to do with this present condition, which is not a reflection on the individual. Take <span class="col_1707-1708" refersTo="page_0924"/>myself, for instance. It may be opportunity came to me in time to save me. But for other individuals opportunity does not come to retrieve them in time, and they go down whilst I was salvaged. It is largely a matter of chance, fortune or misfortune. An appeal was made to eliminate politics from this discussion, and I think it would be a good thing to keep politics out of it. One wonders if it is real politics when one hears such terms as the Labour party and work-shys coupled, and terms like&#x2014;</p>
+
+<block name="quote">spongers on society</block>
+
+<p>from the hon. member for Von Brandis (Mr. Nathan). It is not real politics. If there are any politics I admire in the spirit of their advocacy, it is those of the hon. member for Cape Town (Central) (Mr. Jagger), who founds his politics on what he believes in. Others base their politics on prejudice only, and seize every opportunity to voice that prejudice and try to personally belittle those from whom they are liable to differ, without regard for sincerity or the service of those whom they represent. They lower the dignity of the House and discount the value of discussion. In a measure like this, if hon. members had a realization of the seriousness and the deep import of such a measure, they would have eliminated those sort of things from their remarks, and they would have kept to the rails. The hon. member for East London (North) I referred to, because he seizes the opportunity to specially reflect on the members of these benches. Who does not know the work-shy type who is always in his element hanging around a club or a bar, the fellow with a ready-made suit, which he manages to get pressed without paying for it, and with a scrubbing-brush moustache, who goes about telling you how Kitchener marched to Kandahar and how Roberts won the battle of Inkermann. These are the men who flourish on what? These fellows pray for war. They hope we shall have to fight China&#x2014;because they are useless and failures where usefulness is merit. They are the most damnable type of &#x201C; work-shys &#x201D; that our society produces today. That is the type of &#x201C;work-shy&#x201D; whom the hon. member for East London (North) (Brig.-Gen. Byron) would applaud, and say that he is always ready to make sacrifices for his country. Yes, if he is given a commission and a soft job. I not only deprecate, but I resent, the cheap sneers of hon. members of the type of the member for East London (North). I see that the matter of the care of the children is being provided for, education and so forth. Provision is made for the appointment of a superintendent, and I would ask the Minister&#x2014; I know that it is almost superfluous to do so&#x2014; I would impress upon him the necessity of appointing a superintendent not of the type of the scrubbing-brush moustache. Let us have a man who has made a study of these problems, who recognizes that he is not dealing with a penal settlement, who knows that he is not there to punish and to visit retribution on the heads of people who are in these institutions through no fault of their own, but to endeavour to make them fit to resume their place as useful members of society. If this legislation is carried out in that spirit and applied in that spirit, I have not the slightest doubt that it will be found to be a very useful measure.</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>&#x2020;*Dr. <person refersTo="hansard_za">D. G. CONRADIE</person>:</from>
+
+<p>This Bill is, I think, the key to the solution of the great problem of the poor whites in South Africa. The problem has existed for a long time in South Africa, and every time an attempt is made to solve it, we are met by the argument that it is not worth while doing anything for those people, as they are too lazy to work. I believe the other argument which is always used, that it is not the whole body of poor whites who are too lazy to work, but only a small percentage, is always insufficiently borne in mind. Here we have a measure with the object of finding out how many people, who go under the name of poor whites, are really too lazy to work, and when those people are once separated and provision has been made for them, I think that we shall easily be able to tackle the rest of the poor white problem. Some hon. members have asked what is done in other countries. We must be careful, and not only take measures in our young growing country in which other countries are always imitated, because it cannot be said that especially in connection with the care of the poor other countries have always made a success of the matter. When we leave South Africa and visit some of the old countries, one of the most painful impressions is the number of poor beggars one sees on the streets, and for whom apparently no provision is made. It also strikes us in the old countries that so many children are seen in the streets who are apparently sent out by their parents to beg. What is better for a country, great riches in the case of some, or average success for the whole ? I think that when we reach the stage of development which modern society has reached, the view is held that it is in the interest of the State to try and create an average condition of success for the many, because it is more useful to the State and for the success of the individual. A few hon. members have asked if the poor white question is not peculiar to South Africa. I think if we investigate it&#x2014; and it has often been investigated&#x2014;that it will be found that in all countries there is a certain percentage usually fixed at 8 per cent. of the population of a country who are not able to be masters, i.e., were not born to control their own affairs, but are only fit to do unskilled labour, and to serve under a master. It is striking when we consider our own problem in South Africa to find that about 8 per cent. of the white population come under what are called poor whites. I think that it is an accepted fact that about 120,000 to 150,000 people in South Africa, who are considered poor whites, among a white population of l½ million, it is just about 8 per cent., or, perhaps, a little more. It is not to be wondered at therefore, that there are a number of persons in South Africa in that condition, because, as I say, we find in all countries that about 8 per cent. of the population are in that condition, <span class="col_1709-1710" refersTo="page_0925"/>but what is surprising is that the percentage in our country is not greater, because in our country we have element and conditions which do not exist in some old countries where, nevertheless, the same percentage exists. On the one hand, we have the great mighty native population in our country. And what are we doing ? We use them as workmen. They do the unskilled labour of our people. I think it is a fact that, in the old-established countries, almost half the population exists on the wages of unskilled labour. If such a large percentage of the population in those old countries depends for a living on unskilled labour, then unskilled labour is a great asset to any people, and also to our people. But what are we doing ? We give this great asset to the natives, with the result that our own white people, who ought to do the work, are unemployed. That is the result of the presence of the natives. But there is another element in our country which also operates adversely in this connection. When we tackle these kinds of matters, sociological matters, we are inclined to lose sight of the psychological factor. I want to emphasize that in South Africa a certain factor is present which exercises an amazing influence on mentality of the poor man. In our country we find that it is possible, and that it also occasionally occurs that persons&#x2014;and there are dozens, no, hundreds of them&#x2014;become rich without working. On the other hand, we find that unskilled work is withheld from our people, while on the other hand they are fascinated by the people who have become rich without working, and they want to try to do the same thing themselves. The human understanding has been so made that it is always out to follow the line of least resistance, with the result that if a poor man cannot obtain unskilled work, he does not then choose the middle course, but at once wants to follow the example of the few people who have got rich without working, the people who have become rich by speculation or otherwise. There are the diggings. We see to-day that a man who has a prosperous farming business, and is possibly the owner of two or three farms, gives up farming. In the eyes of the poor man he is already a happy individual, but he gives up his happiness and goes to the mining centres and diggings to see if he cannot get rich quickly there. It is the spirit of &#x201C; get rich quick.&#x201D; It may be regarded as a kind of mental disease amongst our people that they want to get rich quickly. Then they are disappointed on the diggings and in the mining centres which makes them poorer and poorer, and brings them down. Is it not a fact that in a country like Holland, where there are no mining facilities for getting rich quickly, there are very few unemployed and very few people who belong to the class who do not wish to work ? Is it not remarkable that even in our own country we can notice the distinction ? I speak subject to correction, but I think it is a fact that that state of affairs is found less in the Western Province, which is far removed from mining centres and diggings than round about the diggings and mines. The fact that certain people have got rich quickly has had such an effect on our society that there are people who won&#x2019;t work, but want to try and make a fortune in the way that other people have done in the past. That is, in my opinion, a part of the difficulty with which we have to cope. The poor people are practically ground between two millstones. And there are the natives who take away the unskilled work to which the whites are entitled, and on the other hand there is the pyschological influence of people who have become rich easily without working. I, therefore, heartily welcome this Bill because it will take away one difficulty which we found in the past in tackling this problem in the right way. I do not say that the method proposed by the Minister will, in the long run, be the best, but it is, at any rate, an experiment, which we can wish success to. If we can succeed in getting rid of the people absolutely unwilling to work, there will be a better opportunity of uplifting the others. I believe that a great number can be absorbed in farming. When one speaks to a farmer today and enquires why he does not employ a certain number of poor whites on his farm, you often receive a reply that the people are not suitable, and are unwilling to work. If the unwilling ones are, however, removed and put into labour colonies, then I think work will be available on the farms for the large majority of poor whites that still exist, because then the farmer will not have the argument that the people won&#x2019;t work. If he says that a man will not work then such a man can be sent to a labour colony. Those who want to work will be able to get work on the farms which are their natural home. For this reason, I welcome the measure, arid I wish the Minister every success in administering it.</p>
+
+</speech>
+
+<speech by="#drummond_chaplin">
+
+<from>Sir <person refersTo="hansard_za">DRUMMOND CHAPLIN</person>:</from>
+
+<p>The discussion we have had seems to show that everybody in this House is more or less in favour of the Bill, but there does not seem to be much indication of a general opinion that it will do a great deal of good. At the same time, we all recognize, I think, that it is considered by both parties as likely to do some good in dealing with what is a very difficult and, so far as I can see, a permanent question in this country. I understood the Minister to say that he did not expect to have to deal with more than a hundred individuals.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>We are making that provision to start with.</p>
+
+</speech>
+
+<speech by="#drummond_chaplin">
+
+<from>Sir <person refersTo="hansard_za">DRUMMOND CHAPLIN</person>:</from>
+
+<p>Of course, if he wants to deal with more there will be no difficulty in getting them, because I am afraid there is a large number of people who would be qualified in terms of this Bill. I think it would also help us a little&#x2014;and it is not too late&#x2014;if the Minister would give us a little more information as to what his conception is of the practical working of this measure, because, so far as I can see, everything is left to the discretion of the Minister. He may discontinue the colonies; he may allow the wives and families of people who are there to be taken into the colonies; he <span class="col_1711-1712" refersTo="page_0926"/>may let them go and he may release people who have been committed, and he may send them to Government training camps&#x2014;incidentally I do not know what the difference in treatment will be&#x2014;and generally speaking it is left for the Minister to make regulations and to control these matters at his own discretion. It seems to me one of two things is going to result if the Minister is not very careful. The one alternative is that he may deal with very few people, and then the measure, however successful it may be, will do very little good, because it will touch only a very minute fraction of the people it is sought to benefit. It may, again, become a successful experiment. The Bill states that the Minister may establish these colonies out of money voted by Parliament. I have been looking at the estimates, and find, under the vote Labour, expenditure and advances, establishment and maintenance of training farms and standing relief camps, including compulsory work colonies, and I take it that provision for this year is to be found in the total amount of £153,000, which is to be found there. But what proportion is to be devoted to the establishment of a colony or colonies, I don&#x2019;t know. If the proposal seems to work fairly well, there will be a danger in times of commercial depression. Suppose anything happens to the alluvial diggings, we would find an enormous number of people on our hands, many of whom, I am afraid, would have lost the habit of settled work. Then will come in the question of expense. One of the first matters which will arise is housing accommodation. As I understood the Minister, he, in this particular case, proposes to use the accommodation which already exists for the training camp which is already established, and I suppose he is going to transfer the people from there to another place, which will mean accommodation and capital expenditure. I do not know whether that is to be provided for under this £153,000, or some other vote. In times of depression there will be an unceasing demand to have their families brought to them and put in these colonies. If we are going to keep a large population there, we are going to be faced with a huge demand for accommodation, and we will find we shall have to employ there large numbers of people. A great deal of the success of the experiment will be due to the superintendents. I did not gather whether they are to be members of the public service or not. I do not know that that is a very important matter, but it has a bearing on pensions, which is becoming a very important matter in this country. Then we shall find the question of education coming along. I agree with a good deal of what has been said about catching the children of these people young, and taking them out of their surroundings, but all this costs a good deal of money. The Minister says he will get the cost of the keep of these people out of their work, but of course, being what they are, they will be for the most part very bad workmen, and their work for the most part will not be of great value. It will be most surprising if the work done in these colonies is anything like sufficient to reimburse the State for the cost of their maintenance, and still less that of their wives and families, and the education of their children. I quite admit that the dilemma is not sufficient reason for condemning this scheme. You must make a start somewhere, and, on the whole, it is to the good that the Minister wishes to start on a small scale. It would be well if the Minister would tell us something more&#x2014;on whose advice he is going to rely for the working of the training camps. What one fears is that after a man and his wife and family have been in one of these colonies for one, two or three years, he has taken root there, and if he is turned out he will simply be turned adrift, and there will be nothing for him to do&#x2014;he will only be a candidate for re-admission. Of course, some may learn habits of work which will be to their benefit, when they go out. On the whole, I agree with what has been said on this side of the House, that it is a step in the right direction, and I think it should be treated, for the first year or two, simply as an experiment, because if this is not going to work, instead of being of advantage to the community, the scheme will be of no use, and we should be better without it.</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. H. CONRADIE</person>:</from>
+
+<p>It is certain that this Bill is a step in the right direction, but if it is the ideal which we have always had in our minds is another question. As I read the Bill, there are quite a lot of things which in my opinion we ought not to follow up. We must regard this Bill, as the last speaker has said, as a kind of experiment, and as we go along we shall possibly become wise, but we must have very good people to supervize the colony, people who understand the psychology of the poor people, so that they can look after and keep their eye on the people in the institutions we are going to establish and see what the effect on them is, so that they can give advice to the State in future. It has been said by some hon. member that the Minister only makes provision here for about 100 people, and that that is a drop in the bucket, and not worth the trouble, and that there are hundreds and thousands who will be sent to such an institution. I do not think that will be the case. There are, broadly speaking, very few people in the world who won&#x2019;t work if they have at all a good chance of making progress. The great thing is that if people work without prospects day after day without being able to get ahead, or when they do forge ahead a little by hard work, everything is lost once more by drought or other plagues, that they then are failures. If we remember, on the other hand, what the poor people have sometimes to contend with, not only natural disadvantages, such as droughts and locusts, but also the result of insufficient education, or development, then we can understand the people giving up if they see no chance of getting on. If we can eliminate the factor that the people have no prospects, then there will be few people who do not want to work. I shall <span class="col_1713-1714" refersTo="page_0927"/>never forget a thing I saw about 12 years ago. I still believed then that there were quite a lot of our people who would not work. I then got to a place where by chance new operations were being commenced. A group of poor families from Namaqualand was put on such a piece of ground and commenced to work. The people were as poor as mice. They had no money to buy food, but possibly a few young goats. They were given a piece of ground with tremendous trees on it and large mounds which have to be levelled, a work which would cost at least £400 or £500 if it had to be paid for. The men commenced to work, and worked day after day like mules, and then I wondered if I were in their circumstances whether I would have had the courage to tackle that work and continue it as those people did, and I had to freely admit that with all my advantages of education and what not, I should not have had the courage to do what those men were doing. I say, therefore, that if most of these people had but the slightest chance of going ahead, they would work. I therefore do not think that the Minister need start on such a large scale, and I do not think that so many people will be sent there. But then I have a few objections. The Minister gives the right to the magistrate to also send other persons than those who want work to the colony, such as those who have been guilty of theft. They can also be sent. Accordingly, people who are punished are sent there as well, people who otherwise would go to gaol. Nowadays the whole tendency with regard to gaols, etc., is that the person who renders himself criminally liable is more and more being well treated, people are more and more being sent to institutions, and not sent to gaol. If we then give the magistrates the power of sending persons convicted of criminal offences to the colony, I fear that so many people will go there that there will be no room. That would mean an enormous expense to the State, and it would mean that we could not keep a check on the observation of the effect of the institution. What I am very much afraid of is that it will only be left to the discretion of the magistrate, after a slight inquiry, or possibly after a few questions have been put, or evidence obtained, to decide whether a man&#x2019;s wife and children should also be sent to the institution. On the one hand we already open the door to persons of the criminal class, not only for poor people, not only for people who are too lazy and won&#x2019;t work, but for actual offenders, while we also want to permit the wife and children of these people to accompany them to the institution, as the magistrate may think fit. We have very clever magistrates in the country, but we also have many young ones, and to leave it to their discretion whether the children are also to be sent to the institution to come into contact with the class of people there, seems to me to be dangerous. It may also often be necessary to consider whether it is in the interest of the children to be in touch with their father, and this is also left to the discretion of the magistrate. I am very much afraid of it. I think the Minister, before he approves a magistrate&#x2019;s recommendation in this respect, should first make a thorough inquiry through people who have some sense of psychology to see whether it is in the interest of the woman and children. Otherwise, harm will possibly be done. Another point is that forests are at first being selected to begin in the cheapest possible way. I can understand that the Minister does not want at first to incur heavy expenditure, but he must take care that we do not make a failure of it through lack of means. It seems to me that forests are not most suitable for such an institution. There is much and various kinds of work, and there are many people who do not like trees and forests, but could become excellent chauffeurs, or possibly something else. We must have a chance, I think, of finding out what a person wants to do and what he can do successfully. If we have such an institution not too far from some town, with irrigable land attached, we should have an opportunity to get people interested in farming a chance of doing the work, while people who do not care for agriculture will then have an opportunity to get industrial work in the town of some kind or another. On the afforestation schemes such people will be quite out of touch with industrial life.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>How if they are in any case good for nothing ?</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. H. CONRADIE</person>:</from>
+
+<p>That is just what we have to find out. We shall often find that someone does not feel inclined to do certain work, but is more inclined to do other work. And if we do not give the people an opportunity of doing work for which they have a liking, I fear the undertaking will not be a success. I am only mentioning these few matters so that we must be careful how we go to work, because it is only an experiment. The Minister will have trouble with the board of control, because if he appoints people who live too far from the settlement, then he will have expense and make it difficult for the members of the board to visit the settlement, and to regularly advise the people. He will find that it will be difficult to obtain suitable people in the neighbourhood of the plantations to put on the board. This appears to me a small difficulty, but, apart from that, I hope the Minister will have every success, because all of us, on both sides of the House, who are anxious for the future of South Africa hope that a solution will be found.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">GELDENHUYS</person>:</from>
+
+<p>I am very glad that we can discuss the Bill to-day without making a party matter of it, and I want to say at once that I am glad that the Minister has introduced such a Bill. In my opinion, it ought long ago to have been on the statute book, and it is unfortunate that it was not done sooner. We were, however, not in such calm water that the matter could be discussed without party feeling, because I think hon. members will agree with me that as the political <span class="col_1715-1716" refersTo="page_0928"/>parties formerly stood, it was difficult to introduce the matter, because the Opposition were not so sensible as the present Opposition. Hon. members may laugh, but I have been a member of this House since Union, and the difficulty was that when the former Government introduced anything there was too much playing for the votes of the people To-day the Opposition have made no objections, and hon. members opposite have also talked very sensibly about the Bill. I am only sorry that the hon. member for Potchefstroom (the Rev. Mr. Fick), who ought to adopt a better attitude in the House, sounded a trumpet which made a discord. He mentioned that the churches made representations to ex-Minister de Wet, and that he was willing to introduce the Bill if the churches supported him. I know about it because I was at that time in office in the Church, and the churches did their best to get the Bill passed. The hon. member, however, mentioned another thing that the commission subsequently went again, and that the Minister was then afraid to introduce the Bill, and told the commission that we had better leave the poor people alone to die. I think the hon. member exaggerated when he said that it had been said that the people had better degenerate and die. I think it was to make out to the world that the S.A.P. Government did nothing for the poor people. I myself told the Minister that he must not become afraid, but must introduce the Bill, and I cannot allow the Impression which the hon. member wants to create to pass uncontradicted. I am sorry that I must touch on the matter, but the hon. member did not think sufficiently before he spoke. The former Government did much for the poor portion of our population, and although it made mistakes and sometimes did not go far enough, hon. members opposite will agree that all the foundations of the giving of work to poor whites were laid by the previous Government.</p>
+
+</speech>
+
+<speech by="#badenhorst">
+
+<from>*Mr. <person refersTo="hansard_za">BADENHORST</person>:</from>
+
+<p>They only gave work to natives</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">GELDENHUYS</person>:</from>
+
+<p>The hon. member is always making remarks about us, but they don&#x2019;t weigh with me. If he inquires, he will find that the last Government first commenced giving work to white men on the railways. He must go and tell his voters how many thousands of people were employed in the railway service by the last Government.</p>
+
+</speech>
+
+<speech by="#badenhorst">
+
+<from>*Mr. <person refersTo="hansard_za">BADENHORST</person>:</from>
+
+<p>7,000 were retrenched.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">GELDENHUYS</person>:</from>
+
+<p>The figures mentioned by the hon. member are on his own account, but the former Government laid down the principle of employing white men on the railways. The other principle laid down by the last Government was the commencement of relief works. Just think, e.g., of the tremendous work of the Hartebeestpoort dam, where thousands of people made a living. Hon. members opposite do not think enough. I am glad that the Government is following in the footsteps of the former Government, although I cannot agree with all the principles adopted by the Minister of Labour in always trying to make work more costly. The people will not be satisfied with that, and the hon. member for Riversdale (Mr. Badenhorst) will have to give an account of it. I entirely agree with the Bill and shall vote for it, and I hope the Minister will carry it out. He is preparing for 100 people, but there are hon. members who think that the number will be much greater. The people will be much better pleased when things have been properly regulated. Then we have the hon. member for Gordonia (Mr. J. H. Conradie) objecting to the Minister commencing at plantations. The last Government put many people there, and afforestation is not such a difficult work. As the Minister is now desirous of making an experiment, we must not oppose it.</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>*Mr. <person refersTo="hansard_za">J. H. CONRADIE</person>:</from>
+
+<p>I said that the work was not suited to everybody.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">GELDENHUYS</person>:</from>
+
+<p>The hon. member mentioned that the people ought to be located close to town and villages, so that they could learn e.g., to become chauffeurs. I regard that, however, as a danger, because we ought to try and take the people who won&#x2019;t work out of the towns and villages, and to put them in labour colonies. Does the hon. member not know that it is becoming difficult for these people in the towns ? In Johannesburg the taxpayers are unable to continue paying for all the people that are put on relief works. The hon. members must not object when the Minister wants to commence with afforestation, because it is a very necessary thing in the country. The country may in the future make something out of it. It will not pay to keep the people near the towns. They must be put at places where they cannot every night go to the town and waste their money on bioscopes, for instance. One of my objections is the appointment of a board of control. Where is it to end with the large number of boards we have ? Must we again create a job for five people? We are already overloaded with jobs of that kind. I think we should stop appointing a board or commission under every Act we pass. We already have too many officials in the country, and too many people who want to tell others how to work, although they have never done any work themselves. The Labour Department has a very large staff, and a great deal of money is spent on that department. Why cannot the department manage the affair ? I hope the Bill will be placed on the statute book, because it hurts one to see people in the towns and villages who won&#x2019;t work. People who won&#x2019;t work and are sent to the labour colonies ought not to have the right of voting. One of the chief causes why we cannot solve the poor white question is because too many political leaders trifle with the votes of the people. In the Transvaal there was an Act which provided that a man who was maintained by the State should not be allowed to vote, and I regard it as a good principle. <span class="col_1717-1718" refersTo="page_0929"/>With these few words I want to say that I shall vote for the second reading. A few small amendments can be made in committee.</p>
+
+</speech>
+
+<speech by="#van_broekhuizen">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">VAN BROEKHUIZEN</person>:</from>
+
+<p>I wish to say a few words in regard to this Bill. We all feel that it is one of the laws which are absolutely necessary for this country. If we go, for instance, to Germany we will see that a great many of these labour colonies have proved a decided success, although they are not at one as laid down in this Bill. I remember, in my student days in Germany, visiting some of these colonies and the remarkable way in which they increased. At present you will find that they have become an absolute necessity to Germany. Before the great war you would not find a beggar in the streets of any of the university towns where you happened to be. I think it is one of the great things that South Africa is in need of. The hon. member for Johannesburg (North) (Mr. Geldenhuys) spoke about the admission of men to the colonies costing them their votes. All these men must lose their votes. We all feel the absolute necessity of that. I think that is, perhaps, the reason why this question was not tackled before in this country.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>No, you are wrong.</p>
+
+</speech>
+
+<speech by="#van_broekhuizen">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">VAN BROEKHUIZEN</person>:</from>
+
+<p>I may be wrong, but that is my opinion. I was not in Parliament then, but I always felt that somehow our politicians were afraid of tackling this question on account of losing the votes of these men. We have in this country a number of unemployed, poor whites, as they have been called, which I think is a misnomer. We had about 150,000 unemployed some years back. I am quite sure that the situation has improved since those days, but still we have in this country a good many of these people who won&#x2019;t work, people who go about looking for work in the morning and who hope when the evening comes they won&#x2019;t have found any. The Bill states&#x2014;</p>
+
+<block name="quote">The Minister may, out of moneys appropriated by Parliament for the purpose, establish and maintain work colonies for the purposes of the detention therein and the training in habits of work and in agriculture or other industry of persons committed thereto in accordance with the provisions of this Act.</block>
+
+<p>This clause gives the Minister the power to form such a colony, and to find out the work these men are capable of doing. I feel that most of these men especially will not be able to work in agriculture, but they must be trained. Through the whole of their lives nearly they have done no work, and a great point in this scheme is the discipline to be enforced in the work colony. Therefore, it all depends upon your superintendent. If you cannot find a good superintendent that colony will never be a success. These men who are admitted to it must be taught from the very first day they enter that if they don&#x2019;t work they won&#x2019;t eat. We always have a soft spot in our hearts for these people, but I do feel that we must have a superintendent in the work colony who will enforce discipline. Another point in connection with these labour colonies is the question of religion. There is nothing in the Bill in regard to this, but if you study the history of labour colonies in Germany you will find that at first they tried to do it by the military, and it was an absolute failure. Pastor Bodelschwingh came and took over those colonies and conducted them with discipline, but there was also a great religious spirit inoculated in the inmates. You must have a religious background, and I sincerely trust that the Minister, when starting this labour colony, will not forget to see that that religious spirit is present. It is an absolute necessity. We find the example of the Salvation Army. You have the labour colonies in Germany, in Scotland, and in various parts of England, and in those colonies we know that the religious spirit is present.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Are they successful ?</p>
+
+</speech>
+
+<speech by="#van_broekhuizen">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">VAN BROEKHUIZEN</person>:</from>
+
+<p>Yes, they are. In most of these colonies you will find that there is a religious background. I cannot speak in regard to the labour colonies in Great Britain, but I know that in Germany and in Holland you always find a religious spirit in these institutions. I know that in the Bill the Minister has set out what people are to be brought into the colony, and I would ask him to bear in mind a few other points which are of great importance. For instance, we find that people who habitually beg for money, food or clothing or send or employ others for that purpose, or who appear to have no adequate means of subsistence are to be sent there. Then the man who fails to provide his wife and children with maintenance is also to be sent there, and the man who commits certain offences against the vagrancy laws, etc. Then we have also people coming out of gaol. We know that in our towns we have societies trying to find work for these people. Very often they cannot find work. I think when they come out of gaol with a good character, that they also should be sent to this work colony if they cannot find work. You find men in gaol because they have been living immorally. They must also be sent to these colonies to get them away from our civilized surroundings. So I think the Minister must take into consideration several other forms of people who we must try and send to these colonies. I feel at the present moment it is absolutely a necessity that the question of labour colonies should be tackled. When the thing is started properly and put under a proper superintendent the Minister will have, not one hundred, but 500 or 600 people, or even more. This is an experiment, and we must try and make it an absolute success, because I am afraid that very often we start things in South Africa and do not continue them to a successful conclusion. This thing must be pushed through. I sincerely hope it will not remain merely an experiment, but will become a great blessing to South Africa, and get rid of these &#x201C; won&#x2019;t works &#x201D; and people who have come out of gaol. In regard to the <span class="col_1719-1720" refersTo="page_0930"/>regulations, we must absolutely see that the men who do work and who behave properly, the men who try to get on, must get some encouragement&#x2014;better food, better housing and that sort of thing.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>They get a quicker release.</p>
+
+</speech>
+
+<speech by="#van_broekhuizen">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">VAN BROEKHUIZEN</person>:</from>
+
+<p>I feel that such men should get encouragement from the superintendent, that in time they may return to our society and become useful citizens of the country. At present we have in our towns, drifters, and not through their own fault. They have been going down and down, but if they are taken hold of and taken to these colonies, I am sure that many of these people will become useful citizens to our country. This is with regard to our white population. We must also ask ourselves at present what about some of our coloured people in the Cape. There we also find the drifters. We must make some plan for the coloured folks. We are also responsible for them, and we must try and help these people, so that in this way, success may be found also for the poor coloured who are drifting and going to ruin. There is another question I want to bring to the Minister. I feel that the man who is a drifter and is a married man must take his wife and children to that place. I feel that such a man must have home life. I know the expense will be rather greater, but I feel we should keep the wife and children, and have the children sent to a proper school. There is the future of the children who are drifting with the father and mother, and are going to the dogs. I firmly believe in family life. Where a man is a married man, give him a small cottage, and let him have home life in the colony. If you visit the villages in Germany you find home life there, and, therefore, I would advise the Minister that when we start these labour colonies, we must encourage home life. I am quite sure that everyone in this House, who has the future of this country at heart, must feel that it is an absolute necessity that these colonies should be formed. We cannot waste any more time; it must be tackled, and at once. I am quite sure we shall all look upon these colonies with a great deal of gratitude, if they are made a success, and everyone in this House will be only too willing to support the Minister when money is necessary, but we must be assured that it is going to be a success, and that it is not going to be just an experiment and then allowed to slide. That is always a misfortune.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;*Lt.-Col. <person refersTo="hansard_za">H. S. GROBLER</person>:</from>
+
+<p>I have listened carefully to the speeches made, and noticed that hon. members welcomed the Bill. I must say that, personally, I do not expect too much benefit from it, but in the first place, I think the name of the Bill ought to be changed. It ought to be penal or forced labour colonies, and not labour colonies. The man who is condemned by the magistrate as a criminal will be sent to them. I, who live on the countryside, do not expect much benefit from the measure, because I can assure the House that if anybody has a chance of working on the countryside it is not necessary to bring him before the magistrate. Under the existing law the person who renders himself criminally liable can be punished, and there are already various provisions for boys, etc., to be sent to reformatories. Hon. members have spoken of the people who walk about and beg for money, food and clothes, but if the money which will be spent on this scheme were used in assisting the people it would be better expended. The people have got into the present position through force of circumstances. I want, however, to come to what the hon. member for Potchefstroom (the Rev. Mr. Fick) said about the churches. He represented that the churches had always in the past pleaded for legislation of this kind. The hon. member did not say why. The object of the churches was surely always to assist the weak and needy, and not to get them into gaol.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>But surely the Bill does not want that ?</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;*Lt.-Col. <person refersTo="hansard_za">H. S. GROBLER</person>:</from>
+
+<p>The Minister explained that people who are in distress through poverty will be sent to the labour colonies, and I am very sorry about what the hon. member for Potchefstroom said. If it is a fact that the churches are advocating such a thing, then the whole aim of the churches would vanish, then they would adopt an autocratic principle, which was never the intention of the church. I do not wish to oppose the Bill in all respects, but I must say that I do not expect it to do much good, and I am afraid that its administration will cost much money, more than it is worth. A board of control will be appointed for every labour colony, and the members will not work for nothing, but will have to be paid a salary. With all the incidentals the cost will be high, and I am afraid that it will not be worth the trouble.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr. <person refersTo="hansard_za">VAN DER MERWE</person>:</from>
+
+<p>I did not intend taking part in the debate, but after the speeches of the last few speakers, I must say a few words. The last speaker is, I think, right when he says that the title ought to be altered. It is a different kind of colony to what we have hitherto had in the country, and will lead to confusion with the existing colonies. The hon. member also spoke about the churches in connection with what the hon. member for Potchefstroom (the Rev. Mr. Fick) had said. The church has never spoken about a colony of this kind as a labour colony, but as a forced labour colony, because presence in the colony implies a certain amount of punishment. The hon. member finds it strange that the church should insist on punishments for people; he made a great mistake when he argued that the church wanted to send the people to prison simply because they were poor.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Lt.-Col. <person refersTo="hansard_za">H. S. GROBLER</person>:</from>
+
+<p>The Minister said that the object was to get that class of people there.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr. <person refersTo="hansard_za">VAN DER MERWE</person>:</from>
+
+<p>But the hon. member represented that the church wanted to put the people into the colonies simply <span class="col_1721-1722" refersTo="page_0931"/>because they were poor. The church always wished to help poor people and, therefore, it gave contributions to the labour colonies which exist to-day, but the church always stood up for the view that there was a kind of unemployed person who would not work, and I differ from the hon. member for Potchefstroom when he says that the idea always was that if anyone committed an offence the law was there to operate correctively, and nothing more. Punishment is inflicted not only correctively, but also punitively to frighten other people. The two things go together. On the one hand we want to save the people and teach them to work, but on the other hand we want to make them feel that it is an offence against society when a man does not fulfil his obligations to his family. But yet I think that the two things are possibly assimilated too much, i.e., wilful unemployment and innocent unemployment. There are people who are poor through their own fault, and next to them those who are so through circumstances, and to put them both into the same colony will result in failure. I believe it is very necessary to have legislation by which the beggar who makes a profession of it will be brought to a sense of his duty, but I am still very pessimistic with regard to the Bill as drawn. The knowledge I have of attempts which have been made elsewhere with this kind of legislation do not encourage me much. The hon. member for Pretoria (South) (Dr. van Broekhuizen) spoke of the labour colonies in Germany. He is, of course, quite right that there are labour colonies there, like the famous institution of Dr. Bodelschweng and others. There are about 33, but they are labour colonies such as we also have, and not of this kind. In Germany they go to work in a different way, because persons who won&#x2019;t work, but go about begging are sent to prison&#x2014; vagrancy and begging being regarded as criminal offences. The colonies about which I have a little knowledge are in Belgium. Experiments commenced to be made there more than 100 years ago, but of the two which exist to-day one is of quite a different character to the other. With the passage of time the one colony developed into a place for criminals who had committed theft or got to such a pass through drunkenness that they were regarded by the court as criminals. The other colony became a refuge for poor and miserable people who could find no means of existence. That is the class which is very interesting to us. As far as the labour colonies are intended to be corrective, it cannot be said that much success has been attained. I have the figures here of a year when there were no less than 5,110 persons in the colony; of that number there was only 5.9 per cent. who had come there for the first time that year. The others were people who had previously been there for a time, because persons can remain there for from two to seven years before they are released. After a year, however, many come back again. 72 per cent. of the people were there for the fourth time.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>*Mr. <person refersTo="hansard_za">J. P. LOUW</person>:</from>
+
+<p>Did they have their wives and children there ?</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr. <person refersTo="hansard_za">VAN DER MERWE</person>:</from>
+
+<p>The figures show that we must be careful in making an experiment, and that we must learn from the experiments already made, and that we must not confuse the experiments with the existing labour colonies. I think it is desirable to change the name, and that criminals should be regarded as criminals, and not be confused with the people who are reduced to poverty. If this is not provided for, then the experiment will do much more harm than good, and be a failure. We shall have another opportunity in committee of discussing the matter in detail.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I understand that the Senate is waiting for messages from this House, so I will be very brief, and any points I do not touch upon in my reply I will deal with in the committee stage. As to religion at these institutions, there will be no difficulty, for at forestry settlements and training farms services are held. At one of these places I recently visited, there seemed to me to be a religious epidemic; services, chanting and singing all over the place. The hon. member for Yeoville (Mr. Duncan) put his finger on the spot when he said that the success of institutions like these depended upon the administration. People cut out for this particular work are born and not made; they have to have organizing capacity, tact, firmness, discipline and the milk of human kindness. We will do our very best to obtain suitable administrators. If the powers of the Minister are too great, they can be amended in committee. I have many examples of the experience of other countries in this sphere. In Germany there are 34 labour colonies, but they are all run by a central board&#x2014;a voluntary organization. Some of these colonies have been successful. A notably successful institution is at Berne, in Switzerland. It cost £60,000; 14 years later it was valued at £100,000. It has not cost the authorities one penny, as the inmates maintain themselves by their labour. There are also labour colonies in Lower Austria and Denmark, and one with 5,000 inmates is in existence in Belgium. The boards will not cost a lot of money, as they will be voluntary, and the members will be allowed out-of-pocket expenses only. We shall have to start on a small scale. We do not expect that the colonies will cost very much, and we hope they will be self-supporting. I have made the necessary provision in the Labour vote which appears in this year&#x2019;s estimates.</p>
+
+<p>Motion put and agreed to.</p>
+
+<p>Bill read a second time; House to go into committee to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#durban_borough_(extension_of_areas)_bill">
+
+<heading>DURBAN BOROUGH (EXTENSION OF AREAS) BILL.</heading>
+
+<p>Message received from the Senate returning the Durban Borough (Extension of Area) Bill, with amendments.</p>
+
+<p>On the motion of the Minister of Railways and Harbours, the amendments were considered.</p>
+
+<p><span class="col_1723-1724" refersTo="page_0932"/>Amendments in Clauses 1 (Dutch), 5 (Dutch), and in the First and Second Schedules (Dutch), put and agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#medical_dental_and_pharmacy_bill">
+
+<heading>MEDICAL, DENTAL AND PHARMACY BILL.</heading>
+
+<p>Fourth Order read: House to resume in Committee on Medical, Dental and Pharmacy Bill.</p>
+
+<p>House in Committee:</p>
+
+<p>[Progress reported on 8th March on Clause 51.]</p>
+
+<speech by="#de_villiers">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">In sub-section (5), to omit all the words in lines 47 to 52.</block>
+
+<p>This is so that the paragraph as amended by the omission of that portion sufficiently guarantees that everything in connection with the sale of poison will be done under proper control. If we go further, then we shall actually have a kind of indirect tax on the countryside. If the shopkeepers in the country must have separate counters for the sale of poison, then it will have an injurious effect on the countryside. I should like to see that an hon. member named a case of poisoning on account of the present method of sale, because in my experience I have not yet met such a case. Caustic soda is sold in tins, while arsenite of soda is sold in large cans which are not delivered across the counter. Medicines are corked up in bottles, and I cannot therefore see why the shopkeeper should have a separate counter for the sale of such articles. The regulation can be made that the shopkeeper must lock up the stock, but we are opposed to his being prevented from selling them over the same counter. We have small shopkeepers who could not do so. We have proposed to delete the provision with regard to the payment of a licence of £1, because the shopkeeper might live 50 or 60 miles from the place where he has to get his stock. This will of itself have an injurious effect and if in addition the shopkeeper must have a separate counter, then the countryside will suffer through it, because the shopkeeper will immediately say to the farmers that he can no longer stock the articles. My argument is that the goods are carefully closed. I hope the Minister will meet us.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>I have certain amendments on this clause on page 288 of the Votes and Proceedings. The idea is mainly to prevent autocratic action on the part of those who issue certificates. The first amendment is&#x2014;</p>
+
+<block name="quote">to omit sub-section (3),</block>
+
+<p>which I think is unnecessary, because full power is given to the magistrate under subsection (1), where it says &#x201C; may be granted.&#x201D; You cannot add to the discretion given under sub-section (1), and therefore this sub-section is unnecessary and may do a deal of injustice. The second is&#x2014;</p>
+
+<block name="quote">In lines 37 and 38 to omit &#x201C; or who in the opinion of the magistrate is otherwise unsuitable.&#x201D;</block>
+
+<p>The words are so vague that they may lead to a great deal of injustice. Then there is my amendment at the end of sub-section (6) which gives the right to appeal if there is any cancellation of these certificates, viz.&#x2014;</p>
+
+<block name="quote">in line 57, to add at the end of sub-section (6) &#x201C;: Provided that the holder shall have a right to appeal to any Provincial or Local Division of the Supreme Court against any such cancellation.&#x201D;</block>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">In line 53, to omit &#x201C; shall &#x201D; and to substitute &#x201C; may.&#x201D;</block>
+
+<p>The magistrate already has more than enough rights. Under this stipulation he must do it, and it is not left to his discretion.</p>
+
+<p>On the motion of the Minister of Public Health, it was agreed to report progress and ask leave to sit again.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported; House to resume in Committee to-morrow.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-03-22T18:01:00">6.1 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

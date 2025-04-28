@@ -1,0 +1,3243 @@
+---
+title: 'House of Assembly: Vol9 - TUESDAY 3 MAY 1927'
+layout: debate
+year: 1927
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 3rd MAY, 1927.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1927-05-03T14:21:00">2.21 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Justice: Prisoners, Releases of.</heading>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<num>I.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether he will lay upon the Table a list of all special releases of prisoners between the 1st July, 1924, and the 15th April, 1927, showing (a) name of prisoner, (b) offence and term of sentence, (c) number of persons who applied for prisoner&#x2019;s release, (d) extent of remission of sentence and grounds therefor; and</li>
+
+<li>(2) whether he will lay upon the Table a list of cases in which prisoners_ though not released forthwith, had their sentences reduced during the same period, giving in each case the particulars enumerated in (1)?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>In view of the great amount of work which would be involved by the preparation of such lists I regret that I cannot comply with the hon. member&#x2019;s request. I would, however, refer him to my reply to question No. 4 of the 22nd February last from which I think he should find sufficient information for his purposes and I shall lay upon the Table a return which brings that information up to the 15th of last month. He will appreciate also from that answer the nature of the task which would be imposed on the staff of the department if a return such as asked for by him had to be furnished.</p>
+
+<p>Special releases of prisoners between 1st July, 1924, and 15th April, 1927:&#x2014;</p>
+
+<p>(A) As individual cases. (Releases other than on recommendation of the Boards of Visitors or dealt with under prison regulations)</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1.7.24 to 31.12.24.</p></td>
+
+<td><p>1925.</p></td>
+
+<td><p>1926.</p></td>
+
+<td><p>1.1.27 to 15.4.27.</p></td>
+
+<td colspan="2"><p>Total.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Remission of sentence.</p></td>
+
+<td><p>84</p></td>
+
+<td><p>135</p></td>
+
+<td><p>101</p></td>
+
+<td><p>8</p></td>
+
+<td><p>328</p></td>
+
+<td rowspan="2"><p>489</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Release on probation.</p></td>
+
+<td><p>45</p></td>
+
+<td><p>56</p></td>
+
+<td><p>42</p></td>
+
+<td><p>18</p></td>
+
+<td><p>161</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Release on medical grounds.</p></td>
+
+<td><p>11</p></td>
+
+<td><p>18</p></td>
+
+<td><p>17</p></td>
+
+<td><p>4</p></td>
+
+<td><p>50</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Release &#x2014; Pregnancy cases.</p></td>
+
+<td><p>3</p></td>
+
+<td><p>8</p></td>
+
+<td><p>11</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>22</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Release on licence</p></td>
+
+<td><p>88</p></td>
+
+<td><p>174</p></td>
+
+<td><p>189</p></td>
+
+<td><p>48</p></td>
+
+<td><p>499</p></td>
+
+<td><p>Reformatory cases.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Totals</p></td>
+
+<td><p>231</p></td>
+
+<td><p>391</p></td>
+
+<td><p>360</p></td>
+
+<td><p>78</p></td>
+
+<td><p>1,060</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+</table>
+
+<p>(B) Releases under prison regulations. (One-fourth of sentence in case of first offenders and one-twelfth in case of recidivists.)</p>
+
+<table>
+
+<tr>
+
+<td><p>1.7.24 to 31.12.24</p></td>
+
+<td><p>1925.</p></td>
+
+<td><p>1926.</p></td>
+
+<td><p>1.1.27 to 15.4.27.</p></td>
+
+<td><p>Total.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>2,948</p></td>
+
+<td><p>5,488</p></td>
+
+<td><p>5,293</p></td>
+
+<td><p>1,745</p></td>
+
+<td><p>1,5474</p></td>
+
+</tr>
+
+</table>
+
+<p>(C) Prisoners released on probation on recommendation of Boards of Visitors.</p>
+
+<table>
+
+<tr>
+
+<td><p>1.7.24 to 31.12.24</p></td>
+
+<td><p>1925.</p></td>
+
+<td><p>1926.</p></td>
+
+<td><p>1.1.27 to 15.4.27</p></td>
+
+<td><p>Total.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>376</p></td>
+
+<td><p>1,388*</p></td>
+
+<td><p>997</p></td>
+
+<td><p>239</p></td>
+
+<td><p>3,000</p></td>
+
+</tr>
+
+</table>
+
+<p>*Due to special remission of 9 months of sentence granted in April, 1925, to prisoners serving an original sentence of over 2 years, excluding those sentenced to life, imprisonment with hard labour and to the indeterminate sentence.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>South-West Africa: Diamond Revenue.</heading>
+
+<question by="#hay" to="#prime_minister">
+
+<num>II.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) How does the revenue derived from diamonds in the territory of South-West Africa for the year ending 31st March, 1926 (£278,302) compare with the average revenue derived from that source annually during the German administration; and</li>
+
+<li>(2) whether the proportion of division of profits between the Government and the producers is maintained as before the mandate, and, if not, what is the difference now existing?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#hay">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) The revenue derived from diamonds during the German administration was: 1909, £435,238; 1910, £432,504; 1911, £422,674; 1912, £869,365; 1913, £1,512,622. The revenue at the present time can only be compared with <span class="col_3053-3054" refersTo="page_0187"/>that of the years 1912 and 1913, under the German administration, as prior to 1912 the taxation on diamonds was on a different basis. In 1920 the South-West Administration received £1,201,632, but in comparing these receipts with those of 1921-&#x2019;26 and the present time, it must be borne in mind that the rich shallow deposits which were worked at very low costs have now been entirely exhausted and the installation of elaborate and very extensive machinery for the proper working of the deeper deposits has been necessary. In addition to this, working costs have been generally increased to an abnormal extent from various causes and this with the lower prices received for diamonds generally since 1919 has effected a considerable reduction of the receipts from the tax.</li>
+
+<li>(2) The division of profits between the Government and producers has not been altered.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Mental Hospitals.</heading>
+
+<question by="#hay" to="#minister_of_the_interior">
+
+<num>III.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) What is the approximate yearly cost per head of persons detained in mental hospitals and other places of detention for those mentally deficient, including medical attention and all overhead charges;</li>
+
+<li>(2) whether the Government is taking steps to prevent the further propagation of mentally deficient persons in the Union; and</li>
+
+<li>(3) whether the present cost is likely to be largely increased?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#hay">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) £56 5s. 5d. This amount represents expenditure under the mental hospitals vote only. During 1923 the total gross cost including Public Works Department and other services, interest on capital, and proportion of head office salaries was calculated at £62 7s. 1d. per head per annum.</li>
+
+<li>(2) Beyond detaining such persons in mental hospitals and other places of detention for those mentally deficient no steps are contemplated.</li>
+
+<li>(3) The present yearly cost per head is not likely to be largely increased.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>League of Nations, Contribution to.</heading>
+
+<question by="#hay" to="#prime_minister">
+
+<num>IV.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) What amount has been contributed to the League of Nations to the 31st March, 1927; and</li>
+
+<li>(2) what has been the further cost of Union representatives attending the League of Nations to that date?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#hay">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) £166,101 3s. 2d.</li>
+
+<li>(2) £6,063 14s. 1d.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Reserve Bank.</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>V.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) What is the total amount of dividends to shareholders of the Reserve Bank to the 31st March, 1927:</li>
+
+<li>(2) what amount has been received by the Government for the monopoly conceded to that institution to issue a paper currency;</li>
+
+<li>(3) what was the note issue at the 31st March;</li>
+
+<li>(4) whether the note issue is limited by the Government; and</li>
+
+<li>(5) what proportion of gold is held specially to meet the note issue?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) £415,443 2s. 6d. including dividends to be paid on last year&#x2019;s profits on the 15th instant.</li>
+
+<li>(2) £84,414 3s. 6d. including the amount still to be paid in respect of profits for the year ended 31st March, 1927.</li>
+
+<li>(3) £8,358,666.</li>
+
+<li>(4) and (5) The note issue is not limited by the Government. It is limited under the Act by the fact that at least 40 per cent. of the issue must be covered by gold. So much of the remainder must also be covered by gold as is not covered by good trade bills, and Union and British Treasury bills. The amount of Treasury bills which may be so held must not be in greater proportion to the trade bills than 7 is to 5.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Defence: Brigadiers.</heading>
+
+<question by="#byron" to="#minister_of_defence">
+
+<num>VI.</num>
+
+<from>Brig. Gen. BYRON</from>
+
+<p>asked the Minister of Defence:</p>
+
+<ol>
+
+<li>(1) (a) How many officers have been appointed &#x201C;brigadiers,&#x201D; (b) what are their names, and (c) what are the military areas to which they have been appointed; and</li>
+
+<li>(2) what are the conditions of his appointment as communicated to each officer?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#byron">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) (a) Four; (b) Col. J. P. S. Woods, D.S.O., V.D.; Col. R. W. Currin, D.S.O.,; Col. H. S. Harris, C.B.E.; Col. S. S. Taylor, C.M.G., D.S.O., V.D.; (c) Brigade commanders have not been appointed to special areas but to brigades of A.C.F. regiments. Col. Woods commands a brigade of four mounted regiments organized in Natal. Col. Currin is in command of the 1st Infantry Brigade, consisting of the Durban Light Infantry, Prince Alfred&#x2019;s Guard, First City and Kaffrarian Rifles. Col. Harris commands the 2nd Infantry Brigade consisting of the Kimberley Regiment and the two Cape Town infantry units. Col. Taylor&#x2019;s brigade consists of the three infantry regiments in Johannesburg and the Pretoria Regiment.</li>
+
+<li>(2) A copy of the conditions of appointment addressed to brigade commanders will be laid upon the Table of the House.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Klopper, Promotions of.</heading>
+
+<question by="#richards" to="#minister_of_railways_and_harbours">
+
+<num>VII.</num>
+
+<from>Maj. RICHARDS</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether, when the Minister assumed office in June, 1924, a certain Mr. Klopper was serving in the Railway Administration at Kazerne as a grade III clerk;</li>
+
+<li><span class="col_3055-3056" refersTo="page_0188"/>(2) upon what date was he (a) transferred to headquarters, (b) promoted to a grade II clerkship, and (c) given a staff appointment;</li>
+
+<li>(3) in connection with these promotions, over how many persons who were his seniors in the service did he pass;</li>
+
+<li>(4) upon what date was he (a) transferred to the Employment Office, Durban, and (b) promoted to a grade I clerkship;</li>
+
+<li>(5) in connection with this promotion, over the heads of how many persons who were his seniors did he pass;</li>
+
+<li>(6) in what capacity and for what period did he serve before he received promotion to the post of acting inspector vice Mr. Strang;</li>
+
+<li>(7) in connection with this promotion, over the heads of how many persons, including station masters, who are his seniors in the service, was he preferred;</li>
+
+<li>(8) what was his salary (a) in July, 1924, (b) whilst serving as a grade II clerk, (c) as a grade I clerk, and (d) what is he now receiving as acting district inspector; and</li>
+
+<li>(9) to what political party does Mr. Klopper belong, and what office has he held in any such party?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#richards">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) (a) 5th August, 1924; (b) 5th December, 1925; (c) 16th April, 1926.</li>
+
+<li>(3) He was appointed to grade II as translator vide (2) (b) after approximately 6½ years&#x2019; service in grade III. The position required exceptional qualifications and a selection was made on the grounds of efficiency after applications had been invited. There were other officers senior to Mr. Klopper on the system on which he was employed but he was considered the most suitable and competent officer for the vacant position. Promotions up to and including grade II are not thrown open to the whole of the service but are made within the department in which the vacancy has occurred, at the discretion of the controlling officer.</li>
+
+<li>(4) (a) and (b) 1st September, 1926.</li>
+
+<li>(5) Nominations were invited from all systems and departments throughout the service and Mr. Klopper was considered by a committee of senior officers at railway headquarters to be the most suitable person to fill the position and his promotion was approved by the general manager.</li>
+
+<li>(6) Station clerk, 13 years; relief clerk, 4 months; headquarters and translator headquarters and at Durban, 3 years.</li>
+
+<li>(7) Mr. Klopper was not promoted over the heads of senior station masters but the practice at Durban is to arrange relief for district inspectors by deputing members of the office staff to undertake these duties, thereby enabling them to get into touch with the outside staff and affording them an insight into the practical side of the work. Mr. Klopper having qualified in station accounts and trains working is taking the relief period from the 9th March to the 9th May, 1927, inclusive, and another officer will take over on the 10th instant. This arrangement was made by the assistant general manager, Durban.</li>
+
+<li>(8) (a) £315; (b) £355-£390; (c) £410; (d) Mr. Klopper&#x2019;s salary has not been altered in any way whilst acting as district inspector but he is paid the usual scale of travelling expenses vide the staff regulations.</li>
+
+<li>(9) It is not the practice of the Administration to make enquiries for the purpose of ascertaining to what political party any officer or employee may belong.</li>
+
+</ol>
+
+</answer>
+
+<question by="#miller" to="#minister_of_railways_and_harbours">
+
+<from>Maj. MILLER:</from>
+
+<p>Is it not a fact that the whole staff throughout the Union is treated as one service so far as promotion is concerned?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#miller">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Under grade II the position is that only the department concerned is taken into consideration.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Is it not the case that 390 stationmasters, all senior to Mr. Klopper, were superseded as the result of his appointment as acting district inspector?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#anderson">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>No, the position is as I have stated. I do not know that I can add anything to that. The assistant general manager at Durban made the arrangement in accordance with general practice.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Do I understand then that these stationmasters were superseded&#x2014;that the effect of this promotion of Mr. Klopper was to supersede 390 stationmasters all senior to him?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#anderson">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have no information on that point. I can only repeat that he was not promoted but was asked by the assistant general manager to act in that position from the 9th of March to the 9th of May.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from>Mr. MARWICK:</from>
+
+<p>Why were the senior stationmasters not asked?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#marwick">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have already given the information that that is the practice in the Natal system.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Is it not true that from October last the Minister and the Railway Board agreed to the appointment of promotion committees on which the staff would be represented, and was Mr. Klopper&#x2019;s promotion recommended by a promotion committee, and if so what were the names of the gentlemen comprising that committee?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#marwick">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have given all the information that has been asked for, and if hon. members want further particulars they should put questions on the order paper. This appointment was not made by the Railway Board or by myself, but by the officer concerned.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from><span class="col_3057-3058" refersTo="page_0189"/>&#x2020;Mr. MARWICK:</from>
+
+<p>Is it not true that in grade II, out of which Mr. Klopper was promoted, there are 750 clerks, 75 per cent. of whom are awaiting promotion, having reached their barrier?</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I think the hon. member should put that on the paper.</p>
+
+</answer>
+
+<answer by="#minister_of_railways_and_harbours" to="#marwick">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>With your indulgence, Mr. Speaker, I wish to say that if any of these clerks or stationmasters feel they are aggrieved in any way, the regulations are open to them to appeal.</p>
+
+</answer>
+
+<question by="#henderson" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. HENDERSON:</from>
+
+<p>Seeing that Mr. Klopper has so little experience of trains working, and has not passed an examination, I would like to ask the Minister whether there is not a danger of increasing train accidents.</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#henderson">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>On matters of that sort I prefer to take the judgment of the assistant general manager at Durban.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Can the Minister give us the date on which Mr. Klopper passed his examination in trains working? Has he passed an examination in trains working?</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>Perhaps the hon. member will put that on the paper.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>My point is&#x2014;</p>
+
+</question>
+
+<answer by="#hon_members" to="#marwick">
+
+<from>HON. MEMBERS:</from>
+
+<p>Order!</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_railways_and_harbours">
+
+<from>Mr. MARWICK:</from>
+
+<p>The Minister has stated that Mr. Klopper is qualified in trains working, whereas my information is he has not passed any examination in that.</p>
+
+</question>
+
+<question by="#anderson" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>I understand this appointment is only temporary to expire on the 9th May. May I ask the Minister whether Mr. Klopper will continue to hold the position after the 9th May?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#anderson">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have indicated that this appointment is in the hands of the assistant general manager at Durban. Surely hon. members know that the Minister does not deal with promotions except where the salary exceeds £600. If the hon. member wants further information I am prepared to get it from the officers concerned. I do not personally deal with all these matters, and cannot give any further information at this stage.</p>
+
+</answer>
+
+<question by="#rood" to="#minister_of_railways_and_harbours">
+
+<from>Mr. ROOD:</from>
+
+<p>Is the Minister aware if the gentleman&#x2019;s name had been Mallet instead of Klopper there would have been no questions?</p>
+
+</question>
+
+<answer by="#pretorius" to="#minister_of_railways_and_harbours">
+
+<from>*Mr. J. S. F. PRETORIUS:</from>
+
+<p>I want to ask whether this House is a court of law, to permit of the Minister being cross-examined.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Vaal River Bridge, Christiana.</heading>
+
+<question by="#van_rensburg" to="#minister_of_public_works">
+
+<num>VIII.</num>
+
+<from>Mr. VAN RENSBURG</from>
+
+<p>asked the Minister of Public Works:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that the Railway Department is enquiring into the feasibility of connecting Hertzogville and Christiana by motor service and that it appears that the absence of a bridge over the Vaal river at Christiana is a great drawback; and</li>
+
+<li>(2) whether, in view of the importance that farmers should be able to reach the railway by means of a motor service, he will make provision on this year&#x2019;s loan estimates for the building of such a bridge?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#van_rensburg">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<ol>
+
+<li>(1) I appreciate the need of a bridge at or near Christiana amongst other places on the Vaal river to further the economic interests of the countryside.</li>
+
+<li>(2) The Government is considering a bridge building programme which contemplates the inclusion in it of a bridge at Christiana.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Defence: Bookkeeper at Races.</heading>
+
+<question by="#byron" to="#minister_of_defence">
+
+<num>IX.</num>
+
+<from>Brig.-Gen. BYRON</from>
+
+<p>asked the Minister of Defence:</p>
+
+<ol>
+
+<li>(1) Whether it is correct that a senior official of the financial branch of the Department of Defence is also employed by a Johannesburg bookmaker and may be found on most Saturday afternoons recording betting transactions for his sporting employer; and, if so,</li>
+
+<li>(2) whether this meets with the Minister&#x2019;s approval, and, if not, what action he proposes to take?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#byron">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) The reply is in the negative. I have made enquiry and can assure the hon. member that the employee whose name he furnished, is not in the employment of any firm of bookmakers.</li>
+
+<li>(2) Falls away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Maize in Grain Elevators.</heading>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Mr. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What was the total quantity of maize deposited in the grain elevators between the 1st July, 1926, and the 1st April, 1927;</li>
+
+<li>(2) whether there has been any shortage discovered in connection with any elevators which from time to time have been emptied;</li>
+
+<li>(3) at what places have such shortages been discovered, and what amount of shortage at each;</li>
+
+<li>(4) what amount of compensation has had to be provided for shortages;</li>
+
+<li>(5) how did these shortages occur;</li>
+
+<li>(6) whether responsibility has been attached to any responsible officer or officers in this connection; and</li>
+
+<li>(7) what action, if any, has been taken in connection therewith?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#deane">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) 118,264 tons.</li>
+
+<li>(2) Yes, in one case.</li>
+
+<li>(3) Bethlehem, where the stock book reflects a shortage of 9 tons.</li>
+
+<li><span class="col_3059-3060" refersTo="page_0190"/>(4) No compensation has yet been paid.</li>
+
+<li>(5) The cause has not been determined up to the present.</li>
+
+<li>(6) and (7) Fall away.</li>
+
+</ol>
+
+</answer>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. DEANE:</from>
+
+<p>I would like to ask the Minister if any of these employees working on the grain elevator have been discharged for inefficiency.</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#deane">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Before employees are discharged a proper enquiry is held, and until such time as I am satisfied that a disciplinary enquiry is necessary, no such action will be taken.</p>
+
+</answer>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<from>Mr. DEANE:</from>
+
+<p>The Minister has not answered my question.</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#deane">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>The matter is still under consideration.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Native Locations and Prospecting Syndicate.</heading>
+
+<question by="#marwick" to="#minister_of_native_affairs">
+
+<num>XI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol>
+
+<li>(1) Whether permits to prospect for minerals on Mpahlela&#x2019;s and Valtyn Makapan&#x2019;s Locations in the Transvaal are held by a syndicate consisting of Dr. Reitz, Gen. Muller, Messrs. B. J. Pienaar, van Niekerk and R. C. Francis;</li>
+
+<li>(2) how many members of the syndicate are (a) members of Parliament, (b) in receipt of remuneration from Government for other services;</li>
+
+<li>(3) whether the land comprising the locations in question is held by the Minister of Native Affairs in trust for the Chiefs Mpahlela and Makapan and their respective people;</li>
+
+<li>(4) whether the prospecting contracts were first negotiated between the native chiefs concerned and a representative of the syndicate, or between the latter and the Minister of Native Affairs;</li>
+
+<li>(5) upon what date or dates were the prospecting contracts (a) entered into by the parties, (b) approved of by the Minister of Native Affairs;</li>
+
+<li>(6) whether the contracts provide for (a) exclusive rights of prospecting over the entire area of the locations in favour of the syndicate for a definite period, (b) any right of renewal; and</li>
+
+<li>(7) what amount under each contract (a) is payable by the syndicate, (b) has been paid to the chiefs, and (c) has been credited to tribal funds?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#marwick">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<ol>
+
+<li>(1) Two prospecting permits were issued in respect of each of the locations mentioned. As regards Mpahlela&#x2019;s location the permits were in favour of Gen. Muller and H. S. Lombard respectively, and as regards Valtyn Makapan&#x2019;s location in favour of F. D. Cohen and J. A. Eklund. The permits were issued to the gentlemen named personally and those in respect of Valtyn Makapan&#x2019;s location have since been ceded to the Potgietersrust Platinums, Limited. I am not aware of the existence of the syndicate mentioned.</li>
+
+<li>(2) Falls away.</li>
+
+<li>(3) The locations in question are not held in trust for the tribes concerned, but are Crown land specially reserved for location purposes. A very small portion of Mpahlela&#x2019;s location is, however, tribally owned but the permits issued do not extend to this tribally-owned portion.</li>
+
+<li>(4) No prospecting contracts were entered into in respect of these Crown locations, but prospecting permits were issued in terms of section 13 (b) of the Precious and Base Metals Act, No. 35 of 1908 (Transvaal). These permits conferred a three months&#x2019; prospecting right against payment of £10 sterling in each case and carried no definite right of renewal. As the land concerned is Crown land all money received under these permits is credited to the Consolidated Revenue Fund in the ordinary course.</li>
+
+<li>(5), (6) and (7) Fall away.</li>
+
+</ol>
+
+</answer>
+
+<question by="#reitz" to="#prime_minister">
+
+<from>&#x2020;Dr. H. REITZ:</from>
+
+<p>I want to ask the Prime Minister whether he can tell me what the suggestion of the hon. member for Umbilo is?</p>
+
+</question>
+
+<answer by="#hon_members" to="#reitz">
+
+<from>HON. MEMBERS:</from>
+
+<p>The hon. member for Illovo.</p>
+
+</answer>
+
+<question by="#reitz" to="#hon_members">
+
+<from>&#x2020;Dr. H. REITZ:</from>
+
+<p>I mean Illovo, and whether the hon. member for Illovo knows the English for &#x201C;Honi soit qui mal y pense&#x201D;?</p>
+
+</question>
+
+<question by="#thomas_smartt" to="#speaker">
+
+<from>Sir THOMAS SMARTT:</from>
+
+<p>Is that in order, Mr. Speaker?</p>
+
+</question>
+
+<question by="#marwick" to="#minister_of_native_affairs">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>In the absence of the hon. member for Umbilo, may I ask the Prime Minister whether he is aware that Dr. Reitz in giving evidence in the case against Wilson on the 21st of October, 1926, stated that the names of the members of the syndicate holding this permit in question were General Muller, Dr. Reitz, N. J. Pienaar, Van Niekerk, R. C. Francis and A. L. Reitz&#x2014;this statement being made on oath?</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#marwick">
+
+<from>*The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>No, I know nothing about it, and it cannot affect me, and I just want to say that we all see what the questions mean. Certain members here are out, possibly quite rightly if they wish, to see whether they can find any weak spots anywhere to complain about. Let them try as much as they like, but they mustn&#x2019;t ask me to go outside the department and make me responsible for what other members are supposed to have said. I am not prepared to answer further questions in this connection, but if hon. members wish they can put them on the order paper to be answered.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Fishing, Trout and Carp.</heading>
+
+<question by="#richards" to="#minister_of_mines_and_industries">
+
+<num>XII.</num>
+
+<from>Maj. RICHARDS</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Whether he has read Reports Nos. 1 and 2 of the Inland Waters Survey;</li>
+
+<li>(2) whether any of the recommendations made in those reports have been taken into consideration;</li>
+
+<li><span class="col_3061-3062" refersTo="page_0191"/>(3) whether he is aware of the fact that hundreds of miles of valuable trout streams are in grave danger of being ruined through the presence of carp in certain dams in the Maclear district and of the immediate necessity of legislation for the destruction of these fish;</li>
+
+<li>(4) whether he is aware that the farmers concerned are only too willing to destroy the carp, provided a better species of fish is available;</li>
+
+<li>(5) whether he is aware that certain trout streams in East Griqualand have already been ruined by carp which have escaped from dams on farms and that thereby a very valuable source of food supply to the farming community has been destroyed;</li>
+
+<li>(6) whether he is aware that, although the carp has been condemned as an undesirable fish, the Government has no other suitable species wherewith to supply the demands of the farmers who desire to stock their dams and ponds with edible fish;</li>
+
+<li>(7) whether he is aware that the farming community owning dams and other permanent waters are very anxious to obtain suitable species of edible fish wherewith to purify the waters and obtain a much needed and valuable change of diet;</li>
+
+<li>(8) whether he is aware that the species of fish recommended in Report No. 2 could probably be successfully introduced to fill the pressing demand and that as they have first to be acclimatized there is immediate need for action in this matter;</li>
+
+<li>(9) whether he is aware that during 1925 150 overseas visitors came to South Africa for trout fishing, and that, assuming that each fisherman spent £200 in the country, South Africa was £30,000 richer through the trout in its streams;</li>
+
+<li>(10) whether he is aware that the trout fishing of South Africa at the present moment is such that if more fully advertised in Europe it would be a means of inducing hundreds more visitors to come to the Union;</li>
+
+<li>(11) whether he is aware that there are hundreds of miles of apparently suitable waters in South Africa awaiting development; and</li>
+
+<li>(12) whether the Government is prepared to take over the fisheries, considering the huge interests involved and that the four provinces benefit equally by both the sea and inland fisheries?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#richards">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>My reply to Parts 1 to 11 of the question of the hon. member is in the affirmative. The unsatisfactory position created in a number of districts by the introduction of carp and its bad effect on the trout possibilities of our rivers is recognized. The Fisheries Survey Committee is investigating the question of the introduction of other suitable fish to enable local authorities and farmers who wish to stock dams or streams to do so with a class of fish which will not pollute the water and destroy the trout. The possibilities of increasing the production of trout in the more promising of our rivers is fully recognized and steps are being taken this year to stock new rivers with trout ova. With regard to part 12 of the question, the hon. member is aware that the reservation of fish and game is by Section 85 (10) of the South Africa Act placed in the category of subjects in regard to which provincial councils may make ordinances. The Fisheries Survey Committee is investigating and surveying our fishing potentialities but the actual fishery administration is in the hands of the provinces and I do not think it possible at the present moment to make an alteration.</p>
+
+</answer>
+
+<question by="#krige" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. KRIGE:</from>
+
+<p>A few weeks ago I put a question regarding the in-shore fishing report. Can the Minister make a statement with reference to the fishing at Hermanus, Hawston and Gans Bay?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#krige">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>I have not had a moment&#x2019;s time to read these reports. I hope to do so and if it is possible I will make a communication to the House later on.</p>
+
+</answer>
+
+<question by="#struben" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. STRUBEN:</from>
+
+<p>Is the Minister seriously taking into consideration the alteration of the Act of Union in respect of the control of game and fisheries, and placing them under the central authority, instead of their control being split up as at present amongst four different authorities?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#struben">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>As regards game I have nothing to say. With reference to the fisheries, I have given an answer, and moreover, it is only recently that an Act was passed dealing with the financial relations between the provincial councils and the central Government. It is certainly not proposed lightly to alter that Act. There is nothing the provincial councils resent more than that we should encroach on their province, and there is no reason for introducing legislation at this stage. The Minister of Finance, when he introduced the Bill touching the financial relations, distinctly indicated that the provincial councils were obtaining a new lease of life, and we must give them an opportunity of justifying that lease of life.</p>
+
+</answer>
+
+<question by="#krige" to="#minister_of_mines_and_industries">
+
+<from>&#x2020;Mr. KRIGE:</from>
+
+<p>I am referring to a report of a commission appointed by the Minister in reference to a decision taken by this House. Does the Minister intend to consider that report or to relegate it to the provincial council?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#krige">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>I have not had time to consider it. I am not prepared to state what should be done until I have studied the report, which I am sorry to say I have not yet done.</p>
+
+</answer>
+
+<question by="#krige" to="#minister_of_mines_and_industries">
+
+<num>XIII.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading><span class="col_3063-3064" refersTo="page_0192"/>Methylated Spirits, Sale of.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question IX, by Mr. Heatlie, standing over from 1st April.</p>
+
+<question by="#heatlie" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<p>Whether, in view of the possibility of the Liquor Bill not becoming law this session, more particularly Clause 143 dealing with the restriction and regulation of importation and the keeping and sale of methylated spirits, and in view of the large consumption of this substance as a potable spirit with its deleterious effects upon those who consume it, the Minister will take steps this session effectually to control the sale and supply thereof?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#heatlie">
+
+<heading>Reply:</heading>
+
+<p>The methylation of spirits in the Union is permitted only under Government control, but not the sale and removal of methylated spirits, and when it was found that the Liquor Bill would not become law last year it was realized that whatever action was possible under existing legislation to deal with this matter should be taken. Thus, in August, 1926, regulations were issued requiring the percentage of crude methylic alcohol to be increased from 2 per cent. to 3.5 per cent. and the pyridine bases from 0.5 per cent. to 1.5 per cent., and colouring matter to be added. The result has been to make the spirit more offensive to the eye and taste. While the Government realizes the necessity for effecting greater control over the disposal of methylated spirits, it is considered that the matter does not call for special legislation in view of the action taken in the event of the Liquor Bill not becoming law this session. Practically no methylated spirits are imported into the Union owing to the high rate of customs duty, so there is no urgent need for special legislation in this respect.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Customs Duty on Cotton Blankets.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question I. by Mr. Gilson standing over from 26th April.</p>
+
+<question by="#gilson" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) What were the number and value of each class of cotton blankets imported during the financial years ending the 31st March, 1925, 1926 and 1927;</li>
+
+<li>(2) what was the amount of customs duty received during each of the above years on such blankets; and</li>
+
+<li>(3) whether the protection policy of the Government resulted in the establishment of any factories in the Union for the manufacture of this class of blankets?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#gilson">
+
+<heading>Reply:</heading>
+
+<p>(1) and (2). No records of the numbers of the various classes of cotton blankets imported into the Union prior to the 8th April, 1925, when the present tariff came into force are available.</p>
+
+<p>The following is a statement showing the quantity of, and customs duty collected on, cotton blankets during the financial years 1925, 1926 and the first nine months of the financial year 1927&#x2014;the figures for the remaining portion of that financial year are not yet available.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p><i>Quantity.</i></p></td>
+
+<td><p><i>Class. (Rate of duty.)</i></p></td>
+
+<td><p><i>Customs duty.</i> £</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1924</p></td>
+
+<td><p>No record</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>178,737</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1925. Prior to 8.4.25.</p></td>
+
+<td><p>No record</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>13,653</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>From &amp; after 8.4.25.</p></td>
+
+<td><p>Lbs. 2,018,771</p></td>
+
+<td><p>At 1s. per lb.</p></td>
+
+<td><p>100,939</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>No.</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>894,385</p></td>
+
+<td><p>At 2s. 6d. each</p></td>
+
+<td><p>111,798</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>324,070</p></td>
+
+<td><p>At 25 per cent.</p></td>
+
+<td><p>18,327</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p><i>ad val.</i></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Lbs.</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1926</p></td>
+
+<td><p>1,694,398</p></td>
+
+<td><p>At 1s. per lb.</p></td>
+
+<td><p>84,720</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>No.</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>719,590</p></td>
+
+<td><p>At 2s. 6d. each</p></td>
+
+<td><p>89,949</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>34,678</p></td>
+
+<td><p>At 25 per cent.</p></td>
+
+<td><p>4,205</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p><i>ad val.</i></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+</table>
+
+<p>(3) Yes.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#matrimonial_causes_jurisdiction_bill">
+
+<heading>MATRIMONIAL CAUSES JURISDICTION BILL.</heading>
+
+<p>First Order read: House to go into Committee on Matrimonial Causes Jurisdiction Bill.</p>
+
+<speech by="#hattingh">
+
+<from>&#x2020;The Rev. Mr. <person refersTo="hansard_za">HATTINGH</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Committee have leave to consider the desirability of making provision in the Bill that whenever a provincial or local division of the Supreme Court of South Africa has jurisdiction to hear and determine a matrimonial action any other provincial or local division of that Supreme Court within whose jurisdiction either the plaintiff or the defendant resides and intends permanently to reside may hear and determine such action.</block>
+
+<p>My motion only involves a very small alteration, but I think it is very necessary in connection with procedure in divorce cases. The proposal here is merely that every provincial or local division of the Supreme Court where either the plaintiff or the defendant lives shall in such cases have the right to hear and decide upon the matter. At present the position is that if someone lives in Cape Town and his wife, e.g., in Johannesburg, and he wants to get a divorce from her on certain grounds, then he must bring the case in the Cape provincial division of the Supreme Court and get the leave of that division to have the case referred to the Witwatersrand division. This is a roundabout way and causes unnecessary expense. The motion does not break a single principle of the law, and does not cancel any sound legal procedure. It simply makes the position more convenient and litigation cheaper.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>Mr. <person refersTo="hansard_za">DU TOIT</person></from>
+
+<p>seconded.</p>
+
+<p>Motion put and agreed to.</p>
+
+<p>House in Committee:</p>
+
+<p>On Clause 1,</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from><span class="col_3065-3066" refersTo="page_0193"/>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">To add at the end &#x201C;: Provided further that no such order or decree shall be granted unless&#x2014;</block>
+
+<ol>
+
+<li>(a) such married woman has resided in the Union for a period of at least three years immediately preceding the institution of any such action and</li>
+
+<li>(b) the whereabouts of the defendant are unknown or</li>
+
+<li>(c) the whereabouts of the defendant being known, such married woman is able to show that by reason of official duty, poverty or any other sufficient cause she is prevented from instituting proceedings in the courts of the country where the defendant is domiciled.&#x201D;</li>
+
+</ol>
+
+<p>The hon. member for Dundee (Sir Thomas Watt) during the debate on the second reading complained to this House that it had not had the benefit of the opinion of our judges and acting upon this suggestion I wrote to the Department of Justice asking them to ascertain the opinion of the judges. Unfortunately they were unable to do so, because the time was too short. I took the liberty of writing direct to the Chief Justice of South Africa and I asked his permission to quote his opinion in this House. The Chief Justice was kind enough to reply. He does not directly express himself either in favour of or against the Bill. He points out the possibility of difficulties with regard to international, law. I dealt as fully as I could with those difficulties on the second reading. After that the Chief Justice suggests various amendments, and the amendment I have moved is based on his suggestion. I submit from the letter I have received from the Chief Justice I am entitled to conclude that he favours this Bill, but to enable members to judge for themselves, I shall quote portions of the letter. He says this&#x2014;</p>
+
+<block name="quote">There is a great deal to be said on both sides regarding your Bill relating to jurisdiction in matrimonial causes. No doubt many hard cases arise under the law as it stands at present. On the other hand, if the jurisdiction of the courts is based on anything other than domicile, it leads to the anomaly that the decree of divorce is of effect only in the country where the divorce is granted. For example, if your Bill becomes law a woman who obtains a divorce from her husband whose domicile is in England would be fr&#x00E9;e to marry again in South Africa, but would still possess the status of a married woman if she went to reside in England, and would, therefore, not be free to marry again there or elsewhere, while her husband would remain a married man in England, and would be guilty of bigamy if he contracted a second marriage in that country.</block>
+
+<p>Hon. members say &#x201C;hear, hear,&#x201D; but I have not the slightest sympathy with that husband. The letter proceeds&#x2014;</p>
+
+<block name="quote">I do not know whether this anomalous position was brought to the notice of the members when the second reading was before the House of Assembly. If not, it should be at the next opportunity. This is clearly an objection to your Bill, though it may not be sufficient to outweigh its advantages, which are obvious. Your intention to amend the Bill to the effect that &#x201C;the plaintiff must have resided in the Union for at least three years before the action is brought&#x201D; is a decided improvement. But the amendment seems to me to be too widely stated. It would cover the case of a plaintiff who had resided in the Union at any time before action, even in childhood. I think that the word &#x201C;immediately&#x201D; should be inserted before the words &#x201C;before action is brought.&#x201D;</block>
+
+<p>Hon. members will see that I have inserted that word where the Chief Justice considers it should be&#x2014;</p>
+
+<block name="quote">You might also consider the advisability of limiting the power of the courts to grant divorces under the Bill to cases where it is clear that hardship would result from refusing to exercise jurisdiction. I merely throw out these suggestions for your consideration without expressing any definite opinion regarding the Bill.</block>
+
+<p>I submit that where the Chief Justice of South Africa does not definitely express himself against the Bill, and where he says quite clearly that the advantages are obvious, and takes the trouble to suggest amendments, I am entitled to conclude that he favours the Bill. I may say that I am referring to the present Chief Justice, Sir William Solomon. The Secretary for Justice was kind enough to send me an opinion on this matter from the Attorney-General of the Cape. It is a very interesting opinion, and probably a very correct opinion. It again deals with those difficulties which I have mentioned, and which the Chief Justice also mentions&#x2014;the difficulties which I have admitted all along, but which I submit cannot outweigh the obvious advantages of the Bill. Then I have received a letter from another eminent South African judge, a judge of very wide and very long experience. This is a personal letter, so I do not feel at liberty to mention the name of the writer, but I have shown the letter to the hon. member for Dundee (Sir Thomas Watt) and other members of this House.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Lay it on the table.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>It is a personal letter. In this communication the writer says that it appears to him that this Bill is being viewed in some quarters from the wrong angle, that we are not concerned with maintaining an antiquated procedure, but with the relief of our own citizens. The writer also states that the principle of the domicile of the husband has already been departed from, and that he does not believe that foreign courts will be called upon to express their views, dissenting or otherwise, once in a hundred years, or once in ten thousand cases, on what he regards as a bogey. By the time that the difficulty should arise our civilization would have altered so much that <span class="col_3067-3068" refersTo="page_0194"/>people would laugh at our fears. The writer adds&#x2014;</p>
+
+<block name="quote">We are not legislating for foreigners, but our own citizens. Go ahead, therefore, and good luck to you.</block>
+
+<p>Then comes a passage which makes me blush, but I must read it in the interests of the Bill, and I must read it carefully. He says&#x2014;</p>
+
+<block name="quote">I wish there were a few more lawyers in Parliament&#x2014;</block>
+
+<p>This is where I have to be so careful, because that is not what he means. I&#x2019;ll read it again&#x2014;</p>
+
+<block name="quote">I wish there were a few more lawyers in Parliament who have the courage to tackle well-known abuses, and who are not so wedded to precedent and antiquated rules that they have not the courage to break away from fossilized, unnatural and lifeless conceptions.</block>
+
+<p>I say that I blush, but I am not blushing for myself; I am blushing for every hon. member who votes against this Bill. Finally, I have a letter from the National Council of Women in South Africa to this effect&#x2014;</p>
+
+<block name="quote">At the monthly meeting of the Cape Town branch of the National Council of Women this morning the following resolution was passed: &#x201C;That this council gives its fullest support to the Matrimonial Causes Jurisdiction Bill now before the House. We trust this Bill will pass all readings and become law very shortly, as we feel from the many hard cases that have been brought to our notice from time to time that it will help to rectify a great injustice to women.&#x201D;</block>
+
+<p>To come back to what the judge calls a bogey&#x2014; that fear of what a foreign court may do in one out of these 10,000 possible cases&#x2014;if hon. members will look at the amendment they will see that there are several safeguards, as suggested by the Chief Justice. The first is that the plaintiff must have resided for at least three years in the Union immediately prior to bringing her action, so that there may be no abuse by a foreigner coming here for just a few months. Secondly, the whereabouts of the husband must be unknown, or if they are known, the court will only assume jurisdiction in cases where it is practically impossible for this woman to go to that country to institute her action, and the court itself has an absolute discretion in the matter. Lastly, if the legal adviser of this woman who gets the divorce advises her correctly, and says to her&#x2014;</p>
+
+<block name="quote">If you get married again, you must be careful to get married in the Union, and if you get married again you must be careful to get your husband to make a testament in your favour and in favour of your children.</block>
+
+<p>If that advice is carried out, then the small risk of any future difficulties vanishes, and we need not take any notice of it whatsoever.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I am sorry to make the hon. member blush, but I am one of those who intend opposing this Bill at every stage I possibly can. I feel that it would not be right to allow this Bill to pass without warning members of the very serious and far-reaching consequences not only to the person, but also to the property. I shall not dwell for the moment on the reason why the hon. member has included only two causes for divorce. There are many other causes, and why this proposed relief should only be granted to those who proceed on these two grounds of divorce I cannot understand. It is an unexplained peculiarity of the Bill difficult to appreciate. I should have thought that if the hon. member were really anxious to assist the women of South Africa in every way by giving them a better opportunity of getting their freedom, he would have included all the grounds for divorce. We propose here to give the court power to adjudicate in a case where neither party is strictly within the jurisdiction of the court. Hon. members must very carefully consider the consequences of such an action. The question of domicile is one which has puzzled practically every practising lawyer since the beginning of time. Gradually lawyers have come to the conclusion that they must try and bring the decisions into conformity as far as possible. They have accepted certain principles which are applicable right throughout the civilized world at present, and in this respect have adopted the rules &#x201C;mobilia sequuntur personam&#x201D; and &#x201C;lex loci rei sitae,&#x201D; and they have also agreed that where the laws of one country differ from the laws of another country, the laws of that other country should be recognized as far as practicable under what is technically known as the comity of nations. That is a principle held to by the lawyers of the whole world, and by legislation such as we are proposing to-day we are going to deprive our own nationals of coming under the benefit of that principle. We are going to give them rights in this country which will be recognized in no other country. I think that is a very serious position as far as our nationals are concerned, and we should be very careful before we break away and interpret domicile to suit our own little difficulties&#x2014;we should be careful that other countries will always accept our decisions here. Let me quote from an eminent writer, Judge Maasdorp. This is not directly concerned with the present jurisdiction of the court, but it is concerned with the question of domicile, which is so intimately bound up with the question of jurisdiction of our courts in matters of marriage and divorce, that we must consider the one when we consider the other. The learned author says&#x2014;</p>
+
+<block name="quote">With respect to the consequences of marriage, the law of the matrimonial domicile, that is of the domicile of the husband at the time of the marriage, which by the marriage becomes, as will appear later on, the domicile of the wife also, and which is the place where the contract will have to be carried out, will have to be followed, and any rights acquired by either of the spouses under such law cannot afterwards be altered <span class="col_3069-3070" refersTo="page_0195"/>or affected by any subsequent change of domicile to a country where a different law obtains, for otherwise it would always be in the power of the husband, who has the right of deciding on the place of domicile, to vary the wife&#x2019;s rights of property by a change of domicile for his own benefit.</block>
+
+<p>If there is more than one place of domicile, which law is to govern the position? We cannot choose between the two laws and say that in regard to divorce the law of South Africa, against the principles of international law, is to operate, and then expect that in regard to the property and all the benefits of the marriage, the law of the country where the marriage domicile is, shall operate. Not only our courts, but the courts elsewhere, will have to consider cases concerning our nationals, and if we depart from recognized rules, what assistance can our nationals expect from other countries? We are ignoring entirely what other parts of the world do in regard to these matters, and yet we expect them to do what is the correct thing. Surely that is very inconsistent. Maasdorp then goes on&#x2014;</p>
+
+<block name="quote">She also acquires the domicile of the husband at the time of the marriage, and will thereafter, by virtue of his personal guardianship over her, be obliged to follow him to any other domicile which he may subsequently take up, even though it may have been otherwise provided by ante-nuptial contract, the domicile of the husband being in law the domicile of the wife. In the trial of all questions, therefore, between a married woman and third parties, or between her and her husband, respecting rights and obligations resulting from the marriage, she will always be regarded as domiciled in the same place as her husband, though in reality she may be living elsewhere.</block>
+
+<p>Hon. members seem to ignore the fact that third parties are concerned in these matters, and that as between their rights and the benefits we attempt to confer, very serious consequences may result. I do not know who the eminent judge is who gave my hon. friend the opinion he read out, but I feel if we had an opportunity to study the opinion of the Chief Justice very carefully&#x2014;and I would much prefer to have had his opinion given through the Minister of Justice, for I believe that in that case we might have had perhaps a freer expression of opinion&#x2014;we shall find that in his opinion as stated he is very careful to use the word &#x201C;may,&#x201D; and whereas he condemned the principle of change, he said it &#x201C;may&#x201D; have a beneficial effect. I think we ought to consider that very carefully. The author goes on&#x2014;</p>
+
+<block name="quote">The only court which can decree any alteration in the relations between two married people is the court of the country in which they are bona fide domiciled at the time of the commencement of the action, and it will be the duty of such court, of its own motion and even though no exception to the jurisdiction has been taken by the defendant, to make inquiry into the question of jurisdiction, the mere consent of the parties in question involving their matrimonial status not entitling the court to a jurisdiction which it would not otherwise possess.</block>
+
+<p>[Time limit.]</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>I think the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) is hardly fair to my hon. friend the member for North-East Rand (Dr. H. Reitz). Last time the hon. member for Dundee (Sir Thomas Watt) raised the question, and properly raised it, as to whether we were right in legislating upon this matter until the opinion of the judges had been obtained. The hon. member knows that a private member has not the same access to the judges as the Minister of Justice, but the hon. member for North-East Rand has, through the Secretary for Justice, obtained this information to the best of his ability, and I think we are very much indebted to him for having done so. Nor do I think it helps the case to quote the existing law. We are all aware that under the existing law a wife cannot sue her husband here when he has changed his domicile. What argument has been adduced for not altering this law, except that of international practice, under which a wife has not the power to acquire any domicile apart from her husband? Are we for ever to condone a bad practice? This law dates from the time when a woman had no rights of her own, when she was regarded as a sort of appendage to her husband, a minor under his control. But women occupy a very different position to-day. The point is whether the time has not arrived to give a woman at any rate the same opportunity in matters of this kind as the man. We have all had within our experience cases of the wife who is abandoned by her husband in South Africa; he goes to some other part of the world; his whereabouts are unknown, and she is left here, with her children. Under international practice she would have no remedy at all. She may not know where he is, and therefore cannot sue him in any other country, but even if she does know where he is, she may not be able to afford the heavy expense for the case to be taken in the other country and her evidence taken on commission, or the expense of going over to the other country. Hon. members have raised the point that as at present international practice does not allow recognition of such circumstances, the proposed law might not be recognized in other countries. But what hon. members have not fairly recognized is this, that in England Parliament departed from the international principle of domicile, because the Act which they passed provided, with regard to the war marriages that took place in England, that the English courts were given jurisdiction, although the man was no longer domiciled in England. That was just as much a breach of the international law ruling to-day <span class="col_3071-3072" refersTo="page_0196"/>as it is suggested that this is going to be a breach of international practice. Still, the British Parliament passed that law, showing it is time that you should consider these matters on their merits. The hon. member has provided many safeguards. Under the amendment moved by him, the woman must have resided here for three years at least preceding the institution of her action. We want to give the court jurisdiction with regard to the woman. It is surrounded by safeguards such as were suggested by the Chief Justice. You may have a woman married in South Africa, South African born, who is abandoned here by a man who goes away and leaves his whereabouts unknown, leaving her here with her children to support, and there are no means whatever by which she could get a divorce. Under these circumstances, I submit if you are going to give fair and equal treatment to a woman, as you ought to do, I cannot see any reason for not passing this Bill. We have had a lot of discussion in the past as to the question of political rights for women, and there is a lot of difference of opinion in this House on that subject, but I should be very surprised to hear that there is any difference of opinion as to giving a woman the same protection in the courts of the country as you give a man. That is all this Bill does. To be told you are prevented by an antiquated law&#x2014;that time is past and gone by; women are entitled to-day to receive the same treatment, politically, in my opinion, civilly, and before the courts, as a man, and if you are going to continue this barbarous law, one law for the man and another for the woman, you are only showing that man-made law has inflicted special injustice upon women, and there is no wonder that they are rising up all over the world to try and get more power in political matters, so that they may be treated as fairly as a man. I certainly think this Bill ought to be passed. It is a fair Bill; it is surrounded by all safeguards, and it will operate in those very hard cases where at present the woman abandoned by her husband has no remedy to bring that state of affairs to a termination. The hon. member for Cape Town (Harbour) raised the question of property. This Bill does not affect the rights to immovable property. They could only be affected by process in aid and by the assistance of the court in the country where the property is situated. [Time limit.]</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>We have again to-day to do with a private Bill, and it is said that we here always oppose such Bills, but we feel that hon. members introduce a private Bill in each separate little case that crops up, and we cannot pass legislation to meet all cases.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I just want to point out that the principle has already been passed and the hon. member cannot discuss it.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>I move the following amendment&#x2014;</p>
+
+<block name="quote">In line 7, to omit &#x201C;reside&#x201D; and to substitute &#x201C;be domiciled&#x201D;.</block>
+
+<p>It means that a person can be sued where he is domiciled. But I must say that the House cannot permit legislation every time for every case.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>It is clear from that amendment that the hon. member does not understand the Bill, because the whole question is to give her domicile. If she is domiciled here, it means that her husband is domiciled here for she has no other domicile than that of her husband. If her husband is domiciled here then she does not need this Bill because then she can use here. This amendment is against the whole object of the Bill. I do hope that the three hon. members over there, for whom I have the greatest respect, are not going to worry in this matter.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I have great difficulty in following the hon. member for Cape Town (Hanover Street) (Mr. Alexander) when he says that this Bill does not affect property. It does affect property, and may affect it very seriously. Property will be treated under our law, whereas the person will come under an entirely different law. Surely that will lead to serious consequences. Brown in his &#x201C;Divorce and Matrimonial Causes&#x201D; on page 4 defines domicile as&#x2014;</p>
+
+<block name="quote">the home, the permanent home.</block>
+
+<p>That place is properly the domicile of a person, in which he has voluntarily fixed the habitation of himself and his family, not for a mere special and temporary purpose, but with a present intention of making it his permanent home until and unless something shall occur to induce him to adopt some other permanent home. There are two classes of domicile, that of origin and that given by law. The latter includes those to whom the law assigns the domicile of others on whom they depend; as for example the wife during marriage, the minor, etc. The husband&#x2019;s actual and the wife&#x2019;s legal domicile are <i>prima facie</i> one, wherever the wife may be personally resident. By marriage the wife&#x2019;s domicile always follows that of the husband; she cannot acquire a separate domicile for herself, and that is international law. If by this Act she acquires separate domicile no nation will recognize it. We had in this country a very important decision many years ago in the case of Blatchford v. Blatchford. This case, although reported in the Eastern District courts reports, was decided in the Supreme Court in Cape Town. Mr. Justice Bell quoted Voet with approval. Voet, 23, 2, 87, says&#x2014;</p>
+
+<block name="quote">If at the beginning of the marriage, according to the law of the domicile of the husband, universal communion of goods between the spouses was introduced, or, to take the other view, was excluded, and then, after a lapse of time, through alteration of mind, the spouses change their domicile to another place, as if they should go from Holland into Friesland, where opposite effects of marriage have force by law, and only the communion <span class="col_3073-3074" refersTo="page_0197"/>of acquisitions is introduced by marriage, that removal of itself alone cannot make any change upon the communion once introduced, but in the new domicile that will remain which was introduced, and that will continue excluded which from the first was excluded. For removal cannot work any change in the contracts made before marriage, so neither can it upon the communion of goods introduced by the tacit agreement of the spouses, as above declared. Moreover, change of residence is nowhere enumerated among the modes of dissolving or introducing partnership or other agreements. Were it otherwise, ante-nuptial agreements would depend on the uncertain event of removal of domicile. It cannot be in the power of the husband to change the marriage agreements without the consent and against the will of his wife, whilst he may, without her consent, change the domicile.</block>
+
+<p>Commenting on this passage, Mr. Justice Bell said&#x2014;</p>
+
+<block name="quote">But, in my opinion, the better doctrine, as it is the doctrine of the major part of foreign jurists, is, that the law of the domicile at the time of marriage should regulate the property rights of the spouses, into whatever new domicile they may have removed, in regard both to property acquired in that domicile, and to such property as may be acquired after a change from that domicile.</block>
+
+<p>And he went on as follows&#x2014;</p>
+
+<block name="quote">To hold that change of domicile made after marriage could make her rights as fluctuating and variable as might be his caprice in regard to the place of his abode in one country or another, or it may be many other countries, varying as much in their laws in regard to the rights of husband and wife as they may do in their climate and soil, and that, although the real, though perhaps not the expressed object of the removal may be to give the husband larger rights than he could have enjoyed in the country of their marriage, and although the new country and this peculiarity of its laws may have been wholly unknown to the woman prior to the marriage. This would work manifest injustice and hardship to the wife.</block>
+
+<p>The whole point here is in regard to the property, and no matter where she reside, it makes no difference as to her property. If you give the wife certain rights with regard to the dissolution of the marriage ties, and you do not also legislate with regard to property, very great hardships are going to work against her. To be free of her husband may be of minor importance, but you must consider her rights to property, and you must consider also the rights and the position of innocent off-spring. I will quote from a writer whose name I do not wish to mention, but whose book I show to the hon. member (Dr. Reitz), who discusses the rights of property, and, after considering the many diverse decisions in courts of law in many parts of the world and the many embarrassing consequences of tampering with the laws of domicile, says&#x2014;</p>
+
+<block name="quote">The unsettled state of the law is very embarrassing to a British subject who, it may be in perfectly good faith, marries in one of the colonies, where the marriage is lawful, only to find on his return to his domicile in England that his marriage is not recognized, because not legal by the law of England, that his children are, consequently, bastards by the law of England, and that, for the same reason, are debarred from the rights of succession in certain cases. It is, therefore, of equal consequence to see that one rule should be observed by all civilized countries, and that in this respect the rule of the majority of the civilized nations should be followed.</block>
+
+<p>It is clear from what this writer says that if we tamper with the laws recognized by all civilized countries we will find that our nationals will have to suffer when, under the rule of Comity of Nations, they may have to appeal for assistance in another country. I would suggest to the hon. member that before he presses this he considers all the consequences, and not merely the freedom of one spouse.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I will read another portion of the letter, which I originally omitted because I was not sure that I agreed with it. But since hearing the arguments of the hon. member for Cape Town (Harbour) I have come to the conclusion that the judge is right. He says&#x2014;</p>
+
+<block name="quote">Lawyers are the greatest enemies of legal progress and advancement.</block>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>On a point of order, Mr. Chairman, is an hon. member in order in quoting a letter in this House without laying it on the Table?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>Only a Minister may be compelled to lay a private letter on the Table; besides that, I am afraid the committee has no table.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>I wish to support the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl), who very strongly opposed this clause on very practical grounds. We have had sentimental appeals made by the hon. member for North East Rand (Dr. H. Reitz) and the hon. member for Cape Town (Hanover Street) (Mr. Alexander). It is because I want to see equal justice done to women and children that I oppose it strongly. When the hon. member spoke of hard cases which may be raised, and quoted the opinion of a judge whose name I do not know, what right has any person to say the case is one in ten thousand, or any number. I make bold to say that there will be as many cases of hardship after the Bill is introduced as under the existing law.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Give an example.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>I have given examples of what the hardships will be. The hon. member for <span class="col_3075-3076" refersTo="page_0198"/>Cape Town (Harbour) (Maj. G. B. van Zyl) has correctly said that the question is essentially one of domicile. According to the law, the domicile of a wife is that of her husband, and she cannot acquire domicile outside of him. I think I am right in saying that the general principle in international law is as I have said, and the next principle is that these courts have jurisdiction in whose area is the matrimonial domicile of the parties. I suppose the Minister of Justice will agree with me that on a subject like this there are two great authorities, Dicey and Wheaton, on international law. We have had appeals made on rather peculiar lines. We have been asked that we must not legislate for foreigners, but for our own citizens. In what way do our citizens get an opportunity under this Bill? How do they get any peculiar rights? People can come from abroad and get facilities&#x2014;</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>She must have been domiciled here before marriage.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>The other thing is that the desertion must have taken place here. People can get the advantage of this Bill who have never been domiciled here before, and when the desertion took place here. If the hon. member is not prepared to lay the letter from the judge on the Table, he should not have quoted from it. These so-called antiquated rules have the fullest force in countries like England. Under the Bill two persons who were never domiciled here come to South Africa. One of the parties deserts the other, and the court pronounces a decree of divorce; assuming that the lady remarries and her domicile was in England then the divorce she has obtained here under this Bill would be absolutely invalid in England. If she re-married the match would be a bigamous one, and any children of the marriage would be illegitimate. I agree with the hon. member for Harbour (Maj. G. B. van Zyl) that, if the opinion of judges on the Bill had been obtained, it should have been done officially from the whole bench of judges, and that the opinion should not be communicated to us in piecemeal fashion. Occasionally we hear very disparaging remarks regarding a very honourable and deserving class of men known as lawyers. If anybody wants to provide a living for a good many lawyers, they will probably do it by passing this very measure, for there will be many legal conflicts arising as to the marital condition of the husband and wife, and the position of the children and property. Knowing that the marriage laws have the strongest force in England and elsewhere, it is no use running our heads against a brick wall, and isolating ourselves and saying that we will ignore what the rest of the civilized world does. You cannot dismiss things by calling them antiquated rules, for they are founded on extreme practical common sense. If we do ignore them we shall bring a good deal of profit to the lawyers, but also a great deal of misery and unhappiness to many people who would come here to take advantage of easy divorce, and who would live to rue the consequences.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The hon. member for Rondebosch (Mr. Close) has called upon me to express my opinion. Well, I am quite against this clause unless the word &#x201C;domicile&#x201D; is inserted. The whole civilized world bases its divorce on domicile, and it would be very wrong for any portion of the civilized world to base its divorce laws on something else. If we can get the rest of the world to accept the view that residence is sufficient justification, then we are right in substituting &#x201C;residence&#x201D; for &#x201C;domicile.&#x201D; It is perfectly correct that if a person resident in South Africa obtained a divorce here, that divorce would not be recognized elsewhere, and we cannot say what the effects would be on the property and children of the parties concerned. I do not know whether an ordinary man who is not a lawyer would look with equanimity on the fact that under the Bill we should have a good deal of litigation. I dare say the hon. member who introduced the Bill and myself, as lawyers, would welcome the passing of the clause. I agree that we lawyers are a very deserving class, but the majority of the people of the country think we can never obtain our deserts. The effect of the amendment would be very largely to bring back the position to what it is to-day, but it would make it more difficult to obtain divorce. It is within the rules of the House to move the amendment. The domicile of the wife follows that of the husband, and that is the only condition in which people can say that there is no equality of treatment between man and woman. I suppose, however, there is biblical authority for that. There must be some head of the household, although we feel that our authority is becoming less and less. I am certain, as far as the Free State members are concerned, that none of them is going to try to make divorce easier than it is to-day. Just think of the effect that would have on &#x201C;De Kerkbode,&#x201D; and what effect that would have on them. The members for the Free State are very susceptible to the influence the church brings to bear upon them. It is perfectly right that the domicile of the wife should follow that of her husband. If the Bill passes, we shall allow foreigners in South Africa to obtain a divorce here. Supposing a woman of South African nationality marries a national of Holland, then she acquires the nationality of Holland, and we would allow this Dutch subject to sue in our courts a man who has never been domiciled in South Africa.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>It may be for her good to get rid of him.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>But she should never have taken him. If a woman marries a man, she takes him with all the servitudes upon him, and she should not try to shake off that burden so easily. The House has already defeated the proposal to allow insanity as a ground for divorce, but it is less of a burden to be married to a Hollander than to an insane person. The hon. member for Pretoria District (North) (Mr. Oost) will <span class="col_3077-3078" refersTo="page_0199"/>agree with me. This Bill does allow one some scope for humour. To be serious, however, if we pass the measure, we should be flying counter to the whole opinion of the civilized world. Divorce granted on the strength of residence in India is effective in England only if the decree is registered in England. Therefore, unless we had an imperial statute, a decree of divorce granted under this Bill would have no validity in England. The only way to deal with the matter, if it is felt that &#x201C;residence&#x201D; should be substituted for &#x201C;domicile,&#x201D; is to try and obtain legislation of the same nature throughout the different parts of the British empire. Remarriages of persons divorced under this Bill would not be recognized in other parts of the empire. If we are going to run counter to opinion in other countries of the civilized world, we shall be undertaking a very serious responsibility. I like to see South Africa taking as much hay on its fork as it can, but I am afraid that in this case we are being asked to take too much.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I desire to point out to the hon. member for Witbank (Mr. A. I. E. de Villiers) that I cannot put his amendment to the committee, as it is not only in conflict with the principle of the Bill, but is inconsistent with the contents of the Bill.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>I should very much like to come to the rescue of the ladies if I really thought we should be doing any good, but this Bill will not help them in the least. This amendment will fritter away any possibility of their getting a divorce under the Bill. I hope the remarks which have fallen away from the Minister of Justice and the hon. member for Rondebosch (Mr. Close) will be carefully printed, so that the ladies may appreciate the position. I refer to sub-section (b) of the amendment proposed by the hon. member, which reads&#x2014;</p>
+
+<block name="quote">Provided further no such order or decree shall be granted unless the whereabouts of the defendant are unknown.</block>
+
+<p>What is the position if the whereabouts of the defendant are known?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Then you read (c).</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>Oh, no. They are all &#x201C;ands&#x201D; and not &#x201C;ors.&#x201D; There are no alternatives. I agree with the anxiety of the hon. member, because I always sympathize with a private member who fathers a Bill, remembering that I brought forward a Bill to do away with trial by jury in criminal cases, and I realize we must carefully go into all the pros and cons. The result of this will be that perhaps no woman will get a divorce in this country, and there is a danger of putting the position of women in a worse state than it is to-day. In view of the difficulties, I feel constrained to oppose this Bill.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I cannot understand how the hon. member insists on the &#x201C;or&#x201D; being &#x201C;and,&#x201D; because it is an absolute absurdity. Why should I put it &#x201C;and&#x201D; when the parliamentary draughtsman has put in &#x201C;or&#x201D;?</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>What was the original intention?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>&#x201C;Or&#x201D; always has been &#x201C;or,&#x201D; and always will be &#x201C;or.&#x201D;</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>But it is connected with paragraph (a) by &#x201C;and.&#x201D;</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I went to see the parliamentary draughtsman about it and he was satisfied. I want to put the following example before the Minister of Justice. If a South African man, during the war, married a woman in England and deserted her, and came back to South Africa then under the new law of 1919 she could sue for divorce, although her husband was domiciled in South Africa and she could contract a second marriage. The Minister of Justice could prosecute the man in South Africa, if he contracted a second marriage here, and charge him with bigamy. I want to ask the Minister whether in such a case he would actually prosecute, and, if he is afraid to take that step, why should he assume that any other Minister of Justice should do so?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>When this Bill was up for the second reading, it passed by a tremendous majority, 52 votes against 18, and the majority included the hon. member for Witbank (Mr. A. I. E. de Villiers), who now speaks against the Bill. It is difficult to understand the curious somersault the House has taken since the second reading, and especially the position of the three musketeers.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>This is a few weeks later, and we are wiser.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>A good many hide-bound precedents have been quoted, but, after all, weave dealing with flesh and blood, and I would like to put before the House a concrete case. I know a South African girl who married an official in one of the protectorates up north. He ranked as an imperial official, and accordingly his domicile was England. This South African girl was deserted by her husband, and she does not know where he is. She cannot sue him in Kenya, and she cannot sue him in England, because there she has no cause for divorce, and, further, she cannot sue him here She is neither wife, maid nor widow, but she has a child she must support. She is a qualified teacher, and cannot get employment because she is married. Her husband has disappeared into the void, and nowhere can this South African woman find remedy.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>Are we now to pass a law for that one case?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>The test is whether this law is fundamentally sound, and whether we shall do justice by passing it; whether by this law we are protecting women in this country. I have given you a concrete case where a South African woman is left without help or remedy, and with a hopeless future staring <span class="col_3079-3080" refersTo="page_0200"/>her in the face, and this Bill is designed to remedy that. We have had a good many arguments given this afternoon, but a concrete flesh and blood case is worth any amount of academic argument. The hon. member for North-East Rand (Dr. H. Reitz) has similar cases of South African women left with a hopeless future, owing to the tangle of the divorce laws of other countries. We are a young country, and we need not be tied up by these laws about domicile. The test should be whether we are going to do substantial justice to the women of this country, and I hope hon. members across the way will throw their minds back to the 25th of March last, when they voted en bloc for this Bill. They have given no reason for changing their views. There may be certain technical academic difficulties, and I hope the House will recognize that there are hard cases in the country, and will remedy them by passing this Bill.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>I also should like to help such a lady as was referred to by the hon. member for Port Elizabeth (Central) (Col. D. Reitz), but I do not feel that I can support the Bill.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>You voted for it on the second reading.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>I do not know. I think the hon. member makes a mistake.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>The division list mentioned Jan Dirk Heyns.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>Then my eyes are opened. I am not in favour of young advocates introducing private Bills into the House every day. It seems to me that we shall cause hopeless confusion if we are going to pass a law for one person. I am sorry for the lady who has got into trouble, but as the Minister of Justice said, the churches are bitterly opposed to making divorce any easier than it is to-day. This is already a step in that direction. What complications we are going to bring about if a woman can get a divorce in South Africa, but, subsequently when she arrives in Holland, Belgium or Germany with her second husband, her first husband can come and she then again becomes his wife. We cannot permit legislation to go through the House which will not be recognized in other countries. Some of our people are accustomed to travel in Europe, and if the first husband were to come and claim his wife&#x2014;</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Col. <person refersTo="hansard_za">D. REITZ</person>:</from>
+
+<p>Is that probable?</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>It may happen, and we, therefore, ought not to pass such legislation. If the Minister of Justice is opposed to it, then we members from the countryside who know little of these technical points are justified in opposing it.</p>
+
+</speech>
+
+<speech by="#roux">
+
+<from>*Mr. <person refersTo="hansard_za">ROUX</person>:</from>
+
+<p>Even Homer can nod.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>I am sorry for the wife referred to, but, on the other hand, it will be a good thing&#x2014;if there is to be a sacrifice&#x2014;for the ladies of the country who can simply marry anyone coming from elsewhere, and, after he has lived with her for a few months, might go away again. There is another point. We must not encourage South African girls to marry foreigners who are not domiciled here, and who cannot be depended upon to remain in the country.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>I would like to tell my hon. friend in the corner that I did not actually quote Dicey; I referred the House to Dicey, but I quoted Wheaton. The English Act was passed for special purposes to relieve a large number of difficulties which had been created in a time of great upheaval and an abnormal period. There was a great state of popular excitement which led to many marriages which were undesirable in themselves and led to a lot of personal trouble. The result was that Bill was passed in England to deal with the special circumstances of that particular period, a period when marriages were entered into under abnormal conditions. If these arguments are sound it is remarkable the British House, in altering the law, did not extend the operation to a greater degree than it did. It limited them to a particular set of circumstances, and no others, and so we hear of the hard cases. I beg the House to remember the old principle that you get the very worst legislation when you go out to establish legislation to deal with hard cases. When you alter a well-established principle, a principle not adhered to merely because it is old, but because it is good, when you alter it merely on the ground of the necessity of meeting hard cases, you are merely looking for trouble, and you invariably get it.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Lt.-Col. <person refersTo="hansard_za">N. J. PRETORIUS</person>:</from>
+
+<p>I feel that we are dealing with a matter here which may get us into the very greatest trouble. The hon. member for North East Rand (Dr. H. Reitz) has not shown that the Bill is necessary. He has not mentioned a single case in which a wife was unhappy and could not get rid of the husband who has deserted her.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I have.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Lt.-Col. <person refersTo="hansard_za">N. J. PRETORIUS</person>:</from>
+
+<p>Probably during the second reading debate, when I was not in the House. But the hard cases are possibly one in a thousand, and now we are asked to do away with the old principles to meet such hard cases. When the Bill quoted came before the English Parliament I read in the newspapers, and it is clear, that the question was quite a different one. It was not to alter marriage laws and to make it easier to obtain a divorce, but there were many cases in England where marriages had been entered into and the husbands had entirely disappeared in Australia, America, etc., and the wife did not know where her husband was. Provision was accordingly made for that. But how often does it occur here that a husband disappears and the wife does not know where he is? He can quite easily be traced, and I hope the House will have nothing to do with such dangerous novelties.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from><span class="col_3081-3082" refersTo="page_0201"/>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>We see again to-day that the late Chief Justice was very right when he said that so many attorneys had been admitted that attorneys were now being created to make cases. Here we have a capable advocate whom we can respect, and&#x2014;I hope it is not his object &#x2014;it seems to me as if he wants to give as much opportunity as possible for divorce, and wants us to be an exception in the world and to break international law and custom. It was once the case in Scotland that when anyone went there and gave a woman his hand he was married, and people came there from other places and just when they were over the border they could marry, and in this way they got over the obstacles in their way. Now we are going to convert South Africa into a land of divorce for people who will come here to get it. I heard the other day that in the United States a man could go from one state to the other and could marry and divorce his wife and marry and divorce again, up to 36 times. We don&#x2019;t want to make divorce into a game of that sort. We know what the South African people think about divorce, and we might expect such a proposal from a stranger, but not from a son of the soil. He should maintain the honour of the country. The hon. member in his other Bill the other day tried, it seemed to me by sharp practice, to obtain something, but I hope that he will not succeed to get this Bill on to the statute book. That would be a disgrace. The hon. member for Port Elizabeth (Central) (Col. D. Reitz) spoke about hard cases, but I want to point out to him with regard to the English legislation that in the war-time certain girls made a business of marrying lieutenants in order to get a war pension. The hon. member did not mention any hard cases. When a woman marries a man it is always a great venture. A woman takes him with all his sins and miseries, just as he takes her, but we must not create the tendency to turn marriage into an experiment. I hope the Bill will not be passed.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>The hon. member for Port Elizabeth (Central) (Col. D. Reitz) referred to the fact that certain people voted for this Bill at its second reading, and are now seeming to adopt a different opinion. In the interests of the House I consider that it is unfortunate, not alone on this occasion, but on many other occasions when important questions of this character affecting the vital family life of the people of this country are under discussion, you should have such empty benches to listen to the speeches that have been made. I am perfectly certain that most of the people who voted for the second reading of this Bill, if they had heard the speeches of the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) and the hon. member for Rondebosch (Mr. Close), and the statement that has been made by the Minister of Justice, who should certainly lead opinion in this House on questions of this character, would form an entirely different opinion. I only fear that when a vote is taken upon this clause members may be inclined to vote who have voted for the second reading, and who have not had an opportunity of hearing this discussion. I hold very strongly that Bills of this character, which certainly, no matter what views hon. members may hold, have an important bearing on the family life of the people of this country, should be introduced by a responsible Minister who will have an opportunity of getting all the information, and if he were desirous of consulting the judges, the Minister of Justice would have had an opportunity of obtaining the combined opinion of the members of the Bench. It seems to me that we are trifling with a most serious question when private members introduce Bills of this nature, and they try to influence the House by reading portions of letters which the committee has got no opportunity of analyzing. If the Minister of Justice, on behalf of the Government, had introduced a Bill of this character, then we would have had an official statement which would have carried great weight in this House. I am one of those who hold very strongly that when you are dealing with the matrimonial matters of this country you should be more than ordinarily careful, and hon. members, before casting their votes, should have an opportunity of hearing the whole of the arguments adduced by both sides of the House. Under these circumstances, I move&#x2014;</p>
+
+<block name="quote">That the Chairman report progress,</block>
+
+</speech>
+
+<p>Upon which the Committee divided:</p>
+
+<p>Ayes&#x2014;41.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Close, R. W.</p>
+
+<p>Coulter, C. W. A.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Macintosh, W.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Moffat, L.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Raubenheimer, I. v. W.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Rockey, W.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Steyn, C. F.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Tellers: Nathan, E.; Robinson, C. P.</p>
+
+<p>Noes&#x2014;36.</p>
+
+<p>Allen, J.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Chaplin, F. D. P.</p>
+
+<p>Christie, J.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hugo, D.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Malan, M. L</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Pearce, C.</p>
+
+<p>Pienaar, J. J.</p>
+
+<p><span class="col_3083-3084" refersTo="page_0202"/>Reitz, D.</p>
+
+<p>Reitz, H.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terieblanche, P. J.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Tellers: Alexander, M.; Vermooten, O. S.</p>
+
+<p>Motion accordingly agreed to.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported</p>
+
+</debateSection>
+
+<debateSection name="#chartered_accountants_designation_(private)_bill">
+
+<heading>CHARTERED ACCOUNTANTS DESIGNATION (PRIVATE) BILL.</heading>
+
+<p>Second Order read: House to go into committee tee on the Chartered Accountants Designation (Private) Bill.</p>
+
+<p>House in Committee:</p>
+
+<p>On Clause 1,</p>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>When the matter was last before the House I pointed out the difficulty we had with regard to this particular Bill, in that we were not allowed to amend it by incorporating the agreement arrived at by the parties or amending the agreement. This compromise arrived at involves the admission of a certain number of people. But there is at present an ordinance in existence in the Transvaal and an Act in Natal which govern the conditions under which people can be admitted as members of the society, and this Bill does not purport to alter those laws. What is to happen, supposing an attempt is made to give effect to this agreement, and any person goes to court and objects to these people being admitted. It may be held that as these laws of the Transvaal and of Natal cannot be complied with, and have not been amended, the whole of the agreement will fall away. Has legal advice been taken as to what the position under this agreement will be? It only shows what I said the last time &#x2014;the unsatisfactory position in which members find themselves. They are asked to agree to a Bill because of a certain private agreement, and we cannot move that agreement into this Bill. There are a large number of men who do not come under that agreement, such as public servants, municipal employees, accountants who have been practising in public for less than five years and persons who have not given their evidence in the select committee. Under these circumstances, it seems to me that this Bill should not be proceeded with further, but provision ought to be made to provide a basis for all those who have been practising, as was done in the Transvaal in 1904 and in Natal in 1909.</p>
+
+</speech>
+
+<speech by="#oost">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">OOST</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">To omit &#x201C;getjaarterde&#x201D; (chartered) and to substitute &#x201C;geoktrooieerde&#x201D; wherever it occurs in the Bill and also in the title.</block>
+
+<p>It is a small change, but it is really of some value because the word &#x201C;getjaarterde&#x201D; is merely an Anglicism which does not live in Afrikaans at all. The word &#x201C;geoktrooieerde&#x201D; on the other hand is actually a word which has lived in our language since the time that South Africa has existed as a civilized country. If it were not for the fact that the East India Company had obtained a charter from the Netherlands Government then this settlement of white people would not have taken place here, because the company would not have had the power and opportunity to do so. The word &#x201C;geoktrooieerde&#x201D; exactly gives the meaning of the English word &#x201C;chartered.&#x201D; I had an opportunity last year of complaining about the way in which Afrikaans translations are done in our legislation, I believe that the chief error is due to Bills not being originally drafted in Afrikaans; Bills are all drafted in (English and then translated, and we find this even in the case of this Bill, which is introduced by the hon. member for Ladybrand (Mr. Swart). One could surely have expected something different.</p>
+
+</speech>
+
+<speech by="#swart">
+
+<from>*Mr. <person refersTo="hansard_za">SWART</person>:</from>
+
+<p>I did not draft it; and I was not a member of the select committee.</p>
+
+</speech>
+
+<speech by="#oost">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">OOST</person>:</from>
+
+<p>I apologize then. I want to ask the attention of the House that we should now and then have Bills drafted in Afrikaans instead of our having merely translated Bills. One of the consequences of translation is that such a good word as &#x201C;geoktrooieerde&#x201D; is overlooked, and that the English word with an appropriate alteration is used in the Afrikaans text. The words &#x201C;tjaarter&#x201D; and &#x201C;getjaarterde&#x201D; are not in the list of words of the South African Academy, but the word &#x201C;oktrooi&#x201D; is.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>I quite agree with the last speaker. We all say &#x201C;South Africa first,&#x201D; but I cannot see why we should accept a title which comes from overseas. We are here to build up South Africa on its own feet, and we must have titles which occur in our own language. We only know one &#x201C;charter&#x201D; in South Africa and that is the Chartered Company of Rhodesia, and as we are out to build our language on a sound foundation we must not take over foreign names. I now come to another point. There are four societies that had the Bill drafted. There is, however, also a fifth, viz., the South African Institute of Accountants, but that has been excluded. The members thereof must now go on their knees to ask permission from the societies to be included, and it is still a question whether they will be included. One of the four societies has 800 members, but has only 35 qualified members. The members of the fifth association that I referred to are just as well qualified as the members of the four societies. Have we come together here to make a law for merely one section? This is another instance of an out reaching policy. When such a Bill is introduced the House must make it clearly known that it must be <span class="col_3085-3086" refersTo="page_0203"/>withdrawn so that all who are concerned in the profession can meet together to draft a Bill. Then the House will be prepared to pass it. In this case, however, only the four societies had the Bill drawn and the fifth was left out. The fifth society asked to be allowed to give evidence before the select committee but the rules unfortunately did not allow it because application was not made in time. The result of the Bill is that one section of the profession is excluded, and it is ten to one that the members of the South African Institute of Accountants who are just as capable as the members of the other societies will never be included. The House must carefully consider the Bill before passing it. There is an accountant in Cape Town who worked for two years with an insurance company, and subsequently went into another business, but he tells me that he is excluded under the Bill. There is another person at Boksburg who now has a large business having eight or ten clerks in his employ, and he is excluded. It is not fair that capable people who have just as much right to practice as others should be excluded. Why cannot the fifth society also be included?</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>*Mr. <person refersTo="hansard_za">KRIGE</person>:</from>
+
+<p>When was it established?</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>Long ago. The society is in order and consists of competent accountants. The House must look after the interests of all sections of the population and not merely protect one section. The effect of the Bill will be that people who have for years earned their living in the profession will be put on the streets and that their wives and children will suffer. I hope the Bill will be postponed for a year so that all the accountants can have a chance to come to an agreement and to draft a Bill.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>The member who has just sat down says the word &#x201C;chartered&#x201D; is a foreign word, and my hon. friend says it has never been known in the country. Let me tell him that from time to time the Government have chartered vessels, and the agreement has been known as a chartered agreement. I want him to know that we can leave it there. Let me say to my hon. friend the member for Hanover Street (Mr. Alexander) supposing there are men who act as secretaries and assistants to eminent lawyers in Great Britain whose knowledge and experience make them acquainted with everything connected with the profession. Supposing a Bill was brought forward to admit these men as barristers, would my hon. friend then wear sackcloth and ashes or would be get up in the House singing, &#x201C;Admit them all.&#x201D; I know three or four men who are as well acquainted with their work as their principals. My hon. friends says we have no guarantee that these men will be admitted by the Natal and Transvaal societies. Has my hon. friend read the agreement brought forward by the hon. member for Liesbeek (Mr. Pearce), in which these societies have given their word of honour? I think the hon. member for Liesbeek is to be congratulated on getting that agreement. My hon. friend says there are many men under five years&#x2019; experience, who are capable. Are you going to admit them against men who are trained? Members are admitted by a majority vote, and you can depend upon it both Natal and the Transvaal would be quick enough to ratify the arrangement. This is only a designation and gives to the Sons of South Africa the same hallmark as is given all over the country. The word &#x201C;chartered applies to engineers and to architects, and when you get the word &#x201C;chartered&#x201D; in front of a title it is a designation which means not that he is a better man, but that he has had training and carries the hallmark. Why should your sons and my sons, who have had equal training and have passed equal examinations, and have done everything that should put them in the first flight, why should they go forward without the designation of chartered accountants? They should be given an equal standing.</p>
+
+</speech>
+
+<speech by="#rood">
+
+<from>*Mr. <person refersTo="hansard_za">ROOD</person>:</from>
+
+<p>Let me say at the beginning that I do not think the hon. member for Ladybrand (Mr. Swart) or anybody will object to the amendment of the hon. member for Pretoria (North) (Mr. Oost) to alter the name, but I do not think that because a outlandish name appears in the Bill that is any reason to wreck the whole Bill, because the amendment will be passed. I want to appeal to hon. members not to wreck this Bill, because the amendment will be passed. They should kindly remember what it actually means. We in the country very often talk about what is to become of our sons. We have our sons educated and after they have completed their studies we do not want any obstacle to be put in their way, but that with their qualifications they shall be able to compete with the best people front overseas. What do the promotion societies actually fear? The people who are qualified will easily be able to obtain the title of chartered accountant and to use it. What the hon. member for Fordsburg (Mr. J. S. F. Pretorius) said to the effect that certain persons had&#x2019; not had the opportunity of giving evidence is not correct. It was an opposed private Bill, and any association, or any person had sufficient time to give evidence. Even when the select committee was sitting they were still prepared to take evidence, but Mr. Speaker ruled it out of order to take evidence from these people at that stage. But they had sufficient opportunity during the whole year since the time when the Bill was before the House last year, and it is not a new thing which is suddenly sprung upon them. I want to appeal to the hon. members. We have the four societies here who have for years tried to protect the sons of South Africa (and in this term I include a man born here as well as the man who came to live here and adopted this as his country intending to remain here, whose son has the same right to call himself a son of <span class="col_3087-3088" refersTo="page_0204"/>South Africa). They want the sons of South Africa when they have their qualifications to be able to practise here under the title of chartered accountant. Because what is the position to-day? The four promoting societies have conceded as much as they possibly could to meet the people remaining outside. An agreement was entered into, and neither the hon. member for Cape Town (Hanover Street) (Mr. Alexander) nor anyone else has the right to throw doubt on their word. They are bona fide people and people of a kind that does not go back on its word, and they have adopted something which I also pleaded for in the select committee, viz., the simple principle that there shall practically be a court of appeal for any man that thinks he has been wrongly excluded. If the other members of the London society and the South African association are also so amazingly competent they need not be afraid. The more competent they are the easier they will obtain admission to practise as chartered accountants, and if they are not members they will have the opportunity within six months after the passing of the Bill to make application, and if they are not admitted then they will have a further opportunity of proving their capacity to the court of appeal, and their right to make a claim to that title in South Africa. What more can be expected? I am a farmer and not a professional man, but I have sons and I want them when they have studied and qualified for a profession to have a degree of such a nature that no one shall be able to disregard it, and if they become an attorney then I do not want them to be of the class that no one takes any notice of. People are constantly speaking about the sons of South Africa. This Bill will just give them an opportunity of competing with the chartered accountants imported from overseas. The whole trouble is that the large business places give the preference to a man who has the title of chartered accountant. The title is a &#x201C;hallmark,&#x201D; and the people of Europe enjoy the preference, and the sons of South Africa have no chance at all. That is just why we want to give the title to those who are entitled to it.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>Why did not the Government introduce the Bill?</p>
+
+</speech>
+
+<speech by="#rood">
+
+<from>*Mr. <person refersTo="hansard_za">ROOD</person>:</from>
+
+<p>That is petty. It surely does not make it less reasonable because a private member has introduced it. Thus anything introduced by the Government would be reasonable, but if introduced by a private member it would be unreasonable. The Government is not opposed to it. Is the Minister of Finance opposed to it? No, most of the Ministers are in favour of it. One can take it that the members of the Cabinet have put their imprimatur on the Bill. I am also a resident in the country and proud of it, and it is just meant for the son of the countryside so that he can get the title and can compete with the overseas man and with the South Africans who obtain their certificates overseas and practise here. An agreement has been entered into and a court of appeal is established to consider special cases, and surely it cannot really be said that the four accountants&#x2019; societies will go back on their word.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>Of course, it may occur.</p>
+
+</speech>
+
+<speech by="#rood">
+
+<from>*Mr. <person refersTo="hansard_za">ROOD</person>:</from>
+
+<p>No, they will not do so, and if they did I would give my support next year to a Bill to alter the position.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I must say that I am astonished that hon. members who claim to be plattelanders should oppose a Bill of this kind, because this measure is entirely in favour of young South Africans. Do hon. members there know that if they put their sons into a profession such as the accountancy profession they could not get to the highest ranks unless they went to England to be trained, whereas, if this Bill passes, they can be trained here in South Africa? This Bill is to give them an opportunity to be trained in South Africa, and to get to the highest rank in the profession, that is, what is known as a chartered accountant. Hon. members agitate in this House to find openings for their sons, and rightly so, too. This is going to give them a better opportunity than they have ever had in South Africa before to reach the highest rank in the accountants&#x2019; profession in this country, so that they may compete with any men who come from overseas&#x2014;England, America, or anywhere else&#x2014;because they will be just as good as those men, and they can get this title of chartered accountant, which is a generic name. They can thus hold their own against any man who comes from overseas. Take one or two objections that have been raised. Take the objection of the hon. member for Gardens (Mr. Coulter). He said that the ordinance of the Transvaal and also of Natal would require to be altered in order to admit those applicants to their society who are not in at the present time and who are promised to be brought in under the agreement made some little time since. That agreement is that men of good character who have had ten years&#x2019; practical experience in accountancy work should come in and join the society.</p>
+
+</speech>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>That is just the trouble.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>If they have had five years&#x2019; experience, they have got to satisfy a board that they have a knowledge of accountancy and finance. It would, therefore, be easy for men who have had experience of accountancy work to satisfy the board, and then be admitted as a member of the society. Now a question has been raised that this agreement is not put into the Bill. Well, these are honourable men. I agree with what has been said by the hon. member for Three Rivers (Mr. D. M. Brown) and also by the hon. member for Barberton (Mr. Rood). You have 800 members of this society to-day. Can hon. members conceive for one minute that that society which has pledged itself to abide by the agreement is going to go back upon its word? It is not possible to conceive that for one moment, and <span class="col_3089-3090" refersTo="page_0205"/>I hope hon. members will dismiss it from their minds. After the Bill is passed there is not the remotest shadow of doubt that this agreement entered into will be faithfully carried out. There is another point I want to bring out. The hon. member for Fordsburg (Mr. J. S. F. Pretorius) said they ought to bring in the members of the South African Institute. Does my hon. friend know how long it has been in existence? Not 12 months, my information is.</p>
+
+</speech>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>When was the Cape Society formed?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>In 1907, but this society has not been established 12 months, and yet my hon. friend wants to put it on the same footing as the old established societies. It is not fair or reasonable, and I say it is quite right not to accept them. There is a door left open to them, if they like to take advantage of it. If they practise 10 years as practising accountants, and are of good character, they can be admitted, and I have no doubt will be admitted; or if, after five years, they pass a very small examination, they can also be admitted. The door is not bolted and barred against them. For the information of the hon. members there from the platteland, I want to point out that there is no right taken away by this Bill from any living man. If the Bill goes through, a man can take a room and put up his name and say he is a public accountant. This Bill does not stop him. He will have the same right after this Bill is passed as he has now. This Bill, as has been pointed out by the hon. member for Three Rivers (Mr. D. M. Brown), is purely a designation Bill. A man cannot put up his name as that of a chartered accountant; he cannot do it now. It is a very curious thing that the term &#x201C;chartered accountant&#x201D; has come to mean, among English-speaking people at any rate, a man who is a fully-qualified accountant. It is taken ultimately to mean that such a man has passed his examinations, and has been thoroughly trained for the work. The term &#x201C;certified accountant&#x201D; does not carry the same weight, unfortunately, as the designation &#x201C;chartered accountant&#x201D; does in England. This Bill is to allow these men who are qualified and who are members of these societies to call themselves &#x201C;chartered accountants.&#x201D; It does not prevent any man, after the Bill is passed, from going out immediately and starting as an accountant; it only says that he may not call himself a chartered accountant. This Bill is entirely in the interests of young South Africans. If a youth decides to be an accountant, and if he is trained in South Africa with a highly-qualified firm&#x2014;and we have some as well qualified as any in Great Britain&#x2014;the best that is open to him in the Cape is to call himself a &#x201C;certified accountant.&#x201D; If we pass this Bill and allow qualified firms to call themselves &#x201C;chartered accountants,&#x201D; then this youngster can take his training there, and also calls himself a chartered accountant after he has passed his examinations, whereas, as things are now, he would have to go into the office of a chartered accountant in London. That is the only place where a young South African can obtain the title of &#x201C;chartered accountant.&#x201D; It is not fair or right to send him overseas, but to get this title a youngster must go overseas to get the training. He cannot get it in South Africa, and that is a very grave injustice. [Time limit.]</p>
+
+</speech>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>I would like to enlist the hon. member for Cape Town (Central) (Mr. Jagger) on behalf of one section of young South Africans to whom the Bill would do considerable damage. When a similar Bill was before the House last year, there were objections from three classes. There was the ordinary bookkeeper, who called himself an accountant, and who did not like to see the professional accountant get a qualification which he could not get. For that man I have no sympathy whatever. Then there was the man who was a thoroughly qualified accountant, but who was working for a private firm, and who, under the last Bill, could not practise for himself. Then there was a third class, the public servants and the municipal servants, who were practical accountants, and who last year were treated with a certain amount of consideration. The first class was treated with no consideration last year, but this year an agreement has been made, an agreement which, in my opinion, is remarkably generous to that man. I think the societies have met that man in a remarkably generous manner, in fact in a way which I personally think is over-generous. But compare the treatment meted out to him with that meted out to some of our highest public service officials. Last year it was agreed that public servants who had served in one of the higher grades of the public service could, after 18 months&#x2019; training, become members of these societies. He could pass his examination, and when he left the service he could serve 18 months, and could then practise as a public accountant. To-day, under this Bill he cannot practise as a chartered accountant at all; he cannot sit for examinations. Some of the men in the public service are better accountants than 90 per cent. of the men practising as public accountants. This designation of &#x201C;chartered accountant&#x201D; is going to be given to inferior men. I am not concerned with the man who is leaving the service on pension, and who wants to compete with professional accountants. When the plums in the municipal service are ready to fall, the municipalities become obsessed by the idea of insisting upon having men who are chartered accountants. In the public service to-day a man can qualify as an architect or as an advocate, but not as an accountant, and I would like to ask the hon. member why not? If the rules of the society were such that they could be admitted, even if they were not allowed to practise, I would not mind it, but I do object to a barrier being placed against them. We are to-day bringing more and more young South Africans into the service, <span class="col_3091-3092" refersTo="page_0206"/>and every one of these is to be debarred from qualifying as an accountant. He has no status as an accountant if he goes overseas, because he has not the hall-mark.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I would like to deal with one or two points which have been taken up, and I fear hon. members are suffering under a misapprehension. One hon. member mentioned that certain bodies and individuals had been prevented from giving evidence before the select committee, but it was impossible for these societies to prevent anybody from giving such evidence, so long as they carried out the rules of the House. Many hon. members did not recognize that under the arrangement made by the hon. member for Liesbeek (Mr. Pearce) and the societies, the societies have given the right of entry to practically every deserving case. I should like to remind the House of the agreement. They agree to allow any persons to join the Cape Society who fulfil the following conditions: Firstly, persons of good character&#x2014;and I suppose even the hon. member for Umbilo (Mr. Reyburn) does not mind that condition; secondly, that they are in practice as professional accountants; and thirdly, that they have been practising continuously for ten years, or if it is less than ten years and more than five, they will have to pass some form of test and show proficiency in their profession. The people who are going to judge in this case are not the society of officials at all. These are in a minority on the board, which is to consist of one appointed by the Cape Town University, one by the Minister of the Interior, and only one by the society. You could not have a fairer tribunal than the one which is constituted in this letter. It has been suggested that, owing to some unfortunate experience we had in this House some days ago, you cannot depend on this letter being a sufficient guarantee that these conditions will be carried out. I want to point out that the Minister of Finance, on the last debate on this matter, stated that if these conditions were not carried out, it would be a question of the Government itself bringing in a law making it imperative to see that these conditions are fulfilled. If these conditions are not fulfilled within 12 months, any private member could bring in this provision in an amending Bill. So hon. members can be satisfied that this provision will have the force of law as soon as we pass this Bill. As regards members of the civil and municipal services, they are not prejudiced. At present no member of these services, when he leaves or while he is in them, can use the title of &#x201C;incorporated accountant&#x201D; at the Cape, or &#x201C;registered public accountant&#x201D; in Natal or the Transvaal. What difference or additional prejudice is there simply when you change the name to &#x201C;chartered accountant&#x201D;? I will point out to the hon. member for Umbilo that in the United Kingdom, where the title &#x201C;chartered accountant&#x201D; is used, no member of the civil service and municipal service is allowed to use that designation, and can do so only when he has been articled and served his time with a chartered accountant. It is quite clear that there is no need for him in his capacity as a civil servant, to take that designation, but anybody who knows anything about the municipal service or the civil service is aware that the form of accountancy used by them is of a highly specialized kind. That is the main reason that makes me feel that it is not fair to these societies to give municipal or civil servants the designation of chartered accountant, because they cannot possibly, in their work, obtain the necessary knowledge in order to act in the general capacity of chartered accountant. There is, however, no restriction on these men, the day after the Bill has passed, putting up a brass plate, stating that they are public accountants, the only designation they cannot use being that of chartered accountants. I urge the House not to allow this opportunity to slip of putting the Bill on the statute book. It is a good measure in the interests of the young people of South Africa, and if it is not carried, an infinite amount of harm will be done.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>I do not want to quarrel now as to whether it is a good thing for sons of South Africa or not. That is not my argument, but a letter was written to the hon. member for Liesbeek (Mr. Pearce) by the society, and, notwithstanding the agreement, I met three accountants this morning who say that they absolutely know nothing about the agreement. In the case of the Architects Bill, where there was also an agreement, one of the members of this House comes and says&#x2014;</p>
+
+<block name="quote">I was not there, know nothing about it,</block>
+
+<p>and moves an amendment which would completely upset our compromise. How then may things not happen in this case? People might say that they know nothing about the agreement, and they can pass resolutions, and the compromise which has here been made can be rendered null and void. If what happened the other day to the Architects Bill can take place, we can, in this case, expect quite different things from people who say that they know nothing about it&#x2014;and possibly actually do know nothing about it. Let us wait till next year, and then the agreement can be incorporated in the Bill. The Minister of Finance said the other day that if the people did not keep their word be would know how to deal with them. The Government and all the Ministers have their hands more than full, and what happened the other day&#x2014;and which was one of the most scandalous things which was ever before the House must make us careful, because, if there are people who remain outside who say that they repudiate the letter, and that the people who wrote it are not their mouthpiece, and the Bill is then passed, what is to become of the interests of the sons of South Africa when we have once sold their birth-right. We cannot allow that. Nowadays the clever people want to be protected against their less clever brothers, but they will not outwit us. We members from the countryside do not want to be outreached. The hon. member for Barberton (Mr. Rood) <span class="col_3093-3094" refersTo="page_0207"/>said that if the people were so clever they could pass an examination, but if the members of the four societies are so clever they can stand on their own feet and compete with the other one. We are not pleading for the man who is unqualified, but for the man who is admitted by the accountants themselves to be sufficiently competent. If the accountants are willing to enter into an agreement, then the Bill can be postponed till next year, and the agreement be incorporated. After what happened the other day I have no further confidence in the societies, and I shall only be satisfied if the Bill is postponed till next year.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I do not think my hon. friend is quite fair. I should like to ask him in whose interests he is now speaking, and what section of the population will be benefited if the policy he suggests be followed. The Bill does not deal with the admission of certain classes of persons in the country. All it does is to remove certain difficulties under which young South Africans suffer in comparison with people from overseas. Why should we now adopt the policy of dog-in-the manger? Why should we not do justice to people who are sons of the soil, and put them second to people from overseas? My hon. friend is not fair, and I want to make an appeal to the feeling of fairness of hon. members. Ought we to reject this Bill only because we want to kill everything this session which is introduced by a private member? If hon. members really feel strongly about the matter, then it is another thing, but I again ask what section will be benefited by the attitude of the hon. member for Namaqualand (Mr. Mostert).</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>The uitlanders.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>How will the position of the persons for whom the hon. member is pleading be protected by rejecting this Bill?</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>The agreement will be incorporated in the Bill next year.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I concur in the objection of the accountants who say that we ought not to put the agreement in the Bill. I would rather be without the Bill than to put it in. If an agreement is put into the Bill by which persons with lesser qualifications than the overseas men are admitted to the profession, then we shall at once reduce the status of our own accountants as against the foreign accountants. It will be published in all the newspapers of the world, and when the overseas accountants notice that we admit accountants who have not the same qualifications, it will have an injurious effect on the status of our accountants. The hon. member has no right to say that the agreement will be repudiated on account of the incident which recently look place in the House. No undertaking has been given to the Government or to me, but to the whole House, and if it is not carried out, then the feeling of fairness in the whole House will be such as to say that immediate steps must be taken to compel the performance. If any class of person is assisted by the obstruction, then one can understand it, but no one is assisted by it. We are only depriving a certain class of South Africans of a right which they deserve. Even if everybody cannot be assisted, at any rate, a large class will be assisted by the carrying out of the agreement. If the Bill is not passed, then it will not assist them either. If the agreement is incorporated in the Bill next year it will have the effect that those who have been admitted to the profession by virtue of the agreement will find that they are in a false relation with regard to overseas countries.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>They must pass the examination.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The agreement will admit people who have not passed the examination. Hon. members do not want everyone to pass an examination, but want the members of the fifth society to be admitted.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>We did not degrade the attorneys&#x2019; profession by admitting the law agents.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>We did do that. If a door is left open then the status of a profession is lessened. We must not now do an injustice and refuse to give our young South Africans the right to the benefit of the title.</p>
+
+</speech>
+
+<speech by="#giovanetti">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GIOVANETTI</person>:</from>
+
+<p>The easy passage this Bill had on its second reading was due to the letter read by the hon. member for Liesbeek (Mr. Pearce) and most members of the House accepted that letter in a good spirit, but when the letter began to be absorbed by the public they understood its implications, and we have been deluged with correspondence from all over the Union as to what the letter means, and I agree with the hon. member for Hanover Street (Mr. Alexander) that the letter should have been embodied in the Bill. The Bill the hon. member for Rondebosch (Mr. Close) brought before the House, and which was not proceeded with, was a far different measure from this one. Public servants see in this letter, which was handed to the hon. member for Liesbeek, that they are to be excluded from the provisions of this Bill, and while it is pointed out by the hon. Minister that it is simply a designation Bill that is really the whole crux of the matter. It is going to put a ring fence round these people who are going to call themselves chartered accountants. If they are able to pass an examination, why should they not be admitted. For instance, take the Secretary for Finance or the chief accountant of the railway, who deals with £30,000,000 a year. They cannot come under the Bill under this letter.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>If the Bill is not passed how will it help him to-day?</p>
+
+</speech>
+
+<speech by="#giovanetti">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GIOVANETTI</person>:</from>
+
+<p>Under the Bill of the hon. member for Rondebosch we were prepared to give them facilities, but by a clever move by the promoters of this Bill they are going to put <span class="col_3095-3096" refersTo="page_0208"/>a ring fence round, and are going to exclude all public servants. Read (d) of the agreement. [Paragraph read.] It has been pointed out by the hon. member for Newlands (Mr. Stuttaford) that they are not prejudiced by this, but surely if an official in the Ministry of Finance takes the trouble to attend the university and to pass an examination and to qualify, surely the Minister is not going to bar him.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>This Bill will not affect his position in any way.</p>
+
+</speech>
+
+<speech by="#giovanetti">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GIOVANETTI</person>:</from>
+
+<p>Yes, it will. A number of men have been in practice for many years and have built up a business, but are unable to sit for the examination. In any case, many of these members have to sit under examiners who have never passed an examination themselves. I have met a number of deputations from the municipal services, and the public and railway service, and they are perturbed about it, and surely they have a right to have a say in the matter. If this Bill is to be passed, I think this agreement should be embodied in the Bill, and Clause (c) should be amended. I move&#x2014;</p>
+
+<block name="quote">That the Chairman report progress and ask leave to sit again,</block>
+
+</speech>
+
+<p>Upon which the Committee divided:</p>
+
+<p>Ayes&#x2014;18.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brown, G.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>Giovanetti, C W.</p>
+
+<p>Heathe, C. B.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Moll, H. H.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Raubenheimer, I. v. W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Tellers: Alexander, M.; Mostert, J. P.</p>
+
+<p>Noes&#x2014;52.</p>
+
+<p>Allen, J.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Ballantine, K.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bergh, P. A.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Close, R. W</p>
+
+<p>Conradie, D. G.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F, J.</p>
+
+<p>Harris, D.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hugo, D.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Macintosh, W.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>Miller, A. M.</p>
+
+<p>Moffat, L.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Naud&#x00E9;, J. F. (Tom)</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost, H.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Tellers: Van Zyl, G. B.; Vermooten, O. S.</p>
+
+<p>Motion accordingly negatived.</p>
+
+<speech by="#pearce">
+
+<from>Mr. <person refersTo="hansard_za">PEARCE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the question be now put.</block>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">ALEXANDER</person></from>
+
+<p>called for a division,</p>
+
+</speech>
+
+<p>Upon which the Committee divided:</p>
+
+<p>Ayes&#x2014;50.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Close, R. W.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Conradie, J. H.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Harris, D.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hugo, D.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Louw, J. P,</p>
+
+<p>Macintosh, W.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>Miller, A. M.</p>
+
+<p>Moffat, L.</p>
+
+<p>Moll, H. H.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nel, O. R.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost, H.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Tellers: Van Zyl, G. B.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;19.</p>
+
+<p>Allen, J.</p>
+
+<p>Barlow, A. G.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brown, G.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Heatlie, C. B.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Raubenheimer, I. v. W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Tellers: Alexander, M.; Naud&#x00E9;, J. F.</p>
+
+<p>Motion accordingly agreed to.</p>
+
+<p>Amendment proposed by Mr. Oost put and agreed to.</p>
+
+<p>Clause, as amended, put and Mr. Alexander called for a division.</p>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>On a point of order, sir, is that division properly called? According to the rules a member in calling for a division has to rise from his seat, but the hon. member did not do so.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. member did rise, if only a couple of inches.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>I rise now.</p>
+
+<p>Upon which the Committee divided:</p>
+
+</speech>
+
+<p><span class="col_3097-3098" refersTo="page_0209"/>Ayes&#x2014;47.</p>
+
+<p>Allen, J.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brits, G. P.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Close, R. W.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Conradie, J. H.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Harris, D.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hugo, D.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Macintosh, W.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Miller, A. M.</p>
+
+<p>Moffat, L.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost, H.</p>
+
+<p>Pearce, C.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Tellers: Van Zyl, G. B.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;11.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Heatlie, C. B.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Raubenheimer, I. v. W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Tellers: Alexander, M.; De Villiers, A. I. E. Clause, as amended, accordingly agreed to.</p>
+
+<p>On Clause 2,</p>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">To add at the end of the clause: &#x201C;and shall come into operation on a date to be fixed by the Governor-General by proclamation in the &#x2018;Gazette.&#x2019; No such date shall be fixed unless and until the Governor-General is satisfied that adequate provision has been made for the admission to any of the societies mentioned in sub-section (1) of Section 1 of competent accounting officers employed by the Government, the South African Railways and Harbours Administration, any Provincial Administration or any local authority.&#x201D;</block>
+
+<p>The object of the amendment is to permit men who are qualified to be admitted into these societies. There are men in the public service and the municipal services who are thoroughly competent men and should be admitted into these societies, but owing to the manner in which the rules are framed, they are not admitted. This amendment provides that the Bill shall not operate until the Minister is satisfied provision has been made by the societies to admit these men. It is a reasonable amendment, and I ask the hon. member for Ladybrand (Mr. Swart) to accept it.</p>
+
+</speech>
+
+<speech by="#swart">
+
+<from>Mr. <person refersTo="hansard_za">SWART</person>:</from>
+
+<p>On a point of order, I wish to ask your ruling whether this amendment is in order, seeing that it is not covered by the preamble.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>It is generally done. It is quite according to the practice. The preamble can be altered accordingly.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>I am glad that I am now able to make a little of the other side of the matter clear to the House on behalf of the persons who will be excluded if the Bill becomes law, and I want to read a letter. I am sorry that it is in English, but it reads as follows&#x2014;</p>
+
+<block name="quote">P.O. Box 960, Cape Town, 28th April, 1927.&#x2014;The Chartered Accountants&#x2019; Designation (Private) Bill introduced by Mr. Swart which has passed its second reading and is down on the Order Paper for Tuesday next, May 3rd, is promoted by the same Societies of Accountants who in 1913 and 1924 were responsible for the private Bills dealing with the registration of accountants, the object of which was to bring the Cape Province and the Orange Free State into line with the very conservative position existing in the Transvaal and Natal provinces.</block>
+
+<block name="quote">The Public Servants Association (S.A.) and the South African Association of Municipal Employees submit that the present Bill, if adopted, would confer powers similar to those contained in the clauses of the two previous Bills to which such strong objection was expressed, but that those powers are very cleverly concealed.</block>
+
+<block name="quote">It is claimed by the promoters that the Bill is purely a Designation Bill, it merely seeks powers to allow accountants to use the designation of C.A. (S.A.); being a Designation Bill, amendments governing the nature of examinations, the constitution of the examination board and the consolidated powers of the promoting societies cannot be submitted to Parliament.</block>
+
+<block name="quote">The request of the Public Servants&#x2019; Association (S.A.) to give evidence before the select committee was not granted, the reason given by the promoting societies for their opposing this request was, they stated, with a view to avoid unduly adding to the enormous expense which had been incurred in the promotion of the two previous Bills.</block>
+
+<p>The hon. member for Barberton (Mr. Rood) said that all who had evidence could give it, but here it is said that they did not get a chance&#x2014;</p>
+
+<block name="quote">This is very sound and understandable, but are there not other reasons? Did not the promoters also wish to avoid Parliament being made aware of the result which logically must take place if the Bill is adopted?</block>
+
+<block name="quote">The promoters of the Bill argue that it is sought merely to provide a designation, also to meet the requirements of oversea financial, industrial and commercial undertakings, and that it is not intended to place restrictions on or interfere with persons who have the right to practise, or to call themselves accountants, or in any way affect the status of public servants or municipal officials. Yet the fact remains that if the Bill now before the House is passed, a distinction will be <span class="col_3099-3100" refersTo="page_0210"/>drawn between those who are members of the societies promoting the Bill and those who are not members, to the detriment of the latter.</block>
+
+<block name="quote">The constitution of each of the promoting societies is unfavourable to public servants and municipal officials; no matter their qualifications or experience, such public servants and municipal officials are debarred from membership unless having first served the required period of articles with a member and passed the final examination of the society. To serve the stipulated period, the official must break his service, no guarantee can be expected of re-employment, pension rights are surrendered, possibly his whole future endangered.</block>
+
+<p>This is the great difficulty and my great objection. The persons are excluded, and the bread taken out of their mouth. The Minister wanted to explain that if the Bill were passed it would make no difference, and that if it is not passed it would also make no difference but the position is that these persons, if the Bill passes, will not have a chance of obtaining the title of chartered accountant, and their position will be much weaker than before&#x2014;</p>
+
+<block name="quote">The present constitution of the four societies promoting the Bill, no matter however favourable, has to be accepted, but when protection is sought by Act of Parliament and a position created detrimental to those whose qualifications and experience are as high as the members of those societies we submit that one body is seeking more favourable treatment than another.</block>
+
+<block name="quote">The parliamentary agents claim that the tour promoting societies have since 1904 1907 respectively Built up a large body of highly-qualified professional accountants; if the members of the promoting societies are so highly qualified, why should it be necessary to obtain additional status and require a designation of chartered accountants (S. A.); it would appear to be an attempt to &#x201C;gild the lily.&#x201D;</block>
+
+<block name="quote">It is significant that the objects of the contemplated chartered accountants (S.A.) are not defined.</block>
+
+<block name="quote">Should, the Bill now before the House be passed,, it will be necessary for the four promoting societies to agree to a consolidated constitution and rules.</block>
+
+<block name="quote">The Transvaal Society of Accountants has in the main been responsible for the promotion of the private Bills submitted to Parliament; in 1913 and 1924 they refuse to consider any compromise allowing an applicant to write the final examination without previously serving a period with a practising accountant, and it is logical to assume that the policy of the Transvaal Society is the more likely to be the policy of the consolidated body with the proposed designation of C. A. (S.A.).</block>
+
+<block name="quote">In the public service are a number of officials, senior accounting, audit and other officers, whose duty it is to check financial returns, such as Inland Revenues, Assessment and Income Tax returns submitted frequently by or through members of the promoting societies, yet those Government officers are not allowed to become members of the promoting societies, and if the Bill is passed their status and efficiency would be open to serious question if any decision given by them were submitted to a judge.</block>
+
+<block name="quote">Among municipal officials are many holding the position of treasurer of important municipalities who, by the rules and constitution of the promoting societies, are unable to become members of those societies. There are also a large number of younger officials in the treasury departments of the Government and of municipalities whose future will be stopped, as future appointments would undoubtedly be influenced to the advantage of an applicant who perhaps has little experience, but who is a member of the C.A. (S.A.) Society.</block>
+
+<block name="quote">Officials in the public and local government service can qualify as advocates, architects, civil engineers, and in fact practically for all the professions except accountancy. In the Transvaal and Natal Provinces it has been possible to prevent officials in Government and municipal services from being recognized as accountants, and it is claimed that the real objective of the present Bill is to secure similar powers in the Cape Province and Orange Free State, in direct conflict with the very strong objection shown by Parliament in 1913 and 1924.</block>
+
+<block name="quote">When applications are invited for the higher posts in the municipal service of the Transvaal and Natal Provinces, the protection enjoyed at the present time by the Transvaal and Natal societies under the Accountants&#x2019; Ordinance, 1904, and Accountants&#x2019; Act, 109, respectively acts detrimentally to officials employed by local Government authorities in those Provinces as the selection committee is influenced, should an applicant be able to submit a certificate of accountancy possibly obtained in the Cape Province or Orange Free State.</block>
+
+<block name="quote">It has been stated by the promoters of the Bill that to eliminate a stipulated period to be served with a practicing accountant would allow public servants and municipal employees when they took their pensions to unfairly compete with accountants.</block>
+
+<block name="quote">This is accepted as being advanced in all good faith but it does not appear to be sufficiently weighty to warrant the disabilities to youths in those services under the Bill. Accountants who for years had secured a clientele and established business relations during the years that such officials had been otherwise employed, would it is submitted be in an unassailable position and the competition of aged pensioned civil servants and municipal officials negligible.</block>
+
+<block name="quote">The understanding confirmed between Mr. Charles Pearce, M.L.A., and the Parliamentary agents for the promoters of the Bill does not provide for youths who have adopted in the public or local Government <span class="col_3101-3102" refersTo="page_0211"/>services as their profession, neither does it allow the higher grade officials of those services being entitled to the designation of C.A. (S.A.) or to become members of either of the promoting societies.</block>
+
+<block name="quote">One of the advantages claimed for the Bill is that it will give greater facilities and widen the scope of professional employment for the youth of South Africa.</block>
+
+<block name="quote">This claim however it is difficult to support by facts, to the contrary it is submitted that a number of youths who have taken their B.Com. degree, who therefore would have had to pass a much higher test of efficiency in accountancy than is required for members of the promoting societies, but who not having served a stipulated time with a practising accountant would not be allowed to sit for examination or become a member of the society contemplated in (he Bill and consequently their promotion would be stultified.</block>
+
+<block name="quote">In large commercial houses there are a number of youths employed in the accountancy branches of those establishments whose circumstances, promotion, etc., precludes them from ever being recognized or qualifying as accountants if the Chartered Accountants Designation (Private) Bill in its present form is adopted.</block>
+
+<block name="quote">Similarly among bank, civil service and local Government employees are many youths born in South Africa whose future would be limited unless provision is made and facilities given allowing them to sit for examination without serving for a period with a practicing accountant.</block>
+
+<block name="quote">It is admitted that experience and training in accountancy is desirable previous to an applicant being permitted to write the final examination and the Public Servants and Municipal Employees&#x2019; Association agree that a period of not less than five years&#x2019; experience in work of an accounting nature in those services be stipulated.</block>
+
+<block name="quote">Another point emphasized by the supporters of the Bill is that they desire to protect the public. We submit it is equally as vital that facilities be granted allowing public servants to become members of recognized professional societies and thereby secure the confidence of the public in their efficiency.</block>
+
+<block name="quote">It is confidently asserted by the promoters of the Bill that they have secured the goodwill of the Minister of Finance. This statement is surprising in view of the fact that Mr. Havenga has consistently supported any policy advanced for the youth of South Africa, and it must be apparent to him that if the Bill is placed on the Statute Book serious barriers will be placed in the way of South Africans who have adopted the public services as a career.</block>
+
+<block name="quote">Seeing that the Bill does not allow of any amendments and recognizing that Parliament should be in a position to determine the powers of a consolidated society of accountants, to consider the personnel of an examination board, and to be able to safeguard the interests of its experienced officials. It is recommended that the Bill should not be approved and that next session, after full opportunity be given to submit evidence by those so desiring the Government should introduce a Bill and so place the profession of accountancy in that position which its importance warrants.</block>
+
+</speech>
+
+<speech by="#allen">
+
+<from>Mr. <person refersTo="hansard_za">ALLEN</person>:</from>
+
+<p>While I have been very strongly in favour of the main principles of the Bill I must support this amendment. As the hon. member for Umbilo (Mr. Reyburn) has said, the agreement come to by the promoting societies and those who were outside them was on very generous terms, but inadvertently those people who were concerned in this amendment did not get the chance of giving evidence before the select committee. Had the promoters of the Bill allowed the evidence of these public servants I think the present contretemps would have been avoided. I am not concerned one little bit with the prospects of the public servants who is in the employ of the Government or the provincial council, who has pension rights and who has adopted the public service as a profession. They have no right and they cannot expect that they should be able to come out on pension and compete with those who have built up their own business. There is one public servant for whom I have sympathy, and that is the municipal servant. The conditions of municipal service are far more onerous that those of any other service, one reason being that very few municipal councils have continuity of service; therefore, a municipal servant has very little security of tenure. If a municipal official is a man of backbone, he may incur the censure or dislike of people under whom he has to work. I am referring specially now to town treasurers and assistant town treasurers, and the more meritorious and conscientious they are, the more likely they are to come under the ban of their council. They are defenceless, and cannot reply to any criticism. It is possible for dissatisfied members of a council to work up an agitation against these officials, who have a more general knowledge of accountancy than that possessed by a man who has been in the public service, while their responsibility is greater than that of any official in the civil service. Should a municipal servant make a mistake it reacts immediately and recoils on his head. Then municipal servants have an opportunity of proving that they possess qualifications which, in some cases, are higher than those the possession of which will admit a man to the ranks of chartered accountants. On these grounds I support the amendment.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>Mr. Chairman &#x2026; [The speaker rises with papers in his hand.]</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I want to point out to the hon. member that Order 60 provides that <span class="col_3103-3104" refersTo="page_0212"/>no member may read his speech. The hon. member must not evade the rule by reading a letter which is longer than a speech.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>I support the amendment. It is not a question of what advantages they have got. Is the Controller and Auditor-General entitled to the same designation as those coming under the Bill? Under this Bill he will not be able to do so, and this is supposed to be a hall-mark. There are numbers of people besides the Auditor-General who will be affected. You have the chief accountant of the railways and the capable accountants in the income tax department dealing with returns sent in by these very men who are going to have the monopoly of calling themselves chartered accountants (S.A.) under this Bill. They have the knowledge and qualifications which entitle them to be considered as accountants. Hon. members have said that they have not got the designation now. Of course they have not, but in future a limited number of men will call themselves chartered accountants, and that will be regarded as the hall-mark. I think consideration should be given to public officials and municipal employees if they are competent to do the work of an accountant. Give them the right to qualify.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>If they leave the service.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>Does the hon. member suggest that if the Auditor-General wants to leave the service and practise as an accountant, he shall become an apprentice and serve a period under one of these men? We are dealing with the point whether they are competent to call themselves chartered accountants. The Bill says they are not. None of these people are chartered accountants to-day, yet they are asking Parliament to say they are chartered accountants.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>When they have passed the examination.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>None of them have passed a chartered accountants&#x2019; examination in South Africa, because there is no such examination in South Africa to-day. There is no examination at present for a South African chartered accountant. Then, nobody can have passed that examination. I was right in what I said before, that nobody has passed the examination of chartered accountants (S.A.), yet everybody who comes within the four corners of this agreement is going to be given this new title of chartered accountant (S.A.).</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>That is not fair.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>That is the actual fact. The fact is this, I am not objecting to this title being conferred upon such persons who have shown such a high degree of competency that they are qualified for it, but I do say that you ought to give an opportunity to those men in the public service and the municipal service who have an equal right to show their competency to also come in under this title. The amendment is, I consider, perfectly reasonable, and I say that it would be an unfair thing to our public and municipal servants if we did not give them also a fair chance of reaping the fruits of having this title, if they can show that they have the necessary qualifications.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>The House has not yet had time to properly study the amendment, and we should like to have the opportunity. I therefore move&#x2014;</p>
+
+<block name="quote">That the Chairman report progress.</block>
+
+<p>Motion put, and Mr. Mostert called for a division.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. member did not rise, and I shall, therefore, declare that the &#x201C;noes&#x201D; have it.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>I asked for a division as well.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I did not notice the hon. member. But, if that is so, the division may proceed.</p>
+
+</speech>
+
+<p>Upon which the committee divided:</p>
+
+<p>Ayes&#x2014;10.</p>
+
+<p>Allen, J.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Tellers: Alexander, M.; de Villiers, A. I. E.</p>
+
+<p>Noes&#x2014;34.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Close, R. W.</p>
+
+<p>De Villiers. P. C.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Harris, D.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Miller, A. M.</p>
+
+<p>Moffat, L.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost, H.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Tellers: van Zyl, G. B.; Vermooten, O. S.</p>
+
+<p>Motion accordingly negatived.</p>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the question be now put.</block>
+
+</speech>
+
+<p>Upon which the committee divided:</p>
+
+<p>Ayes&#x2014;36.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Buirski, E.</p>
+
+<p>Close, R. W.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>Lie Villiers. W. B.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Harris, D.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Hugo, D.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox. F. J.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Miller, A. M.</p>
+
+<p>Moffat, L.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p><span class="col_3105-3106" refersTo="page_0213"/>Nel, O. R.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Oost. H.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Tellers: van Zyl, G. B.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;10.</p>
+
+<p>Alexander, M. Allen, J. Giovanetti, C. W.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Tellers: de Villiers, A. I. E.; Mostert, J. P.</p>
+
+<p>Motion accordingly agreed to.</p>
+
+<p>The amendment proposed by Mr. Reyburn was then put, and a division was called.</p>
+
+<p>As fewer than ten members (viz., Messrs. Allen, Alexander, A. I. E. de Villiers, Giovanetti, Heyns, J. S. F. Pretorius, Mostert, Reyburn and Snow) voted in favour of the amendment, the Chairman declared the amendment negatived.</p>
+
+<p>Clause, as printed, put and agreed to.</p>
+
+<p>On the preamble,</p>
+
+<p>On the motion of Mr. Oost, certain amendments were made in the Dutch version which did not occur in the English.</p>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">In line 28, to omit &#x201C;large&#x201D; and to substitute &#x201C;exclusive&#x201D;.</block>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Be serious. That is playing with the House.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>That is rather a frivolous amendment. I cannot put it.</p>
+
+<p>Preamble, as amended, put and agreed to.</p>
+
+<p>On the title,</p>
+
+<p>On the motion of Mr. Oost, an amendment was made in the Dutch version which did not occur in the English.</p>
+
+<p>House Resumed:</p>
+
+<p>Bill reported with amendments.</p>
+
+</speech>
+
+<speech by="#swart">
+
+<from>Mr. <person refersTo="hansard_za">SWART</person>:</from>
+
+<p>As the amendments affect only the Dutch text, I hope the House will consider them now, and I move&#x2014;</p>
+
+<block name="quote">That the amendments be now considered.</block>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person></from>
+
+<p>objected.</p>
+
+<p>Amendments to be considered on 6th May.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-05-03T19:20:00">7.20 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

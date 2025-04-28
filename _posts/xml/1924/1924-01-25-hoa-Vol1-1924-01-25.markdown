@@ -1,0 +1,217 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY 25 JANUARY 1924'
+layout: debate
+year: 1924
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 25th JANUARY, 1924.</heading>
+
+<debateSection name="#meeting_of_parliament">
+
+<heading>MEETING OF PARLIAMENT.<br/>BIJEENKOMST VAN PARLEMENT.</heading>
+
+<p>Pursuant to the Proclamation of H.R.H. the Governor-General, dated 30th October, 1923, summoning Parliament to meet this day for the dispatch of business, members met in the Assembly Chamber and Mr. Speaker took the Chair at 11.40 a.m.</p>
+
+<p>The CLERK read the Proclamation.</p>
+
+</debateSection>
+
+<debateSection name="#new_members">
+
+<heading>NEW MEMBERS.<br/>NIEUWE LEDEN.</heading>
+
+<p>The CLERK read letters from the Secretary to the Prime Minister, dated 25th June, 2nd August, 1st September, and 28th September, 1923, respectively, reporting the election of Frederick Thomas Bates for the electoral division of Uitenhage, in the room of William. Richardson Burch, unseated under section 54 (<i>a</i>) of the South Africa Act, 1909; Charles Robberts Swart for the electoral division of Ladybrand, in the room of Charles Gustav Fichardt, deceased; Maj. Edwin Watkin Hunt for the electoral division of Turffontein, re-elected; and Willie Rockey for the electoral division of Parktown, in the room of Richard Feetham, resigned.</p>
+
+<p>Maj. Hunt, introduced by Messrs. Sampson and Alexander; Mr. Bates, introduced by the Minister of Mines and Industries and Mr. Stuart; Mr. Rockey, introduced by the Minister of Agriculture and Mr. Webber; and Mr. Swart, introduced by Gen. Hertzog and Mr. Wilcocks, made and subscribed to the oath and took their seats.</p>
+
+</debateSection>
+
+<debateSection name="#official_opening">
+
+<heading>OFFICIAL OPENING.<br/>OFFICIËLE OPENING.</heading>
+
+<p>The CLERK read a letter from the Secretary to the Prime Minister, dated 8th November, 1923, stating that H.E. the Governor-General had signified his intention of opening Parliament at noon this day with the usual ceremony.</p>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>and members thereupon proceeded to the Senate to attend the ceremony of the opening of Parliament.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>resumed the Chair at 11.25 a.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#roll_of_members">
+
+<heading>ROLL OF MEMBERS.<br/>LEDELIJST.</heading>
+
+<p>The CLERK read the list of members, and those present answered to their names.</p>
+
+</debateSection>
+
+<debateSection name="#printing_and_debates_committee">
+
+<heading>PRINTING AND DEBATES COMMITTEE.<br/>KOMITEE OP DRUKWERK EN DEBATTEN.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>appointed the Prime Minister, Gen. Hertzog and Mr. Creswell a Committee to assist Mr. Speaker in regard to the printing of the House and the production of the Debates.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#committee_on_standing_rules_and_orders">
+
+<heading>COMMITTEE ON STANDING RULES AND ORDERS.<br/>KOMITEE OP HET REGLEMENT VAN ORDE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>appointed the following members to constitute, with Mr. Speaker, the Committee on Standing Rules and Orders, viz., the Prime Minister, the Minister of the Interior, the Minister of Mines and Industries, Gen. Hertzog, Mr. Rooth, Mr. Creswell, Mr. Roos, Dr. D. F. Malan, Mr. Wilcocks and Mr. Close.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#report_and_papers">
+
+<heading>REPORT AND PAPERS.<br/>VERSLAG EN STUKKEN.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>laid upon the Table&#x2014;</p>
+
+<ol>
+
+<li>(1) Report of the Librarian of Parliament for 1923.</li>
+
+<li>(2) Return showing&#x2014;
+
+<ol>
+
+<li>(<i>а</i>) The cost of each Select Committee appointed during the previous session (excluding the salaries paid to permanent officers of the House);</li>
+
+<li>(<i>b</i>) The numbers of sittings and the duration thereof of each such Committee; and</li>
+
+<li>(c) the number of sittings attended by each member.</li></ol></li>
+
+<li><span class="col_2" refersTo="page_0082"/>(3) Contract for reporting the debates and proceedings of the House of Assembly entered into by the Clerk of the House of Assembly and Mr. G. H. v. L. Ribbink.</li>
+
+<li>(4) Contract for printing the debates and proceedings of the House of Assembly entered into by the Clerk of the House of Assembly and the Cape Times Limited.</li>
+
+<li>(5) Contract for catering for the Houses of Parliament entered into by the Clerks of both Houses and the Royal Hotel (1906) Ltd.</li>
+
+</ol>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#opening_speech">
+
+<heading>OPENING SPEECH.<br/>OPENINGSREDE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that at the ceremony of the opening of Parliament, H.E. the Governor-General had been pleased to deliver an opening speech to both Houses of Parliament, as follows:</p>
+
+<p><i>Mr. President and Gentlemen of the Senate</i>:</p>
+
+<p><i>Mr. Speaker and Gentlemen of the House of Assembly</i>:</p>
+
+<block name="quote">The unsettled condition of Europe to which your attention was called at the opening of the last session of Parliament has become aggravated, and continues to cause grave and widespread anxiety, not only in regard to its effect on the social and political relations of the peoples of Europe, but also in regard to its effect on trade and industry throughout the world. South Africa shares in the general depression which follows from this unfortunate situation.</block>
+
+<block name="quote">A twofold Conference of the Governments of the Empire took place in London last October at which my Ministers were represented. There was, in the first place, a Conference of Prime Ministers of the Dominions at which questions of the highest importance were discussed, including the attitude of the Empire towards the critical situation in Europe. There was also a Conference dealing with economic questions and in particular with the promotion of trade relations between Great Britain and the Dominions. At this Conference certain resolutions were taken which, if put into operation, will open up wider markets for many of our South African products overseas. Papers relating to these Conferences will be laid before you.</block>
+
+<block name="quote">Within the Union, while conditions generally are improving, the farmers over considerable areas are suffering severely from long-continued drought, and from invasions of locusts on a scale unknown in recent times. Energetic measures have been taken to combat this plague, and these will be continued so long as may be necessary. For assisting farmers who are threatened with ruin owing to these adverse conditions my Ministers have encouraged the institution of local co-operative societies, to which advances can be made by the Land Bank on the joint credit of the members, which could not have been obtained by members on their individual credit. If these societies are successful, as there is every reason to expect, they may become the means of bringing into existence facilities in providing credit for farmers which is not now obtainable except on onerous terms or by a mortgage of the land. Proposals for legislation in regard to the matter of rural credit will be laid before you.</block>
+
+<block name="quote">Unemployment still prevails, though happily to a diminishing extent, and continues to engage the attention of my Ministers. Work is provided for able-bodied men on railway construction and on irrigation works, and steps are taken to provide more permanent work for those who have proved themselves efficient and desire to settle on the land, by placing them on land, irrigation and afforestation settlements and by encouraging farmers to offer them employment on the land.</block>
+
+<block name="quote">The state of the wine industry in the Cape Province has caused my Ministers much concern, and they intend to submit to you proposals dealing with this matter.</block>
+
+<block name="quote">The land settlement and irrigation policy which has been pursued for the development of the resources of the country has led to a number of problems which require legislation and my Ministers intend to lay proposals in reference thereto before you.</block>
+
+<block name="quote">The programme of new railway construction is being carried forward as rapidly as possible. Four lines have already been opened for traffic, and it is expected that of the 853 miles of track authorized to be constructed, 690 miles will be completed by the end of the coming financial year. The electrification of a section of the Natal main line is making satisfactory progress. It is hoped to commence electric working over part of the section in October of this year, and to complete the work in June, 1925. You will be asked to make provision for the electrification of the suburban lines in the Cape Peninsula sanctioned by Parliament in 1920. You will also be asked to approve a proposal for building a line in Northern Zululand which is urgently required for opening up a large tract where cotton-growing is now being successfully carried on and where, as soon as railway communication is provided, an extensive and very suitable field for settlement will be available. The land is mostly Crown land, and it is anticipated that the cost of construction will be reimbursed from the proceeds of the disposal of the land served by the new railway.</block>
+
+<block name="quote">Railway traffic has shown a marked improvement during the current financial year, and my Ministers propose to make further considerable reductions in rates and fares, especially on agricultural produce and such other commodities as affect materially the cost of living.</block>
+
+<block name="quote">The grain elevators in course of construction at country stations and the terminal elevator at Cape Town are expected to be ready for handling the coming season&#x2019;s maize crop.</block>
+
+<block name="quote">The financial relations of the Union with the Provinces and the proper division of functions as between the Union and the <span class="col_3" refersTo="page_0083"/>Provinces in regard to education have engaged the attention of my Ministers. A Commission appointed to enquire into the latter subject has made a report and is still sitting. Papers dealing with both these questions will be laid before you, and you will be asked to consider legislative proposals in reference thereto.</block>
+
+<block name="quote">Among other legislative proposals which will be laid before you or resumed from last session are:</block>
+
+<block name="quote">A Bill consolidating the laws relating to companies.</block>
+
+<block name="quote">A Bill for regulating the practice of medicine, dentistry and pharmacy.</block>
+
+<block name="quote">Bills for amending the laws relating to precious metals and precious stones.</block>
+
+<block name="quote">A Bill for enabling urban local authorities to establish separate residential and trading areas.</block>
+
+<block name="quote">A Bill for amending the liquor laws of the Cape Province.</block>
+
+<block name="quote">A Bill for the prevention and settlement by conciliation of industrial disputes.</block>
+
+<block name="quote">A Bill for amending the law relating to diseases of stock.</block>
+
+<p><i>Mr. Speaker and Gentlemen of the House of Assembly</i>:</p>
+
+<block name="quote">Additional estimates of revenue and expenditure for the present financial year, and estimates of revenue and expenditure for the ensuing financial year will be laid before you.</block>
+
+<p><i>Mr. President and Gentlemen of the Senate</i>:</p>
+
+<p><i>Mr. Speaker and Gentlemen of the House of Assembly</i>:</p>
+
+<block name="quote">In commending these matters to your consideration, I pray that the blessing of Almighty God may guide and sustain you in your labours.</block>
+
+<block name="quote">In His Majesty&#x2019;s name I now declare this the Fourth Session of the Fourth Parliament of the Union of South Africa to be duly opened.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#condolence&#x2014;late_president_harding">
+
+<heading>CONDOLENCE&#x2014;LATE PRESIDENT HARDING.<br/>KONDOLEANTIE&#x2014;WIJLEN PRESIDENT HARDING.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that during the recess he had conveyed by telegram to the American Consul in Charge, Cape Town, his sympathy on behalf of members of the House of Assembly on the death of President Harding, and that, in acknowledging receipt of the telegram, the American Consul had stated that &#x201C;This message of sympathy, which I have communicated to my Government, is deeply touching to the people of the United States, and, on behalf of the United States and Mrs. Harding, I wish to assure you of sincere thanks for the sympathy extended by you and the honourable members of the House of Assembly. Your tribute to the late President Harding is most truly appreciated.&#x201D;</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1924-01-25T12:54:00">12.54 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

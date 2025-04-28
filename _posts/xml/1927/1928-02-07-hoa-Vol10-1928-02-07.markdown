@@ -1,0 +1,2559 @@
+---
+title: 'House of Assembly: Vol10 - TUESDAY 7 FEBRUARY 1928'
+layout: debate
+year: 1928
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 7th FEBRUARY, 1928.</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the Chair at <recordedTime time="1928-02-07T14:18:00">2.18 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#condolence_marquess_of_cambridge">
+
+<heading>CONDOLENCE (MARQUESS OF CAMBRIDGE).</heading>
+
+<p>By direction of Mr. Speaker,</p>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read a letter from his Excellency the Governor-General as follows&#x2014;</p>
+
+<block name="#quote">Governor-General&#x2019;s Office, Cape Town, 6th February, 1928.</block>
+
+<p>Sir,&#x2014;I have to inform you that the Address passed by the Senate and the House of Assembly in November last on the death of the Marquess of Cambridge has been submitted to his Majesty the King who greatly appreciates this expression of sympathy and affectionate loyalty and desires that his sincere thanks may be conveyed to both Houses.&#x2014;I am, sir, Your Obedient Servant,</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#athlone_governor-general">
+
+<heading>Athlone, Governor-General.</heading>
+
+<p>The Hon. The Speaker of the House of Assembly, Cape Town.</p>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Public Works: Departmental Work.</heading>
+
+<question by="#giovanetti" to="#minister_of_public_works">
+
+<num>I.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of Public Works:</p>
+
+<ol>
+
+<li>(1) What number of workshops exist and are equipped for carrying out departmental work;</li>
+
+<li>(2) whether any such workshops have been erected during the last two years, and, if so, in what centres;</li>
+
+<li>(3) what are the number of artisans engaged by the department compared with two years ago; and</li>
+
+<li>(4) what was the value of work done departmentally during the past year as compared with the previous year?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#giovanetti">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<ol>
+
+<li>(1) Seven.</li>
+
+<li>(2) Two: At Pretoria and Johannesburg.</li>
+
+<li>(3) Two years ago, 172; now employed, 433</li>
+
+<li>(4) 1925/6, &#x00A3;132,601; 1926/7, &#x00A3;201,244.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Coaches, Birmingham Order for.</heading>
+
+<question by="#hay" to="#minister_of_railways_and_harbours">
+
+<num>II.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the Minister is satisfied that the 50 second-class main line coaches recently ordered from Birmingham could not have been constructed in the Union;</li>
+
+<li>(2) whether these coaches will be shipped in sections and bolted together on arrival, or shipped in full length of the framework from end to end; and</li>
+
+<li>(3) whether the Administration is satisfied that the coach-building workshops at Pretoria are working to full capacity of equipment and man power?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#hay">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) The Administration&#x2019;s policy is to undertake the construction of as much as possible of its coaching requirements in the Union, regard being had to the capacity of the workshops. The 50 second-class saloons, referred to by the hon. member, are urgently required to meet the demands of traffic, and the Administration considered it was in the public interest that the coaches should be obtained as quickly as possible. By placing the order overseas the vehicles will be placed in service towards the end of this year, whereas had they been built in South Africa they would not have been completed until the end of 1929 at the earliest. The hon. member will appreciate that several months must necessarily elapse before the requisite materials can be obtained for the building of rolling stock locally, while the work of the shops themselves has to be regulated so that at times repair work may have preference to meet the requirements of traffic.</li>
+
+<li>(2) As far as possible, completely erected.</li>
+
+<li>(3) With new stock authorised for building and/or erection, plus ordinary repairs, there is sufficient work in sight at the Pretoria shops for the next two years.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Public Works Apprentices.</heading>
+
+<question by="#giovanetti" to="#minister_of_public_works">
+
+<num>III.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of Public Works what number of apprentices are being employed on public works compared with two years ago?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#giovanetti">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>Two years ago, 12 apprentices; now employed, 37 apprentices.</p>
+
+</answer>
+
+<question by="#giovanetti" to="#minister_of_public_works">
+
+<from>&#x2020;Mr. GIOVANETTI:</from>
+
+<p>Did the Minister discuss the question with his colleague the Minister of Labour whether these apprentices were being sufficiently trained?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#giovanetti">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>I think my hon. friend the Minister of Labour has sufficient confidence in me to realize they are being sufficiently trained.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading><span class="col_755-756" refersTo="page_0444"/>Mr. Duncan Baxter on Commissions.</heading>
+
+<question by="#menamin" to="#minister_of_finance">
+
+<num>IV.</num>
+
+<from>Mr. McMENAMIN</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) How many Government commissions and boards of enquiry has Mr. Duncan Baxter been a member of since the 1st January, 1920; and</li>
+
+<li>(2) what is the total amount he has received as payment for such services?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#menamin">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) Three.</li>
+
+<li>(2) &#x00A3;1,089 19s. 6d.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Bryntirion, Houses at.</heading>
+
+<question by="#nel" to="#minister_of_public_works">
+
+<num>V.</num>
+
+<from>Mr. NEL</from>
+
+<p>asked the Minister of Public Works:</p>
+
+<ol>
+
+<li>(1) How many Government houses at Bryntirion are let to Ministers;</li>
+
+<li>(2) what amount of rent is paid;</li>
+
+<li>(3) whether the Ministers are responsible for the upkeep of the gardens and grounds of the said houses; and, if not,</li>
+
+<li>(4) what is the expense to the department for such upkeep?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#nel">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<ol>
+
+<li>(1) Five.</li>
+
+<li>(2) &#x00A3;20 per month while in occupation.</li>
+
+<li>(3) No.</li>
+
+<li>(4) Garden boy in each case paid by the department &#x00A3;3 per month and water for the house and garden, averaging &#x00A3;22 per annum each house. I may add that these same conditions existed under the previous Government.</li>
+
+</ol>
+
+</answer>
+
+<question by="#nel" to="#minister_of_public_works">
+
+<num>VI.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>&#x201C;Statistics of Production.&#x201D;</heading>
+
+<question by="#gilson" to="#minister_of_the_interior">
+
+<num>VII.</num>
+
+<from>Mr. GILSON</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) What are the costs of (a) collecting, (b) compiling, (c) issuing, and (d) printing the information contained in Blue Book U.G. No. 41&#x2014;&#x2019;27, &#x201C;Statistics of Production,&#x201D; issued by the Office of Census and Statistics;</li>
+
+<li>(2) how many copies were distributed free, how many copies were sold, and what revenue accrued from the sale; and</li>
+
+<li>(3) whether, in view of the fact that this publication deals with statistics of production for the year 1924-&#x2019;25 and was only available to members of Parliament and the public in December, 1927, by which time the information contained was completely out of date and obsolete, he will state the reasons which he considers justified such expenditure of public money?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#gilson">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) (a) and (b), &#x00A3;3,578 (items are not separable); (c) and (d), &#x00A3;383 18s. 4d. for 1,300 copies (items are not separable).</li>
+
+<li>(2) 1,077 copies were distributed free; 17 copies were sold for &#x00A3;6 3s. 9d.</li>
+
+<li>(3) Preliminary figures giving the most important totals were published in August and November, 1926. Subsequently at the request of the South African Federated Chamber of Industries very detailed analyses of the tables were undertaken. The results were published in December, 1927, in U.G. 41/27. The justification for incurring the expense of publishing these figures is that they are of permanent value and that this is the most economical method of making them available to the public. To show that such information is not considered &#x201C;out of date&#x201D; even after the lapse of a considerable period, it may be mentioned that the preliminary reports of the British Census of Production, 1924, have only appeared during the last twelve months, and that even the preliminary reports have not all been issued, while the final report will not be available for some time to come.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cruelty to Dogs At Messina.</heading>
+
+<question by="#byron" to="#minister_of_justice">
+
+<num>VIII.</num>
+
+<from>Brig.-Gen. BYRON</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether it is a fact that on or about the 30th August, 1927, some sixty dogs were clubbed or otherwise cruelly destroyed under the supervision of the police at Messina; if so,</li>
+
+<li>(2) who authorized their destruction in such a manner; and</li>
+
+<li>(3) what action has been taken against the officials concerned?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) No.</li>
+
+<li>(2) The facts are that whilst the police were collecting diseased and unlicensed dogs for destruction within the compound of the Messina Copper Company, where some two thousand natives were confined, the natives entirely on their own initiative started hunting and killing stray dogs which had been causing them annoyance. The few police present did their utmost to stop the action of the natives but many dogs had been killed before the police were successful.</li>
+
+<li>(3) The matter was fully enquired into by the Commissioner of Police and he was satisfied that so far as the police were concerned there was no cruelty and that they carried out the destruction of certain dogs which they were called upon to do, in the most humane manner possible in the circumstances.</li>
+
+</ol>
+
+</answer>
+
+<question by="#byron" to="#minister_of_justice">
+
+<from>Brig.-Gen. BYRON:</from>
+
+<p>Will the Minister inform us what humane methods were employed by the police?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>I do not know the exact method employed, but the police have to destroy dogs at times and you cannot go much further than saying the most humane methods were employed. The matter has been inquired into, and it is has been found that the police were not to blame, but <span class="col_757-758" refersTo="page_0445"/>what particular method is the most humane method I am not prepared to say.</p>
+
+</answer>
+
+<question by="#byron" to="#minister_of_justice">
+
+<from>Brig.-Gen. BYRON:</from>
+
+<p>Has the Minister seen the statement that the &#x201C;humane methods&#x201D; were ropes, sticks, stones and other things?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>I think that refers to the methods employed by these natives and not to the methods employed by the police.</p>
+
+</answer>
+
+<question by="#byron" to="#minister_of_justice">
+
+<from>Brig.-Gen. BYRON:</from>
+
+<p>Has the Minister had a report from the police authorities in this matter?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>Yes, the reports of the local police are also included. I will obtain the papers in the matter from Pretoria and send the file to the hon. member, and then he will know as much as I do about the matter.</p>
+
+</answer>
+
+<question by="#byron" to="#minister_of_justice">
+
+<from>Brig.-Gen. BYRON:</from>
+
+<p>Is the Minister aware that many of these dogs were formerly owned by Europeans who sent them into the location to avoid paying the dog tax?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>No, I do not know anything about that.</p>
+
+</answer>
+
+<question by="#byron" to="#minister_of_justice">
+
+<from>Brig.-Gen. BYRON:</from>
+
+<p>May I ask if the Minister will inquire into that?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>I will get the file for the hon. member.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Public Service: Salaries and Bilingualism.</heading>
+
+<question by="#conradie" to="#minister_of_the_interior">
+
+<num>IX.</num>
+
+<from>Dr. D. G. CONRADIE</from>
+
+<p>asked the Minister of the Interior how many officials were there on the 31st December, 1927, in the respective departments of (a) Finance, (b) Posts and Telegraphs, and (c) Public Works with salaries of &#x00A3;600 and over, who are (i) only Afrikaans-speaking, (ii) only English-speaking, and (iii) bilingual?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#conradie">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<table>
+
+<tr>
+
+<td colspan="2"><p>(a) Finance:</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(i) only Afrikaans-speaking &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>Nil</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(ii) only English-speaking &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>16</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(iii) bilingual &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>4</p></td>
+
+</tr>
+
+<tr>
+
+<td colspan="2"><p>(b) Posts and Telegraphs:</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(i) only Afrikaans-speaking &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>Nil</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(ii) only English-speaking &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>115</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(iii) bilingual &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>21</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(c) Public Works:</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(i) only Afrikaans-speaking &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>Nil</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(ii) only English-speaking &#x2026; &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>37</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(iii) bilingual &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026; &#x2026;</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+<question by="#conradie" to="#minister_of_the_interior">
+
+<from>*Dr. D. G. CONRADIE</from>
+
+<p>Can the Minister say how many of the bilingual persons are English-speaking and how many Dutch-speaking?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#conradie">
+
+<from>*The MINISTER OF THE INTERIOR:</from>
+
+<p>In the Finance Department three of the bilingual persons are English-speaking, and one Afrikaans-speaking, while in the Posts and Telegraphs Department, sixteen of the twenty-one persons are English-speaking, and five Afrikaans-speaking, and in the Public Works Department the two bilingual persons are English-speaking.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Police and Meeting at Maritzburg.</heading>
+
+<question by="#conradie" to="#minister_of_justice">
+
+<num>X.</num>
+
+<from>Dr. D. G. CONRADIE</from>
+
+<p>asked the Minister of Justice whether he has made any investigations as regards the alleged incident at Maritzburg in November last, where it was stated that the police authorities prevented the holding of a public meeting, and, if so, what was the result of his investigations?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#conradie">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>Yes. I found that the allegation was not correct.</p>
+
+<p>XI. Standing over.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Drought Relief Act, 1927.</heading>
+
+<question by="#stals" to="#minister_of_agriculture">
+
+<num>XI.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) In which districts has the Drought Relief Act, 1927, been proclaimed;</li>
+
+<li>(2) whether there are any applications for proclamation under consideration, and, if so, what are those applications; and</li>
+
+<li>(3) (a) how many applications were received from the several districts, (b) how many have already been considered, (c) how many have been granted, (d) how many have been refused, and (e) how many are still being considered?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#stals">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) In the following 23 districts, viz: Aberdeen, Beaufort West, Carnarvon, Ceres (portion), Fraserburg, Jansenville, Laingsburg, Prince Albert, Steytlerville, Sutherland, Victoria West, Murraysburg, Williston, Oudtshoorn, Willowmore, Ladismith, Somerset East (portion), Graaff-Reinet (portion), Calitzdorp, Riversdale (portion), Uitenhage (portion), Britstown and Prieska.</li>
+
+<li>(2) Yes. The districts of Calvinia, Clanwilliam, Namaqualand, Van Rhynsdorp and Kenhardt will be proclaimed shortly; the districts of Pearston and Uniondale will be proclaimed as soon as sufficient rains have fallen; a portion of the district of Swellendam is under consideration.</li>
+
+<li>(3) A statement will be laid on the Table of the House giving (a) the names of the proclaimed districts; (b) the number of applications received by the Land Bank; (c) amount applied for; (d) amount granted; (e) amount refused and (f) amount still under consideration.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>&#x201C;Cape Times&#x2019;&#x201D; Railway Advertisements.</heading>
+
+<question by="#blackwell" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Mr. BLACKWELL</from>
+
+<p>asked the Minister of Railways and Harbours whether it is a fact that he has issued instructions or conveyed a wish that no railway advertising shall in future be given, &#x201C;to the Cape Times&#x201D; and, if so, for what reason?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#blackwell">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>The Railway Administration, as a State department, followed the ruling given by the Minister of the Interior.</p>
+
+</answer>
+
+<question by="#nathan" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p><span class="col_759-760" refersTo="page_0446"/>Would the Minister kindly tell us what the ruling of the Minister of the Interior was?</p>
+
+</question>
+
+<question by="#blackwell" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. BLACKWELL:</from>
+
+<p>I think we are entitled to that information. We are entitled to ask the Minister what orders he gave to his department with regard to advertising. May I now ask him, as a supplementary question, if these orders have now been discontinued? It is not a matter of a joke; it is a matter of very serious principle.</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#blackwell">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have already indicated that the action taken by the Minister of the Interior, which was fully discussed by the House on a previous occasion in reply to certain questions, was also followed by the Railway Administration, and I have nothing to add to that.</p>
+
+</answer>
+
+<question by="#blackwell" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Mr. BLACKWELL:</from>
+
+<p>I want to ask if the Minister has countermanded these orders, or does the ban already applied still exist?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#blackwell">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>I have already indicated that the action of the Minister of the Interior has been followed by the Railway Department, and the Minister of the Interior clearly indicated the position to the House.</p>
+
+</answer>
+
+<question by="#blackwell" to="#minister_of_railways_and_harbours">
+
+<from>Mr. BLACKWELL</from>
+
+<p>Has the Minister removed the ban? Will the Minister reply to that?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#blackwell">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Certainly. If the hon. member was not able to follow the Minister of the Interior, I did.</p>
+
+</answer>
+
+<question by="#hon_member" to="#minister_of_railways_and_harbours">
+
+<from>An HON. MEMBER:</from>
+
+<p>The ban has been removed?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#hon_member">
+
+<from>&#x2020;The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Yes.</p>
+
+</answer>
+
+<question by="#thomas_smartt" to="#minister_of_railways_and_harbours">
+
+<from>Sir THOMAS SMARTT:</from>
+
+<p>Is it a fact that the ridiculous position that the Minister of the Interior and the Minister of Railways and Harbours have placed themselves in, has been removed? The answer to that would answer the whole question.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Drivers&#x2019; Overtime.</heading>
+
+<p>The MINISTER OF RAILWAYS AND HARBOURS replied to Question XVI by Sir Thomas Watt, standing over from 31st January.</p>
+
+<question by="#thomas_watt" to="#minister_of_railways_and_harbours">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) Whether he is aware that drivers and other members of the running staff stationed at Volksrust are able to earn more overtime (drawing often as much as forty days&#x2019; pay in a month) than men in the same class at Glencoe Junction, who are rarely able to earn any overtime;</li>
+
+<li>(2) whether the running staff at Volksrust are preferred over that at Glencoe Junction in running trains on Sundays and other days between these places; and</li>
+
+<li>(3) whether the Administration will try to equalize matters between the staffs at these places?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#thomas_watt">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) For the period of four months ended January, 1928, the average monthly time worked by the running staff stationed at Volksrust and Glencoe junction was as follows:&#x2014;<br/>
+
+Volksrust: Drivers, 41 days: firemen, 39 days; guards, 38 days.<br/>
+
+Glencoe Junction: Drivers, 29 days; firemen, 32 days; guards, 32 days.</li>
+
+<li>(2) The Volksrust men are not preferred over the staff employed at Glencoe junction, but the reason for the latter&#x2019;s earnings being lower than the former is due partly to the recent lull in the volume of mineral and goods traffic handled in Northern Natal, and the fact that most of the cross-trip working between Volksrust and Glencoe is performed by the Volksrust men. In this connection it should be stated that the Volksrust staff work between Volksrust and Braamfontein and Volksrust and Glencoe, whilst the Glencoe men work between Glencoe and Volksrust and Glencoe and Vryheid East. The effect of this arrangement results in the Volksrust men having better earning opportunities for the reason that the traffic on the main line sections is more dense than is the case on the Vryheid branch. Certain changes which have recently been effected will curtail the time to be worked by the Volksrust staff on Sundays by 24 hours per week, thereby reducing the monthly average by approximately one day per man, but this will not interfere with the Sunday time worked by the Glencoe men.</li>
+
+<li>(3) The question of arranging certain trains on the Volksrust-Glencoe sections to be worked by Glencoe men received consideration in March last year when, after consideration, it was decided to allow the system in operation to continue. Consideration is, however, again being given to the question of re-arranging the work so as to provide for a better equalisation of time between the Volksrust and Glencoe running staff.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>J. F. Steyn, Pension For.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question III by Mr. Terreblanche, standing over from 3rd February.</p>
+
+<question by="#terreblanche" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) What did the pension amount to which was awarded to Jacobus F. Steyn, of Gastvryheid, district of Kroonstad, in consideration of wounds received during the Anglo-Boer war;</li>
+
+<li>(2) what is the reason why that pension has been cancelled; and</li>
+
+<li>(3) what was the recommendation of the Special Pensions Board, before which Mr. Steyn appeared, and what respect has that recommendation been carried out?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#terreblanche">
+
+<heading><span class="col_761-762" refersTo="page_0447"/>Reply:</heading>
+
+<ol>
+
+<li>(1) &#x00A3;91 per annum awarded for loss of limb as result of osteomyelitis.</li>
+
+<li>(2) Condition was found not to be the result of military service.</li>
+
+<li>(3) The Special Pensions Board was divided, two being for and one against the acceptance of the claim. The case is sub judice. Mr. Steyn lodged an appeal with the Military Pensions Appeal Board and the case is expected to be heard shortly.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#oral_question">
+
+<heading>ORAL QUESTION.</heading>
+
+<oralStatements>
+
+<heading>Unemployment in Cape Town.</heading>
+
+<question by="#van_zyl" to="#minister_of_labour">
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) What is the present unemployment position in Cape Town and the Cape Peninsula;</li>
+
+<li>(2) whether a deputation of unemployed representing 38 families waited upon him on Monday last, the 6th instant;</li>
+
+<li>(3) whether he refused to assist the members of the deputation, though they represented that they and their families were destitute;</li>
+
+<li>(4) whether he sent the deputation to the Administrator of the Cape Province to be dealt with;</li>
+
+<li>(5) whether the Provincial Administration in May last year, when 211 men in one batch had to be similarly dealt with, informed the Minister that it was not able to deal further with such cases;</li>
+
+<li>(6) whether in fact the only assistance that could be given was given by the Board of Aid, and whether the giving of such assistance is not entirely outside the functions of that Board, which is constituted to administer pauper and poor relief only;</li>
+
+<li>(7) what steps have been taken by the department in the interim to remedy this unsatisfactory state of affairs which arises year by year;</li>
+
+<li>(8) whether the case of the deputation is typical of a large number of people in Cape Town; if so,</li>
+
+<li>(9) what steps the Minister proposes to take to remedy the position;</li>
+
+<li>(10) whether it is a fact that during December last 563 Europeans registered and reregistered at the Labour Bureau, whilst only 153 were given employment, and that during January last 735 Europeans registered and only 116 were given employment, 54 of whom were again on the Bureau&#x2019;s books by the end of that month; and</li>
+
+<li>(11) whether the Minister will lay upon the Table a return showing for each month during the thirteen months 1st January, 1927, to 31st January, 1928&#x2014;
+
+<ol>
+
+<li>(a) the number of European and coloured men, separately, who registered and re-registered at the local Labour Bureau as requiring employment; and</li>
+
+<li>(b) the number of European and coloured men, separately, placed in employment each month during that period?</li></ol></li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#van_zyl">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>The House has heard the question read out by the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl), who informed me at 5 minutes to 1 that he was going to ask me for this information.</p>
+
+</answer>
+
+<question by="#van_zyl" to="#minister_of_labour">
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>It was 25 minutes past 12, and the Minister&#x2019;s secretary told me that the Minister would not be back until after one o&#x2019;clock.</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#van_zyl">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>I put it to the House, what chance have I to get the voluminous information?</p>
+
+</answer>
+
+<question by="#van_zyl" to="#minister_of_labour">
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>A small matter.</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#van_zyl">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>A long question.</p>
+
+</answer>
+
+<answer by="#minister_of_labour" to="#van_zyl">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>At the present time the local Labour Office reports that it has on its books some 200 Europeans under 45 years of age classified as fit for unskilled work and about 100 men above that age most of whom are only capable of work of a light nature. I met the deputation referred to on the 6th instant and discussed the position with them, pointing out the efforts that were being made to provide them with work through the Post Office, the Railway Administration, and other Government Departments. In the case of the Railway it was explained that apart from vacancies for ordinary maintenance duties, it was intended to make a start with the Capetown-Woltemade construction of the Avoiding Line at the beginning of next month when approximately 100 men would be taken on and kept in employment for a considerable time. Efforts are also being made in regard to finding work through local authorities on roads, etc. I arranged for the deputation to see the Administrator for the purpose of providing in the meantime temporary relief such as food, a matter which is dealt with by Provincial Administrations. The local Labour Office reports that the present state of unemployment is no worse in the Cape Peninsula than is usually experienced at this time of the year, and the Labour Department is doing everything possible through the channels mentioned to provide work for the unemployed. I am obtaining the details and figures asked for in several of the questions.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#magistrates&#x2019;_courts_act_1917_amendment_bill">
+
+<heading>MAGISTRATES&#x2019; COURTS ACT, 1917, AMENDMENT BILL.</heading>
+
+<p>Leave was granted to Mr. J. J. Pienaar to introduce the Magistrates&#x2019; Courts Act, 1917, Amendment Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 10th February.</p>
+
+</debateSection>
+
+<debateSection name="#transvaal_conveyancers_bill">
+
+<heading><span class="col_763-764" refersTo="page_0448"/>TRANSVAAL CONVEYANCERS BILL.</heading>
+
+<p>Leave was granted to Mr. J. J. Pienaar to introduce the Transvaal Conveyancers Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 10th February.</p>
+
+</debateSection>
+
+<debateSection name="#daylight_saving_bill">
+
+<heading>DAYLIGHT SAVING BILL.</heading>
+
+<p>Leave was granted to Mr. Christie to introduce the Daylight Saving Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 24th February.</p>
+
+</debateSection>
+
+<debateSection name="#vocational_education_and_special_schools_bill">
+
+<heading>VOCATIONAL EDUCATION AND SPECIAL SCHOOLS BILL.</heading>
+
+<p>Leave was granted to the Minister of Education to introduce the Vocational Education and Special Schools Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 13th February.</p>
+
+</debateSection>
+
+<debateSection name="#port_beaufort_grant_amendment_private_bill">
+
+<heading>PORT BEAUFORT GRANT AMENDMENT (PRIVATE) BILL.</heading>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">That the Port Beaufort Grant Amendment (Private) Bill be referred to a select committee, the committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#christie">
+
+<from>Mr. <person refersTo="hansard_za">CHRISTIE</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#members_of_parliament_on_commissions">
+
+<heading>MEMBERS OF PARLIAMENT ON COMMISSIONS.</heading>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">That this House, having regard to the grave state of affairs relating to payments to certain members of the Mining Regulations Commission, including Mr. R. B. Waters-ton, M.L.A., and Mr. J. H. Munnik, M.L.A., revealed by the Auditor-General&#x2019;s Report, 1926-27, paragraph 49, whereunder it appears that such payments were illegal and improper, instructs the Select Committee on Public Accounts forthwith to make a full investigation into the matter and to report specially thereon to this House.</block>
+
+<p>The Mining Regulations Commission was appointed on October 22nd, 1924, the members being Advocate G. A. Mulligan, chairman, Messrs. J. J. Wessels, R. B. Waterston, M.L.A., and J. H. Munnik, M.L.A., and to each of them a letter of appointment, dated October 21st, 1924, was addressed on behalf of the Secretary for Mines. That letter set out the functions of the commission and its powers and jurisdiction, stating, inter alia, that the members would be entitled to an allowance of &#x00A3;3 3s. per day, plus free railage transport &#x201C;for each day on which the commission sat.&#x201D; At the first meeting of the commission the secretary read the Treasury regulations regarding the financial and general administration of Government commissions. The relevant portion of these regulations is quoted on page 22 of the Auditor-General&#x2019;s report. Regulation 11 stales that members of Parliament appointed as members of a commission shall, in lieu of any allowance, be re-imbursed reasonable out-of-pocket expenses necessarily incurred on account of subsistence and transport. Members of the commission not being officers of the public service may be paid a subsistence allowance at a rate to be fixed by the treasury and will receive reasonable transport expenses actually incurred. At a later stage when the Auditor-General was instructed to make an enquiry into the doings of this commission he submitted the question of the legal relationship between the members and the Government to the Crown Law Advisers, whose opinion is given on page 24 of the Auditor-General&#x2019;s report. In effect it was that under these regulations no members of Parliament are entitled to &#x00A3;3 3s. a day for sitting on a commission.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What about receiving &#x00A3;2 2s. a day?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I was appointed with the hon. member for North-East Rand (Dr. H Reitz) under the new regulations.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>It applied to the two guineas, too.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>It did not. The new regulations were brought out in September, last year. These were the regulations read to the hon. members under which they were supposed to act. The law advisers held the opinion that, generally speaking, no member of Parliament serving on a commission was entitled to anything whatever except out of pocket expenses, but they hold that in this case there was a definite contract between the Government appointing the members and the members, that they were entitled to be paid in the terms of their letter of appointment; that is, three guineas a day for each day on which the commission sat. That goes further than the regulations which say that they were not entitled to anything at all. Let me read what the law advisers to the Crown say, and I shall begin at paragraph (4), page 24&#x2014;</p>
+
+<block name="#quote">If a dispute were to arise between a member of a commission and the Government as to the amount due to such member by way of allowances or fees, and if the member were to sue the Government for the amount claimed, the court would have to decide the issue, not in terms of the abovementioned circular, but on the basis of the agreement entered into by the parties. In each of the three specific instances mentioned by the Controller and Auditor-General the members of the commission were appointed on behalf of the Government by the head of the Government department most directly concerned, and there can be no doubt that the officers who issued the letters of appointment to the members of the commissions in question had full authority to bind the Government in terms of those letters. It is assumed that in each instance no other correspondence bearing upon the question of remuneration passed <span class="col_765-766" refersTo="page_0449"/>between the Government and the member concerned than the letter of appointment from which the Controller and Auditor-General quoted the relevant passage in each case, and the member&#x2019;s reply accepting the appointment, and if that assumption is correct, the letter of appointment forms the basis of the whole agreement between the Government and the member. In order to determine the members&#x2019; rights to remuneration we need, therefore, merely to refer to their letters of appointment, and endeavour to ascertain the correct meaning of the words used. In appointing the members of the Mining Regulations Commission the Government undertook to pay each member &#x201C;an allowance of three guineas per day &#x2026; for each day on which the commission sits.&#x201D; The word &#x201C;allowance&#x201D; can only be read to mean a fixed fee or payment quite independent of any expenses to which the member may be put. It is not quite clear from the sentence quoted from the letter of appointment whether each member is to be paid three guineas for every day on which the commission whereof he is a member holds a sitting (whether he does or does not attend every such sitting) or whether he is only to be paid that sum for each sitting of the commission which he attends. But we are inclined to take the view that payment is due only in respect of each sitting attended. A member is offered the fee of three guineas per day as a remuneration for his services to be rendered in attending the commission&#x2019;s sittings and taking part in its business. He could hardly lay claim to remuneration for services which have not been rendered, and the parties to the agreement could not have contemplated the payment of a fee, in respect of every sitting of the commission, to a member thereof who might possibly not have attended a single one of those sittings. In any event there can be no doubt that no fee is payable under the letter of appointment in question in respect of any day upon which the commission held no sitting. No other rational meaning can be given to the words &#x201C;for each day on which the commission sits.&#x201D; As regards the sittings of the commission at Cape Town during a parliamentary session, the letters appointing members of Parliament to serve in the commission did not exclude the payment of fees for services rendered at Cape Town during such a session. The fee is, therefore, payable for services wherever and whenever rendered. The questions formulated by the Controller and Auditor-General in connection with the Mining Regulations Commission must, therefore, be answered as follows:</block>
+
+<ol>
+
+<li>(a) The &#x00A3;3 3s. must be regarded as a fee and not as a potential maximum per diem subsistence allowance;</li>
+
+<li>(b) that fee could not be drawn for the days on which the commission did not sit;</li>
+
+<li>(c) that fee could be drawn by members of Parliament serving on the commission for days on which the commission sat at Cape Town during a session of Parliament.</li>
+
+</ol>
+
+<p>Apart from the opinion of the law advisers, I ask hon. members to put to themselves this question. If they received a letter appointing them to serve on a body and were told that they were to be paid a fee of three guineas for every day on which that body sat, does it not mean exactly what it says? As a matter of fact, very little turns on the question this afternoon whether you give the narrower or the wider interpretation, that is, whether they are entitled to be paid only for days on which they actually sat, or the commission sat. The Auditor-General gives them the benefit of the wider interpretation, but it makes little difference to the figures I am going to quote this afternoon. The first meeting was held on the 23rd October, and, shortly afterwards Mr. Mulligan resigned from the chairmanship of the commission, and Mr. Advocate Pittman, of Pretoria, was appointed to take his place. Shortly after the sittings of the commission terminated that gentleman was raised to the bench. I have the minutes of the proceedings of that commission. There were 71 sittings and 71 minutes, but only for the first 19 meetings were they signed by the chairman. Going through those minutes, and tabulating what happened, I want to give hon. members the result. In November the commission held 13 sittings in Johannesburg from the 11th to the 28th. In December it held ten sittings, all in Johannesburg, from the 1st to the 15th. In January it held 15 sittings in Johannesburg, from the 6th to the 26th, and then it held a sitting on the 27th at Witbank. It went on the 31st of January to Messina, and held one sitting there. The movements of the commission can be ascertained from the records. It left for Witbank at 8 a.m. on the 26th of January, and arrived back at 8 a.m. on the 28th; it was, therefore, sitting at Witbank on the 27th.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>You are quite wrong.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am only mentioning what appears in the papers. It left for Messina at 8 a.m. on the 29th, and arrived back in Johannesburg on February 2nd. They left for Dundee at 9 a.m. on February 5th, and sat at Dundee on the 7th and 8th of February. From Dundee apparently they went to Durban, and sat there four days later&#x2014;one sitting&#x2014;and then they came round by boat from Durban to Cape Town, arriving on the 16th February, and continued their sittings here, Parliament having commenced the session on the 13th of February. So that the whole of the sittings of the commission in Cape Town took place while Parliament was in fact in session. Now I will continue. There were 17 sittings in January, as I have mentioned. They sat at Dundee on the 6th and 7th February. They sat in Durban on the 11th February, they travelled from there by boat at Government expense and reached Cape Town on the <span class="col_767-768" refersTo="page_0450"/>16th February, and commenced sittings on the 17th February. There were 11 sittings in Cape Town in February. In March there were 10 sittings from the 2nd to the 12th. This is the minute describing what happened at the meeting on the 12th March&#x2014;</p>
+
+<block name="#quote">65th meeting. The commission deliberated and adjourned until the 31st inst.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Who is that signed by?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>It is signed by no one. I have already mentioned that the minutes of the first 19 meetings are signed by the chairman. After that no minute is signed by anybody.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Why do you call them minutes?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Because they are what were presented to me by the Treasury when I called for the minutes of this particular commission. They are bound together in one document, and they are labelled and handed to me by the treasury as the minutes of the meetings of the Mining Regulations Commission. If any question turns on the validity of these minutes, that is one of the things I want inquired into. We want to get the secretary of the commission before us and ask him if these are the minutes, and are they an accurate reflection of the work of that commission, and if not, why not? We want to ask the chairman how he came to sign no minutes after the 19th meeting. If there are things of which these minutes are not an accurate reflection of what took place, the sooner we know it the better.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>What is your objection to the commission &#x201C;deliberating&#x201D;?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>None; the Minister must have been asleep. He is usually not so slow in the uptake.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I want to know what your objection is to the entry that the commission &#x201C;deliberated&#x201D;?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Not the slightest. Let me put it again. The point is that according to the minutes of March 12th the commission met and deliberated and&#x2014;and this is the point&#x2014;adjourned till 31st March, and&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>What is the crime in deliberating?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>No crime at all.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT (to the Minister of Defence)</person>:</from>
+
+<p>Have you not been deliberating a good deal lately?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Very smart!</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The 65th meeting of the commission took place on the 12th March, and the 66th meeting took place on the 31st March, the minute of which is as follows&#x2014;</p>
+
+<block name="#quote">The chairman submitted a draft report, which was considered. The commission deliberated, and adjourned until to-morrow at 10 a.m.</block>
+
+<p>The minutes for the ensuing five sittings show that the commission sat and deliberated on the draft report which was finally adopted and presented on the 8th April. The Minister will see later on the point that I was making when I mentioned that the commission adjourned from the 12th March to the 31st, and that on the 31st the chairman presented the draft report. According to the minutes of the commission there were 71 sittings. I find that the hon. member for Vredefort (Mr. Munnik) was absent from eight of them, Mr. Pittman absent from four&#x2014;</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>That is entirely incorrect.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am giving you what I find in the minutes. If the minutes kept by the secretary are incorrect, the hon. member will have an opportunity of showing it.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>You said those minutes were kept by the secretary. Where do you get that from?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>What I say is this, that a Government notice was issued which sets out the names of the members.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I am asking you where you get the facts that the minutes were kept by the secretary?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>If the hon. member will wait a minute, that question will be answered.</p>
+
+</speech>
+
+<speech by="#conroy">
+
+<from>Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>Don&#x2019;t make false statements.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I will not continue, Mr. Speaker, if you allow an hon. member to say &#x201C;Don&#x2019;t make false statements.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I did not hear what the hon. member said.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am endeavouring to put this matter in a fair and judicial way. The hon. member said &#x201C;Don&#x2019;t make false statements.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must withdraw that.</p>
+
+</speech>
+
+<speech by="#conroy">
+
+<from>*Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>The hon. member for Vredefort denied that the facts alleged by the hon. member for Bezuidenhout were facts.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>But the hon. member must not say that another hon. member made a false statement. I want to point out that the hon. member for Bezuidenhout (Mr. Blackwell) repeatedly said that he had obtained his data from minutes which appeared to be the minutes of the meeting. The hon. member for Hoopstad (Mr. Conroy) must withdraw that the hon. member for Bezuidenhout made a false statement.</p>
+
+</speech>
+
+<speech by="#conroy">
+
+<from><span class="col_769-770" refersTo="page_0451"/>*Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>I did not say that he was making a false statement; I said that he must not co so.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It practically comes to the same thing.</p>
+
+</speech>
+
+<speech by="#conroy">
+
+<from>*Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>I withdraw.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>On a point of order&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Order. The incident is closed.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I want to put the position exactly as I find it from these papers, and I am telling hon. members exactly what these papers reveal. They are the official records of this commission as supplied to the public accounts committee on request by the treasury. If these papers do not contain a true record, it would be perfectly easy for the hon. gentlemen opposite who are concerned, to show that that is the case. Let me assure them that if they think they can deflect me from my course by jeering remarks, or suggestions of that sort, they have mistaken their man. I return to the interjection of the hon. member for Vredefort (Mr. Munnik). Under the Government notice Mr. J. P. Rabie was designated as secretary and the very payments made to the two hon. gentlemen opposite are payments vouched by the same gentleman, Mr. Rabie. I claim that I am justified in saying that these are the minutes on the face of them, those kept by the secretary of that commission. I framed my motion in such a way as to give the hon. gentlemen opposite an opportunity of putting their position before the House. In the meantime I am telling this House what these documents disclose. I say that according to these minutes Mr. Munnik was absent from 8 of the 71 sittings, Mr. Pittman was absent from 4 of the 71 sittings, Mr. Wessels was absent from 1, and Mr. Waterston was absent from 1, so that Mr. Waterston attended 70 sittings, Mr. Munnik 63, Mr. Pittman 67 and Mr. Wessels 70. I have given some account of the work of the commission as disclosed by the official record of the commission handed over, as I say, by the treasury with whom it was deposited. Now I have here the records of the monies drawn by members of the commission, the treasury vouchers for the payments made to them and the supporting claims, and I propose, now, to take each member of the commission, to tell you what they were entitled to under the letter of appointment and on the Taw adviser&#x2019;s opinion and what they drew. Starting first of all with the chairman, Mr. Pittman, Mr. Pittman commenced serving on this commission in November and finished in April and during that time he attended 67 meetings. On that basis he would have been entitled at the rate of three guineas per meeting to &#x00A3;210 15s. What he drew in fact was &#x00A3;375 Os. 6d. May I mention one thing which is common to all the members of the commission? The minutes, which in this case are signed by Mr. Pittman, say this, that on the 12th November the commission held its third meeting and the commission deliberated and adjourned until Friday at 10.15 a.m. I had better read the whole thing&#x2014;</p>
+
+<block name="#quote">Third meeting, Wednesday 12th November, New Law Courts, Johannesburg. The commission deliberated and adjourned until Friday at 10.15 a.m.</block>
+
+<p>so that no meeting was held on Thursday the 13th, and the next meeting, the fourth, was held on Friday, the minutes of which are also signed by the chairman. According to the official minutes no sitting was held on Thursday 13th, and yet every member of this commission has specifically and in terms put in a claim for sitting on the 13th November and I will read the claims now. Mr. Pittman&#x2019;s claim is as follows: &#x201C;Attending sittings of commission up to and including 30th November.&#x201D; Let me deal with the others on that same point. Wessels&#x2019; claim for November is: &#x201C;Attending sittings of commission up to and including 30th November, meetings on 11th, 12th, 13th, 14th and 17th&#x201D; and so on. Mr. Waterston and Mr. Munnik have exactly the same claim; in other words they claim that they sat on the 13th and they put it specifically in their vouchers. Let me read the form of these vouchers. I have here Mr. Munnik&#x2019;s. This is the form: &#x201C;Attending sittings of commission up to and including 30th November, 1924, meetings on 11th, 12th, 13th, 14th, 17th, 18th,&#x201D; and so on, and the certificate at the bottom is as follows&#x2014;</p>
+
+<block name="#quote">I certify that I was actually and necessarily employed or detained on public service during the period stated, and that the charges are in accordance with the authorised rate and that the incidental expenses charged have been actually disbursed.&#x2014;Signed J. B. Munnik, M.L.A. Approved W. Pittman.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Quite correct.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I have shown in regard to all four members of the commission that there was no sitting and it was never intended there should be on the 13th November, and yet all four members have claimed and been paid for a sitting on that date. Another curious thing about Mr. Pittman&#x2019;s claim is this: During November and December he makes no claim for any Sundays in these months; in other words, in reckoning out what he is entitled to, he eliminates Sundays. When you get him at Cape Town from the 16th February to the 8th April, not only does he charge for Saturdays, but for Sundays as well. Then according to the itinerary of the commission it is quite obvious that many other days are spent in Johannesburg on which the commission did not sit, towards the end of January and the beginning of February. Yet this three guineas a day is charged for those days. The commission sat on February 7th at Dundee and they next sat at Durban on the 11th. A charge is made for all the intervening days. I have dealt with Mr. Pittman. Mr. Wessels I can summarise in the same way. He attended 70 sittings, he was entitled to &#x00A3;220 10s. and he drew &#x00A3;415 9s. Now we <span class="col_771-772" refersTo="page_0452"/>come to Mr. Waterston. The first real meeting of the commission took place on Wednesday the 12th November. Hon. members will remember that Mr. Waterston lived in Benoni&#x2014;an hour&#x2019;s journey from Johannesburg,&#x2014;and his first claim form is a charge for 16 days for November at the rate of three guineas a day. In other words the commission held 14 sittings, he was entitled to &#x00A3;44 2s. and he drew &#x00A3;50 8s. In December the same thing occurred with regard to Mr. Waterston.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>That is to say in November I drew two days too much.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Yes, including the 13th November, when there was no sitting. On Wednesday, the 3rd December, the commission held its 17th meeting and the minute says the commission deliberated and adjourned until Friday next at 10.15 a.m.; signed by the chairman. The next meeting was held on Friday the 5th, and no sitting was held on the 4th December. Yet, when I look at the hon. gentleman&#x2019;s claim I see it is for meetings held on the 1st, 3rd, 4th, 5th, 8th and 9th December. In other words a claim was made for a sitting on the 4th December whereas the minutes of the commission signed by the chairman show that no meeting was held on that date. He attended ten sittings in December, was entitled to &#x00A3;31 10s and drew &#x00A3;34 13s. In January the commission held 17 sittings, which would entitle the hon. member to &#x00A3;53 11s., instead of which he drew &#x00A3;63. In February the hon. member attended 13 sittings, all of them practically here in Cape Town while Parliament was sitting; he was entitled to &#x00A3;40 19s., and drew &#x00A3;74 4s.; in other words, he drew for Saturdays and Sundays, when the commission did not sit. In March the commission sat on 11 days, he was entitled to &#x00A3;34 13s. and drew &#x00A3;40 19s.; in other words, two days too many. I want to say here right away that one thing the hon. member did not do&#x2014;he did not make any charge for the interval 12th to 31st March, while the chairman was preparing the draft report. In April the commission sat on five days deliberating over the draft report; he was entitled to &#x00A3;15 15s. and drew &#x00A3;25 4s. Summing up, the total to which he was entitled was &#x00A3;220 10s. and he drew &#x00A3;288 8s. Now we come to the hon. member for Vredefort (Mr. Munnik). The commission held one sitting in October; the hon. gentleman was entitled to &#x00A3;3 3s. and drew &#x00A3;15 15s. He charged the commission at the rate of &#x00A3;3 3s. a day from the time he left his home at Dordrecht until the time he got back there.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">B. J. PIENAAR</person>:</from>
+
+<p>Any objection to that?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am surprised that the Chairman of the Public Accounts Committee should ask me if I have any objection. All I can say is that if that is the spirit in which the hon. gentleman conducts his duties I am sorry for the deliberations of that committee. Now we come to November. There were 11 sittings; the total the hon. member was entitled to was &#x00A3;34 13s., and he drew &#x00A3;64 11s. 6d. In December there were 10 sittings; he was entitled to &#x00A3;31 10s., and he drew &#x00A3;50 8s. In January he was entitled to &#x00A3;47 5s. and drew &#x00A3;80 6s. 6d.; in February he was entitled to &#x00A3;37 16s, and drew &#x00A3;71 1s.; in March he was entitled to &#x00A3;34 13s. and drew &#x00A3;97 13s.; in April (there were five sittings only, but he missed two) he was entitled to &#x00A3;9 9s. and drew &#x00A3;25 4s. Summing this up the hon. gentleman was entitled to &#x00A3;198 9s. and drew &#x00A3;404 19s. His first claim form has no signature at all, and the Treasury paid out without a signature&#x2014;and five times too much. On the 13th November there was no sitting, but that claim is specifically included. He did not attend the sittings in Dundee, according to the minutes. On the 31st January the commission sat at Messina and on the 7th and 8th February at Dundee. Next time we find the hon. gentleman sitting on the 11th February at Durban. He charges for 9 days at &#x00A3;3 3s. and omits &#x00A3;3 3s for two days he did not actually sit. In many cases these claims are antedated. They may be dated on the 25th or the 26th, and he makes a claim up to the end of the month at the rate of &#x00A3;3 3s. a day. I think the climax of it all is reached when the hon. member for Vredefort comes to Cape Town. He arrives on the 16th February, and the commission sat at irregular intervals&#x2014;27 sittings in all up to the 8th April, of which he attended 25, and he has drawn at the rate of &#x00A3;3 3s. from both the date of his arrival in Cape Town (16th February) right up to the 8th April, including Saturdays and Sundays&#x2014;&#x00A3;166 19s in all, although the minutes show that from the 12th to the 31st of March the commission adjourned. May I say I have taken the trouble to go through the records of the proceedings of Parliament during that period, and I find that the hon. member for Brakpan (Mr. Waterston) and the hon. member for Vredefort (Mr. Munnik) were not inactive in Parliament during that time. There is scarcely a division which they missed, and they made many important and weighty speeches. According to the figures I have read out, the four members of the commission were entitled to &#x00A3;850 4s., and drew between them &#x00A3;1,483 16s. 6d. According to the minutes of the commission, these gentlemen had two sittings in Dundee on the 7th and 8th February and there examined a number of witnesses. On the 11th February we find them In Durban sitting in the committee room of the City Hall and examining some of the same witnesses they examined in Dundee; with this addition they examined Mr. Williams and Mr. Milne, inspector of mines&#x2014;</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>That was done at the request of the employers.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Two of the members of the commission had free railway passes and the others were entitled to railway warrants They took the boat to Cape Town, and I have here the little bill from the Union-Castle Company for this trip. It amounts to &#x00A3;44 12s. 6d., after deducting the 15 per cent. Government allowance, this being the cost of five first class single fares from Durban to <span class="col_773-774" refersTo="page_0453"/>Cape Town for Advocate Pittman, Messrs. Munnik, Waterston, Wessels, and Rabie (secretary). Each of the members of the commission has charged the Government a guinea a day for travelling round the coast on a mail boat.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Is that the only joy ride?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>When I look through these records I am surprised; firstly, that the treasury could ever dream of paying not only this amount, but a number of other items, and, secondly, that the Auditor-General personally did not go through these accounts. Let me give just one instance which has to do with the commission. Mr. W. A. Butler, of the Trades Hall, Johannesburg, who, I believe, is assistant secretary of the Engine Drivers&#x2019; Association, gave evidence before this commission in November, and he has made a claim for February and March, as follows&#x2014;</p>
+
+<block name="#quote">As requested by the secretary, left Johannesburg on February 20, at 10 p.m., arriving back on March 7, at 7 a.m.&#x2014;23 days at 30s. a day.</block>
+
+<p>In this he includes Sundays and Saturdays. Under the rate of subsistence laid down by the commission, the secretary and shorthand writer received 15s. a day, but the Treasury in the voucher paying Mr. Butler&#x2019;s account say it is for subsistence and loss of wages in attending the Mining Regulations Commission at Cape Town. Where they get the loss of wages from I don&#x2019;t know. It does not appear in Mr. Butler&#x2019;s claim, and he was not a journeyman at all. There is no legal warrant for the payment of a claim of this nature. The papers are full of similar claims, and the Treasury&#x2019;s only business seems to have been to forward cheques whenever they were called for by the secretary of the commission I am appalled at the state of affairs revealed by the documents, not only in regard to the four gentlemen who formed the commission, but in regard to the other expenses of the commission itself. If I placed these accounts before a commercial auditor, he would say that at least &#x00A3;1,000 could have been saved if there had been proper scrutiny by the Treasury and a closer audit by the Auditor-General. I have given all the facts which are necessary, and there are certain general observations I wish to make. I wish to say exactly how I come to be making this speech. These papers were in my possession twelve months ago. I was then urged to launch this matter forthwith and to denounce in strong terms the conduct of the two hon. gentlemen and the other members of the commission.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Who urged you?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Never mind about that. So impressed was I by the seriousness of the matter [interruption by Mr. Hattingh] I would not expect the hon. member for Krugersdorp (the Rev. Mr. Hattingh) to be impressed&#x2014;that I moved in the Select Committee on Public Accounts that the papers be referred to the Auditor-General for inquiry and report. That was done with the knowledge of at least one of the gentlemen concerned.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>No, I resigned from that committee.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>When I proposed that motion it was suggested that I should not confine it to this commission.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">B. J. PIENAAR</person>:</from>
+
+<p>You should inquire into your own commission as well.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>That is an unworthy remark.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must not attribute unworthy motives.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The hon. member and I have been personal friends, and we have served together, and he has never seen anything of my conduct which suggests that I have anything to hide. He is the chairman of that Public Accounts Committee, and we had to ask him last year to retire from the room while matters were being considered, brought up by the Auditor-General, in which his name was discussed.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member cannot deal with that now. The hon. member is not entitled to deal with matters in select committee which are not in possession of the House.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Quite so, but the motion was public property. As the result of what was said, I was asked to expand the ambit of my resolution to include all commissions.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">B. J. PIENAAR</person>:</from>
+
+<p>It is rather late in the day.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>This arose because the Auditor General severely criticized the hon. member who has interrupted me and other friends of his on that side of the House for their conduct in taking fees for sitting on commissions while they were attending Parliament in Cape Town.</p>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">B. J. PIENAAR</person>:</from>
+
+<p>And places where they live.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Having moved the resolution, I was asked if I would include all commissions on which members of Parliament had served and I said: &#x201C;Certainly.&#x201D; In that spirit I moved the resolution which appears on page 21 of the Auditor-General&#x2019;s report. [Resolution read.] I appeal to the chairman of that committee if any suggestion for widening the scope of the investigation was not accepted. I decided that it would not be fair to use the papers or to make them public until they had been placed before the Auditor-General with a mandate to inquire into them. He has made that inquiry and the result will be seen in his report. But let me go further. I would have been justified, on this report of the Auditor-General, in moving that this House pass a vote of censure on the four members of the commission because the Auditor-General has said exactly what I have said this afternoon. <span class="col_775-776" refersTo="page_0454"/>I recognize, however, that neither of these gentlemen, both members of this House, or the other members of the commission, have been given an opportunity of putting their case before the House or the public. It was because I am certain they will welcome the opportunity of meeting the charges expressed or implied, and contained in figures I have given this afternoon, that I have moved the mation in its present form. They will welcome the opportunity of explaining how they came to draw money to which prima facie, at any rate, they were not entitled. I have not made an attack on the character of the hon. gentlemen, but have stated the facts from the records. I am certain no member of the House will do anything to shield hon. members guilty of wrong-doing. The Public Accounts Committee is the watchdog of the public purse and should have a full opportunity of going into the matter. That is all we ask, no more and no less. There may be an explanation, if so, let us hear it. That is all we ask.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>That is what you will get.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I want to ask the treasury how they came to make the extraordinary payments to members without scrutinizing the minutes of the records. No Government dare refuse and no party dare refuse a motion for inquiry such as this. We are reaping this afternoon some of the fruits I predicted three years ago would be the fruits when the Government embarked on its policy of appointing all and sundry on these commissions. When the Government got into power three-and-a-half years ago it had a perfect orgy of appointing commissions on every conceivable subject, and one out of every two of its backbenchers were put on these commissions.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>What are you?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The hon. member&#x2019;s talk is exceedingly cheap.</p>
+
+</speech>
+
+<speech by="#allen">
+
+<from>Mr. <person refersTo="hansard_za">ALLEN</person>:</from>
+
+<p>You are a shining light!</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I am throwing a certain amount of light on the doings of the Pact. We warned the Government what would happen if they insisted on appointing commissions, and in appointing almost exclusively their own followers on those commissions. I want to read what the Prime Minister said to the House three years ago on a discussion initiated at the time when these commissions were rampant. [&#x201C;Hansard&#x201D; quoted, Vol. IV, col. 2993, 1925.] I have quoted to-day one of the first fruits of that policy, and I am sorry the Prime Minister is not here this afternoon to hear what has been going on. One member drew three guineas a day from the time Parliament sat for a period of seven weeks, Sundays included, on every day the commission sat. The hon. member for Brakpan (Mr. Waterston) did not draw for three weeks of that period, but he did draw for the remainder. Matters like this cannot be allowed to pass. I have done what I have done without any ill-feeling towards those gentlemen I have mentioned.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I second.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I wish to deal with the last words of the hon. member for Bezuidenhout. He says he hopes no member of the House will do anything to shield the members from a party point of view, and there will be no hushing up, etc., but the hon. gentleman, whilst posing as being absolutely fair and saving that he holds myself personally in the highest regard, loses no opportunity that presents itself to him of casting: a slur on my character. I also ask every member of this House, irrespective of party, to vote and act, irrespective of party feelings on this matter. Without attempting to be personal, and without taking up the attitude, if one has a bad case of abusing one&#x2019;s opponent, for I have a good case, an excellent case, I want to ask the hon. member, who is an advocate, if any of his clients were to make a searching examination into his charges whether it would not be a difficult thing indeed to explain to them exactly on what basis he frames those charges. Whilst not saying that there would be anything dishonest or anything of that description, I do say it would be most difficult for the hon. gentleman as a professional man to justify his charges. I also want to say this to him, that he is paid his fees as an advocate not only for the days he may appear in court on behalf of his client, not only for the days on which the court actually sits, but he is also paid his fees for any other work that he may do on behalf of that client. The hon. gentleman feels that he is legally and morally entitled to draw those fees, but no one would attempt to insinuate for one moment that the hon. gentleman is overcharging. It all depends on the point of view. I put this to the hon. gentleman, as it will perhaps help him to understand the case that I intend to put before this House. I welcome any enquiry so far as I am concerned, and I think the same applies to the hon. member for Vredefort (Mr. Munnik), but I want a square deal, and up to now I have not had a square deal. Broadcast throughout the length and breadth of this country in the newspapers are all sorts of insinuations and innuendoes against the characters of myself and my friend the hon. member for Vredefort.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>By whom?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>The newspapers have published the report of the Auditor-General in this form: &#x201C;Money earned, so much; drawn, so much.&#x201D; I hold no brief for the newspapers, they know we are not too fond of each other, but during my public career I have invariably found them fair when discussing my private character. I take strong exception to the way the Cape Times&#x201D; reported this resolution, because they stated that the Auditor-General had said that this is illegal and improper. The hon. member <span class="col_777-778" refersTo="page_0455"/>himself (Mr. Blackwell) has used those words in his resolution, but he did not put one thing before this House to prove in any shape or form that I have been guilty of improper conduct. Why did the hon. member put it in the resolution? Of course, the whole thing has been done purely out of consideration for myself in order that I should have an opportunity of putting my case before the House! We must remember that this commission sat three years ago. It finished its labours three years ago, and these allegations have dragged on, and we are asked now to go back three years and explain this and explain that, a most difficult procedure. As for the hon. member for East London (North) (Brig.-Gen. Byron), who is smiling, I can assure him that it would be very difficult for him to go back three minutes or three days, let alone three years. Now let us take the Auditor-General&#x2019;s report. As far as the Auditor-General is concerned, I do not wish anything I may say here to-day to be taken as in any way derogatory to that gentleman. I have always in my past experience of the Auditor-General admired the fearlessness and impartiality of his methods in carrying out his work. When we come to consider the report, I submit that the Auditor-General in dealing with certain matters is apt to and has made mistakes, owing, doubtless, to the meagre sources of information and documents placed at his disposal. He laid a charge against the hon. member for Vredefort and myself to the effect that we had sat on a commission, and that during the session of Parliament we had drawn three guineas per day for sittings of that commission, and he contended that it was illegal for any member of Parliament to draw fees while Parliament was in session for sitting on a commission. In this report he now admits that when he made that statement in his previous report, he had not yet had an opportunity of seeing the letter of appointment of the members of that commission. He, therefore, now states that we were legally entitled to draw three guineas a day for every sitting held in Cape Town while Parliament was in session. As he was mistaken in the previous instance, as he made up his statement without having the full facts in front of him, so I contend he is mistaken again. If the Auditor-General had the full facts in front of him in connection with this commission, the worst he could find would be that it would be necessary to tighten up the regulations, and he may find that certain monies, as the hon. member for Bezuidenhout (Mr. Blackwell) stated, spent by that commission could have been saved. But even in Parliament itself thousands and thousands of pounds could be saved, and ought to be saved, which are spent and very often ill-spent. The Auditor-General admits that he was wrong, because he had not seen the letters of appointment. In his present report he pleads that members of Parliament, members of the commission, drew certain monies to which they were not entitled. It is entirely unfair, I submit, for the Auditor-General to say that. Probably he says that because it was owing to the presence of members of Parliament on the commission that he was asked to enquire into the matter. He should have been asked to enquire into every member of the commission, because, even on the showing of the hon. member for Bezuidenhout, every member of the commission was in exactly the same box. On reading the Auditor-General&#x2019;s report, I submit to this House that one would be led to believe that we had taken advantage of our position as members of Parliament in order to draw something that other members of the commission had never drawn. I urge that it is entirely unfair to the members of Parliament that that paragraph should read in that particular way. It should read: Members of this commission, including the members of Parliament, drew certain monies, etc. Then we would have no grounds for complaint on this score. As I say, I do not like this singling out of members of Parliament any more than I like it in the motion of the hon. member for Bezuidenhout. I say it was most unfair.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>On a point of explanation&#x2014;</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Just let me conclude my sentence. The hon. member wants to get up and make a personal explanation, but to my mind it is not necessary, because I was going to say that I was very pleased when he stood up and outlined the whole of the thing as affecting all the members of the commission.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>My resolution, as set down originally, did not mention the names of these two hon. members. I was then told that under the rules of the House, unless they were named specifically, I would not be allowed to refer to them, and for that reason only their names were inserted. My intention all along was to criticize the commission, if they were criticized, as a whole.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I am also very pleased to hear that. I took this as a singling out of certain individuals for attack. Of course, I have quite a long experience of being attacked, and I am used to it. I did not make any enquiries, but simply waited until to-day to meet the case. Another mistake in the Auditor-General&#x2019;s report&#x2014;and here my hon. friend also goes astray, because he takes everything for gospel in these documents&#x2014;is where he states that at the first meeting of the commission the secretary read the regulations to the meeting and that no discussion took place in connection with the regulations. I say the question of remuneration was raised, and the Auditor-General and the hon. member were wrong in suggesting that the matter was not discussed. There is another thing hinges on the Auditor-General&#x2019;s report, and I want to ask the House what does the word &#x201C;sitting&#x201D; mean. The Auditor-General in one part calls it a &#x201C;sitting,&#x201D; in another part he calls it a &#x201C;meeting.&#x201D;. We were told that the interpretation <span class="col_779-780" refersTo="page_0456"/>put upon it&#x2014;not by myself or by the hon. member for Vredefort (Mr. Munnik), but by the Government officials on that commission&#x2014;was that it was while the commission was in session. I am not a man who could possibly afford to travel to Messina and be in Messina for a week and draw &#x00A3;3 3s. for my expenses, as payment for one actual sitting. I could not have possibly gone on the commission on those terms. I could not have travelled for a week or a fortnight investigating mining conditions, going underground, etc., unless I was being paid for it; because I could make money elsewhere during the recess, the same as the hon. gentlemen opposite do. Our advocate friends think it no crime to neglect, very often, their Parliamentary duties in order to attend court to make more money. Had I not been informed that while the commission was in session I was entitled to &#x00A3;3 3s. a day, I would never have sat on that commission. As the statement of the hon. member for Bezuidenhout is made to the House it sounds very bad indeed, and hon. members would think we had done something we ought to be thoroughly ashamed about.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>And if we had done what it appears to be, I for one would be very ashamed. If I had claimed &#x00A3;3 3s. for a day on which that commission did not work and on which I did no work myself&#x2014;and I may tell the hon. member I put in work on Sundays, too&#x2014;I would be thoroughly ashamed of myself. We will agree the commission sat in Johannesburg on the 12th of a certain month. The commission adjourned until the 14th. We had been hearing witnesses and taking evidence, and decided to make an inspection of a particular mine on the 13th. We adjourned the sittings of the commission until the 14th, and I put in my claim for &#x00A3;3 3s. for the 13th. Good Heavens! if the hon. member can go into court and draw &#x00A3;10 10s. or &#x00A3;12 12s. a day, surely I can get &#x00A3;3 3s. for going down a mine and risking my neck. My life may not be very valuable to the hon. member, but it is valuable to me and my family. Surely the hon. member would say that even if it was held that legally we were not entitled to draw such fees, morally we were, and surely he would not contend that when we put in claims of that description we were doing something improper. I do not like the way the hon. member stated his case. It was not playing cricket. It was not in accordance with the highest traditions of the bar&#x2014;I won&#x2019;t say which bar. What does &#x201C;sitting&#x201D; mean? When we were informed that it meant the session of the commission, and acted accordingly, we acted in good faith. Then there is the terrible crime urged against us of coming round the coast by boat. Before we did that the chairman made representations to the Government for permission for the commission to come round by boat instead of rail.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>You did not take your wife with you, like some of these people.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>No, I did not. I want nothing hushed up. I want no favours. I meet this case without fear or favour. What an awful crime for me, one of the &#x201C;ragtag and bobtail&#x201D; of this House, a backbencher, being put on this commission! No intelligence and no experience! My having travelled first class on a steamer might have contaminated some of the hon. members opposite! Nevertheless, I am satisfied I am not guilty of any improper conduct in connection with that. If the hon. gentleman were offered the choice of going between Cape Town and Durban either by steamer or by rail, I am sure he would jump at going by the steamer, as I did. I must say I take very strong exception to the wording of the motion. I welcome an inquiry, but it must be a proper one. The hon. mover has sat like a hen on eggs on this particular document for from 12 to 18 months, according to his own statement, and I think the hatching has lasted long enough. I think it is now time that the hon. gentleman came to a conclusion, instead of all these innuendoes and slurs. We are entitled to a proper inquiry, and not to all this tinkering&#x2014;an inquiry at which we shall be present, and at which we are entitled to have witnesses called.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Of course.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>The hon. gentleman has proposed that it should go to the Public Accounts Committee. I want to ask him what line or statement in paragraph 49 justifies the use of these words&#x2014;&#x201C;grave state of affairs disclosed&#x201D;? What paragraph or line or words in that report justify the words&#x2014;&#x201C;illegal and improper&#x201D;? My objection is to the linking up of &#x201C;grave state of affairs&#x201D; and &#x201C;illegal and improper&#x201D; conduct with the names of the hon. member for Vredefort and myself, which cannot fail in this or any other country but cast a stigma on our personal integrity as members of this House. I hope the hon. member will deal with that in his reply.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I have no reply</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>That is very unfortunate, because we would very much like to have heard what you had to say on the stool of repentance. The hon. gentleman&#x2019;s first attack in this House on members of Parliament serving on commissions was against the principle of members sitting on commissions at all. He said it was wrong for them to do so, and that a member of Parliament received his salary, which covered his work the whole year round; that, as a member of Parliament, he ought to be satisfied with his parliamentary salary. He honestly believed all that, until he succeeded in his object and until he became a member of a commission on which there were none but members of Parliament. Why this change? The hon. gentleman who was against a member of Parliament sitting on a commission <span class="col_781-782" refersTo="page_0457"/>and drawing three guineas a day has actually drawn his two guineas a day for sitting on a commission in his own home town of Johannesburg. The hon. gentleman made a little point of the fact that I live at Benoni, an hour away from Johannesburg, and drew three guineas a day.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>On a point of order [interruption] On a point of personal explanation.</p>
+
+</speech>
+
+<speech by="#deputy-speaker">
+
+<from>&#x2020;The <person refersTo="hansard_za">DEPUTY-SPEAKER</person>:</from>
+
+<p>Does the hon. member for Brakpan (Mr. Waterston) wish to give way?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>If the hon. member can deny the accusation.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I have been accused of attacking the hon. member for being a member of Parliament serving on a commission. He will show me nowhere or in Hansard where I made such a charge. What I did say was that though occasions would occur when it was right to appoint members of Parliament on a commission, it was overdone by the Government, and the impression was that jobs were being created that way. In 1925 I was offered by the Minister of Finance a position on the Pensions Committee, and I refused. Last year the select committee having sat on the Liquor Bill and it being necessary for three members of that committee to carry on the work, I was approached by the Minister of Justice and earnestly asked to give my time to serving on the special drafting committee&#x2014;at a time when I was extremely busy professionally.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>Mr. <person refersTo="hansard_za">M. L. MALAN</person>:</from>
+
+<p>What an excuse!</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I put in three months of my time, sitting most of the time at Pretoria, which is not my home town, and about a third of the time in Johannesburg, at two guineas a day; but I did not charge for any ay on which the commission did not sit.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>And if the committee on which he sat had gone making an inspection of the bars, I take it he would have charged. It is easy for the hon. gentleman to make these insinuations. He deliberately said I lived at Benoni, an hour&#x2019;s run from Johannesburg. I say he lives in Johannesburg and sat in Johannesburg, and drew his fee. During the time he sat in Johannesburg he was put to no extra expense. While we sat in Cape Town the Auditor-General said we were put to no expense, and therefore should not have charged. If the principle is wrong in the one instance, it is wrong in the other. If it is right for the hon. member for Bezuidenhout, that brilliant light in this country, to charge fees when he incurs no extra expense, it is right for me. What is the difference? I was asked to serve on the commission. I had not been a pal running round looking for a job or a seat in the future Cabinet as it is reputed the hon. member is doing. Even if I am looked upon by the hon. member for Bezuidenhout (Mr. Blackwell) as a back bencher, he will agree that I know a little about conditions in the mining industry. The first meeting that I attended was held in Pretoria.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>The minutes do not say that.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I was not the secretary and I am not responsible for the minutes. Does the hon. member hold himself responsible for the minutes of the Liquor Commission? Of course he had nothing to do with them. Mr. Mulligan, who was the first chairman of the Mining Commission Regulations resigned because the remuneration of three guineas a day was inadequate. He wanted six guineas. We had a meeting at Johannesburg where the secretary read the regulations which laid it down that I was entitled to nothing but reasonable expenses, but that (the Treasury would decide whether the expenses were reasonable or not and what payment would be made. While the hon. gentleman says he gives up important work to devote himself to public affairs I had to give up the work of looking after my wife and family, which is just as important to me as his work is to him.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Hear, hear!</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I could not afford to remain on the commission without adequate remuneration and it was decided that the hon. member for Vredefort (Mr. Munnik) and myself should leave it to the secretary and the chairman to find out what the remuneration was to be. At the next meeting we were informed that the remuneration would be three guineas for every day that the commission was in being.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Including Saturdays and Sundays?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Certainly, if we were away from home&#x2014;that has been done repeatedly. If I am away from home on the work of a commission and stop at an hotel on a Sunday the proprietor charges me just as much as if I were staying there on a weekday. We contend that we were legally and morally entitled to the three guineas, which we drew properly and not improperly.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Did you get a fresh letter of appointment?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>No. Not looking for any pitfalls in connection with my dealings with an honourable Government I did not consider it necessary to submit the letter to an advocate. If what I am saying is untrue why did the Treasury pay? I have acted bona fide and honestly right through, and I have nothing to apologise for or be ashamed of. I have not drawn a penny to which I did not consider I was legally and morally entitled. I was told that I was entitled to draw for every day I was in Cape Town whether the commission was sitting or not, but I did not do it. The hon. mover had pointed out that I did not draw as much for Cape Town sittings as the hon. member for Vredefort. I refuse to accept the hon. member&#x2019;s compliment at the expense of the hon. member for Vredefort. I <span class="col_783-784" refersTo="page_0458"/>said in connection with certain work we could save expense by leaving it to the Chairman and the hon. member for Vredefort and the other members of the commission remaining away.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Do you know that Mr. Wessels charged for the whole of that time?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>He may have done so as far as I am concerned. I want hon. members opposite who may dislike the hon. member for Vredefort to recognize that he did certain work in connection with the drawing up of the report in which I had no part. But I took to the place where I was staying in Cape Town certain books and documents in order to assist in drawing up the report for the commission, and in this way assisted to bring our labours to an earlier conclusion than we should have done by sitting only in the day time and trying to make a few pounds by doing so. I stayed up late at night and also worked on Sundays as there was a tremendous amount of work to be done. We got through with the work quicker by spreading it over the different members of the commission. It is difficult to go back three years and delve into minutes with which I had nothing to do, but I am satisfied the hon. member is doing the hon. member for Vredefort (Mr. Munnik) an injustice. If what was done was improper then the secretary of the commission, Mr. Rabie, is being seriously indicted in that he did not report to the Government that they were being robbed. We were informed what the position was and that these were the terms which we were entitled to and we carried that out. After the trouble as to what we were entitled to, the secretary came to me in connection with the accounts and asked me to make out my claim. In view of the fact that there had been discussion as to what we were entitled to, I asked the secretary to make up, in consultation with the chairman, what I was entitled to. I would sign the account. That is what he did.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>You are wrong. You made alterations yourself in your own writing.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>The hon. member is quite correct. I did make alterations. Will the hon. gentleman tell the House what the alterations were? I reduced the amount by three guineas. [Time limit extended.] The hon. member said I was wrong when I said the forms were filled in by the secretary. I say I am right. I remember the secretary coming in once and telling me he was not sure whether I was entitled to payment for a certain day, and I crossed out that amount myself.</p>
+
+</speech>
+
+<speech by="#anderson">
+
+<from>Mr. <person refersTo="hansard_za">ANDERSON</person>:</from>
+
+<p>You happened to add it, not take it off.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I reduced it three guineas and you can prove it from the vouchers. The hon. member must not mistake my writing for someone else&#x2019;s. But that does not alter the main point. The main point he made was that I was not correct in saying the claim was filled in by the secretary, but, as I say, the claims were made out by the secretary in consultation with the chairman and if there is any indictment in connection with illegal or improper conduct, then I say the secretary and the chairman should be charged with conspiring to defraud the Government! If the hon. member had not mentioned the fact that out of 71 possible meetings Mr. Pittman attended 67 and drew &#x00A3;347 7s. 6d. and Mr. Wessels attended 70 meetings and drew &#x00A3;415 9s., and I attended 70 meetings and drew &#x00A3;288 8s., I should not have drawn attention to it myself. If it was wrong in principle for members of Parliament it was also wrong in principle for non-members, and does the hon. member for Bezuidenhout (Mr. Blackwell) suggest that Mr. Justice Pittman would be guilty of trying to defraud the Government out of a few pounds? Does the hon. member think I was guilty of dishonest conduct?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Do you want an answer?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Yes, but not a lawyer&#x2019;s answer. A straight answer, yes or no.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Then I do not think you are guilty of improper conduct.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>That&#x2019;s all right, thank you, but I think if I had not been a member in this House and a member of the Labour party this resolution would not have been on the Table to-day. For the same work performed by non-members of Parliament I receive &#x00A3;86 4s. 6d. less than Mr. Justice Pittman and &#x00A3;127 1s. less than Mr. Wessels, and again I ask are these non-members of Parliament guilty of illegal or improper conduct? Whilst the commission was sitting in Cape Town I recognised that even though I had been informed that legally we were entitled to draw three guineas a day for every day away from home, I recognised the fact that whilst in Cape Town I was attending to my Parliamentary duties too. At the same time I carried on the work of the commission and my work in Parliament just as efficiently as hon. members who happen to be professional men or leading commercial men of South Africa who live in Cape Town and continue their businesses while in Parliament. The only difference was I probably worked harder and got less money for it. I think as far as this resolution is concerned I have now dealt with every aspect of the case. If there is anything I have not explained I shall be pleased to hear of it. Reverting to the commission&#x2019;s visit to Witbank, I think the hon. member was wrong in the length of time we stayed there. We went underground in the coal mines in addition to sitting and taking evidence so we could not have gone at 8 o&#x2019;clock p.m. on one day as stated, and returned at 8 a.m. on the third day. We could not possibly have done it. We sat there taking evidence. In addition to that we went down the mines.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from><span class="col_785-786" refersTo="page_0459"/>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>What about the minutes?</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I do not know whether it is in the minutes, but the manager of the collieries there will be able to confirm what I say. We spent three or four days at Witbank and we spent about a week in going to Messina. Does the hon. member think &#x00A3;3 3s. for the one sitting should cover all of the expenses for Messina? After all hon. members should be fair. They must look at this question from the point of view of what is fair and square remuneration. Right through the Auditor-General&#x2019;s report he speaks of &#x00A3;3 3s. per day as being a reasonable remuneration for anyone when travelling away from home. There are members of this House, no doubt, who when travelling on their own private affairs would be very glad if they could do it on &#x00A3;3 3s. a day. A man like myself can do it. Since the resolution has been tabled I have been through the minutes of the commission and was absolutely astounded to find the inadequate and incorrect minutes that were kept. According to the minutes I found that when Parliament was sitting I had drawn for three, four or five days when no sittings were held at all. But I contend the sittings were really held and I never drew money for sittings to which I was not entitled. I was astounded when I read the minutes, and when I read the Auditor-General&#x2019;s report. On the face of it that report looks very bad. I say if there is any blame to be attached, it is not to be attached to the hon. member for Vredefort (Mr. Munnik) or myself or Mr. Justice Pittman or any member of that commission. If any blame is to be attached it is to be attached to the looseness of the system. Hon. members should know, before they go on a commission, where they stand. I have stated my case and as far as I am concerned welcome an enquiry. I hope the House will not accept the resolution in the form in which it has been submitted, because I consider it a slur on my honour and integrity as a member of the House. I hope the House will take steps to have the whole question of commissions, not merely the Mining Regulations Commission, thoroughly investigated, and that we shall have an opportunity of bringing Our witnesses and of asking questions. That, I say, we are entitled to in justice to ourselves.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Like the hon. member for Brakpan (Mr. Waterston), who has just spoken, I very much deprecate the tactics that have been employed in bringing this matter before the House and the form it has taken. On the other hand, I am very pleased that the question has been raised, as it deals with a matter that is probably overdue, and we are to-day reaping the whirlwind of the sins of what the hon. member for Bezuidenhout is trying to fasten upon us. As far as I, personally, am concerned, the hon. member for Bezuidenhout (Mr. Blackwell), in bringing this motion forward, is doing exactly what I would expect from him. I would have expected him to single out two members of the commission, to name them, and impute against them motives which do not appear anywhere in the report on which these allegations are founded. This is what I would expect in an investigation of a convict settlement on McQuarrie Island, but it is not what one would expect in dealing with an hon. member of this House. Let me say that, as far as I am concerned, it is possible that the member has been misled by the report before him. Last session, when this report came up on the suggestion of the member of Bezuidenhout, who has already referred to what led up to it, the matter came before the Public Accounts Committee, and was sent on to the Controller and Auditor-General, but I will say this, that I am surprised that the form that that instruction took it has been reproduced in the form that it is here. My impression was that the instruction to the Auditor-General was that he should deal with the irregularities in regard to all commissions, that he should deal not only with the question of members sitting in Parliament, but that he should also deal with the question of members who, while sitting at their homes, drew fees. Not a word of this appears in the report on which we are being pilloried. As far as I am concerned, those minutes, that purport to be minutes, are no minutes at all. I do not accept them as minutes. They are a statement prepared by the secretary who was appointed to the commission, and who was hopelessly incompetent to carry out his job. I, personally, as one of the members of that commission, never saw any minutes. On what purports to be a typewritten report of 71 meetings&#x2014;I think five or six of them are signed, and the rest are blank&#x2014;the member for Bezuidenhout comes into this House and throws an imputation of gross irregularities, improper and irregular conduct, against us. Those minutes are no more minutes than probably the minutes which were kept in the case of the Liquor Commission. I was advised by the Department of Justice that no minutes were kept of that commission.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>That is quite untrue. Formal minutes were kept by the chairman.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I make this statement without fear of contradiction. I went and made an enquiry from the department, and it appears that there were no minutes kept in connection with that commission. With regard to these minutes, or what purport to be minutes, the Auditor-General has gone very much off the rails in his report, and, if possible, the conduct of the hon. member for Bezuidenhout could be excused if one refers to the report of the Auditor-General. I submit that we, who have been pilloried here have never been questioned, we have never been heard. When the question came before the Public Accounts Committee, I, as a member of that committee, retired while it was under consideration. The Auditor-General uses these words&#x2014;</p>
+
+<block name="#quote">At the first meeting of the commission the secretary read the regulations to the meeting but no discussion arose as to the basis of remuneration.</block>
+
+<p><span class="col_787-788" refersTo="page_0460"/>The whole of the report is based upon that. The law advisers say in paragraph 3&#x2014;</p>
+
+<block name="#quote">Consequently, any payment made to a member of a Government commission in conflict with the provisions of those regulations is not necessarily illegal. The legality or illegality of any such payment does not depend upon those regulations, but upon the agreement entered into with such member upon his appointment to the commission.</block>
+
+<p>The hon. member for Bezuidenhout knew that report was there, but he never took the trouble to find out whether any contract existed between the Government and these members. He has blindly accepted on the Auditor-General&#x2019;s report. The law advisers&#x2019; report also says&#x2014;</p>
+
+<block name="#quote">If a dispute were to arise between a member of the commission and the Government as to the amount due to such member by way of allowances or fees, and if the member were to sue the Government for the amount claimed the court would have to decide the issue, not in terms of the above-mentioned circular, but on the basis of the agreement entered into by the parties.</block>
+
+<p>You will see that on the 23rd of October, 1924, when Mr. Mulligan, a solicitor from Johannesburg, was acting as chairman for the first time, and Mr. Waterston, Mr. Wessels and myself were present, it is stated, as far as I remember, that the question of remuneration was raised. What happened at this particular meeting was that we raised the question of remuneration, and we specifically put it to the chairman to be conveyed to the Government that if it meant that we could only be remunerated for the days we sat, it would be absolutely impossible for us to sit. On that, I left for Dordrecht, where I had come from, and in leaving I wrote a letter which is the claim I sent in for my expenses with regard to the first sitting. This was the letter, dated the 23rd&#x2014;</p>
+
+<block name="#quote">To the Secretary of the Mining Regulations Commission.&#x2014;Dear Sir,&#x2014;In terms of your advice this morning that our claim for allowances must be submitted before the 28th, I beg to advise you that I left Dordrecht on Thursday, the 21st (at 3.10 p.m., in pencil) and I arrived here yesterday. We sat this morning and I will arrive back on Saturday (3.24 in pencil) My allowance at three guineas per day is &#x00A3;15 15s., and I would be glad if you will forward a cheque to my address at Dordrecht.</block>
+
+<p>The hon. member leaves the House under the impression that no contract had been entered into with the Government, and that I sat one day and drew three guineas. That document was before him, he knew what I was claiming.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I said so.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>This is the kind of tactics with which he tries to mislead the public and the House, as far as my hon. friend and myself are concerned. On the 27th I signed a statement for 21 days, and I said the sittings were on the 11th, 12th, 13th, 14th, 17th, 18th and 19th. The 13th was the day where the hon. member tried to tell the House that we never sat, although we were making an inspection of a mine. On the 18th of December I signed a request of subsistence for 18 days. The alteration to &#x00A3;50 8s. 6d. was made by the Government, not by me; yet, the hon. member says that for these days on which I never sat, I claimed three guineas a day. I can go through the whole of the statements, they are all on the same lines. We concealed nothing from the Government, we had nothing to conceal. We entered into an honest agreement which we carried out. If the hon. member suggests the remuneration we received was not in proportion to the work we did, let me tell him that, as far as I, personally, was concerned, it was a modicum of the fees I was entitled to in my professional capacity. He referred to this particular Government as being peculiar in paying for days when, as my hon. friend pointed out, we had to go down badly ventilated mines to study the ventilation question, and we had to risk our necks by finding out whether it was equitable for a native driver to drive or not. The hon. member for Bezuidenhout sits on the Liquor Commission; it holds 50 meetings and he attended 42, and was paid at the rate of two guineas a day, a total of &#x00A3;88 4s. Half of these meetings were held at Johannesburg, where the hon. member lives, and the other half, I think, were held in Pretoria, except for one sitting where an informal meeting was held on the train for which the hon. member also drew two guineas.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Where do you get this from?</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I submit the hon. gentleman was under a definite pledge to the Government, and when he drew this money for an informal sitting on the train, he was not carrying out the agreement.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>What right has the hon. member&#x2014;</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>The hon. member has had&#x2014;</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>On a point of order, what earthly right has the hon. member to make wild and reckless charges of that sort without anything in the world to substantiate it?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is not a point of order.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I will go further. I will state the hon. member went so far as to hold meetings in his house&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I want to point out there is no motion or amendment with regard to the hon. member for Bezuidenhout</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I am pointing out that if there were irregularities which the Auditor-General should inquire into, it was the conduct of the hon. member while on the Liquor Commission&#x2014;that needed enquiry.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from><span class="col_789-790" refersTo="page_0461"/>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>If the hon. member wants that inquired into he should give notice to extend the scope of the inquiry. I am afraid the hon. member cannot go into this question without that being before the House.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I will leave the hon. member to his own conscience. I would only say that, as far as the meetings at Cape Town were concerned, which the hon. member has played upon, we never had an opportunity of putting evidence before the Auditor-General, and if this statement states that I drew for 71 meetings when I only sat at 63, it is an entire misrepresentation of the facts as far as I am personally concerned. What actually happened was, I think it was on the 12th, according to the typewritten statement before the House, the commission adjourned as a commission and went into committee, and we sat to draw up a statement, and sat to report further on the 8th. The hon. member says we were in the House and also sitting on the commission. We were, but we were sitting on the commission till midnight, and very much later sometimes, and we had to weigh a document about that thick. We put in good, hard, steady work to get the report of that commission out, and the object was to get the commission ended as soon as possible and to stop the fees as far as we were concerned. If we did not stop it, it would have gone on interminably. We assisted the Government in bringing up that report on which the Government, I think, has to draft the regulations as far as the mining regulations are concerned. What I do deprecate is the tactics, not only of the hon. member in bringing the motion before the House, but he was aware he could have raised this on the Auditor-General&#x2019;s report in the Public Accounts Committee&#x2014;and he should be sure of his facts before making these allegations, in which he has been so assisted by that damnable press, including the &#x201C;Cape Times.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must not use unparliamentary language.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I do not think I can use sufficiently strong parliamentary language about the &#x201C;Cape Times.&#x201D; I will withdraw the word &#x201C;damnable,&#x201D; and say they use a very undignified way in regard to private members, and particularly the hon. member for Brakpan (Mr. Waterston). I welcome the inquiry, and I support the hon. member&#x2019;s motion; but let him come out as a sportsman. If there is anything wrong I am prepared that an inquiry should be held, but he should not single out two hon. members and cut himself out.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>When the good faith of members of Parliament is discussed a great deal of public interest no doubt is raised, and hon. members are inclined sometimes to lose their tempers, especially when they think they are being convicted of something highly illegal and improper. If we look at this matter calmly for a minute, we will realize that the hon. member for Bezuidenhout (Mr. Blackwell), in tabling this motion, is really doing justice to the hon. members he has mentioned. The Auditor-General is appointed by Parliament to scrutinize public accounts, and he points out where he thinks a departure has been made from the law and prevailing practice. He is the watchdog of Parliament, and in his report he drew attention to two hon. members who have been paid more money than they were entitled to for sitting on commissions, and he quotes the opinion of the law advisers to substantiate these points. When the hon. member for Bezuidenhout was speaking he confined himself to the Auditor-General&#x2019;s report, the opinion of the law advisers, and the official minutes of this commission. The hon. member for Brakpan (Mr. Waterston) gave the whole case away when he said&#x2014;</p>
+
+<block name="#quote">On paper it looks very bad.</block>
+
+<p>We all admit that. If the hon. member admits that, surely he admits there is a case for inquiry? The impression had got about that he had been taking money from the public purse to which he was not entitled. I would be very glad if he can clear his name. The result of this inquiry may confirm the report of the Auditor-General, or remove from the hon. member a certain stigma thrown on his character by this report.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>There is no stigma in the report. There is a stigma in the resolution.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>Perhaps the hon. member has forgotten what is in the report and what he himself has said.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Not by any means.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>[Quotation read from Auditor-General&#x2019;s report, already reported.] If hon. members are entitled to a certain sum and draw more, and the hon. member for Brakpan, one of the persons impugned, says it looks very bad, there is a certain impression brought about on the public mind which is detrimental to him; and to remove it he should welcome an inquiry.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I have welcomed the inquiry.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>The hon. member seems to take exception to the hon. member for Bezuidenhout&#x2019;s method in introducing the motion.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>No, be fair.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>He objected to the mention of names. It is necessary, according to the rules of the House, to mention the names of members in such a motion, otherwise they could not be referred to. It was a rather strange thing that the hon. member made such a malevolent attack on the hon. member for Bezuidenhout, whose character is not called into question, and who is not being charged with drawing more money than that to which he is entitled. That the hon. member endeavoured to throw mud in the hope that some of it would stick is no defence of this case.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from><span class="col_791-792" refersTo="page_0462"/>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>Don&#x2019;t you throw any mud, then.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>If the motion is carried the hon. member will be able to make the statement which he has made here to show that he did not draw more money than he was entitled to, which the Auditor-General says he did. It is no defence to say: &#x201C;I drew three guineas a day for going down a coal mine, because the hon. member for Bezuidenhout drew ten guineas a day for preparing a case for a client.&#x201D; That is not the point at all. The point is whether these hon. members drew more money than they were entitled to under the terms of the letter of appointment. I understand the hon. member to say that at a certain stage of the proceedings he was entitled to draw three guineas for certain days when the commission was not sitting.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I never said that. We were entitled to draw three guineas a day while the commission was in session.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>That is a point the select committee will have to enquire into. If the appointment was meant to cover all the time the commission was in session the hon. member is probably right. On the other hand if the words &#x201C;for each day on which the commission sits&#x201D; means sitting to do business, then it seems to me that the Auditor-General was Justified in his criticism. I do not think we ought to prejudge the case, but as the public has the impression that money has been improperly drawn it is in the interests of good government and clean administration that we should enquire into the matter, and if hon. members have been wrongly blamed their characters should be cleared. The hon. member says he could not afford to draw three guineas a day simply for the days on which the commission was sitting, and if that were so, he should never have accepted the appointment.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>You did not listen to what I said.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>That is what I understood you to say. The hon. member says the whole thing occurred three years ago. It is only now, however, that Parliament is in a position to go into the question, and the fact that money was wrongly spent three years ago is no reason why we should not enquire further into the matter. A point of the enquiry will be the action of the Treasury in paying this money quite contrary to the terms of the letter of appointment. An impression has been created that something was done which ought not to have been done. It will be a bad day for South Africa if Parliament is not jealous of the dignity and reputation of its members. There is great danger of an insidious disease creeping into the body politic if members of Parliament are not keenly sensitive on all questions such as this. We should be doing the right thing by having an enquiry, and if the facts are as stated by the Auditor-General, we ought to take every possible means to prevent a repetition of such incidents.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>The speech of the hon. member for Dundee (Sir Thomas Watt) is rather puzzling. He continually says that there is a stigma attaching to hon. members whose names have been mentioned, and he adds that allegations are made by the Auditor-General of improper conduct. The responsibility lies on these benches for paying money which is not justly payable to those to whom it has been paid. The whole point of the matter is the bringing up of this question in the way in which it has been brought up. It is clearly an attack upon the honour of those two hon. members.</p>
+
+</speech>
+
+<speech by="#te_water">
+
+<from>Mr. <person refersTo="hansard_za">TE WATER</person>:</from>
+
+<p>And on the party incidentally.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Exactly. The whole of the hon. member&#x2019;s speech was a jeering, a gibing at the two hon. members for having, as he would put it, sent in a bill for expenses and fees which were not justified, trying to milk the public purse and taking advantage of being on a commission to draw as much money as they could, quite illegally and improperly and without justification. That is the gravamen of this serious charge. It was not a charge against the Government for not properly administering the funds of the country. The charge had been well incubated, and hon. members opposite have been brooding over it for the last year or so. I am reminded of Charles Lamb&#x2019;s essay on the miser and the spendthrift, in which he said that the spendthrift thought that money kept in the pocket longer than three days stank. The longer hon. members opposite keep a charge in their pockets and the longer they keep it there the more high they think it will smell when brought forward. The hon. member for Brakpan (Mr. Waterston) and the hon. member for Vredefort (Mr. Munnik) have given a most emphatic answer to the charges. When the Auditor-General investigated the matter, he merely had in front of him the official papers, and he went only on the letter of appointment and the Treasury regulations. No evidence was called, and there was no enquiry. When the commission was first appointed Mr. Mulligan was asked to act as chairman, but he was not able to throw up his professional work for the remuneration named in the letter of appointment. There is nothing derogatory to his honour in that. At the first meeting of the commission the members wished to be clear as to what three guineas a day for every sitting of the commission meant. Assuming that the commission is sitting to-day in Johannesburg and then goes to Messina, but does not have a sitting for probably a week, would they have to incur all that expenditure merely for three guineas for a sitting the members might hold in the following week? The chairman undertook to find out what exactly the terms offered meant. In perfect good faith, in accordance with the interpretation given, these claims were put in and were paid out by the Treasury. I ask the hon. member for Yeoville (Mr. Duncan) if there was anything derogatory to his honour as a commissioner if the claims put in were paid.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from><span class="col_793-794" refersTo="page_0463"/>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>There is no record of that.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>The whole of the hon. member&#x2019;s speech was a speech for the prosecution based on the report without contemplating that there might be a complete answer to it.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>That is why he asks for an enquiry.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I cannot put such a generous interpretation on the way he put the case. The reason for his bringing it forward was an indictment of these two hon. members, and he tried to put the ugliest interpretation on the statements of the Auditor-General. He goes on to say: &#x201C;At least &#x00A3;1,000 could have been saved to the State.&#x201D; Yes, we could have saved the whole expense of the commission if we had appointed the hon. member for Kimberley (Sir Ernest Oppenheimer) and two or three members over thee who are wealthy enough to give their work pro deo to the State, and we should have a report at no cost to the State, but one that would have been entirely valueless.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What a red herring. Tell us about the Sundays and when Parliament was sitting.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>If they worked in connection with the commission they were entitled to payment. A good many years ago I was appointed on a commission at considerable inconvenience, and from the practice of the last fifteen years I ought to have received a good deal more myself than I did for the work.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Don&#x2019;t go back fifteen years, go back three years.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Oh yes, there we have the point. Go back three years, but not a bit beyond that. We must draw the veil about anything which took place before that. &#x201C;In vain is the net set in the sight of any bird.&#x201D; We are not going to accept this motion in the terms in which it is framed, because that would be accepting it as a stigma on two hon. members of this House who are as honourable as any other member of the House. An hon. friend behind me is prepared to move an amendment to this to carry the enquiry back a few years more.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Make it thirty years.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>No, make it ten years. That will be enough. The hon. member has quoted words of the Prime Minister on the right of members of Parliament to be on commission. I differ from the Prime Minister. I have held that when reports are presented to this House, and we have to debate them, the more members of Parliament there are on the commission who have the evidence at first hand and can speak at first hand, the more advisable it is.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Jobs for pals.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>No, not jobs for pals. Your own immaculate front bench did the same, and we got more illuminating debates on commissions than in cases where members had to judge for themselves from the blue books only. I take it the hon. member did not object to hon. members being on commissions?</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I said there are occasions.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Oh, there are occasions when members of Parliament ought to be on commissions. If it is a commission the hon. member approves of, and he approves of the composition of it, and they are all honourable men, then the hon. member for Bezuidenhout (Mr. Blackwell) believes members of Parliament should be on commissions. The hon. member said in May, 1925 [Hansard col. 2,980 quoted]&#x2014;</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Go on, finish it.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>Yes, finish the statement.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Very well, I will read to the end of the paragraph&#x2014;[quotation concluded]. The hon. member when speaking in this House, uses eloquence that enthrals me, and when it is in print it is fascinating, but I cannot read more of the hon. member&#x2019;s speeches than is in my opinion pertinent. The hon. member says it is undesirable to have members of Parliament on commissions. He says it is an evasion of the Act of Union. I refer him to his own Leader, who said many years ago that hon. members of Parliament should sit on commissions when required. When the remuneration is 42s. it is all right for the hon. member, but when it is &#x00A3;3 3s. you transgress the line which divides rectitude from dishonour. Is that the hon. member&#x2019;s position? I remember many a commission on which members of this House sat, and at the time I applauded it. I again refer to the Miners&#x2019; Phthisis Commission in 1919 and 1920. When we debated the report of the commission in this House I think by common consent we had a more well informed debate on that topic, as the result of having men who could speak at first hand, having heard the evidence, than we have had on many reports that have been before this House. If there is anything whatever in the hon. member&#x2019;s remarks to-day, it seems to be nothing but an attempt to throw as much mud as possible at the hon. members here and incidentally at us as a Government in the hope that some would stick. I do not think much of it will stick. Very often when mud is thrown it misses the objects at which it is thrown, but you cannot take mud into your hands without some of it sticking to yourselves. The hon. member for Dundee (Sir Thomas Watt) said that the hon. member was only prompted to move his motion out of a desire to do justice to the hon. members opposite. It did not convey precisely that impression to us. I do not think it was meant to convey that impression to the public, but <span class="col_795-796" refersTo="page_0464"/>most emphatically the hon. members who have in their replies claimed that they should have a right to have this matter investigated, that right must be accorded to them. The Auditor-General in framing this report was evidently not aware of the facts which they have today stated, the facts which I have mentioned that their bargain with the Government was not purely that letter of appointment, but it included that letter of appointment and the interpretation placed upon the sittings of the commission included in that letter.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>How could the Auditor-General know that?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Quite so, it is the mistake of the hon. member in rushing to the conclusion that the Auditor-General&#x2019;s remarks here contain the whole matter at issue.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>We are entitled to assume that.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I do not think you are. The Auditor-General, all he has got on that record is the fact that there were 71 sittings of the commission. He has not got on the record the fact that hon. members of that commission went and examined various places in loco and it was not in the minutes of the commission. I am afraid I am not of that generous, unsuspicious character that will entirely acquit the hon. member for Bezuidenhout and hon. members opposite of having simply a desire to shield and shelter the honour of those hon. members in the form which this motion has taken. He says that this is a stigma passed upon these hon. members by the Auditor-General. If it is a stigma upon anyone, it is a stigma upon ourselves, upon this Government. Nothing has been said about the chairman of that commission who signed the claims which were countersigned by the secretary. Was there going to be a sort of conspiracy amongst themselves that if you scratch my back I will scratch yours? I see no stigma at all. We are entirely prepared to take the responsibility. Then the hon. member for Dundee says&#x2014;</p>
+
+<block name="#quote">It is no defence to say I drew three guineas a day and point out that the hon. member for Bezuidenhout draws five guineas for some work for a client.</block>
+
+<p>The hon. member for Brakpan (Mr. Waterston), the position he took, and the position he maintains is that&#x2014;</p>
+
+<block name="#quote">My bargain with the Government was such-and-such remuneration for my services, such-and-such allowance,</block>
+
+<p>and he had as much right to charge that in that respect as the hon. member has in performing any services that he does. I think the hon. member would have done well in view of the two guineas a day he drew, not to try and draw such a fine distinction between the money he drew and the money my hon. friends drew. The whole matter amounts to this; certainly, we say, let us have this investigation, but let that investigation be a really thorough one and go back to the last ten years at least.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>You are trying to side-track the thing.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>When we came into office after fourteen years of Government by hon. members on the other side, we had a good deal that we wished to have investigated for ourselves and we appointed a good many commissions. But now there must be no such searching investigation into the commissions and the conditions under which they were appointed by our predecessors.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>Oh yes, there has been. The Auditor-General was asked to do so and he has done so.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I do not see much about that here. What I do see here is that the records of the earlier commissions have largely been burnt and destroyed, and that there would be very little chance of getting to know much about them.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>Where does that appear?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I will read it&#x2014;</p>
+
+<block name="#quote">I accordingly called for the records of all commissions appointed since Union to which members of Parliament had been appointed and which had held sittings at Cape Town during sessions of Parliament. The records of some of the commissions have been destroyed and were missing especially of the older commissions.</block>
+
+<p>I am delighted to instruct the hon. member, but before asking me to read a thing he should be perfectly certain that there is nothing for me to read, because when I do read what substantiates my statement it makes him look rather foolish. As I said before, we are not going to accept the motion in this form. It seems to cast a most unjust aspersion upon my two hon. friends, but I understand one of my hon. friends has an amendment to move.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Why can&#x2019;t you do it yourself?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Because they prefer to do it themselves. We will take full responsibility for it.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Tell us what you are going to accept.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Unfortunately owing to the rules of the House an amendment cannot be moved unless it is on the notice paper, so my hon. friend will ask for an adjournment so that a motion can be put on the paper and we can discuss that.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Will you give us facilities for discussion if you put it on the paper?</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>Oh yes.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Then I will move the adjournment of the discussion.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from><span class="col_797-798" refersTo="page_0465"/>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>I will support the adjournment, but I would like to know whether the Government are going to give us time to discuss this thing, and not leave it to the chance of a private members&#x2019; day.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I have already told you the Government is perfectly ready to give time.</p>
+
+<p>On the motion of Mr. Jagger, debate adjourned; to be resumed on 10th February.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1928-02-07T17:45:00">5.45 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
