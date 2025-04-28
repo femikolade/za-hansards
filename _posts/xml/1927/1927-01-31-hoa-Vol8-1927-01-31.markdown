@@ -1,0 +1,499 @@
+---
+title: 'House of Assembly: Vol8 - MONDAY 31 JANUARY 1927'
+layout: debate
+year: 1927
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>MONDAY, 31st JANUARY, 1927.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1927-01-31T14:17:00">2.17 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#oral_questions">
+
+<heading>ORAL QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Business of the House.</heading>
+
+<question by="#smuts" to="#prime_minister">
+
+<from>Gen. SMUTS:</from>
+
+<p>I wish to ask the Prime Minister a question of which private notice has been given to him in regard to the business of the House:</p>
+
+<ol>
+
+<li>(1) Whether or not it is the intention of the Government to proceed with the Flag: Bill this session;</li>
+
+<li>(2) whether the Government intends to proceed with the native Bills this session, or whether it is intended to hold some form of inquiry into the subject matter of the Bills before they are proceeded with; and</li>
+
+<li>(3) whether he is prepared to make a statement to the House in regard to the agreement come to with the Indian delegation on the Indian question?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#smuts">
+
+<from>The PRIME MINISTER:</from>
+
+<p>I quite admit that the questions are reasonable. The only reason why no mention of these matters was made in the opening speech was because when the House met for the last time during the previous session, it was clear what was to become of them. I will now give the following answers to the questions:</p>
+
+<ol>
+
+<li>(1) The Government considers that it is in the interest of the country that the question of a flag for the Union should not remain <span class="col_9-10" refersTo="page_0074"/>a subject of continuing controversy, and proposes to introduce a measure dealing with it at an early date.</li>
+
+<li>(2) It is the intention of the Government to proceed with the native Bills this session.</li>
+
+<li>(3) As stated in the Governor-General&#x2019;s speech, the agreement which has been arrived at between representatives of the Governments of the Union and of India is of a provisional character, and will require the approval of the two Governments concerned before any public announcement can be made. After such approval shall have been obtained, a statement, which will simultaneously be made in India, will be submitted to the House for its information and, if required, for its consideration.</li></ol>
+
+</answer>
+
+<question by="#smuts" to="#prime_minister">
+
+<from>Gen. SMUTS:</from>
+
+<p>When will that be?</p>
+
+</question>
+
+<answer by="#prime_minister" to="#smuts">
+
+<from>The PRIME MINISTER:</from>
+
+<p>We do not know. It depends on the arrival of the delegates in India, and of the approval of the Government there. I expect it will be just after the middle of February.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#medical_dental_and_pharmacy_bill">
+
+<heading>MEDICAL, DENTAL AND PHARMACY BILL.</heading>
+
+<p>Leave was granted to the Minister of Public Health to introduce the Medical, Dental and Pharmacy Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 7th February.</p>
+
+</debateSection>
+
+<debateSection name="#immorality_bill">
+
+<heading>IMMORALITY BILL.</heading>
+
+<p>Leave was granted to the Minister of Justice to introduce the Immorality Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 2nd February.</p>
+
+</debateSection>
+
+<debateSection name="#administration_of_justice_(further_amendment)_bill">
+
+<heading>ADMINISTRATION OF JUSTICE (FURTHER AMENDMENT) BILL.</heading>
+
+<p>Leave was granted to the Minister of Justice to introduce the Administration of Justice (Further Amendment) Bill.</p>
+
+<p>Bill brought up and read a first time.</p>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be read a second time on 2nd February.</block>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>That is far too early. The other two Bills have been before the House before, but this has never been before the House. It is rather an important matter to try and abolish trial by jury. It should take at least a fortnight in order to get to the country. The Minister should have a little more respect for the people of South Africa.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>If there is anything in the Bill that requires an adjournment to Wednesday, I will agree to it at once; hut I want to move the second reading, and I will agree to the adjournment of the second reading debate after I have moved the second reading. I like to do things, not to delay things.</p>
+
+<p>Motion put and agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#natal_gambling_amendment_bill">
+
+<heading>NATAL GAMBLING AMENDMENT BILL.</heading>
+
+<p>Leave was granted to the Minister of Justice to introduce the Natal Gambling Amendment Hill.</p>
+
+<p>Bill brought up and read a first time.</p>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be read a second time on 2nd February.</block>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>Mr. <person refersTo="hansard_za">MOSTERT</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">HENDERSON</person>:</from>
+
+<p>Would the hon. Minister agree to do the same thing as he did with the other Bill? It is really too bad, and people do not know what is coming forward.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I will do it willingly. It is to make us have less gambling in Natal.</p>
+
+</speech>
+
+<p>Motion put and agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#diamond_cutting_act_1919_amendment_bill_1926">
+
+<heading>DIAMOND CUTTING ACT, 1919, AMENDMENT BILL, 1926.</heading>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That, in terms of Standing Order No. 180. the Diamond Cutting Act, 1919, Amendment Bill, 1926, which lapsed by reason of the prorogation of the last session of Parliament, be proceeded with during the present session at the stage which it had reached during last session.</block>
+
+</speech>
+
+<speech by="#conroy">
+
+<from>Mr. <person refersTo="hansard_za">CONROY</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to; third reading on 3rd February.</p>
+
+</debateSection>
+
+<debateSection name="#liquor_bill_1926">
+
+<heading>LIQUOR BILL, 1926.</heading>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That, in terms of Standing Order No. 180, the Liquor Bill. 1926, which lapsed by reason of the prorogation of the last session of Parliament, be proceeded with during the present session at the stage which it had reached during last session.</block>
+
+</speech>
+
+<speech by="#brink">
+
+<from>Mr. <person refersTo="hansard_za">BRINK</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I would like to ask my hon. friend when he is going to have the report of the Commission?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I think I will be able to place it on the Table in a day or two. I may say to my hon. friend that I want to set the committee stage a considerable time ahead.</p>
+
+<p>Motion put and agreed to; House to go into Committee on 17th February.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_internal_arrangements">
+
+<heading>SELECT COMMITTEE ON INTERNAL ARRANGEMENTS.</heading>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote"><span class="col_11-12" refersTo="page_0075"/>That a Select Committee be appointed on Internal Arrangements, the Committee to have power to confer with a similar Committee of the Senate.</block>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_native_affairs">
+
+<heading>SELECT COMMITTEE ON NATIVE AFFAIRS.</heading>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Native Affairs be appointed, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#pienaar">
+
+<from>Mr. <person refersTo="hansard_za">B. J. PIENAAR</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_library_of_parliament">
+
+<heading>SELECT COMMITTEE ON LIBRARY OF PARLIAMENT.</heading>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed on the management and superintendence of the Library of Parliament, the Committee to have power to confer with a similar Committee of the Senate.</block>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>Mr. <person refersTo="hansard_za">DU TOIT</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_crown_lands">
+
+<heading>SELECT COMMITTEE ON CROWN LANDS.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to consider and report upon all such recommendations for the disposal of Crown Lands or servitudes thereon, or conditions connected therewith, or the reduction of the purchase or allotment price thereof, as may be submitted by the Government, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>Mr. <person refersTo="hansard_za">MOSTERT</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_public_accounts">
+
+<heading>SELECT COMMITTEE ON PUBLIC ACCOUNTS.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Finance)</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Public Accounts be appointed, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#vermooten">
+
+<from>Mr. <person refersTo="hansard_za">VERMOOTEN</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_pensions_grants_and_gratuities">
+
+<heading>SELECT COMMITTEE ON PENSIONS, GRANTS AND GRATUITIES.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Finance)</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to consider and report upon all minutes recommending special pensions and all petitions for pensions, grants and gratuities not authorized by law which may from time to time be referred to it, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>Mr. <person refersTo="hansard_za">HEYNS</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I would like to ask a question with regard to that. The committee has been meeting during the recess and cleared up all matters, I understand. When shall we have the report ready?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I understand it is in the hands of the Clerk.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Hon. members have not got it yet.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>It will be laid on the Table.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>†Mr. <person refersTo="hansard_za">HEATLIE</person>:</from>
+
+<p>I would like to know whether it is recognized by the Government whether any special advantage will be attached to any applicant if he were to put his application through a Nationalist member. Why I ask that question is: A pensioner wanted to get certain particular benefits, and he was advised by a letter from the secretary of the Acting Prime Minister in reply to his application, that he should get a petition drawn up and sent to Parliament and hand it to a Nationalist member for presentation. I would like to know whether there is any special advantage to these poor, unfortunate people, who make applications, to put their petitions in the hands of Nationalist members; if it is so, well then, let the Government put an advertisement in the paper and advise applicants to that effect.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I may say in reply that the reply is in the negative.</p>
+
+</speech>
+
+<p>Motion put and agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_railways_and_harbours">
+
+<heading>SELECT COMMITTEE ON RAILWAYS AND HARBOURS.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Railways and Harbours be appointed, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#vermooten">
+
+<from>Mr. <person refersTo="hansard_za">VERMOOTEN</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-01-31T14:50:00">2.50 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

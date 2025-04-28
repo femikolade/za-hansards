@@ -1,0 +1,4229 @@
+---
+title: 'House of Assembly: Vol11 - TUESDAY 8 MAY 1928'
+layout: debate
+year: 1928
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 8th MAY, 1928.</heading>
+
+<p>Mr. SPEAKER took the Chair at <recordedTime time="1928-05-08T14:20:00">2.20 p.m.</recordedTime></p>
+
+<debateSection name="#questions">
+
+<oralStatements>
+
+<heading>Rubal Credit Societies.</heading>
+
+<question by="#anderson" to="#minister_of_agriculture">
+
+<num>I.</num>
+
+<from>Mr. ANDERSON:</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) How many rural credit societies constituted under the Agricultural Credit Act have been formed and are still in existence in each loan circle established in (a) the Cape Province, (b) the Transvaal, (c) the Orange Free State, and (d) Natal; and</li>
+
+<li>(2) whether any of such rural credit societies have gone into liquidation since the coming into force of the Agricultural Credit Act, and, if so, how many in respect of each province of the Union ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) The number of rural credit societies registered and still in existence up to and <span class="col_3829-3830" refersTo="page_0509"/>including the 3rd May, 1928, in the different provinces is as follows:&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Registered.</p></td>
+
+<td><p>In existence.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(a)</p></td>
+
+<td><p><i>Cape</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Port Elizabeth Agricultural Loan Co.</p></td>
+
+<td><p>7</p></td>
+
+<td><p>7</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(b)</p></td>
+
+<td><p><i>Transvaal:</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Pretoria Agricultural Loan Co.</p></td>
+
+<td><p>33</p></td>
+
+<td><p>33</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Vereeniging</p></td>
+
+<td><p>33</p></td>
+
+<td><p>33</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Potchefstroom</p></td>
+
+<td><p>34</p></td>
+
+<td><p>34</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Bethal-Ermelo</p></td>
+
+<td><p>20</p></td>
+
+<td><p>20</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Pietersburg</p></td>
+
+<td><p>8</p></td>
+
+<td><p>8</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Wakkerstroom-Newcastle</p></td>
+
+<td><p>22</p></td>
+
+<td><p>21</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Middelburg-Lydenburg</p></td>
+
+<td><p>30</p></td>
+
+<td><p>30</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Heidelberg-Standerton</p></td>
+
+<td><p>13</p></td>
+
+<td><p>13</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>193</p></td>
+
+<td><p>192</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(c)</p></td>
+
+<td><p><i>Orange Free State:</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Kroonstad Agricultural Loan Co</p></td>
+
+<td><p>53</p></td>
+
+<td><p>53</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Bethlehem-Reitz</p></td>
+
+<td><p>29</p></td>
+
+<td><p>29</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Bloemfontein</p></td>
+
+<td><p>20</p></td>
+
+<td><p>19</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Total</p></td>
+
+<td><p>102</p></td>
+
+<td><p>101</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(d)</p></td>
+
+<td><p><i>Natal:</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Ladysmith Agricultural Loan Co</p></td>
+
+<td><p>10</p></td>
+
+<td><p>10</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Grand Total: Registered In existence</p></td>
+
+<td><p>312</p></td>
+
+<td><p>310</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+</table>
+
+<p>(2) No rural credit society has been liquidated, but one society in the Transvaal did not commence business and was dissolved by the members, and another society in the Orange Free State was dissolved by the Central Board of the Land and Agricultural Bank before it commenced business because its membership was reduced to below seven in number.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Justice: Clifford West, Arrest Of</heading>
+
+<question by="#fordham" to="#minister_of_justice">
+
+<num>II.</num>
+
+<from>Mr. FORDHAM:</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) What were the circumstances under which a boy named Clifford West was recently arrested in Johannesburg for drunkenness;</li>
+
+<li>(2) by whom was he tried, what was his plea, and how was the charge disposed of;</li>
+
+<li>(3) whether he was assaulted by the police upon asking for a drink of water, and, if so, what was the nature of the assault; and</li>
+
+<li>(4) whether the Minister will order an investigation into the circumstances of such assault ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#fordham">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Clifford West was creating a disturbance in the Standard Arcade on the afternoon of the 19th March. He was violent and obviously very intoxicated. He was arrested and charged with being drunk.</li>
+
+<li>(2) Later in the evening of the same day Clifford's father arrived and deposited &#x00A3;1 bail for the release of his son. The bail was estreated on the 20th ultimo.</li>
+
+<li>(3) Clifford was not assaulted by the police, whose conduct in the matter was entirely proper.</li>
+
+<li>(4) There was no necessity for ordering an investigation as the facts are perfectly clear.</li>
+
+</ol>
+
+<p>I wish to add that my attention was drawn to an article in the " Rand Daily Mail " of the 21st ultimo dealing with this incident and which I presume has prompted this question. I obtained full reports concerning what occurred, and am satisfied therefrom that the police did no more than their duty. Those reports are available in my office for the hon. member's inspection if he wishes to see them. A similar question suggesting improper conduct on the part of the police in Johannesburg, was put to me recently arising out of an article in the same paper. I am at a loss to understand these attacks on the police as it is quite clear that in both these articles the police had to deal with very bad alcoholic cases, and that the statements about them in the articles are entirely inaccurate. These unfair and inaccurate statements in a newspaper are much to be deplored as they are misleading to the public, have a most disheartening effect on the members of the force who are trying to do their duty conscientiously, and, if allowed to be continued, are calculated ultimately to react unfavourably on the manner in which the police perform their duties. It is to be hoped that before such articles are published in future greater care will be taken first to ascertain the facts. I may add, in addition, that in a case of this kind there is always the remedy of a civil action, and if that civil action is taken and damages are recovered, although it is taken against members of the police force, I will see the amount is defrayed from the vote of the department.</p>
+
+</answer>
+
+<question by="#fordham" to="#minister_of_justice">
+
+<from>Mr. FORDHAM:</from>
+
+<p>I should like to ask the Minister, if these statements are all untrue, if some possible action cannot be taken against the press that published these untrue statements, which are a direct lie on the police force?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#fordham">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I am afraid at present there is no remedy one can take in cases of this kind. The accusations are generally ill-treatment without mentioning the name of any specific person. There is no legal remedy that I know of.</p>
+
+</answer>
+
+<question by="#nathan" to="#minister_of_justice">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p>In view of the answer the Minister has given and in view of the fact that the public are very much concerned about it, and that the interests of the police are also at stake, would it not be advisable in the interests of the police as well to hold such an inquiry and have it published?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#nathan">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>An inquiry is being held in the first case by the magistrate of Johannesburg, and if anything arises out of that inquiry to make me think there is anything in this other case, I shall certainly have an inquiry into that also.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>JUSTICE: CHILDREN COMMITTED.</heading>
+
+<question by="#conradie" to="#minister_of_education">
+
+<num>III.</num>
+
+<from>Dr. D. G. CONRADIE</from>
+
+<p>asked the Minister of Education:</p>
+
+<ol>
+
+<li>(1) What was the number of European children who were ordered to be committed by magistrates in each of the four provinces during the last three financial years, respectively; and</li>
+
+<li><span class="col_3831-3832" refersTo="page_0510"/>(2) what is the cost to the State per child for maintenance and provision (excluding the cost of education) for such detained children ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_education" to="#conradie">
+
+<from>The MINISTER OF EDUCATION:</from>
+
+<ol>
+
+<li>(1) The number of European children in respect of whom committal orders were granted by magistrates under the Children's Protection Act, 1913, as amended by Act 26 of 1921, was as follows for the several provinces during the last three years (the figures are kept for the calendar year):&#x2014;</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1925.</p></td>
+
+<td><p>1926.</p></td>
+
+<td><p>1927.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Province</p></td>
+
+<td><p>765</p></td>
+
+<td><p>734</p></td>
+
+<td><p>877</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Transvaal Province</p></td>
+
+<td><p>703</p></td>
+
+<td><p>906</p></td>
+
+<td><p>930</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>O.F.S. Province</p></td>
+
+<td><p>311</p></td>
+
+<td><p>410</p></td>
+
+<td><p>329</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal Province</p></td>
+
+<td><p>128</p></td>
+
+<td><p>198</p></td>
+
+<td><p>127</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Union</p></td>
+
+<td><p>1,907</p></td>
+
+<td><p>2,240</p></td>
+
+<td><p>2,263</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(2) The rate of maintenance per European child is as follows: (a) 10s. to 40s. per month per child according to the number of children in, or the circumstances of, each family, for committals to mothers and other private persons; (b) 35s. per month per child for committals to institutions in the Cape and Natal Provinces; (c) 40s. per month per child for committals to institutions in the Transvaal and O.F.S. Provinces; (d) at industrial schools the average cost for maintenance (excluding cost of education) is &#x00A3;30 per annum per child.</li>
+
+</ol>
+
+</answer>
+
+<question by="#duncan" to="#minister_of_education">
+
+<from>Mr. DUNCAN:</from>
+
+<p>Arising out of that answer, I see that in the English version of the question the language used is " children who are detained by the magistrates." I take it that ought to be " committed by the magistrates."</p>
+
+</question>
+
+<answer by="#minister_of_education" to="#duncan">
+
+<from>The MINISTER OF EDUCATION:</from>
+
+<p>Yes.</p>
+
+</answer>
+
+<question by="#duncan" to="#minister_of_education">
+
+<from>Mr. DUNCAN:</from>
+
+<p>I think it would be desirable to have the language altered, because it does not represent the facts.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>SALT, PRODUCTION OF.</heading>
+
+<question by="#stals" to="#minister_of_mines_and_industries">
+
+<num>IV.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) What was the total production of salt in the Union for the last three years;</li>
+
+<li>(2) in which districts was the salt produced and what was the approximate amount produced in each such district;</li>
+
+<li>(3) what quantity of salt was imported during the same three years; and</li>
+
+<li>(4) whether any salt was exported during that period ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#duncan">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<table>
+
+<tr>
+
+<td><p>(1)</p></td>
+
+<td><p>Census year.</p></td>
+
+<td><p></p></td>
+
+<td><p>Union Salt Production.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Tons.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1924-'25</p></td>
+
+<td><p></p></td>
+
+<td><p>65,333</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1925-'26</p></td>
+
+<td><p></p></td>
+
+<td><p>88,754</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1926-'27</p></td>
+
+<td><p>(preliminary figures)</p></td>
+
+<td><p>88,643</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(2) According to the last census, salt was produced in the following districts&#x2014;Malmesbury, Port Elizabeth, Hay, Herbert, Britstown, Hopetown, Maraisburg, Kimberley, Vryburg, Bloemhof, Lichtenburg, Pietersburg, Bloemfontein, Brandfort, Fauresmith, Jacobsdal. The production by districts cannot be disclosed; the figures would reveal the position of individual saltpans.</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p>(3)</p></td>
+
+<td><p>Imports.</p></td>
+
+<td><p>Year</p></td>
+
+<td><p>Quantity.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>lbs.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1925</p></td>
+
+<td><p>5,546,032</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1926</p></td>
+
+<td><p>5,742,263</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1927</p></td>
+
+<td><p>9,000,383</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(4)</p></td>
+
+<td><p>Exports.</p></td>
+
+<td><p>1925</p></td>
+
+<td><p>250,540</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1926</p></td>
+
+<td><p>402,586</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1927</p></td>
+
+<td><p>641,369</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: SICK FUND.</heading>
+
+<question by="#stals" to="#minister_of_finance">
+
+<num>V.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a commission was recently appointed to make an investigation into the financial position of the Railway Sick Fund; if so, </li>
+
+<li>(2) what is the personnel of such commission, is a medical officer on the personnel, and what are the terms of appointment;</li>
+
+<li>(3) if no medical officer has been appointed, why was no such appointment made, in view of the fact that the fund is mainly intended for treatment of and attention to sick officials and their families;</li>
+
+<li>(4) whether, in the latter case, the Minister will take steps to appoint a medical man, on the commission; and</li>
+
+<li>(5) whether the Minister will give his reasons, should he not be prepared to do so ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#stals">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) The Administration has appointed a departmental committee to make certain investigations concerning the working of the Railway Sick Fund.</li>
+
+<li>(2) The committee does not include a medical officer but consists of the following railway officials, viz.&#x2014;Mr. C. G. C. Rocher, inspecting engineer, Johannesburg; Mr. J. Williams, assist accountant, Johannesburg; Mr. E. R. Carney, assist. supt. (outside duties and appeals). The terms of reference of the committee are to investigate and report upon:&#x2014; (a) the financial position of the sick fund and the steps to be taken to effect economies; (b) the method of payment of railway medical officers and specialists; (c) the reorganisation of the control and management of the fund under the new "system" organization; (d) the payment by means of fees for specialist treatment either wholly or in part; (e) the desirability or possibility as the result of economies which could be effected of extending full dental treatment as a benefit to members of the sick fund; (f) the question of admitting European labourers to membership of the sick fund.</li>
+
+<li>(3) The terms of reference are such that the appointment of a medical officer as a member of the committee is not considered to be necessary.</li>
+
+<li>(4) and (5) Fall away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>COLOURED LANDOWNERS IN NATAL.</heading>
+
+<question by="#thomas_watt" to="#minister_of_native_affairs">
+
+<num><span class="col_3833-3834" refersTo="page_0511"/>VI.</num>
+
+<from>Sir THOMAS WATT</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol>
+
+<li>(1) Whether it is the practice of the Government, when applications are made by coloured people in Natal desirous of buying laud or firearms, to refer the same to the chief native commissioner for his report before replying to the application; and</li>
+
+<li>(2) whether, with regard to the purchase of land, coloured persons are regarded by the Government as in the same category as natives ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#thomas_watt">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>(1) and (2) Coloured persons, as a whole, are not regarded as affected by the restrictions in respect of the acquisition of land imposed by the Natives Land Act, 1913, which defines a native as " any person, male or female, who is a member of an aboriginal race or tribe of Africa." Consequently there is no necessity for the ordinary coloured person desirous of buying land in Natal to obtain the permission of the Governor-General to do so. Coloured persons do, however, for the most part fall within the purview of the definition of " native " under the Natal Arms and Ammunition Act, No. 1 of 1906, which lays down that native " means and includes all members of the aboriginal races or tribes of Africa, whether exempted or not from the operation of native law, and Griquas and Hottentots, and any person whose parents or either of them come under the description of natives, Griquas or Hottentots, and the descendants of any such person." Coloured persons accordingly do require special permission to purchase firearms and ammunition in Natal, and such applications are referred to the chief native commissioner.</p>
+
+</answer>
+
+<question by="#thomas_watt" to="#minister_of_native_affairs">
+
+<from>Sir THOMAS WATT:</from>
+
+<p>Can the Prime Minister tell us whether he is aware that as a matter of fact applications to purchase land by coloured people are referred to the chief native commissioner for report?</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#thomas_watt">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>This is really due to the personal interpretation set upon the Natal law by the registrar of deeds in Natal. In spite of legal opinion the registrar maintains that coloured persons are not entitled to do so, which causes a good deal of nuisance to my department. I could, of course, leave it to the man concerned to institute an action, but these people have not the money, so every time I have recommended the Governor-General that he can allow the purchase to go through.</p>
+
+</answer>
+
+<question by="#thomas_watt" to="#minister_of_native_affairs">
+
+<from>Sir THOMAS WATT:</from>
+
+<p>Would not the Prime Minister give definite instructions to the registrar of deeds to accept the opinion of the law advisers on the matter, and so save trouble?</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#thomas_watt">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>That of course is par excellence a matter for the court, and the registrar of deels will not be entitled, unless he has an order of the court. He is a quasi judicial officer.</p>
+
+</answer>
+
+<question by="#hon_member" to="#minister_of_native_affairs">
+
+<from>An HON. MEMBER:</from>
+
+<p>Will you pay his costs?</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#hon_member">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>I do not know that.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Sunlight Research.</heading>
+
+<question by="#o'brien" to="#minister_of_public_health">
+
+<num>VII.</num>
+
+<from>Mr. O'BRIEN (for Mr. Papenfus)</from>
+
+<p>asked the Minister of Public Health:</p>
+
+<ol>
+
+<li>(1) Whether the undertaking given by the Minister in the House on the 8th November last to institute enquiries regarding treatment and sunlight research in other countries is being made by his department;</li>
+
+<li>(2) whether any steps are being taken to discover the actinic value of sunlight in the Union; and</li>
+
+<li>(3) whether the knowledge and information gained as the resudt of the enquiries referred to above will be made public?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#o'brien">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) and (3) From the information so far elicited it is clear that a " sunlight survey " of South Africa with modern apparatus&#x2014;such as the " photo-integrator " recently devised in the Clarendon laboratory, Oxford, under the auspices of the English Medical Research Council&#x2014;would be an undertaking of magnitude entailing specially trained personnel, also heavy expenses, which it seems extremely doubtful whether the results would justify. The Government is not prepared to undertake this, but further enquiries are being made as to the practicability and utility of a series of observations at selected spots by the acetone methylene blue method, the results of which will be made public in due course.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: SEA POINT LINE.</heading>
+
+<question by="#o'brien" to="#minister_of_railways_and_harbours">
+
+<num>IX.</num>
+
+<from>Mr. O'BRIEN (for Mr. Papenfus)</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) When, from whom, and on what terms did the State acquire the Monument-Sea Point Railway, and whether tins line has been continuously operated since its acquisition;</li>
+
+<li>(2) what sum has been expended on this line, including betterment, maintenance, running, capital and all other charges;</li>
+
+<li>(3) what is the total revenue derived from the line during the period mentioned;</li>
+
+<li>(4) when was the line electrified and at what cost, and what was the profit or loss on the running of the line since electrification until the 30th April last;</li>
+
+<li>(5) what has been the average daily profit or loss during the period of electrification; and</li>
+
+<li>(6) whether, if there be a daily loss, there is any prospect of profit in the future, <span class="col_3835-3836" refersTo="page_0512"/>and, if so, on what is this prospect based ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#o'brien">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Thefts and Prosecutions.</heading>
+
+<question by="#anderson" to="#minister_of_finance">
+
+<num>X.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What proportion of the criminal prosecutions which were initiated by the Railway Administration for the theft of goods received by the South African Railways on consignment and what proportion of the convictions which resulted were in respect of (a) Europeans and (b) non-Europeans, for the financial years ending the 31st March, 1925, 1926, 1927 and 1928; and</li>
+
+<li>(2) what proportion of the prosecutions and convictions, respectively, were in respect of employees of the South African Railways ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td colspan="4"><p>Year ended 31st March.</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>1925.</p></td>
+
+<td><p>1926.</p></td>
+
+<td><p>1927.</p></td>
+
+<td><p>1928.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(1)</p></td>
+
+<td><p>(<i>a</i> ) Prosecutions</p></td>
+
+<td><p>187</p></td>
+
+<td><p>210</p></td>
+
+<td><p>125</p></td>
+
+<td><p>170</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Convictions</p></td>
+
+<td><p>184</p></td>
+
+<td><p>203</p></td>
+
+<td><p>90</p></td>
+
+<td><p>160</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><i>b</i>) Prosecutions</p></td>
+
+<td><p>654</p></td>
+
+<td><p>684</p></td>
+
+<td><p>495</p></td>
+
+<td><p>614</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Convictions</p></td>
+
+<td><p>643</p></td>
+
+<td><p>659</p></td>
+
+<td><p>495</p></td>
+
+<td><p>601</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(2) Prosecutions</p></td>
+
+<td><p>120</p></td>
+
+<td><p>119</p></td>
+
+<td><p>179</p></td>
+
+<td><p>189</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Convictions</p></td>
+
+<td><p>110</p></td>
+
+<td><p>104</p></td>
+
+<td><p>175</p></td>
+
+<td><p>179</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_finance">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Can the Minister tell us whether the thieving mostly takes place from trucks or from goods sheds?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I cannot do so.</p>
+
+</answer>
+
+<question by="#anderson" to="#speaker">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>I would like him to institute some inquiry so that the information may be available when the estimates are reached.</p>
+
+</question>
+
+<answer by="#speaker" to="#anderson">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>In these cases where the Minister has replied, it will be more convenient to put the question on the paper, as the questions put will not otherwise appear again.</p>
+
+</answer>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>Perhaps what the hon. member means is that we can discuss it later, on the vote.</p>
+
+</answer>
+
+<answer by="#anderson" to="#minister_of_finance">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>What class of goods is mostly favoured by the thieves? That is another question I will probably raise later on the estimates.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: ACCIDENT AT VAN REENEN.</heading>
+
+<question by="#anderson" to="#minister_of_finance">
+
+<num>XI.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Railways and Harbours&#x2014;</p>
+
+<ol>
+
+<li>(1) Whether a railway collision occurred at Van Reenen Station on Friday, 20th April, 1928; if so,</li>
+
+<li>(2) whether any persons were injured or any damage was done to rolling stock;</li>
+
+<li>(3) what was the cause of the collision; and</li>
+
+<li>(4) whether a departmental enquiry into the cause of the collision has been held; if so, whether he will lay the report upon the Table?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) Yes, a mixed train collided with trucks standing in the goods shed road.</li>
+
+<li>(2) Three passengers, displaced by the jolt, sustained slight injuries, and rolling stock was damaged.</li>
+
+<li>(3) Points wrongly set by official who admitted train.</li>
+
+<li>(4) A departmental enquiry was held on 25th and 26th April, but the report has not yet been received and considered by the Administration.</li>
+
+</ol>
+
+<p>It is not the practice to lay upon the Table reports on departmental enquiries into accidents, and in this instance the Department of Justice has not yet decided what action should be taken in the matter.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_finance">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Since the accident was due to negligence or inefficiency, has any punishment been meted out to the responsible officials?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I thought I replied that I did not yet have the report of departmental inquiry.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Is the Minister going to appoint a commission of inquiry under Act 22 of 1916 to discover the cause of the accident?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The Minister of Justice has not yet appointed a committee.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: LADY GREY-NEW ENGLAND LINE.</heading>
+
+<question by="#sephton" to="#minister_of_finance">
+
+<num>XII.</num>
+
+<from>Mr. SEPHTON</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) If the line from Lady Grey to New England over the Karmelk Spruit were constructed along the route originally surveyed and partially completed, what would be the saving in the total expenses per annum as compared with the route at present in operation, such total expenses including all expenses, such as maintenance of the permanent way, loss of time and wear and tear of rolling stock, etc., necessarily incurred by reason of the fact that the present route is both longer and steeper in gradient than the route originally surveyed; and</li>
+
+<li>(2) what would have been the total savings to date in respect of such total expenses if the route originally surveyed and partially completed had been completed in the first instance ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#sephton">
+
+<from><span class="col_3837-3838" refersTo="page_0513"/>The MINISTER OF FINANCE:</from>
+
+<p>(1) and (2) Nil. The position is that any possible sayings in working expenditure under present traffic conditions would be counterbalanced by a very heavy and wholly disproportionate increase in interest and depreciation charges.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: EMERGENCY TOOLS.</heading>
+
+<question by="#close" to="#minister_of_finance">
+
+<num>XIII.</num>
+
+<from>Mr. CLOSE</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether every passenger coach on Union railway trains is equipped with an emergency kit box containing tools useful in an accident, such as an axe, a saw and a crowbar;</li>
+
+<li>(2) whether passenger coaches on railway systems outside the Union are not frequently so equipped;</li>
+
+<li>(3) whether it was not formerly the custom to provide such equipment on South African trains; and, if this custom has ceased, whether such equipment will immediately and in future be provided on all trains in the Union;</li>
+
+<li>(4) whether fire extincteurs are provided on every passenger coach: and, if so, (5) what steps are taken to ensure that such fire extincteurs are efficacious at all times ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#close">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) No, but a set of wrecking or emergency tools is conveyed in every main line passenger van.</li>
+
+<li>(2) So far as I am aware tools are conveyed in the van as on South African railways.</li>
+
+<li>(3) The practice of conveying wrecking gear in vans has been in operation on the South African railways for many years, and this kit has never at any time formed part of coach equipment.</li>
+
+<li>(4) Every main line saloon and dining car is equipped with a fire extinguisher. On branch lines where, in some cases, coaches are not fitted to carry fire extinguishers, they are conveyed in the van.</li>
+
+<li>(5) The standing instructions provide for competent officials at the principal depots to examine and clean the working parts of all fire extinguishers every three months and recharge when necessary, the date being recorded on a tag provided for the purpose.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PUBLIC SERVICE: J. J. P. DU TOIT.</heading>
+
+<question by="#marwick" to="#minister_of_native_affairs">
+
+<num>XIV.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol>
+
+<li>(1) Whether Mr. J. J. P. du Toit, a Union second-grade clerk, lately of the Native Affairs Department, drawing &#x00A3;400 per annum, has been appointed to a first-grade clerkship over the heads of other Transvaal second-grade clerks; if so,</li>
+
+<li>(2) how many second-grade clerks who were senior to Mr. du Toit have been superseded by his appointment to the first grade and what are their names;</li>
+
+<li>(3) what were the reasons for the preferment of Mr. du Toit; and</li>
+
+<li>(4) whether the claims and qualifications of all officials on the Reef and elsewhere were taken into consideration when Mr. du Toit was preferred ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#marwick">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Thirty. The names of these officers are as follows: H. J. Purchase, E. Grattan, V. A. W. Stiemens, J. E. Turner, V. J. Woods, M. G. C. Baury, J. K. H. Guest, J. A. Roth, C. P Bester, H. J. G. Bennett, H. F. Clifford, J. C. Hall, T. F. Roos, P. J. de Beer, C. C. Hosken, W. J. P. R. Langerman, C. T. Brent, H. A. S. Irvine, J. T. Smith, P. C. King, A. E. D. C. Kretzschmar, J. P. J. Botha, P. R. van den Berg, E. G. de Beer, G. v. d. G. Wessman, C. W. S. Wilson, T. B. Smith, H. F. Grobler, C. R. St. J. Gladwin, J. G. Dunlop. Of the officers mentioned one who had been appointed to the post previously on promotion asked to be relieved and sacrificed his promotion, three others were offered and declined the appointment.</li>
+
+<li>(3) and (4) The post to which Mr. du Toit was promoted is that of native registering officer on the Lichtenburg diamond diggings.</li>
+
+</ol>
+
+<p>The qualifications of all eligible officers on the establishment of the Department of Native Affairs on the reef and elsewhere were considered, and Mr. du Toit's claims for promotion to this particular post were regarded as superior to those of such second-grade clerks senior to him as were prepared to accept the appointment, on the following grounds: (a) That he is unmarried; (b) that he is fully bilingual&#x2014;the conditions at the diggings are such as to render it essential that this post be held by an officer who is thoroughly conversant with both official languages; and (c) that his previous experience on the reef has been such as to render Mr. du Toit particularly fitted for the performance of the duties appertaining to the post.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>IRRIGATION: ASSISTANT ENGINEERS.</heading>
+
+<question by="#alexander" to="#minister_of_the_interior">
+
+<num>XV.</num>
+
+<from>Mr. ALEXANDER</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) Whether there are at present two classes off officers in the Assistant Engineers grade of the Department of Irrigation, viz., (a) those on the scale &#x00A3;270&#x2014;&#x00A3;600, of whom there are 12 in number, and (b) those on the scale &#x00A3;300&#x2014;&#x00A3;650, of whom there are 13 in number;</li>
+
+<li>(2) whether the two classes have practically equal length of service and professional qualifications;</li>
+
+<li>(3) whether it is not possible to amalgamate the two classes, putting them all under (1) (b) above; and</li>
+
+<li>(4) whether the Government is prepared to take into consideration the advisability of giving equal opportunities for promotion <span class="col_3839-3840" refersTo="page_0514"/>in future to officers in both classes (1) (a) and (1) (b) above?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#alexander">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>ANTI-GERMAN RIOTS OF 1915.</heading>
+
+<question by="#alexander" to="#minister_of_finance">
+
+<num>XVI.</num>
+
+<from>Mr. ALEXANDER</from>
+
+<p>asked the Minister of Finance whether, in connection with reparation payments received and to be received under the Dawes Scheme, the Government is prepared to take into consideration the advisability of compensating sufferers in the Union by the anti-German riots of May, 1915?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#alexander">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I wish to point out to the hon. member that this question has been brought up on several occasions in one form or another and his attention is invited to the discussion which took place in this House on the 10th March and 17th April, 1925, on a motion brought forward by the hon. member for Umvoti for reference of the matter to a select committee. That motion was rejected. Compensation has only been paid out of reparation moneys in cases where loss was suffered as a result of direct enemy action, and the nature of such loss is fully set out in the terms of reference of the Reparations Commission which was appointed by the Government to investigate individual claims. The losses referred to by the hon. member were not caused by enemy action, but by riot on the part of civilians, and as the Government has never held itself responsible for, nor paid compensation in the case of, loss from such cause, I regret that I am unable to reopen the question.</p>
+
+</answer>
+
+<question by="#duncan" to="#minister_of_finance">
+
+<from>Mr. DUNCAN:</from>
+
+<p>What about Benoni?</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: COAL CONTRACTS.</heading>
+
+<question by="#nel" to="#minister_of_finance">
+
+<num>XVII.</num>
+
+<from>Mr. NEL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) For what periods and at what price have contracts been entered into with the following Transvaal collieries for the supply of steam coal for locomotive purposes, namely, Bellvue Colliery, Ltd., Minaar Witbank Colliery, Black Diamond Colliery, and Transvaal Coal Owners' Association;</li>
+
+<li>(2) for what periods have contracts for steam coal for locomotive purposes been concluded with collieries in Natal, and at what price; and</li>
+
+<li>(3) in view of the fact that the Black Diamond Colliery, Ltd., has existing contracts for the supply of coal at 5s. a ton, what justification is there for the payment by the Administration of 5s. 2d. per ton over a period of five years ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#duncan">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The reply to the question entails the submission of a very lengthy return, which I propose to lay on the Table of the House.</p>
+
+<p><i>The reply is as follows</i>:</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Period.</p></td>
+
+<td><p>Price.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>F.O.R. Exchange siding.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(1)</p></td>
+
+<td><p>Bellevue Colliery</p></td>
+
+<td><p>Five years commencing 1st April, 1928.</p></td>
+
+<td><p>Per ton. 5s. 4d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Minnaar Witbank Colliery Transvaal Coal Owners' Association:</p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 3d</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Witbank District</p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 9d</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Breyten District</p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 2d</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Kendal District</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 2d</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>F.O.R. Pits Mouth.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Black Diamond Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 2d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(2)</p></td>
+
+<td><p>New contracts:</p></td>
+
+<td><p></p></td>
+
+<td><p>F.O.R. Exchange siding 5s. 0d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Hlobane Colliery</p></td>
+
+<td><p>Five years commencing 1st June, 1928</p></td>
+
+<td><p>F.O.R. Exchange siding. 5s. 6d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Natal Cambrian Colliery Old contracts:</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Natal Steam Colliery</p></td>
+
+<td><p>Terminable onemonth's notice.</p></td>
+
+<td><p>6s. 0d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Enyati Colliery</p></td>
+
+<td><p>Terminating 31st May, 1928.</p></td>
+
+<td><p>F.O.R. Pits Mouth. 6s. 1d. for first 10,000 tons monthly. 5s. 9d. for second 10,000 tons monthly. F.O.R. Exchange siding. 5s. 9d.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Enyati Colliery</p></td>
+
+<td><p>Terminating Dec., 1929</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Hlobane Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p>6s. Od.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Wallsend Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p>5s. 8d. for first 3,000 tons. 5s. 6d. balance 2,000 tons.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Natal Cambrian Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p>6s. Od.</p></td>
+
+</tr>
+
+</table>
+
+<p>(3) I have no information in regard to the existing contract with Black Diamond Colliery at 5s. per ton referred to by the hon. member.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: ACCIDENT AT MILNEDALE.</heading>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<num>XVIII.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether a departmental enquiry was held as to the circumstances in which a serious accident occurred at Milnedale, Newcastle District, Natal; if so, (2) what recommendation, if any, was made as to the prosecution of the guard of the train who was held to be responsible for the accident;</li>
+
+<li>(3) whether the person in question was brought before the magistrate, Newcastle, and, if so, upon what charge, and with what result in the magistrate's court;</li>
+
+<li>(4) whether the guard was subsequently examined by Dr. A. Marius Moll, a nerve and brain specialist, and, if so, in what precise terms did he certify to the mentality of this official;</li>
+
+<li>(5) what casualties, if any, took place in connection with the Milnedale accident, and what was the amount of damage to rolling <span class="col_3841-3842" refersTo="page_0515"/>stock and compensation paid to passengers or their relatives;</li>
+
+<li>(6) whether the guard in question had previously met with an accident, and, if so, in what circumstances;</li>
+
+<li>(7) upon what date, and in what capacity, did the guard join the service, and what disciplinary offences, if any, were brought against him, and what punishments were imposed; and</li>
+
+<li>(8) where, by whose authority, and at whose expense was his examination carried out by a nerve and brain specialist ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I assume the hon. member refers to the collision which occurred at Milnedale on 5th October, 1924.</p>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) No recommendation of prosecution was made. The decision to prosecute rests with the Attorney-General.</li>
+
+<li>(3) the hon. member is referred to Question No. XIX to be addressed by him to my colleague the Minister of Justice.</li>
+
+<li>(4) Yes. Dr. Moll's report is of considerable length, dealing primarily with the probable state of the guard's nervous system at the time of the Milnedale accident. If the hon. member so desires, the report will be placed at his disposal at my office for confidential perusal.</li>
+
+<li>(5) The casualties were four killed, six injured and detained in hospital, and fifteen slightly injured, but continued their journey. Rolling stock damaged comprised two engines and tenders, two saloons, and four trucks. Compensation paid to passengers or their relatives, &#x00A3;5,831.</li>
+
+<li>(6) Yes. Guard Cronje sustained a severely strained back on 11th August, 1924. through slipping when stepping into his van, and he was off duty, injured, from 12th to 28th August. 1924. He was also off duty, injured, from 6th to 18th July. 1920, but a record of the cause is not available.</li>
+
+<li>(7) Joined service 13th February, 1920, as learner shunter at Kimberley. Disciplinary record clear up to date of Milnedale accident.</li>
+
+<li>(8) At Johannesburg, upon authority of Minister and Railway Board, at suggestion of Dr. Brownlee, railway medical officer, and at Administration's expense.</li>
+
+</ol>
+
+</answer>
+
+<question by="#henderson" to="#minister_of_finance">
+
+<from>&#x2020;Mr. HENDERSON:</from>
+
+<p>Was the Railway Administration a party to the withdrawal of the proceedings against the guard?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#henderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I do not think the Railway Administration would presume to take any such action as suggested by the hon. member. It is purely a matter which rests with the Attorney-General.</p>
+
+</answer>
+
+<question by="#henderson" to="#minister_of_finance">
+
+<from>Mr. HENDERSON:</from>
+
+<p>I said "a party."</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#henderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I don't think it likely. If the hon. member will put the question on the paper I will obtain the information.</p>
+
+</answer>
+
+<question by="#nicholls" to="#minister_of_finance">
+
+<from>Mr. NICHOLLS:</from>
+
+<p>In view of the very important finding and the recommendation of the board, how is it this matter was not brought to public trial?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#nicholls">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I take it that is a matter which, according to the law of this country, rests with the Attorney-General. The hon. member knows that.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the Minister give the House an indication of the nature of the report of the brain specialist as to the mentality of the accused? That is a fair question which, I think, the Minister has not answered.</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I said the report of Dr. Moll is at the disposal of my hon. friend in my office for his confidential information.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>How can the Minister lay down that such a document is confidential, when the public are concerned with the effect of a specialist's report?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>As the hon. member knows, it is not the practice to lay departmental reports on the Table.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the Minister tell us when any rule was laid down on this subject? Are not papers of public interest liable to be called for?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>I take it that is a question as to what is in the public interest, and I think that is a matter for the Government to decide.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the Minister say whether the unusual step of having the accused examined by a brain specialist was in any way connected with the reluctance of the Railway Administration to have the facts exposed in court?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>That is merely an insinuation which the hon. member makes. I do not know what grounds he has for it, but he can debate that. I do not think it is a subject to reply to.</p>
+
+</answer>
+
+<question by="#marwick" to="#speaker">
+
+<from>Mr. MARWICK:</from>
+
+<p>Will the Minister deny&#x2014;</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>The hon. member must not cross-examine the Minister.</p>
+
+</answer>
+
+<question by="#marwick" to="#le_roux">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>I do not wish to cross-examine the Minister, but to elicit information for the benefit of the public.</p>
+
+</question>
+
+<answer by="#le_roux" to="#marwick">
+
+<from>Mr. LE ROUX</from>
+
+<p>interjected a remark.</p>
+
+</answer>
+
+<question by="#marwick" to="#speaker">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Did the hon. member make a disparaging remark about me?</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I did not catch what the hon. member said. Did the hon. member use the word "cad"?</p>
+
+</answer>
+
+<question by="#roux" to="#marwick">
+
+<from>Mr. ROUX:</from>
+
+<p>I said if he made insinuations he would be one. Yes.</p>
+
+</question>
+
+<answer by="#marwick" to="#roux">
+
+<from><span class="col_3843-3844" refersTo="page_0516"/>&#x2020;Mr. MARWICK:</from>
+
+<p>The hon. member has made use of a very offensive and unbecoming expression, and under the rules he is required to withdraw that expression and apologize.</p>
+
+</answer>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I think the hon. member must withdraw.</p>
+
+</answer>
+
+<answer by="#roux" to="#speaker">
+
+<from>Mr. ROUX:</from>
+
+<p>I regret I cannot withdraw that.</p>
+
+<p>[Mr. ROUX then left the chamber.]</p>
+
+</answer>
+
+<question by="#deane" to="#speaker">
+
+<from>Mr. DEANE:</from>
+
+<p>On a point of order, is the hon. member for Ceres (Mr. Roux) in order in not apologizing and walking out of the House? Should he not be brought back by the Serjeant-at-Arms?</p>
+
+</question>
+
+<answer by="#speaker" to="#deane">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I was on the point of ordering the hon. member to leave the House, and it must be taken as if I had ordered him to leave.</p>
+
+</answer>
+
+<answer by="#marwick" to="#speaker">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>May I ask whether the brain specialist&#x2014;</p>
+
+</answer>
+
+<question by="#de_waal" to="#speaker">
+
+<from>*Mr. DE WAAL:</from>
+
+<p>To a point of order, you did not say that the hon. member for Ceres (Mr. Roux) must leave the House. You merely asked what he had said, and he said that he was very sorry he could not withdraw what he had said. And what did he say?</p>
+
+</question>
+
+<answer by="#speaker" to="#de_waal">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I have already given my ruling, and it cannot be discussed now.</p>
+
+</answer>
+
+<question by="#de_waal" to="#hon_member">
+
+<from>*Mr. DE WAAL:</from>
+
+<p>I did not understand that you said&#x2014;</p>
+
+</question>
+
+<answer by="#hon_member" to="#de_waal">
+
+<from>*An HON. MEMBER:</from>
+
+<p>Order.</p>
+
+</answer>
+
+<answer by="#de_waal" to="#marwick">
+
+<from>*Mr. DE WAAL:</from>
+
+<p>I did not understand that you had already said that the hon. member must leave the House.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_finance">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>I would ask the Minister as this is a matter of very great public importance whether, in the course of his certificate, Dr. Moll made use of these words: " This man is possessed of the mentality of 75 per cent, of his class "?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#marwick">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The hon. member evidently has the information which he wants to get from me. I did not get it. I do not know where he got it from, and what grounds he has for making that statement. I have not got the information. If he wants to get any further information from me on the point he will have to give notice in the ordinary course.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: GUARD CHARGED WITH HOMICIDE.</heading>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<num>XIX.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether a railway guard, alleged to have been responsible for a serious train accident at Milnedale, was charged with culpable homicide at the instance of the Railway Administration before the magistrate, Newcastle; if so,</li>
+
+<li>(2) what was the result of the proceedings in the magistrate's court;</li>
+
+<li>(3) whether any medical evidence was given in court, and, if so, whether it supported the accused's plea that he was under a mental aberration at the time of the accident;</li>
+
+<li>(4) whether the accused was subsequently examined by Dr. A. Marius Moll, a nerve and brain specialist, and, if so, in what precise terms he certified to accused's mentality;</li>
+
+<li>(5) whether the specialist in question gave sworn testimony in court or elsewhere as to his examination of the accused;</li>
+
+<li>(6) whether the trial of the case was subsequently remitted to the magistrate, Newcastle, and, if so, why;</li>
+
+<li>(7) why the trial did not take place before the magistrate;</li>
+
+<li>(8) why the prosecution was not proceeded with before a jury; and</li>
+
+<li>(9) whether a board was appointed under Section 68 of Act No. 22 of 1916 to hold a public enquiry as to the cause of the accident ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Guard D. C. Cronje was proceeded against by way of preparatory examination arising out of an accident at Milnedale on the 5th of October, 1924, upon instructions of the Attorney-General after consideration of the proceedings of a board of enquiry.</li>
+
+<li>(2) The accused was committed for trial on the 9th December, 1924.</li>
+
+<li>(3) Yes, the medical officer, Dr. Brownlee, deposed that in August, 1924, the accused had sustained an injury to his back in getting off a van and that he was in a dazed condition as a result thereof; that it was possible that that injury had a lasting effect, and that it was probable that the accused would suffer from recurring lapses of memory. Dr. Campbell deposed to the absence of injuries at the time of the accident on the 5th October, but to a comatose condition of the accused and inability to move. The district surgeon and Dr. Edwards, medical practitioner, were of opinion that the injuries sustained in August would not affect the accused's mental condition at the time of the accident in October.</li>
+
+<li>(4) and (5) An unsworn statement of Dr. Moll was put in to the effect that the accused was suffering from a severe attack of neurasthenia on the 4th of December, the origin of which might have been due to the accident in August, but to which was not attributable the failure to discharge his duties which led to the accident of the 5th October. He was of opinion, however, that the symptoms given by accused, if correct, and which he had no reason to disbelieve, supported the theory of an attack of migraine passing into an epileptic attack.</li>
+
+<li>(6) The Attorney-General on the 4th February, 1925, remitted the case for trial by the magistrate.</li>
+
+<li>(7) Because the accused demanded a trial before a superior court under Section 229 (1) of Act 31 of 1917.</li>
+
+<li><span class="col_3845-3846" refersTo="page_0517"/>(8) I am informed that the Attorney-General thereupon, in view of the medical evidence in regard to the accused's state of health and of other circumstances, declined to prosecute. A copy of the medical evidence is available in my office for the hon. member's inspection if desired.</li>
+
+<li>(9) Yes.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the hon. the Minister say whether the certificate of Dr. Moll contains these words, " This man possesses the mentality of 75 per cent, of his class?"</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I have not read the report, but the report is available for the hon. member. The first I heard of this matter was when it was referred to in the estimates to-day, by the hon. member, and the next I have heard is in this question. I know nothing else apart from the information I have given to the hon. member.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Does the hon. the Minister wish to lay down the confidential character of this medical report before I inspect it, or am I free to make whatever use I think fit to make of it in this House?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I have not said that it is for the hon. member's confidential information. The hon. member may make any use of it he likes; it does not matter to me.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>SUGAR, PRICE OF.</heading>
+
+<question by="#jagger" to="#minister_of_finance">
+
+<num>XX.</num>
+
+<from>Mr. JAGGER</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Whether Natal refined sugar is sold by Natal refineries to Rhodesia at 23s. per 100 lbs. f.o.r. Durban, whereas the price charged to Union consumers is 24s. 6d. per 100 lbs.;</li>
+
+<li>(2) whether the Natal refineries sell refined sugar at 24s. 6d. per 100 lbs. c.i.f. Cape Town, which means approximately 23s. f.o.r. Durban, whereas Transvaal consumers pay 24s. 6d. per 100 lbs. f.o.r. for the same sugar;</li>
+
+<li>(3) whether he is prepared to take steps to investigate the matter with a view to preventing the sugar refineries exploiting Transvaal consumers; and</li>
+
+<li>(4) whether he is prepared to support the principle that the refineries should charge the same price at the factory to all Union consumers, irrespective of geographical position ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#jagger">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: ACCIDENT AT SHONGWENI.</heading>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<num>XXI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether a serious railway accident which occurred at Shongweni tunnel, Natal, some three months ago, was reported to him;</li>
+
+<li>(2) whether the engine driver and the fireman of a train in the tunnel were severely scalded; rendered unconscious, and subsequently confined to hospital for several days through their injuries; and</li>
+
+<li>(3) whether a board was appointed under section 68 of Act No. 22 of 1916 to hold a public enquiry as to the cause of the accident ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) Yes.</li>
+
+<li>(3) I decided that there was no necessity for the appointment of a board of enquiry under section 68 of Act No. 22 of 1916. I may add that it was ascertained that the accident was caused through the vacuum pipes between the trucks near the engine opening and parting on a curve just before the train entered the tunnel. Owing to the steam pressure rising on the train coming to a stand, the safety valves were blown off and the escaping steam, assisted by a following wind, scalded the engine crew.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Does the Minister ignore the force of the statutory duty implied by the Act of 1916 and the present urge of public opinion that he should hold a public inquiry to discover the cause of this accident?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I am always carrying out the provisions of that section and I have carried them out in this case.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_justice">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>I would like to ask the Minister whether the evidence given at the inquiry was not unanimous that this " U " type of German engine involved in this accident was dangerous because of certain specified defects.</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#anderson">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I am satisfied that the cause of the accident was elicited and that cause was the one I have given. When I am satisfied on that point, no further inquiry is necessary.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>When this matter came up for discussion on the estimates, the Minister promised that he would publish the facts in connection with the accident. When can we expect that?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I have published the facts here. These are the facts. I must say hon. members opposite know much more about these departmental matters than the Minister. Where they get their information from I don't know. We were not so privileged when we were on that side of the House.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Is the Minister prepared to publish the evidence of the engine driver, Foster; the fireman, Greef, and the locomotive foreman, Lightbody, all of whom emphasized the very dangerous character of the " U " German type of engine because of certain specified defects?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from><span class="col_3847-3848" refersTo="page_0518"/>The MINISTER OF JUSTICE:</from>
+
+<p>I do not know. The hon. member understands these documents are not my documents. Surely it is obvious that as these are the documents of the Railway Department, his question would be more fittingly addressed to the Railway Department. I am not here to dish out the documents of other departments. I am prepared to dish out the documents of my own department to anybody who wishes to see them, though I will say that as so much is known to the Opposition that it might be well if they allow some member on that side to go through all the papers. They seem to have a great staff of inspectors in the Government offices.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>May I state that the documents being discussed were rendered available to us after a great deal of reluctance on the part of the now absent Minister of Railways, and I am simply asking the Minister to redeem his pledge and I want to know whether he will carry out his promise made during committee of supply to publish the facts regarding this accident?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>I say I have published the facts.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_justice">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>I hope the Minister will exonerate the officials. May I ask what becomes of the provisions of Section 68 of Act 22 of 1916, which require a public inquiry to discover the cause of the accident?</p>
+
+</question>
+
+<answer by="#minister_of_justice" to="#marwick">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<p>If the hon. member is correct in saying that that public enquiry must take place in every case under that section, and that I have not carried out my discretion properly, I am quite prepared to lay down my position. I say I have carried out my discretion properly and I do not propose to carry this matter any further. That is my final answer.</p>
+
+</answer>
+
+<question by="#marwick" to="#hon_members">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Does the Minister deny that the evidence disclosed&#x2014;</p>
+
+</question>
+
+<answer by="#hon_members" to="#marwick">
+
+<from>HON. MEMBERS:</from>
+
+<p>Order</p>
+
+</answer>
+
+<question by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>Question No. 22.</p>
+
+</question>
+
+<answer by="#marwick" to="#speaker">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>I beg your pardon, sir, I did not hear you call the next question.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: COAL TESTS.</heading>
+
+<question by="#thomas_watt" to="#minister_of_railways_and_harbours">
+
+<num>XXII.</num>
+
+<from>Sir THOMAS WATT</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether the Railways and Harbours Administration has from time to time made practical tests of the consumption of coal from the Transvaal and Natal on locomotives; if so,</li>
+
+<li>(2) what are the ascertained relative values, apart from price, of such coals for use on locomotives; and</li>
+
+<li>(3) taking price as well as other factors into account, what are the relative values of these coals for use on locomotives at Johannesburg, Volksrust, Kimberley and Cape Town ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#thomas_watt">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>JUSTICE: NATIVE GIRL'S ALLEGATION.</heading>
+
+<question by="#giovanetti" to="#minister_of_justice">
+
+<num>XXIII.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the report of a case in the magistrate's court, Pretoria, where, on the unsupported complaint of a native girl, a prominent citizen was submitted to the indignity of arrest and imprisonment and charged with a foul crime of which he was eventually declared innocent;</li>
+
+<li>(2) whether it is not competent for the magistrate in such cases to institute a private investigation before issuing a warrant for the arrest of an individual with all its attendant indignity, scandal, inconvenience and loss; and</li>
+
+<li>(3) whether the Minister will take the necessary steps to deal with such similar cases in future ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#giovanetti">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) No.</li>
+
+<li>(3) I am making enquiries to ascertain whether the police in any way acted improperly or incorrectly in the matter.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DOORNKOP ESTATES, LTD. (AGREEMENT).</heading>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<num>XXIV.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Labour whether he will this week lay upon the Table a copy of his agreement with the Doornkop Estates, Limited, under which the tenant-farmers settlement scheme is to be terminated?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#giovanetti">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>The agreement will be laid on the Table either this week or early next week.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<from>Mr. MARWICK:</from>
+
+<p>Will the Minister tell us whether we shall have an opportunity of seeing the agreement before his estimates come on?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#marwick">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>I will see that it is placed on the Table before my vote comes on.</p>
+
+</answer>
+
+<question by="#reitz" to="#speaker">
+
+<from>&#x2020;Col. D. REITZ:</from>
+
+<p>May I ask the Minister whether he has assumed the liability towards the British Trades Facilities Commission?</p>
+
+</question>
+
+<answer by="#speaker" to="#reitz">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>That does not arise out of this question.</p>
+
+</answer>
+
+<question by="#reitz" to="#speaker">
+
+<from>&#x2020;Col. D. REITZ:</from>
+
+<p>It has directly to do with this agreement, the Doornkop agreement.</p>
+
+</question>
+
+<answer by="#speaker." to="#reitz">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>Yes, but it does not arise out of the question.</p>
+
+</answer>
+
+<answer by="#minister_of_labour" to="#reitz">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>The hon. member will see it in the agreement.</p>
+
+</answer>
+
+<question by="#anderson" to="#speaker">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Can the Minister now tell us how many tenant farmers have decided <span class="col_3849-3850" refersTo="page_0519"/>to remain on and render service to Mr. Rosenberg?</p>
+
+</question>
+
+<answer by="#speaker" to="#anderson">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>That does not arise out of the question either.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<num>XXV.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Labour whether the tenant-farmers, when informed of the proposed amendment of the agreement with the Doornkop Estates, asked for eight days within which to discuss the terms, and were called upon to decide thereon without deliberation forthwith?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#marwick">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>On the position being explained to the tenant farmers, they all decided not to remain on the estate under the terms of the previous contract. They asked for eight days in which to decide whether they would (i) make their own arrangements with the company to remain on the estate; or (ii) return to the forestry settlements; or (iii) accept transfer to the tenant farmer scheme elsewhere under the Department of Labour; or (iv) return to their homes. They have been allowed until the end of May to decide which offer they will accept.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>In the meantime will the Minister continue to pay the subsistence allowance?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#marwick">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>We have undertaken to do that.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>In view of the fact that these tenant farmers have raised the question of their actual agreements with the Government, will the Minister tell us what agreements subsist between these men and the Government?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#marwick">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>The hon. member knows they were working on a certain agreement which the Government had with the company and with the men. The men of their own free will have cancelled that agreement and they are now exercising their choice as to which of the alternatives they will accept.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Was there any agreement between the Government and the tenant farmers under which the Government was obliged to pay them &#x00A3;10 for every cultivated acre of cane?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#marwick">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>No, that was not in the terms of the agreement at all.</p>
+
+</answer>
+
+<question by="#marwick" to="#speaker">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Why was no agreement ever entered into to safeguard these tenant farmers from exploitation?</p>
+
+</question>
+
+<answer by="#speaker" to="#marwick">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>That does not arise out of this question.</p>
+
+</answer>
+
+<answer by="#minister_of_labour" to="#speaker">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>They have been safeguarded.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>EGG-LAYING TEST.</heading>
+
+<p>The MINISTER OF AGRICULTURE replied to Question XVI by Mr. Marwick, asked on 1st May.</p>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether the Advisory Committee, newly appointed by the South African Poultry Association to represent poultry breeders at the Central Egg-Laying Test, visited Glen on Friday, the 27th April, 1928; if so,</li>
+
+<li>(2) what report, if any, have they made through the press concerning the arrangements made for the accommodation of the competing birds during the test;</li>
+
+<li>(3) what number of birds have arrived from different parts of the Union;</li>
+
+<li>(4) whether the birds were provided with single pens; if not, how many pens were provided, what was the greatest number of birds belonging to different owners enclosed in one pen, and how many drinking troughs were there in such pens;</li>
+
+<li>(5) whether other quarantine arrangements were found by the advisory committee to be satisfactory or otherwise;</li>
+
+<li>(6) whether any of the birds look sick, and whether in any cases signs of moult are showing; and</li>
+
+<li>(7) whether either the principal of the Glen School of Agriculture or the advisory committee is consulted when orders in regard to the test are issued by the principal poultry officer, Pretoria ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) I understand that such a visit was paid on the 24th of April last.</li>
+
+<li>(2) I have seen references in the press, but official representations were made direct to me by the South African Poultry Association not in regard to the arrangements for the test, but in regard to quarantine arrangements.</li>
+
+<li>(3) 800.</li>
+
+<li>(4) Falls away in view of replies to (2) and (5).</li>
+
+<li>(5) The South African Poultry Association held (a) that quarantine was unnecessary; (b) that birds in quarantine should be in single pens and not five in a pen, as was the case under quarantine; (c) that the water troughs supplied 25 instead of five birds, and alterations were desired in terms of design of the board; (d) that the Pretoria office of the division was issuing instructions whereas the board understood that the principle of Glen School was responsible. As a result of these representations, I ordered the Under-Secretary for Agriculture to conduct an enquiry. This has been carried out. All parties, viz., the divisional headquarters from Pretoria, the School of Agriculture and the advisory committee being fully represented. All points of difference were discussed and all parties expressed themselves satisfied. A copy of the report will be laid upon the Table.</li>
+
+<li>(6) Some are moulting. In the last competition, 138 moulted during the first period, presumably due to the change of climate.</li>
+
+<li>(7) All instructions are issued through the principle, Glen School of Agriculture.</li>
+
+</ol>
+
+</answer>
+
+<p><span class="col_3851-3852" refersTo="page_0520"/>The MINISTER OF AGRICULTURE replied to Question XVII by Mr. Marwick, asked on 1st May.</p>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether the pens used for the Central Egg-Laying Test at Glen were known to be infected with insect pest at the close of the test in March, 1927; if so,</li>
+
+<li>(2) what steps, if any, were taken by the responsible officials to have the pens thoroughly cleansed prior to the commencement of the second test; and</li>
+
+<li>(3) whether the Minister will lay upon the Table the correspondence exchanged between the South African Poultry Association and the responsible officials in charge of the test, as to the responsibility for the infection of the birds that competed in the second test, together with the letter of resignation dated 3rd March, 1928, from the advisory committee?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) Insect infection in a couple of pens was discovered in February, 1927.</li>
+
+<li>(2) Immediate steps were taken under technical advice for thorough cleansing and disinfection, but as hens were still in the pens this could not be thoroughly effected until close of the competition in March, when instructions were issued for all old material such as cases, packing, etc., used in connection with the test to be removed and disposed of; that the premises should be thoroughly sprayed with paraffin emulsion or a strong carbolic dip; perches in infected pens to be treated with blow lamps; and all litter, etc., in the pens should be removed and burned. Seven days later a second spraying to be carried out as also further blow lamp treatment and painting of perches. As a result of these measures, the houses were reported to be clean. Up to September no further outbreak had occurred, and during that month an inspection was made by the Advisory Committee as a result of which general satisfaction was expressed as to the condition and appearance of the birds, the officers responsible being complimented on this.</li>
+
+<li>(3) As stated in my reply to Question XVI, a copy of the report of the recent investigation will be laid upon the Table together with certain other documents in response to a verbal question addressed to me by the hon. member. I will consider whether any other correspondence should be laid upon the Table.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Has the Minister's attention been drawn to the denial appearing in the " Friend " of Friday last, that the matter was satisfactorily settled, and on the other hand stating it has not been settled to anybody's satisfaction?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>No. If the hon. member has any further interest in the hens, he can bring it up again on my Estimates, which will be dealt with shortly.</p>
+
+</answer>
+
+<question by="#barlow" to="#minister_of_agriculture">
+
+<from>Mr. BARLOW:</from>
+
+<p>I understand the principal of Glen was found not responsible.</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#barlow">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>The principal of Glen will be responsible under the arrangements now being made.</p>
+
+</answer>
+
+<question by="#barlow" to="#minister_of_agriculture">
+
+<from>Mr. BARLOW:</from>
+
+<p>Has he been found to be responsible for the faults at this particular test?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#barlow">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>After the enquiry, they have come to a certain agreement satisfactory to all parties, and the principal of Glen will be held responsible in future.</p>
+
+</answer>
+
+<question by="#barlow" to="#minister_of_agriculture">
+
+<from>Mr. BARLOW:</from>
+
+<p>Does the Minister know there is a good deal of ill-feeling in my constituency about this enquiry, and that they feel the principal of Glen has not been properly dealt with by the department?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#barlow">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>I do not know about any ill feeling. I only know the report is here&#x2014;and will be laid on the Table&#x2014;whereby all parties are satisfied.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Is the Minister not aware that the regulations under which poultry owners from all portions of the Union competed, stated that each hen would be provided with a separate pen, and the chief poultry officer has been putting five hens from different owners in one pen?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>I can only say again that if the hon. gentleman has any more interest in the hens, he can discuss it on my Vote.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>POSTS: THE 1923 LEARNERS.</heading>
+
+<p>The MINISTER OF POSTS AND TELEGRAPHS replied to Question XII by Mr. Alexander, asked on 1st May.</p>
+
+<question by="#alexander" to="#minister_of_posts_and_telegraphs">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) Whether the case of the 1923 post office learners has been considered by the Cabinet; if so, whether he is prepared to inform the House what the decision of the Government was;</li>
+
+<li>(2) how many learners entered the postal service prior to the 28th March, 1923, but were appointed subsequent to that date;</li>
+
+<li>(3) how many of such learners have since resigned from the Union service; and</li>
+
+<li>(4) how many of such learners have left to join the Rhodesian service?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#alexander">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) Yes, the case of the 1923 learners has been considered by Cabinet who decided that the petitioners' request could not be granted.</li>
+
+<li>(2) The position is as follows&#x2014;(a) 130 males and 41 females who had entered as learners previously were appointed provisionally on the new scale between November, 1922 and March, 1923; (b) 110 males and 29 females entered before March, 1923, and were appointed assistants <span class="col_3853-3854" refersTo="page_0521"/>subsequent to the introduction of the new scale.</li>
+
+<li>(3) 24 males and 11 females under (a) above and 19 males and 12 females under (b) have left the service.</li>
+
+<li>(4) No definite information is available, as officers resigning rarely indicate their reasons.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#oral_questions">
+
+<heading>ORAL QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>RAILWAYS: ACCIDENTS AND SALT RIVEE MEETING.</heading>
+
+<question by="#strachan" to="#speaker">
+
+<from>&#x2020;Mr. STRACHAN:</from>
+
+<p>I wish to ask the Minister of Railways and Harbours whether his attention has been directed to the press reports of a meeting held in the Railway Institute, Salt River, last Sunday, at which the general secretary of the Locomotive Engineers' Society is reported to have made certain statements as follows:</p>
+
+</question>
+
+<answer by="#speaker" to="#strachan">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>Has the hon. member given notice of this to the Minister?</p>
+
+</answer>
+
+<question by="#strachan" to="#minister_of_finance">
+
+<from>Mr. STRACHAN:</from>
+
+<p>Yes, sir, and I wish to ask:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been directed to press reports of a meeting held in the Railway Institute, Salt River, on Sunday last, at which the General Secretary of the Locomotive Engineers' Society is reported to have stated that:
+
+<ol>
+
+<li>(a) " It was not the men who were to blame for the accidents, but the methods adopted in running the Service; "</li>
+
+<li>(b) "Half the trains to-day were run in dirt and muck, and the engines were not kept clean. The Society had kept on drawing attention to this state of things, but to no purpose ";</li>
+
+<li>(c) " He knew something about railway matters, and had no hesitation in saying that he had never known engines in such a deplorable state as they were today " <i>;</i> and</li>
+
+<li>(d) " If a driver asked what the speed limit was, he was told: As fast as you can go, provided you don't go off the road,"</li>
+
+</ol>
+
+</li>
+
+</ol>
+
+<p>and, if so, (2) whether the Minister is prepared to admit or deny the correctness of these statements?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#strachan">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) Yes, I have perused the reports referred to by the hon. member.</li>
+
+<li>(2) The statements referred to are not in accordance with fact.</li>
+
+</ol>
+
+</answer>
+
+<question by="#oost" to="#minister_of_finance">
+
+<from>*Mr. OOST:</from>
+
+<p>I should like to ask whether the secretary is the same as the secretary of the transportation sick fund in Pretoria, of which the person made such a terrible mess, and whether he is a prominent member of the South African party.</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#oost">
+
+<from>*The MINISTER OF FINANCE:</from>
+
+<p>I have no information on the subject.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>MOZAMBIQUE NEGOTIATIONS.</heading>
+
+<question by="#smuts" to="#prime_minister">
+
+<from>Gen. SMUTS,</from>
+
+<p>with leave, asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to this morning's cables from Lisbon to the effect that at the Mozambique negotiations now taking place the question of deferred pay for mine labour from Mozambique has been raised and will form the principal matter in issue;</li>
+
+<li>(2) whether the Government is aware of the far-reaching and disastrous effects which compulsory deferred pay may have for trade and prosperity on the Rand as well as on the labour supply for the mines;</li>
+
+<li>(3) whether the Government is aware that it was for these reasons that the claim for compulsory deferred pay has been strenuously resisted in the negotiations of the past; and</li>
+
+<li>(4) whether steps will be taken to safeguard the interests of the Rand in the present negotiations in this respect ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#smuts">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) Yes, my attention has been called to the cables referred to. Whether and in how far the question of deferred pay will be raised by the Portuguese Government in the negotiations with Minister Malan, I do not know.</li>
+
+<li>(2) Government is fully aware of all the considerations involved in the question of deferred pay.</li>
+
+<li>(3) I am prepared to accept the right hon. gentleman's statement to that effect.</li>
+
+<li>(4) The Government hopes that the steps which may eventually be taken will safeguard not merely Rand trade, but also Rand mining.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAY LEVEL CROSSINGS COMMISSION.</heading>
+
+<question by="#close" to="#minister_of_finance">
+
+<from>Mr. CLOSE,</from>
+
+<p>with leave, asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) When the report of the commission on railway level crossings will be laid on the Table;</li>
+
+<li>(2) will the report be printed; and</li>
+
+<li>(3) when will the Minister make the statement of the Government's policy as to these level crossings, which was promised recently by the Minister?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#close">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) In a few days' time.</li>
+
+<li>(2) Yes.</li>
+
+<li>(3) I have no information regarding a promise which was made by my colleague, but the matter is under consideration.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DELIMITATION REPORT.</heading>
+
+<question by="#nathan" to="#minister_of_the_interior">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p>I would like to ask the Minister of the Interior whether he is now in a position to lay the Delimitation Report on the Table of the House; if not, why not?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nathan">
+
+<from><span class="col_3855-3856" refersTo="page_0522"/>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>I think it will give great satisfaction to the hon. member if I say I hope to lay the report on the Table of the House to-morrow.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#radio_amendment_bill">
+
+<heading>RADIO AMENDMENT BILL.</heading>
+
+<p>Leave was granted to the Minister of Posts and Telegraphs to introduce the Radio Amendment Bill.</p>
+
+<p>Bill brought up and read a first time; second reading on 14th May.</p>
+
+</debateSection>
+
+<debateSection name="#petition_r_rushton">
+
+<heading>PETITION R. RUSHTON.</heading>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the petition from R. Rushton, of Durban, formerly owner of the " Drift Hotel ", situate on Government land at Umkomaas, praying for compensation in respect of improvements effected on such land, or for other relief, presented to this House on the 26th January, 1928, be referred to the Select Committee on Native Affairs for consideration and report.</block>
+
+<p>About December, 1922, Mr. Rushton brought his petition forward in regard to this hotel. He was given an official receipt for the purchase price and spent some &#x00A3;3,500 on the reconstruction of the hotel, and in all he spent &#x00A3;6,000 on it. In 1923 the Government constructed a bridge over the river. The ford was done away with and the hotel became an unpayable proposition. He endeavoured to sell it and received an offer of &#x00A3;5,000, which he was prepared to accept, but it appeared that the land was vested in the Natal Native Trust and there were conditions of which he had not been aware. Under the lease all the buildings belonged to that trust, without there being any compensation whatever. Under these circumstances he was unable to sell and to carry on the hotel, and the buildings reverted to the trust without any compensation. He is now entirely penniless and asks for sympathetic consideration. I move the motion to see if there is not some method of compensation to Mr. Rushton for the losses he has undoubtedly sustained.</p>
+
+</speech>
+
+<speech by="#arnott">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">ARNOTT</person>:</from>
+
+<p>I have great pleasure in seconding this. The Natal Native Trust is prepared to lease land not exceeding five acres, with the proviso that the erector of the buildings has no claim over them. It used to be an annual lease, but to-day is for five years. It is a very unfair position indeed. I think, with a little trouble, the Natal Native Trust could convert these buildings to their own use. Why cannot they make an ex gratia payment? It is very hard luck on this man, who has expended so much money under a misapprehension. It was lack of business methods on his part that he did not enquire into the title.</p>
+
+<p>Motion put and agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_unauthorized_expenditure_1926-'27_bill">
+
+<heading>RAILWAYS AND HARBOURS UNAUTHORIZED EXPENDITURE (1926-'27) BILL.</heading>
+
+<p>First Order read: Second reading. Railways and Harbours Unauthorized Expenditure (1926-'27) Bill.</p>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>The Bill deals with expenditure on a few matters which form the subject of the usual investigation by the select committee and were recommended in their report for appropriation.</p>
+
+<p>Motion put and agreed to.</p>
+
+<p>Bill read a second time; House to go into committee now.</p>
+
+<p>House in Committee:</p>
+
+<p>Clauses, schedule and title put and agreed to.</p>
+
+<p>House Resumed:</p>
+
+<p>Bill reported without amendment; third reading to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#factories_amendment_bill">
+
+<heading>FACTORIES (AMENDMENT) BILL.</heading>
+
+<p>Second Order read: Factories (Amendment) Bill, as amended in Committee of the Whole House, to be considered.</p>
+
+<p>Amendment considered.</p>
+
+<p>New clause to follow Clause 2</p>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the following be a new clause to follow Clause <i>2:</i></block>
+
+<block name="quote">3. Notwithstanding anything contained in the said Act the provisions thereof shall not apply to any farm in respect of the making, packing or preparation by a bona fide farmer who is also the owner or occupier thereof from produce grown or animals kept and still owned by any other bona fide farmer, of good? for transport, trade or sale if the first mentioned bona fide farmer also makes, packs or prepares similar goods from similar produce grown or animals kept by himself.</block>
+
+<p>I do not want to embark on a long discussion, for we have debated the matter very fully. On Friday after stoutly maintaining that the farmers did not come under the Bill, the Minister had to admit that he was mistaken, and that, under certain circumstances, farmers were brought under the Bill. Did he attempt to rectify the position? Not a bit, but he availed himself of the closure supported by farmers on the Government side who should have insisted on the Minister amending the Bill. On Monday the Minister said he had discussed the matter with his advisers, but he was so afraid of one single guilty person escaping that he refused to accept any amendment to put the matter right. Again he had the silent vote of <span class="col_3857-3858" refersTo="page_0523"/>the farmers sitting behind him. He also had the very active support of the Minister of Defence who rushed like Bombastes into the arena, although he knew nothing of the matter. However, very shortly after he retired defeated and discomfited and was not seen again. It is strange that no member representing a farming constituency on the other side of the House raised a single voice in protest, but voted dumbly for the Bill. All they could say was that the Labour members were excellent fellows, were their very good friends and that they were quite content to leave the discretion for the administration of the Bill in the hands of Labour. Truly they have chosen strange bedfellows when they selected the Labour members. Had I such bed-fellows I would buy a tin of Keating's powder. I can imagine the farmers in the platteland feeling that the destinies of the country are safe in the hands of great Afrikanders rejoicing in such names as Kairowsky, Weinstock, Rosenbaum and Kantorowitch, evidently, by their names, noble scions of the old voortrekkers.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member should discuss his amendment.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>I am only leading up to the position which induced me to put the amendment before the House. I never saw such a spectacle as was presented when this Bill was in committee. The Minister, although beaten, was stoutly supported by the farmers on the other side. They supported him in spite of the fact that they were going absolutely against the opinions of those they represent. They know very well that they dare not on a platform in the platteland support a Bill containing the principles laid down in this measure. The hon. member for Bloemfontein (North) (Mr. Barlow) spoke of &#x00A3;57,000,000 worth of wool produced in Australia.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>You are wrong&#x2014;&#x00A3;65,000,000.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>The hon. member for Graaff-Reinet (Mr. I. P. van Heerden) has been in Australia, and I challenge him to support the Bill. I challenge him to tell the House of the country population of Australia being gradually driven into the towns from the operation of the Labour policy. I challenge him to tell this House of the position of the farmers, of their wives and children slaving to do the work themselves, because they cannot pay the wages which are demanded by the Labour party in Australia.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must confine himself to his amendment.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>I want to point out the effect this clause is going to have on the farmers, and I want to draw a parallel with conditions obtaining in other countries. I want to show what we may expect by an application of the clause to this country. Hon. members opposite should realize where this sort of legislation leads. I draw the parallel of Australia, where the shearers, not content with doing an honest day's work, being paid for that work on results, are demanding a flat rate of &#x00A3;15 a week. That is what legislation of, this sort is bringing about.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The principles of the Bill are not being discussed now. The hon. member must confine himself to the amendment.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>Section 13 of this Act lays down. [Extract read.] That is the obligation which I am trying to avoid by my amendment. This is the first time the farmers in this country have ever voted for the extension of the 8-hour day to the farms Make no mistake, that is what you are voting for&#x2014;to put power in the hands of the Labour Minister to extend the 8-hour day to the farms.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Has this anything to do with the hon. member's new clause?</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>This Bill provides that the 8-hour day shall be operative in factories, and I am trying to get the small factories exempted from its operation. You may call me narrow, but I and my farming friends opposite know that I speak for the farmers of South Africa.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>*Mr. <person refersTo="hansard_za">G. C. VAN HEERDEN</person>:</from>
+
+<p>I second the amendment. There is no doubt that if hon. members opposite are compared with the Labour members we can see who has won the battle about this Bill. The Labour members are very pleased that the Factory Act is being extended, so that, at any time, it can be applied to the countryside. This side has tried to make it clear, and we are doing it now for the last time, by means of the amendment moved by the hon. member for Griqualand (Mr. Gilson) that the farmer is excluded from the operation of this Bill. Our farmer friends opposite are agreeable to the farmers being ruled by the Labourites, who are to-day so pleased at their victory. The interests of the farmer are sacrificed by hon. members opposite for the support they get from the Labour party. It is unnecessary to say any more about the matter. We dealt fully with it in committee, and at the second reading. I am sorry hon. members opposite will not help to make it clear that the farmer does not come under the operation of this Bill.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The language in the Act and the sentiments of the hon. member for East Griqualand (Mr. Gilson) must make his friend, the hon. member for Yeoville (Mr. Duncan) shiver in his shoes. There is a good deal of Pecksniffian cant about it.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Order.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I did not catch what the hon. member said.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I think there is a good deal of Pecksniffian cant about it. That is a very good phrase from Dickens. It is quite a classical phrase. It is to be found in one of the best books ever written in the English language.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from><span class="col_3859-3860" refersTo="page_0524"/>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>The hon. member accused' me of cant, and changed it to Pecksniffian the second time.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The hon. member has probably never read Dickens.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>Is the remark " cant " in order?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I think in the way the hon. member uses it, it is, but I must say On frequent occasions words are used that really ought not to be used.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The phrase " Pecksniffian cant " has been accepted by the British House of Commons. The hon. member is a Pecksniff there is no doubt about it. It does not make it any better, and it does not make it any worse. May I point out to him that his allies, the Unionists, in 1918 brought forward exactly the same speeches and the same idea that has been brought forward by the hon. member for Griqualand? They even went further and said that the whole of the Factory Bill should he I thrown on to the countryside, and that all the farmers should come under it.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person></from>
+
+<p>made an interjection.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>If the hon. member for Cape Town (Central) (Mr. Jagger) had his way, there would be no Factory Bill, and we would get back to 100 years ago, when the children pulled the coal on their stomachs out of the coal mines. The hon. member is 100 years behind his time in social legislation. He always has been. I won't treat him harshly. He is departing from this House, to our sorrow. If he had had his way, no Parliament that he led would ever have passed any social legislation. I am talking rather to the hon. member for Yeoville (Mr. Duncan). It is the hon. member for Yeoville whom we are sorry for. Would the hon. member for Rondebosch (Mr. Close), who sits besides him, get up and make the speech that was made by the hon. member for Griqualand (Mr. Gilson)? He has his ear to the ground and his eye on the ballot box for the Rondebosch workers. The hon. member for Fort Beaufort (Sir Thomas Smartt) will do it, because the Kat River hottentot likes that kind of thing. The South African party wants the man who works in a factory in the veld to be worse treated than the man who works in a factory in the town. Let the man on the veld who works in a factory be sweated. That is what the South African party wants to-day. There shall be a difference between the workers in the factories in the rural areas and those in the urban areas.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I want to remind the hon. member that the principles of the Bill are not before the House. It is merely an amendment, a new Clause 3.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>Naturally I bow to your ruling, but this new clause, if it is carried, means that the rural workers in factories will be in quite a different position from the workers in urban factories. I will not pursue that point. I only wish to point this out to the hon. member who red his shot and then ran away&#x2014;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>No, he has not run away.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I am sorry. The hon. member is nearer to me than I thought he was.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>He is facing the guns.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The hon. member is quite friendly. He talks about Australia. He perhaps does not know that the bulk of the support of the Australian Labour party comes today pretty well from the rural areas, from the small farmers.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>No, you are wrong.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Take Queensland.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>The hon. member probably does not know that since 1921 the Labour party has not been in power in Australia.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>They have been in Queensland.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I am talking about the Australian Commonwealth. The majority of people in Queensland to-day, except the big squatters, are supporting the Labour party. It comes back to this, that either the people of South Africa are worse than the people of Australia, or the land in South Africa is worse than the land in Australia, because, working under these conditions in Australia, they can put their butter on our market and we have to put a tax against it, and they can put their meat on our market and we have to put a tax on it. There are men working on the countryside there who get &#x00A3;3 15s. as against 10s. a week in some parts of this country. In South Africa we are paying less wages and yet we cannot compete with Australia. The whole of this is done to drive a wedge between the two wings of the Pact and frighten the farmers on the Countryside. That is finished; it has gone by the board. They won't be able to do it.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>I do not want to take up at any length the time of the House, because I have had an opportunity of expressing my views on this question on one or two occasions, nor am I going to proceed to admonish the House, like the hon. member for Bloemfontein (North) (Mr. Barlow), the courteous character of whose speeches in this House is so well known. Satan reproving sin would be much on a par with the hon. member for Bloemfontein (North) admonishing hon. members for speeches made in this House. My reason for rising is to get some statement from the Minister. I referred during the discussion last Friday, and again yesterday, to the position <span class="col_3861-3862" refersTo="page_0525"/>of fruit farmers who desired to come together to pack their own fruit, and I brought to the notice of the Minister cases where very grievous damage might be done to farmers who are desirous of putting their produce on the market in the best possible manner and under the most economic conditions that it can he dealt with. I referred to the fact of certain citrus farmers I knew who are anxious to pack their fruit. Would the Minister kindly listen to a telegram which I have received this morning without having had any communication with these people in any way. The hon. member for Somerset East (Mr. Vosloo), I understand, has some very important citrus growers in his district, and I commend this telegram to his consideration. As I say, this is unsolicited, but I suppose people in the country must have seen reports in the papers of the discussion last Friday. This is the telegram&#x2014;</p>
+
+<block name="quote">Please interview Minister, object, exempting co-operative pack house factory from the Act. Understand individual farmer exempt when packing his own fruit. It is illogical to apply Act when same farmers pack collectively to secure uniformity, economy and efficiency.</block>
+
+<p>That telegram is signed Kato. That is the code name of the Kat River Co-operative Citrus Society in the Fort Beaufort district. What has happened there? If the Minister will consult the Railway Department he will find that when the two-foot railway was built from Fort Beaufort through Balfour to Seymour, the citrus fruit farmers of that area, realizing the essentiality, the Government having spent all the money on the railway, of making it a success, came forward and at their own expense put up a small co-operative factory on the railway line at Fort Beaufort, and there they are packing citrus fruit which is known in the London market as the best citrus fruit that comes from South Africa. I may go further and say that authorities in connection with the quality of citrus, will tell you that the citrus from the Kat River is equal to the best ever produced in California or Florida. They have established a cooperative factory to deal with their fruit in an economic manner. One or two of the brands in that district, especially the brand of Mr. Roberts, is known on the London market as perhaps one of the premier brands of citrus that has ever come to London from any part of the world. There is another brand of Mr. McGregor, and another of Mr. George White and other farmers Who have a world-wide reputation. But these people are so patriotic that although they have this reputation for their own brands, in order to assist their brother farmers they have scrapped their own brands and have taken one brand for the whole body of farmers farming on the Kat River. They have established a co-operative factory, and when the fruit is picked off the trees it is put in ordinary boxes and sent straightaway to the little co-operative packing shed. By dealing with the fruit co-operatively and collectively, they are able to put it on the market in a much better manner, and at a much lower cost than would be the case if they packed it severally. It is for cases of that kind I have been advocating. I mentioned yesterday an article in the " Livestock Journal," but if the hon. member for Bloemfontein (North) (Mr. Barlow) is really desirous of information he should consult some of the Australian agricultural papers, and he would there find what I found in Australia, that the farmer in Australia is also feeling the pressure of the times and the lowness of world prices, and he is finding it essential to come together and try and get out of the oppression which is put upon the farmer in this country. This country is not as rich agriculturally as Australia. There is no doubt about it whatever. Australia has a large coastal area, and in that area they have a winter rainfall as well as occasional summer rains. Consequently, front the climatic point of view, they are in a better position to produce than the farmers here. But even they are feeling the pinch. I want to appeal to the hon. member for Somerset East, whether I am not justified in asking the Minister to realize that the condition of the farming population is entirely different from that of the commercial population, and entirely different from ordinary factory operations. I am not one of those who object to the eight hours in the ordinary commercial factory business of this country, but if you are going to limit farmers to eight hours and things of that sort, in dealing with their produce, that is a very different matter. Why, we often have to pack fruit in artificial light up to 11 or 12 at night, because when dealing with a perishable crop like peaches or plums, a few hours in getting them into the cooling chamber means all the difference between success and disaster. So, under those circumstances, it is utterly ridiculous to talk as the hon. member for Bloemfontein (North) and some members of the Labour benches talk, of placing the farmer under exactly the same conditions as the ordinary individual. I entirely agree with the hon. member for Piquetberg (Mr. de Waal) that if a co-operative factory of this sort is to be exempted, the farmer should not have to come, hat in hand, to the Minister to ask for that exemption. They should be exempted by law. I want now to know if the Minister, is prepared to state that he will exempt a co-operative factory such as I have referred to from the operation of the Act. I hope the House will pass the amendment of the hon. member for Griqualand (Mr. Gilson), but the character of the vote that has been given is rather, I am sorry to say, of a party character, because knowing something of the views of this country I know if members who represent farming constituencies were untramelled, they would vote with both hands and both feet, if they could take them off the ground, in favour of the proposal of the hon. member for Griqualand, because experience has shown you cannot submit the farmers of this country in dealing with their <span class="col_3863-3864" refersTo="page_0526"/>produce, to the same restrictions as you impose on an ordinary factory. Though we may have a soft-souled Minister in the hon. gentleman who occupies that position now, we might have a hard-hearted Pharoah one day to take his place, and he might not be prepared to let the producer go and he might insist on the operation of the Act in all its stringency. I do hope the Minister will make a statement. He stated the other day the Act will not apply to cases such as I have mentioned. The cooperative factory I have referred to represents numbers of co-operative factories in this country. Since that Act has become law, the co-operative spirit has spread in an extraordinary manner in this country; it has done more to break down racial prejudice which existed between the two sections of the farming population than any other thing that has taken place. It has brought both races together, and shown them the necessity of doing so to make a success of their own interests.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>*Mr. <person refersTo="hansard_za">VOSLOO</person>:</from>
+
+<p>Like the hon. member for Fort Beaufort (Sir Thomas Smartt), I hoped the Minister would make a statement. I think he has already done so, and I do not think it would be necessary to explain the matter further at this stage. The Bill has already been before the House a few times, and the clearest statement was made by the Minister on the point raised in the amendment of the hon. member for Griqualand (Mr. Gilson). I want to say this&#x2014;that, if I for one moment thought that the matter was half as serious as the other side makes out, I can assure hon. members I would vote against the Bill, but the thing is not at all so serious, and, as the hon. member for Fort Beaufort has mentioned my name in this connection, I want to say that I have two cooperative factories in my constituency, and they, when the season comes round, do not have to work eight hours, but twelve hours a day to get through the work. The fruit there is of such a nature that it has to be packed in a few weeks, and they have to work hard because there are not always sufficient helpers. If I thought for a moment that the Minister would be so foolish as to make those factories come under the Bill I should certainly vote against it,</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>What would you say if there were to be a Minister who did apply it on the countryside?</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>*Mr. <person refersTo="hansard_za">VOSLOO</person>:</from>
+
+<p>Then it must be a Minister from that side. I am quite satisfied that this Minister or any Minister on this side on the cross-benches, or on the other side, will never be so foolish as to apply the Factory Act to those small factories which work a few weeks in the year.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why not exclude the farmers?</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>*Mr. <person refersTo="hansard_za">VOSLOO</person>:</from>
+
+<p>If we passed the amendment we should, as the Minister has said, immediately open the door for other factories which ought not to be exempted. I am quite convinced that the position under the proposed Bill is quite safe. If the Minister does not apply the Factory Act to the farming industry we shall stand by him, and so, I hope, will hon. members, opposite. I am glad to see that they are so concerned about the farmer, but in this case there is no reason for uneasiness.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">DE WAAL</person>:</from>
+
+<p>The hon. member for Fort Beaufort (Sir Thomas Smartt) got very excited about the attitude of the Minister. Has the Minister amended the Act to the detriment of the farmer? Is the amendment moved by the Minister not something which farmer members ought to be grateful for? I quite agree with the hon. member for Fort Beaufort that you must not be forced to go hat in hand to the Minister. That is the reason why yesterday I opposed the well-meant, but absurd, amendments of the hon. member for Krugersdorp (the Rev. Mr. Hattingh). But the Minister is not compelling a single farmer to go hat in hand to him. If the Act, as it has existed for the past ten years, contained no danger to the farmer, why should it become full of dangers all of a sudden now? The hon. member for Fort Beaufort said that he was afraid of the administration of the Act when it fell into other hands. In other words, he is not afraid of the present Minister, but of his successor. Now who is likely to be the probable successor of the present Minister? Surely a member of the South African party? Is he frightened of his own party, and not of ours? The hon. member was Minister of Agriculture, the Minister for the farming population. Did he consider the Act dangerous then? If he did, why did he not see to its amendment? Does he want the House or the public to believe that the administration of the Act would be detrimental to the farmer when it rested in his hands? If so, then the longer he is kept out of the Government the better for the farmer, but. I know the hon. member is not serious in his opposition. He is only talking make-believe. That is the reason he is supported by the hon. member for Gardens (Mr. Coulter). He is a splendid farmer! The hon. member for Gardens has presumably never seen a farm in his life. He was the great protagonist of the hon. member for Fort Beaufort last night. The hon. member for Fort Beaufort also found faithful supporters in such splendid friends of the farmers as the hon. members for Yeoville (Mr. Duncan), Port Elizabeth (South) (Sir William Macintosh), Cape Town (Central) (Mr. Jagger), Cape Town (Harbour) (Maj. G. B. van Zyl) and more of the kind. One has only to mention their names to show how hollow the indignation is. The amendment of the hon. member for Griqualand (Mr. Gilson), if passed, will do the farmers more harm than good, because it restricts the provisions merely to a kind of work, as if all other kinds of work in which the farmers cooperate must be regarded as unlawful. The noise made by the Opposition will deceive nobody.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>*Mr. <person refersTo="hansard_za">J. P. LOUW</person>:</from>
+
+<p>I am sorry that the hon. member for Piquetberg (Mr. de Waal) has <span class="col_3865-3866" refersTo="page_0527"/>spoken because he is also interested in certain co-operative business in his district. We are not talking about factories employing thousands of persons, but about farming occupations, which are so precarious, that for two or three years there is possibly no profit at all. We want the Minister to say absolutely clearly whether he is going to hang the sword over our heads We know that the wine co-operative societies must reap their harvest within three weeks.</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>*Mr. <person refersTo="hansard_za">J. H. CONRADIE</person>:</from>
+
+<p>Where did the sword hang formerly?</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>*Mr. <person refersTo="hansard_za">J. P. LOUW</person>:</from>
+
+<p>I was not in the House, and it does not concern the question. I am, myself, a director of a tobacco association which does not use a big plant, but the excuse of the Minister in applying the law was that there were a certain number of people working at a certain time. It happened once in a lifetime. If the Minister went to look now or at any other time he would find that the number of regular employees is much less. The people at that time had come there from Wellington and elsewhere to do urgent work. It the Minister applies the 8-hours day to the farming industry the court will have plenty of work. We want it to be clearly stated that the farmers are excluded.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I have sat in this House with the right hon. member for Fort Beaufort (Sir Thomas Smartt) for a good many years, but the longer I sit here the more amazed I am at his attitude and actions.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>Because he has not joined the Pact.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>For the last ten years the Factories Act has been on the statute book. Fir six years it was administered by the late Government, of which the right hon. gentleman was not only a distinguished member, but was Minister of Agriculture. Then was the time&#x2014;if he had the welfare at heart of these poor farmers for whom he is now shedding crocodile's tears&#x2014;to have taken action. During the time the late Government was in power, sixteen co-operative societies were registered. One would have thought that the first thing he would have done when he became Minister of Agriculture was to alter the Act, seeing that he is thundering forth about the iniquity of the measure.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>There was no unholy alliance in those days.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>But not a word was said on the subject.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>It was not necessary.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>No complaints were made, but to-day, because the present Government is in power, and is administering the Act as it was administered under the previous Government, and because the Opposition think they can drive a wedge between the two sections on this side of the House-&#x2014;</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>We know that is quite hopeless.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>And because they hope to be able to make party capital out of the matter they are attempting to prove that the Act needs radical alteration. If the right hon. member had been honest right through the piece he would have brought in a Bill exempting co-operative societies and farmers from the Act.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>You are all wrong. I never said I would sacrifice principles for power.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>If the right hon. member really had the interests of the farmers at heart&#x2014;</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>As you have.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Yes, as it has been proved I have. I am doing more with my little amending Bill to help the farmer than ever the late Government did. When I brought forward this Bill the amendments I proposed were accepted and carried. That, however, did not end the matter. Days and days of fight were put up as if I were introducing something which had not previously existed, and was imposing special hardships on the farming community to which they had not been subject before. The fight has not been on my Bill at all, but on the main Act which the Opposition passed, and which I am amending on the strength of representations made from both sides of the House. Under the new Bill a farmer who grows wattle bark or lucerne or manufactures anything at all from his own produce, if the factory&#x2014;no matter how large&#x2014;is on his own farm, and he is manufacturing his own produce, is exempt. Before this be was exempt only if he manufactured articles of food or drink for human consumption. It has been left to a Labour Minister in the Pact Government, to help the farming community in the direction of making it easier for them to function under the Factories Act.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Under pressure.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Hon. members opposite, instead of attacking the Minister for trying to help the farmers, should have been unanimous in congratulating him for having given this additional relief to the farming community. Now they say: " What you have done is all very well, but it does not go far enough, and all co-operative societies should be exempt." The right hon. member for Fort Beaufort (Sir Thomas Smartt) quotes the cases of a certain Mr. Roberts, certain Mr. McGregors, and certain Mr. George Whites in the Kat River district who have earned a name in the fruit markets of the world for their special brand of fruit with which they have <span class="col_3867-3868" refersTo="page_0528"/>been able to bold their own against all comers. They have done this evidently in the past under the operation of the Factories Act, and now they see the discussion raised in Parliament, and that the whole thing is in the air, they are sending telegrams saying: " Exempt us from this." Some of them really think that we are imposing some additional restriction which did not exist before, instead of granting relief. The secretary of the Fruit Control Board in Cape Town called at my office this morning.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>A Government official.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Yes, but he has the interest of the fruitgrowers at heart. Will the hon. member deny that? He came round to see what it was we were going to do that will interfere with the co-operative societies and fruit farmers. When it was explained to him that we were not imposing any additional hardship at all, but that the Act in that respect was the same as it always had been, he went away quite satisfied that the position was not as he had feared.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>He went to the wrong place for his information.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I cannot take the amendment. The right hon. member for Fort Beaufort (Sir Thomas Smartt) has dealt with co-operative societies. Might I draw attention to the fact that the question of cooperative societies is not before the House at the moment. That was fully discussed, and defeated by a vote of this House, on Friday last, On an amendment brought forward to exempt co-operative societies. Only 15 members on the other side voted in favour of that amendment.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">J. P. LOUW</person>:</from>
+
+<p>Look at your side of the House now.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>There were 38 on our side of the House. To show the wonderful interest taken by the farmers on that side, only 15 on that side voted. What is before the Hause is the amendment of the hon. member for East Griqualand, and his amendment makes it possible to set up unofficial cooperative societies by any farmer sending his produce to any other farmer and their joining together to put up the biggest jam factory in South Africa. That factory would be exempt from the operations of the Act, there would be no safeguarding of machinery, no proper sanitation, and that jam factory could compete with the biggest jam factories in the towns. Any number of farmers under the hon. member's amendment could combine to form a co-operative society and put up the biggest factory in the country and produce butter, cheese, jam, or anything else, completely free from the restriction and operation of the Factories Act.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>You have told the hon. member for Piquetberg (Mr. de Waal) you are going to give exemption.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>What we allow is that the man on his own farm can do that.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>And his neighbour can join him.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>What I said the other day was that there would be a technical offence; there might be a technical offence if two or three neighbours joined together to produce in a common factory, but I said I did not think action would be taken.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Did not think !</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>If you try to meet that by opening the door in the way the hon. member suggests, you have no check or control over this abuse, and the second stage will be ten times worse than the first. Hon. members opposite have mentioned border line cases, hut they have not referred in a single instance where there was any interference where two men had a common packing shed and worked like that. The right hon. member for Fort Beaufort (Sir Thomas Smartt) talks about the citrus sheds. They get their seasonal exemption. They are satisfied. There have been no complaints, and there is no interference. These people, who are registered, get their seasonal exemption without any difficulty. We all realize they have to work sometimes up to midnight in order to get their fruit away into the cooling chambers, as the right hon. member has mentioned. When you are handling perishable products, you cannot limit your hours or activities. You have to get the things away before they perish. For that reason, special provision has been made in the Factories Act, and exemptions given and relaxations made in order to meet the hard cases referred to by hon. members on the other side. There have been no difficulties whatever in administration. The difficulty is a political difficulty which hon. members on the other side raise, because they find themselves in political difficulties in the backveld.</p>
+
+<p>Proposed new clause put, and the House divided:</p>
+
+</speech>
+
+<p>Ayes&#x2014;38.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Bates F. T.</p>
+
+<p>Blackwell. L.</p>
+
+<p>Buirski, E.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Close, R. W.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Duncan, P.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Heatlie, C. B.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Louw, G. A.</p>
+
+<p>Marwick, J.S.</p>
+
+<p>Moffat, L.</p>
+
+<p>Nathan, E.</p>
+
+<p>Nicholls, G.H.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O'Brien, W. J.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Reitz, D</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Robinson, C.P.</p>
+
+<p>Rockey, W.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Smuts, J. C.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Watt, T.</p>
+
+<p>Tellers: de Jager, A. L.; Collins, W. R.</p>
+
+<p><span class="col_3869-3870" refersTo="page_0529"/>Noes&#x2014;56.</p>
+
+<p>Badenhorst, A. L.</p>
+
+<p>Basson, B. N.</p>
+
+<p>Beyers, F. W.</p>
+
+<p>Boydell, T.</p>
+
+<p>Brits, U. P.</p>
+
+<p>Brown, G.</p>
+
+<p>Christie, J.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Conradie, J. H.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>Creswell, F. H. P.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>De Waal, J. H. H.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Fordham, A. C.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Keyter, J G.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Madeley, W. B.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Malan, M. L.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Oost, H.</p>
+
+<p>Pearce, C.</p>
+
+<p>Pienaar, J. J.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Stals, A. J.</p>
+
+<p>Steytler, L. J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Te Water, C. T.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Visser, T. C.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Tellers: Hugo, D.; Sampson, H. W.</p>
+
+<p>Proposed new clause accordingly negatived.</p>
+
+<p>Amendment in Clause 12 put and agreed to, and the Bill, as amended, adopted; third reading to-morrow.</p>
+
+</debateSection>
+
+<debateSection name="#committee_of_supply">
+
+<heading>COMMITTEE OF SUPPLY.</heading>
+
+<p>Third Order read: House to resume in Committee of Supply.</p>
+
+<p>House in committee:</p>
+
+<p>[Progress reported yesterday on Vote 19.]</p>
+
+<p>Vote put and agreed to.</p>
+
+<p>On Vote 20, " Interior ", &#x00A3;259,725,</p>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>The Minister is not here.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>He will be here in a moment.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>He is not here now, and I, therefore, move to report progress.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>I hope the hon. member will not press that motion.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>We cannot go on with this vote while the Minister is away.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person>:</from>
+
+<p>He is just in the lobby. I hope hon. members will not be bored, because I shall have to go on speaking for a few minutes until the Minister of the Interior comes back. I want to point out that my vote seemed likely to be concluded about half-an-hour before the adjournment last night, but there was an obvious desire to go on discussing it, and my hon. friend could hardly have anticipated that there would not be another word said to-day. I see he is now coming in.</p>
+
+<p>With leave of committee, Mr. Jagger withdrew his motion.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>There are one or two points I would like to touch on in regard to this vote. One of the important departments under the Minister is the department of mental hospitals. Every year we are faced with a report that the accommodation provided in these hospitals is inadequate to house the number of patients who ought to be admitted according to the doctors. From my own experience of the department, I know that that is so, and from time to time the Government has spent very large sums of money, sometimes enormous sums, in providing additional accommodation to house these unfortunate people, and to-day, as far as I know, we are still in the position that proper and adequate accommodation is not provided for the whole number of the patients who are already under the care of the department. The point I want to raise is this, whether some new scheme cannot be found to provide adequate accommodation for, at any rate, certain classes of these patients who are now in a mental hospital at a much less cost to the State than is now thought to be necessary. If hon. members would only go through some of these recently built institutions like that at Queenstown, or like some of the new wards at Bloemfontein, they would find they are most magnificent places. Nothing is lacking in the equipment of these institutions. They are fitted up in the most magnificent manner. No one wants to begrudge that. Provision must be made for the comfort of the unfortunate people who are confined there, and everything must be done to make their stay there as far as possible curative. But there is a certain class of these patients, and a large class, for whom, unfortunately, there is no possibility as far as we know of a cure, and it seems to me that the Minister and the Public Works Department ought to try and devise some plan of building to house these people which would not involve the enormous expense these places do at the present time. I would like to know from the Minister whether he will not go into this matter with the Public Works Department and see whether a different type of building cannot be evolved which would provide adequate and comfortable housing for these people. I also want to know what is the policy with regard to his leper hospitals. When I was in office, the idea of the department was that Robben Island should gradually be closed down. It is a most expensive place to work. I have not got the figures at the tip of my fingers, but the cost per patient at Robben Island is far in excess of that of any other institution, and the reason is the Government has to maintain a service between the mainland and the island to keep the place supplied and to provide facilities for the officials to go backwards <span class="col_3871-3872" refersTo="page_0530"/>and forwards and for patients and their friends to get there. The idea was to close down that place as a leper hospital and to provide for the patients who come from this part of the country at some institution on the mainland. I quite recognize it would be a very great hardship and indeed a cruelty to some of these patients whose friends and relations live in this part of the country to send them, say, to Pretoria, or some other place far away from their friends and relatives, and I do not suggest that should be done. In fact, an undertaking was given to the coloured patients that they would not be removed from this part of the country, but I would like to know whether the policy of gradually abandoning Robben Island is being pursued, and, if so, what provision is going to be made for patients from this part of the country. Another point is what is being done by the Public Service Commission in regard to the advisory council of the public service, and how that council is now constituted. The public service association kept on for some time making representations that the advisory council should be constituted by what they called the administrative side being represented, as well as the ordinary staff side. I understand that the original scheme has been modified to a certain extent by the Government, so as to meet the Public Service Association's wishes to a certain extent. I would like to know from the Minister if that is so, and, if so, how the new arrangement is working and whether he proposes to carry the developments still further in the direction of meeting the views of the Public Service Association. I would also like to draw the attention of the Minister to the manner in which recommendations of the Public Service Commission appear to be lightly disregarded, I do not say by him, but by some of his colleagues in the Government, particularly in regard to matters of promotion. The reports of the Public Service Commission for last year and this year show that very clearly, but the Minister in question was the Minister of Posts and Telegraphs, and I suppose I had better deal with that when we come to his Vote. I mention these things not because I want to go into them now in detail, but because it seems to me it is incumbent upon the Minister of the Interior to do what he can to maintain the prestige of the Public Service Commission. If the commission's recommendations are to be lightly flouted by any Minister who does not happen to agree with them, and they are simply left to report to Parliament, as they do, that their recommendation has been over-ruled by the Governor-General, then I think the prestige of the Public Service Commission and its usefulness will be very much impaired. After all, this over-ruling of a recommendation of the Public Service Commission is something that should not be lightly done by the Government. One of the cases, for example, was this. There was a question of promotion of four postal officials to a higher grade. The promotion committee recommended four names. The names went forward to the Public Service Commission and the commission agreed with that recommendation. The Minister of Posts and Telegraphs said, "No, I will take three of the recommendations, but as regards the other one, I want to make another promotion." It went back to the Public Service Commission and they upheld their previous recommendation. The Minister then goes to the Cabinet and gets an order overruling the recommendation of the committee, and that is reported to Parliament. In a matter like that, if the recommendations of the Public Service Commission are to be lightly turned aside whenever any Minister happens to want to put a particular official against the views of the commission, I think they are doing a very serious injury.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Would it not be better to discuss the merits on each Vote.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>I have explained that I am going to bring forward these things when the Minister concerned is before us, but I mention it now because the Minister of the Interior is responsible for the Public Service Commission vote, and it is up to him to see that the prestige and usefulness of the commission are maintained. I next want to ask what is the position at present in regard to coloured clerks in the service. I would like to know whether a separate scale of pay is applicable to coloured persons on the administrative and clerical side, and if so, what it is, and in what respect it differs from that applicable to Europeans. I have been told there are cases in which clerks who happen to be coloured do excellent work, but owing to some colour bar they are unable to advance beyond a certain point, in the salary grade, which is quite different from that applicable to Europeans. The last point is in regard to the answer which the Minister gave some time ago to a question that was asked him about the steps which he proposed to take in connection with certain Indians who have come into the country illegally or who are supposed to have come in illegally. I understand the Minister gave an answer that all Indians that have come into the country illegally, no matter how far back, apparently have to report themselves to his department within a certain date, and he will decide what to do with them. I want to know whether that is so. Does that order apply only to those who have come in within recent years, because it is causing a good deal of uneasiness amongst the Indian community?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I would like to point ost that if the hon. member wants to discuss policy, he should not postpone it until later on. I understood the Minister to remark that the hon. member should wait with his discussion on policy until a later stage. This is the time.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>Perhaps you misunderstood me. The point with regard to the Public Service Commission was that certain cases which had been recommended by it were over-ruled, <span class="col_3873-3874" refersTo="page_0531"/>affecting departments not under the control, of the Minister of the Interior, and I said I would bring them up on the vote of the Minister concerned.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>It is only fair to mention that only points of administration can be discussed when we come to public service administration. I am pointing it out only for the benefit of the hon. member.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>These cases occurred in the department of another Minister, and I propose to raise them when the other Minister's votes are under discussion.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I do not want to rule on any hypothetical case, but I thought the hon. member might want to know when he wishes to discuss policy, that this is the stage.</p>
+
+</speech>
+
+<speech by="#robinson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ROBINSON</person>:</from>
+
+<p>There is some doubt in the minds of hon. members as to what is a question of policy. Is the matter of the technical college one of policy.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>It is a matter of administration. Bring it up under " education."</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>If the hon. member wishes to criticize any administrative act, he can wait until later on.</p>
+
+</speech>
+
+<speech by="#robinson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ROBINSON</person>:</from>
+
+<p>A general question of policy must be discussed now?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>That is so.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Last year I raised the question of delay in printing, and we were then told that the new printing establishment was getting into order and there would be a vast improvement. Well, I have not been able to see any improvement yet. I have just asked for the last official year book, and got the one for 1925. Does my hon. friend believe that? You can get a later one from Australia, We are shilly-shallying with one three years late.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>That is a compendium. It contains special reports published some time ago.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>That is not good enough. The real trouble is the Minister has not taken the trouble to go into this matter. The report of the Department of Education for 1927 is not out yet; that of the Department of Native Affairs is not out yet. What is the good of my hon. friend making a promise of this kind and nothing being done? I hope he will take the thing seriously. I have always had a great respect for him in that regard.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person>:</from>
+
+<p>You are now losing it?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Then I want to call the attention of the Minister of Finance to the enormous increase in this vote, &#x00A3;48,000.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Biennial registration is included.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>You had registration last year.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>The Minister of the Interior I should say is about the most extravagant on the Government benches. Take Interior: the Auditor-General gives some very useful figures and says that the increase of expenditure has been &#x00A3;74,967 as compared with 1925-'26, and now we are up again by another &#x00A3;48,000. Surely my hon. friend must have some regard for the taxpayers of this country. Then I see there is an amount proposed to be put down for the art gallery&#x2014;is this the one near the side of Government House? We ought to have some explanation of this very heavy vote of &#x00A3;85,000 for the repatriation of Asiatics, increased from &#x00A3;30,000 last year.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>A generally approved policy.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Can my hon. friend give us some idea how many Indians are going?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Well, I can do so.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>And how many are coming back?</p>
+
+</speech>
+
+<speech by="#rider">
+
+<from>&#x2020;The Rev. Mr. <person refersTo="hansard_za">RIDER</person>:</from>
+
+<p>A request that I desire most strongly to make is on behalf of a hard-worked under-paid class of public servants. It seems to me that now is the only possible time to draw attention to something that needs attention being drawn to it, and that is in relation to our probationary nurses in our hospitals. We have four provincial administrations, but supervising them is assuredly this Parliament, and therefore I bring up what is to me a scandal, and has been for several years. For nearly five years I was chairman of a hospital board. Every probationer nurse was required to take one month's holiday, and during that month to do no nursing. Probationer nurses in the first year receive the magnificent pay of 30s. per month! How can they take their compulsory holiday on payment like that? I hope the Minister will be so sympathetic that some plan will be devised by which these young girls will be assisted and that they will be given a free railway pass.</p>
+
+</speech>
+
+<speech by="#kentridge">
+
+<from>Mr. <person refersTo="hansard_za">KENTRIDGE</person>:</from>
+
+<p>There is considerable dissatisfaction, especially on the Rand, over the manner in which the Chartered Accountants' Designation Act is being administered. It was generally understood when the measure was passed that applicants for admission to the Chartered Accountants' Society would be treated very sympathetically, and that no unnecessary difficulty would be put in their way. Instead of that, out of 100 Transvaal applications, only about a dozen have been admitted. The society is very unreasonable in this matter, and is trying to act as if accountancy were <span class="col_3875-3876" refersTo="page_0532"/>a close reserve. The Minister of Finance pointed out when the Bill was before the House, that if the society did not administer the Act sympathetically and properly, some redress would have to be given to rejected applicants. The Bill provides that a rejected candidate can apply within three months to an appeal board, but that board has not yet been set up, because the Minister has not appointed the Government's nominee. There is another point I wish to refer to once more, and that is the question of vocational training in the Transvaal. When vocational training was taken over from the province by the Minister of Education, fees were charged, although previously the education was free. This hits the children of poor people, who, however, should be given every facility to become skilled artisans. What steps is the Minister taking to secure that these children shall receive free technical education?</p>
+
+</speech>
+
+<speech by="#hugo">
+
+<from>*Mr. <person refersTo="hansard_za">HUGO</person>:</from>
+
+<p>I should like to ask the Minister something in connection with the naming of the various bastions of the castle in Cape Town. There used formerly to be a notice hung up at each bastion giving its name, and it was interesting to read those old names coming from the days of Van Riebeeck. A few years ago the notice boards were taken down, apparently for fresh paint. Since that time they have not been hung up again. I am sorry that those old names have disappeared from the castle, names like Nassau, Katzellenbogen, van Buuren, etc. I should like to know from the Minister why the boards have not been replaced, and whether they will be put up again.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>How is the Indian agreement working? How many Indians have been repatriated and are any of them returning to South Africa? There is an increased vote by &#x00A3;55,000 for repatriation, but that will not go very far. I should have thought that at least three times that amount would have been provided. What steps are being taken to inform Indians, who are scattered far and wide over Natal, of the increased repatriation fee and the privileges they can enjoy in leaving this country? It appears that no information on this matter has reached the Indians in the country districts. If the information had been published broadcast, the outgoing stream of Indians would be increased. One hears of Indians entering Natal illegally overland in growing numbers. It is alarming to think we are spending so much over the repatriation of Indians and that they are eluding the law and re-entering the Union overland.</p>
+
+</speech>
+
+<speech by="#conradie">
+
+<from>*Dr. <person refersTo="hansard_za">D. G. CONRADIE</person>:</from>
+
+<p>I should like to ask the Minister for a little information in connection with museums. Provision is made on the Estimates for special allowances for the director of the Natal museum, and also for the director and assistant director of the Transvaal museum, but there is no provision for a special salary for the director of the national museum of the Free State. If we look at subhead (H) (2) on the next page we see that the grants for the South African museum in Cape Town are &#x00A3;6,200, for the Transvaal museum &#x00A3;6,079, and for the Natal museum &#x00A3;1,650, while the amount for the Bloemfontein museum is only &#x00A3;1,000. It may be that the Minister will say that the Free State museum is not yet developed as much as the others, but I can assure him that the Free State museum is having a very difficult time financially. It is quite impossible to keep it up, with the grant of &#x00A3;1,000, and if we accept the principle of giving special grants to directors as in the other provinces, then I want to ask the Minister if it is not possible to give the director of the Free State museum a special allowance also. It is true that that museum was established later than the others, but I can assure the Minister it is doing very useful work for education in the Free State, and that extensions are constantly taking place. There actually is a necessity for increasing the staff, but it cannot be done because the existing staff cannot even be maintained. I should like to see the Minister considering the matter favourably.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I wanted to ask the Minister the same thing as the hon. member for Bethlehem (Dr. D. G. Conradie) has spoken about&#x2014;the Free State museum. The museum in Bloemfontein is losing &#x00A3;300 a year, and it will be closing down. If the Minister cannot give any more money, can he revise the amount and perhaps give a little less to the Transvaal and the Cape? If he gave the Transvaal &#x00A3;6,000, the Cape &#x00A3;6,000, Natal &#x00A3;2,400 and the Free State &#x00A3;2,600 that would be the right way of working it out, and it would come to &#x00A3;17,000. I do not think the members from the other provinces would grumble at that. I do not suppose they know they have a museum. At the present time the Orange Free State National Museum contains a large number of things which have been looked after by the people of Bloemfontein for nothing. The director says there are things which it is a shame to let strangers see, and unless improvement is undertaken they will have to close down the museum. I should like to ask the Minister if there is any truth in a paragraph which is appearing in the press that the bones of Louis Trichardt and other old voortrekkers have been discovered underneath tram lines in Lorenzo Marques? Does the hon. the Minister know of any investigation, and if the paragraph is correct, will he see that these bones are given proper burial?</p>
+
+</speech>
+
+<speech by="#william_macintosh">
+
+<from>Sir <person refersTo="hansard_za">WILLIAM MACINTOSH</person>:</from>
+
+<p>I should like to ask the Minister what the policy of the Government is in regard to the equipment of technical colleges. I see &#x00A3;1,000 on the vote for equipment of the Port Elizabeth technical college. The council of the college is anxious to make an appeal to the public. Heretofore the position has been that the Government will give pound for pound for locally raised subscriptions for the equipment for the technical college. The council would like to get &#x00A3;3,500, but if there is only &#x00A3;1,000 on the vote they cannot appeal to the public on the basis of a Government contribution of pound for pound, unless <span class="col_3877-3878" refersTo="page_0533"/>the Minister will declare the policy of the Government. He may say it will not all be required at once, but he will understand that you do not want to make an appeal year after year. You must make an appeal once for all and get the sum. They request that the Minister will now say that provided &#x00A3;3,500 or any similar sum is raised, he will contribute on the pound for pound principle.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>*Mr. <person refersTo="hansard_za">M. L. MALAN</person>:</from>
+
+<p>I see on page 75 there is &#x00A3;500 for repatriation of South Africans. I should like to know what it means.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">ALEXANDER</person>:</from>
+
+<p>In reference to the matter raised by the hon. member for Troyeville (Mr. Kentridge) undoubtedly a responsibility rests On the Government to see that the agreement is fairly and justly carried out. The support of the Minister of Finance ensured the Bill going through. I am not going to say anything on the merits of the individual cases because I realize they may be said to be sub judice. I think, however, that the Minister might tell the committee whether he has appointed a chairman of the Appeal Board, and who the chairman is going to be.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>There is one point that I desire the Minister to inform this committee on. I find that the Auditor-General, on page 179 of his report, refers to a loss of &#x00A3;20 per annum which the Government is sustaining by reason of the abolition of exit visas. I would ask the Minister, in view of the fact that any British subject who leaves this country has still to pay &#x00A3;1 on his passport, whether he is prepared to take into consideration the removal of that tax. It is very hard that anybody who goes from this part of the world to Great Britain should have to pay &#x00A3;1 for a passport. I am told that it is illegal. If it is illegal, surely the Minister will be the last person in the world to wish to act illegally, and I hope he will revert to the legal position, and not exact the &#x00A3;1 in future. *</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr. <person refersTo="hansard_za">VAN DER MERWE</person>:</from>
+
+<p>I hope the Minister will seriously consider the request of the hon. members for Bethlehem (Dr. D. G. Conradie) and Bloemfontein (North) (Mr. Barlow). I mentioned the question of the Bloemfontein museum last year, and I am sorry my plea fell on deaf ears, and that we have not got a penny more than last year, although the position is worse. Figures have been quoted with reference to the grants to other public museums, and the question will be asked why the Free State should get so little, why it is being treated as Cinderella. I sincerely hope the Minister of Finance will come to his colleague's assistance a little. The Free State museum is of great value. Apart from the old historical things it contains, the work of the whole Union is divided over various museums, and the Free State museum is, therefore, of importance to the whole country. I recently brought something in connection with the Bloemfontein museum to the notice of the Minister, and he appointed a commission to investigate, and, according to the commission's report, the difficulties were due to the weak financial support of the matter. Because of their financial difficulties they were obliged to employ a native in the museum when they would otherwise have appointed a white man. The museum committee also stated that it would appoint a white man as soon as finances permitted. It is a question of an overseer, and a lady belonging to one of the leading Bloemfontein families and her children Were recently reproved by the native, and we can well understand that it leads to unpleasantnesses. The Free State will appreciate it very much if the Minister will do something in this direction. The interest in the museum is increasing more and more, not only are all sorts of things which appertain to a museum sent there, but the number of visitors has increased tremendously from 18,500 in 1921 to 55,000 in 1925. That shows how great the value of the museum is from an educational point of view, and I hope the Minister will see his way to increasing the grant on these estimates.</p>
+
+</speech>
+
+<speech by="#o'brien">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">O'BRIEN</person>:</from>
+
+<p>The hon. member for Bloemfontein (North) (Mr. Barlow) and the hon. member for Winburg (Dr. van der Merwe) have both dealt with the question of the distribution of grants. I see Cape Town also has an increase in its Library vote to &#x00A3;3,000 this year. I think that something ought to be done in the direction of making a more equal distribution. Last year I asked the Minister to see what could be done in regard to the return of destitute Indians to India, and he stated that would be looked after by the Indian Government. A large number of destitute Indians reached Calcutta from Fiji and were thrown on the streets there. We do riot want that to occur with those returning from South Africa. It is quite impossible to say yet how this agreement is going to work. It will be some years after it comes into operation before we shall see whether it is working fairly or not, because a large number of these people who are being sent to India under the agreement, may be there on a holiday, and I am afraid we will find some of them back again, having had a very nice holiday in India. The hon. member for Cape Town (Central) (Mr. Jagger) has drawn attention to the increase in the vote from &#x00A3;30,000 to &#x00A3;85,000. That brings up the question which I have raised before, and which has to be faced by Parliament and the country, and that is the question of breaking down provincial barriers in regard to the Indian population. The only province in the Union that has the right to say it will not have Indians is the Orange Free State, because at Union that was laid down definitely. It has become a grave menace that there are more Indians in Natal than there are whites, and it is becoming graver day by day and year by year. This country will have to face that. The representatives of the Orange Free State at the National Convention, definitely laid it down that one of the things that must be entrenched was that Indians must not come into their territory. But why not into the Transvaal, and why not <span class="col_3879-3880" refersTo="page_0534"/>into the Cape? I may be a voice crying in the wilderness, but it will have to be faced by Parliament and the country. Year by year this cry will go up until it is met.</p>
+
+</speech>
+
+<speech by="#de_wet">
+
+<from>*Mr. <person refersTo="hansard_za">DE WET</person>:</from>
+
+<p>It is very interesting that the hon. member from Natal now wants the 33 Asiatics to be spread over the other provinces. They are the people who imported the Asiatics; when they had finished with the Chinese they imported the Indians. I think it is very wrong to introduce such a motion. I want to ask the Minister if he does not think that inasmuch as the Indian agreement has up to the present been nothing but a failure, other steps ought not to be taken to stop the evil. I speak particularly of the Transvaal. The evil has increased, instead of becoming less. The Asiatic is trading more than ever to-day. He is out to get hold of the business places in the most important towns, and to squeeze out the white shopkeepers. It recently occurred in my village that a business man had to sell his business through ill-health, and before the white shopkeepers could take any steps, the Asiatic had taken over the shop. The result was that the white shopkeeper had to pay a big sum to get rid of the Asiatic. There was not the least chance of keeping him out of it by refusing a licence, because the municipalities must grant a licence and in that way the evil is worse than ever before. Things cannot continue like this. A few test cases with regard to licences have been heard, but it was laid down that it was ultra vires, and the prosecution of the Indians had to be stopped. If, therefore, a licence is refused, the Asiatic goes to the Supreme Court and municipalities are now afraid to refuse. I hope the Minister will tell us what he intends doing in connection with the matter.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BROWN</person>:</from>
+
+<p>I want to draw the Minister's attention to a matter I have dealt with on previous occasions. When the Union Government took over vocational schools, certain fundamental changes were made in respect of their governing, which has led to decreased efficiency of the boys being turned out. The first change was an alteration in the governing board. To-day the educational authorities are represented on these boards far beyond what they ought to be, and practical men have been taken off. Another error that was made, and the hon. member for Troyeville (Mr. Kentridge) has touched upon it, is that pupils were non-fee paying, but that has been changed, or fees were introduced into these schools, and that, when the country is crying out for the highest skilled men you can get. It means that a large number of boys cannot be admitted to these schools. An alteration was also made in the training of these boys. Previously, the practical side of their training took up the largest portion of their time, but this was immediately cut down by the new board. Before the Government took over, a boy had to pass a practical test and if he did not do so, he could not get his certificate. To-day the passing of the practical test is optional, and a boy can obtain a certificate for passing in theory. These alterations are reflected in the decreased efficiency of the pupils. Another big mistake was reducing the salary of the teachers, so that new entrants receive only &#x00A3;300 against &#x00A3;500 paid to the old people. Where can you get an efficient man for &#x00A3;300 a year, when an ordinary mechanic receives &#x00A3;365 or &#x00A3;400 a year? Practical men will not leave the bench to go into the schools now. If there is one country in the world which requires to train its boys in skilled trades, it is South Africa. The Minister should state what he intends to do to bring the schools back to their previous practical stage of efficiency.</p>
+
+<p>On the motion of Mr. Close it was agreed to report progress and ask leave to sit again.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported; to resume in Committee to-morrow.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1928-05-08T17:55:00">5.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

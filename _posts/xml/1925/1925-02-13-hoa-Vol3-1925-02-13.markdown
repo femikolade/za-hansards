@@ -1,0 +1,229 @@
+---
+title: 'House of Assembly: Vol3 - FRIDAY 13 FEBRUARY 1925'
+layout: debate
+year: 1925
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 13th FEBRUARY, 1925.</heading>
+
+<debateSection name="#meeting_of_parliament">
+
+<heading>MEETING OF PARLIAMENT.</heading>
+
+<prayers>
+
+<narrative>Pursuant to Proclamation of His Excellency the Governor-General, dated the 15th November, 1924, summoning Parliament to meet on this day for the dispatch of business, members met in the Assembly Chamber and Mr. Speaker took the Chair at <recordedTime time="1925-02-13T11:40:00">11.40 a.m.</recordedTime></narrative>
+
+</prayers>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read the Proclamation.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#new_member">
+
+<heading>NEW MEMBER.</heading>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read a letter from the Secretary to the Prime Minister, dated the 17th November, 1924, reporting the election of Josephus Janse van Rensburg for the electoral division of Boshof in the room of Christiaan Andries van Niekerk, resigned.</p>
+
+<p>Mr. van Rensburg, introduced by Mr. Conroy and Mr. Hugo, made, and subscribed to, the oath, and took his seat.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#official_opening">
+
+<heading>OFFICIAL OPENING.</heading>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read a letter from the Secretary to the Prime Minister, dated the 27th November, 1924, stating that His Excellency the Governor-General had signified his intention of opening Parliament at noon to-day with the usual ceremony.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>and members thereupon proceeded to the Senate House to attend the ceremony of the opening of Parliament, and on their return,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>took the Chair and read prayers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#roll_of_members">
+
+<heading>ROLL OF MEMBERS.</heading>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read the list of members, and those present answered to their names.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#printing_committee">
+
+<heading>PRINTING COMMITTEE.</heading>
+
+<p>Mr. SPEAKER appointed the Prime Minister, Gen. Smuts and Mr. Sampson a Committee to assist Mr. Speaker in regard to the printing of the House.</p>
+
+</debateSection>
+
+<debateSection name="#committee_on_standing_rules_and_orders">
+
+<heading>COMMITTEE ON STANDING RULES AND ORDERS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>appointed the following members to constitute, with Mr. Speaker, the Committee on Standing Rules and Orders, viz.: The Prime Minister, the Minister of Justice, the Minister of Defence, Gen. Smuts, Mr. Krige, Sir Thomas Smartt, Mr. de Waal, Dr. de Jager, Mr. Sampson and Mr. Close.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#opening_speech">
+
+<heading>OPENING SPEECH.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that the House had this day attended the ceremony of the opening of Parliament, and that His Excellency the Governor-General was pleased to deliver an opening speech to both Houses of Parliament, of which, for greater accuracy, he had received a copy, as follows:&#x2014;</p>
+
+<p>Mr. President and Gentlemen of the Senate:</p>
+
+<p>Mr. Speaker and Gentlemen of The House of Assembly:</p>
+
+<block name="quote">My Ministers are much gratified at the evident desire of all sections of the community to assist in promoting the peace and prosperity of the country.</block>
+
+<block name="quote">It is with the greatest satisfaction and pleasure that they record the very good and friendly relations between the Union and her neighbours, Rhodesia and the Province of Mozambique, a friendship which it is their sincere desire to see secured for the future.</block>
+
+<block name="quote">The present Session of Parliament opens under happier auspices than the last. The most serious locust infestation which the Union has known has been successfully overcome within its borders and the steps taken by my Government will, it is hoped, prevent any important inroads from neighbouring territories. The agricultural position is very promising owing in great part to good rains over a large portion of the Union.</block>
+
+<block name="quote"><span class="col_3-4" refersTo="page_0082"/>My Ministers have had under consideration the position of the Mandated Territory of South-West Africa and propose at an early date to introduce legislation providing for the necessary measure of self-government for that territory.</block>
+
+<block name="quote">My Ministers have given close attention to the matter of the revision of the Financial Relations existing between the Union and the Provinces, which have long been felt to be on an unsatisfactory basis.</block>
+
+<block name="quote">In order that any necessary changes should be effected with the goodwill and co-operation of the various Provincial Administrations, a Conference was convened at Durban in October last as a result of which a new form of subsidy dependent upon the obligations of the Provinces in the matter of education has been adopted.</block>
+
+<block name="quote">Changes to produce uniformity in trading and other licence fees payable throughout the several Provinces, and the limitation and stricter definition of the scope of Provincial taxation, were agreed to. Proposals embodying these changes will be submitted to Parliament.</block>
+
+<block name="quote">A Bill providing for the uniform direct taxation of natives and the establishment of a Native Development Fund for the furtherance of education and other means of promoting the welfare and advancement of the Native population will be laid before you.</block>
+
+<block name="quote">The question of unemployment has had the unremitting and careful attention of my Ministers. Certain Departments of State have been able largely to increase the number of persons employed on wage conditions in keeping with civilized standards and efforts have been made with an encouraging degree of success to secure the co-operation of private employers of labour to this end.</block>
+
+<block name="quote">In regard to rural unemployment, definite plans have been framed and initial steps taken which, when fully developed, will enable the Department of Labour to deal systematically with the re-training of those sections of the European population which have fallen into conditions generally recognized as deplorable.</block>
+
+<block name="quote">The policy of broadening the basis of civilized labour in the Railway Administration and the more extensive manufacture in the Union of the requirements of the Railways and Harbours Administration has been initiated with success, and it is proposed to develop and extend this policy.</block>
+
+<block name="quote">My Ministers have under consideration a programme of Railway Construction which will be laid before you.</block>
+
+<block name="quote">In view of the acute and wide-spread distress prevailing among all sections of the community in Van Rhynsdorp and Namaqualand, my Ministers authorized the construction of a railway from Klaver to Kokenaap as a measure of relief in that area. You will be asked to approve of the action which has been taken in commencing the construction of the line.</block>
+
+<block name="quote">With the improvement in the financial position of the Railways and Harbours Administration, it has been possible to effect reductions in Railway tariffs which will assist in fostering agricultural and industrial production in the Union.</block>
+
+<block name="quote">Bills to amend and consolidate the laws relating to Railways and Harbours Service conditions and superannuation and financial benefits of Railways and Harbours servants will be submitted to you</block>
+
+<block name="quote">Land settlement will be encouraged by the grant of greater facilities to intending settlers. Amending land settlement legislation to be laid before you will include substantial measures of relief for those settlers who have suffered from adverse farming conditions.</block>
+
+<block name="quote">Several measures for the improvement of agricultural conditions will be placed before you.</block>
+
+<block name="quote">A Bill providing for the appointment of a permanent Irrigation Commission will be submitted.</block>
+
+<block name="quote">In order to promote the welfare of large sections of the people and to establish more stable conditions of labour, a Wages Bill will be presented for your consideration.</block>
+
+<block name="quote">An Emergency Powers Bill will be submitted, the provisions of which are designed to minimize the risk of disorder in connection with extensive industrial disputes and to promote their peaceful settlement.</block>
+
+<block name="quote">A consolidating Miners&#x2019; Phthisis Bill amending the present Acts will be introduced.</block>
+
+<block name="quote">My Ministers will also submit to you a Bill to regulate and control the diamond trade.</block>
+
+<block name="quote">Encouragement has been given in various directions to industrial expansion in the Union, and my Ministers are still carefully considering the further steps which can be taken in this direction.</block>
+
+<block name="quote">To foster a healthy South African national spirit and sentiment a Nationality and Flag Bill will be introduced.</block>
+
+<p>Mr. Speaker and Gentlemen of The House of Assembly:</p>
+
+<block name="quote">Additional estimates of revenue and expenditure for the present financial year and estimates of revenue and expenditure for the ensuing financial year will be laid before you.</block>
+
+<p>Mr. President and Gentlemen of the Senate:</p>
+
+<p>Mr. Speaker and Gentlemen of The House of Assembly:</p>
+
+<block name="quote">In commending these matters to your consideration, I pray that the blessing of Almighty God may guide and sustain you in your labours.</block>
+
+<block name="quote">In His Majesty&#x2019;s name I now declare this, the Second Session of the Fifth Parliament of the Union of South Africa to be duly opened.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#war_pensions_commission">
+
+<heading>WAR PENSIONS COMMISSION.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that upon application during the recess he had authorized the Clerk of the House to place at the disposal <span class="col_5-6" refersTo="page_0083"/>of the War Pensions Commission certain papers which had been laid upon the Table of the House during the last session after the Select Committee on War Pensions had reported and which had consequently not been covered by the recommendation, adopted by the House on the 6th September, 1924, that all documents and papers submitted to the Committee be referred to the Commission.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#delivery_of_papers_to_members">
+
+<heading>DELIVERY OF PAPERS TO MEMBERS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that in accordance with a resolution adopted by the Standing Rules and Orders Committee last session, he had made arrangements, to take effect from the commencement of the present session, for the daily delivery of the Votes and Proceedings and first prints of Bills at the private residences of members who might desire to be so supplied, and who did not reside further from the Houses of Parliament than Rondebosch the Gardens and Sea Point.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1925-02-13T13:08:00">1.8 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

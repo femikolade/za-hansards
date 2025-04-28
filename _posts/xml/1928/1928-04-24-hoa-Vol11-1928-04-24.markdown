@@ -1,0 +1,2441 @@
+---
+title: 'House of Assembly: Vol11 - TUESDAY 24 APRIL 1928'
+layout: debate
+year: 1928
+month: APRIL
+month_slug: Apr
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 24th APRIL, 1928.</heading>
+
+<p>Mr. SPEAKER took the Chair at <recordedTime time="1928-04-24T14:20:00">2.20 p.m.</recordedTime></p>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>RAILWAYS: COAL, COST OF.</heading>
+
+<question by="#thomas_watt" to="#minister_of_railways_and_harbours">
+
+<num>I.</num>
+
+<from>Sir THOMAS WATT</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) What is the estimated cost of locomotive coal, based on recent accepted tenders plus railage, for Dundee, Vryheid, Wit-bank, and Breyten coals delivered to Volksrust, Bloemfontein, Kimberley, Naauwpoort, Upington, Port Elizabeth, East London and Cape Town;</li>
+
+<li>(2) what are the relative calorific values of the above coals; and</li>
+
+<li>(3) taking the replies to (1) and (2) into consideration, what are the relative values of the Transvaal and Natal coals for use on locomotives at the above points of delivery ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#thomas_watt">
+
+<from><span class="col_3233-3234" refersTo="page_0211"/>The MINISTER OF FINANCE:</from>
+
+<p>(1)</p>
+
+<p>Pence per Ton.</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td colspan="8"><p>Pence per Ton.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Volksrust.</p></td>
+
+<td><p>Bloemfontein.</p></td>
+
+<td><p>Kimberley.</p></td>
+
+<td><p>Naauwpoort.</p></td>
+
+<td><p>Upington.</p></td>
+
+<td><p>Port Elizabeth.</p></td>
+
+<td><p>East London.</p></td>
+
+<td><p>Cape Town.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><i>Natal.</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Vryheid Hlobane Colliery</p></td>
+
+<td><p>82</p></td>
+
+<td><p>125</p></td>
+
+<td><p>140</p></td>
+
+<td><p>151</p></td>
+
+<td><p>198</p></td>
+
+<td><p>190</p></td>
+
+<td><p>183</p></td>
+
+<td><p>233</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Enyati Colliery</p></td>
+
+<td><p>82</p></td>
+
+<td><p>125</p></td>
+
+<td><p>140</p></td>
+
+<td><p>151</p></td>
+
+<td><p>198</p></td>
+
+<td><p>190</p></td>
+
+<td><p>183</p></td>
+
+<td><p>232</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal Cambrian Colliery</p></td>
+
+<td><p>75</p></td>
+
+<td><p>123</p></td>
+
+<td><p>138</p></td>
+
+<td><p>148</p></td>
+
+<td><p>195</p></td>
+
+<td><p>187</p></td>
+
+<td><p>180</p></td>
+
+<td><p>230</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Wallsend (Natal) Colliery</p></td>
+
+<td><p>75</p></td>
+
+<td><p>110</p></td>
+
+<td><p>134</p></td>
+
+<td><p>144</p></td>
+
+<td><p>101</p></td>
+
+<td><p>183</p></td>
+
+<td><p>177</p></td>
+
+<td><p>226</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><i>Transvaal.</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Bellevue and Albion Col</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>lieries (Breyten)</p></td>
+
+<td><p>108</p></td>
+
+<td><p>121</p></td>
+
+<td><p>130</p></td>
+
+<td><p>146</p></td>
+
+<td><p>188</p></td>
+
+<td><p>185</p></td>
+
+<td><p>178</p></td>
+
+<td><p>210</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Black Diamond Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(Breyten)</p></td>
+
+<td><p>106</p></td>
+
+<td><p>119</p></td>
+
+<td><p>128</p></td>
+
+<td><p>144</p></td>
+
+<td><p>186</p></td>
+
+<td><p>183</p></td>
+
+<td><p>176</p></td>
+
+<td><p>208</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Minnaar Witbank Colliery</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>(Minnaar)</p></td>
+
+<td><p>06</p></td>
+
+<td><p>100</p></td>
+
+<td><p>118</p></td>
+
+<td><p>135</p></td>
+
+<td><p>176</p></td>
+
+<td><p>173</p></td>
+
+<td><p>166</p></td>
+
+<td><p>211</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><i>Transvaal Coal Owners' Association.</i></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Breyten area</p></td>
+
+<td><p>106</p></td>
+
+<td><p>119</p></td>
+
+<td><p>128</p></td>
+
+<td><p>144</p></td>
+
+<td><p>186</p></td>
+
+<td><p>183</p></td>
+
+<td><p>176</p></td>
+
+<td><p>208</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Kendal area</p></td>
+
+<td><p>07</p></td>
+
+<td><p>109</p></td>
+
+<td><p>119</p></td>
+
+<td><p>135</p></td>
+
+<td><p>176</p></td>
+
+<td><p>174</p></td>
+
+<td><p>167</p></td>
+
+<td><p>211</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Witbank area</p></td>
+
+<td><p>104</p></td>
+
+<td><p>117</p></td>
+
+<td><p>126</p></td>
+
+<td><p>142</p></td>
+
+<td><p>184</p></td>
+
+<td><p>181</p></td>
+
+<td><p>174</p></td>
+
+<td><p>218</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(2) The Administration has no impartial information in its possession as to the precise calorific value of the different coals supplied in bulk under its various contracts. From the Administration&#x2019;s standpoint, the steam-raising capabilities of locomotive coal must be judged by several factors in addition to calorific value, and the over-all merits of each coal can only be determined by actual usage.</li>
+
+<li>(3) Falls away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>TREASURY BILLS.</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>II.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) What was the amount of Treasury bills outstanding on the 31st March, 1928;</li>
+
+<li>(2) what was the usual issue (average) montly in 1927;</li>
+
+<li>(3) what is the average period of currency;</li>
+
+<li>(4) whether the projected issue thereof is advertised;</li>
+
+<li>(5) what was the average rate of interest paid in 1927;</li>
+
+<li>(6) whether banks, private individuals, brokers, or the Public Debts Commissioners draw commission or discount thereon;</li>
+
+<li>(7) what is the amount held by the Reserve Bank at the present time, and what was last year&#x2019;s monthly average of Treasury bills purchased by the bank;</li>
+
+<li>(8) (a) on what terms does the Reserve Bank carry the Government account, and (b) whether interest is allowed on the minimum monthly credit balance;</li>
+
+<li>(9) what was the average monthly issue in 1927 by the Reserve Bank of legal tender notes; and</li>
+
+<li>(10) what interest was paid during the year to Government for this privilege?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) &#x00A3;10,075,190.</li>
+
+<li>(2) &#x00A3;1,469,611.</li>
+
+<li>(3) Bills are issued for periods of 90 days, 6 and 12 months.</li>
+
+<li>(4) No. The issue of Treasury bills is continuous at fixed rates of interest. Any alteration in rates of interest is advertised in the Government Gazette.</li>
+
+<li>(5) 3.70235 per cent, on all classes.</li>
+
+<li>(6) No.</li>
+
+<li>(7) The amount of Treasury bills held by the Reserve Bank at date is &#x00A3;527,600. The monthly average of Treasury bills purchased by the Reserve Bank in 1927 was &#x00A3;482,882.</li>
+
+<li>(8) (a) The terms on which the Reserve Bank will act as the Union Government&#x2019;s bankers are now under consideration in the light of the experience gained in the first year&#x2019;s operation of the account. Up to the present no terms have been decided beyond an understanding that a substantial balance will be kept with the bank in consideration for the conduct of the account, transmission of credits to Pretoria, encashment of warrants at par throughout the Union and the investment of surplus funds, (b) The payment of interest on deposits is forbidden by the Act, interest is accordingly not allowed on the Government balances.</li>
+
+<li>(9) The average note circulation during 1927 according to the weekly returns was &#x00A3;7,892,070.</li>
+
+<li>(10) No interest is paid by the bank but the Government receives a share of the profits of the bank (see Section 11 of Currency and Banking Act, 1920).</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>FIELD GLASSES, IMPORTS OF.</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>III.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) What was the value, approximately, of field glasses and telescopes imported from the United Kingdom in 1927;</li>
+
+<li>(2) what was the amount of customs duty collected thereon;</li>
+
+<li>(3) what was the value of these articles imported from Gemany during the same period; and</li>
+
+<li>(4) what was the amount of duty collected thereon ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>As no separate figures are kept by the Customs Department of the imports of field glasses and telescopes into the Union, I regret that I am unable to furnish the desired information.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>JUSTICE: JOHN CARR, ARREST OF.</heading>
+
+<question by="#fordham" to="#minister_of_justice">
+
+<num>IV.</num>
+
+<from>Mr. FORDHAM</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) What were the circumstances under which an ex-service man named John Carr was taken into custody by a constable in Johannesburg on the night of the 7th April and lodged in a cell at the charge office;</li>
+
+<li><span class="col_3235-3236" refersTo="page_0212"/>(2) whether Carr complained to several; sergeants who visited him in the cell that he was suffering from a broken leg as the result of a fall when about to board a tramcar, and, if so, with what result;</li>
+
+<li>(3) whether the following morning examination showed that his leg was broken and he was removed to hospital;</li>
+
+<li>(4) what is the usual charge office practice when persons brought in request to have medical examination and attention;</li>
+
+<li>(5) what is the charge against Carr; and</li>
+
+<li>(6) whether the Minister will order an enquiry into the case ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#fordham">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) to (5) I am laying on the Table of the House a copy of a report which I have received from the Commissioner of Police in regard to this incident.</li>
+
+<li>(6) It appears from that report that the police acted entirely properly in the matter and that Carr has no legitimate grievance. I have, however, instructed the magistrate of Johannesburg to hold an enquiry and his report will be laid on the Table of the House in due course.</li>
+
+</ol>
+
+<p><i>The following</i> is <i>the report</i>:</p>
+
+<p>John Kerr [Carr?] was arrested at 6.40 p.m. on 7th April, 1928. He was found lying down at the corner of Troye and Bree Streets, Johannesburg, drunk and incapable&#x2014;he smelt strongly of liquor, he also had a bottle of liquor in his pocket. No vehicle being available on the spot, the European constable called a coloured man to assist him. Kerr was carried by means of the two-handed carry to Marshall Street, where the lot boarded a tram car and proceeded to the stop outside the town hall. From there Kerr was carried in the same way by the constables to Marshall Square. The only occasion on which he stood from the time he was arrested until he reached Marshall Square was when he was on the tram car. Kerr made no statement re his leg to the sergeant who accepted the charge against him. When he was placed in the cell the constable on duty noticed he was holding his leg with both hands below the knee. On being asked what was the matter he said he had a septic poisoned leg years ago but made no complaint that his leg was broken or that he had had a fall. He was visited periodically from 8 p.m. to 11 p.m. by the cell warder, who, on one occasion, drew the attention of the n.c.o. to the fact that Kerr had a bad leg. On being asked to show his leg he became abusive. He made no complaint re his leg or to the treatment he had received. At 11 p.m. the cell warder taking over found Kerr lying on his back covered with blankets and the blanket over his face. The warder took hold of the blankets and asked Kerr if he was all right. He replied &#x201C;Yes,&#x201D; and covered his face over again. About 2 a.m., on hearing groans, the warder visited the cell again and ascertained that Kerr was suffering from severe pain in his leg. The sergeant on duty was called, and on examination immediately ordered the municipal ambulance and ordered Kerr to hospital. The only statement Kerr made at this time in connection with his, injured leg was to the fact that before being arrested he had a fall in Eloff Street, but made no mention of the leg being broken. On being asked why he had not reported the matter, he replied that he did not think the leg was so bad.</p>
+
+<p>An enquiry has been held.</p>
+
+<p>When a person arrested requests to have a medical examination and attention, the district surgeon is called in or the person complaining is sent to hospital.</p>
+
+</answer>
+
+<answer by="#minister_of_justice" to="#fordham">
+
+<from>&#x2020;The MINISTER OF JUSTICE:</from>
+
+<p>The reason I have instructed the magistrate to hold an enquiry is because a considerable amount of prominence has been given to this episode by the newspapers, and I want to have all doubt dispelled in the matter.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>EGG LAYING TEST.</heading>
+
+<question by="#marwick" to="#minister_of_the_agriculture">
+
+<num>V.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol>
+
+<li>(1) Whether there was red mite and tampan infestation of the poultry pens at Glen in the last months of the recent Central Egg Laying Test; if so</li>
+
+<li>(2) to whom is the responsibility to be attached; and</li>
+
+<li>(3) how many birds competed and from how many centres did they come?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) The insect pests complained of were no doubt accidently introduced with some of the birds sent to the competition. It is impossible to say with whom responsibility rests for the introduction. Every step has been made to guard effectively against both the spreading of the recent infection and its recurrence in the future.</li>
+
+<li>(3) 979 hens from the Transvaal, Natal. Orange Free State, Eastern Province, Western Province and Border.</li>
+
+</ol>
+
+</answer>
+
+<question by="#nel" to="#minister_of_agriculture">
+
+<from>Mr. NEL:</from>
+
+<p>Arising out of that question, might I ask the Minister is the central egg laying test to meet the requirements of the Poultry Association of South Africa, and is it managed and controlled by the Department of Agriculture?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#nel">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>We have an advisory board and it is controlled by the Department of Agriculture.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Was the advisory committee appointed by the South African Poultry Association to co-operate with the Department of Agriculture in representing the interests of the breeders whose birds were competing in the test?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from><span class="col_3237-3238" refersTo="page_0213"/>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>Yes, I suppose that is the case.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Might I ask the Minister whether the district committee, after a thorough examination of the birds in the pens, recommended that certain action be taken by the department, and was that recommendation disregarded by the Minister?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#anderson">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>It all depends what the recommendation is. Is it to improve the nests? After an investigation certain recommendations were made, and after an enquiry they are being put in proper order.</p>
+
+</answer>
+
+<question by="#munnik" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MUNNIK:</from>
+
+<p>In view of the action of the advisory committee I should like to ask the Minister whether there is likely to be any danger in the future that the supply of eggs will be materially effected?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#munnik">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>Not in the least.</p>
+
+</answer>
+
+<question by="#nel" to="#minister_of_agriculture">
+
+<from>Mr. NEL:</from>
+
+<p>Might I ask whether the position was not so serious that the competitors would have been justified in removing their exhibits?</p>
+
+</question>
+
+<question by="#arnott" to="#minister_of_agriculture">
+
+<from>Brig.-Gen. ARNOTT:</from>
+
+<p>Will the Minister cause an impartial enquiry to be made as to how this came about?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#nel">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>No. The department is impartial enough. They can do it themselves.</p>
+
+</answer>
+
+<question by="#arnott" to="#speaker">
+
+<from>Brig.-Gen. ARNOTT:</from>
+
+<p>There is some feeling in my part about this.</p>
+
+</question>
+
+<answer by="#speaker" to="#arnott">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>The hon. member cannot discuss the matter.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<num>VI.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of Agriculture whether members of the advisory committee to the Central Egg Laying Test have resigned en bloc, and, if so, why?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>Yes. The resignation of the committee was not addressed to me but to the executive committee of the S.A. Poultry Association by Whom, under the rules governing the competition, they are appointed. The reason assigned by the S.A. Poultry Association for the resignation is that the committee feels that where its recommendations differ from those of the principal poultry officer, they are not accepted. I understood the board has appointed a new committee.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Arising out of that reply, has the South African Poultry Association accepted the resignation of the advisory committee?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>I suppose they have; otherwise they would not have nominated a new committee.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Will the Minister lay on the Table the letter addressed to the Secretary for Agriculture dated the 3rd March, 1928, giving the reasons of the advisory committee for resigning?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>&#x2020;The MINISTER OF AGRICULTURE:</from>
+
+<p>I will go into the matter and if it is in the public interest I will lay it on the Table of the House.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_agriculture">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Was the Committee not forced by the action of the Department of Agriculture to throw the onus of the mismanagement of this test upon the department by resigning?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#marwick">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>I have no further reply to make.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DR. G. F. HAY, DISTRICT SURGEON.</heading>
+
+<question by="#marwick" to="#minister_of_the_interior">
+
+<num>VII.</num>
+
+<from>Mr. MARWICK</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) Whether Dr. G. F. Hay has been appointed district surgeon, Zoutpansberg, to be resident at Messina and serve in the area locally known as &#x201C;Behind the Mountains,&#x201D; and, if so, at what rate of pay;</li>
+
+<li>(2) whether he is a farmer at a point seven miles from Louis Trichardt;</li>
+
+<li>(3) whether the headquarters of his district surgeoncy are 58 miles from Louis Trichardt;</li>
+
+<li>(4) whether he has recently been appointed as special justice of the peace at Messina, and, if so, at what rate of pay;</li>
+
+<li>(5) whether Dr. Hay also holds the following positions, viz., (a) member of the School Board, (b) member of the Road Board, (c) member of the Rural Licensing Board, (d) member of the Local Licensing Board, (e) member of the Rent Board, and (f) member of the East Coast Fever Vigilance Committee; and</li>
+
+<li>(5) whether the meetings of the boards mentioned in (5) are held at Louis Trichardt ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#marwick">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol>
+
+<li>(1) Yes, on a year&#x2019;s probation from 1st September last, at &#x00A3;200 per annum and &#x00A3;30 per annum drug allowance.</li>
+
+<li>(2) I understand that he has a farm near Louis Trichardt, which is managed by his wife.</li>
+
+<li>(3) Yes.</li>
+
+<li>(4) Yes, at &#x00A3;100 per annum.</li>
+
+<li>(5) Yes.</li>
+
+<li>(6) Yes.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_the_interior">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Is it not a fact that this officer of many appointments is obliged to try his cases at night owing to the many calls upon his time by his manifold duties?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#marwick">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>All I can say is the district surgeon&#x2019;s work is under the supervision of the local magistrate, <span class="col_3239-3240" refersTo="page_0214"/>and no complaints have been received from the magistrate, but if it would be of any assistance to the hon. gentleman, I may say that applications were asked for and there was only one applicant.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_the_interior">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Does the Minister approve of the district surgeon holding seven different offices in addition to that of district surgeon?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#marwick">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>District surgeons are not Government servants in the ordinary sense of the word. They are part-time officials, so we have no control over their private time. They can do what they like.</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_the_interior">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>How does the appointment of this gentleman to eight different offices correspond with the slogan of the Labour party, &#x201C;One man, one job&#x201D;?</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>GROOT SCHUUR ZOO.</heading>
+
+<question by="#papenfus" to="#minister_of_public_works">
+
+<num>VIII.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Public Works:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the cramped and inadequate accommodation provided for the caged wild animals and birds at Groot Schuur (especially the monkeys, baboons, dingoes, aquatic birds and eagles) and their exposure to being harassed and worried by visitors owing to their place of confinement being in immediate proximity to a much-frequented main road;</li>
+
+<li>(2) whether a request has been made to the Minister to meet a deputation of the Cape of Good Hope Society for the Prevention of Cruelty to Animals to hear representations in regard to the facts above stated, and, if so, what was the Minister&#x2019;s reply; and</li>
+
+<li>(3) whether the Minister will be prepared, in view of the serious and urgent nature of the situation disclosed, to meet a deputation of the aforementioned society ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#marwick">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<ol>
+
+<li>(1) I am aware of the conditions at Groot Schuur menagerie and agree that they are unsatisfactory. The Government is engaged at the present moment in considering a scheme of reconstruction of the menagerie or alternatively of its dispersal. This reconstruction, seeing that there would be involved the provision of new dens, cages, aviaries, ponds, enclosures, drainage and lay-out, would cost not less than &#x00A3;9,500, and the question the Government is considering is whether Union Government is justified in appropriating so large a sum in continuing to maintain a menagerie at Groot Schuur.</li>
+
+<li>(2) I met a deputation of the Cape of Good Hope Society for the Prevention of Cruelty to Animals on 27th January, 1927, and in correspondence since I have informed the society that I am aware of the facts of the case, and there is therefore no object in interviewing the society again.</li>
+
+<li>(3) No purpose will be served in seeing the society again, but I am prepared to communicate with them directly the Government has arrived at a decision.</li>
+
+</ol>
+
+</answer>
+
+<question by="#blackwell" to="#minister_of_public_works">
+
+<from>&#x2020;Mr. BLACKWELL:</from>
+
+<p>Is the Minister aware that the Johannesburg Zoo is maintained by the funds of the local authority; in view of that, has he approached any other local authorities here to co-operate to meet this particular expenditure?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#blackwell">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>As a matter of fact, I do hold that it is not the Government&#x2019;s business to maintain the menagerie at all. If the Cape Town City Council in conjunction with our good friends of the other side want a menagerie for tourists, let them keep it.</p>
+
+</answer>
+
+<question by="#jagger" to="#minister_of_public_works">
+
+<from>Mr. JAGGER:</from>
+
+<p>How about Pretoria?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#jagger">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>That is a different thing&#x2014;it is a national zoo. The one has a representative collection of animals, but down here it is a gingerly effort at maintaining these things.</p>
+
+</answer>
+
+<question by="#duncan" to="#minister_of_public_works">
+
+<from>Mr. DUNCAN:</from>
+
+<p>Give the lion to the Minister of Labour.</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#duncan">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>I think my hon. friends over there have a more painful interest in baboons.</p>
+
+</answer>
+
+<question by="#papenfus" to="#minister_of_public_works">
+
+<from>&#x2020;Mr. PAPENFUS:</from>
+
+<p>I wish to ask the Minister as a supplementary question, is he aware that the conditions of the confinement of the live animals and birds referred to is of such a character, that if they were the property of a private individual and not of the State, a prosecution would result?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#papenfus">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>It is not quite as bad as that. It compares favourably with the condition of some of the unfortunate workers in the country.</p>
+
+</answer>
+
+<question by="#nathan" to="#minister_of_public_works">
+
+<from>Mr. NATHAN:</from>
+
+<p>To whom does the zoo belong? Under whose control is it?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#nathan">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>It is not a zoo; it is merely a collection of animals, and I do not know whether it is to the advantage of the State. It is controlled by the Government.</p>
+
+</answer>
+
+<question by="#van_zyl" to="#minister_of_public_works">
+
+<from>Maj. G. B. VAN ZYL:</from>
+
+<p>Has the Government received any sum of money from the Rhodes Trust for the maintenance of the zoo?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#van_zyl">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>We have a sum for the maintenance of the estate, of which this zoo is a part&#x2014;it is a small sum.</p>
+
+</answer>
+
+<question by="#close" to="#minister_of_public_works">
+
+<from>Mr. CLOSE:</from>
+
+<p>Was not the menagerie part, of the estate?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#close">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>It is quite true there was a menagerie there as part of the estate. It, has been extended considerably&#x2014; <span class="col_3241-3242" refersTo="page_0215"/>since the deputation to which I referred accompanied me to view the site. We are considering the whole question as to whether we should maintain it or dispose of it.</p>
+
+</answer>
+
+<question by="#gilson" to="#minister_of_public_works">
+
+<from>Mr. GILSON:</from>
+
+<p>In view of the statement of the Minister that the condition of some workers compares unfavourably with the condition of the animals at this zoo, has he considered getting rid of some of the animals, and putting some of his friends in the cages?</p>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#gilson">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<p>That is a form of punishment for our political opponents we have not yet devised.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>ECONOMIC COMMISSION.</heading>
+
+<question by="#robinson" to="#minister_of_mines_and_industries">
+
+<num>IX.</num>
+
+<from>Mr. ROBINSON</from>
+
+<p>asked the Minister of Mines and Industries whether any communication has passed between the Imperial and Union Governments with a view to the setting up of a commission to confer on the development of South African resources and other economic matters between Britain and the Union with a view to the promotion of mutual trade, and, if so, with what result?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#robinson">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>The Union Government has not received any communication from the Imperial Government on this subject.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>ACCOUNTANTS AND PEARCE AGREEMENT.</heading>
+
+<question by="#christie" to="#minister_of_the_interior">
+
+<num>X.</num>
+
+<from>Mr. CHRISTIE</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) How many applicants from each province applied, under the Pearce agreement, for admission to the Cape Society of Accountants and Auditors (a) under Class 1 and (b) under Class 2;</li>
+
+<li>(2) how many applicants in each province were rejected under (a) and (b), respectively;</li>
+
+<li>(3) whether reasons were given for rejection, and, if not, why not;</li>
+
+<li>(4) whether reasons, were asked for by unsuccessful applicants and refused, and, if so, why were they refused; and</li>
+
+<li>(5) whether the Minister will use his influence to get reasons in each case furnished to unsuccessful applicants, in order that they may bring their cases properly before the appeal board ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#christie">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>I regret that as the Pearce agreement is not one falling within the administration of my department, I am not in a position to supply the information asked for.</p>
+
+</answer>
+
+<question by="#christie" to="#minister_of_the_interior">
+
+<from>Mr. CHRISTIE:</from>
+
+<p>Is the Minister aware that the Pearce agreement vas read in the House, incorporated in Hansard, and had a bearing on a vote of this House when this Act was approved.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#christie">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>That may be so. If it was incorporated in Hansard, the fact is it is not incorporated in the Act. As a matter of fact, I have nothing to do with the administration of the Act.</p>
+
+</answer>
+
+<question by="#christie" to="#minister_of_the_interior">
+
+<from>Mr. CHRISTIE:</from>
+
+<p>Has the Minister considered amending the Act further?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#christie">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>Well, it was a private measure introduced by a private hon. member, and I have not got responsibility with regard to the proposed amending of the Act. I think the only thing I have to do in connection with this Pearce agreement is to nominate some person on the appeal board. I have not done that, but I can give the hon. member the assurance that if I make the appointment I shall make a good one, as I usually do.</p>
+
+</answer>
+
+<question by="#nathan" to="#minister_of_the_interior">
+
+<from>Mr. NATHAN:</from>
+
+<p>Is the Minister not aware that by reason of that agreement an easy passage was given to the Bill?</p>
+
+</question>
+
+<question by="#waterston" to="#minister_of_the_interior">
+
+<from>Mr. WATERSTON:</from>
+
+<p>Has the Minister all the facts in front of him? Is he not aware that most of the grievances are caused by the Pearce agreement not applying to bookkeepers?</p>
+
+</question>
+
+<question by="#o&#x2019;brien" to="#speaker">
+
+<from>Mr. O&#x2019;BRIEN</from>
+
+<p>interjected a remark.</p>
+
+</question>
+
+<answer by="#speaker" to="#nathan">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I am afraid most of these questions are giving information.</p>
+
+</answer>
+
+<answer by="#minister_of_the_interior" to="#nathan">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>I could hardly lay it before the House unless it is definitely on the Order Paper. For my own information I will make inquiries before I make the appointment on the appeal board.</p>
+
+</answer>
+
+<question by="#gilson" to="#minister_of_the_interior">
+
+<from>Mr. GILSON:</from>
+
+<p>Is not the Minister aware that the Minister of Finance made a statement in the House. I would ask the Minister, did not the Minister of Finance make an emphatic statement in the House that the agreement would be observed in all its conditions?</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>NIEUWEBERG FOREST SETTLEMENT.</heading>
+
+<question by="#duncan" to="#minister_of_labour">
+
+<num>XI.</num>
+
+<from>Mr. DUNCAN</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) How many dwellings for settlers have been erected at the Nieuweberg Forest Settlement in the Elgin district, and how many are now occupied;</li>
+
+<li>(2) what is the total expenditure to 31st March, 1928, (a) on the purchase and erection of dwellings, and (b) op wages and maintenance of settlers; and</li>
+
+<li>(3) what is the intention of the Government in regard to this settlement ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#gilson">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<ol>
+
+<li>(1) and (3) 200 dwellings have been erected. As it has been decided to utilize this settlement on the proposed compulsory works colony, the families are now being removed to other settlements; at present there are only ten families in occupation.</li>
+
+<li>(2) (a) &#x00A3;11,359; (b) (i) &#x00A3;412 contribution to wages of settlers; (ii) &#x00A3;5,293 cost of roads, water supply, transport, stores and supervision.</li>
+
+</ol>
+
+</answer>
+
+<question by="#nel" to="#minister_of_labour">
+
+<from><span class="col_3243-3244" refersTo="page_0216"/>Mr. NEL:</from>
+
+<p>Is the settlement situated within the Cape Town water catchment area?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#nel">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>That I cannot say, but there is a river flowing through the settlement.</p>
+
+</answer>
+
+<question by="#nel" to="#minister_of_labour">
+
+<from>Mr. NEL:</from>
+
+<p>If the place is turned into a labour colony settlement will there be a prohibition against the keeping of fowls, pigs and other animals?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#nel">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>Not as long as the river is not polluted. We had a court case on that point some time ago, and the only interdict issued was that we were not to pollute the river. It is our responsibility to see that the river is not polluted.</p>
+
+</answer>
+
+<question by="#duncan" to="#minister_of_labour">
+
+<from>Mr. DUNCAN:</from>
+
+<p>Are settlers now prohibited from keeping animals of any kind, even fowls?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#duncan">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>I am not sure on that point.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>JOHANNESBURG TRAMWAY MEN.</heading>
+
+<question by="#nathan" to="#minister_or_labour">
+
+<num>XII.</num>
+
+<from>Mr. NATHAN</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) What was the cost of the arbitrators&#x2019; services in connection with the Johannesburg tramway men&#x2019;s arbitration;</li>
+
+<li>(2) what was the total cost of the proceedings in connection with this matter;</li>
+
+<li>(3) what was the result of the proceedings, and</li>
+
+<li>(4) whether future arbitration proceedings will follow the same lines?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_or_labour" to="#nathan">
+
+<from>The MINISTER OR LABOUR:</from>
+
+<ol>
+
+<li>(1) The arbitrator submitted no claim and was not paid for his services.</li>
+
+<li>(2) &#x00A3;65 6s. 10d. In addition, clerical assistance was supplied by the Department of Labour, the cost of which it is not possible to assess.</li>
+
+<li>(3) The arbitrator found that the municipal council had failed to establish its claim for an increased spread-over of the daily working hours and decided that the position obtaining when the conciliation board was applied for on 18th March, 1927, was to be maintained.</li>
+
+<li>(4) This question is not understood. The parties being unable to agree on an arbitrator, requested the Minister in terms of section 7(1) of the Industrial Conciliation Act to appoint an arbitrator.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RESERVE BANK SHARES</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>XIII.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Including dividend declared by the Reserve Bank to the end of March, 1928, what is the total amount paid as profits to Government and shareholders, respectively, since the inception of the institution;</li>
+
+<li>(2) whether the Government, or the Public Debt Commissioners, hold any shares in the bank, and, if so, how many;</li>
+
+<li>(3) what is approximately the present selling price of the &#x00A3;100 share; and</li>
+
+<li>(4) who represent the Government on the directorate and when do their terms of office expire ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DOORNKOP SUGAR ESTATES.</heading>
+
+<question by="#anderson" to="#minister_of_labour">
+
+<num>XIV.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) Whether the tenant farmers on the Doornkop Sugar Estates sent a petition to the Minister in December, 1927, making certain complaints; if so,</li>
+
+<li>(2) what was the nature of the complaints and to what extent have they been redressed;</li>
+
+<li>(3) whether the Minister will lay upon the Table the petition in question, together with any reply he may have sent thereto; and</li>
+
+<li>(4) if no reply has been sent thereto, what are the Minister&#x2019;s reasons for failing to reply ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#anderson">
+
+<p>[The reply to this question is standing over.]</p>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_labour">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Has the manager of the Doornkop Estates had before him the persons who complained to a certain member of Parliament of the non-receipt of any reply to their petition and warned them that they would be made to suffer for their action in writing to him?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#hay">
+
+<from>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>This is the first I have heard of it, and if an official has done that he has acted very wrongly. However, I will inquire into the matter.</p>
+
+</answer>
+
+<question by="#anderson" to="#speaker">
+
+<from>Mr. ANDERSON:</from>
+
+<p>Arising out of the reply&#x2014;</p>
+
+</question>
+
+<answer by="#speaker" to="#anderson">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>I don&#x2019;t think questions can arise out of a reply when a reply to a question is deferred. The best way would be to put the question on the paper.</p>
+
+</answer>
+
+<answer by="#anderson" to="#speaker">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>There is some information I would like the Minister to get at the same time.</p>
+
+</answer>
+
+<answer by="#speaker" to="#anderson">
+
+<from>&#x2020;Mr. SPEAKER:</from>
+
+<p>Perhaps with the permission of the House the hon. member can put the question.</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_posts_and_telegraphs">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Can the Minister tell us if espionage in connection with letters posted by settlers is taking place, and if so, who is the responsible person?</p>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#anderson">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<p>In the post office?</p>
+
+</answer>
+
+<question by="#anderson" to="#minister_of_posts_and_telegraphs">
+
+<from>&#x2020;Mr. ANDERSON:</from>
+
+<p>Yes.</p>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#anderson">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<p>Make that reference to myself.</p>
+
+</answer>
+
+<answer by="#minister_of_labour" to="#anderson">
+
+<from><span class="col_3245-3246" refersTo="page_0217"/>&#x2020;The MINISTER OF LABOUR:</from>
+
+<p>My hon. friend will take the matter up. A serious accusation is made, and we will certainly follow it up.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>SCHOOL INSPECTORS, DUTCH AND ENGLISH.</heading>
+
+<question by="#nathan" to="#minister_of_education">
+
+<num>XV.</num>
+
+<from>Mr. NATHAN (for Brig.-Gen. Byron)</from>
+
+<p>asked the Minister of Eudcation:</p>
+
+<ol>
+
+<li>(1) How many school inspectors have been appointed in the Cape Province (excluding the Transkei) since the Government came into office who are (a) Dutch speaking, (b) English speaking; and</li>
+
+<li>(2) how many school inspectors have been appointed in the Transkei since the Government came into office who are (a) Dutch speaking, (b) English speaking ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_education" to="#nathan">
+
+<from>&#x2020;The MINISTER OF EDUCATION:</from>
+
+<p>These appointments fall within the province of the Provincial Council Administration, and I am getting the facts from them.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: PROMOTION APPEALS COMMITTEE.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question No. LIII by Mr. Te Water, asked on 20th March.</p>
+
+<question by="#te_water" to="#minister_of_finance">
+
+<heading>QUESTION:</heading>
+
+<ol>
+
+<li>(1) How many appeals against the decision of the Administration in cases of promotion have (a) been received by the Administration, (b) been dealt with by Promotion Appeals Committees from the date such Committees were established; and</li>
+
+<li>(2) how many appeals have been sustained ?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#te_water">
+
+<heading>REPLY:</heading>
+
+<ol>
+
+<li>(1) (a) 152 appeals have been received by the management; (b) 75.</li>
+
+<li>(2) Five. The numbers given above include appeals submitted by individual members of the staff in regard to promotion based on general grounds without reference to any specific case. These are dealt with on their merits, and are not submitted to appeal committees.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#committee_of_supply">
+
+<heading>COMMITTEE OF SUPPLY.</heading>
+
+<p>First Order read: Adjourned debate on motion for House to go into Committee of Supply, to be resumed.</p>
+
+<p>[Debate, adjourned yesterday, resumed.]</p>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I have no very serious complaint against the general reception which has beer, accorded this budget. There have been various ways of getting the opinions of people outside, and as far as that is concerned I think I can fairly say that there has been a general chorus of satisfaction and approval. In this House, however, we have of course, politicians</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>On which side?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I think it is obvious on which side. We have the politicians who consider it their duty to point out the defects, real or imaginary, in the position. Well, of course, we don&#x2019;t blame them: it is their duty and, of course, apart from their duty, there are obviously very important issues involved in the question of in what light the budget is viewed by people outside. Under these circumstances, hon. members opposite will, of course, not blame the disinterested and impartial observer who places a very heavy and substantial discount on the value of these criticisms. During the greater part of this debate, I think it will be generally admitted that it was a fairly dull and lifeless discussion, until last night, when the right hon. member for Standerton (Gen. Smuts) came on the scene&#x2014;fresh from his travels in the north, where he had an opportunity of coming into contact with the people and hearing their opinions on the budget, and when he considered it of very great importance to sweep away the effect which he had perceived in the north, and when he, during the course of his treatment of the budget, made use of statements as loose and irresponsible as I have ever listened to from a leader on an important subject of this nature. When the right hon. gentleman, in the course of his remarks, made use of such expressions as &#x201C;Nothing has done more harm than the surpluses,&#x201D; &#x201C;ugly situation,&#x201D; and &#x201C;rake&#x2019;s progress,&#x201D; I think the people who read these remarks this morning can only have been amused. The right hon. gentleman proceeded to accuse me of sanguineness and optimism, and then in the same breath he talked about habitual under-estimates of revenue. So far, I have not generally been described as very sanguine and optimistic, and if I had been so, I suppose we would not have had those under-estimates. Does not the right hon. gentleman see that those statements are mutually destructive? Then he proceeds to talk about under-estimating revenue resulting in spending up to the limits of our resources, and then he talks about surpluses. Anybody who knows anything about these matters will see that these statements have been loosely made and are altogether irresponsible. The right hon. gentleman has launched a general attack on the supposed evils of surpluses. I am wholly unrepentant in regard to my policy. What are the facts? What has happened to these surpluses? We have been paying off our debts, and we must not forget that in the last three or four years of the regime of hon. members opposite, they allowed the provision, with regard to debt redemption, to sink to dangerously low levels; but whether it was as the result of under-estimating revenue, the fact remains that it was very necessary to have funds to strengthen our position in regard to debt redemption. The effect, of course, has been, as I pointed out in my budget statement. It has not only maintained, but materially strengthened the credit position of this country. I am sure that anybody who knows anything about finance will refuse to exchange <span class="col_3247-3248" refersTo="page_0218"/>the present policy of balanced budgets and surpluses for the previous policy of unbalanced budgets and deficits. I have spoken about the criticisms to which we listened before the advent of the right hon. member for Standerton. During those five days there was not really very much as regards criticism of the financial policy of the Government. It is true we had the usual attack by the hon. member for Cape Town (Central) (Mr. Jagger) against the protectionist policy of this Government, but I think hon. members will have noticed that this year the hon. member had even less support for that policy on the other side. It is true that in regard to one particular action which the Government took in pursuance of that policy the hon. gentleman was supported, amongst others, by my hon. friend the member for Yeoville (Mr. Duncan), and the hon. member for Bezuidenhout (Mr. Blackwell), but there have been other hon. members on the other side who have, as usual, come to the rescue of the Government as far as that policy is concerned. There has been another subject on which the Government has been criticized, and that is the civilized labour policy. We know the hon. member for Yeoville has told us that he thinks our action there is wrong and indefensible, as the right hon. member for Standerton told us last night. The hon. member for Rondebosch (Mr. Close) does not go so far. He only objects that we have no statistics of the cost of that policy. We know what the attitude of the hon. member for Cape Town (Central) is in regard to that matter. We have experienced the way in which he interpreted what we call business principles.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>You want to be accurate when you make a statement.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I mentioned these two matters to show, as I have pointed out previously, the differences of opinion on the other side in regard to very important matters of policy. It reminds us of the impotence and the condition of paralysis that had overtaken the late Government during its last days.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>You have a very united party over there.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Another line of criticism adopted has been an attack in regard to the general growth of expenditure. Here again we had loose statements unsupported by facts and arguments. It is very easy always to talk about growth of expenditure and the evil resulting from it. I would not blame hon. members if they pointed out that we should do everything in our power to keep a check on expenditure, but it is notorious that one in my position generally receives very little assistance from hon. members in this House in regard to its demand to cut expenditure. During this debate we have had the Minister of Finance attacked for holding the purse strings too tightly. We have heard the harrowing tale unfolded by the hon. member for Durban (Central) (Mr. Robinson), when he complained about the regulations issued by my hon. friend, the Minister for Education, in regard to the limitations placed on the growth of expenditure on colleges and universities. Here we had a typical example where the Government also felt what the hon. member for Cape Town (Central) (Mr. Jagger) felt when he pointed out that we were spending in this country between &#x00A3;8,000,000 and &#x00A3;9,000,000 on education, when we hear the cry to do something to check that growth of expenditure. We have heard the criticisms which have been launched in this House, and so it goes on. Hon. members from every part of the House are continually out for expenditure. The hon. member for Yeoville (Mr. Duncan), in a very thoughtful speech, has indicated certain action which we might take to remedy this position, but here I think the hon. gentleman will be the first to admit that his solution is wholly impracticable. It would go to the very root of Parliamentary Government, and especially of responsible constitutional Cabinet Government in this country. As long as we have democratic party government, it does not matter whether it is your Government or whether it is your Budget Committee, they will be forced to sanction expenditure which is demanded by the people outside, and to my mind unless you have a sound public opinion in regard to these matters, unless you have members of Parliament prepared to do these things, not in the interests of a section of their constituents, but in the interests of their constituents, in general, and the country in general, you will never have an improvement as far as keeping a check on expenditure is concerned. To my mind the solution suggested by the hon. member for Yeoville is a counsel of protection. It is only when you outrun the constable, as happened in 1921-&#x2019;22, when my hon. friends were forced to do something drastic, that you succeed in getting down expenditure. Then, of course, you have the inevitable dislocation and hardships resulting in the carrying out of such a policy. It is true that some hon. members opposite have been fair enough to admit that you have had this state of affairs, it is a natural state of affairs, you have had it all along, but other hon. members have thought fit specially to attack the Government in regard to this point. What are the true facts? The hon. member for Cape Town (Central) has been pointing out on previous occasions, and also during this debate, that during the period this Government has been in office, expenditure has gone up by a figure of about &#x00A3;3,800,000. Let me point out here that I do not think the hon. member is quite fair when he starts with the financial year 1923-&#x2019;24. I think it would have been fairer if he had taken the subsequent year, when we actually took office, and when I had practically adopted the estimates of expenditure of my predecessor. However, I am not going to quarrel with the hon. gentleman about that. I am going to accept his figures and analyse them. Before I do so I want to point out one cardinal fact which must always be borne in mind, and that is that during the last four years, in spite of considerable reduction of <span class="col_3249-3250" refersTo="page_0219"/>taxation, the revenue of this country has always been sufficient to meet the expenditure of the country. That is not a position which you had formerly. You formerly had a general increase on the previous year&#x2019;s estimates, but the Treasury, in order to meet that expenditure from time to time, imposed additional taxation, but whatever may be said in regard to the growth of expenditure, during the period this Government has been in office you have this outstanding and cardinal fact, that revenue has been sufficient and more than sufficient, to meet expenditure. On a previous occasion I pointed out that if you take the annual increase of expenditure over the previous year, you will find that the position under this Government does not compare unfavourably with the position which has always obtained in this country. What are the facts? Let us take the war period. Hon. members always say, &#x201C;Yes, but it is not quite fair to take the war period.&#x201D; The war is blamed for a good many things. We find that during the last two years of the war, 1916-&#x038A;7, and 1917-&#x038A;8, the average annual increase of expenditure during those years amounted to 12.58 per cent, and 6.51 per cent.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>That is not a fair comparison. Those were abnormal times.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I will try and state the position fairly. The increases during those years, as I say, were 12.58 per cent, and 6.51 per cent, respectively. But then you get the post-war period. In 1918-&#x038A;9 the increase was 15.74 per cent., in 1919-&#x2019;20, 16.90 per cent., and in 1920-&#x2019;21, 26.20 per cent, over the previous year. Hon. gentlemen will say you cannot take the war period. Now they say &#x201C;Do not take the post-war period,&#x201D; but I am not taking an isolated year, but a period of years, and in that period of years we find the expenditure rising in this ratio. Then, of course, we get the next two years when my hon. friends there were forced to face the position, and these were the years when, while we were sitting on the other side, we preached economy. Those were the years when we forced hon. members opposite to face the position. When the burden had become intolerable for the people of this country to bear, they started gleaning the field. Then we had for two years decreases. After a period of five consecutive years, when you had had all these percentage increases, you had for two years decreases. Then the thing started again, it is true not rising to a very high percentage, but still it was in 1923-&#x2019;24 1.50 per cent., and in the next year (1924-&#x2019;25), 2.09 per cent. Then this Government came into office, and the first year we had to deal with a situation which we bad inherited. You had the position of the provinces: You had an expenditure by the provinces of about &#x00A3;1,000,000, money which had been spent, but which had not been defrayed from the revenues of either the provinces or the central Government, but which had been found by the Treasury out of loan moneys. The deficits had been funded. The provinces could not go on. They had either to impose taxation in accordance with the powers which they had under the constitution to carry out services entrusted to them, or something else had to happen. We chose the course which was approved by hon. members opposite, of making a new arrangement by finding the necessary money for the provinces, over &#x00A3;1,000,000. Hon. members opposite may regard that as an extravagance, finding the necessary money for education. They might take up the position that the provinces should have been allowed to clean up the mess themselves, retrench or curtail education. That is so, but they never had the courage to indicate to the country that if they came into power they would reverse the position and in any case curtail the revenues given to the provinces, and thus force them, as it were, to retrench, and curtail their expenditure on education. I point to that fact, to justify the apparently big rise in expenditure during the first year (1925-&#x2019;26) over the expenditure of the previous year ( 1924-&#x2019;25). And what was that? It was 7.29 per cent. After having made provision for this, and also for certain other bankrupt pension funds, it was absolutely necessary to increase the expenditure by 7.29 per cent. The following year (1926-&#x2019;27) it was 3.9 per cent., the following year (1927-&#x2019;28), two per cent., and this year (exclusive of certain supplementary provision which still has to be made), according to the estimates at present before the House, the increase of expenditure over the previous year is only 0.6 per cent. I submit that that does not compare unfavourably with what obtained under the previous Government, and is not indicative of any disregard of the necessity to keep a check on the expenditure of this country, but it shows that a pretty tight hand has been kept on the purse strings of the country. But I proceed. It is all very easy to speak about the growth of expenditure, and to mention figures which, unless you analyze them, must be a pretty loose statement and convey nothing at all. Let us analyze the position to find out on what this money has been spent. I take the figure which my hon. friend there has mentioned of &#x00A3;3,800,000, for the period of four years. The first item I want to mention is the public debt; increased interest charges, as a result of capital expenditure in regard to which in the majority of instances the policy was laid down by the previous Government&#x2014;capital expenditure which was absolutely necessary for the development of this country, and which in not a single instance was challenged by a sigle member opposite. I find there is an increased interest charge of &#x00A3;575,000; increased provision for sinking funds, &#x00A3;250,000; and that gives you &#x00A3;825,000. Then I come to another item, pensions, an increase of &#x00A3;403,000, pensions payable under pensions legislation initiated under the regime of members opposite, and passed by this House, pensions legislation in regard to which I have never heard that they would be prepared, in spite of the rather alarming growth of our pensions bill, to repeal. We find in regard to pensions that I now make an annual contribution to meet the deficit on the Cape Pension <span class="col_3251-3252" refersTo="page_0220"/>Fund of &#x00A3;160,000; Natal Police Fund, &#x00A3;37,000; grants to Oustryders, &#x00A3;116,000; and increased superannuation allowances, that is, pensions for public servants, &#x00A3;90,000, which gives a figure of &#x00A3;403,000. Then there is the item of provincial administrations, &#x00A3;1,155,000, and then miscellaneous services, &#x00A3;70,000, which included a very nice sum to meet the losses on the flour and further expenditure in regard to exchange of remittances in order to meet our engagements overseas. Then we have police and defence, &#x00A3;150,000, which includes &#x00A3;100,000 for the aircraft replacement fund, which hon. members thought a very good investment to make, and, of course, they are all clamouring for more police. Then we get mental hospitals and public health, &#x00A3;176,000, here again necessary social services, and increased provision to be made as the result of the policy initiated by hon. members opposite. They had started these institutions, we completed them, and we had to bring them into use. Union Education, &#x00A3;416,000, which includes the transfer from the provinces of technical and other education to the extent of &#x00A3;250,000, and for the general extension of such education. Then there are child welfare, &#x00A3;57,000; agriculture and agricultural education, &#x00A3;144,000; forestry, &#x00A3;30,000; and posts and telegraphs, &#x00A3;270,000, as a result of the expansion in that service, and for which, of course, you have a corresponding amount of revenue, and more, on the credit side. Public works, &#x00A3;176,000, including &#x00A3;100,000 for minor works, which, under the previous Government, were generally charged to loan account, but are now taken into revenue. These amounts make up the figure of &#x00A3;3,800,000, mentioned by the hon. gentleman opposite. I have not heard that the Opposition are prepared to curtail expenditure on any of the services I have mentioned. It is true that there are other services showing an increase of about &#x00A3;400,000, equally as necessary as those I have mentioned, but it is not necessary to deal with them, because they are cancelled out by savings upon other votes, therefore, only as far as these particular services are concerned, by adding the figures I have given, the hon. member will find they account for the figure of &#x00A3;3,800,000 mentioned by him as the increase in the expenditure of this country for a period of four years. I know of no other test if you want to attack that expenditure than that of whether you are prepared if you had the power not to incur that expenditure. I come to my proposals in regard to reduction of taxation. Here again I think generally these proposals have proved acceptable to the House and the country. There have been a few exceptions, for instance, the hon. member for Yeoville (Mr. Duncan) thought I should not have given the rebate in regard to income tax, but that a bigger reduction should have been made in regard to customs duties. That is the weak point&#x2014;the reduction I am giving in regard to customs duties&#x2014;but I have done so as a result of the clamour which has gone up from people who say the duties are excessive and increase the cost of living, but I am just afraid that if any criticism can be levelled against this budget it would be that these reductions which I am giving, although the percentage is pretty considerable, will not be passed on to the consumers, and that they will not materially affect the cost of living in this country. That is the difficulty we have in regard to taxation obtained by means of the customs. In the ordinary course of events it is very difficult to pass on this little present which I am probably giving to the merchants. Unless the competition is very severe, I am afraid that in many cases the benefits will not be passed on. It is a very popular cry to speak of the high cost of living as being the result of the customs duties, but I am afraid that if to-morrow I reduced the duties by another million there would be very little corresponding benefit to the consumers in this country.&#x2019; I have in this case acted on faith; I am going to trust my hon. friends opposite; I hope I will be proved wrong, and that they will extend the benefit of those customs duties to the consumer. I have been criticised that in regard to these benefits which we have been giving, the natives of this country are not receiving a share. Let me point out in the first place that the natives are benefiting equally with the white people in many of these customs reductions. The duty on cotton blankets has been singled out again for attack in this House. I do not know whether I can carry the matter very much further. I have on many occasions pointed out that these duties were imposed with the deliberate object of fostering the manufacture of blankets in this country, which we consider can ultimately be manufactured, to supply our needs. We are a wool-producing country, and a large portion of the natives are wearing the woollen article. It is only a number of them which is using the cotton blanket. In future we will not only manufacture woollen blankets, but cotton blankets, at a very reasonable price. I gave the figures last year, and can do so again if the matter is raised on another occasion. It was proved that a fairly good class of cotton blanket can be purchased at a reasonable price. It is true we are not supplying the entire demand, but that happens when a country is starting an industry as it is doing here, and people have to import a certain portion of the commodity; but in the end it is only by protecting these industries that you can establish them. I come to another matter where there has not been so much. I should say, general criticism. There was one hon. member who raised it, but he was not supported by his side. As a matter of fact, another hon. member opposite, who probably has as much experience in these matters as the hon. gentleman himself, was unable to support him, but supported the scheme criticised in this instance. I refer to the hon. member for Bezuidenhout (Mr. Blackwell) and his criticisms in regard to my proposals for debt redemption. The hon. member has quoted a number of figures in support of his argument that the old redemption arrangements achieved very much more than the new arrangements would have done had they been in force from Union, and he makes out <span class="col_3253-3254" refersTo="page_0221"/>that for the period ending 31st March, 1927, the average annual surplus has been about &#x00A3;400,000. Now, just as a surplus reduces borrowing, so a deficit increases it, and so does a withdrawal from loan funds to reduce or avert a deficit. My hon. friend has conveniently ignored a number of deficits which occurred between 1920 and 1923, and also the withdrawal of large sums from loan account in aid of revenue in those years. I refer to the years when my predecessor raided the loan account in regard to receipts from mining leases and bewaarplaats, and placed them into revenue.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>It has nothing to do with debt redemption.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>It has everything to do with it, as the hon. member will see if he follows my argument as it develops. The revenue from Union to March, 1927, was &#x00A3;373,376,000 (page 51 of the Auditor-General&#x2019;s report), and the voted expenditure was &#x00A3;369,292,000. Hon. members will see that the revenue during those years included certain extraordinary receipts, which belonged to the pre-Union period, of &#x00A3;58,000, and supplementary appropriations totalling &#x00A3;360,000 have been made from revenue. These are the restoration of the capital of the Orange Free State local loans of &#x00A3;110,000, and &#x00A3;250,000 paid to the Transvaal Pension Fund. If these adjustments are made, the excess of revenue over expenditure for the period is only &#x00A3;3,666,000. From this figure, I deduct withdrawals from the loan fund of &#x00A3;2,885,000 in 1921-&#x2019;24, and hon. members will find that &#x00A3;1,381,000 remains. Then I proceed to give revenue credit for the excess profits duty which for two years went to the loan fund. I am bringing that back to revenue. I could fairly argue that considering these receipts were by the law of this country earmarked for loan purposes, I need not do this, but I want to be perfectly fair, and, in the ordinary course, I consider that they were not abnormal receipts, but in the nature of revenue, and I am, therefore, returning them to revenue. This amount is &#x00A3;1,218,000, and brings the net surplus to &#x00A3;2,599,000 over the period of 17 years with which the hon. member for Bezuidenhout dealt. Now, apart from the contribution of revenue to sinking funds, this was the full effect the revenue transactions on debt redemption over the period, and the average annual sum is not &#x00A3;400,000 per annum as the hon. member made out, but &#x00A3;153,000&#x2014;a slight difference of about a quarter of a million per annum&#x2014;and about &#x00A3;4,000,000 for the period.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>You do not deny that &#x00A3;9,000,000 was actually paid?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I shall deal with that. The hon. member must not be so impatient. I am sorry I have inflicted all these figures on the House. The hon. member said it was a sort of private feud between him and me, but notice is being taken outside, and it is necessary for me to discuss it. When one remembers that the surpluses of &#x00A3;1,734,000 during the first three years after Union owed their existence to contributions in aid of revenue of &#x00A3;3,179,000 from the Railway and Harbour Administration, the results of applying revenue surpluses to debt redemption are certainly not very impressive. Having discussed surpluses&#x2014;quite erroneously as I have shown&#x2014;the hon. member goes on to discuss the results achieved in the 17 years following Union. He mentions a figure of &#x00A3;27,500,000 representing the debt redeemed and provided for in that period as the result of the old system which has been superseded. Here I find it difficult to follow his figures, but I can perceive some fallacies in his argument. In the first place, as I have shown, he ignores the other side of the picture, namely, the increase of debt through deficits or diversions of loan funds in aid of revenue. Secondly, he ignores the fact that &#x00A3;1,500,000 of his debt redeemed was paid off out of cash balances brought into Union.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I took that into account.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>What is more serious, the hon. member ignored the fact that sinking funds amounting to nearly &#x00A3;4,500,000 were brought into Union.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>I took that into account too.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The hon. member could not have done so, otherwise he could not have obtained his results. If the sinking funds, which were brought into Union, had been accumulated at 4&#x00BD; per cent, interest, they would amount in March, 1927, to over nine millions. Then, again, his figure of debt redeemed includes another one and a half millions redeemed through the Custodian&#x2019;s surplus and other adventitious receipts. You cannot, of course, give the old system credit for the items I have mentioned. I might equally well claim for the new system the credit of &#x00A3;2,500,000 debt redeemed and provision made of another million and a half during the first year of its operation. To get anything approaching a true comparison of the effects of the old and the new schemes it is necessary to discard these extraneous aids to redemption and to allow for certain receipts which, until 1917, were paid through the Revenue Account to sinking funds and, subsequently, have gone direct to the Loan Account, and then to aggregate the net effect of revenue surpluses and deficits, debt repaid from sinking funds and present-day value of sinking funds, and compare the result with the position which would have resulted from the operation of the new scheme from Union. Dealing with the matter on these lines, the position at 31st March, 1927, was as follows: The actual effect on the debt position of revenue surpluses and deficits was &#x00A3;2,599,000, the debt redeemed by the operation of particular sinking funds was &#x00A3;4,638,000, and the value of the particular <span class="col_3255-3256" refersTo="page_0222"/>sinking fund (taking their holdings of Union stock at par) was &#x00A3;17,389,000; the improvement in the debt position through these operations was &#x00A3;24,626,000. If the new arrangement had been in force since Union the &#x00A3;650,000 contribution to sinking fund accumulated at 5 per cent, would have amounted to &#x00A3;16,796,000, and the sinking funds of &#x00A3;4,428,000 brought into Union accumulated at 4&#x00BD; per cent, would have amounted to &#x00A3;9,358,000&#x2014;total, &#x00A3;26,154,000&#x2014; which gives a difference of one and a half millions in favour of the new scheme.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Over 17 years?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Yes, for the period dealt with by the hon. member in discussing the matter. I proceed to deal with the contention of the hon. member that under this scheme an undue obligation would be placed on some future Minister of Finance by the provision in the new law requiring that when the Transvaal and Orange Free State guaranteed loan is redeemed, interest at 4&#x00BD; per cent, has to be paid to the general sinking fund, or the portion of that fund which has been used to finance the particular sinking fund of that loan. It must be obvious that if the provisions the hon. member criticises had not been inserted in the new Act, the object of the scheme would have been completely defeated. As for as can be seen, this loan will be redeemed in under 17 years and the amount contributed to its sinking fund by the general sinking fund will be about &#x00A3;8,000,000. In that event, the contribution to the general sinking fund from revenue will be increased by &#x00A3;360,000 a year, but as the Minister of the day will be in the very happy position of having his annual interest charge suddenly reduced by &#x00A3;1,050,000, I do not think he will have very much to grumble at. I come now to the hon. member&#x2019;s point that nearly the whole of the provision that we are making for debt redemption is being absorbed by particular sinking funds attached to specific loans. I do not think there is very much in the criticism of the hon. member in that respect. The hon. member will remember that when this Government took office that for three or four years previously there had been no surpluses, and I at once set to work to improve the position by attaching sinking funds to particular loans. That improved the position to such an extent that when the new scheme was introduced, there were sinking funds in existence involving annual contributions of over &#x00A3;500,000. I do not think there is anything in the hon. member&#x2019;s criticism, because in the case of a particular sinking fund there is not the same temptation or possibility for a Minister who may find himself hard up to suspend a particular sinking fund as he could in the case of a general sinking fund. The whole debt position is improved by this particular payment. When the scheme was introduced we had to lay down the minimum which would be payable in good times and in bad times, and I distinctly told the House that it would be possible in future years, if the position were favourable, for Parliament to see that the amount was supplemented. Nobody can force a Minister of Finance to have a surplus, but the House can bring very strong pressure to bear to compel him to make provision for debt redemption. I do not want to weary the House by pursuing the subject, or I might have pointed out that this policy of having a particular sinking fund and doing away with surpluses is not a new one in the Union. I think in 1917, when the General Loans Consolidation Amendment Bill was introduced, provision was made by the then Minister of Finance for repealing the clauses of the Public Debt Commissioners Act dealing with the disposal of surpluses and substituting a general sinking fund by contributions of &#x00BD; per cent, on the debt. It was the hon. member for Cape Town (Central) (Mr. Jagger) who, in this House, succeeded in having that section repealed., which, of course, upset the whole scheme of the treasurer, with the result that that portion was taken out of the Bill. When we come to consider the question on its merits hon. members will remember that in the Public Accounts Committee certain hon. members who now criticize the scheme were quite prepared to support it, provided the amount was slightly increased. That being so, I think it hardly fair for the hon. member now to come with these denunciations in regard to the scheme, when he was prepared to support the principle if the amount had been slightly increased.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Will you lay that paper on the Table?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>It is not in a form in which it can be laid on the Table. I wish to mention that the hon. member was not correct when he said that a portion of the reparation receipts (which became available for debt redemption) had accumulated over a number of years, and were there when the present Government took office. As a matter of fact, the first payment to the Union Government was made in March, 1925, and the further accruals were not paid until 1926.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>But they had been accruing in the English treasury up to then.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Some of the payments have, but it was only paid over in 1926. The hon. member for Wonderboom (Mr. B. J. Pienaar) had some criticism to offer in regard to the treasury practice of charging to loan account the expenses of borrowing. I wish to remind the House that under the legislation passed by Parliament all loans under five years&#x2019; currency and expenses in regard thereto, are charged to revenue, and of all loans raised over five years&#x2019; currency the expenses are charged to loan account. Of course, what has to be borne in mind in this connection is that our total debt position, and especially the unproductive portion, is continually being improved by the provision existing in regard to the payments into loan funds, and accruals from mining leases, etc., and as long as the <span class="col_3257-3258" refersTo="page_0223"/>receipts are not diverted from their purpose the position can never become unsound as far as costs of this nature are concerned. It must also be remembered that it is not the usual practice to borrow for the purpose of meeting an existing liability. We had the instance only the other day where it was possible for the Government to extinguish a debt due by us to the British Government for about &#x00A3;2,000,000 without re-borrowing. I think during the time of the present Government practically no reborrowing has taken place in regard to any liabilities. Several hon. members raised the question of our trade with the United Kingdom and our practice in regard to the placing of orders. It has been suggested that there is a certain amount of antagonism on the part of the Government concerning trade with the United Kingdom, and that that is proved by the position which exists in regard to imperial preference and the placing of certain orders for railway material overseas. One hon. member has definitely made the suggestion that it was as a result of the visit of my colleague, the Minister of Railways, to the Continent and the conversations which he had there with certain manufacturers, that a very large order for railway material in this country was placed on the Continent inotead of in England. The hon. member dealt with the subject in such a manner that, if it was not intended, it had the result of rousing suspicion and bad feeling in regard to this matter, which, I think, is to be deplored. What are the facts in regard to the second point? Let me point out that so far from the conversation which the Minister had with those manufacturers having an effect on placing orders, the position is that when the Minister arrived in this country these tenders had been considered by the Tender Board. They had gone carefully into the whole matter. They had found that, although everybody would have liked to give that order to the United Kingdom, it was altogether impossible on the facts as they existed, to do so. The officials there, the Tender Board who dealt with the matter, cannot be accused of a lack of sympathy in regard to this matter, but they found that the discrepancy was so great that there was only one course open for the Government to pursue. The officers of the Administration and the Minister did not interfere one bit with the placing of these orders. They were placed as the result of the deliberations of the Tender Board and their consideration of the whole matter. The visit to the Continent had absolutely nothing to do with the subject under discussion. What is the postion in regard to preference? If one listens to hon. members when they inform us about the very valuable nature of the preference which we enjoy in regard to our products which we export to the United Kingdom, one would think that nothing was given in return. That is not the case. Hon. members seem to be singularly misinformed in this respect. Hon. members will remember that I dealt exhaustively with the question in 1925, when the tariff was under discussion. I pointed out that preference was being given indiscriminately; that the rebates which we were giving in regard to importations from the United Kingdom amounted to between &#x00A3;800,000 and &#x00A3;900,000, whereas the rebates which we were getting in regard to our produce exported to the United Kingdom only amounted to about &#x00A3;200,000. I pointed out to the House at the time that no less a person that the right hon. member for Standerton (Gen. Smuts) on a previous occasion, had stated very definitely that that position was one-sided and could not continue, and the whole question had to be revised, and we know the right hon. member brought it up at the Imperial Conference in 1923. I would like again to quote the words said by the right hon. gentleman when he dealt with this matter, just before proceeding to the Imperial Conference in 1923. Speaking, I think it was in the House, he said&#x2014;</p>
+
+<block name="quote">It has been felt, not only in South Africa but in other portions of the empire, that the arrangements are one-sided. Imperial preference, as it has worked so far, has very largely been to the advantage of the British producer rather than of the dominions producer. That has been shown in the papers which were published a little while back, or rather in the statements given in the House of Commons, and it was proved that the advantages which were derived by the British producer are out of all proportion to those derived by the dominions producer. I am sure this question of imperial preference is going to be raised.</block>
+
+<p>On another occasion, I think in Johannesburg, the right hon. gentleman said these words&#x2014;</p>
+
+<block name="quote">I will go further and say that the dominions will ask why continue to give preference to Great Britain if the British electorate is hostile to that preference? If the British people are opposed to preference. I say the question will arise in the dominions: Why continue these preferences if the British electorate is opposed to them ?</block>
+
+</speech>
+
+<speech by="#o&#x2019;brien">
+
+<from>Mr. <person refersTo="hansard_za">O&#x2019;BRIEN</person>:</from>
+
+<p>As the result of those representations what happened in 1923?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am going to deal with that. When I dealt with the question in this House I said that we were considering it from the interests of the consumers, and that we were not actuated by any hostile feelings towards the manufacturers of the United Kingdom. When the tariff was introduced, and we made the adjustments, what we did was to substitute for the general indiscriminate preference, preference on certain specified articles. It was dropped in the case of a large number of articles in which Great Britain already held the market, and where she did not require the preference. It was actually increased in regard to many items where competition was keen. Of course, we reduced the amounts of the rebates which were given. I agreed with the right hon. the member for Standerton (Gen. Smuts) that the arrangement <span class="col_3259-3260" refersTo="page_0224"/>was one-sided, and, as a result of the adjustments that were made at the time, the rebates which we were giving during 1924 would have amounted to &#x00A3;300,000, whereas the rebates which we were receiving amounted to &#x00A3;200,000. The position has, of course, undergone a change, and we are very glad of it. The importations of goods entitled to the preference from Great Britain during or since 1924 have increased so that in 1926 the rebates have risen to &#x00A3;392,000.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person>:</from>
+
+<p>Our rebates?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Our rebates to Great Britain. In 1927 they amounted to &#x00A3;421,000. In 1924 the rebates which we were getting from Great Britain amounted to &#x00A3;200,000, but, as I say, there has been a change in the relative position of the two countries. I am glad to say that our exports of certain articles like tobacco, wines, dried fruits, etc., have increased to a considerable extent. The figures for 1927 are not yet available, but I am informed that they would probably be still below the rebate which we are giving to articles imported from Great Britain.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Have you included sugar?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am glad to hear from the hon. member for Zulu-land (Mr. Nicholls) that it is probable that our exports of this one commodity alone to Great Britain will be about 100,000 tons this year. That, of course, has never been reached in the past.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>That is almost half a million already on one item.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Yes, but we have never had this one million export yet. I am dealing with the position as it existed in 1927, and showing that the position is improving. As I stated, I want this question to be put on a basis of reciprocity, and if our exports to the United Kingdom should increase as they are increasing now, we shall carry out our bargain and the Union will suitably respond if that position arises. But it has not been the position so far. I may be allowed at this point to refer to the question raised by the hon. member for Cape Town (Central) (Mr. Jagger) in regard to Natal sugar exported, and the prices that were being charged to manufacturers in this country of jams, jellies, confectionery and other articles. The hon. member for Zululand has already dealt with the question, and I think that the hon. member for Cape Town (Central) agrees that be was misinformed with regard to the actual position. We all know that the hon. member had no intention of giving the wrong information, but he probably was misinformed. The position is, as stated by the hon. member for Zululand, that these manufacturers in this country are entitled, as a result of the various rebates which are given in accordance with the undertaking which the Natal sugar planters gave to the Government, when the added protection was given them, to get their sugar at 17s., compared with 24s. 6d. paid by the wholesaler. I think the hon. gentleman will admit that that places our manufacturers in a very favourable position as far as the expansion of this particular industry is concerned, which the hon. member has at heart, and which we hope will grow.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I wish the department would publish the new arrangement.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I think the merchants of this country are quite able to do their business themselves. I think the hon. member will agree that when he raised the point I at once realized that it was a very important question that he raised. It would have been intolerable if our manufacturers of these commodities had been placed in the disadvantageous position indicated by the hon. member, and I informed my hon. friend, the member for Zululand, that if that was so, the Government would be compelled to take notice of the position and to take action, and I was very glad as a result of inquiries which he made and I made, to find out that these people had been observing their agreement. The hon. member for Zululand also, in dealing with this matter, and discussing the question of preference, complained that whereas our sugar in the British market had a substantial preference, we failed to give preference on sugar machinery. The position there is that sugar machinery from all countries is free, that is, for factory installation, but as far as concerns replacements, spare parts and appliances for machinery, they enjoy a three per cent, preference. They are free from the United Kingdom, and subject to a duty of three per cent, from other countries.</p>
+
+</speech>
+
+<speech by="#nicholls">
+
+<from>Mr. <person refersTo="hansard_za">NICHOLLS</person>:</from>
+
+<p>This is mostly structural machinery. You took the three per cent. off.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The position is as I have indicated. That was our policy in regard to encouraging various industries. The Board of Trade felt that as far as the initial installation was concerned, it was very advisable that our manufacturers should be able to obtain their machinery as cheaply as possible, and, therefore, it was made free from all countries, but as far as other parts are concerned, they enjoy a three per cent, preference, and the actual position is, as the hon. member is probably aware, that in 1926 out of importations of slightly over &#x00A3;200,000, sugar machinery to the value of about &#x00A3;190,000 came from Great Britain, or about 90 per cent. I am afraid I am wearying the House, but there is such a variety of important subjects that I have to reply to, that I shall have to carry on. The hon. member for Newlands (Mr. Stuttaford), discussing the budget, raised a rather important point. He mentioned a certain drop in the income of the people as disclosed by the income tax returns. I have made certain inquiries, and I find that it is very difficult to ascertain on what basis the hon. member made his calculations, because an examination of the actual figures does not disclose the results that the hon. member alleges <span class="col_3261-3262" refersTo="page_0225"/>are to be obtained from a perusal of the report referrd to by him. It is true that the reports show an aggregate taxable income of &#x00A3;85,800,000 for 1925, and of &#x00A3;80,794,000 for 1926, but the hon. member must remember that the report only deals with taxable incomes which are the basis of actual assessments. The report does not deal with incomes which have not been assessed by the Commissioner. If the allowances made by way of abatements relieve the taxpayer from payment of any tax, his taxable income does not appear upon the statistics. The hon. member will find that although he has taken out the incomes of people under &#x00A3;400 who are not subject to the tax, he has failed to make allowance for the people who have been eliminated, people with incomes of &#x00A3;400, &#x00A3;500 or &#x00A3;600 who get abatements as the result of children, insurance moneys, etc. The hon. member will find that there has been a steady increase in all classes averaging about eight per cent. If the hon. member makes provision for these adjustments he will find the results obtained by him are not quite correct. If the correct basis be accepted, the adjustment required to put the figures for the two years on a comparable basis, is not &#x00A3;3,700,000, but somewhere in the neighbourhood of &#x00A3;10,000,000, and it can be estimated that there has been an increase of between &#x00A3;4,000,000 and &#x00A3;5,000,000. I think it can reasonably be assumed that there has been a considerable increase in the incomes of between &#x00A3;300 and &#x00A3;400. The hon. member for Cape Town (Gardens) (Mr. Coulter) again raised the question of double taxation, double death duties, etc. I am sorry to inform the House that we have not made much progress in regard to the solution of this question. As hon. members know, the main difficulty is in connection with the taxation of holders of shares in companies in this country, and who are resident in England. A new prospect is now being opened up, however, as the result of certain proposals and recommendations put forward to the financial committee of the League of Nations, and it is just possible that as a result of the consideration of these proposals some way may be found out of the difficulty. The question of shipping was also referred to by the hon. member. We have really no difficulty now in regard to the taxation of shipping. That matter was satisfactorily adjusted between the commissioner of Inland Revenue and the various interests concerned. The hon. member also dealt with the question of the re-opening of assessments as the result of new interpretations placed by the commissioner on the Act. I am informed that that is not the practice. It is only when new facts come to light which show that the previous assessment was wrong and the information is not at hand, that assessments are re-opened. It is not the policy of the commissioner at all, and if there is any reason for complaint, I hope the hon. member will refer the matter to the commissioner and he will endeavour to have it adjusted. We are all very anxious that the taxpayer shall not be needlessly harassed, and we are only out to see that the Government gets its dues. In regard to the question of old age pensions, I am very glad to see that on the whole the proposals of the Government have been well received on all sides of the House. It is true that the question of the exclusion of natives from the scheme has been referred to. Hon. members will see the views which were expressed by the commission on this point. It was clear that the inclusion of natives in such a scheme was, for various reasons, impracticable, but the natives that is, aged and indigent natives, will continue to be assisted from the funds of the provincial councils (the poor relief funds), and as a result of the relief given to a number of people formerly supported by them, I think they will have funds available to provide assistance on a very much more liberal and generous scale, and we hope they will do so. The provinces will be relieved of considerable expenditure which they have had in the past in regard to whites and coloureds and I think it is only right to expect that, in these circumstances, they will be able to do very much more for aged and indigent natives.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>The natives are also taxpayers.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I know the sympathy my hon. friend has with this particular class of people, but I do not think that even he, as a responsible and practical member, will seriously bring forward a suggestion to include natives in this scheme. What is the good of arguing in that way? I just want to refer to one more question in regard to the general policy, and that is the important matter which was raised by the hon. member for Hospital (Mr. Papenfus), namely a reduction on power paraffin used for mechanical traction for agricultural purposes. That is a matter which has been represented to the Board of Trade and it has been gone into. The Board and the Government are wholly sympathetic, but unfortunately, it has not been possible to devise any scheme to discriminate between power paraffin used for agriculture and ordinary paraffin used for lighting purposes. If we can devise some means of protecting the revenues, of discrimination, then the matter will be reconsidered, and we will see if it is possible to help the farming community by giving the reduction pleaded for. But at present the only possible way would be to reduce all the duties, and what would mean a surrender of revenue to the extent of &#x00A3;40,000 to &#x00A3;50,000 which the state of the revenue does not permit. Probably by devising certain safeguards for the protection of the customs, perhaps by laying down the minimum of specific gravity, it may be possible to distinguish and in that case we will consider the matter.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Reduction of petrol?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No, I do not think we can consider that at this point.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_budget">
+
+<heading>RAILWAYS AND HARBOURS BUDGET.</heading>
+
+<p>Now I come to the Railway Budget. I think very ungenerous references have been made <span class="col_3263-3264" refersTo="page_0226"/>in regard to the absence of my colleague, the Minister of Railways. Hon. members know very well that, as the Prime Minister informed the House last night, the Minister concerned is engaged on very important negotiations with our Portuguese neighbour in regard to very important railway matters and matters of great economic importance to the Union as a whole. I must, necessarily, in the circumstances, be a very poor substitute, but I will endeavour to reply to the various points which have been raised. Here again, in criticising the general railway position, the right hon. the member for Standerton (Gen. Smuts) has again come forward with a general bald statement that there is something wrong with the railways. In proceeding to discuss the question he has given only two reasons for the conclusion at which he has arrived. The first one is the very important one to hon. members opposite of branch line statistics which are no longer available for publication. That is a matter which has been thrashed out in this House on many occasions, and I do not think any good purpose will be served by pursuing the subject; let it be sufficient to say that the position is not as the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) wants to make out &#x2014;that of a big business department unable to carry on its business properly because it is not in possession of essential statistics. The hon. member knows that is not so. The Railway Department is in possession of the statistics which are necessary for it to carry on its business. Hon. members opposite are complaining they are not getting certain information with regard to branch lines. For what purposes they want it I do not know, unless it is as indicated by the Prime Minister last night, that hon. members could from time to time attack the Government or criticise the policy which had, as the result, the building of a number of branch lines.</p>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>Surely Parliament is entitled to them as Ministers are?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>For what purpose? They will serve no useful purpose in any case; they may serve some purpose, but I do not think the expenditure is justified for the results which will be obtained.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>Why did you press for them when you were in opposition?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The other reason given by the right hon. gentleman was the civilized labour policy of the Government, and according to the Auditor-General, the present system was wrong and indefensible. We know we do not see eye to eye with the hon. member, with regard to the chance to be given to the white man to be employed on the railways. It is not incompatible with business principles for the white people of this country, where the Government encourages the white employers also to have a chance in one of the principal Government undertakings. The hon. member for Yeoville (Mr. Duncan) does not agree with the policy, and says: &#x201C;These people are not required; why employ them on the railway?&#x201D; The hon. member is quite wrong there. I asked him: &#x201C;What would be the position if these people were not there, and who would replace them?&#x201D; The hon. member did not reply. I do not think the hon. member would agree with the hon. member for Cape Town (Central) (Mr. Jagger) that they should be replaced by non-Europeans.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>The increase is not justified by the traffic.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The position is as the Minister has informed the House on many occasions. They are employed on an economic basis, and if they left they would have to be replaced. If that is so, what is the good eventually of asking for statistics? Has the demand come from the other side of the House, what is the cost of employing non-Europeans? It is part of the general railway policy that these people should have a part in that system, and that they should be employed.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>We want to know whether they are economically employed, just as you say.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Why do you not want to know whether the natives are economically employed? I, with the hon. gentleman, would far rather see these (white) people have a better chance in life if they could find a better occupation in farming, mining and industries. But while we are studying the question of giving a chance to these people in mining and agriculture, you have them with you, and if you do not find employment for them they are starving, as they were when this Government took office. As I pointed out, and it has not been seriously challenged, something must be done seriously to open up employment for them, not as a relief measure, but as part of our general system in our country. Dealing with the general financial position, the hon. member for Cape Town (Harbour) also made one of those loose statements about which I have been complaining. He said that the railway finances were in a parlous condition. What are the grounds of the hon. member for making that statement? The hon. member for Yeoville, fair-minded as he usually is in these matters, pointed out that if you consider only these two facts, that (railway rates were reduced to the extent of &#x00A3;154,000, and that we are contributing a quarter of a million to the reduction of interest-bearing capital, what becomes of the suggestion of the hon. member for Cape Town (Harbour) that our railways are in a parlous condition&#x2014;because there is a contemplated deficit of &#x00A3;107,000? Although the legislation of the country does not compel the Minister to contribute this amount to interest-bearing capital, it is sound policy to do so and to reduce rates; yet the hon. gentleman says the finances are in a parlous condition.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>So they are.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from><span class="col_3265-3266" refersTo="page_0227"/>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Let us examine the position further. The railways since 1923-&#x2019;24, since the present Government took office, have reduced rates involving an annual sacrifice of &#x00A3;1,600,000.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>Against &#x00A3;4,000,000.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>They increased the contribution to the Renewals Fund by &#x00A3;238,000, improved the position of the servants as the result of the new Superannuation Act&#x2014;to the extent of &#x00A3;240,000&#x2014;taken steps to put the old pension funds on a sound financial basis&#x2014;&#x00A3;188,000. Do hon. members object to these contributions? We have improved the hours of duty of certain grades of the staff, which meant &#x00A3;240,000. Hon. members opposite will probably object, but the question is will they be prepared to reverse this policy if they come into power? These payments during the four years total &#x00A3;2,507,000.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>What about your increased income?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am now dealing with the question of the &#x201C;parlous condition&#x201D; of the railway finances, and the hon. member speaks of an increased income.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>You spent it, and all your surpluses.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>During four years we built up a nice little nest egg, totalling &#x00A3;1,000,000, as practically a sinking fund for the railways. That money would have been available for the reduction of rates. Does the hon. member object to that? Here the hon. member for Yeoville (Mr. Duncan) does not agree&#x2014;he takes up a perfectly fair position. Although I do not think hon. members are justified in saying that our railway finances are in a parlous position, still I think that with the changes which are coming about in regard to methods of transportation, we cannot be indifferent to the position the system might occupy in the future. It has been stated that if the Government were prepared to sell the railways to a company, they would get back the amount they have spent on their construction. Still, with the position indicated by me, I think the time has arrived&#x2014;and it has been my advice to my colleague&#x2014;that we should face the position and should not only increase the contribution of &#x00A3;250,000, but should regularize it by the introduction of the necessary legislation. We have a nice little nest egg of &#x00A3;1,000,000, and it will only be sound and cautious finance if we decide that the time has come to provide for the contingency when we may wake up and find that, owing to changes in transportation, our railways are not worth the capital amount expended on them. I want to deal with certain criticisms in regard to various matters concerning the railways. The first is a point raised by the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) in regard to the unfavourable comparison of our operating ratios with those of other countries. The hon. member loses sight of the great difference in the various railway systems compared by him, and for that reason his conclusions are altogether valueless. He has mentioned the Argentine and Australia</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>And Rhodesia.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Take Rhodesia, He might just as well have compared the working results of our railways at a time when the New Cape Central line was run as a private undertaking. The Rhodesian railways are privately owned, and are not subject to the same obligations as we are. They can employ black labour.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>They don&#x2019;t.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>To a large extent, but to a greater extent than we do. If the hon. member takes the Rhodesian railways the comparison would have been very similar to that of the New Cape Central, which was operating at a cheaper rate than our railways, but the conditions on that line were not satisfactory. Again, the conditions in the Argentine are altogether different from ours. The only possible fair comparison was that made by the Minister when he dealt with the matter&#x2014;a comparison with the Canadian National, Queensland and Commonwealth railways. The hon. member compared railway rates and fares, but he knows that in Australia the fares vary in the different states.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I mentioned the Trans-Australian line. The Minister&#x2019;s statement is not a fair one.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am sorry I have not the actual statement made by the hon. member, but he dealt with the Australian railways. The unfairness of this criticism is that he has picked out here and there where you find an unfavourable comparison, but you did not hear anything when the comparisons were favourable to us. On the whole, and we can only regard it in this way, our railway tariffs compare favourably with that of any other country.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>Not for long-distance tariff.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The hon. member also dealt with the continuance of the Perishable Products Export Control Board. He knows that it was not contemplated that the board should deal only with refrigerated space on steamers. There are various other matters connected with fruit to which the board has to give its attention, and the value of its work is fully appreciated by the fruitgrowers.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Don&#x2019;t you think the board is rather expensive?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am not going to argue that point, as I am not in a position at the moment to say whether it is expensive or not. Then the hon. member dealt with the question of road motor services. That <span class="col_3267-3268" refersTo="page_0228"/>is admittedly a very important question, and we agree with the right hon. member for Standerton (Gen. Smuts) that it is a matter which will have to be faced. Unfortunately the hon. member did not give us much help. I am afraid that he has been very careful to refrain from doing so, so that if we should come forward with proposals he will be able to say they are quite wrong. The Railway Department does not want a monopoly, but it does want fair competition. The hon. member for Standerton said we must investigate the matter. However, we have all the information from other countries, most of which have already introduced legislation dealing with the subject, and I think we shall probably have to take steps to obtain parliamentary authority to compel our competitors to be subject to all the liabilities and obligations of public carriers &#x2014;that is to say they will not be allowed to choose the best paying traffic, but to compete fairly with the State railways. There is no obligation on them to carry non-paying traffic.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>They pay rates and taxes.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The hon. member said the cost should be transferred to capital account. The hon. member for Lady-brand (Mr. Swart) dealt very effectively with that point, and showed that it would be very undesirable to take the action suggested. We are still largely in the experimental stage, and it would be altogether impossible to institute new motor services if we first had to obtain parliamentary authority.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>You go to districts where people are already running motor bus services.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>We must provide these services where they are necessary for the opening up of the country, but we should not unnecessarily butt in where there are people already doing the work, unless, of course, it is to protect the traffic of the railways, but not for the sake of practically grasping anything we can get hold of, and going to places where private enterprize is prepared to do the work. But I do not think that is the position at present. The hon. member dealt with the question of the desirability of obtaining parliamentary approval for the construction of any major harbour works. The money, of course, is voted in Parliament, and it is difficult, as the hon. member suggests, in every case to have a special report by the Railway Board before any work of this nature is started. Broadly speaking, the Railway Administration is prepared, and has given an undertaking to the Select Committee on Public Accounts, that in future, constructions of major works of this nature a report will be prepared, although there is no legal liability to do so. I do not think the hon. member is quite right when he said it was not necessary to come to Parliament for a major harbour works, but for a small railway, Parliament had to pass a Bill. The matter could be dealt with by the railway administration as a departmental siding for which no parliamentary authority would be required. I was rather surprised to hear the hon. member advocate that we should introduce legislation to make the accounts of the Electricity Commission subject to audit by the Auditor-General. I do not know whether my hon. friend the member for Cape Town (Central) (Mr. Jagger), agrees with him. I rather think my hon. friend thinks the more the Government keeps out of these quasi business undertakings, the better it will be. The point was fully considered by the House when the Electricity Supply Bill was before the House, and to my mind, for very good and sufficient reason, the House did not adopt the suggestion now made by the hon. member. Here we have to do with an undertaking which comes into competition with other undertakings of a similar nature, and it is not always desirable that certain information should become available to the public in the way it would be if the accounts were subject to audit by the Auditor-General. Before dealing with the various criticisms of the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl), in regard to this matter, I want to refer to the statement by the hon. member for Cape Town (Central) that the number of employees in the railway service has increased by 16,831, or 22 per cent, since April, 1924. I am informed that at the end of March, 1924, the total staff of the railway and harbour administration was 86,181, compared with a total of 94,945 at the end of February, 1928. That is an increase of 8,764, approximately 10 per cent., and not 22 per cent. I understand this is the actual position. In connection with this it must be remembered that during the regime of my hon. friend the member for Cape Town (Central) as Minister of Railways, the staff of the administration was reduced from 93,664 to 75,088 in 15 months. That being so, it is obvious that as a result of increased work on the railways, there has been necessity for increasing the staff to a certain extent, but certainly not to the extent indicated by the hon. member. The hon. member for Cape Town (Harbour), in dealing with staff matters, mentioned the case of the coloured employees. He stated that although we were looking after the interests of the European employees, the interests of the coloured employees had been neglected, and that they were classed with Indians and natives.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I did not say that.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Exclusive of those holding graded positions, the coloured employees numbered 5,812, and at the end of February, 1928, had increased to 6,946, nearly 20 per cent. Although, as a result of our policy, the tendency is for the number of natives to be reduced, that is not the case with coloured employees.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>You did not give us those figures.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>The hon. member for Cape Town (Harbour) made the statement that the number of European employees <span class="col_3269-3270" refersTo="page_0229"/>has increased by 15,500 in three years, while others had decreased by 7,000. The actual position with Europeans, is that in June, 1924, they numbered 39,892, and in February, 1928, 56,694, representing an increase of 16,802. The position as regards non-Europeans is that in June, 1924, they numbered 47,725, and in February, 1928, 38,251, representing a decrease of 9,474. The increase in the European staff is accounted for by the increase in the normal graded staff as distinct from labourers, as the following figures reveal: In June, 1924, the graded staff numbered 34,591; and in February, 1928, 41,578, representing an increase of approximately 7,000. The hon. member will of course realize that there are various factors which have contributed to this increase. You have had increased traffic, and the introduction of the probationer scheme and such matters which have affected the number. Perhaps it will be interesting if I give the House as justifying to a certain extent the increases in the staff the figures for train mileage. These show that from March, 1924, there has been an increase of almost 26 per cent., notwithstanding the reductions in train mileage as a result of the electrification in Natal, and the use of engines having greater haulage capacity. Of course, you have increased tonnage. In January, 1928, it had increased by nine per cent. The number of passengers carried had increased by 31 per cent., and the total earnings by 19 per cent., while track mileage worked by the administration had increased 12 per cent. Then, of course, there is the development which has taken place in regard to the activities of the department in reference of road motor services, etc. All these factors should be set, therefore, against the increase in the staff, as I have already indicated, of barely 10 per cent. Then the hon. member made the statement that the salaries of employees on the railways have increased to &#x00A3;15,000,000, or 50 per cent, of the total expenditure, that in 1926-&#x2019;27 the proportion was 49.57 per cent., and in 1923-&#x2019;24 only 40.27 per cent. Well, here the information which the hon. members had is apparently altogether inaccurate. The salaries and wages for 1923-24 were 46.13 per cent., and not 40.27 per cent. That latter figure was for 1913-&#x038A;4. The hon. member has taken the figure for 1913-'14 and given that as the figure for 1923-&#x2019;24. There is this difference of between five and six per cent, on the total of &#x00A3;15,000,000.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>That is rather serious.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I have pointed out the justification for this increase in the various activities of the department. I am pointing out that the percentage which the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) gave was not correct. Then, of course, in this connection hon. members will remember the improvement in the conditions of service which the staff obtained as the result of the introduction of the necessary changes so far as hours of duty are concerned. Then the hon. member asked for information about the cost of the addition of 6d. a day, and 3d. to the civilized labourers. I am informed that the cost will be about &#x00A3;28,000 per annum. I know the hon. member for Cape Town (Harbour) gets another figure, but the information I have is that the contemplated cost will be about &#x00A3;28,000. Then the hon. member rather severaly criticized the decrease of &#x00A3;137,000 on the maintenance of the permanent way. The hon. member went so far as to suggest that that was probably responsible for the accidents which we have had of late.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I deny that.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>When I innocently asked him whether that was what he meant, he became very offensive, altogether unnecessarily.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>You are making the suggestion again now.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No. I said I could infer that from the arguments adduced by the hon. member, but I was not going to be unfair to him, and I courteously asked him whether that was his suggestion.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>You made the same suggestion in the previous debate.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No, I did not. I challenge the hon. member to prove that statement.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>Yes, on the Part Appropriation Bill.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am informed that the reduction under the heading of permanent way, salaries and wages, is entirely due to anticipated economies in the method of patrolling and attending to the permanent way, principally on the branch lines. In regard to the saving under the heading of rails, the estimate for 1927-&#x2019;28 was too liberal, and the provision made for 1928-&#x2019;29 conforms more closely to the actual needs of the situation. Besides that, as the hon. member probably knows, the price of rails has come down. In regard to the alleged refusal of the engineer to give an unqualified certificate in reference to the state of the permanent way, the hon. member for Vrededorp (Dr. Visser) has very fully dealt with that matter. Let me remind the hon. member that that qualification was only in regard to the branch lines.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>He does not say that.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I do not think there is any suggestion that, as far as the main lines of the Administration are concerned, they are not kept in proper order. I think, as proof of that, we can make the definite statement that certainly none of the accidents which this country has been unfortunate enough to experience during the last few years, have been in any way traceable to any defects in the permanent way. With regard to the criticism that information is not available as far as concerns the expenditure on the permanent way, hon. members will find <span class="col_3271-3272" refersTo="page_0230"/>that that information is given by the Auditor-General in his report for 1926-&#x2019;27 and similar accounts are available for other years. I notice that the fact was mentioned that in other countries, for instance, in England, where the railways are privately owned, there is a legal obligation upon these companies to publish from time to time the quantities of materials put into the track, but, of course, the position is very different in the case of a Government non-dividend paying concern like our own railways, where there would be no inducement at all not to make adequate provision for this service.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>That is not the only reason.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>As far as the suggestion of the hon. member for Yeoville (Mr. Duncan) is concerned, that the department should consider the advisability of the re-introduction of ton mileage statistics, I am informed that that is now being considered, and it will probably be done. I listened with very great interest to the general idea of the hon. member for Port Elizabeth (South) (Sir William Macintosh) with regard to the position of our railways, and the fact that there is no reason to consider the position as far as the railways are concerned in the matter of capital expenditure as unsatisfactory. He has brought forward again the question of the local requirements of Port Elizabeth, principally in regard to harbour construction, cold storage and the Bellevue bank. I do not want to say anything here which will lay down a hard and fast decision of the Administration in regard to this matter. I can only say that I think the hon. member will find that the fact that this request in regard to these works has not yet been acceded to is not due to any lack of sympathy on the part of the Minister concerned and the Railway Board, or to a denial of the necessity for these developments, but that it is purely financial considerations that have interfered in connection with the carrying out of these works so far. The hon. member will realize that demands are made from various quarters for capital expenditure and we simply must go slow. It has only been due to the fact that the Minister and the Board have not been prepared to face the very heavy financial responsibility that no undertaking has been given, and that has given ground to the suggestion that apparently there is a lack of sympathy for the requirements of Port Elizabeth. I need not enter into the figures quoted by the hon. member for Uitenhage (Mr. Bates) as to the position Port Elizabeth occupies as the premier revenue producing port. I am informed that a comparison shows that, exclusive of interest on capital and depreciation, the hon. member will find in both cases that Port Elizabeth only occupies third place, but I do not advance that as a reason for denying to Port Elizabeth its just aspirations. The hon. member has referred to various railway matters, most of which I have already dealt with. He has also criticized the employment of a number of dining car inspectors. He asks what are they required for. I want to remind him of the conditions which obtained some time ago, when these appointments were made. There were very unsatisfactory conditions on the dining cars and certain irregularities which necessitated these appointments, and I understand it is still necessary to have people employed in that capacity. He has dealt with the question of the collection and delivery of passengers&#x2019; luggage at Cape Town and elsewhere. I am making inquiries to find out whether there is any reason for the complaint made by the hon. member in regard to the neglect of officers on trains to make the necessary inquiries of passengers. As regards workshop organization, my colleague has stated that is a matter which is now engaging the attention of the general manager in consultation with the workshops committee to re-organize the whole matter of workshop work and repairs. The hon. member for Salt River (Mr. Snow) has raised several important matters. He has certain complaints in regard to the Administration&#x2019;s financial arrangements in regard to the employment of working capital and the question of borrowing at a certain rate of interest and then having the funds invested by the Public Debt Commissioners at a lower rate of interest. The hon. member knows that nearly all these questions are now forming the subject of an inquiry by the select committee, and an opportunity will probably be given later on to debate them further if necessary. The hon. member mentioned the necessity for bringing out the report of the committee, which was appointed some time ago to go into the question of the inadequacy or otherwise of the contributions to the Renewals Fund and the basis of the contributions. I am informed the report is in hand and is being printed and will be available shortly.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Will it be laid on the Table?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I hope so. I see no reason why it should not. It will be available. It is a very important matter on which the policy of Parliament will have to be decided.</p>
+
+</speech>
+
+<speech by="#snow">
+
+<from>Mr. <person refersTo="hansard_za">SNOW</person>:</from>
+
+<p>What about the civilized labour?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I am afraid I cannot carry the question of emoluments for civilized labour any further. The cost of this benefit I have already given. I know the hon. member feels very strongly on the whole question, but, unfortunately, financial considerations at present do not permit of our doing more than we are doing. Then I think there only remain the points raised by the hon. member for East London in regard to the turning basin and the case of the particular railway servant who, according to the opinion of the hon. member, was very harshly dealt with by the Administration. In regard to the turning basin, he took my colleague to task for having stated there was no undertaking given by the Union-Castle Company that, if the work was done, the mail steamers would come into the harbour. I do not want to pursue that <span class="col_3273-3274" refersTo="page_0231"/>controversy. Sufficient here to say that here again it is a question of finance.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>A question of saving.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No, a question of finance. These and many other facilities are probably very necessary. A very good case can be made out for them, but there are other very pressing needs of the Administration and unfortunately it is not possible for the Government annually to provide sufficient capital funds to meet all these requirements.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>We proved it would cost you nothing.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>There will be the initial capital cost. But the hon. member can raise the question again. I am afraid I will have to break off here. I think hon. members will agree that any remaining points can very well be dealt with in committee. I think, in conclusion, I can only say that it has been stated during the debate, the charge has been made in connection with these budget proposals, that I had an eye on the election. I have been attacked for that. Let me tell my hon. friends that they are welcome to any political capital they can get out of it. After all, there are differences of opinion in this House. We heard last night that the hon. members are unwilling to accept a party decision in select committee, a party decision in this House, as to what constitutes business principles. If that is so, and it is so, then the only alternative is eventually to appeal to Caesar, and as far as this budget is concerned, as far as my financial administration is concerned, as far as the results of that policy are concerned, I am quite prepared, if necessary, to appeal to Caesar, if hon. members are not prepared to accept the verdict of this House as at present constituted.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>When?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>As far as this budget is concerned, I confidently ask the House to accept it by approving of the motion I have moved.</p>
+
+<p>Motion put and agreed to; House to go into committee now.</p>
+
+<p>House In Committee:</p>
+
+<p><i>Main Estimates [U.G.</i> 1&#x2014;&#x2019;28].</p>
+
+<p>Vote 1, &#x201C;H.E. the Governor-General,&#x201D; &#x00A3;24,793, put and agreed to.</p>
+
+<p>On the motion of the Minister of Finance, it was agreed to report progress and ask leave to sit again.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported; House to resume in committee to-morrow.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>Gen. <person refersTo="hansard_za">SMUTS</person>:</from>
+
+<p>I do not know whether the Minister of Finance is exhausted, but the House is, after the great effort he has made this afternoon. I would ask the Minister of Justice to consider the feelings of the House and let us adjourn. We are not sitting to-night, and we should not start with this most arduous Bill at this stage.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Very well; I will agree to the adjournment, and may I express the hope that the House will make so much more progress to-morrow.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>You are an optimist.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1928-04-24T17:07:00">5.7 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

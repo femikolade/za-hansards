@@ -1,0 +1,2519 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY 12 FEBRUARY 1924'
+layout: debate
+year: 1924
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 12th FEBRUARY, 1924.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1924-02-12T14:22:00">2.22 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#crown_lands">
+
+<heading>CROWN LANDS.<br/>KROONGRONDEN.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>laid upon the Table&#x2014;</p>
+
+<block name="quote">Papers relating to proposed grants, etc., of Crown Lands.</block>
+
+<p>Papers referred to the Select Committee on Crown Lands.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#finance_accounts_etc_natal">
+
+<heading>FINANCE ACCOUNTS, ETC., NATAL.<br/>FINANCIEREKENINGEN, ENZ., NATAL.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Finance)</person>:</from>
+
+<p>laid upon the Table&#x2014;</p>
+
+<block name="quote">Finance Accounts (including Trust and Village Water Supply Accounts), Teachers&#x2019; Pension Fund Accounts and Appropriation Accounts of the Province of Natal for the period 1st April, 1922, to 31st March, 1923, with the Provincial Auditor&#x2019;s Reports thereon. [N.P. 3&#x2014;&#x2019;23.]</block>
+
+<p>Documents referred to the Select Committee on Public Accounts.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.<br/>VRAGEN.</heading>
+
+<oralStatements>
+
+<heading>Estates Of Farmers.<br/>Boedels Van Boeren.</heading>
+
+<question by="#hunt" to="#minister_of_justice">
+
+<num>I.</num>
+
+<from>Maj. HUNT</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) How many estates of farmers were assigned and how many sequestrated in each Province of the Union during 1923 under the provisions of Act No. 32 of 1914; and</li>
+
+<li>(2) what were the total liabilities and total assets, and what dividends were paid in each Province?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#hunt">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Cape Province: Assigned 12, sequestrated 279. Transvaal: Assigned 5, sequestrated 153. Natal: Assigned 2, sequestrated 36. Orange Free State: Assigned 11, sequestrated 196.</li>
+
+<li>(2) In the Cape Province the schedules showed liabilities £897,733, and assets £532,428. In 93 estates which have so far been liquidated, the total liabilities amounted to £193,310 and the dividends paid to £88,998. In the Transvaal Province, in 136 estates the total liabilities, according to schedule, amounted to £283,200 and the total assets to £199,822. As regards the remaining 22 estates, the information under these two heads is not yet available. In 64 estates, so far wound up, £32,044 has been paid out in dividends. In the Natal Province the schedules showed liabilities £82,748 and assets £52,494. £6,685 has been paid in dividends in 11 accounts, which have so far been confirmed. Information is not yet available concerning the remaining 27 estates. In the Orange Free State the total liabilities according to schedules, amounted to £334,564 and the total assets to £199,248. In the 92 accounts, so far confirmed, £75,634 has been paid in dividends. The information as regards the remaining 115 estates is not yet available.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Retrenchments And Appointments On Railways.<br/>Afdankingen En Aanstellingen Bij Spoor Wegen.</heading>
+
+<question by="#hunt" to="#minister_of_railways_and_harbours">
+
+<num>II.</num>
+
+<from>Maj. HUNT</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many (<i>a</i>) married men and (<i>b</i>) single men were retrenched from the clerical staff of the South African Railways and Harbours during 1923;</li>
+
+<li>(2) how many girls have been employed (<i>a</i>) to fill vacancies thus created or (<i>b</i>) otherwise; and</li>
+
+<li>(3) what has been the net saving thereby?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#hunt">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (<i>a</i>) 60. (<i>b</i>) 18.</li>
+
+<li><span class="col_178" refersTo="page_0258"/>(2) (<i>a</i>) Nil. (<i>b</i>) 18. Of the latter number, 16 were to replace wastages in female grades, 1 as telephonist in a new country exchange and 1 shorthand-typist at Windhoek to complete the establishment. During the same period there were 37 wastages among the female staff, as against 18 appointments.</li>
+
+<li>(3) Falls away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Joint Matriculation Board Examination.<br/>Gezamenlike Matrikulatieraad Eksamen.</heading>
+
+<question by="#brown" to="#minister_of_education">
+
+<num>III.</num>
+
+<from>Mr. BROWN</from>
+
+<p>asked the Minister of Education:</p>
+
+<ol>
+
+<li>(1) How many candidates presented themselves for examination at the last December examination of the Joint Matriculation Board;</li>
+
+<li>(2) how many of such candidates succeeded in passing the examination;</li>
+
+<li>(3) whether the Board, after full consideration, came to the conclusion that the examination papers in certain subjects were too long and too difficult;</li>
+
+<li>(4) if so, whether any allowance was made to candidates for such errors on the part of the examiners;</li>
+
+<li>(5) if any such allowance were made, of what nature was it;</li>
+
+<li>(6) whether a protest was made to the Board to the effect that certain questions in one of the papers were made obligatory which by regulation should have been optional;</li>
+
+<li>(7) whether the Board did not recognize the force of such protest and take action in the matter; and, if so.</li>
+
+<li>(8) what was the nature of such action?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_education" to="#brown">
+
+<from>The MINISTER OF EDUCATION:</from>
+
+<p>As I have no control over the administration of examinations by the Joint Matriculation Board, I suggest that the hon. member apply to the Board itself for the information which he desires.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Report Of Miners&#x2019; Phthisis Board.<br/>Verslag Van Mijnteringsraad.</heading>
+
+<question by="#nixon" to="#minister_of_mines_and_industries">
+
+<num>IV.</num>
+
+<from>Mr. NIXON</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Why the report of the Miners&#x2019; Phthisis Board, together with that of the Medical Bureau, is published eighteen months in arrear;</li>
+
+<li>(2) in view of the report of the Auditor-General upon the accounts of the Miners&#x2019; Phthisis Board for the year ended 31st March, 1923, being already in members&#x2019; hands, whether the Minister will hasten the translation and printing of the Board&#x2019;s report for 1922-&#x2019;23, in order that the latest information available should be in members&#x2019; hands when the amendments to the Miners&#x2019; Phthisis Act is under consideration?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#nixon">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1) The report of the Miners&#x2019; Phthisis Board covers the year ended 31st March, and it is published simultaneously with the Miners&#x2019; Phthisis Medical Bureau&#x2019;s report, which covers the year ended 31st July. The subject matter of both reports is of a highly complicated nature, and much time is necessarily absorbed in compiling the statistics and results.</li>
+
+<li>(2) The report of the Miners&#x2019; Phthisis Board for the year ended 31st March, 1923, is already in the printer&#x2019;s hands, and I hope to be able to lay it upon the Table of the House at an early date.</li>
+
+</ol>
+
+</answer>
+
+<question by="#roos" to="#minister_of_mines_and_industries">
+
+<num>V.</num>
+
+<from>Mr. ROOS</from>
+
+<p>Question withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Removal Of Nagana Research Laboratory.<br/>Verplaatsing Van Nagana Onderzoek Laboratorium.</heading>
+
+<question by="#nicholls" to="#minister_of_agriculture">
+
+<num>VI.</num>
+
+<from>Mr. NICHOLLS</from>
+
+<p>asked the Minister of Agriculture whether it is the intention of the Government to remove the Veterinary Nagana Research investigation at Ntanbanana to Pretoria, where no tsetse fly exists, or to allow the Germans who are experimenting with the Bayer remedy to complete their experiments on the spot, as they desire?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#nicholls">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>There is no intention to close down the Nagana Research Laboratory, Empangeni, before the experiments with Bayer 205 are completed and final results are obtained.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Assessment Of Death Duties.<br/>Aanslag Van Suksessierechten.</heading>
+
+<question by="#van_zyl" to="#minister_of_finance">
+
+<num>VII.</num>
+
+<from>Maj. VAN ZYL</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been drawn to the grave inconvenience caused to the public in the Cape Province by reason of the great delay in obtaining a final and definite assessment of death duties under Act No. 29 of 1922;</li>
+
+<li>(2) whether he knows that by reason of the control vested in the Commissioner by section 19 of that Act, questions of vesting, usufruct and <i>fideicommissum</i> are adjudicated upon by him, and that the Master, who is practised in the administration of estates and matters connected with succession duty, is constantly in disagreement with the Commissioner on these points;</li>
+
+<li>(3) whether he knows that under the present form of administration matters in which there is a disagreement between the Master and the Commissioner in Cape Town are referred to Pretoria for decision, and that months elapse before such decisions are obtained;</li>
+
+<li>(4) whether he knows that as executors are unable to obtain a final ruling as to the amount of duty payable they are prevented from making a distribution among heirs, who are thus kept out of their dues for many months; and</li>
+
+<li>(5) whether he will enquire into the method of administration and take such steps as will avoid the delays in assessment?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_zyl">
+
+<from><span class="col_179" refersTo="page_0259"/>The MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Finance):</from>
+
+<p>I am not aware of any general delay or inconvenience which can be attributed to the administration of the Death Duties Act. I am aware that there has been delay in final settlement of certain cases in the Cape area, owing to the necessity of obtaining decisions upon points of difficulty caused by the technical nature of the subject. One such question of fundamental importance caused delay in several large estates, owing to a difference of opinion between the Master of the Supreme Court and the Commissioner, as to the correct interpretation of the Act. It was necessary to refer the matter to the law advisers, who agreed with the Commissioner&#x2019;s interpretation. The control vested in the Commissioner to which the hon. member refers was introduced to secure uniformity of administration which would otherwise have varied with the opinion of the Master of each province. The instance mentioned above, indicates the necessity of such control and the diversity of practice which would have arisen without it. In order to secure the desired uniformity stricter control was deemed advisable during the early months of the administration, but from the beginning of the present calendar year the scrutiny of accounts by the Commissioner has been relaxed, and the Masters have been advised that they will be expected to assume their full statutory responsibility for the determination of dutiable amounts upon which duty is to be assessed, and for certifying that the succession detailed by the executor accord in each case with the dispositions of the will. When this system is in full working order and practitioners gain a wider experience in the requirements of the Act, it is considered that there should be no reason for delay.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Agreement With Imperial Cold Storage Company.<br/>Overeenkomst Met Imperiale Koelkamer Maatschappij.</heading>
+
+<question by="#hunt" to="#prime_minister">
+
+<num>VIII.</num>
+
+<from>Maj. HUNT</from>
+
+<p>asked the Prime Minister whether he will lay upon the Table of this House&#x2014;</p>
+
+<ol>
+
+<li>(<i>a</i>) A copy of the agreement entered into between the Hon. the Administrator of South-West Africa and the Imperial Cold Storage Company on or about the 21st October, 1922; and</li>
+
+<li>(<i>b</i>) a copy of any subsequent agreement which may have been entered into with the Imperial Cold Storage Company or a subsidiary company thereof with regard to the subject-matter of the main agreement; or</li>
+
+<li>(<i>c</i>) any modification or suspension thereof?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#hunt">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(<i>a</i>) A copy of the agreement entered into between the hon. the Administrator of South-West Africa and the Imperial Cold Storage Company, dated 21st October, 1922, will be laid upon the Table of this House.</li>
+
+<li>(<i>b</i>) No subsequent agreement has been entered into either with the Imperial Cold Storage Company or with a subsidiary company thereof.</li>
+
+<li>(<i>c</i>) The exclusive right of the Imperial Cold Storage Company to export live stock overseas, in terms of section (8) of the agreement, was suspended for a year as from the 1st April, 1923.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Bounty For Export Of Meat.<br/>Premie Voor Uitvoer Van Vlees.</heading>
+
+<question by="#boydell" to="#minister_of_finance">
+
+<num>IX.</num>
+
+<from>Mr. BOYDELL</from>
+
+<p>asked the Minister of Finance&#x2014;</p>
+
+<ol>
+
+<li>(1) What amounts, if any, have been paid as bounty for the export of meat under the Meat Bounties Act, 1923; and</li>
+
+<li>(2) what are the names of the persons, firm or firms that have received such bounty?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#boydell">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol>
+
+<li>(1) £1,225 11s. 6d.</li>
+
+<li>(2) The whole amount was paid to the Farmers&#x2019; Co-operative Meat Industries, Ltd., Durban.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Long Service Increments For-Non-Europeans (S.A.R. &amp; H.).<br/>Lange Dienst Verhogingen Voor Nietblanken (Z.A.S. &amp; H.).</heading>
+
+<question by="#alexander" to="#minister_of_railways_and_harbours">
+
+<num>X.</num>
+
+<from>Mr. ALEXANDER</from>
+
+<p>asked the Minister of Railways and Harbours why the long service increment provided for in the General Manager&#x2019;s Special Notice No. 1191, of the 28th May, 1920, is not being paid to non-European employees with the necessary service, more particularly Cape Fixed Establishment servants, who are contributors to the Superannuation Fund, seeing that such Special Notice only excludes from such increment those employed at standard rates as agreed upon with trade unions?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#alexander">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>The long service increment referred to in the General Manager&#x2019;s Special Notice 1191, dated 28th May, 1920, applies to all European and non-European graded employees with pre-Union service, except those classified in the artisan pay schedule. It does not apply to non-European labourers who are granted long service increments on a different basis.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Appointment To Cape Fixed Establishment.<br/>Aanstelling Bij Kaapse Vaste Dienststaat.</heading>
+
+<question by="#alexander" to="#minister_of_railways_and_harbours">
+
+<num>XI.</num>
+
+<from>Mr. ALEXANDER</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many employees (<i>a</i>) European and (<i>b</i>) non-European there are in the service who are eligible for appointment to the Cape Fixed Establishment in terms of sub-section (<i>d</i>) of section 3 of the Cape Civil Service Act, No. 32 of 1895, and of section 2 of Act No. 28 of 1912, who have not received their letters of appointment to such establishment; and</li>
+
+<li>(2) whether in view of paragraph 4 of the Memorandum on the &#x201C;Civil Service and <span class="col_180" refersTo="page_0260"/>Pension Funds Act, 1895,&#x201D; any differentiation is being made as between European and non-European employees?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#alexander">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (<i>a</i>) There are 106 ex-Cape European servants who have completed the requisite period of service but who have not been granted certificates of admission to Cape Fixed Establishment benefits. This is due either to their not having obtained the necessary certificate of efficiency and good conduct or a clear medical certificate, or to the servants themselves not desiring to be placed on the Fixed Establishment. (<i>b</i>) I am not aware of any case where a non-European employee, who has complied with the requirements of section 3 (<i>d</i>) of Cape Act 32 of 1895, and Chapter C.II. of the Cape Civil Service Regulations, has not been granted the necessary certificate.</li>
+
+<li>(2) Falls away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Pension And Superannuation Funds (S.A.R. &amp; H.).<br/>Pensioen En Ouderdomspensioen Fondsen (Z.A.S. &amp; H.).</heading>
+
+<question by="#alexander" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Mr. ALEXANDER</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many (<i>a</i>) officers and (6) employees there are in the service of the Railways and Harbours Administration who were in possession of certificates of appointment to the Cape Fixed Establishment as at the 31st December, 1923;</li>
+
+<li>(2) how many (<i>a</i>) officers and (<i>b</i>) employees are contributors to the Cape Civil Service Pension Fund, and how many (<i>a</i>) officers and (<i>b</i>) employees are contributors to the Railways and Harbours Superannuation Fund; and</li>
+
+<li>(3) how many members of the Cape Fixed Establishment have been (<i>a</i>) retrenched before reaching age limit, (<i>b</i>) dismissed, and (c) voluntarily retired since the 1st March, 1921?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#alexander">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (<i>a</i>) 1,297. (<i>b</i>) 2,724.</li>
+
+<li>(2) (<i>a</i>) 872 contributors to the Cape Civil Service Pension Fund. (<i>b</i>) 166 contributors to the Cape Civil Service Pension Fund.<br/>
+
+(<i>a</i>) 5,530 contributors to the Railways and Harbours Superannuation Fund. (<i>b</i>) 15,642 contributors to the Railways and Harbours Superannuation Fund.</li>
+
+<li>(3) (<i>a</i>) 116. (<i><i>b</i></i>) 38. (<i>c</i>) 76.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Certificates For Permanent Employment (S.A.R. &amp; H.).<br/>Certifikaten Voor Vaste Dienst (Z.A.S. &amp; H.).</heading>
+
+<question by="#boydell" to="#minister_of_railways_and_harbours">
+
+<num>XIII.</num>
+
+<from>Mr. BOYDELL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) How many (<i>a</i>) officers and (6) employees were granted certificates by the General Manager, in terms of section 5 of Act No. 28 of 1912, entitling them to permanent employment during the periods (<i>a</i>) March 1st to December 31st, 1921, (<i>b</i>) January to December, 1922, and (c) January to December, 1923;</li>
+
+<li>(2) how many new entrants there were to the service for the periods mentioned;</li>
+
+<li>(3) how many were qualifying for such certificates at the 1st March, 1921;</li>
+
+<li>(4) how many have received such certificates; and</li>
+
+<li>(5) how many applications for such certificates have been refused?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#boydell">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<ol>
+
+<li>(1) (<i>a</i>) 140 officers, 1,009 employees. (<i>b</i>) 2 officers, 5 employees. (<i>c</i>) 113 officers, 555 employees.</li>
+
+<li>(2)<br/>
+
+1st March to 31st December, 1921 ... 1,044<br/>
+
+1st January to 31st December, 1922 ... 912<br/>
+
+1st January to 31st December, 1923 ... 3,038</li>
+
+<li>(3) There were 11,495 temporary servants, but it is not possible to say how many of these were actually qualifying for certificates.</li>
+
+<li>(4) 1,824.</li>
+
+<li>(5) 146.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Development Of Kosi Bay.<br/>Ontwikkeling Van Kosibaai.</heading>
+
+<question by="#nicholls" to="#minister_of_lands">
+
+<num>XIV.</num>
+
+<from>Mr. NICHOLLS</from>
+
+<p>asked the Minister of Lands:</p>
+
+<ol>
+
+<li>(1) Whether he is aware of the statement recently published in the press in connection with the alleged proposed development of Kosi Bay, that important areas of land are already held by highly-placed officers of the Government; and</li>
+
+<li>(2) what is the truth of the matter?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_lands" to="#nicholls">
+
+<from>The MINISTER OF LANDS:</from>
+
+<p>(1) and (2). My attention has been drawn to a paragraph in the <i>Weekly Herald,</i> of Johannesburg, from which the hon. member presumably obtained his information. The statement contains not a vestige of truth. Kosi Bay is situate in Native Reserve No. 14 and no portion thereof can be alienated to a private person without the consent of Parliament. With the exception of a small farm on the Portuguese border granted some twenty-five years ago, there is no European-owned land within nearly a hundred miles of Kosi Bay.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>District Surgeons, Zululand.<br/>Distriktsgeneesheren, Zoeloeland.</heading>
+
+<question by="#nicholls" to="#minister_of_the_interior">
+
+<num>XV.</num>
+
+<from>Mr. NICHOLLS</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol>
+
+<li>(1) How many times and for what periods have the undermentioned district surgeons of Zululand been taken away from their duties in their districts to attend the Native High Court sitting in Durban during the past year, viz., Melmoth, Lower Umfolozi, Mtunzini, Eshowe, Nongoma, Ingwavuma and Nkandhla;</li>
+
+<li>(2) how many of these district surgeons have been away from Zululand attending the Native High Court in Durban at the same time; and</li>
+
+<li><span class="col_181" refersTo="page_0261"/>(3) whether the Minister is aware that the district surgeons are the only medical men in Zululand, and that during their absence the whole community is deprived of medical assistance, often in times of urgent need?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nicholls">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>I hope the hon. member will allow this question to stand over.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Repairs To Locomotive No. 1,919.<br/>Herstellingen Aan Lokomotief, No. 1,919.</heading>
+
+<question by="#brink" to="#minister_van_spoorwegen_en_havens">
+
+<num>XVI.</num>
+
+<from>De hr. BRINK (voor Gen. Kemp)</from>
+
+<p>vroeg de Minister van Spoorwegen en Havens:</p>
+
+<ol>
+
+<li>(1) Of lokomotief No. 1919, klasse 14, gedurende 1922-1923 naar Pretoria gezonden werd voor reparaties; indien wel;</li>
+
+<li>(2) hoelang duurde het reparatiewerk;</li>
+
+<li>(3) wat waren de kosten van reparatie; en</li>
+
+<li>(4) waar werd die lokomotief gemaakt?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_van_spoorwegen_en_havens" to="#brink">
+
+<from>De MINISTER VAN SPOORWEGEN EN HAVENS:</from>
+
+<ol>
+
+<li>(1) Ja.</li>
+
+<li>(2) Vijf maanden voor grote herstellingen, afgezien van kleine herstellingen.</li>
+
+<li>(3) £1,556.</li>
+
+<li>(4) Glasgow.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Officials On Prisons Staff At Barberton.<br/>Ambtenaren Op Gevangenisstaf Te Barberton.</heading>
+
+<question by="#fourie" to="#minister_van_justitie">
+
+<num>XVII.</num>
+
+<from>Lt.-Kol. J. C. FOURIE</from>
+
+<p>vroeg de Minister van Justitie:</p>
+
+<ol>
+
+<li>(1) Of het onder zijn aandacht gebracht is, dat in Barberton door de ambtenaren op de gevangenisstaf, in hun vrije tijd en buiten hun vrije tijd, werk wordt gedaan, namelik, metselwerk, timmerwerk en schilderwerk, waardoor ambachtsmannen tekort gedaan worden in het vinden van hun levensonderhoud;</li>
+
+<li>(2) indien onbekend aan de Minister, of hij dan onderzoek daarnaar wil instellen; en</li>
+
+<li>(3) of hij bereid is om stappen daartegen te nemen?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_van_justitie" to="#fourie">
+
+<from>De MINISTER VAN JUSTITIE:</from>
+
+<ol>
+
+<li>(1) Neen, maar zekere leden van het personeel van de gevangenis te Barberton doen in hun diensturen zeker bouwwerk voor het Departement van Gevangenissen.</li>
+
+<li>(2) en (3) Ik heb geen informatie omtrent hoe beambten hun vrye tyd, wanneer niet op dienst, doorbrengen, maar indien biezondere gevallen te mijner kennis gebracht worden dat beambten naar privaat werk dingen, ten nadele van plaatselike ambachtslieden, zal onderzoek ingesteld worden en stappen genomen worden om aan zulke mededinging stop te zetten.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Examinations For Admission Of Apprentices. (S.A.R. &amp; H.).<br/>Eksamens Voor Toelating Van Leerlingen. (Z.A.S. &amp; H.).</heading>
+
+<question by="#strachan" to="#minister_of_railways_and_harbours">
+
+<num>XVIII.</num>
+
+<from>Mr. STRACHAN</from>
+
+<p>asked the Minister of Railways and Harbours whether he will, in connection with any future examinations for the admission of apprentices, give instructions for the issue of a syllabus so that candidates may have an opportunity to study text books on the technical subjects prescribed by the examining board; and, if not, what are the objections to the adoption of such a course?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#strachan">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>It is not the intention to issue a syllabus for apprenticeship examinations. The papers set at previous examinations covered subjects of a general character which are included in the approved courses of study in secondary, technical and trades schools. The papers were prepared by the Railway Administration in conjunction with the Union Education Department, and were designed in combination with personal interviews with candidates to test general knowledge, powers of observation and all-round suitability.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Advances To Co-Operative Societies.<br/>Voorschotten Aan Ko-Operatieve Verenigingen.</heading>
+
+<question by="#cilliers" to="#minister_van_financiën">
+
+<num>XIX.</num>
+
+<from>Kapt. P. S. CILLIERS</from>
+
+<p>vroeg de Minister van Financiën:</p>
+
+<ol>
+
+<li>(1) Hoeveel geld is door de Regering of door de Land Bank afgeschreven sedert 1 Januarie 1920, verschuldigd door of op rekening van koöperatieve verenigingen of koöperatieve maatschappijen;</li>
+
+<li>(2) welk bedrag is van iedere vereniging of maatschappij afgeschreven; en</li>
+
+<li>(3) of de Regering of de Land Bank £1,000 aan de Transvaalse Landbouwunie toegekend heeft, en indien wel, met welk doel en onder welke voorwaarden?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#cilliers">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>On behalf of my colleague, the Minister of Finance, I have to ask the hon. member to allow this question to stand over.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Joint Matriculation Board Examinations.<br/>Gemeenschappelike Matrikulatieraad Eksamens.</heading>
+
+<question by="#werth" to="#minister_van_onderwijs">
+
+<num>XX.</num>
+
+<from>De hr. WERTH</from>
+
+<p>vroeg de Minister van Onderwijs:</p>
+
+<ol>
+
+<li>(1) Hoeveel kandidaten opgegaan zijn voor (<i>a</i>) Matrikulatie en (<i>b</i>) Senior Certifikaat van de Gemeenschappelike Matrikulatieraad in elk van de jaren 1920, 1921, 1922 en 1923; en welk percentage in elk van die twee eksamens in elk van die jaren is geslaagd;</li>
+
+<li>(2) hoeveel kandidaten in elk van de jaren 1921, 1922 en 1923 opgegaan zijn voor het Transvaalse Schooleind-eksamen en welk percentage is geslaagd in elk van die jaren; en</li>
+
+<li>(3) hoeveel kandidaten opgegaan zijn voor het Schooleind-eksamen van de Kaap Provincie en welk percentage is geslaagd in 1923?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_van_onderwijs" to="#werth">
+
+<from>De MINISTER VAN ONDERWIJS:</from>
+
+<p>(1) (2) en (3) Daar ik geen beheer heb over de administrate in verband met genoemde eksamens, geef ik aan de hand dat het <span class="col_182" refersTo="page_0262"/>edelachtbare lid de gewenste informatie bij de betrokken autoriteiten aanvraagt.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Convictions For Drunkenness.<br/>Veroordelingen Wegens Dronkenschap.</heading>
+
+<question by="#cilliers" to="#minister_van_justitie">
+
+<num>XXI.</num>
+
+<from>Kapt. P. S. CILLIERS</from>
+
+<p>vroeg de Minister van Justitie:</p>
+
+<ol>
+
+<li>(1) Hoeveel personen werden wegens dronkenschap veroordeeld in de distrikten Hopetown, Britstown, Douglas en Griquatown gedurende het jaar geëindigd 31 Desember 1923; en</li>
+
+<li>(2) hoeveel van zulke personen waren blanken, kleurlingen en naturellen in ieder van de respektieve distrikten?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_van_justitie" to="#cilliers">
+
+<from>De MINISTER VAN JUSTITIE:</from>
+
+<p>(1) en (2):</p>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>Blanken.</p></td>
+
+<td><p>Kleurlingen.</p></td>
+
+<td><p>Naturellen.</p></td>
+
+<td><p>Aziaten</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Britstown</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>12</p></td>
+
+<td><p>9</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Douglas</p></td>
+
+<td><p>10</p></td>
+
+<td><p>10</p></td>
+
+<td><p>15</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Griquatown</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>1</p></td>
+
+<td><p>2</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Hopetown</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p>8</p></td>
+
+<td><p>6</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Magistrate&#x2019;S Court Building, Graaff-Reinet.<br/>Magistraatshof Gebouw, Graaff-Reinet.</heading>
+
+<question by="#enslin" to="#minister_van_justitie">
+
+<num>XXII.</num>
+
+<from>De hr. ENSLIN</from>
+
+<p>vroeg de Minister van Justitie of zijn aandacht gevestigd werd op het feit dat bij bijna elke zitting van het Rondgaand Hof te Graaff-Reinet de zittende rechter aanmerkingen maakt omtrent de slechte toestand van het magistraatskantoor gebouw aldaar, en of de Regering informatie zal inwinnen en de nodige veranderingen en verbeteringen zal aanbrengen?</p>
+
+</question>
+
+<answer by="#minister_van_justitie" to="#enslin">
+
+<from>De MINISTER VAN JUSTITIE:</from>
+
+<p>Het is te mijner kennis gebracht dat volgens de koeranten berichten de Rechter-President van de Oostelike Distrikten, Plaatselike Afdeling, in Maart van verleden jaar bij de sluiting van het Rondgaande Hof zou gezegd hebben dat Graaff-Reinet het slechtste hofgebouw van zijn rondgang had. Verleden Mei rapporteerde een van de Inspekteurs van de Staatsdienst Kommissie dat het hofgebouw en de kantoren te Graaff-Reinet voldoende waren en dat zij in redelike toestand verkeerden en er van binnen en van buiten bevredigend uitzagen.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Sale Of Lots On Mooibank Settlement.<br/>Verkoop Van Percelen Op Mooibank Nederzetting.</heading>
+
+<question by="#pienaar" to="#minister_van_landen">
+
+<num>XXIII.</num>
+
+<from>De hr. PIENAAR (voor de hr. P. G. W. Grobler)</from>
+
+<p>vroeg de Minister van Landen of dit zo is, dat de Regering zekere percelen op de Mooibank Nederzetting, die aan de Regering terug vervallen zijn, bij publieke veiling gaat verkopen; indien zo, zullen de bepalingen van de Kroongrond Nederzettings Wet op de nieuwe eigenaren, die genoemde percelen mogen aankopen van toepassing wezen of niet; en indien niet, zal de positie van de oorspronkelike eigenaren (settelaars) daardoor niet nadelig beïnvloed worden?</p>
+
+</question>
+
+<answer by="#minister_van_landen" to="#pienaar">
+
+<from>De MINISTER VAN LANDEN:</from>
+
+<p>Vijf percelen op de Mooibank Nederzetting te Potchefstroom worden op 9 Februarie 1924, bij publieke veiling onder de bepalingen van de Kroongronden Beschikkings Ordonantie No. 57 van 1903 (Transvaal) verkocht. Ik heb geen rede te denken dat de positie van de eigenaren van andere percelen op de nederzetting nadelig daardoor zal beïnvloed worden.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Enteric On Diggings Near Lichtenburg.<br/>Onderbuikstyfus Op Delverijen Nabij Lichtenburg.</heading>
+
+<question by="#creswell" to="#minister_of_public_health">
+
+<num>XXIV.</num>
+
+<from>Mr. CRESWELL</from>
+
+<p>asked the Minister of Public Health:</p>
+
+<ol>
+
+<li>(1) Whether his attention has been called to an article in the <i>Star</i> of the 2nd February, 1924, referring to the outbreak of enteric on the diggings near Lichtenburg, and whether the position therein described is substantially correct;</li>
+
+<li>(2) what steps are the Government taking to deal with this serious outbreak of enteric; and</li>
+
+<li>(3) whether the Government is taking any special measures to supplement the quite inadequate medical and nursing services described in the article above referred to?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#creswell">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<ol>
+
+<li>(1) Yes. Since September last there have been 29 European cases with 6 deaths, and one native case. There are 10 patients ill at present.</li>
+
+<li>(2) The outbreak has been investigated by an assistant health officer of the Department, and all practicable measures are being taken to remedy insanitary conditions and fly prevalence and prevent further spread. Facilities for vaccination against the disease have been provided.</li>
+
+<li>(3) A trained nurse has been sent and a field hospital with 10 beds is being equipped. Arrangements have been made for sending to the infectious diseases section, Rietfontein Hospital, Johannesburg, patients fit for removal by ambulance.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Scale Of Pay Of Magistrates.<br/>Salaris Schaal Van Magistraten.</heading>
+
+<question by="#byron" to="#minister_of_justice">
+
+<num>XXV.</num>
+
+<from>Brig.-Gen BYRON (for Mr. Mackeurtan)</from>
+
+<p>asked the Minister of Justice:</p>
+
+<ol>
+
+<li>(1) Whether the Minister is aware that it is generally felt by magistrates in the Union that their scales of pay compare unfavourably with the scales of pay of other classes of civil servants whose duties are less responsible and exacting than theirs;</li>
+
+<li>(2) whether it is correct that the scales of pay of such officials as superintendents, assistant superintendents and wardens of reformatories, sub-native commissioners, postmasters, clerks to provincial councils, translators, registrars and assistant registrars, Supreme Court, superintendents of roads, inspectors of roads, controllers of stores, are almost uniformly higher than <span class="col_183" refersTo="page_0263"/>those of the majority of magistrates; and, if so,</li>
+
+<li>(3) whether, bearing in mind the constantly increasing duties and responsibilities of the magistrates throughout the Union, the Minister is able to give them any assistance in regard to their obtaining higher scales of pay?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#byron">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) No.</li>
+
+<li>(2) No. I would refer the hon. member to the regulations published in Government Notice No. 1644 of the 3rd October last year in which the scales of pay are set out. He will see there that the scales of pay of the officials whom he mentions are as follows:<br/>
+
+Superintendents, assistant superintendents and wardens of reformatories range from £500 for the lower grades to £950 in the case of the Pretoria command.<br/>
+
+Sub-Native Commissioners are on scales ranging from £475 to £800.<br/>
+
+Postmasters on scales from £450 to £800.<br/>
+
+Clerks to the Provincial Councils in the Cape and Transvaal Provinces are on scales from £600 to £700, and in the two remaining Provinces from £600 to £650.<br/>
+
+The scale for the post of Law and General Translator and Dutch Draftsmen in the Department of Justice is £600 to £700. Other translators are on clerical grades.<br/>
+
+Registrars and Assistant Registrars of the Supreme Court go from £475 to £900.<br/>
+
+The scale of pay for Superintendents of Roads and Local Works in the Transvaal and Orange Free State Provinces are £750 to £850; in Natal an Engineer Superintendent of Roads is on the same scale. Inspectors of Roads&#x2014;in the Cape Province the Chief Inspector of Roads is on the scale £750&#x2014;£850, and the Assistant Inspectors on scales ranging from £450 to £600. In the Transvaal there is a Chief Inspector of Roads on a scale £450 to £550, and in Natal a Superintendent of Roads on a scale £320 to £420.<br/>
+
+The Government Notice only mentions one Controller of Stores who is employed in the Department of Posts and Telegraphs, and he is on a scale £700 to £800.<br/>
+
+The scales of Magistrates range from £475 to £1,100 in the case of the Special B grade, of which there are six, £1,200 in the case of three Special A grade Magistracies, and £1,300 in the case of the Johannesburg Magistracy. There are at present twenty-seven Senior Grade Magistracies on the scale £825&#x2014;£900.</li>
+
+<li>(3) The scales of pay have been fixed only recently after prolonged and careful consideration by the Public Service Commission, and I cannot hold out hope that they will in the near future be raised. The grading of individual stations, however, continues to receive the Department&#x2019;s and Public Service Commission&#x2019;s consideration.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Reports By Board Of Trade And Industries.<br/>Verslagen Van Raad Van Handel En Nijverheid.</heading>
+
+<question by="#malan" to="#minister_van_mijnwezen_en_nijverheid">
+
+<num>XXVI.</num>
+
+<from>De hr. C. W. MALAN</from>
+
+<p>vroeg de Minister van Mijnwezen en Nijverheid:</p>
+
+<ol>
+
+<li>(1) Hoeveel rapporten werden gedurende het afgelopen jaar ingediend door de Raad van Handel en Nijverheid en welke onderwerpen zijn door die Raad behandeld; en</li>
+
+<li>(2) zal hij die rapporten doen drukken en voor het publiek beschikbaar stellen?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_van_mijnwezen_en_nijverheid" to="#malan">
+
+<from>De MINISTER VAN MIJNWEZEN EN NIJVERHEID:</from>
+
+<ol>
+
+<li>(1) 22 verslagen werden voorgelegd gedurende laatste jaar door de Raad van Handel en Nijverheid en ik kan het edele lid een opgave geven aantonende de onderwerpen behandeld, indien vereist.</li>
+
+<li>(2) De meerderheid van deze verslagen is gedrukt in het <i>Z.A. Joernaal van Nijverheid,</i> terwijl het overige binnen kort gepubliceerd zal worden. Kopiën van de verslagen kunnen van de Sekretaris van de Raad van Handel en Nijverheid verkregen worden.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Clauses Under Natives (Urban Areas) Act, 1923.<br/>Klausulen Onder Naturellen (Stadsgebieden) Wet, 1923.</heading>
+
+<question by="#pearce" to="#minister_of_native_affairs">
+
+<num>XXVII.</num>
+
+<from>Mr. PEARCE</from>
+
+<p>asked the Minister of Native Affairs whether the Prime Minister promised that the, regulation clauses under the Natives (Urban Areas) Act of 1923 were not to be put into operation until the native areas had been defined and declared; and, if so, why is this promise not being carried out?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#pearce">
+
+<from>The MINISTER OF MINES AND INDUSTRIES (for the Minister of Native Affairs):</from>
+
+<p>Assuming that the &#x201C;regulation clauses&#x201D; mentioned refer to Section 12 of the Natives (Urban Areas) Act of 1923 and that &#x201C;Native Areas&#x201D; refer to municipal native locations or villages, the Government, although unaware of any such promise as is mentioned, would, before proclaiming any area under section 12, satisfy itself that reasonable accommodation was provided. The only instance of proclamation of an area under that section has been that of the urban area of Kimberley, where such action was necessary to continue the system of registration of native servants under Griqualand West Proclamation No. 14 of 1872; sections 4 to 12 of which, in so far as they relate to urban areas, are repealed by the Act.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Schools For Coloured Population, Cape Peninsula.<br/>Scholen Voor De Kleurling Bevolking, Kaapse Schiereiland.</heading>
+
+<question by="#pearce" to="#prime_minister">
+
+<num>XXVIII.</num>
+
+<from>Mr. PEARCE</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that the provincial authorities have notified the School Board for the Cape Division that it cannot use the money allotted to it in the Estimates for the building of schools for the coloured population in the Cape Peninsula; and</li>
+
+<li>(2) whether this is not in conflict with the promise of the Prime Minister to a coloured deputation that the sum of <span class="col_184" refersTo="page_0264"/>£12,000 would be granted for coloured school purposes in addition to the amount placed on the Estimates for this purpose?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#pearce">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) The Cape Provincial Administration is free to arrange its own allocation of the loan monies made available to it by the Union Government for building purposes subject to the direction of the Provincial Council.</li>
+
+<li>(2) The sum of £12,000, loaned by the Union Government, has been paid over to the Provincial Administration and has been allocated in full by the Provincial Council for the development of coloured education during their last Session.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Use Of The Late &#x201C;Presidency&#x201D; At Bloemfontein.<br/>Gebruik Van Het Voormalige &#x201C;Presidentshuis&#x201D; Te Bloemfontein.</heading>
+
+<question by="#boydell" to="#minister_of_public_works">
+
+<num>XXIX.</num>
+
+<from>Mr. BOYDELL (for Mr. Barlow)</from>
+
+<p>asked the Minister of Public Works:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that the &#x201C;Presidency&#x201D; in Bloemfontein, latterly known as the &#x201C;Residency,&#x201D; is being used as a school;</li>
+
+<li>(2) whether he is aware that this arrangement is objectionable to Free Staters on historic grounds as well from the point of view of the needs of the day; and</li>
+
+<li>(3) whether the Government will see that the Residency is again taken over by it and furnished and equipped in order that it may be available for the reception of H.R.H. the Prince of Wales, the Governor-General, and other distinguished visitors, and thus be used for the purpose for which by historic association and actual fitness it should undoubtedly be used?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_works" to="#boydell">
+
+<from>The MINISTER OF PUBLIC WORKS:</from>
+
+<ol>
+
+<li>(1) Yes.</li>
+
+<li>(2) No.</li>
+
+<li>(3) Shortly after Union in 1910 the Government decided to discontinue to use the Government Houses in Bloemfontein and Pietermaritzburg as such, and they see no reason to depart from their decision.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Advances By Land Bank.<br/>Voorschotten Door Landbank.</heading>
+
+<p>The MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Agriculture) replied to Question XX, by Lt.-Col. B. I. J. van Heerden, standing over from 31st January.</p>
+
+<question by="#van_heerden" to="#minister_of_railways_and_harbours">
+
+<heading>Vraag:</heading>
+
+<p>Of de Minister bereid is gedurende de tegenwoordige zitting van het Parlement een wetsontwerp in te dienen om verdere afschrijvingen in verband met voorschotten door de Land Bank aan ko-operatieve verenigingen verschaft, te wettigen?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#van_heerden">
+
+<heading>Antwoord:</heading>
+
+<p>Niet zoals tans geadviseerd, daar geen rapport over deze zaak van de Landbank ontvangen is.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Adverse Exchange And Influx Of Capital.<br/>Schadelike Wisselkoers En Toevloed Van Kapitaal.</heading>
+
+<p>The MINISTER OF RAILWAYS AND HARBOURS (for the Minister of Finance) replied to Question II, by Mr. Giovanetti, standing over from 7th February.</p>
+
+<question by="#giovanetti" to="#minister_of_railways_and_harbours">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) What steps the Government is taking to remedy the adverse exchange against South Africa;</li>
+
+<li>(2) what steps the Government is taking to obtain a further influx of capital into South Africa; and</li>
+
+<li>(3) whether the Government has considered the effect of obtaining locally Government and municipal loans on the supply of floating capital available for commercial and industrial purposes through existing Banking institutions?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#giovanetti">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) The exchanges are not adverse to South Africa but the opposite; the present position is due to the accumulation of bankers&#x2019; balances in London following an excess of exports over imports; so far as the rise in the rate can be checked by local borrowing and remittances of Government moneys to London, this is being done.</li>
+
+<li>(2) An influx of capital, unless it is represented by goods, adds to South Africa&#x2019;s foreign balances and tends to raise the rate of exchange in her favour; capital will come to South Africa if the conditions here are favourable to its employment.</li>
+
+<li>(3) The raising of Government and Municipal loans locally has no effect on the local supply of floating capital, but the adoption of this course in preference to raising loans oversea, tends to prevent the South African exchange raising.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Retrenchment Of Men And Filling Up Of Vacancies By Girls.<br/>Afdanking Van Mannen En Indienstneming Van Meisjes.</heading>
+
+<p>The MINISTER OF THE INTERIOR replied to Question I, by Maj. Hunt, standing over from 31st January.</p>
+
+<question by="#hunt" to="#minister_of_the_interior">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) How many (<i>a</i>) married men and (<i>b</i>) single men were retrenched from each Government Department during 1923;</li>
+
+<li>(2) how many girls have been employed (<i>a</i>) to fill vacancies thus created or (<i>b</i>) otherwise; and</li>
+
+<li>(3) what has been the nett saving in each Government Department thereby?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#hunt">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) (<i>a</i>) 224. (<i>b</i>) 62. In following Departments:</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>(<i>a</i>)</p></td>
+
+<td><p>(<i>b</i>)</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Agriculture</p></td>
+
+<td><p>6</p></td>
+
+<td><p>3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Customs and Excise</p></td>
+
+<td><p>5</p></td>
+
+<td><p>4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Defence</p></td>
+
+<td><p>3</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Finance</p></td>
+
+<td><p>1</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Higher Education</p></td>
+
+<td><p>1</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><span class="col_185" refersTo="page_0265"/>Forests</p></td>
+
+<td><p>2</p></td>
+
+<td><p>&#x2014;</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Revenue</p></td>
+
+<td><p>2</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Interior</p></td>
+
+<td><p>2</p></td>
+
+<td><p>1</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Irrigation</p></td>
+
+<td><p>6</p></td>
+
+<td><p>4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Lands</p></td>
+
+<td><p>12</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Mines</p></td>
+
+<td><p>17</p></td>
+
+<td><p>3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Native Affairs</p></td>
+
+<td><p>31</p></td>
+
+<td><p>6</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Posts and Telegraphs</p></td>
+
+<td><p>113</p></td>
+
+<td><p>20</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Public Health</p></td>
+
+<td><p>2</p></td>
+
+<td><p>3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Administration</p></td>
+
+<td><p>10</p></td>
+
+<td><p>3</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal Administration</p></td>
+
+<td><p>1</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>O.F.S. Administration</p></td>
+
+<td><p>4</p></td>
+
+<td><p>4</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Transvaal Administration</p></td>
+
+<td><p>2</p></td>
+
+<td><p>2</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>South-West Africa</p></td>
+
+<td><p>4</p></td>
+
+<td><p>5</p></td>
+
+</tr>
+
+</table>
+
+<p>(2) and (3) 223 women were appointed during the year 1923, but many of these were appointed to replace other women or to fill vacancies ordinarily filled by women.</p>
+
+<p>It is not possible therefore to answer (2) (<i>a</i>) or (3).</p>
+
+<p>I am sorry that the answer has been standing over so long, but a question such as that asked by the hon. member imposed a vast amount of work on the department concerned.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Commission On Tobacco Industry.<br/>Kommissie Voor Tabaksindustrie.</heading>
+
+<question by="#le_roux" to="#minister_of_railways_and_harbours">
+
+<from>Mr. S. P. LE ROUX:</from>
+
+<p>I see the hon. the Minister of Railways and Harbours has answered questions on behalf of the Minister of Finance. Is he in a position to answer the question of which I gave notice for Tuesday, the 5th instant?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#le_roux">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>No, I have not got that with me.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#south_african_society_of_accountants_private_bill">
+
+<heading>SOUTH AFRICAN SOCIETY OF ACCOUNTANTS (PRIVATE) BILL.<br/>ZUIDAFRIKAANSE GENOOTSCHAP VAN ACCOUNTANTS (PRIVAAT) WETSONTWERP.</heading>
+
+<p>Leave was granted to Mr. Close to introduce the <i>South African Society of Accountants</i> (<i>Private</i>) <i>Bill.</i></p>
+
+<p>Bill brought up and read a first time.</p>
+
+</debateSection>
+
+<debateSection name="#rhodes_university_college_act_1904_cape_amendment_private_bill">
+
+<heading>RHODES UNIVERSITY COLLEGE ACT, 1904 (CAPE), AMENDMENT (PRIVATE) BILL.<br/>RHODES UNIVERSITEITSKOLLEGE WET, 1904 (KAAP), WIJZIGINGS (PRIVAAT) WETSONTWERP.</heading>
+
+<p>Leave was granted to Sir William Macintosh to introduce the <i>Rhodes University College Act, 1904. (Cape), Amendment</i> (<i>Private) Bill.</i></p>
+
+<p>Bill brought up and read a first time.</p>
+
+</debateSection>
+
+<debateSection name="#grain_elevator_durban">
+
+<heading>GRAIN ELEVATOR, DURBAN.<br/>GRAANZUIGER, DURBAN.</heading>
+
+<speech by="#boydell">
+
+<from>†Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>Mr. Speaker, I formally move the motion of which notice is standing in my name&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to enquire into and report as to the responsibility for the excessive cost, and the circumstances in connection with the carrying out of the work of erecting the grain elevator at Durban; the Committee to have power to take evidence and call for papers.</block>
+
+<p>I hope that the Minister of Railways and Harbours will see his way clear to accept the motion and to let us have the investigation at the earliest possible date. The whole country knows that something like a quarter of a million pounds has been thrown away and wasted through mismanagement on the foundation of the Durban grain elevator, and the country is trying to find who is responsible. In 1922, the General Manager of Railways and Harbours, in his report, stated that an enquiry would have to be held for the purpose of allocating the blame. That was two years ago. In 1923, last session, after tackling the Minister of Railways and Harbours repeatedly on the subject, he promised me in this House that he would hold an enquiry into the matter. Twelve months have gone and nothing has been done, and to-day the affair has become almost a first-class scandal in South Africa. It is a scandal to think that something like £250,000 has been wasted, and that an investigation is delayed as to whom is responsible. What makes the position a little more serious is that it is with great difficulty we have been able to get any information at all from the Government. Time and again we have pressed them to take the House into their confidence as to what is going on behind the scenes. What has happened behind, has been treated in an atmosphere of secrecy, and were it not for the report of the Auditor-General, we would not have had this information now. I think that the House owes the Auditor-General a debt of gratitude for the way he has criticised the various departments and for throwing his searchlight on the dark places behind the scenes.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Quite right; that is his work.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>But it does not follow he is always right. I think he has made out an exceedingly good case for a thorough and immediate enquiry. I have already asked the Minister of Railways and Harbours if he would place on the table a very important document in connection with the elevator, but he refused to do so. This is quite in harmony with his attitude, but he said that he reserved the paper for a future enquiry, which he proposed to hold when the foundations were completed. In reply to my question the Minister of Railways and Harbours said he intended to make an enquiry when the foundations were completed; he would appoint a commission of two technical engineer experts and a president, who would probably be a lawyer. I want to try to convince the Minister and this House that this is the wrong course. There should be an enquiry, an immediate enquiry, and that enquiry should not be carried out by technical experts, but by a Committee of this House, who would be able to take evidence, in order to arrive at a proper and right conclusion. But before I do that may I state the case briefly which justifies enquiry. In 1920 the Government called for tenders for <span class="col_186" refersTo="page_0266"/>the building of the Durban grain elevator. The work was to be completed in 1922. The estimated cost of the foundations only were £136,000. That £136,000 was wasted in the first attempt. [An Hon. Member: Why?] I will tell you later why. The second attempt was tendered for by Mr. Menkins at the price of £105,000. He said he would complete the foundation for £105,000; he tried and he failed. But not only that, according to the report of Messrs. Ingham, Kanthack, and Mackenzie, the three engineers which the Minister appointed to conduct an enquiry into the position at Durban, the second stage was worse than the first, and that the state of affairs they found was simply appalling. Up to the end of March last year over £200,000 had been completely wasted, since then, during the last ten months, more money had been wasted and we are now going to start and lay the foundation at an estimated cost of £207,000. It will mean that the foundations alone, instead of costing £136,000 as originally estimated, are now going to cost this country over half a million pounds. Who is to blame? Let us analyse the few facts that we have. First of all the plans for the construction of the foundation were drawn up by the Government engineers, and passed by them. But the Railway Administration were not satisfied with that position, and they secured the services, at a very high fee, of what they termed &#x201C;one of the world&#x2019;s greatest grain elevator experts,&#x201D; Mr. Littlejohn Philip, of the firm of Spencer &amp; Company, the grain elevator constructors. Mr. Littlejohn Philip&#x2019;s services were secured at a fee of £1,000 a month, and £250 a month expenses. Up to the end of March last year Mr. Littlejohn Philip, for his services, had drawn from the Government over £30,000 in fees and expenses, and no doubt he is drawing still more during the last twelve months, as his services are still being retained. Mr. Littlejohn Philip, according to a statement in the Auditor-General&#x2019;s report and according to a statement I saw in the press, also made by him, when the Auditor-General&#x2019;s report was published, a few weeks ago, claimed that he was not a foundation expert but the expert for the superstructure and the erection of the elevator. But we find in his letter of appointment written by the General Manager of Railways and Harbours in November, 1920&#x2014;</p>
+
+<block name="quote">&#x201C;You shall examine the plans, drawings and specifications already prepared for the foundation of the Cape Town and Durban port elevators and advise the Administration what modifications, if any, should be made thereon.&#x201D;</block>
+
+<p>In the face of that reference in his letter of appointment it cannot be said that he was not supposed to be an expert or authority on the foundations; furthermore, he examined the foundations and made certain recommendations with regard to their being altered. In the first plans of the Government engineers provision was made for the foundations to consist of piles 42 feet long and 14 inches square; Mr. Littlejohn Philip amended that and reduced the length to 36 feet and increased the size to 15 inches square. The Government engineers provided for 1,900 piles to be laid down for these foundations to hold the working-house machinery. Mr. Littlejohn Philip altered that 1,900 piles to 1,300. I only say that to show that, at any rate, he was supposed to be an authority on the foundations as well as on the superstructure when he, at the request of the Government, made these alterations. Now the General Manager of Railways admitted that the fees were being paid to Mr. Littlejohn Philip were very high, but he thought that those fees would be saved many times over by the savings and economies Mr. Philip would make in the total cost of construction. What happened? These piles were driven into the soft earth, and the site for the grain elevator at Durban is all reclaimed area&#x2014;the ground is almost like pulp. The piles were driven in, and those who drove them in told me that with every blow of the steam-hammer the piles went down about 2 feet&#x2014;the earth was so soft. In fact, one of the engineers said it was just like sticking pins in butter. The rock-bottom on this particular spot was 80 feet deep, 75 feet deep in some places and 80 feet in others. The Government engineers, I understand, distinctly laid down that 42 feet in length was contingent on that reaching the bottom. I understand that the original plans prepared provided for 42 feet, and at that depth bottom would be found, and, further, the Government engineers insisted that there should be weight tests, that when the piles were driven in they should be weighted and tested to see that they did not give. Mr. Littlejohn Philip in his report abolished this test, shortened the piles, and did not say anything about the piles reaching only half-way down to rock-bottom. We had the natural consequence that 1,300 piles were driven into the soft earth, and when the bed of concrete, which had to rest on these piles, on which the superstructure had to be erected, was laid down, the whole thing started to fall away, the piles started to sink, and the concrete blocks started to crack. It was then found that it was hopeless to try and establish a foundation unless they went to rock-bottom. Furthermore, Mr. Mackenzie, one of the Government&#x2019;s ablest bridge engineers, said that no scheme would be satisfactory which did not make provision for the foundations going down to rock-bottom. When this huge slab of concrete started to sink into the mud and crack they called in these three engineers I have referred to&#x2014;Messrs. Ingham, Kanthack, and Mackenzie&#x2014;and asked them to report on the whole situation. They reported that the present construction was an impossible one, and that the piles or cylinders would have to go down the whole 80 feet before they could get the proper construction, and that the work should not be done by private firms but should be done departmentally. I do not blame the present Minister of Railways and Harbours. This is a legacy from his predecessors, and I think the present Minister of Railways and Harbours has made the best he could of it, carried out that Kanthack report, and taken the work right out of the hands of Messrs. Menkins and those others, and placed it in the hands of one <span class="col_187" refersTo="page_0267"/>of the finest engineers in South Africa, that is Mr. Mansell, a Government engineer. They also recommended that the foundations should consist of cylinders of from eight to eleven feet in diamenter, and that these cylinders should go right down to the bottom. If in the first place, the advice of our own engineers had been carried out, and either cylinders or piles had been driven right down to rock-bottom, we would not have wasted about £300,000 of the taxpayers&#x2019; money. Who is to blame? Was it the consulting engineers? We do not know, but on the face of it looks like it. He might have a very good defence; he might be able to say he recommended certain things which were turned down by the Government engineers. We have not the information; the Government will not give us the information, and it can only be got through the means of a proper committee of investigation and enquiry. There are several other unsatisfactory features; I will mention some. One of them is that Mr. Littlejohn Philip, who was appointed at this very high fee to be consulting engineer on behalf of the Railway Administration, is directly connected with the firm of Spencer &amp; Company, who obtained the contract for supplying the machinery and superstructure for these elevators. Now, neither Mr. Littlejohn Philip nor any other man, however fair-minded he tried to be, can possibly serve two masters; he cannot possibly serve the interests of the firm he belongs to and the interests of the Railway Administration, because the object of Mr. Littlejohn Philip as a member of the firm of Messrs. Spencer &amp; Co. is to see that the firm makes the best thing out of the contract, and the object of the Railway Administration in paying Mr. Littlejohn Philip this very high fee is to see that the work is done as efficiently, as cheaply, and as economically as possible on behalf of the Railway Administration. He is in an impossible position, and I am surprised that the Government placed them in it. Furthermore, it was agreed in his letter of appointment, that if Mr. Littlejohn Philip&#x2019;s firm got the contract for machinery, then he was to make a rebate of £2 per cent, off his fees until all the fees were absorbed in the contract price. Mr. Littlejohn Philip refuses to recognize that now, and the General Manager of Railways is trying to make him recognize it. He is trying to make him forego the fees in view of the fact that the firm got the contract, but Mr. Littlejohn Philip says that his firm did not get the contract direct from the Administration, but from Messrs. Menkins &amp; Co., and that they got it direct from the Railway Administration. After all is said and done, no one could take an argument like that seriously. Menkins and Company ordered the machinery from Spencer on behalf of the Railway Administration, but Mr. Littlejohn Philip said he would not rebate his fees as agreed upon, as his firm did not get the contract direct from the Railway Department, but from Menkins &amp; Co. There is a third point, and that is this. The amount that Messrs. Menkins &amp; Co. have got to receive for doing the work in connection with these four grain elevators is to be based on the cost of the work done, plus a percentage, and the final decision as to what the work costs, is to rest with Mr. Littlejohn Philip and Mr. Menkins. The Railway Department do not come into it at all. One would have thought that the determination of what the work costs would have rested with the Administration as one of the partners, and Mr. Littlejohn Philip as the consulting engineer, and Mr. Menkins as the other partner. But the taxpayers of South Africa do not come into it at all. I cannot understand anybody entering into a contract like that and sacrificing the interests of the taxpayers of South Africa to that extent. I could understand if the cost of the work was to be decided by arbitration, but no, the Government and the Railway Administration do not come into it at all. It is to be decided by two outsiders, one a hustling American and the other an outside engineer. If this is not enough to justify an enquiry I would like to know what is. The Minister now comes along and says he will have an enquiry when the foundations are finished. Well, in effect, what does that mean? It means that an effective enquiry will be impossible. If we are going to wait until the foundations are finished before having an enquiry into the blunders of the past, it will mean that another 12 months will have elapsed. It will be another 12 months before the foundations are finished, and those who have been concerned in the mismanagement will have left the country and it will be impossible to get the necessary evidence for the enquiry. Take, for instance, Mr. Tippett, who first passed the plan, he has left the service. Mr. Mackenzie, whose advice, if it had been followed at first, would have saved us a considerable amount of money, has left the country. Mr. Littlejohn Philip was leaving for England, but I understand he is remaining in South Africa for the present, at any rate to defend himself against any charges which may be made against him. But in a year&#x2019;s time he may be erecting elevators in Egypt or elsewhere, and we will not be able to get his evidence then. If the Minister is determined not to hold an enquiry until 12 months&#x2019; time, it will be impossible to hold it. They will say that they cannot get the evidence, that the evidence of the chief parties concerned is unobtainable, and we are not in a position to conduct the enquiry. To-day we can get the evidence. We are in touch with the parties concerned, and it is unfair and unjust that the enquiry should be held up and that it should be put off for any further period. That is the first point. The second point is that he is going to hold an enquiry by a commission consisting of a lawyer who is going to be chairman, and two engineers. Well, we say that there are quite enough efficient lawyers in this House, and there should be a Select Committee of this House, Surely the Minister is not going to say that we cannot set up a competent committee to take the evidence of these parties concerned. They can brief counsel if they like, but it should not be necessary. But from this House you could set up a committee presided over, if the Minister wants, by a lawyer, including one <span class="col_188" refersTo="page_0268"/>or two qualified engineers. My hon. friend, the member for Stamford Hill (Mr. Creswell) is a qualified engineer, and we have other qualified engineers in this House. It is not, however, a question of technical engineering knowledge. We have to face the wastage of about a quarter of a million. The function of this committee is to find out what the original plans were, whether those plans were approved of by Mr. Littlejohn Philin, and whether the alterations were sound or otherwise, and it does not require technical experts to arrive at a just conclusion. If it did, I should like to say that if the qualifications of running the railways meant a knowledge of locomotives, where does the Minister of Railways and Harbours come in? He knows more about soft goods, he is a merchant, he possesses no technical knowledge of railways. If we are going on the ridiculous argument that the Minister of Railways and Harbours must be an authority on such matters. Then what about the Minister of Mines and Industries? What does he know about mining? He has never been down a mine in his life.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>No, no, don&#x2019;t make a mistake there.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>We should demand that the enquiry be held, and held now. It has already been delayed too long, and it should be held now and by a committee of this House. This House has got to provide the money, we have got to clean up the mess, and what better than the members of this House should have the opportunity of hearing the evidence, and reading the evidence, as it is given before the Select Committee, and cross-examine the witnesses concerned. We should be in a far better position to know the ins and outs by having such a committee than by having a technical report submitted to us by engineers. For these reasons, I wish to move the resolution standing in my name. I hope the House will accept it. I hope I have not been unfair either to Mr. Littlejohn Philip or anybody else. All I have said has been based on what I have read in the Auditor-General&#x2019;s report, and the information which I have been able to get hold of. I do not say Mr. Littlejohn Philip is in the wrong, or the Government Engineers are in the wrong, but to-day they are all surrounded by suspicion. We know of the mess that has been made, and that much money has been wasted, and this House should give the parties concerned an opportunity of defending themselves from any unjust charges. Also in fairness to the tax-payers of South Africa who have to foot the Bill, we should have the Select Committee now, and see that justice is done to all the parties concerned. I move the resolution.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>†The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>There are one or two things I would like to correct which have been stated by my hon. friend the member for Greyville (Mr. Boydell). He lays great stress upon the fact that the decision re payments shall rest with the consulting engineer. Well, that rather misrepresents the facts of the case. As a matter of fact, all payments made to the contractor, Messrs. Menkins &amp; Co., are checked by our own officials and our own accountants, and we pay out on their statements, and no difference has occurred up to now between our own men and the contractors&#x2019; men. With regard to this difficulty of getting information, I am not aware of any such difficulty at all. As I have said before, as I said last session, the Department in this matter have nothing to hide. I am not aware of any hiding or keeping back information respecting this matter in any shape or form.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>Then get on with it.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>That report of the engineers will undoubtedly see the light of day. When we appoint this commission, that will be one of the first documents placed before them. My hon. friend himself has shown how unwise it would be to refer this matter to a Select Committee. The Department may have made mistakes, but we have certainly nothing to hide in regard to any matter. I have also read the report of the Auditor-General, and I say at once that it shows a very unsatisfactory piece of business, but perhaps I may give the House a little further information so that it will be really able to grasp the position. One would have almost inferred from the Auditor-General that the Department had taken no pains in connection with the selection of the site or in regard to ascertaining the nature of the ground beneath the site for the purpose of carrying the superstructure. The consulting engineer consulted the railway people in Durban, for instance, he consulted the Assistant General Manager there, he consulted our engineers there, the Harbour engineers, and he also got advice from the local Durban Harbour Advisory Committee. They were of the same opinion, and further, this Committee, which I appointed later on, consisting of three engineers, Mr. Ingham, Mr. Kanthack and Mr. Mackenzie, confirmed the selection as regards the site and agreed that the site could not be improved upon. So far as the site is concerned, there is nothing to be said.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>And nobody does say anything about the site.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Then as far as the preparations which were made and the investigations which were made as to the nature of the ground beneath the site, three boreholes were put down and the strata brought up by the bores were put in long boxes and sent to headquarters for investigation, and we also put down 17 piles and these were tested at the time. Of course, it is to be admitted that these piles were nut down on the site of the storage intakes. No piles were put down on the site of the working house, but still the one site was close to the other and as the foundation of the working house were some 11 feet beneath the storage intakes, and excavations had to be made prior to piles being put down. Then it was decided with the concurrence of our own engineers&#x2014;in <span class="col_189" refersTo="page_0269"/>fact our own engineers were then in charge and Mr. Littlejohn Philip had not got his second appointment&#x2014;to divide the work in two jobs, the one for putting down the foundations, in the same way as was done in Cape Town, and the other job for the superstructure. The first job was given to the firm of Dougal Munro in Durban and the second one to the firm of Menkins &amp; Co., later on. But at that time, let me say, as far as my information goes, our own engineers did not consider it necessary to go further down than 42 feet. They were satisfied with 42 feet, whereas the rock runs from 75 to 80 feet below the surface. The specification was to go down to 42 feet as drawn up by the engineer-in-chief. So far as I am aware 42 feet was the depth to which they had to sink the piles. On these specifications tenders were called for, and at this juncture the consulting engineer was appointed and the specifications were submitted to him. He proceeded at once to alter these specifications to some extent. In the first place he reduced the depth of the piles from 42 to 36 feet, and he also reduced the number of piles and he also took away the tests as not being necessary.</p>
+
+</speech>
+
+<speech by="#jansen">
+
+<from>Mr. <person refersTo="hansard_za">JANSEN</person>:</from>
+
+<p>Why the reductions?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>It was all with a view to economy.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>Exactly.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Surely my hon. friend will agree that it is the duty of every engineer to go to work on the most economical basis and when he made these reductions in the length, he consulted one of the leading engineers in London who quite confirmed what he did.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Who was that?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Sir Alfred Gelder. I may say at once that I am not here to defend Mr. Littlejohn Philip. He will have to answer to the committee, but at any rate let us have fair play. Perhaps I should say at this stage, and make the position perfectly clear, that Mr. Littlejohn Philip as consulting engineer has had two appointments here&#x2014;in the first place to enquire into the desirability and locality of these elevators in South Africa. He came out here under the appointment in March, 1919, and he went back to England, after giving in his report, in March 1920, having been here about twelve months. His second appointment was made for the purpose of supervising the construction of the elevators and advising with regard thereto. This appointment was made on the 30th November, 1920, to take effect from the 4th October of that year. Now that is the history of the matter up to the time when it is taken up in the report of the Controller and Auditor-General. When my attention was first called to this matter, or perhaps let me say when the attention of the Board was called to the fact that something was going wrong in the foundations of the elevator in Durban, was in May, 1922. We then at once ordered a meeting to be held of our leading engineers; they were the chief civil engineer, and also the consulting engineer, the bridge engineer and the engineer in charge of the works. Those gentlemen we ordered to come together and consult as to the position. Well, they met in Durban on the site, but unfortunately they were not able to come to a unanimous decision. One of them, I think it was a Mr. Mackenzie, the bridge engineer, said that we should go down to rock, but the others did not altogether agree with him. No unanimous opinion or recommendation came out of that. When that was reported to me, I at once caused a meeting to be held in Johannesburg, and at that meeting I requested the members of the railway board to be present, and Mr. Rissik and Mr. Orr went up there, unfortunately, as Parliament was in session, I could not be present, but the General Manager of Railways was present, and so were the engineers mentioned above. They discussed the matter, and finally it was decided to accept an offer from Mr. Menkin that he would undertake the job of putting down the foundations under the working house by driving down something like 90 concrete cylinders, right down to rock, something like 80 feet. Well that offer was unanimously accepted and recommended to me for acceptance&#x2014;and, of course, I did accept it. I thought that it was a very good way out of our difficulty. That was the position at that time. Most unfortunately that plan turned out a failure. The principle was quite right, the principle of going right down to rock, of driving down cylinders to rock was quite right, but unfortunately Mr. Menkins&#x2019; method of driving down to rock were somewhat crude. That is the best way I can put it. Possibly he did not have sufficient experience of that work.</p>
+
+</speech>
+
+<speech by="#jansen">
+
+<from>Mr. <person refersTo="hansard_za">JANSEN</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Yes, we know that now. We let out the contract to Menkins &amp; Co. in July, 1922, and it was not until April of the following year that my attention was called to the fact that things were not going as they should, that extremely slow progress was being made. Then, on the suggestion of the General Manager of Railways, I proceeded to appoint the commission of three engineers, Mr. Ingham of the Rand Water Board, who is well known, Mr. Kanthack, who is also well known, and Mr. Mackenzie, who had been our late bridge engineer and who had gone on pension. These gentlemen brought up their report in which they recommended that the whole thing should be taken out of Mr. Menkins&#x2019; hands and done departmentally. That we did at once, and we put Mr. Mansel in charge and retained the consulting services of Mr. Ingham and Mr. Kanthack to supervise the direction. That is the position to-day, and I am glad to say that, as far as we can see, things are going on very satisfactorily. It is an extremely difficult job, I admit, and to take the engineers away from there at present would be the very height of folly. It is a very delicate job driving these cylinders down, but as far as we are aware, as far as we can see&#x2014;and I may say that I get <span class="col_190" refersTo="page_0270"/>reports every week and also every month&#x2014;these weekly reports come from the engineer in charge, and the monthly reports come from the consulting engineer, from Mr. Ingham and Mr. Kanthack. Things are going on satisfactorily. As I have said, there is no question that grave mistakes have been made. I think that any man of common sense will admit that, but at the same time we have nothing to hide in the matter. Ever since, as I have said, the first reports reached me in May and June, 1922, we have always resolved that we would have to have an enquiry into this matter. I stated in this House last year that we would have to have an enquiry, and it is mentioned by the General Manager of Railways in certain evidence before the Select Committee on Railways and Harbours. Of course it is our duty to have an enquiry, to allocate the blame for the result of these mistakes. That you have to do, naturally. It is due to the people of this country that an enquiry should be held. They have to foot the bill. It is due to this House, which voted this money; it is due to our officials, so that the blame may be properly apportioned. I cannot apportion the blame myself; the matter is too technical for me. I have gone through all the papers, but I cannot say that this man or that man is to blame, but none the less the blame must be apportioned in the proper way. On that there is no question, and I am entirely at one with my hon. friend the member for Greyville (Mr. Boydell) that an enquiry must be held. But the question where we differ is the manner and the time of the enquiry. Now, in the first place, let me point out that anybody who undertakes to go into this matter or to decide the merits of the case should first of all go and examine the site. It would be the height of folly to give judgment without seeing the site and without seeing what they had to work with. That is number one. Then, in the second place&#x2014;and here I differ from my hon. friend&#x2014;it is going to be a highly technical matter. I do not think that the ordinary layman could do it. He could not do it and properly apportion the blame. It is impossible.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>Yes, he could.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>What has he to go into? In the first place, he would have to see whether adequate steps were taken, whether adequate enquiry was made into the nature of the ground into which the foundations had to go. That is one part of the enquiry. Then there is another point they will have to enquire into. They will have to enquire whether the strata brought up by the bores was sufficiently examined and proper conclusions drawn from that strata. That also is a very important matter to be gone into. Furthermore, they will have to enquire what was the data on which, for instance, the Engineer in Chief of the Railway Department fixed upon 42 feet as the depth to go to. What is the data upon which Mr. Littlejohn Philip fixed it at 36 feet? That will also have to be gone into. Naturally, we shall have to ask why the consulting engineer reduced the length in the first place from 42 feet to 36 feet, and why he did not go down to rock, which was calculated to be at from 73 to 80 feet. We were never advised to go down to rock in this case. The first man to raise this question was Mr. Mackenzie. There is another point as to why the consulting engineer eliminated the tests when he altered the specifications. These are highly technical matters, and I do not see how a layman can adjudicate upon them. There is another important question to be put&#x2014;as to why the contractor, Mr. Menkins, was instructed to go on with the erection of the storage annexe before we had got the piles down for the working-house. Naturally there was a big weight upon this part of the ground, which had an effect upon the ground next to it. Then there is another question, in which even the Administration and the Minister himself is involved. Was the Administration justified in giving out the contract to Menkins for the foundations of the working-house? I was a party to that, and I agreed to it at the time as being the best way out of the difficulty. It proved to be wrong. That should be very carefully examined as to whether, at the time, we were justified in accepting that tender. There are also a number of subsidiary questions which require to be asked. We gave out the contract for the working-house foundations in July, 1922. Our attention was really only called to the unsatisfactory carrying out of the contract&#x2014;it was not even called; we only came to the conclusion that it was being extremely unsatisfactorily carried out from the fact that there was no progress made in getting the cylinders down. We then had the enquiry by the three engineers which I have mentioned. I ask how it was that our own engineers in charge of the work&#x2014;two of them&#x2014;how it was that the attention of the general manager of the board was not called to the unsatisfactory work of the contractor. I remember well discussing it with the General Manager of Railways and we were in despair almost as to what should be done to get the work forward. We did not seem to get the cylinders down to rock, and the general manager said it would be better to appoint a commission to go into it, and I adopted the suggestion at once. That was done only from the fact that we did not get on with the work. It was not done from the report of our engineers upon the work. That also should be enquired into. These are just a few of the questions which any body who may be appointed to examine the matters will have to go into it. I put it to any fair-minded man in this House, is a Select Committee of Parliament the proper tribunal to go into these matters? [Hon. Members: &#x201C;Of course.&#x201D;] I do not think so. I do not agree with it at all. It is not the work for a Select Committee of Parliament as I shall proceed to show. In these circumstances I am sorry that I cannot accept the amendment of the hon. member. Our proposal is to appoint a commission, the chairman of which will be a barrister of standing, and he will be able to consider and judge the evidence, and then he will have associated with him two engineers <span class="col_191" refersTo="page_0271"/>to get at the evidence and get at the facts when witnesses are under examination. That is the position.&#x2014;[An Hon. Member: &#x201C;What will a commission cost? Thousands of pounds.&#x201D;] What nonsense. How can it cost thousands of pounds? They will only sit about two months, and you will pay them so many guineas per day. I shall be surprised if it costs more than three or four hundred pounds. Of course these men will not be connected with the department. They will have to go into the whole matter, and it will be an advantage that they will be on the spot and will visit the site. That is the point then, and they will report to the Government and that report will be placed before the House. There is another reason why I am opposed to a Select Committee, and that is the question of time. It is no use in my opinion having an enquiry at the present moment, for two reasons. In the first place, it is no use, so far as I can judge, inquiring into the mistakes of the job until you have finished the job, and we have not finished yet.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Are you sure you have finished with the mistakes?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>An enquiry now will not put an end to mistakes especially an enquiry by a Select Committee. I say finish the job and as soon as it is finished&#x2014;it is only to complete the foundations&#x2014;and as soon as it is finished, we can have the enquiry and can see who are to blame for the mistakes made in connection with the work.</p>
+
+</speech>
+
+<speech by="#abe_bailey">
+
+<from>Sir <person refersTo="hansard_za">ABE BAILEY</person>:</from>
+
+<p>Will it ever be finished?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Undoubtedly it will be finished. It will be finished about August or September of this year and then we shall proceed at once with the enquiry. I believe myself, as far as human skill and judgment can be used, that you are on right lines now. We have been on it since April or May of last year, and it is making good progress, and the engineers themselves, Mr. Kanthack and others, speak in the highest terms of the work. I would remind you that driving these enormous cylinders down to 80 feet is no mean work. We must have this particular part of the work finished. I do not say anything about the super-structure, but let us get this finished and make a decent job of it and have an enquiry for the purpose of allocating the blame for past blunders. We have had one enquiry. In April, 1922, I appointed three engineers to enquire into it for the purpose of showing us not only where our mistakes were, but where we could alter the system. Well, we are on the best system now, and the only work which remains now is to find out who is to blame for this large expenditure of public money. That can best be done when the work is finished. It will be folly to bring down these engineers from their work to give evidence in this House. You would have to bring them down from their work for a fortnight or three weeks, and it is work which requires them to be on the spot daily, every hour of the day, to see that everything is right. Certainly it would delay the construction. Then you would have to get down the two supervising engineers as well as other officials, and you would distract their attention from their work to come down here and give evidence. My opinion is that we should leave the engineers at their work, to concentrate on their work and to give their minds and attention to the work, and get it finished and then have the enquiry. Therefore as I have said for these reasons I am sorry I cannot accept the motion of my hon. friend. As I have said, we shall appoint a commission, not in twelve months&#x2019; time, but I hope not later than September of this current year, when I am told, and I have reason, to believe, that the foundations will be completed. Furthermore, when this commission has brought up its report, naturally it will be published and the public of South Africa will have all the facts before them. If the Government has not taken satisfactory action then, it is for the House to move in the matter next session for the further enquiry, if you are not satisfied.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>De hr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Die kalf is nou al verdronke.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>If we have not taken action it is for you to say so and take up the matter again. That is my view of the matter. With the technical report before you on the Table, which you and the public can read, then will be the time if this House is not satisfied with the Government&#x2019;s action to move for a Select Committee. You will have all the facts before you then. Until that has taken place I think it is futile and a waste of time and we will unduly delay the erection of the elevator. I regret, therefore, I cannot accept the motion of my hon. friend.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>†Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I shall not keep the House long. After the long speech made by the Minister my remarks shall be devoted to asking the House whether Parliament amounts to anything at all, and whether there is any such a thing as Ministerial responsibility. The Minister has entered into a long disquisition as to the necessity of inquiring as to who is to blame for this error. But this House is not concerned with that. It is not a society of technical experts. It is a House of the Representatives of the people of this country, who have the very strongest objection to a matter of a quarter or a half million of money being wasted. You have a Government which is responsible to this House consisting of Ministers, responsible for the conduct of the various departments, and this House has a perfect right to know whether in the exercise of his Ministerial functions the Minister of Railways to-day, or the previous Minister of Railways, if it was in his time, took every precaution to see that he obtained the best possible technical advice. A more reasonable request than that of the hon. member, that before we should vote the money, we should by means of our instrument, investigate the circumstances to know where we are, whether we are in the hands of a Minister who can be trusted to exercise reasonable prudence&#x2014;a more reasonable request was never put before this Representative <span class="col_192" refersTo="page_0272"/>Assembly. We do not know whether the present Minister of Railways, or his predecessor, is responsible, but they treat in this airy way the question of whether a half million shall be thrown away and do not enquire into it. We shall not let the Minister have the appointment of this Commission if we can help it. We want a Committee of this House, not a judge, and not a tribunal, which the Minister himself appoints. We want a Committee of this House which is not going to hesitate in saying that the ministerial responsibility has not been properly discharged in this matter, if it so thinks. I am not prepared to trust the Government to appoint a little Commission of their own. We have had enough of these sorts of commissions. The country is tired of the Government and the way they appoint commissions, confined to their own political friends. We want a Committee of this House, acting as laymen and as men of common sense, and we may find men of common sense amongst ourselves, who are able to go into the essential matters and find out whether our machinery is acting satisfactory, whether our Railway Board understands its responsibility and is discharging it and whether the present Minister or his predecessor took sufficient pains to obtain the very best technical advice that could be obtained. I do not wish to say a single word, or reflect upon any person, but it is not the business of this House to dictate upon these matters. It is not the business of the Minister of Railways. One hears of gossip and I am credibly informed that Mr. Littlejohn Philip who is paid this high fee, a distinguished authority as he is on erection of superstructure, on the matter of insecure foundations that his experience is very limited. That is what I am told, and bless my soul, weighty superstructures have been erected on insecure foundations all over the world. I am not concerned with the engineering side of this question, but what I ask is whether the Minister or his predecessor, took the utmost care to get the most unexceptionable advice in the matter. As to the Minister&#x2019;s contention that we are not technical men and unable to deal with the whole thing, and that if the Select Committee sat engineers would have to be brought away&#x2014;these remarks are beside the point. He appeared to argue as if everybody in the House was responsible for what had taken place, but the responsibility is confined to the Minister himself.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I can assure you that I do not shirk the responsibility.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>The responsibility was his and if awful blunders took place it was for him to ascertain where the failures took place. We should like to know which of the two Ministers was responsible for the exceptional arrangement made, that a member of the contracting firm was also the consulting engineer and was to be the advisor in any dispute between the contractor and the administration, when he was in fact associated with the firm responsible. This is an extraordinary position. I would ask the House to disregard entirely the very specious arguments, they are specious arguments, by which the Minister tried to influence the opinion of the House. All these arguments were beside the point, and would have the effect, if we had not called the attention of the House, of distracting the attention of the House from the real point at issue&#x2014;the ministerial responsibility for the great loss which has taken place.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>†De hr. <person refersTo="hansard_za">C. W. MALAN</person>:</from>
+
+<p>Almal van ons, wat onthou hoe die Minister, toe hy nog daar gesit het as lid van die Unionistiese Party, en aangedring het op die mag, die reg en die plig van die Huis teenoor die dade van Ministers, moet vandag voel, dat hy baie ver geval het van daardie dae af. Hy kom en gaat werklik sover om &#x2019;n refleksie te maak op die aansien en onpartydigheid van die Huis. Hy verklaar dat jy &#x2019;n onpartydige ligaam moet hê, onpartydig as &#x2019;n Selek Komitee om die ondersoek in te stel. Dit is &#x2019;n refleksie op die Huis, want die lede van die Komitee sal die saak grondig ondersoek. Ek is verbaas om soiets te hoor en as daar iets is, wat die swakheid van die Minister se saak bewys, dan is dit hierdie aanmer-king. Wat die Huis verwag het is, dat hy ronduit sou erken het dat hier &#x2019;n saak was vir &#x2019;n noukeurige ondersoek deur die hoogste liggaam, namelik, die Volksraad. Wet het hy nou aangevoer ten gunste van sy Komitee? Hy sê: &#x201C;Give us the facts.&#x201D; &#x201C;Gee ons die feite.&#x201D; Maar ek vra wie kan beter die feite uitpluis as juis &#x2019;n Selek Komitee, bestaande uit lede van die verskillende partye van die Huis. Die amptenare is beskikbaar en die nodige stukke en rapporte is verkrybaar vir so&#x2019;n Selek Komitee. Die Minister maak daar &#x2019;n groot punt van dat die ingenieurs en andere vir lange tyd sou moet weggaan van die werk af. Maar dit hoef niet so&#x2019;n lange tvd te neem nie; hulle kan hulle verklarings opstel en indien. Die verantwoordelikheid moet vasgestel word in verband met die flaters wat daar gemaak is. Een van drie vrae sal wees: waarom het Mnr. Littlejohn Philip toe hy vasgestel het, dat die pale 36 voet in plaas van 42 diepte moes bereik, ook die proefpale afgeskaf? Dit is &#x2019;n saak wat die Selek Komitee sal moet ondersoek: waarom nie by die oorspronkelike plan om proewe te neem gebly is nie? Die Minister sê die werk vorder nou goed. Indien dit so is, dan is die Departement en die Minister oor hulle tegniese moeilikhede heen, maar dan sal die Minister ook voel dat die Huis nou al die feite vra in verband met die saak en daar die lier van die ondersoek op wil laat val. Die Minister vra wie is te blameer? Wie kan beter daaroor oordeel as &#x2019;n Selek Komitee, met die getuienis en voorligting van die deskundiges? Die Minister moet voel, dat dit ongelukkig is dat hy die Selek Komitee weier. Hy weet nie hoe sterk die gevoel in die land is nie oor hierdie kwart miljoen pond wat verkwis is. Dit word gevoel dat dit een van die ergste gevalle van verkwisting is wat daar vir &#x2019;n lange tvd voorgekom het. Die Minister sê hy het niks weg te steek nie. Ek glo dit graag, maar waarom laat hy dan die rapporte van die here Ingham, Kanthack en MacKenzie nie voor die <span class="col_193" refersTo="page_0273"/>Huis lê nie? Die rapport van die Ouditeur-Generaal werp &#x2019;n treurige lig op die Departement en die Minister. Dit word gesê dat die eerste werk deur die here Dougall en Munro geblyk het onbevredigend te wees en toe werd dit aan Mnr. Menkins gegee, en dit sonder publieke tender. Waarom is &#x2019;n publieke onderneming van £105,000 uitgegee sonder om tenders daarvoor te vra? Die Minister sê dat dit geen sukses was nie, omdat Mnr. Menkins nie voldoende ondervinding had nie. Waarom werd hom die werk dan toevertrou? Ek wil die Minister &#x2019;n direkte vraag stel: werd Mnr. Littlejohn Philip direkt geraadpleeg by die uitgee van die werk en werd die werk van die £105,000 deur Mr. Menkins uitgevoer onder toesig van Mnr. Littlejohn Philip? Die Minister knik van ja. Dan moet hy erken dat Mr. Littlejohn Philip veroordeel staan voor die Huis en die Minister. Wat sê die rapport van die Ouditeur-Generaal: &#x201C;The work was done in a most crude way.&#x201D; Hier kon niks anders verwag word nie, waar die werk deur Mnr. Menkins gedaan werd sonder voldoende kennis van die aard van die werk. Ja, Mnr. Speaker, dan moet ek nou verstaan dat die kontrak van £105,000 met die heer Menkins &#x2019;n gewone kontrak was? Dan erken die edelagbare die Minister self dat die amptenare van die Spoorweg Departement geen reg had om vir die heer Menkins te sê: &#x201C;dit of dat moet gedoen word.&#x201D; Die Minister moet nie die blaam werp op die amptenare van sy departement nie waar dit nie verdien is nie. As hulle blaam verdien sal ek die eerste wees om hulle te blameer. Maar nou neem hy die heer Littlejohn Philip onder sy beskerming. Hy skyn &#x2019;n baie warm plek vir Mnr. Littlejohn Philip te hê. Maar die edelagbare die Minister moet nie die blaam werp op sy amptenare, nadat andere &#x2019;n slegte werk daarvan gemaak het. Die amptenare had nie die werk onder hulle superviesie, want dit was &#x2019;n onafhanklike kontrak van die heer Menkins. Nou kom die edelagbare die Minister hier en wil te kenne gee, asof die Ouditeur-Generaal in sy rapport beweer het dat nie genoeg aandag was gegee aan die kwessie van ondersoek van die grond in Durban. Maar ek het die rapport van die Ouditeur-Generaal noukeurig nagelees en ek wil graag hê dat die Minister my enig deel sal aanwys waar in die rapport neergelê is, dat die aard van die grond nie genoegsaam ondersoek is nie. Dit was altyd bekend dat die hele streek by Durban hawe van so&#x2019;n aard is dat nie vaste fondamente kan gekry word nie voordat jy 80 voet diep gaan, om op rots te kom. Dit lyk my, asof die Minister nou probeer om &#x2019;n &#x201C;red herring&#x201D; oor die pad te trek, om die aandag weg to kry van die feite. Dieselfde geld van die poging om hom te verskuil agter die opienie van Sir Alfred Gelder, maar die heer het maar net van uit Engeland die planne geëksamineer. Dit blyk duidlik uit die feit dat hy maar net honderd guinea&#x2019;s vir sy rapport gekry het, terwyl die heer Littlejohn Philip duisend pond per maand ontvang het. Sir Alfred Gelder het nie die minste kennis van die toestande in Suidafrika en was waarskynlik nog nooit in Durban. Nee, ook om hom te verskuil agter die opienie van Sir Alfred Gelder gaan &#x2019;n bietjie ver. Dan is daar &#x2019;n ander punt wat ek graag aan die edelagbare die Minister wil vra en waaroor hy totale stilswye bewaar het. Hoe verklaar hy die optrede van die Algemene Bestuurder en sy eie, dat terwyl hulle wis dat die hr. Littlejohn Philip deelgenoot was van Spencer &amp; Co., hulle tog toegelaat het dat sub-kontrakte met die firma Spencer &amp; Co. gemaak werd vir &#x2019;n bedrag van ongeveer &#x2019;n halwe miljoen? Die hr. Menkins het selfs sover uit sy pad gegaan om aantebeveel dat vir die graansuiger in Kaapstad ook die tender van Spencer &amp; Co. moes aangeneem word, alhoewel die tender van Henry Simon Ltd., laër was as die van Spencer &amp; Co. En nu kom ek tot die ernstige punt waarop ek die aandag van die Huis wil vestig, dat niet-teenstaande dit alles, die Algemene Bestuurder en die Minister in die kontrak met Mnr. Philip die belangryke beginsel neergelê het dat die finale koste sou vastgestel word deur die raadgewende ingenieur en die kontrakteur.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>De hr. <person refersTo="hansard_za">C. W. MALAN</person>:</from>
+
+<p>Maar as die edelagbare die Minister dan ontken wat ons hier gesê het en as ons verkeerde inligtinge gekry het, dan sal die Minister ons dit duidelik moet maak. Ek dink die edelagbare die Minister is nie opreg teenoor die Huis nie. Ons word gelei deur die Rapport van die Auditeur-Generaal.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I have explained the whole thing already.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>De hr. <person refersTo="hansard_za">C. W. MALAN</person>:</from>
+
+<p>Ek sal dit die Minister voorlees. Op bladsy 14, eerste alinea, lees ons&#x2014;</p>
+
+<block name="quote">&#x201C;Alle vier kontrakten bepalen betaling op een kosten plus percentage-basis, onderhevig aan zekere veranderingen in geval van een overschrijding of besparing op de geschatte kosten. Bij finale voltooiïng van het werk zullen de werkelike kosten &#x2018;finaal vastgesteld worden door de raadgevende ingenieur en de kontrakteur.&#x2019;&#x201D;</block>
+
+<p>Ons het daar geen woord omtrent gehoor van die Minister nie. Ja, ek sien, die Minister vind nou uit dat ek reg is. Die edelagbare die Minister het aan die Huis &#x2019;n eksplanasie gegee, maar daardie soort van eksplanasie kan die Huis nie tevrede stel nie. Nee, uit alles blyk, dat die Minister &#x2019;n baie warme plek vir Mnr. Littlejohn Philip skyn te hê, maar ek hoop hy sal in die vervolg dieselfde warm hart het vir sy Suid-Afrikaanse amptenare. Die amptenare wat die regte planne aangewys het was Suid-Afrikaners. Mnr. Mackenzie, hoofbrug engineur het van die begin af gesê: &#x201C;Julie moet minstens 80 voet gaan ra rots.&#x201D; En Mnr. Tippett het in verband met die optrekking van fondamente gesê, dat dit 42 voet moes gaan en dat proefpale moes gesink word. Die hr. Littlejohn Philip het dit nie alleen verander nie, maar ook die proefpale uitgeskakel. Vir my is dit baie duidelik, dat die amptenare van die Departement nie te blameer <span class="col_194" refersTo="page_0274"/>is nie en dat van hulle kant baie omsigtigheid aan die dag gelê is. En wanneer daar foute gemaak is, dan moet ons, en dis nie meer as reg teenoor die amptenare, diegene blameer wat die foute gemaak het. Die hr. Littlejohn Philip, die groot deskundige, maak veranderinge en lê dit nie eens voor aan die hoof engineur van die departement nie. Ek hoop dat die edelagbare die Minister en ook die ander Ministers, hieruit die les sal leer, dat ons in die eerste plek gebruik moet maak van die kennis van ons eie deskundiges en dat nie langer voorkeur sal gegee word aan mense van oorsee, maar dat die seuns van ons land die voorkeur sal kry. Vandag het ons die bepaling, dat vir staatsbetrekkinge alleen die in aanmerking kom wat nie minder as drie jaar in Suid-Afrika woon nie. Hierteen het die Minister van Spoorweë hom vir die spoorwegdiens verset. Ek wil hom net nou vra, om na die ondervinding met die hr. Littlejohn Philip voor oë hy tog meer vertroue behoort te stel in mense wat in sij eie land woon, hetsy hul gebore is hier of hierentoe gekom het. Die publiek wil vandag weet wat die feite is en daardie feite kan alleen behoorlik vasgestel word deur &#x2019;n Gekose Kommissie, bestaande uit verteenwoordigers van die Regeringsparty en al ander partye in die Huis. Dan is daar nog &#x2019;n ander punt. Daar is baie aspekte van die saak, maar ek wil nog maar net een noem. Waarom, terwyl sy finna die sub-kontrak gekry het, in welk geval die heer Littlejohn Philip beloof had afstand te doen van twee pond persent kommissie op die kontrak prys repudieer die heer dit hou?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>They could easily have reported to the general manager or the chief engineer. I am not trying to protect Mr. Littlejohn Philip.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>De hr. <person refersTo="hansard_za">C. W. MALAN</person>:</from>
+
+<p>Maar ek wil nou net die edelagbare die Minister vra of dit so is, dat die hr. Philip aanspraak het op die fooie omdat hy beweer dat sy firma die kontrak nie direkt gekry het nie.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>†The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Perhaps it would be better for me to say that it was not under the supervision of Mr. Littlejohn Philip that the £105,000 contract was carried out. When given out Mr. Littlejohn Philip went over the water again. The work was carried out under the supervision of our own engineers. What we have occasion to grumble at is that our engineers did not report to us much earlier the unsatisfactory way the work was being carried out. I wane to say, in justice to Mr. Littlejohn Philip, it was not under his supervision.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>†De hr. <person refersTo="hansard_za">C. W. MALAN</person>:</from>
+
+<p>Growwer kan dit nie. Dit word gesê, dat Mnr. Littlejohn Philip enkel toegestem het om twee persent op sy fooie te laat val op woorwaarde, dat hy die kontrak sou kry. Die Minister moet toegee, dat hier &#x2019;n saak is vir noukeurige ondersoek deur die hoogste liggaam in die land, die Volksraad.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>†De hr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Ek kan nie help om oor hierdie saak te praat nie, want daar het jy weer een van die toestande waaronder die boer sal ly. Toe ons die eerste vooltjie hoor fluit dat daar iets met die graansuier nie in orde was nie, was dit byna ongelooflik dat die ingenieur wat die grond moes lê, kon uit die oog verloor om te sorg dat hulle die fondament op &#x2019;n vaste rots plaas. En hier kom die Minister en sê dat met die oog op besuiniging het hulle besluit om die pale in plaas van 43 voet, net 36 voet in te slaan. Daar siet mens die gevolge daarvan as ons raadgewers kry uit die buiteland. Mens kry dadelik die indruk, dat die boer sal moet betaal. Toe ons hoor van die graansuiers&#x2014;ek meen daar was sprake van &#x2019;n sewentigtal&#x2014;het ons gereken dat dit nou iets is, waaruit ons nut en genot sou trek. Daar kom &#x2019;n geweldige terugslag, want dit blyk, dat dit jare en jare sal neem, voordat die dinge voltooi sal wees en die boer moet maar geduldig wag totdat hulle klaar is. Die voorstel van die lid vir Durban (Greyville) (de hr. Boydell) is na my oordeel nie onbillik nie en ek reken die Minister moet daardie vakkundige kommissie laat vaar en laat &#x2019;n Selekt Komitee daaroor sit, temeer waar die Minister verklaar het dat hy niks te verberg het nie. Maar dit is snaaks om te hoor dat hy volhou; de fondament moet eers klaar gelê wees, voordat ondersoek kan ingestel word. Dus die Huis moet eers uitbrand, alvorens ondersoek sal word of hy goed gebou is. Daar moet op &#x2019;n grondige basis gebou word en die saak is van ernstige belang en ondersoek moet dadelik ingestel word. Ek vra: lê dit weer by ingevoerde manne ses duisend myl ver vandaan, terwyl ons hier in die staatsdiens bekwame manne het soas b.v. Mackenzie, die dadelik gesê het: sorg dat die fondament op die rots gebou word? Ek vertrou dat die Minister sal toestem in &#x2019;n onmiddellike ondersoek deur &#x2019;n Selekt Komitee.</p>
+
+</speech>
+
+<speech by="#nixon">
+
+<from>†Mr. <person refersTo="hansard_za">NIXON</person>:</from>
+
+<p>I only rise to point out one or two things arising out of the speeches of the hon. member for Humansdorp (Mr. C. W. Maian) and the hon. the last speaker. They seem to make a great fuss about the question that the Government imported an expert from outside in this matter. Those members who were here in 1918 will remember a blue-book which was issued on this very subject of elevators. The Commission which sat consisted of various officials and farmers in this country, and they strongly recommended &#x201C;that, assuming the Government decided to provide elevators a cable be sent with a view to a first class consulting engineer with special experience of elevator work and construction, being engaged to investigate South African conditions on the spot, and to advise the Government as to details of design, sites, etc., and draw up specifications.&#x201D; We heard from the Minister last year, and again to-day, that Mr. Littlejohn Philip came out here in March. 1919, for this special purpose. The money which it is said has been wasted is not half a million, as stated by the hon. member for Stamford Hill (Mr. Creswell), but £207,000.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Really, is that all?</p>
+
+</speech>
+
+<speech by="#nixon">
+
+<from><span class="col_195" refersTo="page_0275"/>Mr. <person refersTo="hansard_za">NIXON</person>:</from>
+
+<p>I agree with the policy of the Minister that the matter should be investigated by a Special Commission, and am opposed to the motion for a Select Committee. Notwithstanding the theatrical conclusion of the Auditor-General in his report that &#x201C;the actors were departing and the foundations being covered up,&#x201D; there was not the least danger of the interests of the State or of any person whatsoever being adversely affected by the enquiry being delayed as proposed by the Minister.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>†Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>The hon. member who has just sat down, said he supports the Minister. I think every member in this House would be surprised if he did not, for I never knew him to have the moral courage to go against the Minister. Another of his points was that £207,000 was wasted and not a quarter of a million, but he did not say that the £207,000 was up to the end of last March and that today it is nearer £300,000 than £207,000. But I did not get up to reply to the hon. member, I wish to reply to the Minister. I never heard the Minister put up such a weak case. He seemed to be trifling with the subject all the time. He introduced what he said were technical matters, but which are not really technical matters at all. Most of the points he has made are questions which could be decided by a Select Committee of this House equally as well as by the commission he wishes to set up. During his speech, one fact stands out and that was the collossal mistake which was made. That collossal mistake was that they tried to erect an elevator on foundations which were not taken to rock-bottom. To-day after spending £300,000 of the country&#x2019;s money, they have decided that the foundations must go down 80 feet to the bottom. But what I want to know is why did they not see that that was done at first, and who passed the plans saying that the foundations should be 36 feet? Why did Mr. Littlejohn Philip abolish that test? If the test had been made then they would have seen that the short piles were an impossible feature and that long piles would have had to be put in. I want to know why was that not done? Why did Mr. Littlejohn Philip, who got high fees, abolish what the Government engineer considered necessary? All we ask is that this House should be given the opportunity through a Select Committee of hearing the evidence of the Government Engineers and of Mr. Littlejohn Philip, Mr. Menkins and Mr. Mansell. That evidence could be obtained with very little trouble. Who is the Minister going to take away from the works for this evidence to be given? Mr. Littlejohn Philip is in Cape Town to-day. Mr. Mackenzie, it is true, has gone to Rhodesia, and as regards Mr. Mansell, surely he could be taken off the work for a day or two to give his evidence, and there are plenty there to carry on the work while he is away. Surely, the Minister is not going to put forward as a serious argument that this enquiry should be held up for another 9 or 12 months. It seems to me that the Minister wants an effective enquiry to be impossible. By delay, by putting it off, it makes it more difficult to achieve, and when the time comes to hold it, it will be said that the commission cannot do justice to it, because the people are not available to give evidence. The Minister is responsible after all. It was his predecessor who bungled it in the first place, and it has been left to the present Minister of Railways to try and get things put right. But he is not doing justice to South Africa, he is not doing his duty to the public of this country and to the tax-payers by deferring the holding of this enquiry. I know that this motion will be defeated, but it will not be defeated on its merits. The Government will defeat this motion&#x2014;why? Because the hon. member for Denver (Mr. Nixon) and other members on that side of the House will fall into line when the division bells ring and vote against it.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>When do you vote against your party?</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>When they are wrong.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Are they ever wrong?</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>The strongest case is made out for an enquiry to be held at once. The Auditor-General points out in his report that an enquiry is necessary, and I say that if the Minister does not accede to this then the responsibility rests with him and his party and he will not have done justice to the public and the tax-payers of South Africa.</p>
+
+<p>Motion put, and the House divided:</p>
+
+<p>Ayes&#x2014;50.</p>
+
+<p>Alberts, S. F.</p>
+
+<p>Alexander, M.</p>
+
+<p>Badenhorst, A. L.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Christie, J.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>Creswell, F. H. P.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Enslin, J. M.</p>
+
+<p>Forsyth, R.</p>
+
+<p>Fourie, A. P. J.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hertzog, J. B. M.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Jansen, E. G.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Le Roux, P. W.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Madeley, W. B.</p>
+
+<p>Malan, C. W.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Malan, M. L.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Muller, C. H.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naudé, J. F.</p>
+
+<p>Obermeyer, J. G.</p>
+
+<p>Pearce, C.</p>
+
+<p>Pienaar, B. J.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Raubenheimer, I. v, W.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Smit, J. S.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Stewart, J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Visser, T. C.</p>
+
+<p>Waterston, R. B.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Wessels, J. H. B.</p>
+
+<p>Tellers: Sampson, H. W.; De Waal, J. H. H.</p>
+
+<p>Noes&#x2014;61.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Bates. F. T.</p>
+
+<p>Bezuidenhout, W. W. J. J.</p>
+
+<p>Bisset, M.</p>
+
+<p>Blackwell, L.</p>
+
+<p>Buchanan, W. P.</p>
+
+<p>Burton, H.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Cilliers. P.S.</p>
+
+<p>Claassen, G. M.</p>
+
+<p>Close, R. W.</p>
+
+<p>Dreyer, T. F. J.</p>
+
+<p>Duncan, P.</p>
+
+<p><span class="col_196" refersTo="page_0276"/>Fitchat, H.</p>
+
+<p>Fourie, J. C.</p>
+
+<p>Geldenhuys, L.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Graumann, H.</p>
+
+<p>Greenacre, W.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Harris, D.</p>
+
+<p>Henderson, J.</p>
+
+<p>Henderson, R. H.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Jordaan, P. J.</p>
+
+<p>King, J. G.</p>
+
+<p>Lemmer, L. A. S.</p>
+
+<p>Louw, G. A.</p>
+
+<p>Macintosh, W.</p>
+
+<p>Mackeurtan, H. G.</p>
+
+<p>Malan, F. S.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>McAlister, H. S.</p>
+
+<p>Mentz, H.</p>
+
+<p>Moffat, L.</p>
+
+<p>Nathan, E.</p>
+
+<p>Nel, T. J.</p>
+
+<p>Nicholls, G. H.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>Nixon, C. E.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Papenfus, H. B.</p>
+
+<p>Purcell, I.</p>
+
+<p>Reitz, D.</p>
+
+<p>Robinson, C. P.</p>
+
+<p>Rockey, W.</p>
+
+<p>Rooth, E.</p>
+
+<p>Scholtz, P. E.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Smuts, J. C.</p>
+
+<p>Stuart, W. H.</p>
+
+<p>Van Aardt, F. J.</p>
+
+<p>Van Eeden, J. W.</p>
+
+<p>Van Heerden B. I. J.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Venter, J. A.</p>
+
+<p>Watt, T.</p>
+
+<p>Webber, W. S.</p>
+
+<p>Tellers: De Jager, A. L.; Collins, W. R.</p>
+
+<p>Motion accordingly negatived.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners&#x2019;_phthisis_act_1919">
+
+<heading>MINERS&#x2019; PHTHISIS ACT, 1919.<br/>MIJNTERING WET, 1919.</heading>
+
+<speech by="#sampson">
+
+<from>†Mr. <person refersTo="hansard_za">SAMPSON</person></from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to enquire into the administration and working of the Miners&#x2019; Phthisis Act, 1919; the Committee to have power to take evidence and call for papers.</block>
+
+<p>He said: This is one of the legacies we have got through neglecting questions so long, not only by the present Government but by former Governments and Parliaments in South Africa, and I am sure it is a matter that will be treated sympathetically on this occasion. The principle object I have in view is to remove the position of stalemate, or deadlock, which seems to have grown up lately in regard to this question. For years Parliament devoted its energies by Select Committee of the House to the study of this question on non-party lines entirely, and the legislation which was passed through this House was entirely of a non-party character. There are some who conclude that the 1919 Act was about the last thing in legislation of this kind, but that was not the opinion of this Parliament. I can only point to the fact that in 1920 we set up a Select Committee. That committee sat during the whole session of Parliament. It had evidence on most of the points arising out of the weaknesses of the 1919 Act and the necessity for amendment, and I think there were at least half a dozen amendments which were held to be necessary from the employers&#x2019; and employees&#x2019; standpoint. But there seemed to be an idea that there would be other grievances and other matters which would require enquiring into, and the majority of that Select Committee expressed the opinion that the Government should set up another commission to enquire into the whole matter. Well Sir, I do not think that it will be contended by anybody that that commission&#x2014;perhaps with the exception of myself&#x2014;was at all prejudiced in favour of one side or another. I think it was said by the chairman of the Chamber of Mines that he considered the persons who sat on the commission were well, qualified to consider the matter, or that the commission was well constituted. The commission went into the matter very exhaustively, perhaps more so than any other commission I have known. They drafted an interim report, and presented it to the Minister. They included a draft Bill in the interim report which the Minister told them he desired to pass through that session. No notice was taken of that commission&#x2019;s report whatever, neither with regard to the Bill or matters dealing with prevention. I think there were two regulations arising out of it published in the <i>Gazette</i> last year, but outside of that I think no notice was taken of it. Last year we had a measure introduced by the Government which was not the commission&#x2019;s Bill at all. There was not the slightest semblance between the two Bills. Therefore the whole question of miners&#x2019; phthisis to my mind was put on a purely party footing. I consider that most undesirable in a matter of this kind, that a question like this should be dealt with from the standpoint of party expedience, and my endeavour on this occasion is to make out a case for further enquiry. Other matters have arisen since the commission reported. Owing to the neglect of the past three or four years numbers of people have undergone untold suffering and privation. There should be a committee which will once more advise Parliament as to what amendments are necessary to the present legislation. I would say, too, that this past neglect has had a harmful effect to something we desire above all other things, namely, the prevention of the disease. I have said before and I say again that if a committee did get to work we may, with the right response from technical committees and bodies who have hitherto interested themselves in the disease get something done. When the 1920-21 Commission started work they desired to place themselves under the wing of the commission and work with it, and for a while they did so and we got valuable experience as a result of their work. When, however, they found that the Minister was not inclined to take the slightest notice of the commission or of their recommendations in regard to prevention they went out of existence and I have not heard of them since, more the pity. My enquiries show me that there are more applications for benefits under the miners&#x2019; phthisis fund to-day than ever before and the number of deaths each month exceeds the number previous. Each month the number is increasing. The exact figures are not available. We have nothing further in the way of figures since 1921. I have made it my business to enquire at the board&#x2019;s offices sometimes, and if the figures are available they have had the courtesy to give them to me. I have been struck by the increased number of applications and of the deaths of men suffering from miners&#x2019; phthisis. So it will be seen they have not done away with the trouble altogether. My experience of the <span class="col_197" refersTo="page_0277"/>work underground, except on the newer mines, is that very little progress has been made in regard to the eradication of the disease although a good number of members console themselves with the thought that we are making progress. A year or two ago it was the boast that no men who had gone underground for the first time since 1916, and who had passed the initial examination, were suffering from phthisis yet. That can no longer be boasted to-day.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Only in one or two cases.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>In several cases, and that is exactly what I predicted. Men passed an extraordinarily stiff test as to physical fitness, and in less than seven years they have the disease. We have no evidence to justify us in boasting that we have made progress in the prevention of the disease. There are not many cases so far, but even if there were only one case it would be sufficient for me. We have boasted that these men who have gone underground, on account of their physical fitness and the improved conditions underground, would be able to resist the disease. To-day we can no longer boast that. These are some of the 20 per cent, of passes. Only one man in five passes that exceedingly difficult test of the initial examination. In 1920-21, when the Commission was sitting, an illegality on the part of the bureau was noticed. Some 20 or 30 men had suffered by it up to that time. By allowing that practice to be set up in 1920 we find hundreds, and perhaps thousands, of men on the Witwatersrand who have carried out the requirements of the law have been deprived of their living since without any compensation whatever or without redress. I want to deal with this point particularly. If hon. members will turn to section 42, sub-section (4), of the Miners&#x2019; Phthisis Act, they will see that the miner who has obtained a periodical certificate, and who presents himself within two years of the date upon that certificate for further examination, is entitled to that examination, and is also entitled to receive one or other of the two certificates described in paragraphs (<i>a</i>) or (<i>b</i>). One certificate certifies that he is suffering from tuberculosis and will not be allowed to go underground, and will receive the benefits of this Act, one year&#x2019;s average earnings. The other certificate is to the effect that he is not suffering from tuberculosis, and he is entitled to return to his work. It is clear to any lawyer that nothing is said in this section that that two years shall mean two years since he left underground work. It says two years from the date upon his last certificate. I will read the sub-section in its entirety:&#x2014;</p>
+
+<block name="quote">(4) Any person who has obtained a periodical certificate may, not prior to the date shown upon such certificate for the next periodical examinations, nor more than two years after he last obtained such certificate, submit himself to a periodical examination; and the provisions of sub-sections (2) and (3) shall <i>mutatis mutandis</i> apply to such miner.&#x201D;</block>
+
+<p>Early in the working of this section of the 1919 Act the Bureau ruled that any miner who had not been underground for two years ceased to be entitled to go underground until he was re-examined and received an initial certificate. Although a man had followed out the advice of the medical advisors and had come out to follow, some other occupation, when a miner tried to get away from the mines for a spell and go into some other occupation so as to at least partly recover from the effects of phthisis, and during this period took his periodical examinations, he was penalised by being excluded from working by the Bureau. True, it is provided that a man may bring a case in the Supreme Court against the Bureau on grounds of illegality or gross irregularity. I noticed in the newspapers that at least one miner found the fee somehow and a lawyer to take up his case&#x2014;generally speaking, the miners are not in a financial position to take their cases to court. I have seen 40 or 50 of these men with clear statements which they have placed before lawyers, and the lawyers said &#x201C;you have a good case, but where is your money.&#x201D; The case I am dealing with now is the case of a man called Skovgaard. I have the affidavits in his case before me; he worked underground for some five years; he came out and worked on the surface, and at the end of each six months he went up for his periodical examination. When he went up for his fifth examination, although he had been five years underground previously, he was refused the periodical examination because he had fibrosis of the lungs, and he could not pass the initial examination prescribed in section 43, which is a very severe one. He brought the case before the Supreme Court. The Bureau stepped in with an affidavit alleging that he was not a miner. The judge then, I do not know what study he previously gave to the Act, ruled that as a dispute had arisen as to whether the man was a miner or not he must go to the Government mine engineer and get him to rule upon the point. The ruling of the Government mining engineer was as follows&#x2014;</p>
+
+<block name="quote"><i>&#x201C;</i>With reference to your letter of the 26th June, requesting my decision in a dispute between the above client of yours and the Medical Phthisis Bureau, I have the honour herewith to convey my decision on the two points stated to be in dispute. (1) John Skovgaard was a miner within the meaning of the Act when he was working on the scheduled mines; (2) he has ceased to be a miner for the purposes of section 42 of the Act on the 29th January, 1923.&#x201D;</block>
+
+<p>In other words he had ceased to be a miner although he had taken his periodical examinations every six months. I would ask where is the power in this or any other Act giving the Mining Engineer the power to say a man who was a miner has ceased to be a miner. There is no provision in the Miners&#x2019; Phthisis Act giving him that power. Here is the definition of &#x201C;miner&#x201D;&#x2014;</p>
+
+<block name="quote">&#x201C;A miner is a person (other than a native labourer) who before or after the commencement <span class="col_198" refersTo="page_0278"/>of this Act is, or has been employed as his regular occupation in any of the capacities mentioned in the fourth schedule to this Act at a scheduled mine, whether such person is or has been engaged under any agreement, express or implied, oral or in writing, and whether payment be made by time or calculated upon the work done; in the event of a doubt or dispute as to whether a person is a miner the matter shall be referred for decision to the Government Mining Engineer, and his decision shall be final.&#x201C;</block>
+
+<p>A miner therefore is any person falling under schedule who is or has been a miner. Here a man who had worked underground and attended regularly the periodical examinations, and it was not the province of the Mining Engineer to decide whether he was or was not a miner. Thousands of miners have left the mines in various stages of the disease, and when their cases come before the Board for review they are entitled to further compensation if they have grown worse. It is not for the Mining Engineer to say that a person who has left the mines for two years and who has come up for the periodical examination has ceased to be a miner. If the law gave that power to the Government Mining Engineer he could rule out all these men from benefits, which are only payable to a miner. That has never been done before. I say it was distinctly wrong, and I submit that the Bureau has been distinctly guilty of sharp practice in excluding Skovgaard from working and at the same time the benefits of the Act.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Was Skovgaard a beneficiary?</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>No. I have related the circumstances. He came out of the mine after five years&#x2019; work Underground. He was determined to have a spell on the surface. He took his periodical examinations every six months, that is the examination taken by a man who again intends to work underground. If at any time during that period it was found he was suffering from tuberculosis his certificate would have been withdrawn, and if that happened within 12 months he would be entitled to the benefits for tuberculosis. But he was refused the fifth examination on the grounds that he had left the mines more than two years before. That is not done in every case. There are hundreds, however, in the same position as Skovgaard. Perhaps the Minister thinks I am exaggerating. I can find you thousands who have lost their right to go underground without compensation. There is some process going on by which if the miner is found on his fifth examination to be free of fibrosis, that is the stage or state of the lungs previous to silicosis, and if he is a perfectly healthy man they continue to give him those examinations and he is allowed three or four years afterwards to go underground. I will mention one case&#x2014;that of Mr. Harris, a mine official who left the underground work and continues to take those examinations and get his certificate. Therefore this practice is not put in force in all cases, only where they find a man is well progressed toward a definite stage of silicosis and there is a likelihood of having to pay compensation. I contend they are acting illegally. Where is the legal sanction for their action? I know of none. When we extended the schedule of occupations under the Act we brought in a whole lot of fellows who had been used to going underground casually, and we subjected all these fellows to the initial examination. Hundreds did not pass and lost their employment. We also omitted to take into account that there would be a large number of people who, by the natural order of things, would not be actually working in 1916, and again in 1919, when the Acts came into force. Unless they were actually working on that day, underground, they would not fall under Clause 42 and, even after 20 years&#x2019; underground work, would have to pass an initial examination which excluded them from further work but at the same time they were excluded from the benefits of the Act. Take the case of an engine-driver who starts work underground. When a vacancy occurs on the surface, perhaps after long years of experience in the mine, he gets a vacant surface job. He may be in that job eight or nine years, and then the mine is burned down, or has to be closed down, or is worked out. That man has to start afresh on another mine. To enable him to do this he has to pass an initial examination. Obviously his previous underground work, culminating as it always does in that stage which the medical profession calls &#x201C;more fibrosis than usual,&#x201D; if nothing worse debars him from passing that examination and he cannot go underground. This is a case for enquiry which can be gone into more fully. There is another matter which I would like to refer to. I was told the other day that I was not a lawyer, but this law refers to miners and I think I understand it. I have tried to so far. Now with respect to another matter that should form the subject of enquiry. I am glad the hon. the Minister for the Interior is here, as he was a member of the 1919 Select Committee and I want to make no mistake in this matter. The first thing on which that committee agreed in the matter of benefits was that the old system of terminable annuities was a bad one, and in place of that they should make some permanent provision for the men who were disabled. In regard to the men who left the mine in the future after the Act was passed, we agreed that there should be a pension provided at the rates laid down in a schedule by the Act. The next question which naturally arises is what were we going to do with regard to the men who came out of the mine under the terminable annuities and who had exhausted the sum of £750 to which they were entitled under previous laws. The committee determined that these men were entitled to the pension, as they had received a much lower sum in monthly payment than it was even proposed to give to men who left the mines in the future. It was agreed in both those cases that when they died&#x2014;and nothing was said of what they died of&#x2014;that their dependents should be entitled to the continuing allowance which was laid down in the Act for widows and other dependents. <span class="col_199" refersTo="page_0279"/>There was a further problem upon which the committee took a long time to make up its mind, and your Select Committee report will show you how many weeks after having dealt with the previous matter they dealt with the matter I am now going to mention. What were they going to do in the case of dependents of men who had died prior to the 1919 Act coming into force from miners&#x2019; phthisis? It was decided that we could not have one set of widows dealt with in a different way from another set of widows when all their husbands had died of the same disease. That would lead to anomalies in the future legislation, and it was decided to grant pensions to all those widows of men who died of miners&#x2019; phthisis before the commencement of the Act. This was dealt with separately and afterwards in a clause held over for a long time&#x2014;Clause 29. It was agreed to subject to a condition of the hon. member for Krugersdorp (Sir Abe Bailey) that a proviso be inserted to the effect that those dependents desiring this benefit should apply within twelve months from the commencement of the Act. He used the words&#x2014;</p>
+
+<block name="quote">&#x201C;We do not want them bobbing up for all time. Surely it is reasonable they should make their applications within twelve months, and we ought not entertain applications after that date.&#x201D;</block>
+
+<p>Clause 29 went through with the addition attached that they should apply within twelve months. As those people had exhausted all the benefits granted under previous Acts and they were looking to Parliament to relieve them at that time in their distress, this did not constitute any hardship. That was the position as I know it and as I read the law. I recently had a case, and it is best to state a case, not that it is a isolated one, for in every case the number of people affected will run into two or three figures. It was a case of a Mr. Carlin who was in the secondary stage and receiving the pension. He was also suffering from another complaint and he was advised by his medical advisor to undergo an operation. Before doing so he went to the office of the Miners&#x2019; Phthisis Board and asked whether if anything happened to him, if he died, was he right in supposing his wife and children were provided for under the Act? He was told that he was. He did not explain at that time that he was suffering from another disease and was going under an operation. He died under the anaesthetic. His with made application and was told by the Board that as her husband had not died of miners&#x2019; phthisis she was not entitled to the benefits of this Act. This after he had gone home and told her that if anything happened to him she would be provided for under the Miners&#x2019; Phthisis Act! I took up her case and was told that it fell under Clause 29 instead of 27 as I supposed. I admit that the preface to Clause 27 is capable of two constructions. I hope the lawyers will follow me. Clause 27, the clause under which the committee dealt with the dependents of men who died after the commencement of the Act, reads&#x2014;</p>
+
+<block name="quote">&#x201C;Subject to the provisions of this Act, benefits shall be granted thereunder as follows to such dependents of deceased miners who have not received benefits under the prior law as make application after the commencement of this Act.&#x201D;</block>
+
+<p>The point is this&#x2014;</p>
+
+<block name="quote">&#x201C;have not received benefits under the prior law.&#x201D;</block>
+
+<p>Does this refer to the miner or does it refer to the dependent? I contend that what is meant there is that the dependents have not received benefits under the prior law. The Board has interpreted that as being the miner who is meant. I contend that the word &#x201C;have,&#x201D; and I am told that the Afrikaans version on the opposite side of the page bears me out, shows clearly that the dependents were meant. Now they are turning down all the dependents of the men who have died from causes other than miners&#x2019; phthisis. Of course this matter could be determined by the courts, but the general impression amongst the people concerned was that it was inadvisable to go to the courts.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>Why?</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>I have always told people that they have no appeal against the board except in the case of an illegality or gross irregularity, and they cannot distinguish cases of illegality from other decisions of the board. I just want to show to the House the full effect of this decision of the board. These people were made to fall under Clause 29. So the question arises: What if the man dies after twelve months from the commencement of the Act, then the dependents cannot make application inside twelve months as required by Clause 29. This is another difficulty caused by bringing these cases under Clause 29 instead of Clause 27. The State had to step in and we have been loaning monies from the Treasury to enable the board to make <i>ex gratia</i> payments to such dependents until the law is amended. Of course, no amendment is necessary if the right interpretation is put on these two clauses. My contention is that the board and Minister have been misinterpreting the law, and I therefore consider that this should be the subject of a Select Committee. Then there is the case of people who have been absent from South Africa on temporary residence and returned. There is one case in point where a very high relative of a Cabinet Minister in this House is affected. She went overseas with her husband, who was a sufferer from miners&#x2019; phthisis and opened a business over there. After his death she carried on with the business, but finding that it was not a financial success she sold up and returned to this country. Because she did not, on her husband&#x2019;s death, make an immediate application to come back to South Africa, because she strove to make a living for herself, and when she ultimately got back she was told that she could not get any benefit, or did section 3 of the Moratorium Act apply to her. I think that is wrong. I think when South African-born or other persons with long residence here go overseas and return they should be benefited under this Act. Then there <span class="col_200" refersTo="page_0280"/>is the position of the soldiers who went overseas and contracted tuberculosis. When they went before the military pensions board upon their return the board says: &#x201C;Your tuberculosis is not due to active service, it is due to your previous underground work,&#x201D; and the men were turned down. Then when they went to the phthisis board they were told they could do nothing for them, because they had left the scheduled mines more than twelve months previously. How have these men been living? Go to Johannesburg or any other city in the country and you will see hundreds of these men suffering from tuberculosis and not getting a penny piece&#x2014;nothing at all, and their condition is due to their previous mining work. It is due to the dust in the mines, though in most cases no definite silicosis has been reached. Tuberculosis has supervened and many are dying. We have done nothing for them, and the Minister&#x2019;s provision of last year have done nothing for them. The section in last year&#x2019;s Bill would not have helped one man in a thousand. Then, what about the employers&#x2019; side? Have they no grievances under the present Act? Well I think they have a great many grievances under the present Act. What about the present basis of their assessments, their assessments to the fund. The Commission found that the assessments on mines closing down was inadequate and not in accordance with the responsibility of the mines, some of which have since closed down. If a mine goes out of existence without a proper provision having been made, then the mines who continue have to pay. A good many years ago I brought up the question of some provision being made for calculating in a better way than the rough and ready method existing under the present law. I desire that the tax shall be levied in accordance with the responsibility of the mine for the causation of the disease. A comparative schedule should be drawn up showing that responsibility as between mine and mine, the percentage being laid down according to ascertained facts as to the conditions existing in each mine. Many obstacles existed a few years ago. Will the Minister tell me if these obstacles exist to-day? As soon as we have some reliable comparison as between mine and mine for the purpose of assessing this responsibility, then I say a race will soon set up amongst the various mine managers to see that they do not appear at the top of this list. There is no incentive under the present Act to the mine manager, to the mining director, or to anybody to prevent the disease. There is no incentive whatever, for the simple reason that the existing mines are paying for the disease caused by their predecessors, many of which have gone out of existence and the companies wound up, and just the same as they are paying for that, I suppose by the same rule they say we shall not pay for disease contracted to-day, but leave that for those who follow to do. Surely that is an unsound principle.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>What becomes of the argument, that we have not improved?</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>Surely we have improved. I say that the basis of payment should rest upon responsibility, in the sense of the present condition of the mines. They can then lower their phthisis charges on account of this item of phthisis by reducing the amount of dust in the mines at the present time. Those mines that have a high dust-content in their working places will have to contribute more than those who show less dust. That is the best incentive to work for the prevention of this disease. As the hour is getting late I shall content myself at this juncture by not mentioning other distances, but I think a case is made out for a further enquiry into the provisions of I he present Act.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I second the motion.</p>
+
+</speech>
+
+<speech by="#visser">
+
+<from>†Dr. <person refersTo="hansard_za">VISSER</person>:</from>
+
+<p>I think there are a great many points in this connection which can easily be settled in a short session of a Select Committee. What the hon. member for Jeppes (Mr. Sampson) said about these two men that when a man had been away from the mine for two years to recuperate and comes back he has to pass this initial examination. If he has five or six years&#x2019; experience and he cannot pass this test he is deprived of work and we should modify this point by giving the medical bureau the power to take into consideration the man&#x2019;s previous work. They cannot expect a man who has been mining for several years to have his lungs in the same condition as the man who has never previously worked on a mine. If a man is merely fibrosis, and presumably is not more than in a fibrosis condition, and he has not got tuberculosis and would not be a danger to his fellow workmen that man should be allowed to come back and work upon the mine. That is the position in the case of Skovgaard, and there are hundreds of men in that position, and on that point alone this law should be changed. I know the case of a man named Van Rensburg who was a miner for 15 years and he had the primary stage of miners&#x2019; phthisis. He also had pneumonia and he died. A post-mortem was held and the result showed that miners&#x2019; phthsis was a contributory cause to the man&#x2019;s death. What did the Miners&#x2019; Phthisis Board do. They referred the case to the Bureau and said &#x201C;if the man had lived in what stage would you have put him?&#x201D; And the Bureau said &#x201C;he would still have been in the primary stage.&#x201D; But the man is dead, and has paid the highest penalty for the disease. The cause of death was contributed by miners&#x2019; phthisis and the widow should have had a pension. Therefore the interpretation of the law should be changed because the man absolutely dies from miners&#x2019; phthisis as a contributory cause. The Bureau thought it was not the primary cause and therefore the widow could not be compensated. The law should be clearly stated and that interpretation revised. Then I know of another case of a man named Triegard, which is more sad than this. This man contracted tuberculosis, but he will only get compensation for silicosis. Triegard was examined by the Bureau, and it was said that he had silicosis and he went back to work, and in three months he was dead. He had worked for ten shifts. After three months he had made application and the doctor had diagnosed it as tuberculosis <span class="col_201" refersTo="page_0281"/>and he made application for the secondary stage and they had said: &#x201C;No, you have gone over the three months and you cannot get further compensation.&#x201D; As it was, within a fortnight the man died of tuberculosis and his widow and child cannot get any compensation on account of this three months period. This&#x2019; poor fellow died, but as the medical bureau had not diagnosed his case as a case of silicosis and tuberculosis, his family could get no compensation. I maintain that a man cannot come up to-day and be told he has no tuberculosis and three months afterwards dies from tuberculosis. I say that at least there has been a bad error of judgment. Cases like this should be reconsidered, as injustice has been done to this man&#x2019;s widow and child. In cases of tuberculosis the medical bureau&#x2014;and probably from a technical point of view there is something in their decision&#x2014;they cannot diagnose tuberculosis unless the tubercle bacillus is in the sputum. You may take ten samples and not find any bacilli. Something will have to be done by which the Bureau can make more examinations of the sputum. I do not think that if this matter was referred to a Select Committee, it would drag out for a long time. There are only about eight points to be settled and these could be far easier settled in Select Committee than in the open House. I hope the Minister will see his way to have the matter referred to Select Committee.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>†Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Having listened to the speech of the hon. member for Jeppes (Mr. Sampson), one feels that he has a profound knowledge of the subject, but has failed to grasp one thing, that the Government is not trying to keep faith, to get legislation to remedy what is a source of growing evil affecting the men on the mines on the Witwatersrand. I regret that the steps that we have taken in the past in attempting to get some amelioration of the position of these unfortunate victims&#x2014;the attempt to get the Government to introduce legislation&#x2014;has always followed in a crooked path. What has happened in the past? Let us go back to the history of the present Parliament. In the first session it was found necessary to amend the Bill of 1919, and a Select Committee was appointed, which took evidence, and afterwards, as they had some points to clear up, they resolved that they would deal with the matter during the recess, in Johannesburg, where most of these people were. What happened? Immediately afterwards a new Bill was introduced, and an entirely new committee was formed, and none of those who were on the old committee, with the exception of the hon. member for Jeppes (Mr. Sampson) was appointed to it. That Committee sat for a long time, brought up a Bill which they passed to the Government, and what was the result? That Bill was delayed, and we find that eventually an entirely new measure was brought forward, and that is the Bill that the hon. member for Jeppes (Mr. Sampson) is now asking us to appoint a Select Committee. The hon. member for Jeppes (Mr. Sampson) has more faith in the Government than he is entitled to have. We on this side of the House have for the last few years been loaded with supplications from victims of the disease asking us to assist them, asking for redresses of grievances, and we have come to the conclusion and told these supplicants there is no hope for you from the present Government, and unless you clear that Government out, you cannot expect any legislation or decision as far as you people are concerned. I have not the slightest doubt that if this measure came up it would be delegated to a Select Committee, and some attempt would be made to legislate. When the report came back, the Minister will evolve another Bill, and this will go on and go on. The present Government would continue to hoodwink the people. What is the real position? The Government has got itself into such a knot that they do not know what to do. Take the Auditor-General&#x2019;s report; the sum lent by the Government from loan funds to the board up to the 31st March was £40,000, guaranteed from consolidated revenue in respect of awards under Section 29 (<i>b</i>). The Government is getting into a financial knot over these payments, and rather than pay it they would come to Parliament with an amending Bill. There is a good deal to be said in regard to this matter, and that we should have an opportunity of knowing what the intentions of the Government are, and, with an eye on the clock, I will sit down, to enable the hon. Minister to make a statement.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>†The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>The hon. member who has just sat down has tried his level best to throw responsibility on the Government for not proceeding with amending legislation. He forgets that last year I introduced a Bill which was practically a consolidating Bill. Representatives from the Miners&#x2019; Association, Mr. Price and Mr. Toomey, came down to the chairman of the board here, discussed the different points and were in whole-hearted sympathy with the Bill. What reception had that Bill in the House? I noticed that the hon. member for Jeppes (Mr. Sampson), who poses as a big lawyer, interprets the law, and lays down the law for the Government Mining Engineer and everybody else, who speak not as an individual but for the Labour Party, said, &#x201C;I am going to fight the Bill line by line,&#x201D; with the result, of course, there was no time to bring in the Bill and carry it through. Miners&#x2019; phthisis legislation by this time is a complicated business. We have legislation in regard to it since 1911, and unless this House is prepared with a certain amount of support, there is no hope of carrying a consolidating measure through the House, if you are going to have every principle and clause, as the hon. member for Jeppes (Mr. Sampson) has threatened, fought, it will be impossible to pass legislation of this kind. There is another point. Hon. members speaking from the other side continued to bring up anomalous cases. I have no objection to that; these cases will arise, but by emphasising every such case the country is placed under a wrong impression&#x2014;I do not say intentionally&#x2014;that no compensation is paid in connection with the <span class="col_202" refersTo="page_0282"/>disease. I am prepared to say there is not a single industry in the world that pays on a more liberal scale for miners&#x2019; phthisis and tuberculosis, which is not an occupational disease, but extended to miners themselves, and for the convenience of the miners we have included&#x2014;there is not an industry in the world that bears the same burden as that borne by the mining industry in the Transvaal in regard to miners&#x2019; phthisis and tuberculosis.</p>
+
+</speech>
+
+<speech by="#roux">
+
+<from>Mr. <person refersTo="hansard_za">ROUX</person>:</from>
+
+<p>The Chamber of Mines!</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Let us at all events be fair. It is no use emphazising the hard cases and thereby bringing the country under the impression that nothing is being done. Take another impression which is being created by the hon. member for Jeppes (Mr. Sampson) in his speech this afternoon, and also last year, with regard to the incidence of the disease. He argued this afternoon in another part of his speech, when he had forgotten the first part, that there has been no improvement, and when I challenged him, he said: &#x201C;Oh, yes, of course there has been an improvement.&#x201D; He quoted the case of the man who had gone underground since 1916, when we instituted a much more rigorous initial examination for new entrants underground, and he said that up to comparatively recently it was our boast that none of those men had contracted miners&#x2019; phthisis, when to-day several, he did not say how many, had contracted miners&#x2019; phthisis. Now 1916 to 1924&#x2014;that is, about seven and a half years ago since the report of the first Commission which inquired into the incidence of miners&#x2019; phthisis stated that the average life of a miner at that time was eight years.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>And they died within two years after contracting the disease. The hon. member for Vrededorp (Dr. Visser) will say that that is right, that these fellows had to work eight years.</p>
+
+</speech>
+
+<speech by="#visser">
+
+<from>Dr. <person refersTo="hansard_za">VISSER</person>:</from>
+
+<p>Yes, that is right; they had to work eight years.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>What is the position to-day compared with the incidence of the disease when we started on this legislation in 1911? Of the men who have gone underground under the new system since 1916, as far as I know, there are two men who have now been certified as suffering from phthisis&#x2014;two out of all the thousands that have gone underground&#x2014;that is, in 7½ years.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>It is less than that.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>The men who came out in the past were men suffering from phthisis in the second degree, men with a very short life; they were not the same as the men who come out now, who come out in the ante-primary stage, when you cannot detect any silicosis in their lungs at all, and, therefore, if you compare the conditions under which the men were working then with the conditions under which they are working now, and the time taken then and the time taken now, and the condition as the men came out then and the condition now, I say that the improvement is so vast that it is misleading the country for the hon. member for Jeppes (Mr. Sampson) to come at this stage and say that no improvement has been made. I am not going to follow him in his legal arguments&#x2014;</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Nor am I going to deal with individual cases. That there are hard cases I admit, and that they should be remedied I think is right.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>Why do not you do it?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>As to the legal arguments, lawyers will differ as well as other people. I do not propose to go into that at this stage. I will finish in one word. The hon. member for Jeppes (Mr. Sampson) has initiated this afternoon again the principle of letting the mines pay according to their responsibility for creating phthisis. In principle, I say, &#x201C;Quite good.&#x201D; I have not a word to say against it. But can you apply it in practice? I say &#x201C;No.&#x201D;</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>They do it.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Therefore I say that you must use the law of averages to the best of your ability. That is the position. I want to say this&#x2014;that if the appointment of this Select Committee leads to further delay, the responsibility will be on the hon. member for Jeppes (Mr. Sampson).</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>You are delaying it now.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>The Government intended to re-introduce the Bill with some amendments which they had last year and to ask the House to accept its principles, which have already been accepted in the past, and not to fight the Bill line by line, but to put right these anomalies which can be put right, and provided it is a re-adjustment of the burden and not an undue increase of the burden, which is big enough&#x2014;</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Who bears it?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>I think a useful measure could have been put through. The hon. member for Jeppes (Mr. Sampson) has preferred a different course. I am prepared to accept his course in the circumstances, but he must understand that the responsibility for any delay in his.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>Oh no.</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from>Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the debate be now adjourned.</block>
+
+</speech>
+
+<speech by="#jordaan">
+
+<from>Mr. <person refersTo="hansard_za">JORDAAN</person>:</from>
+
+<p>I second.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Is it the intention to have this matter relegated to the limbo of debates which will not be resumed?</p>
+
+</speech>
+
+<speech by="#collins">
+
+<from><span class="col_203" refersTo="page_0283"/>Col.-Cdt. <person refersTo="hansard_za">COLLINS</person>:</from>
+
+<p>I am quite prepared to withdraw my motion, if the hon. member will let it go at that. I shall not keep the House.</p>
+
+<p>Motion for the adjournment of the debate, with leave, withdrawn.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>†Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>The only point which I want to reply to is this. The Minister rather charged me with causing obstruction. This motion was not introduced with the object of obstructing any Bill. I deny that I obstructed last year&#x2019;s measure, but criticised it, because it deprived seven thousand men of their rights under existing legislation. There is a right existing in present legislation that any man who grows worse has further provision made for him, but the Minister last year proposed to take away that right if tuberculosis supervened upon silicosis. That is one of the reasons why we opposed that measure.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Line by line.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>When the Government brings forward a Bill in this House, if they are afraid of the criticism of people who know something about it, they must put up with it. That is why we are sent here. We should not be doing our duty if we did otherwise. The Minister has said that things were so much better on the mines to-day. When the Medical Commission sat in 1912, the Minister said that they reported that the average life of a miner was eight years. They did not report any such thing. They said that of the thousand men suffering from the disease out of the three thousand they examined, they found the average period they had worked underground on the Rand mines was six and three-quarter years. For years we kept comparative figures with that same computation that they arrived at, and it ranged round about seven and a quarter. In 1918 the Commission found that the average working life of a miner on those fields, as distinct from his ordinary life, was seven and three-quarter years. The 1916 Act did not take effect until August the 1st of that year; the Bureau was not set up until the new year, that was January, 1917, that is much less than seven years ago, and where does the Minister show that any improvements have been made, when cases are how arising among those who have gone underground for the first time since 1917? On the contrary, I think we are going very much backwards, and have been doing so during the last three years, and it is due to the fact that we have discouraged the men on the mines in their efforts towards eradication of the disease. I consider that the Minister&#x2019;s remarks on those grounds were entirely unjustified.</p>
+
+<p>Original motion put and agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1924-02-12T18:10:00">6.10 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

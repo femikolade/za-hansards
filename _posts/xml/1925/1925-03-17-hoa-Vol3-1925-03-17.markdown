@@ -1,0 +1,1277 @@
+---
+title: 'House of Assembly: Vol3 - TUESDAY 17 MARCH 1925'
+layout: debate
+year: 1925
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 17th MARCH, 1925.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1925-03-17T14:20:00">2.20 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#select_committee_on_crown_lands">
+
+<heading>SELECT COMMITTEE ON CROWN LANDS.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>laid upon the Table&#x2014;</p>
+
+<block name="quote">Plan of the Cape Sundays River Settlements and neighbouring properties showing the land referred to in Schedules (1) and (2) to the Sundays River Settlements Administration Bill.</block>
+
+<p>Plan referred to Select Committee on Crown Lands.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Union Loans, Cost of Raising.</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>I.</num>
+
+<from>Mr. HAY</from>
+
+<ol>
+
+<li>(1) What was the total cost of raising Union loans (i.e., the difference between net receipts and amount of issue) to the end of December, 1924;</li>
+
+<li>(2) what is the average percentage of such cost to the whole sum;</li>
+
+<li>(3) whether the attention of the Minister has been drawn to the published statement of the Commonwealth Bank of Australia, viz., that since it undertook the service of raising loans for Australia it has only cost that country 5s. 6d. per cent., thus effecting a saving of millions since the bank&#x2019;s commencement?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol>
+
+<li>(1) The difference between net receipts and the amount of issue in respect of all Union stock and debenture loans is £2,767,355.</li>
+
+<li>(2) £2 5s. 2d. per cent. on the amount of debt created.</li>
+
+<li>(3) I have not seen the statement referred to by the hon. member, but the figure of5s. 6d. per cent. is clearly not comparable with the figure of £2 5s. 2d. per cent. for the Union, and probably refers to the bank&#x2019;s commission charged on loans raised in Australia only and excludes discount and stamp duty which are included in the Union figure.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAY LABOURERS, WAGES AND NUMBERS OF.</heading>
+
+<question by="#bates" to="#minister_of_railways_and_harbours">
+
+<num>II.</num>
+
+<from>Mr. BATES</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li><span class="col_1017-1018" refersTo="page_0589"/>(1) How many labourers, including lads, were given employment on the railways from the 1st July, 1924, up to the 28th February, 1925, setting forth how many are European, coloured and native;</li>
+
+<li>(2) what is the average wage per diem paid to each of these classes;</li>
+
+<li>(3) what is the civilized rate of pay on the railways; and</li>
+
+<li>(4) how many non-Europeans are receiving this rate?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#bates">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>The information is being obtained and will be supplied as early as possible.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railway supplies, prices and tenderers.</heading>
+
+<question by="#bates" to="#minister_of_railways_and_harbours">
+
+<num>III.</num>
+
+<from>Mr. BATES</from>
+
+<ol>
+
+<li>(1) How many of the following articles have been ordered since the 1st July, 1924, viz., engines, tenders, main line saloons, suburban coaches, wagons, wheels and axles;</li>
+
+<li>(2) what are the relative prices of these articles; and</li>
+
+<li>(3) what are the names and addresses of the firms with whom these orders have been placed?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#bates">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<table>
+
+<tr>
+
+<td colspan="3"><p>Engines and Tenders.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>No. ordered.</p></td>
+
+<td><p>Prices.</p></td>
+
+<td><p>With whom order placed.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>4</p></td>
+
+<td><p>£ 45,400 (f.o.b.).</p></td>
+
+<td><p>Beyer Peacock &amp; Co., Ltd., Manchester.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>21</p></td>
+
+<td><p>132,300 (f.o.b.).</p></td>
+
+<td><p>J. A. Maffei &amp; Co., Munich.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>4</p></td>
+
+<td><p>92,750 dollars (c.i.f. Durban).</p></td>
+
+<td><p>Baldwin Locomotive Works, Philadelphia.</p></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"><p>Main Line Saloons.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>75</p></td>
+
+<td><p>£ 318,450 (f.o.b.).</p></td>
+
+<td><p>Metropolitan Carriage, Wagon &amp; Finance Co., Ltd., Birmingham.</p></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"><p>Suburban Coaches.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>50</p></td>
+
+<td><p>£ 191,750 (f.o.b.).</p></td>
+
+<td><p>Clayton Wagons, Ltd., Lincoln.</p></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"><p>Wagons.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>6 (petrol tank trucks).</p></td>
+
+<td><p>£ 6,156 (f.o.b.).</p></td>
+
+<td><p>Clayton Wagons, Ltd., Lincoln.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>300 (steel).</p></td>
+
+<td><p>118,500 (f.o.b.).</p></td>
+
+<td><p>Leeds Forge Co., Ltd., Leeds.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>50 (steel).</p></td>
+
+<td><p>14,850 (f.o.b.).</p></td>
+
+<td><p>Leeds Forge Co., Ltd., Leeds.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>69 (narrow gauge).</p></td>
+
+<td><p>8,567 (f.o.b.).</p></td>
+
+<td><p>Norddeutsche Waggonfabrik, Bremen.</p></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"><p>Wheels and Axles.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>1,200 pairs.</p></td>
+
+<td><p>£ 21,540 (f.o.b.).</p></td>
+
+<td><p>Bochumer Verein fuer Bergbau &amp; Gusstahl fabrikation, Bochum.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>6 "</p></td>
+
+<td><p>151 (f.o.b.).</p></td>
+
+<td><p>Beyer, Peacock &amp; Co., Ltd., Manchester.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>12 "</p></td>
+
+<td><p>216 (f.o.b.).</p></td>
+
+<td><p>Newlay Wheel Co., Ltd., Leeds.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>4 "</p></td>
+
+<td><p>156 (f.o.b.).</p></td>
+
+<td><p>Vulcan Foundry Ltd., Newton le Willows, Lancs.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>80 "</p></td>
+
+<td><p>2,340 (f.o.b.).</p></td>
+
+<td><p>Motherwell Wagon Co., Glasgow.</p></td>
+
+</tr>
+
+</table>
+
+<p>In addition to the foregoing, certain electrical equipment and motor bogie trucks for coaches for the Cape Town suburban electrification scheme have been indented for from overseas.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PRISONS AT DURBAN.</heading>
+
+<question by="#lennox" to="#minister_of_justice">
+
+<num>IV.</num>
+
+<from>Mr. LENNOX</from>
+
+<ol>
+
+<li>(1) Whether it is a fact that an additional prison is being erected in Durban to accommodate convicts employed on public works; and, if so,</li>
+
+<li>(2) whether the Minister will undertake that convicts not sentenced in Durban are, at the expiry of their term of imprisonment, returned to the place whence they came?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_justice" to="#lennox">
+
+<from>The MINISTER OF JUSTICE:</from>
+
+<ol>
+
+<li>(1) Beyond rebuilding the Point prison which has been in hand for some time there is no intention of erecting a further prison in Durban.</li>
+
+<li>(2) The policy of the Department is to encourage convicts to return to their homes on the expiration of their sentences and rail tickets to the stations in the Union nearest to their last place of abode are issued in accordance with Regulation 523.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>NATAL UNIVERSITY EXAMINATIONS.</heading>
+
+<question by="#strachan" to="#minister_of_education">
+
+<num>V.</num>
+
+<from>Mr. STRACHAN</from>
+
+<ol>
+
+<li>(1) Whether it is correct that the results of the Natal University Examinations (Higher and Lower Diploma) held during November, 1924, were not published until towards the end of February, 1925; and, if so,</li>
+
+<li>(2) whether the Minister will in future provide for the results to be made known without unnecessary delay?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_education" to="#STRACHAN">
+
+<from>The MINISTER OF EDUCATION:</from>
+
+<ol>
+
+<li>(1) Yes. The delay applies generally to diploma examinations of the University of South Africa.</li>
+
+<li><span class="col_1019-1020" refersTo="page_0590"/>(2) The Education Committee of the Senate is at present considering means of accelerating publication of results in future.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DIAMOND CUTTING IN KIMBERLEY.</heading>
+
+<question by="#hay" to="#minister_of_mines_and_industries">
+
+<num>VI.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol>
+
+<li>(1) Whether he is in a position to say whether or not the final stage has been reached in negotiations for establishing diamond cutting on a large scale in Kimberley; and</li>
+
+<li>(2) whether it is a fact that the Government has sent the agreement to England for signature?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#hay">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1) Negotiations have been in progress for some time for the establishment of a diamond cutting industry on a considerable scale at Kimberley.</li>
+
+<li>(2) The heads of a draft agreement have been forwarded to the Trade Commissioner on the Continent, and negotiations on certain points are still proceeding.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>DIAMOND PRODUCTION IN SOUTH-WEST AFRICA.</heading>
+
+<question by="#hay" to="#minister_of_finance">
+
+<num>VII.</num>
+
+<from>Mr. HAY</from>
+
+<p>asked the Minister of Finance:</p>
+
+<ol>
+
+<li>(1) What, approximately, was the average value of the yearly production of diamonds in German South-West Africa from 1908 to 1913 (inclusive);</li>
+
+<li>(2) What was the average yearly income derived therefrom, and what was the annual total and the percentage of value;</li>
+
+<li>(3) what annual revenue is expected from diamond production allocated to that territory under recent agreement;</li>
+
+<li>(4) what is the length of time arranged for with purchasers of the output; and</li>
+
+<li>(5) to whom has the contract been granted?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#hay">
+
+<from>THE MINISTER OF FINANCE:</from>
+
+<p>I must ask the hon. member to allow this question to stand over.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>COLOURED JUVENILE AFFAIRS BOARD.</heading>
+
+<question by="#stuttaford" to="#minister_of_labour">
+
+<num>VIII.</num>
+
+<from>Mr. STUTTAFORD</from>
+
+<p>asked the Minister of Labour:</p>
+
+<ol>
+
+<li>(1) Whether he has re-established the Coloured Juvenile Affairs Board for the Cape Peninsula;</li>
+
+<li>(2) whether he has made a stipulation that no coloured man shall be chairman of the board; and</li>
+
+<li>(3) whether he will give the reason why he did not include the African Political Organization amongst the coloured associations from whom he asked recommendations for appointments to the board?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_labour" to="#stuttaford">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<ol>
+
+<li>(1) Steps are now being taken to this end.</li>
+
+<li>(2) The Board has not yet been constituted and no chairman has yet been appointed.</li>
+
+<li>(3) Two preliminary meetings have been held at which persons who have been known to take a share in social and educational work amongst the coloured community have been present. The recommendations of these meetings will be duly considered.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>PLATINUM DISCOVERIES AND PROCLAMATIONS OF FARMS.</heading>
+
+<question by="#munnik" to="#minister_of_mines_and_industries">
+
+<num>IX.</num>
+
+<from>Mr. MUNNIK</from>
+
+<ol>
+
+<li>(1) Whether, in view of the economic importance of the platinum discoveries in the Transvaal, the Government contemplates proclaiming those farms where payable precious metal has been found;</li>
+
+<li>(2) if so, when; and</li>
+
+<li>(3) what form will the proclamation take, viz., (a) open to pegging on proclamation, (b) with reservation for leasing; or whether the Government will cause the payable areas to be worked by the State?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#munnik">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol>
+
+<li>(1) Yes. A list of the farms which it is proposed to proclaim will be found in Government Notice No. 253, published in the Union Government Gazette of the 27th February last.</li>
+
+<li>(2) The Surveyors are now busy locating and putting in order the farm beacons but it is not known at present when the work will be completed. Everything possible is being done to expedite the proclamation of these farms and it is hoped to arrange for the publication of a proclamation towards the end of this month of the following farms&#x2014;</li>
+
+</ol>
+
+<block name="quote">Derdegelid No. 141, Garatouw No. 467, Driekop No. 170, Twyfelaar No. 172, Klipfontein No. 119, Brakfontein No. 84, Groothoek No. 171 and Schlichmannskloof No. 12.</block>
+
+<ol>
+
+<li>(3) I am at the present moment considering the best method of dealing with these farms in the general interest.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>LEAGUE OF NATIONS PROTOCOL.</heading>
+
+<question by="#drummond_chaplin" to="#prime_minister">
+
+<num>X.</num>
+
+<from>SIR DRUMMOND CHAPLIN</from>
+
+<p>asked the Prime Minister:</p>
+
+<ol>
+
+<li>(1) Whether he was consulted by the British Government with regard to <i>(a)</i> the League of Nations Protocol, <i>(b)</i> the pact suggested as a means of securing peace in Europe; if so,</li>
+
+<li>(2) what was the nature of his replies; and</li>
+
+<li>(3) whether he can lay upon the Table any papers dealing with these matters?</li>
+
+</ol>
+
+</question>
+
+<answer by="#prime_minister" to="#drummond">
+
+<from>The PRIME MINISTER:</from>
+
+<ol>
+
+<li>(1) (<i>a</i>) The reply is in the affirmative.</li>
+
+<li>(1) (<i>b</i>)<i>,</i> (2) and (3) The hon. member will understand that under present circumstances it is not advisable to make any pronouncement, as it would not be in the public interest.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>BLACKRIDGE RAILWAY STATION.</heading>
+
+<question by="#deane" to="#minister_of_railways_and_harbours">
+
+<num>XI.</num>
+
+<from>MR. DEANE</from>
+
+<p>asked the Minister of Railways and Harbours whether the same courtesy <span class="col_1021-1022" refersTo="page_0591"/>can be extended the residents of Blackridge, whose station name has recently been changed to Swartkopskloof, as is enjoyed elsewhere, such as at Salt River, and the name displayed in English as well as in Dutch?</p>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#strachan">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>While there may be a few isolated cases where station name boards have been erected in both languages, giving information to passengers, such as at Salt River, the policy of the Administration is not to adopt dual names for stations. If the hon. member will scrutinize the list of station names, he will see that translations, whether to English or to Afrikaans, would, in many cases, give ridiculous results from a station-name point of view.</p>
+
+</answer>
+
+<question by="#strachan" to="#minister_of_railways_and_harbours">
+
+<from>Mr. STRACHAN:</from>
+
+<p>Arising out of that reply, will the Minister also take into consideration the advisabity of displaying that name in syllable form, so that the residents and others may be better able to pronounce it?</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>South-West Africa Diamonds, Agreement to Purchase.</heading>
+
+<question by="#nathan" to="#minister_of_mines_and_industries">
+
+<num>XII.</num>
+
+<from>Mr. NATHAN</from>
+
+<p>asked the Minister of Mines and Industries whether he will lay upon the Table of the House a copy of the agreement made by the Administrator of South-West Africa for the purchase of diamonds produced in that territory?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#nathan">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>When the agreement has been definitely drawn up and concluded I will be prepared to lay it on the Table.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>South African Mine Workers&#x2019; Conciliation Board.</heading>
+
+<question by="#kentridge" to="#minister_of_labour">
+
+<num>XIII.</num>
+
+<from>Mr. KENTRIDGE</from>
+
+<p>asked the Minister of Labour what steps, if any, the Minister is taking to give effect to the recommendations of Mr. Justice Jacob de Villiers, the mediator on the South African Mine Workers&#x2019; Conciliation Board?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#kentridge">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>I must ask the hon. member to allow this question to stand over.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Fruit Exports, Levy on.</heading>
+
+<p>The MINISTER OF AGRICULTURE replied to Question XIV. by Mr. J. J. Pienaar, standing over from 13th March.</p>
+
+<question by="#pienaar" to="#minister_of_agriculture">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) What is the total amount of the levy&#x2014; specifying <i>(a)</i> general levy of 5s. per ton and <i>(b)</i> special levy of 5s. per ton for propaganda at Wembley&#x2014;imposed on oranges and other kinds of fruit exported in 1924; and</li>
+
+<li>(2) how and by whom has the amount been accounted for?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#pienaar">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) <i>(a)</i> £10,726, (b) £8,132, total, £18,858.</li>
+
+<li>(2) The levy referred to in 1 <i>(a)</i> is accounted for by the Fruitgrowers&#x2019; Co-operative Exchange of S.A., Ltd., who render a quarterly statement to me showing how the amount of the levy has been expended. The levy referred to in 1 <i>(b)</i> is accounted for by the Citrus Sub-Committee of the Wembley Exhibition Committee in South Africa who will publish in the press a financial statement when the account has been finally closed and audited, which will be in the near future. Including trading profit approximately £5,000 was in hand at close of the operations of which amount £2,000 has been handed over to the Fruitgrowers&#x2019; Co-operative Exchange to meet the expense of an oversea representative, the balance being used by the Citrus Committee this year at the Wembley Exhibition.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Defence Force and Elections of Officers.</heading>
+
+<question by="#nathan" to="#minister_of_defence">
+
+<from>&#x2020;Mr. NATHAN:</from>
+
+<p>I wish to put a question to the Minister of Defence. I put a question to him on the 6th March and he referred me to a question of a similar nature put on the 3rd and said that the return asked for is in course of preparation and would be laid on the Table shortly. Will the Minister tell us when we may get that return?</p>
+
+</question>
+
+<answer by="#minister_of_defence" to="#nathan">
+
+<from>The MINISTER OF DEFENCE:</from>
+
+<p>I should think probably to-morrow, or the day after.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#oral_question">
+
+<heading>ORAL QUESTION.</heading>
+
+<oralStatements>
+
+<heading>Floods at Ladysmith.</heading>
+
+<question by="#anderson" to="#minister_of_railways_and_harbours">
+
+<from>Mr. ANDERSON, with leave,</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol>
+
+<li>(1) Whether he is aware that a serious flood has occurred at Ladysmith, Natal, causing considerable damage to private property and that it is alleged that the railway embankment was the chief contributory cause of the flood;</li>
+
+<li>(2) if so, whether he will cause investigations to be made so as to ascertain whether the allegations above referred to are correct;</li>
+
+<li>(3) if the said allegations prove to be correct, what steps he proposes to take to prevent the said embankment from causing a flood in the future; and</li>
+
+<li>(4) in view of the fact that a large number of railway employees have been rendered homeless, what steps he proposes to take to alleviate the distress?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_railways_and_harbours" to="#anderson">
+
+<from>The MINISTER OF RAILWAYS AND HARBOURS:</from>
+
+<p>Ladysmith was flooded on the 14th and 15th March by reason of heavy rains in the Drakensberg Mountains, causing the Klip River to rise and overflow its banks. From enquiries made it does not appear that the railway embankment is the cause of flooding in Ladysmith, but the matter is forming the subject of careful investigation. As a result of the floods on the 14th and 15th March, a number of the inhabitants, including servants of the Administration, had from 12 inches to 24 inches of water in their houses, furniture and foodstuffs being damaged thereby. Owing to the necessity for obtaining information by telegraph and to interruption on portion of the telegraph <span class="col_1023-1024" refersTo="page_0592"/>line, I regret it is not possible at short notice to deal fully with the hon. member&#x2019;s question, but full information on the points raised will be supplied as early as practicable.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#admission_of_attorneys_bill">
+
+<heading>ADMISSION OF ATTORNEYS BILL.</heading>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That Order of the Day No. XXIV for today&#x2014;Second Reading, Admission of Attorneys Bill&#x2014;be discharged and set down for Friday, the 3rd April.</block>
+
+</speech>
+
+<speech by="#bates">
+
+<from>Mr. <person refersTo="hansard_za">BATES</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#ebenezer_van_rhynsdorp_exchange_of_land_bill">
+
+<heading>EBENEZER (VAN RHYNSDORP) EXCHANGE OF LAND BILL.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="quote">That the Order of the Day for Wednesday the 25th instant&#x2014;House to go into Committee on Ebenezer (Van Rhynsdorp) Exchange of Land Bill&#x2014;be discharged, and that the Bill be referred to the Select Committee on Crown Lands for consideration and report.</block>
+
+</speech>
+
+<speech by="#vermooten">
+
+<from>Mr. <person refersTo="hansard_za">VERMOOTEN</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#magistrates&#x2019;_courts_act_1917_further_amendment_bill">
+
+<heading>MAGISTRATES&#x2019; COURTS ACT, 1917, FURTHER AMENDMENT BILL.</heading>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That Order of the Day No. XXIII for to-day&#x2014;Second Reading, Magistrates&#x2019; Courts Act, 1917, Further Amendment Bill&#x2014;be discharged and set down for Friday, the 3rd April.</block>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">STRUBEN</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#surplus_cattle_and_meat_foods">
+
+<heading>SURPLUS CATTLE AND MEAT FOODS.</heading>
+
+<speech by="#marwick">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MARWICK</person>:</from>
+
+<p>The notice of motion which stands in my name has been slightly amended to meet the objection that has been raised in certain quarters to a Select Committee being appointed by this House to consider the question of the surplus of cattle in this country. It was felt that to appoint a Select Committee to consider this question would not admit of the necessary time being given to the investigation of the subject in a thorough way, and in deference to this objection I have altered the motion to the form in which it now stands on the Order Paper, namely&#x2014;</p>
+
+<block name="quote">That, in view of the critical situation with which the meat producers of the Union are confronted by reason of the large existing and accumulating surplus of ungraded and unmarketable cattle, this House requests the Government to consider the urgent necessity of appointing a special commission to enquire into and report upon&#x2014;</block>
+
+<ol>
+
+<li><i>(a)</i> the best means of dealing with the problem of the surplus of horned cattle in the Union in the interests of the primary producer and consumer, and</li>
+
+<li><i>(b)</i> the possibility of the utilization, as a factor in the solution of the problem, of the Watkins-Pitchford method, or any similar method, of converting South African beef into a series of meat-foods of acknowledged value.</li>
+
+</ol>
+
+<p>Among the reasons why this motion should engage the consideration of every thoughtful mind in this House and throughout South Africa are the facts that it is non-party in character and non-provincial in its aim and that it deals with one of the basic questions of South Africa. The future of farming in this country is bound up with the success or failure of cattle breeding. There are more farmers dependent on the payability of stock raising than on any other branch of farming in South Africa. The capital involved must represent at least £100,000,000 if we take into consideration the cattle, land, fencing and dipping tanks employed in this branch of the industry. Since the earliest days of European occupation of this country, the possession of cattle has constituted an almost universal means of subsistence and the loss of cattle and depreciation of their value has contributed more to the number of the indigent and hopeless among our population than any other setback or other unpreventible factor in farming. The slow rate of improvement in the class of cattle bred by the South African farmer has been responsible for the fact that we have a large surplus of cattle to-day for which there is no market. The statistics published show that 10 million head is a low estimate of the cattle in the Union to-day. Since 1918, when they numbered 6¾ million head, the average rate of increase over and above all wastage has been 7.6 per cent. per annum. We have now reached the total of something over 10 millions, and the rate of increase is at the rate of three-quarter million per annum. At that rate, within ten years we shall have reached a total of 20 million head in South Africa, a large percentage of which will be scrub stock utterly unfitted for export and for which the local demand is already insufficient. There will be a progressively larger figure of increase from year to year, and all methods employed to stimulate the breeding of better cattle lag behind the rate at which scrub cattle are increasing, while our efforts to deal with the export trade merely touch the fringe of the problem. In 1924 we had reached an average of 9,600 head per annum in exports, and the annual consumption in the Union is in the neighbourhood of 300,000, but, as I have indicated, the net increase after deducting local consumption and the export trade has been for a period of five years at the average rate of 7 per cent. per annum. The proportion of cattle that are of no grade and no breed must be at least eight millions out of a total of ten millions. Of that number the cattle owned by natives represent about one-third <span class="col_1025-1026" refersTo="page_0593"/>of the whole. This question is one which calls for the employment of all the experience which is available in South Africa in regard to cattle breeding&#x2014;the relative carrying capacity of the several districts of the Union, the suitability for dairying of one district as compared with another, and the means of stimulating the breeding of better stock. One side of this question has been referred to the Board of Trade and Industries, but I should like to point out to the Minister of Agriculture, who is himself an experienced farmer, that the board is not well equipped for the consideration of such a question as cattle-breeding, the relative utility of milk and beef-breeds, the carrying capacity of the country, and the very involved and complicated question at large which presents itself for solution in regard to this great stock problem of the Union. Up to the present there has been no investigation of the whole of this problem. It is true that a Meat Trade Commission was appointed in 1922, which dealt with the alleged profiteering in meat, and another Select Committee was appointed to deal with the Meat Producers&#x2019; Exchange, an organization formed almost entirely for dealing with the local supply of meat on the Witwatersrand, but there has been no comprehensive investigation of this question in the manner in which farmers look for it to be enquired into. There is scarcely a farmer in South Africa who is not largely dependent on the success or failure of the cattle market. The farmers have exhibited extraordinary patience in the past in suffering the loss of their market and in enduring what seems to me the almost cruel continuation of the conditions under which to-day meat is being thrown on the market at next-to-nothing. In Durban recently the price of meat has fallen as low as 5s. per 100 lbs., and yet there has been no appreciable decrease in the price of meat to the consumer. The amount realized by the farmer in such conditions may well be imagined, and although I am unable to quote for this House the figures of insolvencies amongst the farmers, there is no doubt that the drifting of the people from the land into the towns has been largely due to the depressed state of the cattle market in every corner of South Africa. So I feel that an investigation by the Board of Trade in reply to our request is like being given a stone when we ask for bread. They are an estimable body of men, but completely disqualified by their past experience for the task of investigating this question; and as far as the farmer is concerned, I venture to say that he will be wholly dissatisfied if this question is left to the tender mercies of that board&#x2014;a body of youthful men whose very youthfulness is a disqualification for any comprehensive knowledge of this subject. Among other points to be considered is the slow rate of improvement observable in the methods of the stock farmers. Despite the influence of agricultural shows and progressive farmers&#x2014;influences which have been at work for the last 50 or 60 years&#x2014;there has been but an infinitesimal amount of progress in the direction of improving the milk or beef breeds in South Africa. The preferences of a large number of people for the old under-bred type of cattle die hard. A good many people will tell you that the old type of animal resists the hardships of our climate better than the well-bred and highly-strung animal which is bred from pedigree stock imported from overseas. And we have also to contend with the strong prejudice of the natives, whose whole life is bound up with the use of their own breed of cattle, and who have a strong prejudice against the introduction of breeds of which they know nothing. The position of the industry is one which within a measurable time will bring the farming of cattle to a state at which our farms will be overstocked; our grazing will be denuded by a class of stock that are not worth their feed, and the price of stock will have fallen to such a level that the farmers will wish they had poleaxed them in order to save the expense of grazing and keep year after year. Among the methods that are suggested for the alleviation of this situation is one for the treatment of meat in a manner which will render it soluble as a valuable meat food. Col. Watkins-Pitchford, who was for many years the head of the Veterinary Department in Natal, is one who has rendered distinguished services to South Africa, and, in a modest and not self-seeking manner, has served this country and the Empire wholeheartedly over a period of 30 years. He has discovered a process by which it is possible to extract from meat its essential nutriment in the form of a soluble powder containing all the nutriment to be found in meat. It is not a meat-extract in the ordinary meaning of the word and has nothing in common with preparations such as Bovril or Oxo. The ordinary extract of meat of commerce represents 3 lbs. per 100 lbs. of lean meat, but this extract contains a very much larger percentage; in fact, the whole of the animal can be utilized by the Watkins-Pitchford method and converted into an attractive and soluble form, saleable in every part of the world. The nutriment from eight oxen can be packed in a hogshead cask, and formed or compounded into many attractive forms in which it is intended to send the scrub oxen into the uttermost parts of the earth. The utilization of this process has this commendable feature about it, that whereas in the past the farmer has been unable to effect a change from the inferior to the better bred animal, through want of capital, this method provides him with a means whereby he can get rid of his scrub stock at a profitable price and acquire the better bred stock required to improve his herd. It is only by a system of profitable elimination that we shall find it possible to deal with the problem, and in that respect it seems to me that the investigation of this question calls for the best experience we can produce in South Africa and for an inquiry which will travel considerably beyond the four walls within which the Board of Trade and Industries will confine it. It is <span class="col_1027-1028" refersTo="page_0594"/>not only in the improvement of the beef stock of South Africa that salvation lies, but if we consider the history of other countries we find that in Australia to-day they are producing over sixteen times the quantity of butter which we do in South Africa, and in New Zealand last year the dairy products of that country realized £18,000,000. New Zealand has not been colonized for longer than 80 years, and yet we have this remarkable rate of progress. The dairy history of New Zealand shows that in the province of South Auckland in less than 15 years the dairy industry has attained an output of the value of 4½ millions. The industry was introduced and built up very largely by the enterprise and organization of one man. A few decades ago the dairy industry in New Zealand did not exist. In one district of Hamilton, where, in 1886, there was one almost unsuccessful dairy, to-day you have a dairy industry that supports 16,000 people with an assured future. We have a large number of people destitute in South Africa to-day, and we are discussing unemployment problems and endeavouring to place people on the land, but as long as this difficulty of dealing with our stock successfully and profitably continues, so long is it utterly hopeless for us to expect these people to remain on the land and make good. The first essential step towards the restoration of our beef and dairy industry is the elimination of the scrub beast, and it seems to me that unless we apply ourselves to the solution of that problem, unless the Minister of Agriculture will agree to an investigation that will embrace every feature of this question and deal with it in a practical manner, so long shall we remain in the shallows as we are to-day. It is idle to say we have had a good season and that prosperity is ahead for the farmers. The reverse is the case, if we look into these alarming facts in regard to the cattle industry and realize the hopeless position into which we have drifted and the more hopeless position we shall be in as the years go on, if we do not resolutely attempt to solve this problem. The Board of Trade and Industries have had put before them the project which has been known by Col. Pitchford&#x2019;s name. Col. Pitchford was asked to state what his proposition was and he did so, suggesting that it could be taken up on a co-operative basis of Government assistance could be afforded to finance the scheme in its earlier stages. It was suggested, in short, that cold storages should be acquired and that the whole of the process should be run by co-operative effort. I understand that the report which has been laid on the Table this afternoon will point out that the proposition from a business point of view is not recommended by the Board of Trade and Industries, but I hope that the matter will not be allowed to rest there. Col. Pitchford was not asked to submit an alternative proposition to deal with the financial side. It is in that very respect that I think we shall be shortsighted if we dismiss this very important discovery and the work of a devoted scientist with a South African reputation, if we brush that aside merely on the opinion of: the Board of Trade and Industries on insufficient evidence that the financial side of the proposition has not been well developed. It is for this House to consider the usefulness of this project in connection with the solution of this problem. It will minister to that very important side of the elimination of the scrub animal. If each member of this House, within his own experience, considers the number of cases in which stock has been improved, I feel sure he will find that it is the man with capital; the man who has the ready money only who has been able to step out from the inferior breed to the better type of stock. And therefore I think you must put that opportunity within the reach of the poor man of this country whose sole possession consists of scrub stock. You will not in any universal way bring about a method which will minister to the solution of this problem until you hold out some definite inducement. I think every owner of scrub stock will see the advantage and accept the immediate opportunity of disposing of his scrub stock. I speak of the native as well. The native will adapt himself to this method of getting rid of his stock as readily as any other owner when once it is proved to him that the better type of stock is not necessarily of a kind that will collapse under the rigours of the climate which we have in various parts of South Africa. It is necessary that we should obtain the fullest advantage from the work and experience that is available in South Africa, and the whole question should be investigated thoroughly. One of the best-known stock dealers in South Africa, the hon. Joseph Baynes, C.M.G., of Natal, has addressed a letter to the Minister of Agriculture supporting this scheme, in which he says: &#x201C;Col. Pitchford provides a ray of light on a subject which has been exercising the minds of all those anxious to find a way out of the present rather hopeless position of the bulk of cattle breeders of this country.&#x201D; Hitherto this process has been developed in its experimental stage by a small company operating in South Africa, but the limitations of the capital were such that it was impossible for the company to do more than to show that the products which it set out to manufacture could be perfected. It was not possible to spend a penny on advertisement, a factor of utmost importance in such a business as this. Col. Watkins-Pitchford is willing to co-operate heartily in the direction of making the process good. It is hoped that it may be possible for it to be taken up as a co-operative industry. But there might be obstacles to that under the Co-operative Societies Act, and it is in order that these difficulties may be fully considered that a special commission is asked for. The profit which attaches to the process should be an asset to be developed by the South African farmer in his own interest, and if it were made possible for the matter to be taken up as a co-operative industry it would have a very wide measure of success, not only in South Africa but abroad. There has been a very <span class="col_1029-1030" refersTo="page_0595"/>large demand for the products by some of the largest firms in the catering business and offers have been made for the sole trading rights, while applications have been received from Far East, Australia, India, Spain and Italy for the rights of representing the products in those countries. Some of the largest catering firms in the United Kingdom were willing to take 3,000,000 jars per annum of the Bovril form of the food. The South African press&#x2014;both English and Dutch&#x2014;has given the project its wholehearted support. The Afrikaans papers, &#x201C;Volksstem,&#x201D; &#x201C;Die Burger,&#x201D; &#x201C;Volksblad&#x201D; and &#x201C;Afrikaner,&#x201D; have been particularly enthusiastic. I commend the motion to the approval of the House.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>I second the motion. I am surprised to see that the Government benches are so empty and that the hon. gentlemen there at the present time are half asleep while this most important question is being discussed. (Ministerial cries of &#x201C;Don&#x2019;t be silly&#x201D; and &#x201C;Withdraw.&#x201D;) It was the promise of what the Government was going to do on this question that brought them into power. They were to have a complete embargo on Rhodesian cattle, but they hedged, the restriction of 1,000 lbs. deadweight&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member cannot discuss the Rhodesian question now.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>The question is a very serious one, for our increase of cattle is 900,000 head per annum, and there is no outlet for them, with the result that farmers are restricting the natural increase of their cattle by slaying cows and heifers. Even with the assistance of a bounty, we have exported only 45,000 head in the last three years. Our home market consumes 250,000 head per annum, so that our home consumption is less than 33 per cent. of the increase. We can never hope to build up an export trade and to compete with Australia and the Argentine for three reasons. First, because those Countries have navigable rivers enabling the steamers to go to the grazing lands, but in South Africa our grazing lands are in the interior and our cattle cannot stand the railway journey to the coast, because &#x2014;no matter how carefully loaded in trucks&#x2014; they are bound to be bruised, and if they are bruised the meat deteriorates in freezing. To obviate that risk it would be necessary to keep and feed the cattle for 14 days after they reach the coast before killing; that would be a source of considerable expense. The second reason is that 75 per cent. of our cattle are scrub animals and entirely unfit for the European market. The third reason is the quality of our cattle; Europe will have quality, and we have not got it. The whole of South Africa is capable of raising cattle. I see some hope in this motion of dealing with scrub cattle, for we must manufacture meat food for which the world is crying out. For that purpose a scrub bull is of equal value to a pedigree Shorthorn. I am well acquainted with Col. Watkins-Pitchford, and I cannot speak too highly of his qualifications. He was chief of the Natal veterinary service and he discovered and carried to a successful issue the three days&#x2019; dip. He proved conclusively that horse-sickness was caused by some nocturnal insect; he found a preventive serum and was on the high road to success. He also discovered a vaccine for blue-tongue in sheep. I feel sure that the House will do the best thing possible by agreeing to the motion. If we do not do something in this direction we are going to have innumerable insolvencies among our cattle farmers whose condition is deplorable.</p>
+
+</speech>
+
+<speech by="#werth">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">WERTH</person>:</from>
+
+<p>I must say that I feel very much inclined to support the motion of the hon. member for Illovo (Mr. Marwick), and I want to tell the House shortly why. As the hon. member for Illovo has said, the cattle of South Africa to-day consist for a large part of scrub stock. It does no good to colour things. We must look the thing straight in the face because it is a Serious matter, and in my opinion the conditions of the country are such as to make for the breeding of scrub stock in South Africa. I would like to mention three factors to make this clear. The first is that we have mixed farming in South Africa. We do not only go in for cattle farming but for mixed farming, with the consequence that most of our farmers use their oxen for draught and this naturally depreciates the value of the cattle largely for slaughter purposes. A second factor is that we have kaffir cattle in South Africa, and I am not speaking only of cattle that are kept in native areas, but our farmers also have on their farms many of these cattle. It is known that many farmers allow the natives to keep cattle on their farms. This is very injurious, because it assists the increase of kaffir cattle. But there is a third influence that to-day collaborates more strongly to produce scrub stock in South Africa, and I must say that it is a consequence of the Customs Union which we recently concluded with Rhodesia. Under the treaty we protect scrub-stock in South Africa. We do not allow Rhodesia to export scrub stock to South Africa, so that we actually guarantee to our cattle farmers in South Africa a market for scrub stock, and as a consequence the number of scrub cattle in South Africa will increase and not decrease. To-day we have good markets for our scrub stock under the Customs Union, but, as we know, the number of cattle that cannot be used here increases every year. In ten years we shall have about 20,000,000 in South Africa, and I should like to ask the hon. Minister now what he thinks the consequence will be if we have 20,000,000 cattle in ten years of which the largest portion are scrub-stock. We cannot export the scrub stock because the people in foreign parts do not want any scrub stock. The 20,000,000 cattle will at the same time be too much for our own market, and then the crisis will come of which the motion speaks. The motion warns us against a serious crisis in the cattle industry, and this will come when cattle farming in <span class="col_1031-1032" refersTo="page_0596"/>South Africa is so developed that we shall have about 20,000,000 cattle of which the greatest portion is scrub stock. This is the position that the House must consider in good time. Now while we feel that a crisis will come, a man named Col. Watkins-Pitchford, of Natal, comes and offers what he says is a solution. I have gone carefully into his proposal and scheme and I must say that the figures which he gives are in many respects very remarkable, but I am not a business man, and therefore I should all the more like to see the Government go thoroughly into the matter and appoint people to investigate the figures and to see what they mean. But as far as I can see, I must say that the proposal of Col. Watkins-Pitchford looks very noteworthy. The foodstuffs that he wishes to make out of beef have been investigated by a Government official&#x2014;I think it was Dr. Juritz&#x2014;and the report on these foodstuffs is very favourable. The figures show that if 20s. is paid for 100 lbs. of beef, then by the process which Col. Watkins-Pitchford suggests, meat essence and other products can be made with a profit of 600 per cent. This is the proposal that is made. I cannot judge whether it actually is a fact, but for this very reason it is the duty of the Government to go into the matter. But there is a second reason why I should like to see the matter investigated and this motion be received sympathetically and favourably, It does not often happen that we can find men in South Africa to-day who are prepared to investigate the problems of South Africa in a scientific manner. We talk a lot about most of our economic problems, but very few people know what they are talking about. But few in South Africa are prepared to devote years of their life to scientific problems. The hon. Minister of Finance recently showed by figures that most individuals go out of the country to spend their pensions oversea. Col. Watkins-Pitchford could also easily have done this, but he has chosen to remain in South Africa, and now he uses his experience and knowledge acquired as a veterinary surgeon to elaborate a scheme for us which he regards as a solution of the cattle problem in South Africa. Now the point is, here we have a man who is prepared to sacrifice time and everything to the scientific study of our problems. This will discourage our lads from applying themselves also to scientific study of our problems. If we say to Col. Watkins-Pitchford that we have no time for him and that we cannot go into the scheme, then not only will he be discouraged, but also all the young people who are prepared to devote themselves to this study. Therefore the Government should sympathetically receive and go into his proposal, and if it is approved, then it should also be further prepared to listen to a man who has made a scientific study of the problem. But there is another side to the matter. I think that the Government and the hon. Minister of Agriculture will agree that the state of cattle farming and meat trade in South Africa is not sound. It has already been admitted by the appointment of a commission, I mean the Board of Trade and Industry, which has already been engaged for three months inquiring into the problem of the meat trade and industry. This fact is a proof that there is something wrong and unsound. I have here a paper which shows why the state of the meat trade is unsound. It states that the various cold storages are controlled by the Imperial Cold Storage. I read here that the Imperial Cold Storage actually control all the cold storage institutions in Durban, Johannesburg, Pretoria, Port Elizabeth, Cape Town, Klerksdorp, Kimberley, everywhere where there is anything in the nature of cold storage. This is the position in connection with the meat trade in so far as the institutions and control of the Imperial Cold Storage in South Africa is concerned. If then, it is a fact that the meat trade is to-day actually under the control of the Imperial Cold Storage, has the time not arrived to try to release the meat trade from the monopoly and control? And here perhaps is the means to bring into life an organization of farmers who are independent of the Imperial Cold Storage. The object of the motion is to call an organization into life. I would like the House to understand that Col. Watkins-Pitchford does not ask much. He says only that he would like to bring about a South Africa Co-operative Society of cattle farmers, and he wants the farmers to deliver their cattle to the factory which he will put up to make foodstuffs out of the cattle. This is all he asks for. The hon. Minister will say that if he is so anxious to establish a co-operation he should do it himself without help from the Government. The hon. Minister knows just as well as I that the co-operative movement has received a tremendous shock in South Africa. We have established many co-operative societies in our land, but very few of them have been a complete success, and our farming people have got a bit shy of the fact in respect of co-operation. That is why Col. Watkins-Pitchford comes to Parliament and asks that the Government shall institute an enquiry, will convince the farmers that the company which he thinks of establishing is sound. If the farmers have confidence, then the co-operative society can be established. Certainly the matter must be carefully investigated by the Government before it gives its support, but if the matter looks satisfactory after enquiry they can say to the farmers, here you have something of practical use and likely to be reproductive, and that that proposal is one of importance to the farmers. Then I think the farmers will be inclined to support the scheme and make a success of it. These are the reasons why I am in favour of the motion. I do not propose that the Government should refer the matter for investigation to a special committee. I do not think that quite necessary. I think it will be sufficient if the Government refer the matter to the Board of Trade and Industries for thorough enquiry. The Board of Trade and Industries is at the moment busy enquiring into the meat trade. There is a body who <span class="col_1033-1034" refersTo="page_0597"/>have the necessary knowledge to deal with the question, and I do not see why we should go past the board. But what I should not like to see is that the Minister should to-day simply throw cold water on the whole scheme. Here is a man in South Africa who has made a practical study of a problem which is year by year becoming more serious, and I think the hon. Minister should investigate his proposal, and if it is a good one then we must adopt it. For this reason I support the motion of the hon. member for Illovo (Mr. Marwick).</p>
+
+</speech>
+
+<speech by="#pirow">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">PIROW</person>:</from>
+
+<p>The hon. member for Umvoti (Mr. Deane) commenced by expressing his astonishment that members on the Government side were clearly half asleep. I would like to ask him whether this was not caused by the voice and manner of the hon. member who introduced the motion. In any event one cannot accuse the hon. member for Umvoti that he was in that state. When he rose and accused the opposite side of being half asleep one could almost say that he was ridden by a nightmare, and it looked as if he was partly labouring under an idle fancy. The hon. member for Illovo (Mr. Marwick) expressed the hope that, this matter would not be made a party one. The member for Umvoti can&#x2019;t conform to that and the possible explanation is that he was in the state he has attributed to the other side of the House. Before he quotes what the Government promised during the election he should just ask himself what the conditions were two years ago and if it has improved. He has only to observe what is going on at the moment in the meat market and he will find that the prices for cattle have improved from 30 to 50 per cent. The hon. member for Kroonstad (Mr. Werth) supports the motion. I will do the same but I want most emphatically to emphasize that I differ from the hon. member with reference to the operation of the Rhodesia agreement on the farmers with reference to scrub stock. I want this to be clearly understood. I want here to most clearly state the Rhodesia agreement was necessary to save hundreds and thousands of people from bankruptcy. We will readily admit that we cannot only remain there but we must remember that the action of the Government was not alone to create at the moment a market for scrub stock but that it also wanted to give the farmer the opportunity of building up his business so that we could compete on the European markets. We must not look at the Customs Union separately without taking into account this intention of the Government. Further, I differ from the hon. member for Kroonstad where he states that it is impossible to export scrub stock. We are indeed not able to sell that sort of stock on the Smithfield market. But we know that this poor class of animal can be sent to other countries, e.g., to Italy and its hinterland, to Dalmatia, South Slavia, etc., and that a fair market can be created for this sort of animal. It is an open secret that the Italian Government, e.g., has notified that they will assist us in every way possible so that we can export a large share of the surplus of our cattle. And because it is such a comprehensive question which concerns farming in general and which causes many difficulties, I wish, together with the member for Kroonstad, to state for the consideration of the Minister of Agriculture that the matter should be thoroughly investigated. It seems to me that a special commission is not necessary and not entirely desirable because such a commission will do its work in a hurry or with more haste than a permanent body, and the suggestion of a special commission appears the more strange to me because we have heard a shout of indignation from the Opposition about all the commissions that have already been appointed. It is remarkable that members who have disapproved of the appointment of commission now ask for the appointment of a commission. The hon. member for Illovo has laid special emphasis on the fact that this investigation should not be referred to the Board of Trade and Industries. I concur with the hon. member for Kroonstad (Mr. Werth) that this is essentially a matter which should be referred to the Board of Trade and Industries. I only wish to mention a few difficulties in connection with the matter. There are to-day daily and weekly fluctuations of prices in the Union so that export can easily be hindered. Then there is the question of an auctioneer&#x2019;s ring in Johannesburg which can control the cattle in such a way as to hinder the export of cattle. There is the question of free competition, that every company shall have the privilege of exporting cattle. To-day the whole trade is in the hands of the Imperial Cold Storage, and it will be necessary to take care that they do not get more than their proper share. The question of available ship space for the export is a cognate matter. I can mention instances where large contracts were available to exporters and where persons could not get shipping accommodation because the Imperial Cold Storage had booked up all the available space. Thereby large contracts were lost. Further, I want to point out something else. I do not know whether it is intended to continue with the payment of bounties on the export of meat if so, then the matter must also be referred for investigation to a body which should consider how far the Act should be amended. Only the companies that existed when the Act was passed and were registered immediately can get the premium, and other provisions apply to new companies. If the Government is thus continuing with the payment of meat bounties they will have to take into serious consideration how far they can allow other companies to share in the benefits enjoyed at the moment by the Imperial Cold Storage. There are farming representatives who know more of this matter than I.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#pirow">
+
+<from>*Mr. <person refersTo="hansard_za">PIROW</person>:</from>
+
+<p>The hon. member has found a little sense. In conclusion, I only wish to say in connection with the Watkins-Pitchford process that if the Board of Trade and Industries go into it, it should enquire whether such a factory will be able to exist without <span class="col_1035-1036" refersTo="page_0598"/>support from the Government. The board must take into consideration how far we can compete in the open market with the Argentine, a country where more favourable conditions exist than with us. If they come to the conclusion that the Government cannot mix themselves in the matter, then I wish to give them warning that we must be very careful in establishing a co-operation for it. Co-operation has just as great a future in South Africa as its past is dark. Before the co-operation can be used for anything that is new and unknown we must be extremely careful in going to work. Co-operation has already received a tremendous shock in the past, and if this happens again it may finish co-operation in our country for ever. We must not lose sight of the fact that some scientists sometimes even become obsessed by their inventions and lose their equilibrium. I therefore hope that the Board of Trade and Industries will not allow itself to be influenced in its investigation by the person and the past of Col. Watkins-Pitchford. If the process is not a good one, the board should not be misled by the past of this gentleman.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>I do not think it will he denied that the horned stock farmers of the Union are in a very critical position. Perhaps members who agree will take refuge in the time-honoured phrase that &#x201C;Something must be done for them.&#x201D; Well, Lord Palmerston once said, when people said that something must be done, it generally meant something foolish was done. We are suggesting a definite way to deal with the problem. Our troubles are due primarily to the large surplus of horned cattle in this country, and that surplus is due, first, to the difficulty of disposing of those cattle. That is due to the inferior quality of the animal. I found it very interesting when in Europe recently to contrast the teeming millions with our sparsely-populated country. One remembered that meat was an essential part of their diet, and it was interesting to reflect that in South Africa we were in many cases selling our cattle merely for hide and offal value. There is an unlimited market in Europe for our meat production. England alone in 1923 imported 935,000 tons of meat. At present they are importing rather more than a million tons. Of that, 35 per cent. was marketed at Smithfield alone, and 71 per cent. of that came from the Argentine. If you calculate that a million tons of beef mean five or six million animals, you will see what a tremendous market there is. Very promising markets are opening up elsewhere in Europe. I think the mover and seconder of this motion put their figures rather moderately. Those I have are higher, and are taken from the report of the chairman of the Board of Trade and Industries. In 1918 the number of our horned cattle was 6,852,000: in 1920 it was 7,655,000; in 1921 it was over 8,000,000. The increase seems to be a steady 11 per cent. per annum. So that the number of horned cattle is probably considerably in excess of the modest 10 millions mentioned by the mover of this resolution. It seems that we need not despair of markets, but we shall be in a condition of despair so long as nothing practical is done to relieve the situation. I think that the House and the Government should be grateful to the hon. member for Illovo (Mr. Marwick) for bringing forward a practicable scheme. He does not tie himself down to one particular method, although he puts forward a definite proposal that the Watkins-Pitchford method should be investigated. When I was in England I was very much interested in the study of prices, more particularly those of imported meat; and I may say that of England&#x2019;s meat supply 52 per cent. is home-grown and 48 per cent. imported. I found that the prices charged to the consumer for imported meat ranged from about 1s. 2d. per pound in the case of the lowest-priced cuts of beef to over 2s. for the best cuts. As I have pointed out, most of this imported beef comes from the Argentine and not from Australia. I do not think we need fear competition from Australia for this reason, that Australia is at such a distance from Europe that in order to be able to deliver their beef it must be frozen, and frozen meat is not always very marketable as it deteriorates in quality. It appears that without deterioration beef can only stand being chilled, not frozen, and that the maximum time that it can be safely subjected to the chilling process is a little over three weeks. That period enables the Argentine or South Africa to place its beef on the English market, but it rules out Australia. So I think there is a good market for South African meat if we can make satisfactory arrangements. Although we have in this country this enormous overproduction and surplus, the returns for 1923&#x2014;the latest I have been able to procure&#x2014;show that we only exported the miserable 4,880 quarters, representing only 1,200 animals out of our annual surplus which is estimated at from three-quarters of a million to a million beef animals. Persons in the trade have told me that the great reason for our not being able to carry out a successful export trade in beef is the inferiority of the beef grown in South Africa. They say that the only portion which is marketable is the hind-quarter. The fore-quarters are unsaleable in competition with the home-grown or stall-fed beef to which the people of Europe are accustomed. I think the position of the cattle farmer would have been far more desperate if we had not a market for this inferior meat in the compounds of Johanesburg. Perhaps the fact that we have this market has not made us sufficiently alive to the need for growing a better quality of beef. This scheme that is recommended by the mover of the resolution certainly at all events deserves investigation. It is no theory; it has been tested, not only on a laboratory scale but on a considerable scale, and the results of the tests and the analyses are altogether favourable. This procase is particularly suitable to our case, because, as the inventor tells us, the fore-quarters and inferior portions of the carcase are as useful <span class="col_1037-1038" refersTo="page_0599"/>for his processes as the very best cuts, and this fact should make it worthy of consideration. We are in this position, that our veld is being eaten up by animals which do not deserve to exist from the economical point of view. I am told that out of our 10,000,000 head of cattle only 15 per cent. are of any considerable grade. If we go on breeding scrub cattle we shall be ignoring the experience of the world, for all other countries are giving active attention to the improvement of their breeds and find that the highest quality carries the highest economic value. How can we make any progress, however, towards a better and more remunerative quality in our herds while there is no room for them on our farms. But if we adopt this scheme we can automatically reduce the over-stocking which takes place even on good farms, at present low prices, and then we shall always find a good market for the better qualities we can produce. I do not agree with the last two speakers in thinking that the Board of Trade and Industries is the best body to investigate on this subject. So far as I am aware there is not a single practical farmer on that board; and it has been the curse of the farming community for the last 75 years or more that their financial arrangements have been dictated by people who are not farmers. The rise of joint-stock companies was largely due to the industrial expansion of 75 years ago, because it was found to be an eminently suitable system for the development of industrial concerns. But the principles of joint-stock enterprise are not of universal application or eternal, like the Ten Commandments, and vast subsequent experience in thousands of cases has been that it is not the best method for farming finance. But what is the farmer to do? He goes for financial advice relative to his co-operative society to his banker or his lawyer&#x2014;and it must be remembered that money is not the farmers&#x2019; currency to the same extent that it is for the merchant or the industrialist&#x2014;and these people warn him against going into business methods of which they personally have had no knowledge or experience. They will point that a limited liability venture is the only safe thing in which he can put his money, and they warn him not to be concerned with co-operation if in the nature of an unlimited liability concern. From their own business point of view no doubt they are right, but they are not qualified to advise the farmer on his special business. Other interests take the farmer as an individual, and he is unable through his own individual strength and isolated efforts to resist the forces against him. The farmers, I think, have good reason to be shy of the great monopolies, particularly those which are concerned with the produce of the soil. I can give an instance from my own experience. I was at one time an enthusiastic grower of pigs, and I believe this country is capable of producing the finest bacon in the world. Years ago I visited Denmark and studied their methods. I took the trouble to identify the Free State mealies which the farmers there were using, and when I came back and wanted some bacon I had to buy Danish bacon fed with South African mealies. Well I grew pigs and sent them to the Johannesburg market, where they arrived 24 hours later. They were returned as having lost 22½ per cent. of their weight in the 24 hours. I do not know how it is possible for an animal to lose that amount of weight and live. That 22½ per cent. meant to me all the difference between profit and loss.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I call that robbery.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>I think Mr. Speaker would pull me up if I used the language I would like to use about that transaction. Naturally, I went out of the pig-growing business. I was not prepared to produce pigs for the benefit of those who make profits in that irregular swindling way. I have no doubt there is a good deal of that kind of thing going on in connection with other products of the farmer, and we want to get rid of all that. We shall only do so if we develop the co-operative spirit and insist in dealing ourselves with our own products, and on marketing in our own interests, and not in the interests of any big corporation. Now co-operation underlies the Pitchford process and proposals. We can do without any more millionaries in this country and we can do with fewer bankrupt farmers, and perhaps the two things are not so inseparable as hon. members may think; at all events, it seems probable that some of those who make these large operations become millionaires by exploiting the farmers, and they contribute to the bankruptcies and farmers of which we have had too many. I do ask that this matter be not referred to the Board of Trade and Industries. I have no doubt about their general ability for dealing with everything or most subjects, except the farmers&#x2019; interests in this particular matter. This subject would require the undivided attention of a commission for some months to get all the information and to bring in a report which will be valuable. I do not think the board is specially well equipped for this job. Therefore I hope that the underlying idea of all this motion, a motion which is meeting with universal approval, will receive the favourable consideration of the Minister. It is not a party question, and I hope those who take up the position that it should be referred to the Board of Trade and Industries are not going to take a stand in the last ditch on this detail. We are all out to deal with a very serious matter, affecting one of the largest industries in this country, and this motion affords a practical way of leading towards its solution. It is the only practical scheme I have seen produced that we have discussed in the House. We have tried and are trying such devices as export bounties and embargoes to help in the disposal of cattle. I do not think these schemes are worth anything, or, if they are, they are worth very little, and we may safely scrap them. I do not say they have made no difference, but they will make no serious difference to the position as outlined by the hon. the mover of the motion. We may call this, if not the premier <span class="col_1039-1040" refersTo="page_0600"/>industry, certainly one of the most important industries in this country. Col. Pitchford has invented this process; has had it tried on an extensive scale; has calculated the benefit according to his experience not only to the stock farmer but to the wine farmer and the grain farmer immediately, and, of course, to the whole community indirectly. I do hope that this will be approached in the broad spirit in which such a national subject should be approached. I hope the motion will be accepted, that a commission will be appointed, and then it will be time to answer some of the theoretic objections that may arise. It may be found, on the one side, that the process is not worth considering further, or, on the other side, it may well be found that it is well calculated to relieve the present harrassing situation. I hope, too, that the inventor will continue his efforts this year at Wembley. I have heard that his comparatively small exhibit there has attracted great attention and that 2,000 names of would-be purchasers have been entered for the various products. There is a world market for these nutritive extracts which is not confined to Europe. It extends to the Far East and, in fact, wherever people want the nutritive equivalent of meat. And that opens up a very pleasant prospect of relief from a very serious and in many cases desperate situation. Therefore I hope the motion will be accepted, and that it will go forward as the united opinion of all parties in this House that_ they are aware of the seriousness of the position; have come to the conclusion that the other remedies, no matter how good in theory, and although they may be slightly helpful, are inadequate; that this is believed by many to be a practical scheme, at all events one that is worthy of investigation; and that the rest may be left in the hands of a commission, if that body is of the requisite ability.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>&#x2020;*The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>After the calm way in which the hon. member for Illovo (Mr. Marwick) has introduced the motion, I am sorry that the hon. member for Umvoti (Mr. Deane) still always tries when he rises to make reflections on this side of the House, and that he has done it again to-day. He has asked whether we are asleep, while he has only awakened to-day. This side of the House have been busy for years trying to solve the difficulty. The Government gave its attention to the matter immediately, and to-day the hon. member asks for a commission. I feel at once the importance of that motion, but what is asked for the Government has already done. Four months ago we referred the whole question of the meat trade to the Board of Trade and Industries. It has been engaged for four months investigating the whole matter of the meat trade in South Africa. It seems to me that hon. members are not altogether pleased with the terms of reference to the Board of Trade and Industries. I will therefore read it out. They must investigate and report upon&#x2014;</p>
+
+<ol>
+
+<li>(1) The application of the contract entered into on March 22nd, 1898, between the Government of the late South African Republic and the late Pieter Johannes Potgieter and Hendrik Schoeman, forming the basis and origin of the Transvaal Koelkamers Beperkt; <i>(b)</i> the control exercised by the Government and the financial relationship created between the Government and the Transvaal Koelkamers Beperkt under and by virtue of the contract mentioned under (<i>a</i>); (<i>c</i>) the operations of the Transvaal. The Koelkamers Beperkt in respect of the meat trade in the Union of South Africa from its inception to the present date, and the relation of that body to any other concern trading in livestock or meat or other cold storage products.</li>
+
+<li>(2) The position of the concern known as the Imperial Cold Storage Company, Ltd., in connection with the meat trade, the trade in fresh fish, and the supply of foodstuffs generally in South Africa, including South-West Protectorate; (<i>b</i>) the acquisition by the said Imperial Cold Storage Co., Ltd., of the companies known as the South African and Australasian Cold Storage Co., Ltd., and the Cold Storage Trust, Ltd.; (c) the interest, held and the controlling power exercised by the Imperial Cold Storage Co., Ltd., in and over South African concerns which are the suppliers of foodstuffs of any kind; <i>(d)</i> the question whether, and if so in how far, a trust or ring in meat, fish and other foodstuffs has been created in South Africa, and the best means of remedying any unsound condition which may have sprung therefrom.</li>
+
+<li>(3) The market values of stock in the large centres of the Union compared with (a) the prices charged to wholesale dealers, and <i>(b)</i> the prices obtained in the retail trade by butchers, the main causes of the extensive fluctuations and the facilities prevailing to enable farmers to obtain the Best quotations for their cattle or otherwise; <i>(c)</i> what reasonable policy should be adopted for the improvement of the conditions arising under <i>(a).</i> the export of meat from the Union specially with a view to the prices realized overseas as compared with the prices levied by the retail trade in South Africa and charged to the public.</li>
+
+</ol>
+
+<p>Hon. members will thus see that the Government has already by the terms of reference referred the whole matter to the Board of Trade and Industries for enquiry and the board has already been engaged on the enquiry for some months. I am sorry that the hon. member for Illovo (Mr. Marwick), with his motion, has practically thrown a kind of reflection on the board, while other members also appear to think that the board is not competent and has not sufficient experience to investigate the matter. The Government has full confidence in it. It has been appointed to enquire into the whole question of the meat industry and trade in relation to the Imperial Cold Storage. I think that the terms of reference which I have read will cause it to go into the powers of the cold storage company or trust in connection with this matter, and I expect that <span class="col_1041-1042" refersTo="page_0601"/>they will make the necessary recommendations about the question which is now before the House. The hon. member for Kroonstad (Mr. Werth) has said that according to the scheme of Col. Watkins-Pitchford when a hundred pounds weight of meat is bought for 20s. 600 per cent. profit can be made on it. Well this would indeed be an encouragement to breed stock of a lesser value. If I can make 600 per cent. profit I shall not take much trouble in breeding a good class of animal. I am not au fait with the matter as is the hon. member for Kroonstad, but what I see in the motion is a reference to the very poor class of our cattle in South Africa, and the more we can get people to breed the better animals in South Africa the sooner shall we, in my opinion, come to a solution of our difficulties. Take the creameries today. The position is very insignificant. We have about 123 creameries in the country, and why is their position so weak? We have not the class of stock that gives good milk to make pure produce from, therefore we should improve the class of stock so that the factories that make butter and cheese can obtain a proper class of milk. One has to give the poorer class of cattle the same food as to the better class, and yet the poorer class of animal produces probably only one-tenth of the milk which is obtained from suitable animals. That is why the Government should do its very utmost to encourage our farmers to breed better cattle. With reference to the export of slaughter stock, we can learn from other countries. They use only the best animals for the export trade, and if we want an opportunity to export cattle, then it is necessary that we should breed a more suitable class of animal than what we do to-day. I say we have made some progress. It naturally goes slowly, but there is already considerable indication that people are going over to keeping better stock We see that other portions of South Africa, e.g., Rhodesia, have taken the greatest trouble to get a better class of animal, and it will be of great benefit to us if we follow the same course more. With reference to the second point of the motion, the scheme of Col. Watkins-Pitchford, I wish to say that I have every respect for him and that I am very pleased that he is trying to find out something to get rid of our animals of the poorer class. I understand that 75,000 animals can be used up under the scheme, provided the hind quarters of the animal can be exported. The scheme has been brought to the notice of the Government, and we have referred it to the Board of Trade and Industries, which has enquired into it. The board went fully into the matter and the report has been laid on the Table of the House today. It appears that the company has already spent £80,000, but how far they have progressed is not clear to us. But what is actually the proposal? The Government must go and lend a company to be formed £250 000. Then they will give as security to the Government certain cold storages over which they have the option. The cold storages are not their property, but are under option, and they must as a matter of fact be paid for out of the £250,000. Thus the Government would take £250,000 of the taxpayers&#x2019; money to give to such a co-operative society against a guarantee of £160,000. All hon. members will admit that the Government cannot act in this way with public money. If a proper security is given the Government is prepared to reconsider the matter. But more light must first be thrown on the question. If more details with regard to the invention are submitted we will be prepared to consider the matter again, because we sympathize with the matter and we think that something like this might perhaps help our cattle farmers, but, on the other hand, the Government must go carefully to work with the money of the taxpayers. The Board of Trade and Industries has gone fully into the matter, but, as I say, if more light can be thrown on it, I am quite prepared to receive other proposals, and I will then again refer them to the Board of Trade and Industries, but the report of the Board of Trade and Industries recommends us to go carefully, that is what is recommended after Messrs. Pitchford and Alexander had explained the process to the board. If there are matters which throw further light on the problem, then it is a pity that those persons did not submit them to the board. But I will go so far, as this is an important matter, to say that if there is any further light thrown upon the matter with reference to Nutresco and it is shown that larger profits can be made, I am quite prepared to allow the matter to be gone into by the Board of Trade and Industries. But I cannot accept this motion on behalf of the Government because, as I have already shown, both the things mentioned in the motion have already been done by the Government, and to now appoint a commission to withdraw the enquiry from the Board of Trade and Industries I cannot do, especially since members on the other side have been making objections to the commissions. They now come, however, with the request that the Government should appoint a commission over the head of the Board of Trade and Industries. Exactly what is proposed is being dealt with by the Board of Trade and Industries, and everyone is at liberty to give evidence before the board. With reference to the second portion of the motion, I do not now want to go into the matter further. The recommendations of the board are these&#x2014;</p>
+
+<ol>
+
+<li>(1) That the Neutresco process contains marked possibilities for disposal of animals of lesser value.</li>
+
+<li>(2) That if a co-operative society obtains the Neutresco rights the Government can grant financial and scientific assistance with the object of fixing the commercial value of the process; and</li>
+
+<li>(3) That under the terms submitted to the board, the Government should not grant the money for the Neutresco scheme.</li>
+
+</ol>
+
+<p>I appreciate it that Mr. Watkins-Pitchford is working in the direction of finding a means of <span class="col_1043-1044" refersTo="page_0602"/>using our cattle. At the moment it is said that profits of 600 per cent. can be made. Well, I am not so optimistic, because if that is so we should long since have had a company who would have taken up the matter. I must, however, leave the matter there because I do not wish to oppose Col. Watkins-Pitchford, I would rather help him, but to expect the Government and do work over again upon which it is already engaged is expecting too much. If the Government appoint a commission to do this work it will show that the Government has no confidence in the Board of Trade and Industries. For this reason I am sorry that I cannot accept the motion.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>It would not be fair to accuse the House of treating this question with indifference. In the last financial year the amount provided as a bonus for the export of meat was £40,000&#x2014;and the previous year £70,000&#x2014;but the total amount earned was only between £5,000 and £6,000 on a total export valued at about £30,000 in the two years. The bonus equalled 15 per cent. of the value of meat exported, and that sum went to the Imperial Cold Storage Company which, of course, is interpreted as Graaffs. What is the reason for such a small export? It is partly because we have 9,000,000 head of scrub cattle, of which not 5 per cent. would give meat fit for export, as it would be unsaleable on the other side. The bonus system will therefore not do anything to improve the position of the cattle trade generally. I want to draw attention to the ineptitude of those who laid down the bonus system. Why is it that it has completely failed and that the money has gone into the pockets of one particular firm? I do not accuse those who drew up the Act of having done it wilfully, but the most extraordinary thing about it is that only those who gave notice within a month of the promulgation of the Act that they would be prepared to export under the bonus system were allowed to do so. It is almost incredible that an Act which was supposed to be drawn up for the advantage of exporters laid it down that if they did not apply for permission within the first month of the promulgation of the Act they could never export under the bonus system. I want to draw the attention of the House to what has actually happened within the last few months. Recently a very influential firm took up the matter of export. They got everything perfectly ready for the export of large quantities of not the very highest class but a second grade meat, which would have relieved the market to some extent. They then applied for the permit to be allowed to export that meat. The Minister of Agriculture said that he would do everything he could for them but fortunately, these people obtained good advice, which was that they should not move until they had got in writing permission to export. The Minister did all he could, but when it came to obtaining written permission under the Act they could not possibly get a permit to export meat. There is this extraordinary thing, that these people who were prepared to ship in large quantities and had arranged the whole thing, were absolutely tied up, because the Minister cannot possibly give a permit for these people to export meat under that bonus. Here we have an Act which provides that, unless application had been made within the first month of its promulgation, one can never operate under the bonus system at all. It looks as if the Imperial Cold Storage had drawn up that Act. They were the only possible people who could then put in for the permits under which the bonus could be earned. I do not say that object was actually planned and plotted, but one is almost inclined to think that somebody knew that the only people who could possibly get permits were the people who have exported that extraordinarily small quantity of meat. I hope that the Government will arrange during this season that those who wish to can also come into this export business, so that if the firm I have mentioned should again take up the matter they can push it right through. I trust that the question of introducing an industry of the character mentioned in this motion will receive such attention as it ought to have. It looks feasible, and one would like to see the Government provide sufficient capital so that it may be tested. In this way we may be able to do something to deal with the herbs of scrub cattle which we now have in this country. Unless something of that kind is done, it seems to me that the only alternative is to import thousands of good bulls and arrange that they should be sold to farmers on a credit system. It is deplorable that the position should be such that, even under this bounty plan, we have constructed a system of export that can only be taken advantage of by the Imperial Cold Storage Company.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>I am afraid that if the only contribution that the hon. member for Pretoria (West) (Mr. Hay) has to make on this question is that we should be prepared to go in for the importation of thousands of bulls, he is not going to do much towards solving the cattle position in this country. If the hon. member knew the amount of money that has been expended in improving the scrub cattle in this country he would realize that you are not going to improve the position in regard to the scrub herds by importing bulls, which would be subjected to all the diseases of the country and would have to be inoculated before they could be turned out on the veld. The only way to improve the breed of cattle is by getting the farmers to call to their aid the large number of bulls already bred in this country. The hon. member for Pretoria (West) while saying he made no imputation of any sort whatsoever, was desirous of impressing upon the House the fact that when the bounty was introduced and provision was made to give ½d. per pound to encourage the export of beef from this country, certain interests were being considered, and that the provisions of the Bill were of such a character as to serve a particular <span class="col_1045-1046" refersTo="page_0603"/>firm. I won&#x2019;t say that is unworthy of the hon. member for Pretoria (West); we expect very little better of him from our experience since he has graced this House with his presence. I do, however, say that we are entitled to claim the vote of the hon. member for this motion for the appointment of a special commission to inquire into this subject, as that commission would have an opportunity of looking into the Export Beef Bounties Bill and finding the real reason why these clauses were put into the Bill. The hon. member and the commission will have an opportunity of examining the Secretary for Agriculture and the officials of the Department of Agriculture, and they will find in connection with the Bill which was introduced in 1923 that that special clause to which he refers was put in for the purpose of protecting the farmers of this country.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>Has it done that?</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>The Agricultural Department and the Government said that it is not fair to give a bonus for the export of beef, knowing that there were only certain cold storage bodies in this country that could take advantage of it, without insisting that within one month of the promulgation of the Act they should frame charges under which they would be obliged, if they participated in the bounty, to deal with the cattle of any farmer or group of farmers who desired to offer their cattle to them for export.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>Has it assisted the farmers?</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>It has assisted them to a certain extent. But the clause to which the hon. member refers was put in to prevent any firm from getting the bounty, save and except that firm were prepared to act as brokers at charges that the Veterinary Department considered fair, which charges were scheduled and published in the &#x201C;Gazette.&#x201D; Last year he will find a draft in the Department of Agriculture to make changes in the Co-operative Act for the purpose of allowing other firms that said they were desirous of going into the business an opportunity of having another period to schedule the prices at which they are prepared to deal with export meat.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>Why did you not put it through?</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>I will tell the hon. member. I did not put it through because the public had, unfortunately, been led away by the promises which had been given by the hon. gentleman opposite and his Socialistic and other friends and considered it advisable to put another Government in power, but the House was to have had an opportunity of dealing with the Bill, and I hope my hon. friend the Minister of Agriculture will deal with that Bill this session. It not only deals with that particular question, but with other amendments in the Co-operative Act which it was found very desirable to ask Parliament&#x2019;s approval for. I must apologize for giving up so much time to the hon. member for Pretoria. (West) (Mr. Hay) because I do not think the people of this country pay much attention to the views of the hon. member, whether on diamonds or cattle. I hope the Minister&#x2019;s decision is not final. I do not want to detract from the qualifications of the personnel of the Board of Trade and Industries, but the board is kept constantly busy with various proposals brought before them. With regard to this cattle industry, I do say it would be of great satisfaction to the cattle farmers if a commission of the kind suggested in this motion were appointed, particularly it would give satisfaction if there could be an enquiry into the practicability of the Watkins-Pitchford method. The proposals of Dr. Watkins-Pitchford I submitted to the officials of my department when I was in office and they were investigated. Dr. Juritz and other authorities of the department substantiated the proposal. The Board of Trade and Industries, in their report, refer to the suggestion of this scheme being worked on a co-operative basis. I feel perfectly certain that if this industry were restarted there would be no difficulty in getting the cattle farmers to join in a co-operative scheme, provided they had an authoritative report of a commission, such as is suggested, as to the practicability of the proposals. No matter how capable the Board of Trade and Industries may be, the farmers will not be willing to go into a co-operative scheme of this kind unless they have a full enquiry by a competent commission on which some person who speaks with authority about the cattle industry is represented. I would appeal to the Minister to see that a thorough enquiry takes place. It is true there is a possibility of a market in Europe. The hon. member for Pretoria (West) (Mr. Hay) wonders that more advantage has not been taken of the export bounty on beef. That was due to the tremendous drough we had and to the difficulty of organizing a business of this character. So far as Smithfield is concerned, there they have the choice of the markets of the world The very best Argentine cattle which have been bred up for generations from the very best blood go to Smithfield. But we have found after the investigations of the Trades Commissioner&#x2014;and I should like to say what excellent work Mr. Spilhaus has done in this direction&#x2014;that there is a possibility of a market overseas. If we could devise a process whereby the fore-quarters could be worked up in this country and the hind-quarters exported. I think we should do very well.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>Why not turn it, into canned meat?</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>With canned meat there is tremendous competition. It would be much better to export the hind-quarters to Europe than to turn them into canned meat. What I would like to find out is whether the fore-quarters could not be turned more economically into these nutritious compounds than into canned meat. There is a plethora of cattle <span class="col_1047-1048" refersTo="page_0604"/>in this country. I think that within the region of South Africa&#x2014;as we speak of it&#x2014;there must be something like 13,000,000 to 14,000,000 cattle. Under those circumstances we ought to do all we possibly can to encourage this industry. There is another thing, and that is, it will be a great advantage to the cattle industry if we can get rid of a large percentage of the scrub cattle. The difficulties in South Africa and the huge losses we have sustained are due to the fact that in good seasons there is a tendency to overstock. When the drought comes you have large losses. Nothing would prevent those losses more than making provision to keep down the number of your cattle within reason. The Minister has read us a lecture about the advisability of improving our dairy houses. I agree that if you could double the milk supply it would be of enormous benefit to the farmers, but that is a thing which takes a very long time. The Farmers&#x2019; Association throughout the country have been agitating in this direction; they feel something will evolve from an enquiry. I say in the general interests of the cattle farmers it behoves the Government to do everything they can to show they have the utmost sympathy with these people. But, as I think, they have such an enormous amount of work to do that it is utterly impossible for them with the time at their disposal to give the attention and consideration to an enquiry such as is contemplated by the mover of this resolution. In these circumstances I hone the Minister will reconsider his decision. This is not a party question and the hon. Minister will have noticed that the speeches from his own side display exactly the same tone as those from this side of the House. It would be most unfortunate if, in dealing with an industry of this sort, the House should be guided by mere political considerations. In appealing to the Minister I make him a present of this statement, that if he will set up a small and really representative commission of the highest standing. I feel perfectly certain that he will have behind him not 50 but 100 per cent. of the cattle farmers of this country. I think that, whether the motion comes from this side of the House or the other the Minister should treat it in the most sympathetic manner. As a cattle farmer myself, I can say that no section of the farming community has gone through such trying times as the cattle farmers have done during the last four or five years. They may be clutching at a straw; there may be nothing in this proposal, but I believe there may be something in it and that there is a possibility of a more workable scheme being evolved than the proposal made to the Minister. But if there is anything in it, it is well worthy of every consideration from the Government. The great difficulty against such a proposal is that you have against you vested interests like Oxo and Liebig and Co.&#x2019;s, amounting to hundreds of thousands of pounds of capital, which are spending enormous sums in advertising For this reason it is utterly impossible to bring a new proposal to a successful conclusion put it before the people of the country, and place it on the markets of the world, unless you have a Government investigation of the most exhaustive character. I believe the trade done in Italy has been a great advantage, and I understand that a large number of cattle have lately been bought for the purpose of being exported to Italy. Whether they are being exported by the Imperial Cold Storage Co., or by the F.C.M.I., or whether a profit is being made on the business, I say that it is a great advantage to the cattle farmers that this export is taking place, and the more cattle there are exported the better. But that is not alone going to meet our difficulties. The surplus to be exported is enormous, and I hope the Government will give this proposal more favourable consideration than the Minister has been able to do this afternoon.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>I entirely agree with the hon. Minister when he says that he sees no chance of accepting the motion. We have had many commissions in the past to investigate the matter of surplus meat and the reports have been put on one side by the previous Minister of Agriculture and nothing has been done. I therefore do not see the necessity for appointing another such commission to-day. The hon. Minister has told us that he has instructed the Board of Trade and Industries to go into the matter thoroughly. I think that they are competent persons, and if there are members here in the House, or people outside, who have knowledge of the matter and can make any suggestions, they can give evidence before the Board of Trade and Industries and it can report upon the matter. The Minister is doing everything in his power to meet the horned cattle farmers.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>They are enquiring into a different subject altogether. What the Minister refers to is an entirely different thing.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>There the hon. member is wrong. The Minister has said that it must institute thorough inquiry to see what can be done. We must wait until they report. I have full confidence in the Minister of Agriculture that he will do everything he can in the interest of the farmers. We all know that we have to do with a big problem. The Pitchford scheme is a good scheme as far as I can see, and the hon. Minister should go into it as to how far he can adopt it. He will of course do so, but he must wait for the report of the Board of Trade and Industries. Let us wait and see what the new Minister of Agriculture can do. I have full confidence that he will meet the cattle farmers. But how would such a new commission help? Then, again, a report is made and the report is laid on the Table, and there the matter ends. Now we have the report of the Board of Trade and Industries, and the Minister will now be able to judge what can be done. The hon. member for Fort Beaufort had an opportunity of doing something; what did he do? Nothing. Let us now see what the new Minister will do. I am <span class="col_1049-1050" refersTo="page_0605"/>certain that the cattle farmers will not be disappointed by him.</p>
+
+</speech>
+
+<speech by="#arnott">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">ARNOTT</person>:</from>
+
+<p>I had no intention of coming into the debate, but the hon. member for Pretoria (West) (Mr. Hay) has made such astounding mis-statements&#x2014;a greater number of mis-statements in a short speech than I think I have ever heard in this House&#x2014; that I feel bound to reply to him. He said the Bounty Bill was passed for the benefit of one company. It was, perhaps, unfortunate that there was only one company to do the export trade; but it was only five months ago that two representatives of Messrs. Swift &amp; Co. came to South Africa to investigate our meat trade; and I may say that this American company makes a world-wide investigation every five years to see what is being done. These gentlemen came to Durban, but they told us &#x201C;Your trade is much too small.&#x201D; The farmers&#x2019; co-operative industry were in difficulties last year and it could not undertake the trade. They approached the Imperial Cold Storage Company, which put up the finance. It was getting late in the season, but over a thousand head a week was handled during the short season, and it takes something to handle this quantity; to kill them, to get them frozen, and pack them. Over £30,000 has been spent during the last few months to enable the output to be more than doubled, which it will be this year, and to say that the farmer is not reaping the benefit is entirely wrong. Up to 12 months ago young bulls were unsaleable; to-day there is a heavy demand for them which has sprung up in the last six months, and Rhodesia is crying out for bulls. Rather more than 18,000 head were exported last year, mostly from Rhodesia; but it does not matter where they come from, whether from the reservoir, that is likely to overwhelm you, or from the Union; it is bound to have an effect on the cattle trade of this country, and it is hoped that between 60,000 and 70,000 head will be exported this year. The works are in a good position to handle 400 to 500 head a day. The only thing is that I am afraid the railways will not be able to handle the traffic. It is not that we have not got a market. You can get a market for anything. 160 lbs. a quarter was a fair average export quality. There was a continental quality of 70 lbs. a quarter. That would surely get rid of the scrub cattle. The trouble with scrub cattle is the railage, which kills it. There is only 280 lbs. you can get a return on. Last year I told you, and I repeat it, that in 1923 the average price ruling in the Argentine for first-rate chillers, prime chillers, was 17s. 6d. per 100 lbs. The export rate for cattle from the Union was 25s. 3d., 17s. 6d. plus 4s. 3d.; the amount of the bounty is 21s. 8d. Owing to the mail contract the Union-Castle Company are bound to carry meat at an eighth of a penny below the ruling rate from the Argentine. That gives South Africa a shilling and a halfpenny, equal to 22s. 8½d., and the farmer got 25s. That was a special condition, because we were able to handle the meat at a cheaper rate through employing kaffir labour. I am told that a certain lord, the other day, before a commission appointed by the Government stated he had 60,000 oxen running within a short distance of Port Darwin, in Northern Queensland, and that it was cheaper to allow his oxen to die on the veld than to prepare them for export, because the cost of preparation owing to the Labour Government is £10 per head. Not only did the farmer get 25s. for what was exported, he got 20s. for rejects. (An hon. member stated: &#x201C;Why don&#x2019;t you pack them?&#x201D;) All that was paid for packers was 3s. 6d a 100 lbs. I have every pleasure in supporting the motion of the hon. member for Illovo (Mr. Marwick), knowing that this will give an outlet for beef from this country, and that it is worthy of investigation.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">STEYTLER</person>:</from>
+
+<p>I have listened with much pleasure to the speeches which have been made in connection with this important matter. As has been seen on former occasions, the cattle farmers are in a very serious position, and I accept the word of the Minister of Agriculture that he will investigate the matter. But I wish, further, to urge that steps should be taken. Various things that we should do have been suggested, but we can do what we like, we shall never solve the question as long as we do not protect ourselves against the adjoining territories. I am thankful for what the Minister of Agriculture has suggested with reference to the improvement of the breed of cattle. As a farmer, I can, however, state that it does not pay me to do this. There are all kinds of questions which I have to take into consideration in connection herewith, and that I must ask myself. The first is whether I shall be in a position to compete with the best that can be imported from neighbouring territories, such as Rhodesia, Swaziland, etc., where the ground is much cheaper than in the Union. I cannot do it, and therefore it will be better for me to change my farming into sheep farming. But there are people who cannot do this because the farms are not suited thereto. It cannot be done in all parts, and therefore I would like to urge the hon. Minister of Agriculture to take care that measures are found. We are thankful that the agreement with Rhodesia was concluded to make the weight of cattle permitted to be imported higher, but measures must be taken so that these animals can be weighed in order to prevent cattle under the agreed weight from being imported. As a farmer, I know how easily one can get round the officials on the railway. The Minister of Agriculture should arrange that a few consignments to Johannesburg should be weighed and that they should be sent back if they do not weigh enough. It will then serve as an example of what will happen and we shall have the certainty that the agreement will be carried out. In connection with the other adjoining territories, I do not know what the Government is doing. I believe the Government is considering the question, but it is in <span class="col_1051-1052" refersTo="page_0606"/>the interest of many cattle farmers that immediate steps should be taken to prevent cattle from being exported from those areas. If this is not done this whole debate will do no good. We must remember that our ground is much dearer and that we cannot compete in price with those parts. If it cannot be done, then the sooner the farmers of the Union are told that they cannot get the protection the better. I hope the Minister will consider the few points I have mentioned.</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>It is admitted by the cattle farmers that their condition to-day is hopeless and helpless. Unless we can find some reasonable solution which will absorb the cattle surplus in the very near future, the position of the unfortunate cattle farmer will be such that many of them will be driven into the bankruptcy court. I was very much grieved to learn that the Minister of Agriculture would not accept the motion. The question is of such great importance that it should receive more sympathetic consideration from the Minister. I appeal once more to the Minister to allow the motion to go forward, and to agree to the formation of a special commission of enquiry into the Watkins-Pitchford process to find out whether that process can assist in solving what appears to-day to be an Insoluble question. If we exercise and concentrate our minds sufficiently I am convinced we shall find a solution. America, I am certain, under similar circumstances, would find a solution; surely we are not so week-kneed as to be unable to do the same. The Watkins-Pitchford process calls for the most careful investigation by men of experience. The attention of the Industries Board who enquired into the cattle question has not been directed to this point as the board dealt almost exclusively with the question of the cold storage conditions and alleged monopoly of the Imperial Cold Storage.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>What about the report placed on the Table to-day?</p>
+
+</speech>
+
+<speech by="#nel">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NEL</person>:</from>
+
+<p>We have heard of only two items in that report. Apparently the board did not deal with that particular question. I appeal to the Minister to appoint a special commission. If necessary it may consist of some or all the members of the Board of Trade and Industries, but it should also include some farmers. How many farmers have given evidence before the Board of Trade on the Watkins-Pitchford process or on the question of the cattle farmers&#x2019; difficulties? The board has not been to the cattle farming districts, but only to the towns. The farmers of Newcastle passed a resolution instructing me to support this motion. The Farmers&#x2019; Union of Newcastle is composed of all political sections, and Newcastle is as well organized, from a farmer&#x2019;s point of view, as any district in South Africa. I was extremely disappointed to find the attitude taken up by the Minister, for I felt confident that he would accept the motion. Here you have a proposition which may lead, to a very great extent, to a solution of this great problem. The position of the South African cattle farmer is a very serious one, and our cattle farmers compose about 70 per cent. of the farming population. Tick fever has been the cause to a large extent of our cattle surplus, as that led to dipping, and as a result of which the mortality among calves has been reduced from some 33 per cent. to 5 per cent. If the rainy seasons continue for another five or six years what is going to be our position in regard to cattle? It is going to be most hopeless. The farmers difficulties are due to the fact that they have no ready market for scrub cattle. We have 10,000,000 head of cattle in the Union, and we consume only 300,000 a year, leaving an annual surplus, on the nett estimated increase, of 600,000. The Government would be perfectly justified in appointing a special commission to go round the country obtaining the views of the cattle farmer on this point. The Watkins-Pitchford process offers, I think, a solution of our difficulties. The cattle surplus is due to the scrub cattle, for a farmer with a good beef ox can get a good price for it. I once more appeal to the Minister to accept the motion.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>I am rather inclined to agree with some of the points of view which have been expressed from this side of the House on this question. I am not so keen upon having a commission specially appointed to enquire into this matter, but at the same time I do think that it is one that requires a considerable amount of investigation. The Minister has read out the terms of reference in regard to the meat question to the Board of Trade and Industries, but I do submit, as other hon. members on this side of the House have done, that those terms of reference do not go sufficiently far. It became abundantly clear to me while the debate was proceeding that investigation is required in certain and in many directions which are not provided for by the terms of reference as laid down by the Minister. For instance, you want the whole of the meat industry of this country thoroughly investigated. You not only want to investigate it from the point of view of the effect that monopolies like the Imperial Cold Storage have upon the meat industry directly, but you want to know even in regard to the effect of those monopolies how that operates so far as the consumers are concerned.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Couldn&#x2019;t a commission do that?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>I don&#x2019;t want a commission; I will come to that in a minute. The question of the organization of the industry and its ramifications requires a most meticulous examination, not only by experts, but by representatives of the ordinary common sense people in the country. We have had evidence in the debate showing how much investigation is required. Several members on this side of the House placed the surplus of cattle in the Union at different totals. One said 10 millions.</p>
+
+</speech>
+
+<speech by="#marwick">
+
+<from>Mr. <person refersTo="hansard_za">MARWICK</person>:</from>
+
+<p>The total was 10 millions, not the surplus.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from><span class="col_1053-1054" refersTo="page_0607"/>&#x2020;Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>The surplus was left in a problematical state.</p>
+
+</speech>
+
+<speech by="#nicholls">
+
+<from>Mr. <person refersTo="hansard_za">NICHOLLS</person>:</from>
+
+<p>No, three-quarters of a million.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Then we had the hon. member for Fort Beaufort (Sir Thomas Smartt) supplementing the 10 millions by adding three or four millions, which we might expect to get from South-West Africa, Swaziland, Bechuanaland and other portions of South Africa outside the Union. It seems to me, as we are guessing at what the actual surplus is and nobody can speak authoritatively as to the number of cattle or the surplus cattle in the country, that we want to know what the surplus is, and how that surplus is arrived at. That is one reason why I am not at all anxious to have a special commission set up, because I am afraid that the expert will be represented too strongly upon a commission of that sort, which would be obsessed with the idea that what they had to find out, first of all, was how to get rid of that surplus by export, without any regard to the consuming capabilities of our own country. I speak of &#x201C;consuming capabilities&#x201D; not in its financial sense at all. That is why I agree with the Minister that, if anybody enquires into this question, it should be the members of the Board of Trade and Industries, who are constantly associated with different aspects of our industries throughout the country. You cannot place your cattle industry, with its supposed or actual surplus, in a watertight compartment; you must take it in its relation to the other industries of the country. You must always take into consideration the consuming capacity of the people. Supposing we have this commission of experts, who are, naturally, giving more attention to the necessity of exporting this surplus, getting rid of it by throwing it out of the country somewhere, what are you going to do? You are going to accomplish what nearly all the countries in the world which have become exporting countries have experienced, and that is that the production in that country of any particular commodity on which they have built up an export trade becomes concentrated upon that export trade, and the home market is neglected. I want the Minister to ask the Board of Trade and Industries to enquire most closely into this Question of the capability of the people in the Union to absorb more meat, provided they have the capacity to pay for it. We are talking glibly about a surplus of cattle. I make bold to assert that if you give the people in the Union of South Africa an opportunity of purchasing sufficient meat for their requirements, you will not have a surplus of a single head of cattle. If hon. members would only direct their attention to the need of enabling the people of South Africa to enjoy a higher standard of life, you would never hear it said that this cannot be done. I say it can be done. Hon. members on the Opposition benches have been very largely responsible as a Party during the last fifteen years and especially during the last three years for so depreciating the spending power of the community in South Africa that the people are unable to buy sufficient meat for their own individual and collective requirements. Their spending power has been reduced, their standard of living has been reduced and they cannot afford to buy enough meat. My hon. friend says £6 a head. You can imagine the working man&#x2019;s wife in Johannesburg going out to buy a whole ox for £6 and yanking off the fore and hind quarters we have been talking about. There are literally thousands of people in the Union who are not getting enough to eat. Not because meat is dear, meat may be cheap&#x2014;but it does not matter how cheap it is; if it is only a penny a pound and you have not got the penny you cannot buy the pound. I urge upon the Minister that part of his investigations should be to see how much meat is required by the people of the Union and arrange a standard of pay generally, so that the people will be able to obtain the meat they require. Consideration should be given to the necessity of the organization for the meat consumption of this country as well as for the meat supply. I am strongly against the Commission suggested in this motion, because I feel that all it will be concerned with will be how to get rid of the surplus. At present neither the producer nor the consumer get fair treatment after the meat has gone through the hands of the middle man who, in this instance, I suppose is the Imperial Cold Storage Company.</p>
+
+</speech>
+
+<speech by="#thomas_watt">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">THOMAS WATT</person>:</from>
+
+<p>I do not profess to have a special knowledge of the cattle industry, but it is well known that this process invented by Col. Watkins Pitchford has been before the public for some time and the farming community are keenly interested in the outcome of this motion. I was glad the Minister said he intended to investigate the matter further. But I would like him to reconsider his decision to send the whole thing back to the Board of Trade and Industries. A large number of farmers will feel disappointment if the matter goes back to the body which has already reported unfavourably upon it. I am afraid the farmers will feel that the Board has already made up its mind on the subject. Again, the Board is already overworked, and I am afraid it will not have the time necessary to devote to this subject. I am told the Board is working ten or twelve hours a day and they cannot look into this matter as thoroughly as it should be looked into and attend properly to their other duties as well. I would ask the Minister to reconsider the matter.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>*Mr. <person refersTo="hansard_za">J. B. WESSELS</person>:</from>
+
+<p>The hon. member for Umvoti (Mr. Deane) has been so rude as to accuse us of not taking an interest in this matter because there are so few members in the House, and he said further that the members who were in the House were asleep. I do not rise to show him that I was not asleep. I just want to show him what he makes of a matter when he is asleep. He has accused us of sleeping, <span class="col_1055-1056" refersTo="page_0608"/>but what did he tell the House? What he said we have been hearing for the last eight years, namely, that there is a surplus, that we cannot compete with the Argentine, that our meat is not of the same quality, and that the cost of transport there is cheaper. Beyond this he told us nothing. If there are members who can be characterized as humorous then they are the Natal members. There is the hon. member for Dundee (Sir Thomas Watt) who asked the hon. Minister as often as three times to listen to him, and what did he have to say? That the farmers of Natal would be very glad to see the matter referred to a special commission, and that they will be very sorry about the adverse report which has already been made by the Board of Trade and Industries. But do they not want then that a good report should be made? It has been clear to me this afternoon that there is the idea amongst hon. members that now that this unfavourable report has been made everybody is strongly in favour of appointing a commission which will report favourably. Will they not find exactly the same as the other commission which attaches very little importance to the scheme? But what will happen if such a commission reports favourably? Will the Government then have to go and recommend the farmers to support the company? We have seen in the past how such things have turned out. What will the Government do in that case? And will hon. members then acknowledge that they have been the cause of it? No, they will then know nothing about the matter. We know how the hon. member for Fort Beaufort at that time recommended the &#x201C;meat exchange.&#x201D; And in consequence of what he said hundreds of farmers joined it. The result was a hopeless insolvency. And what did the hon. member for Fort Beaufort (Sir Thomas Smartt) do then? He knew nothing about the matter. And here we should be doing something which would thrust the Natal farmers into misery, and what would hon. members say then? Then a profit of 600 per cent. is mentioned. One almost drops to the ground when you hear of this. But if those high profits can be made why then does not a private company tackle the matter? I do not for a moment believe that Col. Pitchford is here working for the benefit of his health. I do not think that he is only out to help the farmers, and my reason is the Board&#x2019;s report. I am surprised that hon. members there are so greatly in favour of a commission. The state of our cattle farming is better than what it has been for the last five or six years. But now they are strongly in favour of enquiring. Why did they not do anything when the conditions were 50 per cent. worse than what they are to-day. The hon. Minister of Agriculture has told us that the matter has been investigated, and what is more he has said that they are still engaged in the enquiry to-day, and he has further said that if there is anything that hon. members can suggest, that he will gladly take such a matter into consideration. Can hon. members not exercise a little patience and wait until the new report is out? Why do they now attach so much importance to these matters while in the past they so hopelessly mismanaged it? It raises a little suspicion. The Board of Trade and Industries is considering the matter, and the Board, even although the same persons are no longer members, was appointed by the late Minister. But now it is said the Board cannot investigate the matter. It has no time because it has many other matters to investigate. Well this Government is not like the previous Government. It is not a Government of weaklings and if the Board has no time for this matter then the Government will see that steps are taken for the matter to be properly enquired into. Yes, what do they want? That a commission should be appointed, not the Board of Trade and Industry, because there are no farmers on that Board. This we have never heard before. I am, however, a farmer myself. When an animal is killed I can eat the meat but of the preparation of that meat and of the tanning and the preparation of the skin I know nothing. No hon. members want me because I helped with the production of that animal, to be the only person who can say how the meat must be treated. The farmer is not the proper person to do this. We must have experts for that. Here they have given to me bottles and tins, presumably they contain the articles which Col. Watkins produces. It looks to me, however, like balsam compiva and such medicine. If I must examine them then I am simply hopeless although I am a farmer and know about cattle. I know that I shall not be in a position to make the favourable report that members want. If there is anything in the process, those who have the options would have exercised them. Members must not use the Government to help private undertakings. They have the F.C.M.I. in Natal which had an option and why don&#x2019;t they use that? The hon. members who accused us of sleeping doubtless know about it. I am quite satisfied that the Government should not accept the motion seeing that a report has been issued and that the matter is already under consideration by the Board of Trade and Industries. If members think that new light can be thrown on the matter the Minister will willingly meet them. I move&#x2014;</p>
+
+</speech>
+
+<block name="quote">That the debate be adjourned.</block>
+
+<speech by="#conroy">
+
+<from>Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#marwick">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">MARWICK</person>:</from>
+
+<p>We have had a very full discussion of this question and are within measurable distance of coming to a vote, unless the policy is to continue the discussion on lines which have already been traversed. This is a very important question for the country and I do appeal to hon. members to allow us to come to a vote on it; for it is a question which the farmers throughout the country are watching very closely. The motion sets out to deal with the subject in a manner it has not been dealt with before, and I ask hon. members to allow us to come to a vote on it.</p>
+
+</speech>
+
+<speech by="#conroy">
+
+<from><span class="col_1057-1058" refersTo="page_0609"/>*Mr. <person refersTo="hansard_za">CONROY</person>:</from>
+
+<p>I hope that the hon. member for Illovo (Mr. Marwick) will accept the motion for the postponement of the debate. The motion concerns a most important matter. Nearly all the members have an interest in it, and I do not wish to vote without giving my reasons therefor. With a view to the desire of many members to speak, I hope the hon. member will accept the motion.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">HEATLIE</person>:</from>
+
+<p>The hon. member who has just sat down has been long enough in Parliament to know that if the debate is adjourned we will never have an opportunity of discussing the motion again. I am surprised that the hon. member for Frankfort (Mr. J. B. Wessels) should move the adjournment after he had made a bitter attack and had not given anybody else an opportunity to reply.</p>
+
+</speech>
+
+<speech by="#roux">
+
+<from>Mr. <person refersTo="hansard_za">ROUX</person>:</from>
+
+<p>That gives you a chance to answer.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>*Mr. <person refersTo="hansard_za">VAN NIEKERK</person>:</from>
+
+<p>I will only say that I have followed with the greatest interest the debate as carried on by members on the other side. I should also like an opportunity of speaking to the motion. New points of view have been mentioned, there is the report of the Board of Trade and Industries. If members read that they will come to another conclusion to what they have drawn to-day. Every member should study the report. It is now time to adjourn. We should like to hear the opinion of other members. That of the hon. member for Worcester (Mr. Heatlie) who is not interested in the matter. The matter is important, and will certainly come on again.</p>
+
+</speech>
+
+<p>Motion to adjourn the debate agreed to; to be resumed on 27th March.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1925-03-17T18:50:00">6.5 p.m.</recordedTime></p>
+
+</adjournment></debateSection></debateSection>
+

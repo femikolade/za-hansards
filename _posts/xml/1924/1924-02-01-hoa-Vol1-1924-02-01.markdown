@@ -1,0 +1,745 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY 1 FEBRUARY 1924'
+layout: debate
+year: 1924
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 1st FEBRUARY, 1924.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1924-02-01T14:25:00">2.25 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#joint_committee_on_parliamentary_catering">
+
+<heading>JOINT COMMITTEE ON PARLIAMENTARY CATERING.<br/>GEZAMENLIKE KOMITEE VOOR PARLEMENTAIRE RESTAURATIEDIENST.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>brought up the First Report of the Committee on Standing Rules and Orders, as follows:</p>
+
+<block name="quote">The Committee on Standing Rules and Orders, having considered the Message from the Honourable the Senate dated the 30th January, 1924, referred to it, begs to recommend that Dr. de Jager, Mr. de Waal and Mr. Strachan be appointed a Committee to join with the Committee already appointed by the Honourable the Senate for the purpose of the superintendence and management of the Parliamentary catering.</block>
+
+<block name="quote">Report considered and adopted.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#apprenticeship_act_1922_amendment_bill">
+
+<heading>APPRENTICESHIP ACT, 1922, AMENDMENT BILL.<br/>VAKLEERLINGEN WET, 1922.<br/>WIJZIGINGS WETSONTWERP.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>I beg to move, as an unopposed motion&#x2014;</p>
+
+<block name="quote">That Order of the Day No III for 7th February,&#x2014;House to go into Committee on <i>Apprenticeship Act, 1922, Amendment Bill</i>&#x2014;be discharged and set down for Thursday, 21st February.</block>
+
+</speech>
+
+<speech by="#pearce">
+
+<from>Mr. <person refersTo="hansard_za">PEARCE</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_etc">
+
+<heading>PENSIONS, ETC.<br/>PENSIOENEN, ENZ.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="quote">That the petitions from T. H. Almond. W. A. H. Baynham, Maria L. Beukes, T. Booker, J. J. and P. C. Brits, Elizabeth Burger, N. Campbell and 59 others, G. W. Clark, Mrs. J. M. Coetsee, H. E. Coskey, Cox, J. Cunningham, Susannah Davies, T. McB. Dawson, A. M. Delarey, Alice Delport, Anna J. Delport, Mrs. D. E. Delport, v. d. H. de Villiers, S. D. de Wet, Clasina S. H. de Wit, May E. E. Evans, J. Ferguson, A. H. Ferreira, C. T. Gardner, R. Gardner, J. P. Gericke, S. J. Gouws, A. J. Gray, J. J. Grobler, Harriet L. Haigh, Alice G. Halkett, J. H. Hartzenberg, S. A. Hawthorne, J. J. Heyneke, H. Hirschman, M. Hollander, Florence I. Holliday, A. H. Hulme, Christiana John, J. Johnston, Alide E. J. Joubert, G. O. Joy, C. J. Klue, J. Kotzé, Helena W. Kruger, J. S. Kruger, (two petitions), Lavina K. H. Kruger, Christina K. Lane, H. C. Lee, N. H. Lindenberg, P. S. Lubbe, D. W. Manning, J. G. Marais, Johanna M. Mare, Susanna C. Maritz, Maryna A. McKay, J. McKenzie, L. Merrifield, Alida J. Meyer, Selina E. Miller, J. J. Morris, G. C. Mulder, Susanna M. Nell, H. P. Oosthuizen, J. Pandie, P. A. Pienaar, R. C. Pienaar, J. C. M. Piton, A. H. Potgieter, Frances Praed, C. B. Pringle, P. L. Pritchard, F. W. Rennie, C. H. Ricketts, Suzanna J. Schoeman, F. C. Sheridan, M. P. L. Slabber, C. J. Slabbert, H. Smit, H. Sobey, K. J. Steyn, P. H. Steyn, E. Sulivan, Anna J. Swart, Catherine A. Tetlow, F. A. Theron, J. C. J. Truter, J. G. Uys, W. A. van Aardt, G. A. van den Eertwegh, G. van der Merwe, M. G. van der Merwe, Sarah M. van Zijl, Susanna E. Viljoen, Hester E. Vosloo, J. Wells, Wilhelmina N. Wheeler, R. R. Wood, G. Woollends, and P. J. F. Young, presented to this House during the last session of Parliament, 1923, be laid upon the Table of the House.</block>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">VENTER</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The petitions are on the Table.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That the petitions be referred to the Select Committee on Pensions.</block>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">VENTER</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#wine_and_spirits_control_bill">
+
+<heading>WINE AND SPIRITS CONTROL BILL.<br/>KONTRÔLE OVER WIJN EN SPIRITUALIËN WETSONTWERP.</heading>
+
+<p>Leave was granted to the Prime Minister to introduce the <i>Wine and Spirits Control Bill.</i></p>
+
+<p>Bill brought up and read a first time.</p>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That the Bill be read a second time on Monday.</block>
+
+</speech>
+
+<speech by="#collins">
+
+<from>Col.-Cdt. <person refersTo="hansard_za">COLLINS</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>De hr. <person refersTo="hansard_za">DE WAAL</person>:</from>
+
+<p>Dit is &#x2019;n skandelike handelswyse om so&#x2019;n wet hier voor te bring, wat nooit gepubliseer was nie. Ons weet sodoende glad nie wat daarin staat nie; en welke kans het ons dan om die strekking daarvan <span class="col_46" refersTo="page_0126"/>te beoordeel? Ek stel voor die woord &#x201C;Maandag&#x201D; weg te laat en te vervang deur &#x201C;Vrydag, 8 Februarie.&#x201D;</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#hertzog">
+
+<from>Gen. <person refersTo="hansard_za">HERTZOG</person>:</from>
+
+<p>Ek wens die Eerste Minister to vra om, indien moontlik, die edele lid vir Piquetberg (de hr. De Waal), tegemoet te kom. Ek stel dit hoog op prys dat die Eerste Minister so&#x2019;n wet ingebring het en dit doet so vroeg in die sessie. Maar op die weekeinde is die meeste van ons nie hier nie.</p>
+
+</speech>
+
+<speech by="#eerste_minister">
+
+<from>De <person refersTo="hansard_za">EERSTE MINISTER</person>:</from>
+
+<p>Ek sou graag die beswaar tegemoet kom, maar ek reken dat die week-einde juis &#x2019;n geskikte geleentheid bied om die wet na te gaan. Ek sal voorstel dat die twede lesing, e.k. Woensdag geneem sal word.</p>
+
+<p>Amendment and original motion, with leave, withdrawn.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That the Bill be read a second time on Wednesday, 6th February.</block>
+
+</speech>
+
+<speech by="#collins">
+
+<from>Col.-Cdt. <person refersTo="hansard_za">COLLINS</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#medical_dental_and_pharmacy_bill">
+
+<heading>MEDICAL, DENTAL AND PHARMACY BILL.<br/>GENEESKUNDIGEN, TANDMEESTERS EN APOTEKERS WETSONTWERP.</heading>
+
+<speech by="#minister_of_public_health">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC HEALTH</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That, in terms of Standing Order No. 177, the <i>Medical, Dental and Pharmacy Bill, 1923,</i> which lapsed by reason of the prorogation of the last session of Parliament, be proceeded with during the present session, at the stage which it had reached during last session.</block>
+
+</speech>
+
+<speech by="#dreyer">
+
+<from>Lt.-Col. <person refersTo="hansard_za">DREYER</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>†Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>I do not want to do anything to prevent this Bill being restored to the Order, Paper, but I want to ask the Minister to consider having this Bill referred back to a Select Committee for the further consideration of Clause 34, because this House without evidence will not be in a position to deal adequately with the provisions of Clause 34. Members will take the Select Committee report of last year, and they will see that under this Bill a good deal of evidence was taken, but no evidence was taken on behalf of the drugless healers, and as Dr. Mitchell, who gave evidence, is of the opinion that the Bill, as now drafted by the Select Committee, will preclude any person from practicing healing in any form whatever, unless they are registered as qualified medical practitioners, I venture to say that this House is going to embark on a very dangerous course if it accepts that policy without further evidence, and without having an opportunity of going further into the matter. To-day we had two petitions presented and referred to the Government for consideration. There are nearly three thousand petitioners protesting against these provisions of Clause 34. The place to consider these petitions is the Select Committee. The only evidence taken on this particular clause was taken on behalf of the medical profession, and it was given by Dr. Mitchell, as secretary for public health; so the clause as it stands is a very dangerous one indeed. I am not in a position to move at this stage as I thought I would have been able to do, as the rules of the House prevent me from doing so. I do hope that the Minister will refer it back to a Select Committee for the purpose of taking these peoples&#x2019; evidence, so that hon. members will have in print before them the evidence of both sides, and not only Dr. Mitchell&#x2019;s evidence, and they will then be able to decide whether the clause should be amended or left as it is. I feel very strongly in this matter. I do not propose to go into detail, although I could, but I just want to make an early announcement and appeal to the Minister before the Bill comes to the Committee. I shall move later on that the Bill be referred to a Select Committee instead of to the Committee of the whole House, and I. notify the Minister that I intend taking that step. I hope I shall get the Minister&#x2019;s sanction to that, in view of the fact that there is no opportunity of a single word being spoken on behalf of these people who have petitioned the House. This Clause 34 has been re-drafted, and the Minister will remember that the report of the Select Committee was not in the hands of members until after Parliament rose.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Does the hon. member intend to oppose this motion?</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>No, I do not want to oppose it, but I just want to give the Minister notice.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member could move his contingent motion at a later stage, and his remarks will then be quite germane.</p>
+
+</speech>
+
+<speech by="#boydell">
+
+<from>Mr. <person refersTo="hansard_za">BOYDELL</person>:</from>
+
+<p>I want to draw the Minister&#x2019;s attention to this fact, that when this House rose last session neither this Bill nor the report, the printed report, were in the possession of members, and consequently members and those affected have not had an opportunity of stating their case on this clause. Petitions on behalf of about 3,000 signatories have been presented and referred to the Government. Those petitions should be referred to the Select Committee and evidence taken. I hope the Minister will agree to this. It will save a lot of time and a lot of dissatisfaction. If the Minister will give it his consideration between now and the Committee stage, he will be doing the right thing in the interests of thousands of people who have been cured by drugless healing.</p>
+
+</speech>
+
+<speech by="#minister_of_public_health">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC HEALTH</person>:</from>
+
+<p>I cannot give any undertaking of that kind, but this is not the time to debate it. When the time comes I shall state why I think that this is a matter that can be discussed by the Committee of the whole House.</p>
+
+<p>Motion put and agreed to; House to go into Committee on 8th February.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours">
+
+<heading><span class="col_47" refersTo="page_0127"/>RAILWAYS AND HARBOURS.<br/>SPOORWEGEN EN HAVENS.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That a Select Committee on Railways and Harbours be appointed; the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#nel">
+
+<from>Mr. <person refersTo="hansard_za">NEL</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transvaal_precious_and_base_metals_act_further_amendment_bill">
+
+<heading>TRANSVAAL PRECIOUS AND BASE METALS ACT FURTHER AMENDMENT BILL.<br/>TRANSVAALSE EDELE EN ONEDELE METALEN WET VERDERE WIJZIGINGS WETSONTWERP.</heading>
+
+<p>First Order read: Second reading: <i>Transvaal Precious and Base Metals Act Further Amendment Bill.</i></p>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>†The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time. He said: This is really a formal matter to move the second reading. The rule of the House is that a Bill can be taken up at the stage in which it was left in two successive sessions. This is the third session since the Bill was originally introduced, and therefore we have to start <i>de novo.</i> The second reading was taken in 1922. During the whole of the session of 1923 a Select Committee sat upstairs, and went very fully into this complicated and technical matter, and I can say that the members of the Committee gave very close attention indeed to the different matters that came before them. During the recess, one point that was open and a few other matters have been further gone into, but substantially the Bill is the same as it came from the Select Committee, and my idea is now to move formally the second reading so as to get on to the Committee stage, and then we can get on with the different matters. I do not now propose to discuss any of the details of the Bill, because I think it is really a matter for the Committee of the whole House.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>†Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I must say that the reasons preferred by the Minister have somewhat startled this side of the House. The Minister has put before us that this is an ordinary matter of procedure, but he has now come to the House, owing to the rules, to ask us to agree that this Bill should be taken up where it was previously left. The House will remember that in the session before last, late in the session, a Select Committee was appointed to go into the matter, but at the end of the session that Committee reported that they had not finished, and they would recommend that evidence be taken early in the next session, with a view to facilitating an early passage. This was done, and, a Select Committee took all the evidence and brought up the Bill in ample time for the measure to go through. For some unaccountable reason, last year the Government did not see its way to pass the Bill. Now the Minister comes here and tells us that this is the same Bill, but that owing to the procedure of the House its passage was delayed before. Now I will attempt to show that this Bill is an entirely new one. The Minister has not only availed himself of the rules of the House to get what is really a new Bill, but he has practically resorted to that procedure to screen himself behind the proceedings of the Select Committee. As far as this Bill is concerned, the Select Committee reported in detail last year, and I think the Minister will Concede that the whole Committee was animated with the spirit of give and take, and as the Prime Minister stated, with that spirit of calm deliberation which permeated the Committee room&#x2014;that when it came back it would be a Bill which the House could pass through last session, but for some unaccountable reason the Bill was not proceeded with, and now the Minister comes and places it before us. It is necessary that the House should understand that this is not a small and trival matter. It is a matter amounting to globular millions, large interests are concerned, and it is a matter in regard to which the House took very extensive evidence with regard to the vested interests and with regard to what were then alleged to be confiscatory rights. The Select Committee took a great deal of evidence on this Bill. Now I may state, in order to give the House an idea, that the evidence given by one witness, Mr. Kelsey, the representative of the Chamber of Mines, was to this effect&#x2014;he said, speaking on behalf of one company, the Central Rand Proprietory Mines, that the surface areas had been bought up by his company, through the company who controlled the minerals, to an extent of £380,000 in 1905, and that these surface rights had appreciated in value to an amount of £2,500,000, and that one company alone, the Robinson, held surface ground in its environment to an amount of something like £1,500,000. It is necessary for the House to understand what were the contentious matters which the Committee had to deal with. According to the old Transvaal law it was laid down that when the minerals were worked out, the reversionary rights were such that the land reverted back to the owner of the land. That was very simply stated. With that object in view, a large number of the mining companies thought it advisable to acquire the surface rights of the greatest portion of the Rand, and we have this anomalous position that the companies themselves, the mining companies are to-day practically the surface owners as well, as far as the Rand is concerned. The Committee had all this before them and we tried to discriminate as far as the Rand was concerned, and we went so far as to classify the whole of the Transvaal into classes A and B areas, the A areas being the Rand as far as the congested population and enhancement of value is concerned. The second difficulty which the Committee had to contend with was this, that a large industrial population, a <span class="col_48" refersTo="page_0128"/>commercial population had grown up in the environment of Johannesburg on this ground which is now reverting back to the original owner&#x2014;this ground which as far as the minerals were concerned, is being worked out. In Germiston Township, in Ferreira Township, this land had actually been built upon&#x2014;these townships had been built on portions of this ground which was held under claim licence, which on deproclamation would revert back to the original owner. The Committee felt that we had to deal with the local authority which had sprung up on the Rand, and that we had to deal with them equitably in the future. Now these are some of the points which actuated the Committee in arriving at the Bill which should be brought before the House, and which the Government did not see fit to pass through last year. But what do we find? We find that the Select Committee&#x2019;s Bill is an entirely different proposition to what the Minister put forward to-day. To give the House an idea. The Select Committee put forward something like 33 different clauses in the Bill. Clause 2 dealt with the definition of precious and base metals, and this has been deleted entirely. Here we have a very different question, and the clause to deal with it was inserted in a different manner. It was a very intricate question. The Committee thought fit to put a definite definition on it, but the clause has been left out of the Bill, and the Minister in reply to the hon. member for Smithfield (Gen. Hertzog), said he was prepared to rush it through the House on Wednesday. There seemed to be an undue haste on the part of the Minister, and I regret that he introduced it in the few words he did. Take for instance Clause 3. There is not one word about what was decided by the Select Committee in the new Bill. In Clause 6, dealing with old Clause 8, this Clause 6 deals with the conditions which may be imposed on the deproclamation of land. Who should become the owners of this land? We have the curious anomaly that although the Select Committee voted this clause down, we have it in the Bill. The Minister then says that it is the same Bill which the Committee dealt with last session. We have Clause 14 which deals with the provision for proclaimed land, held under mining title for certain purposes, and which has been entirely omitted from the Minister&#x2019;s Bill. Old Clause 27 and the Committee&#x2019;s recommendations, which was a very intricate and difficult proposition regarding the question of stop-orders, in so far as the mining employees were concerned, has also been turned down. On this point the Committee definitely came to a decision, but we find that its recommendation has been turned down and the clause entirely omitted from the Bill. The whole of the question dealing with mining trading by the companies was thoroughly dealt with in this measure by the Committee. That is dealing with the omissions from the Bill, but curious to say just as frequent as the omissions a great deal of entirely new matter, which the Committee never had before it or had an opportunity of considering, has been introduced into the measure. Take Clause 3, subsection (2) which says:</p>
+
+<block name="quote">&#x201C;In so far as any land has been exempted by the Governor-General, the use of the service thereof shall be at the disposal of the owner for such period as may be prescribed by proclamation.&#x201D;</block>
+
+<p>It was never recommended by the Committee, and you are dealing with valuable ground and as to who should benefit by this question which involves globular millions. In Clause 7 of the new measure dealing with dwellings on deproclaimed or exempted land to be expropriated, the Minister takes unto himself the last word on such decisions and sets himself above any court whatsoever. We never had an opportunity of discussing this in Committee, and yet the Minister tells us that the Committee has discussed the measure. In Clause 9, the Committee recommended that the company had to satisfy the Mining Commissioner that it had not paid to its shareholders any debentures, etc., whereas the new measure bases it on profits. If the Minister had consulted the Committee, the Committee would have had an opportunity of pointing out to the Minister the value of the ground was being based on a wrong principle of finance by basing it on the profits of the company instead of the bonuses paid out. On Clause 27 the Committee went to considerable length to try and obviate the difficult position arising on the Witwatersrand with regard to the closing down of mines. We brought forward a lucid measure in so far as the Committee was concerned. The Minister has thought fit to alter this measure to such an extent that the whole effect is rendered nugatory, and the Bill as it stands to-day is not going to have any effect on land which is being held up and exploited in going through this measure there are so many inconsistencies and so much new matter introduced into the Bill, that one would ask the Minister why has he not taken the Select Committee into his confidence and given them an opportunity of discussing this measure with him, instead of saying that the measure was a product of the Select Committee, and that it was purely a <i>pro forma</i> matter to come before the House and pass it? On that consideration alone I will move&#x2014;</p>
+
+<block name="quote">That the Order for the second reading be discharged, and that the subject-matter of the Bill be referred to a Select Committee for consideration and report.</block>
+
+</speech>
+
+<speech by="#van_hees">
+
+<from>†De hr. <person refersTo="hansard_za">VAN HEES</person>:</from>
+
+<p>Ek sekondeer die amendement van die edele lid vir Vredefort (de hr. Munnik), en sal net so kort wees as moontlik. Ek dink op so&#x2019;n belangrike wet as hierdie een hou die Minister van Mynwese &#x2019;n rekord van kort toespraak. Ek het verwag die Minister sal meer inligtinge gegee het oor soon belangrike kwessie. Ek dink dis nie genoeg vir enige Minister om te verklaar, dat daar twee jaar gelede &#x2019;n bespreking oor die Wetsontwerp het plaas gehad, en dat hy nou die tweede lesing voorstel. Ek meen, die Minister moet rekenskap daarmee hou, dat daar lede <span class="col_49" refersTo="page_0129"/>in hierdie Huis is wat twee jaar gelede nie lid was nie, en dat daar seifs lede is wat verlede jaar nog nie lid was van die Huis nie. En dit nie alleen nie, maar omstandighede het in die laatste jare aan die Rand so verander dat seifs dáár lede die kans moet kry hierdie nuwe Wetsontwerp te bestudeer, en van die groot veranderinge in die Wetsontwerp kennis te neem. Daar behoor rekening gehou te word met die veranderde toestande. Ek wil dus voorstel die verdaging van die Huis.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Die edele lid kan die verdaging nie voorstel nie, daar hy alreeds die amendement van die edele lid vir Vredefort (de hr. Munnik), gesekondeer het.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>†Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>I think the amendment suggested by the hon. member for Vredefort (Mr. Munnik), somewhat helps me out of the position in which I find myself to-day. No more controversial measure than this one has been introduced into this House. From first to last, it is a conflict between public and private interests. I regret too that the Minister has put this Bill down for the second reading to-day, because I think it would have been much better for everybody to have been able to have picked it up at the stage it reached last year. From start to finish, very extensive and important amendments have been made. In my opinion a Bill of this character, in which the public municipalities and large companies have so much to gain or so much to lose, should never have been proceeded with in this House until the public had the opportunity of scrutinising the measure. As the hon. member for Vredefort (Mr. Munnik) has said, many millions are involved. The proper construction of towns is involved in this Bill, and many important principles are also involved, and will be decided as far as the law is concerned, by the terms of this Bill. As far as I can see&#x2014;the right hon. the Minister will correct me&#x2014;in the first place he has thrown aside the whole of the work the Select Committee has done in regard to the definition of precious metals. I saw a few articles which appeared in the <i>Star</i> a short time ago, as to the attitude of the Landowners Association in the Transvaal in regard to the amendment which the Minister has made in this Bill. The attention of hon. members will have been drawn to the little pamphlet they found in their boxes lately, and they will have seen from them of the Landowners Association in the Transvaal their views as to what they regard as precious metals. They would confine precious metals to gold and silver, leaving iridium and metals of far greater value than either gold and silver, the absolute property of the surface owner. We would like to know what influences have been at work to induce the Minister to leave out the provision of the Committee on this point. Another matter which has been greatly changed since the Bill was first introduced, is the disposal of land upon deproclamation. Land which was valueless in 1908, now represents millions of pounds, but if we are going to allow this matter to drift, then a greater problem is in store for those who follow. We on these benches are prepared to face these problems. Formerly, we stated that we would help the Minister to get a reasonable Bill, with reasonable compromises, through. Although I did not agree with the Bill when it came from the Select Committee, I think that the Select Committee&#x2019;s Bill should have been brought into the House, and we should have argued it out here. With regard to the position of land on the Witwatersrand when it is ready for deproclamation. I hold a different view from that of the hon. member for Vredefort (Mr. Munnik). I understand that the law of 1908 did not make any provision for the disposal of land held under mining title when it was ready for de-proclamation. That is shown by section <i>sixty-seven</i> of the principal law. If Parliament does not make some provision for the disposal of that land, then obviously it will revert to the holder of the freehold title. But this Act contemplates that the Government will not do that, but ask Parliament to make proper provisions for its disposal. Every municipality along the Reef is vitally interested in this matter, possibly excepting Krugersdorp. No other municipality on the Witwatersrand has any town land whatever. Every available inch of land has been bought up, and the municipalities have no heritage. Even if they want a park, they must buy it. What is more natural than that these municipalities should have locked towards these lands, held under mining title, as their natural heritage when they were ready for deproclamation? That time has come in many instances, especially in the case of the Central Mines, many of which are within the Municipality of Johannesburg. We have to decide now as to the disposal of that land. A good many claims have been put forward, but it will be remembered, in the first Bill which the Minister introduced he laid down this principle, that there should be provision made first for roads, water, reticulation and other public purposes. There should be further provision in regard to the endowment of municipalities and for certain other purposes. After this the balance of the land should be handed back to the freehold owner at his disposal. The increased values at which they now stand have been entirely created, not by the mining companies themselves, but by reason of the population adjacent, and by the expenditure of public monies on roads, trams and public services [An Hon. Member: &#x201C;Mining companies&#x201D;.] Mining companies have not increased the value of that land, on the contrary they have decreased it by digging out the gold. It is unfortunate, perhaps, but the circumstances warrant it; we have had in the centre of Johannesburg a big mining area with enormous dumps growing up; that was a necessity to the mining industry, but what is going to happen in the future if this land is given to fertiliser factories and all sorts of noxious factories of that sort? The Act never anticipated that these lands would be handed back to the original owners of the land. The local authorities have made out a good case, that <span class="col_50" refersTo="page_0130"/>at least a portion of that land should be vested in the municipalities within which the land is situated, for their disposal. The Minister&#x2019;s original Bill did provide for that. It laid down the principle that the reasonable needs of the municipality should come first out of this land, and that the balance should be handed over to the freehold owners. The Minister ran away from his own clause in Committee. He deleted that clause, and tried to put in another, by which municipalities were to be allowed to buy what land they wanted on these areas at the market valuation. What use would that be to the municipality? The price they would have to pay for this land would be too high for the municipalities to secure land for open spaces and many other requirements. Now he proposes to make an unconditional surrender to the freeholders, and hand over the land to them without any provision for municipalities. I do not think that the public have had a fair deal in this matter. The Minister has evaded the point, but the problem is still unsolved. That is only one of the problems. There are many more. The hon. member for Vredefort (Mr. Munnik) has pointed out that he has noticed the absence of the provision made in the law last year, with regard to the stop-order system. I listened to that with very keen interest. The stop-order system to me spells the first leg of the old truck-system, and I do not wonder that merchants and others have been grumbling at the prevalence of this stop-order system. But on the other hand, if you do away with it you would cause other hardships, because some people under the present system have built up their present businesses upon the stop-order system. But it should not prove impossible to find a compromise in that respect. Surely some solution could have been found without running away from the difficulty. That is my chief complaint, that we are running away from the problems of the time, and making no attempt to solve them by legislation in this House. There is another matter, that is the desirability of meeting what is a very great grievance among the people on the Witwatersrand. Leasehold tenure of land prevailed right away up till about 1909, and it became such a burning grievance among the people there, that they applied to Parliament for remedy under the Gold Law, and provision was made to partly remedy this grievance in the Transvaal Townships Act. The Parliament of the Transvaal saw that the grievance was right, and agreed with the people that it would lead to slum dwellings and undesirable features on the Witwatersrand if the people were not given freehold in regard to these stands which they had acquired. They laid the principle down in the 1909 Act, that as far as the Government stands were concerned, and the value of those stands ran into many millions of pounds, that the people in possession of those stands would be allowed to convert them from leasehold to freehold at a reasonable rate, laid down in the Schedule to the Act. The same with regard to semi-Government townships in which the Government had an interest. They also laid the principle that no future stands in any township should be sold, except as freehold. The then Minister of Mines in his assurance to the House&#x2014;and let me say that the hon. member for Krugersdorp (Sir Abe Bailey), gave a similar assurance to the House&#x2014;that there was no necessity in the law they were then passing, to lay down the provision for private townships which we were laying down for Government townships. They assured us that private townships companies would be only too ready to fall into line with the provisions of this Bill, and allow the people who owned those stands to acquire freehold at about the same rate for conversion. In my township in has been impossible from that day to this for those people to convert those stands. In other cases where the company has made provision, the rates charged for conversion have been very much higher than the rates laid down in the Act with regard to Government and semi-Government stands. Now the people on the Witwatersrand have been waiting very patiently for the Union Parliament to grant them relief, and give them the same facilities for the conversion of leasehold stands to freehold, that they gave in the case of Government and semi-Government stands in 1918. The Corner House and the mining companies, the people owning the stands of high value in Johannesburg, were all allowed to convert those stands at a very low rate compared with the value they stood at. But the man who lived in the suburbs, who looked to this Parliament for relief was not. I think this problem affecting 30,000 or 40,000 people is one which the Minister should have applied himself to in this measure.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>Not only working men but others.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>I said others as well, do not be so thin-skinned. The hon. member always thinks I am speaking of working men. He was sent here to represent all classes in his constituency, and so was I, and do not forget it. I should have thought that we could have reached a compromise on this matter, and could have got the Committee to agree to it. I want to test this matter in the House, and I do ask you to consider the matter when it is brought before us. There are many other matters we could mention here to-day, but I would like the assurance from the Minister that he will let the Bill go back to the Committee from which it came, before the House is asked to discuss a highly complicated matter with hundreds of cross-references from Act to Act, which I doubt very much if many of the members are conversant with. It is only fair to the House and if is only fair to the members. We are willing to help the Minister to get a workable Bill, and ask him to accept the amendment moved by the hon. member for Vredefort (Mr. Munnik).</p>
+
+</speech>
+
+<speech by="#harry_graumann">
+
+<from>†Sir <person refersTo="hansard_za">HARRY GRAUMANN</person>:</from>
+
+<p>I do not desire at this stage to weary the House with a long speech, because I think that the matters <span class="col_51" refersTo="page_0131"/>that have been dealt with will have to be considered seriously by the House in Committee. Of course, if we could see the prospect of the Select Committee again discussing some vital points and emerging with some sort of unanimous decision, then I think there would be a great deal in the contention that this matter should be referred back to them. I have not the report of that Committee before me, but I think it discloses this position that almost every question that was decided was determined by a majority usually small. The decisions were often 5 to 4, or 3 to 2, and so it went on merrily all the time. One does sometimes hope that when matters are sent (to Select Committees that reasonableness would encourage a fair compromise. I think our experience in this Committee was that it was very difficult to arrive at common cause. Many of us tried to do that. For instance, take some of the questions raised by the hon. member for Jeppes (Mr. Sampson). Surely those matters might easily and reasonably have been a fit subject for compromise, but they were not. I think it is futile, and would be futile, to send this Bill back to a Select Committee with any hope of success, and if I thought otherwise I would support the motion now before the House. I believe the better plan will be for the different clauses to be discussed in detail in this House, because whatever decision might be come to by the Select Committee if matters were referred back to them they would still have to be discussed again clause by clause in Committee of this House, and you will only be wasting valuable time. The important questions which have been raised I quite agree should be the subject of very serious consideration, in my opinion, in Committee of this House. But there are other questions to which reference has not been made; and I think the consideration and decision upon those questions should not be unduly delayed, because they are also important. One of these is the relief from the payment of claim licences which concerns me in so far as it relates to a large number of people who have spent considerable amounts of money on claims, who have spent it <i>bona fide,</i> who have worked hard, and who have got to the end of their tether all because it is difficult for them to raise money and they now run the risk of losing their claims. All they want is a little consideration and indulgence from the Government which would be extended to them under the Bill which is now before the House. I think it is fair that those people should be assisted. There is another question. We do not want to get through the summer season and find ourselves at a favourable season of the year when prospectors can go about the country and not have the requisite encouragement to do so in an attempt to make valuable discoveries. We want as soon as possible to get the Bill through the House; so that prospectors may have the necessary inducement to explore and exploit, in the hope that valuable reef discoveries may be made outside the Witwatersrand where we know a large amount of gold exists. On this question of the reward to discoverers I will be frank. I tried very hard in Committee to get the measure of reward which is now incorporated in this Bill, and which is an improvement on the old position, still further largely improved, and when we are in Committee of the House I shall have the temerity to ask the Minister if we cannot extend a larger measure of generosity to prospectors, because I do think, and I say this seriously and advisedly, that this question of encouraging the exploitation of this country at no cost to the Government, to the ratepayers, or to the citizens, should be dealt with most sympathetically. After all if we reward the prospector we only give him a small return of what he gives us, a small piece really of the big lot he gives to us, and I do think that having regard to all those considerations there should be no delay in getting into Committee of this House so that this question may be discussed and a decision may be taken upon it. I would like to emphasise this point that if I thought that by going back to the Select Committee we could do any good, I would say by all means go back, because many matters which would be referred back to them would be of great importance. I am perfectly satisfied however that nothing satisfactory will emerge, and therefore I say do not unduly and unnecessarily delay getting into Committee of this House so as to come to grips and reach finality.</p>
+
+</speech>
+
+<speech by="#mcalister">
+
+<from>†Mr. <person refersTo="hansard_za">McALISTER</person>:</from>
+
+<p>The hon. member said there were many matters connected with the Bill that were matters for compromise, but there are others affecting the health and welfare of the inhabitants of the Witwatersrand which I hope will be dealt with in the Bill and they are not matters for compromise. Some of the points raised by the hon. member for Jeppes (Mr. Sampson) are matters that affect not only the ordinary welfare but the actual health and welfare of the citizens of that area and it would be a matter for regret to the residents of the townships on the Rand if this Bill goes through in its present form. I had hoped that during the recess the Minister would have dealt in the Bill with several matters which were raised in the Select Committee. He might have made a complete job of it and settled many of the problems which have been worrying us for the past 30 years. There is the question of the trading rights. This is a burning question on the Witwatersrand and I am sorry that the Minister of Mines and Industries has not seen fit to deal with it in such a manner as would leave no misunderstanding as to what the rights and privileges of the mining companies are. There is no doubt that the principle underlying the original Gold Law and the succeeding amending measures has been that mining companies should stick to the recovery of gold and leave trading to the commercial community. Now if those very same people who sold the township areas and made considerable profits owing to their special reservation for trading purposes are permitted <span class="col_52" refersTo="page_0132"/>to embark in commercial pursuits they are taking away the objects for which the townships were established. This from the point of view of some might be considered a minor item, but from the standpoint of the residents there it is a very important matter. There is also the vexed question of the conversion of leasehold township stands into freehold. It may be contended that any interference with the free-holders&#x2019; rights is an interference with private contract and would not have been considered by any constitutional Government. It is not unusual for Governments to interfere with private contracts when it is in the interests of the community as a whole. I would point out that Act 24 of 1908 was specially passed in the Transvaal as it was recognised that the sale of township stands in leasehold was not in the best interest of the country. Provision was made in Schedule 2 of that Act for the conversion of Government leasehold townships into freehold and it was hoped that the owners of private townships would have followed suit. Sixteen years have elapsed since then and yet the people concerned are still no nearer getting freehold than they were at that time. If the Transvaal Government thought it necessary to pass such an Act so that the leaseholders should have an opportunity of having their leases converted into freehold, it is only right that this Parliament should aim at the same object, it being reasonable that it should be done on the same terms as those extended by the Government to their own standholders. This is not a question of spoliation or daylight robbery, so far as the standholders are concerned&#x2014;the boot is on the other foot and townships have been sold in the past without any provision whatever for public purposes. Take the example of Germiston, including Germiston West. The ground was originally sold to the Simmer &amp; Jack for £10,000. In 1910, nearly £100,000 worth of stands had been sold. Up to the present, allowing for the ground recently sold to the Municipality for markets, etc., something like £240,000 has been repaid for the original expenditure of £10,000. In addition an annual interest of 30 per cent, on the original capital is still returned by means of stand licences; the original capital has been returned 24 times with an additional 30 per cent. per annum reserved. This instance alone, would, I think, justify the House in interfering and making the position there easier. I will give you the opinion, not of myself, but of the Leasehold Township Commission which sat in 1912. Among the members of that Commission was an hon. member who sits here, Sir H. Graumann, and the other members were: Messrs. M. R. Greenlees, Howard Pim, R. G. V de Witt Hamer. The opinion of these gentlemen cannot be considered as being in any way Bolshivistic or at all antagonistic to the rights of property. One of the items in the report reads as follows:</p>
+
+<block name="quote">&#x201C;Stand tenure is the survival of a system conceived to meet the uncertain conditions of alluvial mining such as prevailed at Pilgrims Rest.&#x201D;</block>
+
+<p>Another extract:</p>
+
+<block name="quote">&#x201C;On the Witwatersrand, and at a very early stage, private persons obtained control of all the available land not held under Government licence. They drew their leases and settled their policy with the definite object in view of securing for themselves the maximum future advantage.&#x201D;</block>
+
+<p>Again:</p>
+
+<block name="quote">&#x201C;Speaking generally, we are of opinion that the prices paid for leaseholds have practically amounted to the full freehold value of the ground leased.&#x201D;</block>
+
+<p>And again, and this is to my mind, the crux of the whole position:</p>
+
+<block name="quote">&#x201C;There can be no doubt that any community has the right to press for modification of such a state of things, and clearly there are limits beyond which private contracts cannot be allowed to interfere with public development.&#x201D;</block>
+
+<p>This is the main point and is a sound principle advanced by gentlemen who I think can claim a measure of influence and which will carry considerable weight. What we ask for now is that you will recognise this commission&#x2019;s report on the point that there are limits beyond which private contracts cannot be allowed to interfere with public development. That is the position on the Witwatersrand: private contract have interfered with public development which affects the welfare and interest of the inhabitants of these areas, and I would urge on the hon. the Minister of Mines and Industries and on this House that we should remedy this state of affairs. There is also the question of land for public purposes and I have no hesitation in saying that every township whether on the Witwatersrand or elsewhere should be endowed with a sufficiency of land for public purposes, and if this was not done at the time of laying out, the omission should now be remedied. In the report of the Financial Relations Commission of 1906, composed of gentlemen who also were not averse to protecting the rights of property, they say with regard to Johannesburg, and what they say applies to other townships along the Reef, probably the exceptional township being that so ably represented by the hon. member for Krugersdorp (Sir Abe Bailey), that:</p>
+
+<block name="quote">&#x201C;Long after Johannesburg had become in the outer world famous among cities, she remains, to those who have watched her growth, a mining camp. A stranger haying visited the typical towns of this country might be excused for asking how it came about in a land of illimitable space, blessed with the best traditions in respect of this very matter, that a great modern city should be allowed to spring up, laid out for the most part in plots no more than 50ft. by 100ft., with not one acre of land reserved for its public endowments?&#x201D;</block>
+
+<p>I ask hon. members who come from pleasant veld towns to take notice of that, the place is left without one acre of land for commonage or public use. The commission went on to state:</p>
+
+<block name="quote">&#x201C;Johannesburg has been developed under a system adapted for the regulation of a mining <span class="col_53" refersTo="page_0133"/>camp, but not on lines calculated to counteract the evils which have proved incurable where towns have been allowed to grow up without forethought or design.&#x201D;</block>
+
+<p>This is the opinion of the commission in 1906 and I have now just given you the information on the same subject as gleaned by the Leasehold Townships Commission. I will give you more from that report:</p>
+
+<block name="quote">&#x201C;In many cases the miserable area prescribed in the Gold Law, which cramped a permanent dwelling within the limits of an area only suitable for a hut, a tent, or at best a shop, was reproduced in the private townships; not a foot of land was reserved for public endowment, nor&#x2014;with rare exceptions&#x2014;was any money spent by the township owners even on the roads necessary for access to the plots they sold.&#x201D;</block>
+
+<p>When the community became organized, promoted legislation and spent public money for public purposes, it was found that no inconsiderable portion of the public funds was spent on purposes which should have been provided by the township owners.</p>
+
+<block name="quote">&#x201C;Benefits derived from this legislation and expenditure really passed to the township owners,&#x201D;</block>
+
+<p>who are not living under the sordid conditions that they themselves have created. I would just refer to the opening of the Garden City in Cape Town during the sitting of this House last session. The Chairman in introducing the Prime Minister said:</p>
+
+<block name="quote">&#x201C;In the hurry to get houses, there is a likelihood of houses being built in such a way as to affect the health and comfort of future generations.&#x201D;</block>
+
+<p>That has happened on the Witwatersrand. The Prime Minister, in reply said:</p>
+
+<block name="quote">&#x201C;I want to see the people of South Africa living under healthier and better conditions. We have made many mistakes in South Africa. There has been too much speculation in towns and cities. It is a national disgrace to South Africa.&#x201D;</block>
+
+<p>Now that is what we should like to see; healthier and better conditions. What was proposed at the Garden City is what we would like to see in the villages and towns and cities along the Witwatersrand. The next time that the Minister of Mines and Industries visits us, he can see how far we are removed from that ideal of the Prime Minister. We want to improve the conditions somewhat so that the health and welfare of the people cannot be affected. I have a copy of a pamphlet circulated to members by a certain Mr. Schmolke, in which he tells the landowners that their unassailable rights, inalienable rights, indisputable rights and dearly acquired heritage are being taken away by this Bill. I ask the hon. the Minister and the hon. members of this House if the people of the Witwatersrand are not also entitled to the indisputable right of every citizen of a civilized community; to live and have his being under healthy conditions and in as pleasant surroundings as circumstances will permit. Many to-day, owing to the errors of the past, are living in wretched conditions. I find that in the Witwatersrand we have a population of 544,000, as against 214,000 for the whole of the Peninsula; we have a municipal valuation of £55,000,000 as against £26,000,000 in the Cape; we have municipal assets, including power and water, of £20,000,000 as against £8,500,000, so that we are a very considerable and important section of the population of the country. When we take individual cases, it may be said that we should get into direct negotiations with the freeholders, and arrive at some reasonable terms for the purchase of the land. However, if we take a particular case, that of the Municipality of Germiston; it had for years to pay rental of £900 per annum, for a travesty of a location, while the freeholders reserved to themselves the trading rights which they let in one case tor £70, and in another £60 per month. Just recently we have had to pay £5,000 for a trival portion of land to extend our Market Square, and in every case where land was required for depositing sites, extensions to cemeteries, etc., we have had the utmost difficulty. I draw the hon. the Minister&#x2019;s attention to this special case, and I hope when he comes to deal with the Bill, and when amendments are suggested in Committee of the House he will accept them with the object of removing these disabilities and of easing the position. There is also the question of the conditions under which land is disposed of for the settlement of small holders, and in my own area we have one company whose activities result in the unsettling rather than in the settling of people on the land, and conditions in regard to land tenure are growing up which have been responsible in older countries for many of their troubles. The question of conditions of land tenure may even be said to have had much to do with the bringing about of the French Revolution. It is no new thing for Governments to interfere as between landlord and farmer. Take the Irish Land Act of 1881, which provided for the fixing of rents by a commission, the result being that over 360,000 holdings had their rents reduced for the first statutory period of 15 years by 20 per cent., and 120,000 were reduced in the second statutory period by an additional 19 per cent. The Ashbourne Act of 1885 made provision for the sale of the land to the tenant, whilst the Wyndham Act of 1903 still further facilitated the transfer of ownership. I hope that the Minister will bear this instance in mind. Another question of importance to many is with regard to title to the land on which mining companies which have ceased operations had years ago erected houses for their employees. I refer to cases such as that of the Simmer Deep and Knights Deep. These houses have now been bought up, in the main, working men who now find that they cannot buy the land. I hope the hon. the Minister will take steps to see that these people will get their title to the land, and furthermore that they are brought into line with the adjoining municipalities so that their taxation should be on the same system as in the township areas, where taxation is on site values only. Then there is just one other matter <span class="col_54" refersTo="page_0134"/>which is rather important for those on the East Rand, that is the question of the area of mining ground between Boksburg and Benoni, a matter of some seven miles of ground. I have the map here before me, and I find that all the ground there is still held by individuals and companies, and yet no mining is going on there, I understand, because of a difference of opinion between the mining engineers as to where the reef is. It seems strange that 21 miles of reef should be working and should have produced in the neighbourhood of 780 millions of gold, and yet the seven miles between Boksburg and Benoni are not producing anything, and that all because of a difference of opinion between mining engineers as to where the reef is. I suggest to the Minister that those seven miles on the same basis should have by this time produced 260 millions of gold.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Yes, if the gold is there.</p>
+
+</speech>
+
+<speech by="#mcalister">
+
+<from>Mr. <person refersTo="hansard_za">McALISTER</person>:</from>
+
+<p>I say that they should have. I cannot for the life of me see why the reef should go on to a certain point, and why those seven miles should have been bitten out and the reef then go on merrily again. It seems worth while for the Minister to spend a few thousand pounds and have bore-holes sunk and have the whole matter tested, so that one can say, once and for all, whether the reef is fifteen hundred feet to the north or to the south. I know it may seem somewhat humorous for a man who is not a mining engineer to suggest this, but it is out of the mouths of babes and sucklings that one often gets the truth.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>†Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>It is rather unfortunate that on a subject of this kind one has the choice of discussing the matter with a good deal of diffidence in view of the fact that the Bill is put before one with twenty-four hours&#x2019; notice or otherwise of moving the adjournment of the Bill. I propose to make a few remarks before moving the adjournment of the debate as I know the extraordinary docility of the support of the Government when the adjournment is moved. I do think that the Minister in introducing the second reading has taken a most extraordinary course. For two years this Bill has been before a Select Committee, for a portion of one year and during the whole of the next session it has engaged the very arduous labour of a Select Committee. They have discussed the matter and taken evidence on a number of very knotty points. In some cases the Select Committee was overruled and in others it was not. The Bill was reported to this House last session as the Bill of the Select Committee, but at the beginning of the next session the Minister comes forward, compelled by the rules of the House, with a new Bill and he quietly tells the House in introducing a second reading, that it is merely a formal matter, and that it is the Bill of the Select Committee. It is nothing of the sort. It is altered in some most important particulars, and when the Minister last Monday asked for leave to introduce the Bill, and when after it was read a first time it was put down for Friday, we never dreamt of objecting, thinking that it was the same Bill which the Select Committee had gone through. But only yesterday morning we had the Bill in our possession, and the Minister to-day asked us to read this Bill a second time&#x2014;a most essentially important matter, so important that it engaged the attention of the Select Commiteee the whole of last session. He tells us that the differences in the Bill are little things. He says that during the recess he has gone back on the decision of the Select Committee, but it makes no difference at all. What he says means that the Select Committee did not amount to anything at all. He says, &#x201C;The fact is that I have altered it, and the House need not take any notice of the fact that it differs from the Select Committee.&#x201D; I cannot pretend that I have had time to read this Bill. We did not see it until yesterday morning, and my friend the hon. member for Jeppes (Mr. Sampson) who was on that Select Committee was able to inform us of these very important changes, and we expected to discuss them, and we hoped to be able to debate the matter carefully after a full explanation from the Minister. We do not know what further pitfalls await us in the Bill. I want to go through it, line by line, especially after the Minister has told us that this is a mere formality. What about these important alterations which have been made?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>All in good time when we come to the Committee.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>All in good time&#x2014;that is all very well&#x2014;but there are principles in this Bill which have been actually rejected by the Select Committee and yet the Minister simply tells us &#x201C;All in good time.&#x201D; Yes, that is the way of the Government; another little bit of bluff to see if it will go through. I am going to take advantage of my opportunities to discuss this matter before moving the adjournment, because if I do not, I shall probably not have an opportunity of a further participation in this debate. Take this definition of precious metals. I believe that the Select Committee&#x2019;s definition is practically the same as that in the Act of 1908. I want to ask a question of the Minister. Doesn&#x2019;t he think that that clause wants some strengthening up, even as it stands to-day and as it did in 1908? In order to avoid any possibility of existing precious metals being excluded, the definition should include, not only gold and silver, but metals of equal or greater value so long as they exist in the ores in which they are found&#x2014;in which they constitute the major proportions. I mention this for this reason. It is rumoured, in fact more than rumoured, that in regard to those platinum discoveries in the Transvaal, the land-owning companies had approached the Minister with the request that this particular metal should not be treated on the lines of the precious metals. It was also rumoured that the Minister, and rightly so, refused to consider any such request, but I <span class="col_55" refersTo="page_0135"/>think it would be much more satisfactory if the Minister in the definition of precious metal should have an amendment, laying it down that precious metals were gold and silver, and all metals of equal value which existed in the prescribed proportion to base metals. I would like to ask what is the reason that there has been so much delay in proclaiming the farms along that line of country. I know nothing about that part of the country, but I read a most interesting report in the <i>Journal of Industries</i> by Maj. Trevor and Mr. Wagner, and I could not help thinking, at a time like this, when everything should be done to stimulate activity, to help employment along, I should like to know why it is that there has been so much delay in proclaiming this part.</p>
+
+</speech>
+
+<speech by="#abe_bailey">
+
+<from>Sir <person refersTo="hansard_za">ABE BAILEY</person>:</from>
+
+<p>This is the first discovery of platinum there.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I know that. If you proclaim the thing you will increase activity in that line. When the Rand was found it was the first occurrence of gold in a pebble bed in a pebble conglomorate then known. The Minister is charged with the duty of seeing that any discovery of that sort is made available to the public at as early a date as possible, and there seems to me to be a delay, for which there may be good reason, but I fail to see it.</p>
+
+</speech>
+
+<speech by="#abe_bailey">
+
+<from>Sir <person refersTo="hansard_za">ABE BAILEY</person>:</from>
+
+<p>It is very patchy indeed.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Then there is a further point. On this question of the disposal of deproclaimed land the hon. member for Germiston (Mr. McAlister) has quoted two commissions. I want to quote a third&#x2014;the report of the Local Government Commission, a commission to which no exception can be taken. The chairman was no less a person than Adv. Stallard, a distinguished member of the party opposite, not a Bolshevik, nothing wild about him. That Commission reported about this matter; it endorsed the claim of the municipalities in this respect. It says:</p>
+
+<block name="quote">&#x201C;We wish to endorse the claim that the proclaimed lands along the Reef are the natural inheritance of the Reef municipalities as town lands, because in our opinion the vast expenditure and liabilities which have been incurred by the communities in those areas have facilitated and rendered easy the profitable exploitation of the mineral contents of those lands. Were it not for the expenditure, for example, on roads, streets, sewerage, transport, etc., the mining companies themselves would have been compelled to build their own towns and provide the necessary services and amenities of life. But they have escaped that expenditure by the expenditure and enterprise of the Reef communities. We are, therefore, substantially in agreement with the Transvaal Municipal Association in the presentation of its case.&#x201D;</block>
+
+<p>Now, the Bill as it came back from the Select Committee certainly did not meet our view entirely. It didn&#x2019;t meet the view of the Transvaal Municipal Association, but it was a sort of compromise, it did improve matters. But now the Minister has scrapped all that, and he says &#x201C;This is the Bill that came from the Committee.&#x201D; This is a most important matter. Of course we know that the Minister keeps certain powerful interests absolutely at arm&#x2019;s length in these matters. We know the Minister sits there exercising an entirely independent judgment. Well, I want to tell the Minister in regard to the question of pressure being brought to bear upon him to alter the Bill in the manner he has done&#x2014;I want to refer him to correspondence in the press&#x2014;I want to say that some quarters representing mining companies have laid tremendous stress on the fact that the report of the commission is almost the last word on the subject. Then I come to the stop-order clause. Who suggested that? Where do all these suggestions come from? Where do all the alterations come from? I hope the Minister will be frank with the House, and will tell us what have been the powerful reasons, who has urged these reasons to flout a Select Committee and to say that their decisions are all rubbish, and why the Minister has said &#x201C;I will introduce this Bill as their Bill because they are merely Select Committee alterations, and it does not matter at all if I throw them out&#x201D;. When I come to this stop-order question that is a matter of the very greatest importance. I have had strong representations made to me on behalf of a small co-operative society of wage-earners in regard to this matter, and I pointed out to them that hard cases make bad laws, and that certainly I was not prepared merely on account of their particular circumstances which did not suit them&#x2014;I was not prepared to go back on that principle. It is an evil thing, my hon. friend (Mr. Sampson) says, that once you go in for that stop-order system you open the door to the open truck system, you are facing a power which no law should permit any citizen of this country to exercise over any other citizen. I know it is alleged that at the present time there is no need for this. A few years ago we thought there was a very great need for it, and in a few years&#x2019; time there may be a great need for it again. In this connection I would remind the House, as I told the gentlemen representing this co-operative society and they heartily agreed, that their troubles would be tremendously minimised by weekly payments whereby the long credit system would be put a stop to. Three or four years before the war we continuously fought for an enactment insisting upon the weekly payment of wages. The Minister of that day said that at the undertaking of the mining companies they would voluntarily introduce the weekly payment of wages, and in view of that why bother putting it on the statute book? On several mines to-day that promise has been gone back upon, and they have reverted to the monthly payment of wages. Just as we desired this truck system stopped by legal enactment so do we desire for the payment of weekly wages enacted by statute and not leaving it to the companies&#x2019; goodwill to do it. The Bill, containing as it does alterations of first-class importance, and involving important principles, has been introduced by the Minister with a few remarks, and he says it is the same Bill which came from the Select Committee, and that it was a mere formality for a second reading to be taken. It is not <span class="col_56" refersTo="page_0136"/>fair to the House, it is not fair to hon. members, and I think I am justified in asking the Minister to accept my motion for the adjournment of the debate. I move&#x2014;</p>
+
+<block name="quote">That the debate be adjourned.</block>
+
+</speech>
+
+<speech by="#mullineux">
+
+<from>Rev. Mr. <person refersTo="hansard_za">MULLINEUX</person></from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#waterston">
+
+<from>Mr. <person refersTo="hansard_za">WATERSTON</person>:</from>
+
+<p>I hope the Minister will agree to the adjournment of the debate and give every member an opportunity of studying the measure.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>If time will be saved by accepting this, I have no objection to it. The original motion which was made and the discussion only emphasizes what I tried to convey when I moved the second reading. All these matters should be threshed out by a Committee of the whole House. Every clause of this Bill is a principle, and every clause stands really by itself. The main alterations which have been made, and the leaving out of certain things, I am prepared to give the reasons for when we come to them in Committee. Why should I state them at the second reading and repeat them in Committee of the whole House? That is the reason why I did not go into the whole of the matter. I am prepared to give a full explanation when we come to these clauses in Committee. These matters which have been discussed here this afternoon were discussed in the Select Committee last year..</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Why go back upon them?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>There has been no going back. Take the stop-order&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The Minister cannot discuss the merits now.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>No, sir. I am prepared to accept the adjournment now, and when we meet again we can discuss it again when members are in a more reasonable frame of mind.</p>
+
+<p>Motion for the adjournment of the debate put and agreed to.</p>
+
+<p>Debate adjourned; to be resumed on 6th February.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#trading_on_mining_ground_regulation_act_transvaal_amendment_bill">
+
+<heading>TRADING ON MINING GROUND REGULATION ACT (TRANSVAAL) AMENDMENT BILL.<br/>HANDELEN OP MIJNGRONDEN REGELINGSWET (TRANSVAAL) WIJZIGINGS WETSONTWERP.</heading>
+
+<p>Second Order read: Second reading, <i>Trading on Mining Ground Regulation Act (Transvaal) Amendment Bill.</i></p>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>†The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>moved&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time. He said: Ever since the establishment of the gold fields on the Witwatersrand, control has been exercised over the trading outside the townships, the present law regulating such trading outside the townships. The Trading on Mining Ground Regulation Act, 1910, of the Transvaal is the main vehicle of this control, and it is for the object of keeping control over illicit gold buying and illicit liquor selling. A good deal of criticism is sometimes directed towards this system which has grown up on the Witwatersrand. But whatever criticism may be levelled against it at this stage the whole of the community has been built up on that system for the last 35 years, and it seems to me too late to alter the system altogether. The disposal of these trading sites outside the townships has undergone changes from time to time. At one time it was given by the management of the mines and then by a board. This was before 1910, and the giving out of these trading sites led to all sorts of suspicions, and it was very unsatisfactory. In the Act of 1910 a system of public auction was instituted, and that is the law at the present moment. The sale is for an annual rental for a limited period. The Government has fixed ten years, and now in several cases the ten years period has expired, or is about to expire. The question now is what is going to happen to these sites? Have they to be sold again, or what? The system itself has really broken down. You find people who are prepared to bid for these sites up to any figure in order to prevent competition. I know of a case where the annual rental of a store was driven up to £3,000. The existing law does not operate, and after having the matter fully enquired into, the proposal as embodied in this Bill is put forward for the consideration of the House. It is, that instead of selling the whole of the business for an annual rental, the goodwill should be sold for a cash payment and then a rental based on the annual turnover. Then the man who wants to acquire such a site must be a substantial man, and must find the ready cash to buy the good-will. I think that that is under the circumstances a much better system. It means that if a site becomes available after ten years, the improvements and buildings on that site will be valued, and if the present holder succeeds in buying it again then well and good, but if someone else buys it then he has to pay for the improvements, and the newcomer pays the annual rental on the turnover. I trust that the House will see that we are able to introduce this system on the Rand, as the existing law is not satisfactory, and does not work well. I move the second reading.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>The Minister, in introducing this Bill, seems to have lost sight of the fact that in the original Act the provision is laid down that this mine trading shall be carried out as far as possible in the townships and in areas adjacent to the gold mines; but such trading shall be taken as much as possible into such townships which have been set aside for that purpose. This small amendment which the Minister proposes is not in conflict with that principle, but I think the Minister should first of all introduce the principle which we have asserted. What he is trying to achieve here is further expansion of trading sites and <span class="col_57" refersTo="page_0137"/>stands in mining areas. We would have preferred that in no case except where absolutely necessary, should this competitive dealing be allowed, except in those townships specially set aside for that purpose. The mines are setting up a different class of trading.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>The mines are precluded from procuring a site.</p>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person>:</from>
+
+<p>I am not opposing the amendments to the Bill, but I would have liked to have seen the Minister endorse the principle we have asserted in the previous Act before he went on with the amendment. Because it looks as if the Minister is expanding the system of competitive trading instead of allowing the trading to go to the townships which are set aside for this particular purpose.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>†Mr. <person refersTo="hansard_za">R. H. HENDERSON</person>:</from>
+
+<p>I should like to ask the Minister how does Clause 5 of the Bill affect the large rents?</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>Only for the period for which the properties have been sold.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">R. H. HENDERSON</person>:</from>
+
+<p>This clause may not be as germane to the Bill as to the other Bill which has been discussed this afternoon. These large rents which the Government has got by public auction have been the principle reason for trouble with mine trading. One can realize that now when the Minister tells us that these contracts are continued for a certain period of time and that these high rents will be paid, and it is said that the natives have to pay a large price for their goods because of these high rents. I would appeal to the Minister to bring these leases into keeping with their present value, for the Minister will then simplify, in a great measure, the doing away of mine trading and the doing of justice to the natives. The price of the present rents which are being paid to the Government I have never heard the like of. They are monstrous. Men pay £100 and £150 a month for a little hovel or a little stand, and I feel that something should be done in this direction without any delay. The whole trouble of this mine trading has been brought about by the Government taking these extortionate rents and robbing the natives by high prices.</p>
+
+</speech>
+
+<speech by="#hertzog">
+
+<from>Gen. <person refersTo="hansard_za">HERTZOG</person>:</from>
+
+<p>Ek wens iets onder die aandag te bring van die Minister met die doel cm voorsiening daaromtrent te maak in die wet. Ek vind dit veral by koolmyne en andere areas in die Transvaal en met name by Witbank. Dit is reeds &#x2019;n aansienlike myngebied, met vier, vyf myne in die onmiddellike omgewing; die myne emploieer enige duisende naturelle en ettelike honderde witmense. Die grote moeilikheid is nou dat al die regte om te handel kom toe aan die indiwiduele maatskappy of grondeienaar en die gee dit weer aan een of ander persoon as &#x2019;n monopolie. Nou sit al die boere daarom en oral in Transvaal en kan nie hulle produkte daar verkoop nie. Die toestand in Transvaal is geheel anders as in die Kolonie of Vrystaat. Jy het daar die kleine boere, hulle het grond maar dit is nie groot nie en hulle is arm. Dan is daar nog die bywoners, hulle het eiers, hoenders, varke en dies meer en hulle leef eintlik daarvan. Maar as hulle die goed wil verkoop by die myne mag dit nie wees aan &#x2019;n mynemploye, of in die nabyheid van dese kom nie. Selfs as gesien word dat &#x2019;n publieke pad te naby die kafferwonings verby gaan, dan word die pad verleg, alles in belang van die monopolie, en die ontginning is vir die boer van geen nut nie. Een man sit daar en is die enigste koper en as mens siet welke pryse gegee word aan die man vir sy produkte en groente, sal mens verbaas staan. Hulle moet daar kom en feitlik die goed weg gee. Dit is van belang dat sodanige wetgewing ingevoer word, want daar is kans om die goed te verkoop maar dit werd gestop agtien maande of twee jaar gelede. Die mense kan sodoende niks van hulle produkte daar van die hand sit nie. Dit is maklik om te sê, bring dit na Johannesburg, maar dit gaat nie so maklik nie en die gevolg is, as dit so aanhou, dat die myne naderhand uitge werk is en dit help die boere bevolking niks. Is dit nie moontlik in die wet neer te leg dat &#x2019;n persoon sy plaasprodukte op enige myngrond kan verkoop nie en dat hy die reg van toegang sal hê, hetsy om aan naturelle of aan andere employees te verkoop? Dit is nie meer dan reg. Ek verstaan dat die reg tot handeldryf, welke die eienaar besit of weggegee het op sekere myne &#x2019;n gevestigde saak is. Ek wil dit nie weg neem nie; maar om te beskik oor jou eie produkte is geen handel nie. Dit is in die belang van die boer nie alleen nie, maar ook van die stede. Laat voorsiening gemaak word, so nie in hierdie wet niet, dan elders.</p>
+
+</speech>
+
+<speech by="#bezuidenhout">
+
+<from>De hr. <person refersTo="hansard_za">BEZUIDENHOUT</person>:</from>
+
+<p>Ek sou graag dat die Minister duidelik maak wat die posiesie sal wees met betrekking tot die handelsregte, welke daar tans bestaan; of die voorstel beteken dat daar inbreuk gemaak word op bestaande regte.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>†De hr. <person refersTo="hansard_za">DE VILLIERS</person>:</from>
+
+<p>Ek wil ook iets sê, nie as handelsman nie, maar as boer en verteenwoordiger van boerebelange. Die feit is dat dit swaar gaan, almal is naby, maar geniet nie die voorregte van die myne nie; hulle kan nie met hulle eiers en groente daar gaan handel nie, ja kan seifs nie by die kompounds verkoop nie, net so min as van huis tot huis die goed uitveil. Die maatskappye laat toe, dat van hulle mense melkerye oprig en dan moet die werklui ten duurste betaal vir die melk. En met groente maak hulle net so. Dit maak die boere mismoedig en dit help niks as die myne daar is, en ons kan nie aan hulle verkoop nie. Die winkeliers daar laat tot vyftig en sestig persent wins betaal op goed. Lede sal sê: Last julle goed van Johannesburg af kom, maar die mense het dikwels nie gerede geld nie en moet daarom maar &#x2019;n maandelikse rekening open. Dit is wenselik om &#x2019;n verandering te maak in die sin, dat die boer sy plaasprodukte vry kan verkoop aan die kompounds en die mense wat by die myne werk.</p>
+
+</speech>
+
+<speech by="#minister_van_mijnwezen_en_nijverheid">
+
+<from>De <person refersTo="hansard_za">MINISTER VAN MIJNWEZEN EN NIJVERHEID</person>:</from>
+
+<p>Ek sou net graag &#x2019;n paar van die punte wat aangehaal is, wil beantwoord. <span class="col_58" refersTo="page_0138"/>Die geagte lid vir Vredefort (de hr. Munnik) wil hê, dat bepalinge word ingestel, dat myneienare self nie vir handel kan ingaan nie. Dit staan alles in die originele wet&#x2014;in die Handel op Myngrond-Wet van 1910. Al die bepalinge het net betrekking tot die wyse van verkoop en afset in die standplase vir handel en die beperkinge kan gevind word in die originele wet. Die edele lid vir Heidelberg (de hr. Bezuidenhout) het gevra of bestaande regte op enige manier in die wet word aangetas. Nee, hoegenaamd nie, die eienaarsregte omtrent handel en wat dies meer, sy bly heeltemaal onveran derd wat die wet betref. Die gedagte uitgedruk deur die edele lid vir Smithfield (Gen. Hertzog) en ook van die edele lid vir Witbank (de hr. de Villiers) skyn te gaan in die rigting, die grondeienaar se regte van handel &#x2019;n bietjie in te kort. Die wet vir steenkool myne is nie die selfde nie as die vir goud-myne want steenkool val onder die wet van onedele metale en daar kan die eienaar doen wat hy wil. Die beperkinge onder die goud wet vir die Witwatersrand geld nie voor Witbank nie. Die reg om plek te neem op die myne en handel te drywe berus by die eienaar van die myn. Die manier waarop die regte van omliggende boere kan beskerm word is die stigting van dorpe. Sodra jy dorpe stig ontstaan daar markplase en besigheidsplekke wat onafhankelik is van die myneienare.</p>
+
+</speech>
+
+<speech by="#havenga">
+
+<from>De hr. <person refersTo="hansard_za">HAVENGA</person>:</from>
+
+<p>En wat as daar nie grond aanwesig is nie?</p>
+
+</speech>
+
+<speech by="#minister_van_mijnwezen_en_nijverheid">
+
+<from>De <person refersTo="hansard_za">MINISTER VAN MIJNWEZEN EN NIJVERHEID</person>:</from>
+
+<p>As daar noodsakelikheid gevoel word deur die publiek vir die stigting van dorpe dan kan hulle onder die dorps-wet hul wend aan die kommissie, wat die noodsakelikheid vir die stigting van &#x2019;n dorp sal ondersoek en as hulle vind dat die noodsakelikheid bestaan dan kan hulle pressie uitoefen en oorgaan tot die opmeting, enz., van &#x2019;n geskikte plek.</p>
+
+</speech>
+
+<speech by="#havenga">
+
+<from>De hr. <person refersTo="hansard_za">HAVENGA</person>:</from>
+
+<p>Hoe, as daar grond beskikbaar is, maar die eienaars nie gewillig is nie om dit aftestaan?</p>
+
+</speech>
+
+<speech by="#minister_van_mijnwezen_en_nijverheid">
+
+<from>De <person refersTo="hansard_za">MINISTER VAN MIJNWEZEN EN NIJVERHEID</person>:</from>
+
+<p>Daar is maniere om hulle gewillig te maak. Jammer, dat die dorpswet net bepaal is tot die Transvaal. Jammer, dat so &#x2019;n wet nie al dertig jaar gelede in al die dele van Suid Afrika is ingevoer nie. Ek hoop die Minister van Binnenlandse Sake sal kans sien om binne nie te lange tyd so &#x2019;n wet vir die hele Unie voor die Huis te bring. Al is daar die mogelikheid vir boere om goed te verkoop, dan gebeur dit dat smouse kom en sê: &#x201C;Dis onse goed&#x201D;. Die enige manier is om die mense so veel moontlik te gemoet te kom by die stigting van dorpe. Ek is bly dat die wet algemene ondersteuning vind.</p>
+
+<p>Motion put and agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>moved, as an unopposed motion&#x2014;</p>
+
+<block name="quote">That the House do now resolve itself into Committee on the Bill, and that Mr. Speaker leave the Chair.</block>
+
+</speech>
+
+<speech by="#munnik">
+
+<from>Mr. <person refersTo="hansard_za">MUNNIK</person></from>
+
+<p>objected.</p>
+
+</speech>
+
+<speech by="#minister_of_mines_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES AND INDUSTRIES</person>:</from>
+
+<p>then moved&#x2014;</p>
+
+<block name="quote">That the House go into Committee on the Bill on Monday, 4th February.</block>
+
+</speech>
+
+<speech by="#moor">
+
+<from>Mr. <person refersTo="hansard_za">MOOR</person></from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1924-02-01T16:50:00">4.50 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

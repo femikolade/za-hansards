@@ -1,0 +1,1751 @@
+---
+title: 'House of Assembly: Vol10 - FRIDAY 27 JANUARY 1928'
+layout: debate
+year: 1928
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 27th JANUARY, 1928.</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the Chair at <recordedTime time="1928-01-27T14:20:00">2.20 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#port_beaufort_grant_amendment_private_bill">
+
+<heading>PORT BEAUFORT GRANT AMENDMENT (PRIVATE) BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>laid upon the Table&#x2014;</p>
+
+<block name="#quote">Report of the examiners on the petition for leave to introduce the Port Beaufort Grant Amendment (Private) Bill (presented to this House on the 25th January), reporting that the Standing Orders of the House have been complied with.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>DIAMONDS: NAMAQUALAND, PROSPECTING IN.</heading>
+
+<question by="#papenfus" to="#minister_of_mines_and_industries">
+
+<num>I.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Mines and Industries whether any rights to prospect, or work alluvial areas for precious stones in Namaqualand have been granted since the passing of the Precious Stones Act in 1927, and, if so, to whom and on what terms such rights have been granted?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#papenfus">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>Seven discoverers&#x2019; certificates have been granted to prospectors in respect of discoveries at different places made prior to the prohibition of prospecting. These certificates entitle the holders to mark out and work 20 claims each on the proclamation of the ground. These certificates have been granted as follows: V. Dick, The Cliffs; S. Rabinowitz, Buchuberg; R. Kennedy, Alexander Bay; J. Papert, Alexander Bay; H. Gelb, Alexander Bay; J. C. Caplan, Alexander Bay; E. Reuning, Alexander Bay.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>WORK COLONIES.</heading>
+
+<question by="#papenfus" to="#minister_of_labour">
+
+<num>II.</num>
+
+<from>Mr. PAPENFUS</from>
+
+<p>asked the Minister of Labour whether any work colonies have been established, or any prosecutions have taken place under the provisions of the Work Colonies Act of 1927?</p>
+
+</question>
+
+<answer by="#minister_of_labour" to="#papenfus">
+
+<from>The MINISTER OF LABOUR:</from>
+
+<p>No, the Act has not yet been brought into force as the department is still making preliminary arrangements.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>RAILWAYS: SIR WILLIAM HOY&#x2019;S PENSION.</heading>
+
+<p>The MINISTER OF LANDS replied to Question XXVI by Mr. Swart, standing over from 1st November.</p>
+
+<question by="#swart" to="#minister_of_lands">
+
+<heading>Question:</heading>
+
+<p>What will be the annual pension to which Sir William Hoy will be entitled when he retires?</p>
+
+</question>
+
+<answer by="#minister_of_lands" to="#swart">
+
+<heading>Reply:</heading>
+
+<p>Approximately &#x00A3;2,329 per annum.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>MINT TENDERS FOR BADGES.</heading>
+
+<p>The MINISTER OF FINANCE replied to Question X by Mr. Nathan, standing over from 8th November.</p>
+
+<question by="#nathan" to="#minister_of_finance">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) Whether the Government Mint has tendered to municipal councils and to other bodies or persons for &#x201C;hawkers&#x2019;,&#x201D; &#x201C;dog licences&#x201D; and &#x201C;bicycle&#x201D; badges and other similar requisites; and, if so,</li>
+
+<li>(2) will he state what tenders have been so submitted or sent in for any or all of the above articles since 1st July, 1926, giving the following particulars:
+
+<ol>
+
+<li>(a) to whom and to which bodies were such tenders submitted;</li>
+
+<li>(b) as to the specific articles above enumerated which were tendered for;</li>
+
+<li>(c) the prices submitted for each article tendered for; and</li>
+
+<li>(d) which tenders were accepted, and by whom?</li></ol></li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#nathan">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) The Pretoria Mint has submitted tenders to Provincial, Municipal and District Councils for the supply of annual licence badges for vehicles, cycles, dogs, etc.</li>
+
+<li>(2) The following statement shows the principal tenders submitted since the 1st July, 1926, and the results:</li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p><i>By Whom Required.</i></p></td>
+
+<td><p><i>Articles tendered for.</i></p></td>
+
+<td colspan="3"><p><i>Mint Tender.</i></p></td>
+
+<td><p><i>Result.</i></p></td>
+
+</tr>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>&#x00A3;</p></td>
+
+<td><p>s.</p></td>
+
+<td><p>d.</p></td>
+
+<td><p></p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal Provincial Council</p></td>
+
+<td><p>90,000 zinc dog tax badges</p></td>
+
+<td><p>128</p></td>
+
+<td><p>15</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Natal Provincial Council</p></td>
+
+<td><p>25,000 tinplate tax badges</p></td>
+
+<td><p>42</p></td>
+
+<td><p>10</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Orange Free State Provincial of Council</p></td>
+
+<td><p>143,000 zinc or brass tax badges</p></td>
+
+<td><p>231</p></td>
+
+<td><p>16</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Germiston Municipality</p></td>
+
+<td><p>31,50 brass tax badges</p></td>
+
+<td><p>30</p></td>
+
+<td><p>18</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Transvaal Provincial Council</p></td>
+
+<td><p>75,100 zinc tax badges</p></td>
+
+<td><p>103</p></td>
+
+<td><p>5</p></td>
+
+<td><p>3</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p><span class="col_521-522" refersTo="page_0327"/>Pretoria Municipality</p></td>
+
+<td><p>134,75 brass tax badges</p></td>
+
+<td><p>58</p></td>
+
+<td><p>2</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Pretoria Municipality</p></td>
+
+<td><p>500 aluminium tax badges</p></td>
+
+<td><p>5</p></td>
+
+<td><p>5</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Kimberley Municipality</p></td>
+
+<td><p>3,250 brass tax badges</p></td>
+
+<td><p>19</p></td>
+
+<td><p>0</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Boksburg Municipality</p></td>
+
+<td><p>7,802 brass tax badges</p></td>
+
+<td><p>60</p></td>
+
+<td><p>17</p></td>
+
+<td><p>10</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Port Elizabeth Municipality</p></td>
+
+<td><p>3,150 brass tax badges</p></td>
+
+<td><p>22</p></td>
+
+<td><p>16</p></td>
+
+<td><p>9</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Divisional Council</p></td>
+
+<td><p>5,000 brass tax badges</p></td>
+
+<td><p>25</p></td>
+
+<td><p>8</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Heidelberg Municipality</p></td>
+
+<td><p>585 brass tax badges</p></td>
+
+<td><p>33</p></td>
+
+<td><p>12</p></td>
+
+<td><p>8</p></td>
+
+<td><p>Not accepted</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Oudtshoorn Municipality</p></td>
+
+<td><p>700 brass tax badges</p></td>
+
+<td><p>7</p></td>
+
+<td><p>15</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Not accepted</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Kuruman Divisional Council</p></td>
+
+<td><p>3,050 aluminium tax badges</p></td>
+
+<td><p>13</p></td>
+
+<td><p>17</p></td>
+
+<td><p>3</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Griquatown Municipality</p></td>
+
+<td><p>50 tinplate tax badges</p></td>
+
+<td><p>4</p></td>
+
+<td><p>10</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Griquatown Municipality</p></td>
+
+<td><p>75 brass tax badges</p></td>
+
+<td><p>2</p></td>
+
+<td><p>18</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Not accepted</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Verulam Town Council</p></td>
+
+<td><p>100 brass tax badges</p></td>
+
+<td><p>&#x2014;</p></td>
+
+<td><p></p></td>
+
+<td><p></p></td>
+
+<td><p>Unable to tender.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Springs Municipality</p></td>
+
+<td><p>4,750 brass tax badges</p></td>
+
+<td><p>22</p></td>
+
+<td><p>14</p></td>
+
+<td><p>3</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Springs Municipality</p></td>
+
+<td><p>150 aluminium plates</p></td>
+
+<td><p>24</p></td>
+
+<td><p>8</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Hopetown Divisional Council</p></td>
+
+<td><p>1,250 aluminium tax badges</p></td>
+
+<td><p>9</p></td>
+
+<td><p>17</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Hopetown Divisional Council</p></td>
+
+<td><p>1,000 brass tax badges</p></td>
+
+<td><p>6</p></td>
+
+<td><p>14</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Johannesburg Municipality</p></td>
+
+<td><p>48,550 brass tax badges</p></td>
+
+<td><p>101</p></td>
+
+<td><p>10</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Albert Divisional Council</p></td>
+
+<td><p>1,200 zinc tax badges</p></td>
+
+<td><p>6</p></td>
+
+<td><p>14</p></td>
+
+<td><p>8</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Barkly West Divisional Council</p></td>
+
+<td><p>2,000 aluminium tax badges</p></td>
+
+<td><p>12</p></td>
+
+<td><p>3</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Town City Council</p></td>
+
+<td><p>19,500 brass tax badges</p></td>
+
+<td><p>68</p></td>
+
+<td><p>5</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Not accepted</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Town City Council</p></td>
+
+<td><p>4,500 aluminium tax badges</p></td>
+
+<td><p>23</p></td>
+
+<td><p>7</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Town City Council</p></td>
+
+<td><p>15,000 zinc tax badges</p></td>
+
+<td><p>35</p></td>
+
+<td><p>12</p></td>
+
+<td><p>6</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Cape Town City Council</p></td>
+
+<td><p>3 000 brass (enamelled) tax badges</p></td>
+
+<td><p>275</p></td>
+
+<td><p>0</p></td>
+
+<td><p>0</p></td>
+
+<td><p>Not accepted.</p></td>
+
+</tr>
+
+</table>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>QUARANTINE FOR FOOT AND MOUTH DISEASE.</heading>
+
+<p>The MINISTER OF AGRICULTURE replied to Question XXIII by Mr. Moffat, standing over from 8th November.</p>
+
+<question by="#moffat" to="#minister_of_agriculture">
+
+<heading>Question:</heading>
+
+<ol>
+
+<li>(1) Whether he will obtain and supply the House with an explanation from the Veterinary Department in regard to the reason for the necessity of 60 days&#x2019; quarantine for the foot and mouth disease;</li>
+
+<li>(2) whether he will state what the reason is that after 30 days&#x2019; quarantine in Holland, animals from that country are only kept 14 days at Union ports&#x2019; quarantine stations; if so,</li>
+
+<li>(3) will he state the reason for this discrimination between Holland and England, in view of outbreaks of the disease in England being few compared with outbreaks in Holland, where disease is endemic;</li>
+
+<li>(4) whether, if the danger of infection does and can exist for 60 days, in the event of foot and mouth disease breaking out in the quarantine station all animals in that shed will be destroyed;</li>
+
+<li>(5) whether owners of stock so destroyed will receive compensation, and, if not, why not;</li>
+
+<li>(6) whether the Minister contemplates the erection of a quarantine station in a suitable locality, with modern ideas of quarantine regulations;</li>
+
+<li>(7) whether he is aware that stock are herded together in the present badly-ventilated shed and are in direct contact with each other, thus rendering the shed an incubation chamber for the propagation of any infectious disease that may be in existence among the animals quarantined?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#moffat">
+
+<heading>Reply:</heading>
+
+<ol>
+
+<li>(1) Recent investigations have indicated that so-called &#x201C;carriers&#x201D; of the disease may constitute a source of infection for a period of three months.</li>
+
+<li>(2) In the case of cattle introduced from Holland the extra time taken in the voyage of at least a week makes the total quarantine periods approximately the same.</li>
+
+<li>(3) In Holland where the disease is endemic, the centres of infection are well known and the disease under control. In England, on the other hand, the disease is sporadic, and is constantly breaking out in different parts of the country. Active measures are being taken in England which it is hoped will rid the country of these sporadic outbreaks. In the circumstances it was considered safer to introduce cattle from Holland than from England.</li>
+
+<li>(4) Yes.</li>
+
+<li>(5) Owners of such animals will be compensated in terms of the Schedule to Act 14 of 1911.</li>
+
+<li>(6) Quarantine stations must be within the dock areas in order to avoid contact with other animals. In view of the comparatively small number of animals imported into the Union, the existing stations are considered sufficient and suitable for the purpose.</li>
+
+<li>(7) Quarantine stations are under the direct control of Government Veterinary Officers and every attention is paid to sanitation, ventilation and the animals&#x2019; general comfort. No case of an aimal becoming infected with a contagious or infectious disease in a quarantine station has ever been known in South Africa.</li>
+
+</ol>
+
+</answer>
+
+<question by="#moffat" to="#minister_of_agriculture">
+
+<from><span class="col_523-524" refersTo="page_0328"/>Mr. MOFFAT</from>
+
+<p>What are the prospects in the near future of a quarantine station being opened in the United Kingdom for stock coming out of South Africa?</p>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#moffat">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<p>The department is now dealing with the High Commissioner in connection with that question and I hope I will be soon in a position to have a station in England.</p>
+
+</answer>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#prevention_of_cruelty_to_animals_act_1914_amendment_bill">
+
+<heading>PREVENTION OF CRUELTY TO ANIMALS ACT, 1914, AMENDMENT BILL.</heading>
+
+<p>First Order read: House to resume in Committee on the Prevention of Cruelty to Animals Act, 1914, Amendment Bill.</p>
+
+<p>House in Committee:</p>
+
+<p>[Progress reported on 25th March, 1927, on Clause 1.]</p>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">That the Chairman leave the chair.</block>
+
+<p>Upon which the Committee divided:</p>
+
+<p>Ayes&#x2014;40.</p>
+
+<p>Badenhorst, A. L.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bergh, P. A.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Boydell, T.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Fick. M. L.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Harris, D.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Hertzog. J. B. M.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Hugo. D.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Malan, M. L.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Oost, H.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Te Water, C. T.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Visser, T. C.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Waterston, R. B.</p>
+
+<p>Tellers: Sampson, H. W.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;46.</p>
+
+<p>Alexander, M.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Arnott, W.</p>
+
+<p>Barlow. A. G.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Blackwell. L.</p>
+
+<p>Brown, G.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Close, R. W.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Geldenhuys, L.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Louw, G. A.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Moffat, L.</p>
+
+<p>Nathan, E.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Papenfus, H. B.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Reitz, H.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Robinson, C. P.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smuts, J. C.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Steyn, C. F.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Watt, T.</p>
+
+<p>Tellers: Collins, W. R.; De Jager, A. L.</p>
+
+<p>Motion accordingly negatived.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Lt.-Col. <person refersTo="hansard_za">N. J. PRETORIUS</person>:</from>
+
+<p>This Bill was before the House last year, and many of the arguments are already forgotten. I am one of those who feel for animals, and I say that anyone who illtreats them wilfully and maliciously ought to be punished. In the course of farming operations things occur which are not intentional ill-treatment, but which might be called such by supporters of the prevention or cruelty to animals if they came on to the farms. In that way the farmers might get into trouble, and even suffer corporal punishment. I want to mention a case which I saw personally on my farm. I am certain that if members of the Society for the Prevention of Cruelty to Animals had lodged a complaint, if this law were in existence, I should have had to appear in court, and possibly been whipped. We were in-spanning young oxen on the farm. They turned and turned about at the top end; the people were not very handy in dealing with the animals, who got confused, the horns were broken off, and finally the whole team lay mixed up on the ground. If anyone without knowledge of farming had been there, it might under this Bill have been difficult for me to escape punishment and convince the Court that no malicious cruelty had taken place. I am afraid about the application of such a Bill in the country as people would be exposed to prosecution without having been guilty of wilful cruelty. I know cases in the towns from my own observation where animals were inspanned when they ought not to have been. Under such circumstances it is necessary to have severe punishment, but I say that we must be careful with regard to the country-side because the burden of proof is put on the farming population.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>Last year the farmers pointed out that if the amendment went through the farmers would be in grave danger of being whipped, but there is a great deal of hot air about that. Has any farmer ever been prosecuted under the present Act. Outside Portugal there is probably no country in the world where animals are worse treated than they are in parts of South Africa. (Cries of dissent.) You cannot teach me anything about South Africa, I was born here and have lived on the veld. There are very few countries which would allow a man with a huge double whip to flog an ox as he is allowed to do in South Africa, when it is pulling a wagon up a river bank. No notice at all is taken of this sort of thing, and everybody in the House knows that what I state is correct. In the Cape Peninsula a coloured man will work his horse to death for six days a week, and on the seventh day he drives it to Muizenberg with his wife and family. The pity is that you cannot do anything with these people. We have a number of very good magistrates, and time after time <span class="col_525-526" refersTo="page_0329"/>in the reports of cruelty cases one reads the remark of the magistrate that he is sorry the law does not allow him to whip the offender. The magistrates do not order whipping for nothing, although they used to in the old days. It is true that there are thousands of farmers who look after (their animals properly, but some don&#x2019;t. The native is a cruel person&#x2014;he will light a fire under an ox, bite its tail and even cut it off with a knife. We see this done but if we treated the native as he treats his master&#x2019;s animals, this cruelty would be stopped. Obviously it is not popular to preach in the countryside that some farmers do not keep their animals as they should. There are farmers who have mealies in their store who allow their animals to starve to death&#x2014;that is cruelty to animals. If a man will not feed his stock then he has no right to have them. (Cries of &#x201C;absurd&#x201D; and &#x201C;nonsense&#x201D;). My friends opposite can shout until they are black in the face, but this will be the law in South Africa in time to come. We go on like our forefathers did; if the seasons are good, stock is fat, but if the seasons are bad the stock becomes thin and dies.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>Mr. <person refersTo="hansard_za">M. L. MALAN</person>:</from>
+
+<p>Are there no droughts in Australia?</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I don&#x2019;t follow Australia or the Australians, but I believe that stock in Australia is very much better looked alter than it is in parts of South Africa. My friend over there never loses his stock from drought and if any people ever look after their stock in drought times it is the people from the Heilbron district in particular, and the Free State in general. Why then does my hon. friend take up this attitude? But there are people in the Union who allow their stock to die who at the same time have money in the bank. That I say is cruelty to animals. I have made this speech deliberately hard because I want to rouse the people of South Africa. I have made it deliberately because I know it will be talked about in the countryside, and let me assure you if we do not get this Bill through to-day we shall get it through next year or the year after.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>To listen to the hon. member for Bloemfontein (North) (Mr. Barlow) one would think that he was a farmer, or at least an expert.</p>
+
+</speech>
+
+<speech by="#barlow">
+
+<from>*Mr. <person refersTo="hansard_za">BARLOW</person>:</from>
+
+<p>I have never been before the Court for scab.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>I want to know whether he will accept the challenge to inspect a sheep and decide whether or not it has scab. The proof that he is no expert in farming is that he says that the farmer who allows stock to die through drought is liable for cruelty to animals and should be prosecuted even though there is often no alternative. I wonder how many of the farmers in Parliament, and in the whole of South Africa would escape the court in the circumstances. The hon. member further said that the conditions in this country were worse than in any other. I do not know where the hon. member got his information from, but I can assure him that I have been to England and Australia, and saw an animal in England pulling 8,000 lbs. Does the hon. member state that the animal is not trained with a sjambok to pull such a load?</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>*Mr. <person refersTo="hansard_za">STRUBEN</person>:</from>
+
+<p>800, or 8,000?</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>No, I said 8,000 lbs. Of course the animal has to get accustomed to it, and for that purpose it is necessary to use a sjambok. I maintain that no animal can be trained in South Africa to pull without the use of the sjambok at the commencement. I was myself a transport rider for a time, and know from experience what has to be done. Then the hon. member for Bloemfontein (North) wants to tell us that it is not permitted in any other country. I have not only seen it in England, but also in Australia. The hon. member further spoke of the use of the double whip, but that is only used in the beginning. Later the foreman has only an ordinary thin whip. The 1917 Act is severe enough. As an example of what occurs in practice I mention the case of a man in Cape Town who owns one horse, and makes his living with it. He showed me how the horse had got a sore which did not interfere with its working at all, but he was prosecuted at the instance of ignorant people, and ordered not to work the horse for six weeks. The existing Act makes sufficient provision. All cruelty in the way of too severe punishment, too hard driving, and careless injury is punishable. I think it is sufficiently drastic. But now hon. members want the man who makes his living by the horse to get lashes with a fine and imprisonment. No, if the proposals came from a practical farmer, I might consider them, but not so coming as they do from members such as the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) or the hon. member for Bloemfontein (North) (Mr. Barlow).</p>
+
+</speech>
+
+<speech by="#papenfus">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">PAPENFUS</person>:</from>
+
+<p>The speech of the hon. member for Bloemfontein (North) (Mr. Barlow) is substantially correct as regards the starving of cattle, and it is a disgrace to this country. I am a &#x201C;bona fide&#x201D; farmer and I deeply regret to have to say every year in this country one sees on the countryside starving horses and cattle suffering day after day the excruciating pains of hunger. I am not referring to the hundreds or thousands of provident farmers who make provision for their stock in winter, but to those improvident farmers who rely upon grass and make no other provision whatever for their animals. South Africa is a drought-stricken country. If we get early rains we can plant maize which will mature, but you will find that on many farms when it is too late to plant maize nothing is done to provide fodder for cattle and horses in the winter. I know very few seasons, in fact from my own experience I do not know any season in which it has not been possible with the scanty rainfall to grow fodder as ensilage for your animals as winter feed. I would urge upon the farmers of this country the advisability, nay, the necessity, of improving their <span class="col_527-528" refersTo="page_0330"/>farming methods by having good cattle and making proper and adequate provision for them in the winter. I venture to predict that unless we model our farming on a better system by keeping better cattle and making better provision for them in winter, we shall never make this a cattle farming country. These starving cattle that we see in the country side are a national disgrace. Silos are still an exception in this country. In the Transvaal and Free State, where horses and cattle are kept, there should be provision made for a silo on every farm. I am glad that this matter is being raised because there is no doubt that in some cases you will find that the trouble is due to a wrong parsimony. You will find that a man has got sufficient money to build a silo, but he does not do it. He lets the cattle take their chance. They may starve, they might be hungry and they might scrape through the winter and when the rains come they will it is hoped pick up again. I submit that is a wholly wrong system of farming and it is cruelty to animals. I submit that the hon. member for Bloemfontein (North) (Mr. Barlow) has a perfect right to state his opinion. He has got as much opportunity of judging of conditions in this country as the hon. member opposite, and his remarks especially in regard to this pitiful and distressing spectacle of starving cattle on the countryside are correct. It is a national disgrace and it is time that the scandal was done away with, and it can be done away with to a large extent.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>How?</p>
+
+</speech>
+
+<speech by="#papenfus">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">PAPENFUS</person>:</from>
+
+<p>By the method I have indicated. I have pointed out that it is advisable to make provision for cattle and horses by way of silage, as winter fodder. I say the silo is still the exception on farms.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Not a bit, You know nothing about it.</p>
+
+</speech>
+
+<speech by="#papenfus">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">PAPENFUS</person>:</from>
+
+<p>Of course, if there is one individual in this House who thinks that he is omniscient it is my hon. friend opposite, and when he comes here and talks nonsense about an animal pulling 8,000 lb. weight the extent of his knowledge and experience&#x2014;</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Do you dispute this 8,000 lb.</p>
+
+</speech>
+
+<speech by="#papenfus">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">PAPENFUS</person>:</from>
+
+<p>Most distinctly. Apart from that, what I object to is his assertion that this monster beast that he refers to, this animal of gigantic strength which, he says, is able to pull this load of 8,000 lbs., was taught to do that through cruelty; it was taught by the sjambok, he says. I am not censorious, and I know the difficulties that farmers have to contend with. The farmers need to have better stock and to look after them better than they do.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>Would they eat less?</p>
+
+</speech>
+
+<speech by="#papenfus">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">PAPENFUS</person>:</from>
+
+<p>No, they would probably eat more, but you would take care of an animal that cost you something and brings in a good return. Your scrub stock is no good to anybody, though that does not remove the fact that even the scrub animal is entitled to protection from cruelty, and should be supplied with sufficient food.</p>
+
+</speech>
+
+<speech by="#mostert">
+
+<from>*Mr. <person refersTo="hansard_za">MOSTERT</person>:</from>
+
+<p>It is surprising to hear people talking of farming who know nothing about it. I believe the hon. member who has just spoken does not even know that a cow goes dry and is for six or seven months without milk. Those are the people who talk of farming, and of the illtreatment of animals on farms. The hon. member for Hospital (Mr. Papenfus) went hunting not so long ago and ran up a tree to avoid a wild dog. Instead of shooting the dog he teased it so much that he had to run away. They talk of farming; but I know what they want. The man with his cart on the street must be got rid of. They do not mention the people who are daily killed by motors, but talk about the poor horses and cruelty to animals. They want a state of affairs when the farmers cannot sow any more grain because there are no animals to eat it. Then there is the dairyman of Bloemfontein. He talks about cruelty to animals, but does he not know that the calves are taken from the cows so that the milk shall be available, from which he makes his money? The calves have to be deprived in order to get the milk. Then he speaks of the farmers giving fodder to their stock in time of drought, and that it is cruelty when animals die because of drought. I want to ask him where our people in parts of Namaqualand must go when drought comes. There are no railways. Where must they get fodder? These townsmen are only getting at the farmers. Then he speaks of the use of the double whip. The man who is not loyal to his party ought to be whipped and he is loyal to no party. This is the kind of person who uses fine language here, but forgets it in his business. The farmer does not ill-treat animals. He is not cruel, but peaceable, as the voortrekkers proved. They went out with the bible in their hands, and were not the people wilfully to ill-treat animals. The mover of the Bill lives in Cape Town, where the municipality is the greatest cause of cruelty to animals. The roads have to be made smooth for the motors, so that rich people can use them without bumping. The hardship to the horses does not matter. They are breaking up the roads all day long to make them smooth. South Africa must wake up. It is the farmers who enable the rich people to buy motors. It is the result of their work, and if they do not sweat, the owners of motor-cars will not even have food. No, the townspeople must not try to make laws for the country people.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STRUBEN</person>:</from>
+
+<p>I want to take up that challenge made by the hon. member for Graaff-Reinet (Mr. I. P. van Heerden). He stated that those of us who are in favour of this Bill are none of us farmers, that we do not understand <span class="col_529-530" refersTo="page_0331"/>the least thing about the farming community or how animals should be treated. He knows quite different from that. He knows that many of us have spent most of our lives in handling animals. I was a horse breeder and a cattle breeder and have trained many young animals. The hon. member for Witwatersberg (Lt.-Col. N. J. Pretorius) quoted a case that happened to him recently in training oxen, where he might have been prosecuted. That was an accident and not intentional cruelty. It was not a deliberate act of cruelty administered to the animal itself. If you listen to the speeches against this measure it would seem to indicate that the farming community have a very uneasy conscience on this question of cruelty. The farmers as a class need not have an uneasy conscience, but that there are acts of deliberate cruelty committed by farmers&#x2019; servants, and sometimes by farmers themselves, goes without saying. It does happen. If we try to get back to the attitude with which we started on this Bill, and that is to provide for the proper punishment of gross acts of cruelty, it will be all right. We are out to try and deal with what you see in the Cape Peninsula, such acts as working a horse which is absolutely unfit to leave the stable; or where a man will brutally flog a horse for not being able to move a load which could not be moved by four times the horse power. These are the acts of cruelty with which the Bill of the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl) is intended to deal. There are some men to whom nothing will appeal but corporal punishment. A fine they cannot or will not pay, and they go to gaol and come out with a smiling face without shame or stigma, but if you give such a man a few cuts with a cane I do not think he will be quite so free with his sjambok on the beasts he has to work. You heard a diatribe about asphalt roads, but that is beside the point. The point is whether the animal is fit to work, and whether it is being handled in such a way as constitutes an act of brutality. I know the members who have been speaking are not brutal themselves, and would not tolerate it if they saw their servants behaving in the way we are trying to prevent. You can walk or drive about in this countryside and you will see from day to day these acts of brutality, and I hope the House will be broad-minded enough to forget these speeches that have been made that we, on this side, are abusing the farmers and that we are not farmers ourselves. The mere fact as to whether you are a farmer or whether you are a solicitor has nothing to do with the question. If you know how to treat animals and are imbued with the spirit of humanity, it does not matter what your profession is and any such man has every right to express his views. If the proviso proposed by the hon. member for Pretoria (Central) (Mr. te Water), is accepted, I do not see that any man in the House can object to passing the Bill. The hon. member for Graaff-Reinet talks about that wonderful horse that pulled 8,000 pounds weight! It may have been on a barge on a canal, that I grant, or shunting a truck on a railway line, but don&#x2019;t let him tell the House that any horse ever bred can pull a load of 8,000 pounds on a road under ordinary conditions. No, sir. The farming community has no reason to fear this Bill. The members opposite have repeatedly stated that the farmers will be prosecuted. I make bold to say there will not be one in a thousand cases under this Act that will be the case of a bona fide farmer being found guilty of gross and intentional cruelty. But there is a low class of the community which is put on to handle animals, and anything that can be done to stop their brutality should be done by this House. We should put it in the power of the magistrates so to deal with culprits that we may have this stigma and reproach of cruelty to animals removed from us in this country.</p>
+
+</speech>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>Like the hon. member for Albany (Mr. Struben), I do not see what drought has to do with a Bill dealing with cruelty to animals. If stock dies as a result of drought it is unavoidable cruelty; but what is said on behalf of women and children who suffer from cruelty during a period of financial drought? I am against this Bill because it substitutes for the present punishment another act of gross and deliberate brutality&#x2014;flogging&#x2014;against which I am both in principle and practice. Because a man inflicts an act of gross brutality on an animal there are hon. members who say that the best way to cure him is to apply a gross act of brutality on the man himself. It is an illogical attitude to adopt. I think the idea of punishment is to prevent the act from being done again, and if anyone inquires into the history of flogging he will find it has never stopped any crime.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Garrotting?</p>
+
+</speech>
+
+<speech by="#reyburn">
+
+<from>Mr. <person refersTo="hansard_za">REYBURN</person>:</from>
+
+<p>Not even garrotting. In the old days in England death was the penalty for sheep-stealing, but it went on. The hon. member for Bloemfontein (North) (Mr. Barlow) tells us that unpunished acts of cruelty go on every day. I would submit that the real cause of the trouble is that these acts go unpunished, and not because the punishment is not heavy enough. We have in America a crime wave, not due to any question of lack of punishment, but because 99 out of every 100 criminals go undetected. I do not think flogging a man will stop another from inflicting cruelty on animals.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>There was one argument raised by the hon. member for Durban (Umbilo) (Mr. Reyburn) that deserves to be met. It is the view, to which the hon. member is entitled, that flogging has never stopped crime. Apart from experience in England, I can assure the committee of a particular experience which we had at the Cape just after I started practising in my own profession. There was a big wave of crime in this Peninsula, which was very dangerous to women and children. Judges let it be known that flogging was going to be imposed very freely for offences of this nature, and very soon after that these crimes stopped like a flash.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from><span class="col_531-532" refersTo="page_0332"/>*Mr. <person refersTo="hansard_za">VOSLOO</person>:</from>
+
+<p>After the present debate we feel more than ever that this is a dangerous Bill, because the discussion has shown that it is directed against the farmers. This afternoon one hon. member went so far as to say that it was cruelty if animals died as the result of drought. To show the House what trouble often arises from some of these innocent little Bills I will mention what trouble a farmer in my constituency had some time ago with regard to hiring shearers on his farm. The law provides that tramps must not be employed for the shearing of sheep, and the farmer got into trouble. The hon. member for Bloemfontein (North) (Mr. Barlow) did nothing but abuse the farmers because the double whip was occasionally used, and said it was cruelty if animals died from hunger in time of drought. This shows that he knows nothing of farming. When the hon. member for Hospital (Mr. Papenfus) speaks about farming matters I can never forget that he is not merely a farmer. He still farms a little, but if he had to make his living out of farming I should have believed him more. He has another occupation and other sources of income. The argument is used that in times of drought the farmers should feed their stock, but if hon. members will come to my place, a district where there are a number of progressive farmers, they will hear another story. Three years ago there were quantities of lucerne reaped on their own farms, but during the last three years everything has been used as fodder and no rains have come. Hundreds and hundreds of pounds have been spent for fodder, and now the hon. member wants to make it an offence if animals die when there is no more. I believe the introducer of the Bill spoke on the first occasion about a cat which had been ill-treated. I saw in the &#x201C;Cape Times&#x201D; yesterday that people in Cape Town were charged with cruelty for going on a holiday and accidentally leaving a cat in the house. The people are being prosecuted under the existing Act. I think it will be quite wrong to increase penalties and so get the farmers into trouble.</p>
+
+</speech>
+
+<speech by="#nieuwenhuize">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">NIEUWENHUIZE</person>:</from>
+
+<p>I do not believe that any member can be charged with having no feeling for animals or of permitting cruelty, but the question is, of course, whether the existing laws make sufficient provision. In my opinion the Act of 1914, a consolidated Act, is adequate. Since Union the laws have been made considerably more severe. In the Natal Act of 1874 the fine was &#x00A3;5; in the Free State Act of 1876, &#x00A3;10: in the Cape Act of 1888, &#x00A3;10, and in the Transvaal Act of 1888 also &#x00A3;10 or a month, or in serious cases &#x00A3;25 or three months. The Act of 1914 provides a fine of &#x00A3;25 or three months&#x2019; imprisonment with or without hard labour, and in certain serious cases the magistrate can imprison for three months, without the option of a fine. I think that is adequate. The suggested amendments take us no further. They propose that whipping shall only be allowed in serious cases, and the second amendment says only in malicious, aggravated cases. That goes without saying, and is also the intention of the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl). Of course for minor offences no corporal punishment will be given. I fear that here we should be going too far, and would overlook the proportions between the value of human and animal life. How often does one not read of ill-treatment of children by their parents, or of wives by their husbands. And yet I have never heard of flogging being inflicted. The matter is disposed of by a fine or imprisonment, but now the mover wants cruelty to animals to be punished by caning. We must not lose sight of the difference that exists with regard to the administration of the law by various magistrates. This is a dangerous point. The hon. member who has just spoken mentioned cruelty to a cat. Last year I think a case was quoted of somebody who had kicked a cat in Adderley Street, being fined &#x00A3;15 or three months. I just want to quote a peculiar case which I find mentioned in this newspaper cutting. Unfortunately, I do not know what paper it was in, but I think it was a Cape newspaper, which calls it an extraordinary case. A certain person was fined &#x00A3;5 or fourteen days on a charge of cruelty to a dog by keeping it alive. That is a strange charge of cruelty. Most punishments are imposed for the causing of death or pain, but here the charge was of keeping a dog alive. Why was he punished? Because he kept the dog alive whilst it had bad lungs and was in a weak state, so causing it unnecessary suffering. The newspaper mentions that the veterinary surgeon said that the dog was suffering from St. Vitus&#x2019; dance, was in a very poor condition, and that it was the man&#x2019;s duty to put an end to it. Now, I ask hon. members who come from farms whether they have not all seen dogs on a farm which, after biliary, suffered from convulsions, and whether attempts are not always made to cure the animal, and not kill it, especially if it is a valuable watchdog or hunting dog. In many cases it happens that the dog dies after all, but sometimes it recovers. Should we not have considered it ridiculous if a man, for not killing a dog of that kind, were fined &#x00A3;5 or fourteen days? There is danger in the administration of certain Acts.</p>
+
+</speech>
+
+<speech by="#byron">
+
+<from>&#x2020;Brig.-Gen. <person refersTo="hansard_za">BYRON</person>:</from>
+
+<p>I am surprised that there should be any opposition to the Bill, more particularly as the mover has accepted an amendment to include the words &#x201C;deliberate and wilful.&#x201D; It would be a pity if the remarks of the hon. member for Bloemfontein (North) (Mr. Barlow) should go unchallenged, as I think they convey a very wrong and untrue picture of conditions in South Africa. No doubt he has seen instances of cruelty, but sweeping all the dust into one corner does not give a true picture of the real state of affairs. If his words are accepted it leaves people under the impression that not only are the inhabitants of this country morally deficient, but mentally deficient as well. The hon. member seems to forget that the farmers&#x2019; currency is cattle or animals of some sort. In that they had some precedent as &#x201C;capital&#x201D; is derived from the same word as &#x201C;cattle.&#x201D; To assume that a man <span class="col_533-534" refersTo="page_0333"/>is such a fool as to allow his cattle to be ill-used is too absurd for words. I should like to say a word on behalf of the natives I know best&#x2014;the Basutos. Personally, I cannot remember seeing a Basuto guilty of cruelty to an animal in the country. The native recognizes that the dominant instinct of all domestic animals is to do what their owners require of them. No man will, if he can prevent it, allow his cattle, or capital, to be wasted in the way suggested. Epidemics of pestilence or visitations of drought are common to every country where cattle are bred. In Australia I have been on a sheep station where a quarter of a million sheep died from drought and there were no means of saving them. By no stretch of the imagination could this Bill be applied to the farming community of this country. There is another side to this question. The most visible offenders are to be found in the towns. In many countries of the East there is no word in the language equivalent to the English word &#x201C;cruelty.&#x201D; One of the first things that strikes a visitor to these shores is the callousness of a certain portion of the community, notably in the Cape Peninsula, towards their animals. It is high time the sense of the public was educated to the abominations which are going on, and the public should help in seeing that these cases of cruelty in various forms are stopped. It is no use saying this Act is designed to oppress one part of the community as against another. It is recognized throughout the world that the best horse masters in the world are the Boers. There is no class of men who exercised more knowledge and care in dealing with their mounts than the Boers displayed during the Anglo-Boer war. It was not acquired in a day, it was the result of traditions and years of practice. It would be a pity if the hot and unworthy words of the hon. member for Bloemfontein (North) (Mr. Barlow) got abroad that the farmers of this country are not only morally deficient, but also fools. I appeal to them to and the whole matter of the prevention of cruelty to animals by giving support to this measure designed as it is against those people who are morally deficient, and who cannot restrain themselves from committing acts of cruelty to animals. It would be a pity if, through some alleged slight or slur on one side of the community, a useful and a necessary measure like this was prevented from passing into law.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>*Mr. <person refersTo="hansard_za">VAN NIEKERK</person>:</from>
+
+<p>I also wish to reply to the hon. member for Bloemfontein (North) (Mr. Barlow). Perhaps his remarks will create the impression outside that farmers are cruel to their animals. Nothing is further from the truth. I think that the farmers have more sympathy with their animals than anybody else. When a farmer outspans he makes his animals comfortable, he does not just tie them up to a pole, but takes off the harness before going inside to drink coffee. And when he has worked the whole day he goes home, and allows his animals to go free. In the morning when the townsmen are still in bed he is up at three or four o&#x2019;clock to let his animals out and to look after them. We use the whip, even the double whip, if animals jib. I also knew the whip in my young days, and it did me nothing but good. Our farmers do not treat their animals badly, it would not pay. I want to ask hon. members who do not know conditions on the countryside to come and see our farmers arriving home with loads, and how they treat their animals. I sympathize with the hon. member for Cape Town (Harbour) (Maj. G. B. van Zyl), who wants to prevent cruelty, but he should rather look at what is going on in the towns, and how horses are treated there. Horses that are much too poor are drawing the vegetable carts and other vehicles, and they are not suitable for the work. Why does not the hon. member do his duty and prosecute those people? I remember, inter alia, that a few years ago there were always two white horses pulling a &#x201C;Cape Times&#x201D; van. Those horses were possibly a little fatter than those used by some old smouse, but if it depended on me, I would certainly send the rich owner who worked such poor horses to gaol. If the hon. member feels so much for the poor animals he should have seen that the responsible people were prosecuted. Let me repeat that our farmers do not unnecessarily beat the animals, because that is detrimental to his interests. If there is a bad case of cruelty the most severe penalty, i.e., three months&#x2019; imprisonment, can be inflicted, and that, I think, is enough.</p>
+
+</speech>
+
+<speech by="#deane">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">DEANE</person>:</from>
+
+<p>The sweeping indictment made by the hon. member for Bloemfontein (North) (Mr. Barlow) is certainly not justified, and his statement is grossly exaggerated. The practice of flogging oxen with double whips may have existed twenty years ago, but it does not exist to-day, and I challenge him to cite a single case to-day. Cruelty to animals does not exist in the country to the same extent as it does in the towns. Farmers are not fools. Farmers will not tolerate natives thrashing the oxen with double whips, because they depend upon transport in order to make a living by getting their produce to the station. It is absurd to think this sort of thing is allowed in the country. Besides, the roads to-day are such that there is none of this sticking fast or cruelty to animals at all. I am very sorry that the question of starving animals through drought has been imported into this debate, because it does not apply here. The matter of animals dying from starvation is not intentional, and it occurs through force of circumstances over which the people have no control. The chief offenders in this are the natives. Our native areas are overstocked. We have no market for cattle, we are over-producing cattle, and when a drought comes along the cattle are bound to suffer from starvation. This pious advice which is given to the farmer to put up silos is all very well, but what are you going to do when you cannot produce stuff to put into silos? I hope my friends the farmers will support this measure. It is intended to try to deal with the cruelty which is going on to-day <span class="col_535-536" refersTo="page_0334"/>in our towns, where you see emaciated horses with sores being driven in carts, and unfortunate donkeys that can hardly walk being called upon to pull loads and cruelly ill-used. It is a crying shame that it should continue. We know that the punishments in the past have not prevented this cruelty. I feel that whipping is the only remedy to check the evil, and I hope that this amendment will be passed.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>I am sorry the hon. member for Waterberg (Mr. van Niekerk) has left the House, because it puzzled me to know why he saw fit to lecture me. I feel that if he had attended to the debate last year he would know that my view in regard to the farmer is very different from what he now suggests it is. I was very careful last year to say that there is no class of men in this country more able or willing to care for animals than the farmers. After all, a farmer would be a very poor sort of man if his source of livelihood was damaged by him. The point is this, that when a man dares to get up in this House and in any way touch upon a farming question, you have all the farmers up and wanting to know how dare he do it. I know of no men who speak more on legal questions in this House than the farmers. We have had examples over and over again. We had, for instance, the three members who were dubbed the &#x201C;three musketeers&#x201D; last year speaking on legal questions for more than two days. We did not object to that. Every man who is returned to this House has the right to discuss any question that is brought before it, and I think the farmers must recognize that any matter concerning farmers may be discussed by all of us, even though we do not profess to be experts. We do think that when a matter comes before the House we have a right to speak on it. With regard to cruelty to animals, how can you connect that with farming purely? It does not concern the farmer purely, in fact it concerns the farmer less than anyone else. The man who is mostly cruel to an animal is he who is working an animal not belonging to him. I feel that the hon. member for Graaff-Reinet (Mr. I. P. van Heerden), great authority as he claims he is, wilful cruelty. Nobody will seriously suggest will allow us the privilege of speaking on a matter like this. I do, with other members, regret that the question of animals dying from drought has been raised this afternoon. There is nothing further from the minds of those who are strongly supporting this Bill than to punish the man whose animals have unavoidably died from drought. The question should not have been raised on this Bill, because before a man can be sentenced&#x2014;and such a sentence cannot be carried out until such time as the ease has been reviewed by a judge of the Supreme Court&#x2014;the magistrate must be satisfied that there has been aggravated and that anybody who has had the misfortune to lose his stock from drought was wilfully cruel, nor can it be suggested that it is a case of aggravated cruelty. The hon. member made a great point of quoting a case of a horse with a swollen shoulder.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>I never spoke of a swollen shoulder. It was on the neck.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>We will take it that it was on the neck. The hon. member said that the horse was not allowed to work for six weeks. If he knew anything of legal procedure, he would know that no such sentence would be passed unless there was a certificate or some evidence by a veterinary surgeon, or someone equally well qualified.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>What do they know about it?</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>They know more than most farmers do. The hon. member for Lydenburg (Mr. Nieuwenhuize), objects to the increase of punishment. I would like to remind him that when he was a very prominent personage in the Transvaal his own Government deliberately took out of the Act the word &#x201C;wilful,&#x201D; so as to be able to punish these men even if they were not wilfully cruel. I am giving him a precedent. His own country, the Transvaal, found that it was next to impossible to obtain a conviction against men while that word &#x201C;wilful&#x201D; remained in the Act. I am allowing it to be inserted, not as a protection to those who do not deserve protection, but to meet hon. members in this House. Another hon. member said that I stated last year that because somebody was guilty of what might be called ordinary cruelty to a cat, he should be whipped. He is quite wrong. The case I quoted was one where a man poured petrol on a cat and set it alight. Another case was where a man put several cats in a sack and banged the sack against a tree. When a man is deliberately and brutally cruel, I say there is no punishment but whipping that is suitable for the crime. Another case which I quoted was where a man tied a dog behind a motor lorry, and the lorry was driven at 20 miles an hour. The driver was only stopped after he had gone three miles. Surely those are cases where a man should be whipped. He is too callous to appreciate any other punishment, and unless we introduce whipping we will never stop these crimes. Every experienced magistrate states that he must have the right to inflict sibly stop these crimes unless they have some whipping. They say magistrates cannot pos-more effective powers than they have at present. If you sentence a man to a term of imprisonment, you are not punishing the man only. You are debarring the family from the right of having the support of this man. These men look upon it as a rest from home for a few weeks. Every man who has considered this matter at all, and every magistrate, is of opinion that unless whipping is allowed there will be no chance of stopping the present wave of cruelty. Let me impress it upon members that a magistrate cannot <span class="col_537-538" refersTo="page_0335"/>order a man to be whipped and have the sentence carried out. If he orders whipping, the case goes to a judge of the Supreme Court for review, so you have a safeguard there. Members all voted for whipping for stock theft. You can also whip a child under 16 for cruelty. I want the law put right, and I want these callous brutes, these men who are supposed to have sense, to be whipped. You whip children now, and yet you won&#x2019;t whip men. For stock theft you whip them, but you won&#x2019;t whip a man for cruelty to stock. Under the Mentally Defective Women&#x2019;s Act whipping is allowed also. We are merely asking to extend the law in conformity with other Acts, and to allow a magistrate to impose a sentence of whipping in cases of brutality, and then let the Supreme Court decide whether it is a fair sentence. There is an idea that what I am asking for is flogging. I am not asking for that; I am asking for ordinary whipping with a cane.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">I. P. VAN HEERDEN</person>:</from>
+
+<p>It is the indignity.</p>
+
+</speech>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>What about the indignity to the animal?</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>&#x2020;Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>There is no indignity which can be imposed upon such a man. He deserves everything he gets. There is not a single farmer of any standing in this country who will ever find himself in the position of being ordered to be whipped, because he has to be brutally and wilfully cruel, and a farmer is not naturally brutally cruel. I want to ask those members who oppose the Bill to consider the position and to consider that without this power we in the towns will never stop this brutal cruelty, and if the Act passes it will in no way affect the farmers. I do appeal to them to let the Bill go through, and they will find that in their own interests matters are going to be very greatly improved.</p>
+
+</speech>
+
+<speech by="#strachan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STRACHAN</person>:</from>
+
+<p>The hon. member for Umvoti (Mr. Deane) told the House that cruelty to animals was increasing in the towns. It occurred to me when he made that statement to wonder how many of the few members of the South African party now in the House realize how much the last Government was responsible for that state of affairs. In this way, that in 1922 the then Minister of Finance discontinued the grant given to the societies for the prevention of cruelty to animals and substituted half the fines accruing from successful prosecutions in the courts. A number of societies have had to withdraw their inspectors from the streets of the towns, simply because they have not the financial means to permit of keeping them on. I believe the hon. member in charge of this Bill really desires to reduce cruelty to animals to a minimum, but I should have thought it would have been quite a good proposal to restore the grants given to these societies and do away with the clause in Act 14 of 1922 which entitles them to half the fines for convictions obtained.</p>
+
+</speech>
+
+<speech by="#close">
+
+<from>Mr. <person refersTo="hansard_za">CLOSE</person>:</from>
+
+<p>You know you cannot do it.</p>
+
+</speech>
+
+<speech by="#strachan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STRACHAN</person>:</from>
+
+<p>I understand that the activities of many of the societies have been curtailed because of this clause. I do hope something will be done during the present session to reinstitute the grant that obtained prior to 1922.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. member is wandering a bit far afield at present.</p>
+
+</speech>
+
+<speech by="#strachan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STRACHAN</person>:</from>
+
+<p>I merely wish to say that if I were convinced that giving magistrates the power to impose whipping would minimize cruelty, I would be prepared to support the Bill, but I have heard nothing this afternoon from either side of the House which leads me to believe that this will have the desired result. Prevention, of course, is much better than cure, and if there were more supervision in the towns with regard to the conduct of men in charge of horses and other animals, that would go a long way towards preventing cruelty as it exists to-day. I subscribe to the view of the hon. member for Durban (Umbilo) (Mr. Reyburn).</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Dr. <person refersTo="hansard_za">VAN DER MERWE</person>:</from>
+
+<p>I voted against the motion, because I thought the matter ought to be further debated. I think that the hon. member who introduced the Bill has rendered a service by drawing the attention, not only of the police, but of everybody else, to the cruelty to animals that is taking place. I do not, however, believe that this Bill will improve matters. I think the cause of the trouble is that the existing Act is not carried out. I was glad that an opportunity was given to bring out farmers&#x2019; objections, and to show that they are not guilty of cruelty. In general, they are kind to them. I think that the feeling that cruelty occurs on the countryside rests on ignorance of conditions. The farmers are particularly sympathetic towards their stock. I believe the existing Act which imposes a fine of &#x00A3;25 or three months&#x2019; imprisonment for cruelty to animals goes far enough. The matter has now been fully discussed, and I therefore move&#x2014;</p>
+
+<block name="#quote">That the chairman report progress.</block>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person></from>
+
+<p>called for a division.</p>
+
+</speech>
+
+<speech by="#blackwell">
+
+<from>Mr. <person refersTo="hansard_za">BLACKWELL</person>:</from>
+
+<p>On a point of order, Mr. Chairman, are you entitled to put that motion now, as a motion that you leave the chair has been negatived?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The two motions may have the same effect, but they are different notions.</p>
+
+<p>Upon which the Committee divided:</p>
+
+<p>Ayes&#x2014;46.</p>
+
+<p>Allen, J.</p>
+
+<p>Badenhorst, A. L.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bergh, P. A.</p>
+
+<p>Boshoff. L. J.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conradie. J. H.</p>
+
+<p>Conroy, E. A.</p>
+
+<p>De Villiers, A. I. E.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p><span class="col_539-540" refersTo="page_0336"/>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Harris, D.</p>
+
+<p>Hattingh, B. R.</p>
+
+<p>Havenga, N. C.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Kemp, J. C. G.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Malan, M. L.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>Oost, H.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Steyn, C. F.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Waterston, R. B.</p>
+
+<p>Tellers: Hugo, D.; Vermooten, O. S.</p>
+
+<p>Noes&#x2014;45.</p>
+
+<p>Alexander, M.</p>
+
+<p>Anderson, H. E, K.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Barlow, A. G.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Blackwell, L.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Close, R. W.</p>
+
+<p>Coulter, C. W. A.</p>
+
+<p>Creswell, F. H. P.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Duncan, P.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Louw, G. A.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>McMenamin, J. J.</p>
+
+<p>Moffat, L.</p>
+
+<p>Nathan, E.</p>
+
+<p>Nel, O. R.</p>
+
+<p>Nicholls, G. H.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Papenfus, H. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Pirow, O.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Reitz, H.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Robinson, C. P.</p>
+
+<p>Rockey, W.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Watt, T.</p>
+
+<p>Tellers: Collins, W. R.; de Jager, A. L.</p>
+
+<p>Motion accordingly agreed to.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#easter_stabilisation_bill">
+
+<heading>EASTER STABILISATION BILL.</heading>
+
+<p>Second Order read: Second reading&#x2014;Easter Stabilisation Bill.</p>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="#quote">That the Bill be now read a second time.</block>
+
+<p>This Bill was originally introduced by the late hon. member for Three Rivers (Mr. D. M. Brown), and as I have taken a good bit of interest in it I move the second reading. This variation in the date of Easter has always caused a great deal of inconvenience to the commercial community and also to the educational authorities The stabilisation of Easter would also be a great convenience to the railway department. Under the present arrangement, there can be a variation in the date of Easter of not less than 35 days. In other words, Easter one year may fall 35 days later than in another year. The Associated Chambers of Commerce at a recent conference in Cape Town passed a resolution very strongly supporting having a fixed date for Easter. No religious body of any description will be inconvenienced by fixing the date. The present arrangement was authorized a good many years ago by the Imperial Parliament on the strength of certain tables which are contained in the prayer-book. Those tables are difficult to understand, and personally I don&#x2019;t profess to understand them. The matter is really an international one, and was brought before the League of Nations in 1923. A committee was appointed to consider the subject. It included representatives of the Roman Catholic and Greek churches, and of the Archbishop of Canterbury. That committee reported in 1926 strongly recommending that the Sunday following the second Saturday of April in every year shall be Easter Sunday, and the Monday following Easter Sunday in every year shall be Easter Monday. The wording of that recommendation is embodied in the Bill before the House. The League of Nations committee made exhaustive enquiries, and found that there was a great, preponderance of opinion in favour of a fixed date for Easter; in fact, there was practically no opposition. No nation, however, has taken practical steps to give effect to the committee&#x2019;s recommendation, and I suggest that when the Bill is passed the Union Government should inform the League of Nations what we have done with a view to inducing other nations to fall into line. There can be no question that if we give a lead in this matter, it will be followed without much delay by other countries.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>This matter is not so unimportant as the last speaker wanted to make out. The League of Nations did indeed take it up, but it has not yet been adopted by a single country in the world. And now one of the smallest countries in the world is to take the lead! If the League of Nations cannot get a bigger country to make a start, we had better let it drop. The fixing of this date caused years of struggle in the old Christian church. Just as little as the church can settle the exact date of Christmas, can it settle that of Easter. It was about the fourth century after Christ that the struggle began in the Christian church, and eventually it led to the decision not to fix a date, but to accept the beginning of Lent in the northern hemisphere, that is the day that day and night are of equal length, i.e., the day of the spring equinox, as starting point. Then they take the first Sunday after the first full moon which follows the spring equinox, and that is Easter, according to an old custom.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>*Lt.-Col. <person refersTo="hansard_za">N. J. PRETORIUS</person>:</from>
+
+<p>What has the full moon to do with it?</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>It was a continuation of an old Jewish custom. Our Easter came in place of the old Jewish Passover. To <span class="col_541-542" refersTo="page_0337"/>reach agreement, the old churches came to the decision I have explained. It has remained in force all these years, and still applies throughout the whole world in all Christian churches. Nineteen centuries after the birth of Christ it cannot be altered by the League of Nations. Nor shall we be able to do it. Easter is a religious, a church festival, and the State simply cannot make such an alteration. The odium theologicum is a terrible thing, and if the State were to meddle in the matter, it would be putting its head into a beehive. No, we must cry a halt here. The State cannot go into such matters. It does not only affect Easter, but also Good Friday, Ascension Day, Whitsunday, in short the whole calendar of church festivals would be altered by the Bill. I think the State would not be acting wisely in interfering, so let us keep out of it. The Select Committee on Public Holidays heard a number of witnesses last year on the matter, they heard the leaders of the church, and came to the conclusion that the matter should be left as it was. The church does not want the alteration, and the State must not meddle. The State does not wish the church to interfere in civil matters, and the State itself must not interfere in church matters. I am sorry that the hon. member for Three Rivers (the late Mr. D. M. Brown) is no longer here to introduce the Bill himself, for then I would have told him that he was wrong in introducing it. It is an old church decision, and even if it is possibly inconvenient, we must allow it to remain. The fluctuation in the dates is not very great, not more than three weeks.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>What is the opinion of the Dutch Reformed Church about it?</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>If the Speaker will allow me to answer in English&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member cannot do so.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>&#x2020;*The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>The hon. member for Cape Town (Central) (Mr. Jagger) has been so long in South Africa that he could have understood me very well. The existing fixing of the date for Easter applies to all churches, and cannot be altered.</p>
+
+</speech>
+
+<speech by="#rockey">
+
+<from>Mr. <person refersTo="hansard_za">ROCKEY</person>:</from>
+
+<p>I hope the House will not accept this Bill. In these modern days when ancient customs are going to the wall, it is as well to retain some of the sentiments and usages of the past. The hon. member for Cape Town (Central) (Mr. Jagger) has said it will be good for business, but the date of Easter for the next twenty years can be taken at any time from the almanac and there is no earthly reason why the feast should be fixed. All the feasts of the Christian calendar are fixed by the day of Easter. Ascension Day takes its date from the Easter festival, and so every movable feast would have to be changed to fixed dates. Easter, up to the present, has not been fixed in any other country in the world, and from that point of view I think we are moving too soon. Personally, I do not think it will ever come, because you are up against Christian sentiment in this matter. From the earliest days of the Christian era Easter has been a movable feast. There have been schools who have advocated that it should be the first Sunday in the month, or the fourth Sunday of the month, but it has always been fixed on the first Sunday after the full moon. There is another reason, and that is the Passover of the Jews comes at the same time, and it is, therefore, commemorated by the Jews as the time the destroying angel passed over the houses of Egypt. I hope the good sense of the House will speedily reject this Bill.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>I would like briefly to reply. There is no taking away privileges here. We are not going to abolish Easter.</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>The Rev. Mr. <person refersTo="hansard_za">FICK</person>:</from>
+
+<p>But you are going to stabilize the date.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Exactly, and stabilize it on a Sunday. There is no difficulty or objection against this change. This committee of the League of Nations had on it a representative of the Pope himself, a representative of the Eastern Church, and a representative of the Anglican Church nominated by the Archbishop of Canterbury, and it was unanimously accepted. The chairman of the committee was a Hollander and let me read what he says. He drew the attention of his colleagues to an interesting letter received from the Netherlands in favour of fixing the date of Easter on the second Sunday in April. He had been present in person at the educational conference when the question was considered, and it was received with enthusiasm. The churches have raised no objection, and there is no objection which proceeds from the church. That is stressed here. I have here the Book of Common Prayer. There is one table given here for the fixing of Easter Day There is another table to find Easter. I defy any member of this House studying this book, except, perhaps, my hon. friend opposite, to find when Easter falls next year or the year after that from this book. It is far better surely, so that everybody the world over should know when Easter falls, that it should be fixed on the Sunday following the second Saturday in April. That would not interfere with the sacredness of any day. The only thing that is done is that it fixes the date. It does not take away a single privilege. It is the desire the world over to do something of this kind. If we set, the lead, and the Government communicate with the League of Nations, this will follow amongst most nations the world over in, comparatively sneaking, a short time. What I could do if the House desires is to postpone the coming into operation of this measure until we get the approval, we will say, of the League of Nations. I would accept that as an amendment if the Government thinks it is desirable.</p>
+
+<p>Motion put and the House divided;</p>
+
+<p><span class="col_543-544" refersTo="page_0338"/>Ayes&#x2014;28.</p>
+
+<p>Alexander, M.</p>
+
+<p>Allen, J.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Brown, G.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Harris, D.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Krige, C. J.</p>
+
+<p>Louw, G. A.</p>
+
+<p>Naud&#x00E9;, A. S.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O&#x2019;Brien, W. J.</p>
+
+<p>Papenfus, H. B.</p>
+
+<p>Pearce, C.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Richards, G. R.</p>
+
+<p>Sampson, H. W.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Watt, T.</p>
+
+<p>Tellers: Blackwell, Leslie; de Jager, A. L.</p>
+
+<p>Noes&#x2014;40.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Beyers, F. W.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Brink, G. F.</p>
+
+<p>Buirski, E.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Close, R. W.</p>
+
+<p>Conradie, J. H.</p>
+
+<p>Coulter, C. W. A.</p>
+
+<p>Creswell, F. H. P.</p>
+
+<p>De Villiers, P. C.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Du Toit, F. J.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Grobler, P. G. W.</p>
+
+<p>Hugo, D.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Louw, J. P.</p>
+
+<p>Malan, D. F.</p>
+
+<p>Malan, M. L.</p>
+
+<p>Mostert, J. P.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Oost, H.</p>
+
+<p>Pirow, O.</p>
+
+<p>Pretorius, J. S. F.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Rockey, W.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Struben, R. H.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Tellers: le Roux, S. P.; Vermooten, O. S.</p>
+
+<p>Motion accordingly negatived.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#committee_on_standing_rules_and_orders">
+
+<heading>COMMITTEE ON STANDING RULES AND ORDERS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that the Committee on Standing Rules and Orders had discharged Mr. Papenfus from service on the Select Committee on Pensions, Grants and Gratuities and appointed Mr. G. C. van Heerden in his stead.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>In the hope that the hearts of my hon. friends will he softened, when this drink Bill comes up again, I move the adjournment of the House.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1928-01-27T16:58:00">4.58 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

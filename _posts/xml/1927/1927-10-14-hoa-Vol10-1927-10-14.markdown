@@ -1,0 +1,229 @@
+---
+title: 'House of Assembly: Vol10 - FRIDAY 14 OCTOBER 1927'
+layout: debate
+year: 1927
+month: OCTOBER
+month_slug: Oct
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 14th OCTOBER, 1927.</heading>
+
+<debateSection name="#meeting_of_parliament">
+
+<heading>MEETING OF PARLIAMENT.</heading>
+
+<p>Pursuant to Proclamation of his Excellency the Governor-General, dated the 26th July, 1927, summoning Parliament to meet on this day for the dispatch of business, members met in the Assembly Chamber and Mr. Speaker took the Chair at <recordedTime time="1927-10-14T11:42:00">11.42 a.m</recordedTime>.</p>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person>:</from>
+
+<p>read the Proclamation.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#official_opening">
+
+<heading>OFFICIAL OPENING.</heading>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">clerk</person></from>
+
+<p>read a letter from the Secretary to the Prime Minister dated 24th August, 1927, stating that his Excellency the Governor-General had signified his intention of opening Parliament at noon to-day with the usual ceremony.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>and members thereupon proceeded to the Senate House to attend the ceremony of the opening of Parliament, and on their return,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>took the Chair and read prayers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#roll_of_members">
+
+<heading>ROLL OF MEMBERS.</heading>
+
+<speech by="#clerk">
+
+<from>The <person refersTo="hansard_za">CLERK</person></from>
+
+<p>read the list of members, and those present answered to their names.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#printing_committee">
+
+<heading>PRINTING COMMITTEE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>appointed the Prime Minister, Gen. Smuts and Mr. Sampson a Committee to assist Mr. Speaker in regard to the printing of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#committee_on_standing_rules_and_orders">
+
+<heading>COMMITTEE ON STANDING RULES. AND ORDERS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>appointed the following members to constitute, with Mr. Speaker, the Committee on Standing Rules and Orders, viz.: The Prime Minister, the Minister of Justice, the Minister of Defence, Gen. Smuts, Mr. Krige, Sir Thomas Smartt, Mr. de Waal, Dr. de Jager, Mr. Sampson and Mr. Close.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#opening_speech">
+
+<heading>OPENING SPEECH.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>reported that the House had this day attended the ceremony of the opening of Parliament, and that his Excellency the Governor-General was pleased to deliver an opening speech to both Houses of Parliament, of which, for greater accuracy, he had received a copy, as follows:&#x2014;</p>
+
+<p>MR. PRESIDENT AND GENTLEMEN OF THE SENATE:</p>
+
+<p>MR. SPEAKER AND GENTLEMEN OF THE HOUSE OF ASSEMBLY:</p>
+
+<block name="#quote">It has been thought necessary to assemble Parliament earlier on this occasion because my Ministers do not deem it advisable that the resubmission to Parliament of the Iron and Steel Industry Bill, the Union Nationality and Flag Bill and the Precious Stones Bill&#x2014;the first of which was rejected by the Senate and to the second and third of which the Senate made amendments which were unacceptable to the House of Assembly&#x2014;should be longer delayed, and feel that the interests of the country demand that these Bills be passed at the earliest possible moment. It is hoped, therefore, that these measures will be disposed of in time for Parliament to adjourn early in December for the Christmas recess.</block>
+
+<block name="#quote">Our relations with other countries continue to be of the most friendly nature.</block>
+
+<block name="#quote">My Ministers feel deeply the death of Sir Charles Coghlan, the Premier of Southern Rhodesia, who was always a staunch friend of the Union.</block>
+
+<block name="#quote">My Ministers sincerely regret the fact that the delegation from Portugal referred to in my speech of the 28th January of this year has not visited the Union as was anticipated <span class="col_3-4" refersTo="page_0068"/>and that it does not appear likely that negotiations in connection with a new Mozambique Treaty will be resumed at an early date.</block>
+
+<block name="#quote">Steps have been taken to bring into operation the agreement arrived at between the Union Government and the Government of India. My Ministers feel satisfied that the policy of mutual goodwill and co-operation in the solution of a common problem which has thus been initiated is already having results beneficial to South Africa.</block>
+
+<block name="#quote">This policy has been furthered by the appointment in the Union of an Agent-General of the Government of India.</block>
+
+<block name="#quote">You will be asked to resume consideration of the Union Native Council Bill, the Coloured Persons Rights Bill, the Representation of Natives in Parliament Bill and the Natives Land (Amendment) Bill.</block>
+
+<block name="#quote">The Bill to consolidate and amend the laws relating to the supply of intoxicating liquor will be submitted to you for further consideration.</block>
+
+<block name="#quote">An agreement to promote diamond cutting in the Union on a substantial scale will be placed before you for your approval.</block>
+
+<block name="#quote">Facilities for technical and vocational education are being provided in various centres to cope with the expanding requirements of commerce and industry.</block>
+
+<block name="#quote">My Ministers will ask you to provide further funds for the improvement of housing conditions in view of the unsatisfactory circumstances under which sections of the poorer classes continue to live in urban areas.</block>
+
+<block name="#quote">In spite of adverse conditions in certain parts of the Union, farming generally is making satisfactory progress.</block>
+
+<block name="#quote">Industrial expansion is playing an increasing part in South Africa&#x2019;s national life, and it is gratifying to note that both employers and employees continue to promote the peaceful progress of industry by taking advantage of the machinery provided under the Industrial Legislation of the country for the settlement of their economic differences and the gradual building up of civilized standards in the country&#x2019;s commercial and industrial life.</block>
+
+<p>MR. SPEAKER AND GENTLEMEN OF THE HOUSE OF ASSEMBLY:</p>
+
+<block name="#quote">Additional Estimates of Revenue and Expenditure for the present financial year and Estimates of Revenue and Expenditure for the ensuing financial year will be laid before you.</block>
+
+<p>MR. PRESIDENT AND GENTLEMEN OF THE SENATE:</p>
+
+<p>MR. SPEAKER AND GENTLEMEN OF THE HOUSE OF ASSEMBLY:</p>
+
+<block name="#quote">In commending these matters to your consideration, I pray that the blessing of Almighty God may guide and sustain you in your labours.</block>
+
+<block name="#quote">In his Majesty&#x2019;s name I now declare this the fifth session of the fifth Parliament of the Union of South Africa to be duly opened.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#business_of_the_house">
+
+<heading>BUSINESS OF THE HOUSE.</heading>
+
+<p>On notice of motion as to evening sittings,</p>
+
+<speech by="#thomas_smartt">
+
+<from>Sir <person refersTo="hansard_za">THOMAS SMARTT</person>:</from>
+
+<p>Is that what you call dominance?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>We have done that on other occasions.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#condolence">
+
+<heading>CONDOLENCE.</heading>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I move, as an unopposed motion&#x2014;</p>
+
+<block name="#quote">That this House desires to place on record its sense of profound sorrow at the great loss sustained by the people of Southern Rhodesia through the death on the 28th August, 1927, of the Honourable Sir Charles P. Coghlan, K.C.M.G., Prime Minister of Southern Rhodesia since the inception of responsible Government. This House further resolves that an expression of its sympathy be conveyed to Lady Coghlan and family in their sad bereavement.</block>
+
+<p>Every one of us will admit that, in the person of the late Sir Charles Coghlan, South Africa has lost one of its most respected and worthy sons. Everybody who came into touch with him felt that he was a man who could be called an Afrikander and a son of South Africa. Early in his life he threw in his lot with our northern sister state, but, although he gave his whole heart to the interests of our sister state, it was always encouraging to meet him, and to see what a high place the south always occupied in his conversation. We also know that Sir Charles was one of the representatives of Rhodesia on the National Convention. Since then he has always remained a good and warm friend of the Union, and has always shown it. In the circumstances, I feel that it is an honour to ask the House this morning to adopt the motion that I have proposed.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>&#x2020;Gen. <person refersTo="hansard_za">SMUTS</person>:</from>
+
+<p>In seconding the motion, I wish to add a few words to what has fallen from the Prime Minister and to express, on behalf of members on this side of the House also, our keen sense of loss in the passing away of Sir Charles Coghlan and our sympathy with the neighbouring State of Rhodesia in the loss they have sustained. Sir Charles was a son of the old Cape Colony and always took a keen interest in our affairs. He undoubtedly was one of the most prominent South Africans we produced in the old days, and, at the National Convention, as the Prime Minister has said, at which he was a member, he took the keenest interest, although at that time it was known Rhodesia would not at any early date come into the Union and that the provisions in the schedule would not come into operation at an early date. He took the keenest interest in the development and work of the National Convention. Subsequently, he was called upon, as the first Prime Minister of Rhodesia, to lead that young country into new paths. It was a difficult task. It is always a difficult task to make a new beginning. Judged at this distance, and without expressing an <span class="col_5-6" refersTo="page_0069"/>opinion on the internal affairs of Rhodesia, one can only have a respectful admiration for the work which has been done there. Rhodesia to-day, after three or four years of self government, has made a good start and has made wonderful progress&#x2014;progress which is outstanding in regard to the rate things are progressing in South Africa, and it is to a large measure due to the wise statesmanship and leadership of Sir Charles Coghlan. I can only say, although personally I would have preferred to see Rhodesia in the Union and would have welcomed an event which is now postponed for a number of years, there is no doubt under his wise leadership Rhodesia, as a separate state, has made a good start and we can only wish her the best of luck. Sir Charles is followed, as Prime Minister, by another good son of South Africa, by Mr. Moffatt, who bears a historic name in this country. I have no doubt the South African ideals which have so far dominated Southern Rhodesia will continue, and in the future she will go hand in hand with our policy further south, a policy which will continue the growth and development between these states of the ties of kinship and friendship which will be more closely knit in the future development of this great country.</p>
+
+</speech>
+
+<speech by="#drummond_chaplin">
+
+<from>&#x2020;Sir <person refersTo="hansard_za">DRUMMOND CHAPLIN</person>:</from>
+
+<p>I desire to say one word in support of the motion moved by the Prime Minister and supported by my right hon. friend. It fell to my lot to work for nine years in Rhodesia with Sir Charles Coghlan. During the time I was Administrator in the country, representing the British South Africa Company, Sir Charles was the acknowledged leader of the elected members. It followed naturally that in some things the elected members did not always see eye to eye with the Administration, but there was never an occasion when Sir Charles did not use his influence to see that whatever line was taken by his followers and himself was the line that was in the best interests of the country, and, generally speaking, the Administration derived the greatest benefit from his support. I remember many occasions, when matters of the greatest importance to the community were at stake, when Sir Charles Coghlan, refusing to take up the attitude that the elected members were in opposition to the Administration, said over and over again&#x2014;</p>
+
+<block name="#quote">We are not in opposition, we are here to help the Administration to rule the country.</block>
+
+<p>Sir Charles Coghlan lived up to that, and I can truthfully say, after having worked with him during those nine years, covering the whole period of the war, which gave rise to a great many difficulties, that the support Sir Charles gave was given with a whole-hearted regard to what was in the proper interests of the community he represented. It fell to my lot by accident, to be in Rhodesia at the time of Sir Charles&#x2019; sudden death. Anyone who, as I did, attended the funeral ceremony, could not fail to be impressed by the affection with which Sir Charles was regarded by the whole of Rhodesia. It was a striking demonstration of affection and esteem. His loss to the country was a great one, but he is followed by one of his supporters in the Cabinet who has had much experience of the country and who will follow the policy Sir Charles initiated. That policy, as my right hon. friend has said, is one which naturally looks most to the interests of Rhodesia, but it is one which, I am quite sure, will be actuated by the friendliest feelings to this country. I desire, therefore, to associate myself most sincerely with what has fallen from the Prime Minister and my right hon. friend.</p>
+
+<p>Motion put and agreed to, members rising.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-10-14T12:50:00">12.50 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

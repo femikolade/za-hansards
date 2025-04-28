@@ -1,0 +1,1467 @@
+---
+title: 'House of Assembly: Vol8 - FRIDAY 25 FEBRUARY 1927'
+layout: debate
+year: 1927
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, 25th FEBRUARY, 1927.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1927-02-25T14:21:00">2.21 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#reports_laid_on_table">
+
+<heading>REPORTS LAID ON TABLE.</heading>
+
+<speech by="#nathan">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">NATHAN</person>:</from>
+
+<p>May I ask your ruling, Mr. Speaker, upon a point of order. It is a very simple one. Sometimes when questions are asked Ministers say they will lay a report on the Table of the House. Could they not be asked also to draw the attention of the hon. member who asked for the report to the fact that they have laid it on the Table? I think it would be a matter of courtesy if that were done.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is not a point of order.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions">
+
+<heading>QUESTIONS.</heading>
+
+<oralStatements>
+
+<heading>Voters&#x2019; Roll and Canvassers.</heading>
+
+<question by="#van_zyl" to="#minister_of_the_interior">
+
+<num>I.</num>
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol><li>(1) Whether on the present registration of voters he is employing part time or full time canvassers;</li>
+
+<li>(2) whether civil servants are employed on this work;</li>
+
+<li>(3) whether these civil servants are full time officers as far as this particular work is concerned; if not,</li>
+
+<li>(4) what proportion is employed as part time officers;</li>
+
+<li>(5) whether he is aware that it is quite impossible in many cases for part time officers to complete or even adequately do the canvass in the allotted time; and</li>
+
+<li>(6) whether he is aware that in some cases civil servants drawing £45 per month and more from the Treasury are employed as part time men on this work, while many well qualified men who could give their full time are walking the streets, unable to find employment?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#van_zyl">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol><li>(1) Canvassers were recruited from persons in or out of employment.</li>
+
+<li>(2) Yes.</li>
+
+<li>(3) and (4) Except in the case of members of the Police Force performing canvassing work in the course of ordinary patrol duty in rural areas, civil servants were required to take leave for the purpose of canvassing, or to do the canvassing before or after the ordinary official hours.</li>
+
+<li>(5) No time was fixed for the completion of the canvass of any area. For the purpose of remuneration, the work of each area was valued on the basis of so many days of seven hours each.</li>
+
+<li>(6) I am not aware, although it may be the case, that in some instances civil servants drawing £45 per month have been employed as canvassers. I may say that in the country districts, except where the police canvassed whilst on patrol, practically all the canvassers were private individuals. In the towns, a large proportion of the canvassers were private individuals, and wherever any person, not in employment, offered his services and appeared competent to perform the important and responsible duties of canvasser, his application was favourably considered.</li>
+
+</ol>
+
+</answer>
+
+<question by="#van_zyl" to="#minister_of_the_interior">
+
+<from>Maj. G. B. VAN ZYL:</from>
+
+<p>The Minister has not replied to 4. I want him to give us the proportion.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#van_zyl">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<p>I haven&#x2019;t got the information.</p>
+
+</answer>
+
+<question by="#richards" to="#minister_of_the_interior">
+
+<from>+Maj. RICHARDS:</from>
+
+<p>Can the Minister tell us by what date applications for registration have to be in the hands of the registration officer?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#richards">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>I do not remember the date, but it has been <span class="col_763-764" refersTo="page_0451"/>announced in the &#x201C;Gazette,&#x201D; so the hon. member. could find that out quite easily.</p>
+
+</answer>
+
+<question by="#deane" to="#minister_of_the_interior">
+
+<from>&#x2020;Mr. DEANE:</from>
+
+<p>Is it absolutely essential that voters on the present list should make application to be included in the new list, if not will their names be left off?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#deane">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>The official concerned takes the existing list as a basis as a rule, and if, according to his idea, a person on the list is still qualified, then he puts him on the new register as a matter of course. If anyone is left off, as far as I can remember, a special notice is sent to him that his name is not appearing on the new register.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Cruelty to Animals.</heading>
+
+<question by="#van_zyl" to="#minister_of_railways_and_harbours">
+
+<num>II.</num>
+
+<from>Maj G. B. VAN ZYL</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol><li>(1) Whether his attention has been drawn to the many cases of cruelty to animals in transit on the railways, and more particularly to the following two cases&#x2014;
+
+<ol><li>(a) between Rosehaugh and Pietermaritzburg, when two horses were left unfed and unwatered from early in the morning on the 15th to after midday on the 19th December last, with the result that they were unfit for a considerable time;</li>
+
+<li>(b) between Scottburgh and Weenen, when 19 head of cattle suffered so severely through neglect, in that they were not fed of watered, that on the train reaching Estcourt it was discovered that two yearling bulls had died and that the remaining animals were in a miserable condition;</li></ol></li>
+
+<li>(2) whether any enquiry has been held into these cases, and, if so, what are the findings;</li>
+
+<li>(3) whether any action has been taken to prevent a recurrence of these unfortunate happenings;</li>
+
+<li>(4) what truth there is in the statement by one of the consignors that &#x201C;The S.A.R. has never yet conveyed cattle or pigs for me without serious loss&#x201D;;</li>
+
+<li>(5) what action, if any, the Minister is taking to protect these animals; and</li>
+
+<li>(6) whether the Minister has considered the appointment of stock inspectors on the railways?</li></ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#van_zyl">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol><li>(1) Instances of alleged cruelty to animals in transit by rail are occasionally brought to the notice of the Administration, including the two specific cases referred to by the hon. member.</li>
+
+<li>(2) Yes, in the case of (1) (a) two horses were trucked at Rosehaugh at 4.30 p.m. on the 15th December, 1926, and were delivered at Pietermaritzburg at midday on the 19th December, 1926, having been watered at Volksrust and Ladysmith on the 17th and 18th December, respectively. Ample fodder was found in the truck when passing through Ladysmith. No complaint was made to the Administration when the two horses were delivered. Regarding (1) (b), the 19 head of-cattle referred to were trucked at Scottburgh on the night of the 16th August, 1926, and arrived at Weenen at 4.30 p.m. on the 18th idem, the journey consisting of 48 hours. The animals were watered at Durban on the 17th August. On arrival at Estcourt in the early morning of the 18th August two of the cattle were found dead in the truck. The remainder were fed and watered at Estcourt. The investigation revealed that the cattle were in poor condition prior to railing, and that the two dead beasts were trampled to death by the other cattle in the truck.</li>
+
+<li>(3) The avoidance of cruelty and the welfare generally of animals transported by rail receives the Administration&#x2019;s careful attention at all times.</li>
+
+<li>(4) The consignor in this instance was interviewed but was unable to substantiate his statement or to provide sufficient information to enable investigations to be made.</li>
+
+<li>(5) As stated in reply to question (3), every effort is made by the Administration to protect animals in transit. Where justified special fast livestock trains are run, feeding and watering being undertaken at specific points during daylight.</li>
+
+<li>(6) The time is not opportune for considering the appointment of stock inspectors on the railways. District inspectors are already in the service, part of whose duty it is to watch livestock traffic and to endeavour to avoid complaints of the nature of those referred to by the hon. member.</li>
+
+</ol>
+
+</answer>
+
+<question by="#richards" to="#minister_of_railways_and_harbours">
+
+<from>&#x2020;Maj. RICHARDS:</from>
+
+<p>Arising out of that reply, could the Minister give us an idea of what claims have been levelled against the railways in respect of animals that have died through neglect?</p>
+
+</question>
+
+<answer by="#minister_of_finance" to="#richards">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<p>The hon. member must give notice of that.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Posts: Kuruman-Kimberley Motor.</heading>
+
+<question by="#anderson" to="#minister_of_posts_and_telegraphs">
+
+<num>III.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol><li>(1) Whether the motor post contract between Kuruman and Kimberley was relinquished in December, 1926, by the contractor, Mr. Viljoen, owing to ill health;</li>
+
+<li>(2) whether a contract for this service involving the payment of about £750 per annum has since been entered into between the Postmaster-General and Mr. K. Levin, of Kuruman, without tenders therefor having been invited;</li>
+
+<li>(3) whether it has not been the practice hitherto to offer such contracts to public tender;</li>
+
+<li>(4) what reasons are there for departing ill this case from the usual practice referred to in (3); and</li>
+
+<li>(5) whether the Minister will lay all the relative papers upon the Table?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#anderson">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<ol><li>(1) Yes</li>
+
+<li>(2) Where it is intended to enter into a contract.</li>
+
+<li><span class="col_765-766" refersTo="page_0452"/>(3) and (4) For a definite period tenders are always invited, but the department, being aware that the Railway Administration intended introducing a motor service to Kuruman early this year, considered in this case that it would not be advisable to enter into the usual contract, and arrangements were, therefore, made with Mr. Levin merely to carry on the service at the existing contract rate of £750 per annum for the time being. The Railway Administration has since notified the department of the introduction at an early date of the motor service and, as the arrangement with Mr. Levin was on the basis of one month&#x2019;s notice from either side, he has been given notice that this arrangement will terminate on the 31st proximo.</li>
+
+<li>(5) I am prepared to do this, but it is not considered that any useful purpose would be served.</li>
+
+</ol>
+
+</answer>
+
+<question by="#marwick" to="#minister_of_posts_and_telegraphs">
+
+<from>&#x2020;Mr. MARWICK:</from>
+
+<p>Arising out of that reply, is the Minister aware that the procedure adopted by him has resulted in his giving preference to a man who was sentenced to 2½years&#x2019; imprisonment with hard labour, instead of affording an equal opportunity to men of the type of the late contractor?</p>
+
+</question>
+
+<answer by="#minister_of_posts_and_telegraphs" to="#marwick">
+
+<from>The MINISTER OF POSTS AND TELEGRAPHS:</from>
+
+<p>That is not a question, that is a statement, and I do not know what I am aware of until I get notice.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Posts: Savings Bank&#x2019;s Assets.</heading>
+
+<question by="#anderson" to="#minister_of_posts_and_telegraphs">
+
+<num>IV.</num>
+
+<from>Mr. ANDERSON</from>
+
+<p>asked the Minister of Posts and Telegraphs:</p>
+
+<ol><li>(1) Whether the post office savings bank&#x2019;s assets are at present market value some £900,000 short of being able to meet all liabilities; and, if so,</li>
+
+<li>(2) what does the Minister propose to do to ensure the immediate solvency of the bank, in view of the fact that its investments can only be expected to establish an equilibrium between assets and liabilities in twenty years&#x2019; time?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#anderson">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol><li>(1) At 31st March, 1926, the amount of post office saving bank deposits and certificates was £6,387,000. The market value of the securities held on savings bank account was £5,521,000, to which must be added the market value of the securities held for the post office savings bank reserve account £144,000. The assets are at present value accordingly £722,000 short of the liabilities.</li>
+
+<li>(2) Seeing that (a) the bulk of the securities will appreciate as their maturity dates approach, and that this factor should ultimately result in a surplus of assets over liabilities, and (b) that the deposits in the bank are increasing steadily, it does not appear to be necessary to take any steps towards extinguishing the present deficiency.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Felixton Hospital.</heading>
+
+<question by="#nicholls" to="#minister_of_the_interior">
+
+<num>V.</num>
+
+<from>Mr. NICHOLLS</from>
+
+<p>asked the Minister of the Interior:</p>
+
+<ol><li>(1) Whether it is a fact that the Felixton Indian and Native Hospital is to be closed down on the 31st March next; if so,</li>
+
+<li>(2) whether he is aware&#x2014;
+
+<ol><li>(a) that the district served by the existing hospital contains 8,000 native workers, of which 6,000 are recruited from other parts of the Union;</li>
+
+<li>(b) that the Railway Department will probably employ 1,000 natives in the district in the building of the Nkwaleni line;</li>
+
+<li>(c) that for the twelve months period ending 31st July, 1926, 412 natives and Indians were treated in the hospital;</li>
+
+<li>(d) that the proposed alternative accommodation is 20 beds to be erected at the Empangeni Memorial Hospital at the cost of £4,000, of which £2,000 is provided by the Provincial Administration and £2,000 by the Native Affairs Department;</li>
+
+<li>(e) that the board of the hospital has pointed out that at least 40 beds are required, which will cost £8,000;</li>
+
+<li>(f) that the Department of the Interior has declined to assist in the matter, though it is known that £100,000 is lying in the hands of the Indian Irrigation Bureau, which was contributed by the employers of labour; and</li></ol></li>
+
+<li>(3) whether, in view of the fact that the upkeep of any hospital for natives and Indians will fall entirely upon the Provincial Administration and the employers of labour, the Minister will undertake to see that the native and Indian communities have at least the same hospital facilities as they have enjoyed at Felixton in the past?</li></ol>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nicholls">
+
+<from>The MINISTER OF THE INTERIOR:</from>
+
+<ol><li>(1) This hospital is maintained out of the Indian Immigration Trust funds, and for several years past has been run at a loss. The firm that has in recent years guaranteed to make good any loss on the hospital is prepared to give a guarantee for a further year. The hospital will therefore remain open for another year.</li>
+
+<li>(2) (a) Yes. (b) No. It is not possible to ascertain at this date the number of natives likely to be required in this area in connection with the building of the Nkwaleni line (c) For the year ended the 31st July last, the figures are as follows:&#x2014;Indians, in-patients, 32; out-patients, 293. Natives, in-patients 337; out-patients, 169. (d) Yes. (e) Yes. (f) Yes. The administration of the Indian Immigration Trust Board was vested in the Union Government in terms of Act No. 43 of 1920, but the Government has no power to utilize the funds of the board in the direction indicated.</li>
+
+<li>(3) The hospitals administered by the Government in terms of Act No. 43 of 1920 are primarily for the use of Indians, but persons who pay fees in respect of Indians have the privilege of utilizing the hospitals for their native employees at special rates. It is not <span class="col_767-768" refersTo="page_0453"/>compulsory under the law for such hospitals to be maintained. The medical circles and hospitals that are in existence can be closed at any time by the Government, in which event the onus of providing proper medical treatment for Indians falls on the employer. If the Felixton hospital is closed down, the question of the provision of hospital facilities for Indians and natives in that area is one for the Provincial Administration and the employers of labour concerned.</li>
+
+</ol>
+
+</answer>
+
+<question by="#nicholls" to="#minister_of_the_interior">
+
+<from>Mr. NICHOLLS:</from>
+
+<p>Par. (3) refers to natives and Indians, and the Minister said nothing whatever about the thousands of natives who require hospital accommodation.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nicholls">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>The reply to (3) refers to natives, too. I will read it again. [Par. re-read. ]</p>
+
+</answer>
+
+<question by="#arnott" to="#minister_of_the_interior">
+
+<from>Brig.-Gen. ARNOTT:</from>
+
+<p>Would the Minister take steps to initiate legislation to avail themselves of the fund which is now lying useless in the hands of the Government?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#arnott">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>Yes, I think I can say generally that as far as that fund is concerned, it was intended partially to make provision for the medical treatment of Indians, but to a very large extent too it was intended for the repatriation of indentured Indians.</p>
+
+</answer>
+
+<question by="#arnott" to="#minister_of_the_interior">
+
+<from>Brig.-Gen. ARNOTT:</from>
+
+<p>The repatriation fund is a separate one altogether.</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#arnott">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>That fund is being utilized for Indians, and not for natives. The fund to which the hon. member for Zululand (Mr. Nicholls) referred is also intended for the repatriation of Indians. With regard to that fund, I may say, it is quite possible that legislation will be introduced in connection with this fund to make more possible or easier the carrying out of the agreement to which we have come with the Government of India.</p>
+
+</answer>
+
+<question by="#nicholls" to="#minister_of_the_interior">
+
+<from>Mr. NICHOLLS:</from>
+
+<p>I ask will the Minister undertake to see that the native and Indian community have at least the same hospital facilities they have previously enjoyed? Will the Minister undertake to see the Native Affairs Department with regard to the Empangeni Hospital?</p>
+
+</question>
+
+<answer by="#minister_of_the_interior" to="#nicholls">
+
+<from>&#x2020;The MINISTER OF THE INTERIOR:</from>
+
+<p>Any other class of persons apart from Indians falls under the Provincial Administration and not under the Union Government, so it is impossible for me either to give any assurance here or to take any action.</p>
+
+</answer>
+
+<question by="#gilson" to="#minister_of_interior">
+
+<num>VI.</num>
+
+<from>Mr. GILSON</from>
+
+<p>Question withdrawn.</p>
+
+</question>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Mines: &#x201C;Stop Orders&#x201D; for Boots.</heading>
+
+<question by="#hattingh" to="#minister_of_mines_and_industries">
+
+<num>VII.</num>
+
+<from>The Rev. Mr. HATTINGH</from>
+
+<p>asked the Minister of Mines and Industries:</p>
+
+<ol><li>(1) Whether he is aware that some mines do not directly supply their natives with boots but give them orders to buy their boots at the so-called N.R.C. shops;</li>
+
+<li>(2) whether he is aware that this is an evasion of the Act passed last year in connection with the &#x201C;stop order&#x201D; system, because the order is given for a pair of boots at 13s. or 14s. whereas the cost price is about 9s. 6d. and also because the native exchanges this order for boots for anything else, such as a pair of trousers, a jacket or a blanket; and</li>
+
+<li>(3) whether he will take steps, either by the appointment of special inspectors or in some other way, to prevent such evasion of the law?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#hattingh">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<ol><li>(1) The general practice on the Witwatersrand is for mines themselves to supply their native underground employees with boots direct, but according to my information four mines supply these boots by orders on the so called N.R.C. shops which are now not connected with the mining industry. I am informed, however, that arrangements are being made to alter this practice in these four cases.</li>
+
+<li>(2) I have looked into the matter but cannot find that there is any evasion of the Act. The boots supplied are charged for at cost price representing actual manufacturers&#x2019; cost in South Africa plus 5 per cent, for transport and overhead charges. The prices are 13s. 6d. low leg; 14s. 6d. high leg and 15s. extra high leg. The boots are all manufactured in Johannesburg but other firms have the opportunity of tendering. In reply to enquiries I have communicated these prices to the Midland Chamber of Commerce. The allegation that boys exchange orders for boots for other commodities is, I am informed, incorrect.</li>
+
+<li>(3) In view of the circumstances above-mentioned the third portion of the question falls away.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Influenza on the &#x201C;Ceramic.&#x201D;</heading>
+
+<question by="#stals" to="#minister_of_public_health">
+
+<num>VIII.</num>
+
+<from>Dr. STALS</from>
+
+<p>asked the Minister of Public Health:</p>
+
+<ol><li>(1) Whether any cases of influenza have been reported among the passengers of the &#x201C;Ceramic&#x201D; who came ashore in Table Bay; and</li>
+
+<li>(2) whether he can assure the House that all necessary steps were taken to safeguard the public against a possible spread of the disease?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#stals">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<ol><li>(1) One such case developed and was reported on the day after landing. The patient was promptly isolated and removed to the Rentzkie&#x2019;s Farm Isolation Hospital. The case was a mild one.</li>
+
+<li>(2) All reasonably practicable measures were taken to safeguard against spread of the disease.</li></ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading><span class="col_769-770" refersTo="page_0454"/>Mines: Colliery Disaster Inquiry.</heading>
+
+<question by="#thomas_watt" to="#minister_of_mines_and_industries">
+
+<num>IX.</num>
+
+<from>Sir THOMAS WATT</from>
+
+<p>asked the Minister of Mines and Industries whether, in view of the disappointment among the mine workers of Natal at the exclusion of a representative of the workers from the board that enquired into the recent disaster at the Durban Navigation Collieries, the Minister will consider the advisability of introducing amending legislation to enable him to appoint a representative of the employers in the mining industry and one of the employees to be members of any board of enquiry into a mining accident involving loss of life, such representatives to be unconnected with the mine involved?</p>
+
+</question>
+
+<answer by="#minister_of_mines_and_industries" to="#thomas_watt">
+
+<from>The MINISTER OF MINES AND INDUSTRIES:</from>
+
+<p>In answer to the hon. member I may say that I was myself anxious that the enquiry into the recent disaster at the Durban Navigation Collieries should be carried out by a commission with representatives of the employers and employees and the Chief Inspector of Mines in addition to the magistrate and inspector of the district, and I actually appointed a commission thus constituted. The management of the colliery, however, protested against the constitution of the commission on the ground that there is no statutory authority enabling a commission of this nature to be appointed in Natal. The enquiry which took place subsequently was conducted by the magistrate and by the Inspector of Mines, who are empowered by statutory authority to enquire into such cases. The enquiry was very thorough and the report has been published. Some time ago I drafted amending legislation to enable the Government to appoint a commission of enquiry in this and similar cases, but it has not been possible for this provision to become law. Although it will not be possible this session, I propose to consider this matter with a view to bringing up legislation at a later date giving the Government full powers in such matters.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Native Urban Areas Act.</heading>
+
+<question by="#van_zyl" to="#minister_of_native_affairs">
+
+<num>X.</num>
+
+<from>Maj. G. B. VAN ZYL</from>
+
+<p>asked the Minister of Native Affairs:</p>
+
+<ol><li>(1) Whether he is aware that, as a result of the general administration of the Native Urban Areas Act, there exists a great deal of discontent, dissatisfaction and unrest among the native population;</li>
+
+<li>(2) whether he is aware&#x2014;
+
+<ol><li>(a) that a number of natives in the N&#x2019;dabeni Location were brought before the magistrate of Woodstock, who held an enquiry under Section 17 of the Native Urban Areas Act and ordered them to be returned to their homes;</li>
+
+<li>(b) that in giving judgment on appeal in the case of The King vs. Carrie Hashe, first from the magistrate&#x2019;s order and next from the Cape Provincial Division of the Supreme Court, Sir William Solomon said: &#x201C;I desire to associate myself with the remarks of the Judge-President in the Cape Provincial Division in the case of Rex vs. Jacobs with regard to the remarkable nature of the legislation, and to the grave dangers that may arise to the liberty of the subject if persons can be dealt with in this informal manner and sent for long periods of detention to penal institutions&#x201D;; and</li></ol></li>
+
+<li>(3) whether, in view of the above and in view of the reply to a question previously put in regard to the Proclamations issued under Section 12 of the Act, applying to the Johannesburg municipal area, when he stated that the existing Act would be amended, the Prime Minister will include in such legislation an amendment to Section 17 of the Act whereby the grave dangers to the liberty of the subject referred to by Sir William Solomon may be avoided?</li></ol>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#van_zyl">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<ol><li>(1) I am not aware that, as the result of the administration of the Natives (Urban Areas) Act, 1923, there are general discontent, dissatisfaction and unrest among the better classes of natives in urban areas. The general administration of the Act has done much to improve the conditions under which natives generally reside in urban areas and to ameliorate their condition.</li>
+
+<li>(2) (a) Yes. Carrie Hashe and six other native women, who were alleged to be habitually unemployed and leading idle, dissolute and disorderly lives were, in October, 1926, brought before the magistrate of Woodstock, who held an enquiry under Section 17 of the Natives (Urban Areas) Act, 1923. These women failed to give good and satisfactory accounts of themselves, and the magistrate accordingly ordered that they be removed from the urban area of Cape Town and be sent to the place to which they belonged, and that they should not return to that area within a period of twelve months. Application was made to the Cape Provincial Division of the Supreme Court for review of the order of the magistrate, the magistrate, the Secretary for Native Affairs, and the Cape Town Municipality being cited as respondents. The court held that the proceedings were in their nature administrative rather than judicial, and would accordingly be reviewable by the court only if the magistrate had disregarded important provisions of the statute and had been guilty of gross irregularity or illegality in the performance of his duties. The court found that the alleged irregularities, viz., the admission of hearsay evidence, and the admission of previous convictions in evidence against the applicants did not constitute gross irregularity or clear illegality in an enquiry under Section 17 of the Act, and accordingly dismissed the application. Application was then made to the Appellate Division for leave to appeal against the judgment of the Cape Provincial Division. The Appellate Division refused the application, definitely laying down that the enquiry was administrative and not judicial, and that there was no ground for holding that <span class="col_771-772" refersTo="page_0455"/>there was any such irregularity in the proceedings as would warrant the interference of a court of justice. (b) Yes.</li>
+
+<li>(3) It is not proposed to amend Section 17 of the Natives (Urban Areas) Act. The present laws give the higher courts full powers to intervene in the event of any gross irregularity or miscarriage of justice. It is essential that the slum conditions under which certain urban native locations have become notorious should be eliminated, and that adequate machinery should exist to prevent idle, dissolute and disorderly persons congregating in such areas. Any action taken in this direction must of necessity be administrative, and not subject to the ordinary rules of judicial procedure for, apart from any other consideration, as the Appellate Court remarked in the case to which reference has been made, in determining whether a native is an idle or disorderly person, it seems impossible to exclude evidence of previous convictions. The consideration of interference with the liberty of the individual subject must ever be subservient to that of the general public weal, and this aspect is emphasized in the following, excerpt from the judgment of one of the learned judges of the Cape Provincial Division in the case under reference&#x2014;</li></ol>
+
+<block name="quote">There are to be found in our statute law instances where the Legislature has deemed it necessary to invest responsible persons with power and authority to curtail the freedom of movement and action, not only of criminals, but also of persons who have not been convicted of any offence, and I think this is one of those instances. This power has been accorded, not only in the interests of the body politic, but also in the interests of the persons concerned and for their betterment. Whereas, under the old Cape Laws (vide Act 23 of 1879) persons found wandering abroad and having no lawful or insufficient lawful means of support were deemed to be idle and disorderly persons, and were convicted of being such and subjected to imprisonment with or without hard labour and other pains and penalties, the Legislature has, in regard to natives in urban areas who are &#x201C;habitually unemployed,&#x201D; or who, by their own fault, are not possessed of means of an honest livelihood, enacted that they either be sent to their original homes or be detained in a labour colony. The object which the Legislature had in view in making these provisions was not so much punishment for an offence committed, as the prevention of crime which it regarded as probable if the remedies provided by Section 17 (2) were not put into effect and native &#x201C;out-of-works&#x201D; were allowed to congregate in urban or proclaimed areas.</block>
+
+<p>I have no reason to believe that the magistrates will administer the law unjustly or unfairly. With a view to mitigating the provisions of the Act, my department, on the 18th December, 1924, suggested to magistrates the advisability of ordering the return to their homes of natives dealt with under Section 17 rather than immediately directing detention at a farm colony.</p>
+
+</answer>
+
+<question by="#payn" to="#minister_of_native_affairs">
+
+<from>Mr. PAYN:</from>
+
+<p>Arising out of that question, might I ask the Prime Minister whether, when these idle and dissolute persons are ordered away from the urban areas to return to their native home, any control is exercised to prevent these natives going into the urban areas in the native territories. These people often drift into the towns and urban areas in the native territories.</p>
+
+</question>
+
+<answer by="#minister_of_native_affairs" to="#payn">
+
+<from>The MINISTER OF NATIVE AFFAIRS:</from>
+
+<p>That is a question entrusted to the local authorities themselves. The duty by law is thrown upon them that they do not allow the congregation of natives within the town beyond what is reasonably required for the population.</p>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Cattle: Ayrshires from Britain.</heading>
+
+<question by="#richards" to="#minister_of_agriculture">
+
+<num>XI.</num>
+
+<from>Maj. RICHARDS</from>
+
+<p>asked the Minister of Agriculture:</p>
+
+<ol><li>(1) What was the date of the arrival of the last consignment of Ayrshire cattle from Great Britain?</li>
+
+<li>(2) how many of these cattle were bulls and how many females;</li>
+
+<li>(3) whether Great Britain is prepared to accept another consignment of Friesland cattle from South Africa; and</li>
+
+<li>(4) how long will it be before South Africa will be prepared to accept another consignment of cattle from Great Britain?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_agriculture" to="#richards">
+
+<from>The MINISTER OF AGRICULTURE:</from>
+
+<ol><li>(1) The last consignment of. Ayrshire cattle from Great Britain arrived on the 28th November, 1925.</li>
+
+<li>(2) One bull and four heifers.</li>
+
+<li>(3) Yes, a, permit for another consignment has been issued.</li>
+
+<li>(4) As soon as this can be done without risk of introducing foot and mouth disease into South Africa.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Railways: Fares for American Tourists.</heading>
+
+<question by="#giovanetti" to="#minister_of_railways_and_harbours">
+
+<num>XII.</num>
+
+<from>Mr. GIOVANETTI</from>
+
+<p>asked the Minister of Railways and Harbours:</p>
+
+<ol><li>(1) What is the average charge per mile over 100 miles of a first-class railway fare (a) single, (b) return;</li>
+
+<li>(2) what is the charge per mile of special reserved accommodation, e.g., compartment for one or two passengers;</li>
+
+<li>(3) what is the charge per mile of special saloon cars with dining, etc., accommodation;</li>
+
+<li>(4) what is the charge per mile for special train first-class accommodation dining car;</li>
+
+<li>(5) what is the cost to the Administration of providing and fitting up the special trains with the additional fitments of bathrooms, etc., for the accommodation of the American tourists;</li>
+
+<li>(6) what additional charges are being made for the special privileges provided in this train, viz., bathroom, observation coaches, apartments reserved for two occupants, etc.;</li>
+
+<li>(7) what profit, if any, the Administration expects to make on the capital cost of providing these extra facilities, in view <span class="col_773-774" refersTo="page_0456"/>of the limited use that is being made of these trains; and</li>
+
+<li>(8) what are the comparative figures of (a) the ordinary fares, i.e., single and return first-class over the distance payable for the number of passengers carried, and (b) the actual amount received by the Administration for the Conveyance of the passengers who left by these special trains on Tuesday, 22nd February?</li></ol>
+
+</question>
+
+<answer by="#minister_of_finance" to="#giovanetti">
+
+<from>The MINISTER OF FINANCE:</from>
+
+<ol><li>(1) 2.28d. per mile ordinary main line first-class single fare. 2.22d. per mile ordinary main line first-class return fare.</li>
+
+<li>(2) Fares vary according to distance, but if a passenger desires the exclusive use of a compartment for a journey exceeding 25 miles, the accommodation is reserved, if available, upon payment of four ordinary first-class fares for an ordinary first-class compartment, or six ordinary second-class fares for an ordinary second-class compartment. Any passengers travelling in excess of the numbers for which accommodation is provided in the compartment must pay ordinary fares.</li>
+
+<li>(3) 3s. per mile, plus 5s. per hour when saloons are detained en route.</li>
+
+<li>(4) Ordinarily passengers must hold tickets of a value which will return to the Administration a minimum per train of 3s. 6d. per mile, subject to a further minimum of £5 per train.</li>
+
+<li>(5) The coaches (including the bathroom accommodation) are overhauled throughout before the trains are made up. Additional fittings are not specially installed for the tourists. The vehicles are drawn from traffic stock and marshalled into special trains for the tours. At the conclusion of the tours, the vehicles are returned to ordinary traffic service.</li>
+
+<li>(6) I would refer the hon. member to my reply to Question (8).</li>
+
+<li>(7) In view of my reply to Question (5), Question (7) falls away.</li>
+
+<li>(8) (a) The ordinary first-class single fare over the South African railways for the distance to be covered by the tourists is £11 0s. 3d. for each passenger. If a return journey were performed over the same route, the first-class return fare would be £I6 16s. 9d. for each passenger. (b) The fare paid by each passenger, viz., £65, is an inclusive fare, covering not only conveyance by rail, but all other services connected with the tour, including hotel accommodation and motor hire.</li>
+
+</ol>
+
+</answer>
+
+</oralStatements>
+
+<oralStatements>
+
+<heading>Influenza.</heading>
+
+<question by="#brits" to="#minister_of_public_health">
+
+<num>XIII.</num>
+
+<from>Mr. BRITS</from>
+
+<p>asked the Minister of Public Health whether, in view of the possibility of an outbreak of influenza occurring in South Africa, the necessary precautionary measures to combat the disease have been or will be taken by his department?</p>
+
+</question>
+
+<answer by="#minister_of_public_health" to="#brits">
+
+<from>The MINISTER OF PUBLIC HEALTH:</from>
+
+<p>Apart from the ports, where the greatest vigilance is being exercised and all practicable measures are being taken by the Government, through its port health staffs, to prevent the introduction of epidemic influenza, the talking of precautionary measures is primarily a matter for local authorities throughout the Union. A warning circular, also indicating general measures for preventing spread and dealing with an outbreak should such occur, has been issued to local authorities and all concerned. The Government is also keeping in touch with influenza developments in Europe, and keeping local authorities and the public in the Union informed.</p>
+
+</answer>
+
+<question by="#brits" to="#minister_of_public_health">
+
+<num>XIV. and XV.</num>
+
+<p>Standing over.</p>
+
+</question>
+
+</oralStatements>
+
+</debateSection>
+
+<debateSection name="#apportionment_of_quitrent_(further_amendment)_bill">
+
+<heading>APPORTIONMENT OF QUITRENT (FURTHER AMENDMENT) BILL.</heading>
+
+<speech by="#roux">
+
+<from>*Mr. <person refersTo="hansard_za">ROUX</person>:</from>
+
+<p>I move as an unopposed motion&#x2014;</p>
+
+<block name="quote">That Order No. II for to-day&#x2014;Second Reading, Apportionment of Quitrent (Further Amendment) Bill&#x2014;-be discharged and that the subject of the Bill be referred to a Select Committee for enquiry and report, the Committee to have power to take evidence and call for papers.</block>
+
+<p>The Minister of Finance is sympathetic towards the Bill, but has so many amendments that I think it is better first of all to refer it to Select Committee.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>Mr. <person refersTo="hansard_za">LE ROUX</person>:</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<p>Agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#companies_(workers&#x2019;_shares)_bill">
+
+<heading>COMPANIES (WORKERS&#x2019; SHARES) BILL.</heading>
+
+<p>First Order read: Second reading, Companies (Workers&#x2019; Shares) Bill.</p>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>For many years past men engaged in industry and commerce, both employers and workers, have been appalled at the enormous waste of money and effort and the enormous suffering caused by disagreement between employers and employed, and they have sought various means of obviating these dreadful occurrences. There is one phase of opinion, the socialist, which believes that the solution is to be found in doing away with private ownership in property altogether, and nationalizing all production, distribution and exchange. There are others, of whom I am one, who entirely disagree with that view, and who believe that the solution is to be found in inducing the owner and persuading the worker to share in the profits of industry and thereby get rid of many of the causes of their differences. This is not in any way a new solution. It is not a solution that has been thought of in the last few years. The earliest case of which I have any knowledge is in 1791, and curiously, that case was put in force by a Dutchman. In that year, Philip V. of Spain wanted to set up a carpet and tapestry factory in Madrid, which is still in existence under the name of the Royal Carpet Factory, and he sent to Holland for workers, and the man who was sent to Madrid to start the factory was called van der Golten, and from the beginning he had certain profit-sharing <span class="col_775-776" refersTo="page_0457"/>arrangements with his workmen. That is 135 years ago, and to-day that factory is still working and, practically without alteration, that system of profit-sharing is still in force. In the early part of the 19th century, profit-sharing schemes did not attract either the employer or the employee. It was rather a dismal period for the industrial world that first half of the 19th century, but in the latter half of the 19th century and the beginning of the 20th century, the theory of profit-sharing has been gaining advocates every month and every day, so much so that in the journal of the French profit-sharing society in 1924, I notice that there are 442 different cases quoted, giving the particulars and the conditions of the various schemes which they have examined. It gives one an idea of the enormous variety of conditions that are necessary in different businesses, and even between businesses of the same kind, and it requires a volume of very considerable size simply to outline the differing conditions of these 442 cases. For instance, some give an interest or a bonus based on the wages paid, some give a bonus paid on the profits made, while others give a bonus on the business done. Then as regards the allocation of the bonus, a very big number allocate the bonus to some form of benefit fund for the benefit of the workers in the business, others give the bonus directly in cash to the individual, and then there is another form of condition which applies to most of them and that is that the bonus varies in amount according to the number of years&#x2019; service which the worker has put in with the business, that is, it is considered that the value of the man increases with his length of service, and, therefore, the bonus increases in per cent, as the number of years that he serves lengthen. Some, and many French ones, give the bonus to the individual, but on behalf of the individual they pay half of the bonus into what one might call the National Pension Bank, that is, it is handed over to the State and put to the credit of the individual&#x2019;s account in the National Bank and the balance is used in any way that the worker thinks to his advantage. Now it would not be in place here to go through the various forms of conditions that there are, but I would like to give three typical cases which will afford hon. members an idea of the variety of methods which are at present in force and what the results are. Now possibly the one that is known to most members here who have taken an interest in profit-sharing is the South Metropolitan Gas Company in London. That scheme started in 1889, and, as far as my recollection serves me, it started as a result of the difficulties that had previously arisen between the workers and the management. The result has been that, owing to the profit-sharing schemes, there are now practically no differences arising between the workers and the management; in fact, I believe, a short time ago, when there were difficulties between the workers and the managements of the electrical undertakings, the gas companies were the ones that escaped the conflagration and benefited very considerably. Gas companies are very suitable cases for profit-sharing, because they are dealing with one single commodity. In this case practically the consumers, the workers and the shareholders are partners. The profits are devoted as to three-fourths to the consumer, in the way of a bonus on his consumption. Of the balance of profit, that is one-fourth, half goes to the shareholders and half goes to the employees, and there is a condition that each employee has to devote half of his bonus to purchasing shares in the company, so that he is gradually becoming a shareholder in the concern. The most recent date for which I have any figures is 1920. I notice that at that time there were 5,400 employees who held £425,000 nominal value in the share capital of the company.</p>
+
+</speech>
+
+<speech by="#pearce">
+
+<from>Mr. <person refersTo="hansard_za">PEARCE</person>:</from>
+
+<p>What was the capital?</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I cannot give you the amount. It is a very considerable capital, running into a few millions. In addition to this holding of shares, the employees have £70,000 in various forms of deposit in the books of the company, that is, thrift deposits, etc. From 1889 to 1917 the company had distributed in dividends to its employees £771,804. I would like to take an entirely different class of company next. Many of you know of a store called the Bon Marché in Paris. The Bon Marche has a capital of 64,000,000 francs, and nearly all that capital is in the hands of the employees or ex-employees of the company. Of the net profits of this company, 20 per cent, are taken and placed to an employees&#x2019; thrift fund, and this money is distributed amongst the individual members of the thrift fund. In this case, as in most French cases, half of the bonus is put into the National Pension Bank of France, so that it is entirely out of the business, and stands to the credit of the individuals in the national books of the State. On the balance of his money, which stands in the thrift fund, the individual is paid interest at the rate of 4 per cent, per annum. The result of this is that in 1922 there were 4,251 participants, and they held thrift certificates to the value of 8,877,590 francs. Now I will go to another country to see what is being done over there. I will go to America and take the figures of Sears, Roebuck &amp; Co., who are a dry goods house in Chicago. That company allocates 5 per cent, of its net profits to a bonus and thrift fund, and employees have the right of contributing to the extent of 5 per cent, of their remuneration to the thrift fund. That is a case in which the employees contribute some actual cash. In the other two no cash is contributed by the employee at all. In the Chicago case the employee is allowed to contribute up to 5 per cent, of his remuneration to the fund, and the fund gets 5 per cent, of the net profit of the whole business. That fund has not been in force very long, but I notice that in 1917, in one year alone, the amount allocated to the thrift fund was $905.484, approaching £200,000. The allocation of the company amounted roughly to 3 dollars <span class="col_777-778" refersTo="page_0458"/>subscribed by the company for every dollar subscribed by the employee.</p>
+
+</speech>
+
+<speech by="#pearce">
+
+<from>Mr. <person refersTo="hansard_za">PEARCE</person>:</from>
+
+<p>Then if you dismiss the employee after 20 years, what does he get?</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I will give the hon. member all the information he wants. I have got volumes of it, and he can take all these schemes and see the various forms. As a rule, after 20 years&#x2019; service, the man gets paid out in full. In the case of death, even when he has served a good deal less than 20 years, his estate is generally paid out in full. That is the general trend of all these conditions. I just give these as three typical instances of the very large proportions to which profit-sharing has gone in what one might say are the three principal countries of the world. Since the war certain countries have passed legislation in the hope of inducing companies and their workers to form some kind of partnership, so as to obviate the difficulties that are constantly arising; and in 1917 the French Government passed a workers&#x2019; Act. In 1920 the canton of Geneva passed a workers&#x2019; Act, and, in 1924, New Zealand passed a law for the same object. During the last four or five years three Bills have been presented to the House of Commons, but not one of them has reached the statute book. They were drafted indifferently; there were many objections to them, and only one of them even reached second reading, when it was talked out. All these Acts that are at present in force are all permissive Acts; they are not obligatory Acts. Unfortunately, the efforts of legislation in this matter have proved futile, probably because the framers of that legislation have tried to set down certain defined conditions for any profit-sharing scheme, and, as I pointed out, the conditions are so varying in varying businesses that it is impossible to work under an Act if certain conditions are laid down which makes either the worker or the employer refuse to work under that Act. In many Acts I notice there are inducements held out to the employer to start these schemes, generally in the form of giving him a rebate in taxation of some kind. In the French Act the shares are not subject to stamp duty, and in the Geneva Act, for a period of ten years, the dividends on workers&#x2019; shares are not subject to income tax. The last of the English Bills went further still, and if that Bill had gone through, any companies establishing workers&#x2019; schemes would have had a rebate of something like 25 per cent, on their total income tax. So that gives you an idea of the importance which the promoters of these bills attach to urging companies and workers to adopt some form of profit-sharing. The chief cause of the want of success of the Acts has been that they nearly all have some clause insisting that the workers should have some part in the management of the company. There are very grave objections to that, and it is those objections that have prevented these Acts from having been used to any considerable extent. The shareholder, one must remember, is the man who has put the whole of the money up; it is his own private property, and while he may be willing and, in many cases, is willing to give the workers a share in the profits, he is not prepared to allow the workers or anyone else to have any say in what shall be done with his own private property. The shareholder&#x2019;s main concern is that his capital shall remain intact; that it is not risked unduly, and that he shall have a reasonable expectation of being able to get it back any time he requires it. On the other hand, we must recognize that in the case of the worker his main object would be to get the utmost dividend possible in the shortest time possible, so that his inclination would be to take undue risks with the other man&#x2019;s capital. For instance, he would object to the amounts which are put aside for depreciation and necessary reserves in many businesses, so that in times of distress and depression the business can weather the storm. His interest in that respect would not be the same as the shareholder&#x2019;s. My Bill in no way prevents the shareholders, when they frame a scheme for providing if they like for the workers to have an interest in the management. I leave that matter entirely for the worker and the employer to decide themselves. In the Metropolitan Gas Company and in the Bon Marché in Paris the shareholders decided to take their employees into partnership both as to profits and as to management. If a company can do that, and if it is to the mutual interest to do it, then it is a very fine scheme. It does away with one more source of disagreement, but where companies are prepared to share their profits we do not want to prevent them adopting schemes simply because there is a statutory provision as to management. I should like to say one thing very clearly, and that is that this scheme is not a sentimental scheme. As far as I am concerned, and I think most others interested in these schemes, it is a question of cold common sense. It is not a charitable scheme in any way. Unless the shareholder is satisfied that it is to his advantage, and the worker is similarly satisfied, then no scheme can be of any success, and that has been the great obstacle in getting these schemes adopted, because, as a rule, the shareholder has been very chary of coming to any arrangement with his workers as regards the sharing of profits. On the other hand the worker, if I may say so, not in a nasty sense, has been suspicious of the shareholder, because he thinks the shareholder has some very deep design on the whole of his industrial organization. Until we have cleared away what I may call the smoke-screen of suspicion, we shall not get very far in profit-sharing arrangements. The first thing we have to make perfectly clear to the employer is that it is to his advantage to share a portion of his profits with the workers, and we have to make it quite clear to the worker that his standard rates of pay, conditions of labour, and all such matters are not affected in any way by the operation of this scheme. Now I would like to refer shortly to the Bill. Clause 1, of course, simply enables a company to adopt a profit-sharing scheme by the alteration of its memorandum. Clause 2 permits a company to arrange a value for its workers&#x2019; shares, and it also permits the shares to be allotted either to individuals or to trustees on behalf of the workers. I may say that in the French Act <span class="col_779-780" refersTo="page_0459"/>and the Swiss Act workers&#x2019; shares can only be allotted to a co-operative society of the workers, but I think a provision that shares should be allotted to individuals is quite a fair one. In Clause 3 there is a condition that the value of shares can be repaid in cash or in capital shares of the company. My attention has been called to this clause, and I think it is a very fair amendment of the clause to say they can only be repaid in capital shares with the consent of the worker. It should be a matter of mutual consent as to the form by which they finally settled for. Clause 5 makes the dividend on the shares and the workers&#x2019; shares inalienable. Hon. members will understand that, unless a company has a definite assurance that the worker is going to retain the shares and the value in the shares, it would be impossible to get them to adopt the scheme. On the other hand, it is in the interests of the worker that he should not be able to borrow money or in any way alienate his shares as long as he is in the employ of the company which has issued them. Clause 9, you will see, lays it down quite definitely that the dividend on the workers&#x2019; shares shall not be regarded as forming part of his wages or remuneration. That is one of the most essential points of any profit-sharing scheme, that it shall not in any way affect standard rates of pay. It is entirely in addition to, and not a part of, workers&#x2019; remuneration. The essentials of success of a profit-sharing scheme, I believe, are that it must be voluntary both on the employers&#x2019; side and" on the workers&#x2019; side. It must develop slowly and be developed on lines gained by experience, and it must be economically sound, that is, it must be to the advantage of the worker, and it must be to the advantage of the employer, and it must be allowed to develop without restraint, and, therefore, any legal enactment should be drawn in the very widest terms. I believe if we follow these principles, this profit-sharing Bill and profit-sharing schemes, as a whole, will in future play a very important part in the organization of business and in solving amicably the many difficulties which arise between the employer and the worker.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I cannot see in what way a Bill of this kind is necessary. There is not the faintest need for a Bill of this nature. It is obvious that an employer can share his profits with his employees. The first thing I would like to have heard is whether there are so many instances where employers are profit-sharing to-day that it is necessary to deal with this by legislation. I would like to see that profit-sharing spirit grow up to a certain extent before we start to regulate it. After all, the whole point of the Bill is contained in Sections 2 and 3. These workers&#x2019; shares are shares that fall entirely outside the Companies Act, and there is no point whatever in saying that a company which issues workers&#x2019; shares has to be an incorporated company. Every employer should be allowed to issue these shares. There is no virtue in the name &#x201C;shares the word &#x201C;share&#x201D; is not employed in terms of the Companies Act. It is a some what cumbrous device for the workers to get a share in the profits, and it is unnecessary, because the employer at present can allow the worker to have a share in the profits. There is no necessity for this Bill. All I can understand from the Bill is that the employee is more-satisfied if he gets a bit of paper properly embossed and sealed, and because of that possession of a bit of paper he may be allowed to remain longer in the company&#x2019;s employ. I would like to know exactly how workers&#x2019; shares are entitled to a share in the profits made by the employer. If the memorandum fixes that you get 25 per cent, of the profits or up to 25 per cent., you will have to leave a large margin, because unless a large margin is left I cannot imagine a company for all time giving: 25 per cent, of the profits to workers&#x2019; shares. That proportion can never be fixed. If it says you can give from 1 per cent, to 25 per cent, of the profits that fixing is valueless, and your may just as well allow the private employer to say &#x201C;from year to year.&#x201D; I imagine the position of every private company would change from year to year, and the amount would also change, which would be available for profit-sharing. It is a clumsy attempt to give a person the right to do something he already has the right to do. With regard to Section 9&#x2014; that a dividend granted on a worker&#x2019;s share shall not be regarded as forming part of a worker&#x2019;s wages or remuneration&#x2014;in every case where there is a bona fide device for sharing profits that would not be part of the remuneration. As to Section 5&#x2014;if any such dividend is not subject to execution, that also is a wrong provision. What reason is there, when an employee has made an arrangement with the employer for a portion of the profits, that that particular device should be protected from execution? It is ordinary income he earns. It is a very dangerous doctrine to extend that to cover all kinds of cases; therefore, if my hon. friend (Mr. Stuttaford) says this is an important clause I join issue with him. I say it is an unwise clause I understand what my hon. friend is aiming at, but I say he can obtain all that without this Bill. Assuming a business man makes 50 per cent, on his capital, there is nothing to prevent his saving that, in proportion to the salaries earned by his workers, he is setting 10 per cent aside to his employees. In what way does this Bill carry it a step further? We are simply putting on the statute-book, if we pass this Bill, something for which there is no justification and which is useless. There is a good deal of grandiloquent language, making the worker think he is getting a good thing, and he is not getting anything beyond ordinary profit-sharing. I do not think, for a moment, that my hon. friend is attempting to make the worker believe he is getting something he would otherwise not get.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>I think the hon. member for Newlands (Mr. Stuttaford) will accept my assurance that I would be very disappointed with myself if, as the result of what I said, the workers would be denied anything in the shape of a benefit, I have given a good deal of deep thought to this Bill as a trade unionist <span class="col_781-782" refersTo="page_0460"/>and worker, and have listened carefully to the arguments which have fallen from the hon. member, and a good many of his sentiments I share. I am sure they are shared by the great majority of workers, but I am sorry to say I cannot support this Bill. The hon. member is in no way to blame, but I cannot conceive of a more inopportune time for dealing with the principle of this Bill than the present. It is unfortunate that in carrying out the resolutions of past conferences, trade union officials are engaged at the present time in the unpleasant task of &#x201C;smelling out&#x201D; with regard to the holdings of shares of their members in industrial concerns. I mention this to show that already the holding of shares in industrial concerns is leading to discontent, dissatisfaction and suspicion, and things of that sort, among trade unionists. We have adopted in this Parliament, as a policy for securing industrial peace, firstly the recognition and encouragement of labour unions, and the setting up of joint councils of employers and employees. Secondly, we have been great advocates, and still are, of collective bargaining, and we also believe in the policy of voluntary agreements, which is expressed in our laws, and to which we have already given the force of law, as also the extension of such industrial agreements that have been made by these joint bodies, where the bodies making them are sufficiently representative, to other persons. The experience of the last few years proves that it is a wise policy and efficacious. Seeing that the conditions of workmen depend more and more on collective bargaining in securing better and just conditions for both sides, I can conceive only one thing that will destroy the efficacy of that, and that is to introduce dissension, distrust and differentiation in treatment among the contracting parties. The workers have everything to lose and nothing to gain from the introduction of anything that will divide their interests, and I cannot see anything that will more easily divide their interests than the favouritism which will arise from the provisions of this Bill. It is not proposed to give to all workmen equally certain rewards for their services, but it is left to the boards of directors to decide who are and who are not to be rewarded. Anyone who understands the psychology of the workshop will be able to see and understand at once that if you want to cause trouble there, just pick out a few men for favour and promotion, and deny it to the rest, and you will have the whole lot falling out like a lot of snarling dogs against each other. By creating such diverse interests, you will destroy any possibility of collective bargaining. I am sure employers would equally resent any differential treatment of themselves by the labour unions. Supposing a union thought that one employer was more kindly disposed towards his workmen than the others, and it therefore endeavoured to use its machinery to obtain its most skilled workmen for that employer, it would lead to dissensions inside the employers&#x2019; organization, and the consequence would be that Collective bargaining on their side would be stopped. The only way to make it a success is to have no favouritism and no differentiation, and to secure as far as possible equal conditions. Many employers pay to some of their workmen more than the minimum scale of wages laid down in agreements, but it is obvious to everyone employed in the workshop that the recipients are worth their extra pay. I agree with the hon. member that in the development of modern methods of industry, seeds of unrest have been sown because workmen are becoming more and more automata&#x2014;more like soldiers in a regiment&#x2014;and have no further interest in their craft than to work the agreed hours at some specialized branch of their trade, and to draw their wages. The old interest in craftsmanship, however, still lingers in the hearts of many workmen. This has led to the demand on the part of workmen for a greater share in the control of industry. The hon. member seeks to solve that problem by dishing out a few bonus shares, thinking that the aspirations of the workmen will be satisfied by giving them a few shillings more per week, or a few pounds more per annum, in the form of dividends. The aspirations to which I have referred, however, do not spring from a desire for more wages, but from an interest in craftsmanship, and they will not be satisfied merely by additional pay. That problem cannot be solved by Parliament. I suggest that we should leave its solution to the trade unions and the employers. We have set up machinery in the shape of joint industrial councils to deal with hours, wages and general conditions. These industrial councils are trying to ascertain how these aspirations of the workers can be best met, and if these councils are left alone they will work out their own salvation. But I am sure that one of the conditions of any scheme they evolve will be that all who have an equal claim shall receive an equal reward, and that there shall be no favouritism. This will meet the case put forward by the hon. member better than this Bill. It hurts me a great deal to oppose a measure purporting to be in the interests of the workers. Even if we follow the Swiss scheme, you will find that friction arises through differentiation in treatment. In Switzerland it is difficult to get employers to discuss matters with their employees, and I should regret starting anything which would lead to the disintegration of employees&#x2019; associations, as that would be against the policy of collective bargaining. I ask the hon. member (Mr. Stuttaford) to withdraw the Bill, as I cannot see what possible good it is going to do. It will cause disappointment and unpleasantness. It purports to give an employee a share in the concern in which he is employed, but the employee&#x2019;s interest in those shares must cease when he leaves the concern or when he dies. They are never at any time the absolute property of the employee. The shares cannot be left to the man&#x2019;s widow or children, although he might have worked for the company all his life. Shares like those will not satisfy the workers. The hon. member says he proposes to alter that, but I am criticizing the Bill as it stands. It does not matter how he patches it up, it will sew the seeds of discontent, <span class="col_783-784" refersTo="page_0461"/>mistrust and suspicion in the minds of the workers, and the consequence will be that Collective bargaining will be broken down.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">DUNCAN</person>:</from>
+
+<p>I am sorry the Minister of Justice has taken such an unsympathetic view of this little Bill. It seems to me that he did not give to it that careful consideration which I had hoped he would, because he told us he could see no use in this Bill at all; that it was absolutely unnecessary, and only made provision for something that any employer could do if he chose. Of course, an employer can vote a share of his profits to his employees by way of a bonus. But the object of the Bill is to give the worker some definite right to a share in the profits, and not a mere expectation that at the end of the year he will get a bonus. I do not see how you can do that, except in the case of private individuals by making the workers partners, or in the case of companies by giving them a right to certain shares. The Minister says why bring in a Bill for that, because any company that chooses can give shares to its workers without having legislation to authorize it? That, no doubt, is so, and it is done in South Africa now; certain shares being given to workers according to their length of service, the distribution being worked by means of a trust. It is because that method has proved unsatisfactory, that legislation of this kind has been introduced. Very often it means that the trust which divides the shares among the workers has to go into the market and buy shares at a very high price, so to speak, against themselves, or it may be that they cannot find any shares to buy at all. That is one of the difficulties which the Bill has been introduced to overcome. It creates a different class of share altogether. I agree with the Minister that they are not really shares, but certificates entitling the workers to a certain share of the profits. These particular documents however, will be legally recognized, and will give the workers a right to the amount specified; they are not marketable, so the price should not be forced up against the worker. The object of this Bill is to authorize the company to say that a certain percentage of its profits shall be set aside for the benefit of the employee, and to issue certificates stating the amount of profits which me holder will be entitled to. It is because this cannot be done effectively and easily that this Bill has been found to be necessary. Therefore, you cannot dismiss the Bill by saying that it is wholly unnecessary. The hon. member for Jeppes (Mr. Sampson) attacked the Bill as being likely to be detrimental to workers&#x2019; organizations. As far as I am concerned, I would not support it if I thought that that would be its effect, and I do not think my hon. friend (Mr. Stuttaford) would have introduced it if he thought that would be the effect. I believe the future of industry lies in co-operation between the workers and the employer. I join issue with the hon. member when he says that a Bill such as this is likely to destroy the trade unions. He spoke as if the Bill were intended merely to enable employers to what he describes as &#x201C;dish out&#x201D; shares arbitrarily without any principle to any particular workers. I cannot understand that being the object of the Bill at all. The principle on which the so-called shares will be given out will be fixed in a definite way, either on length of service or some other way which will exclude favouritism. The Bill does not imply that, and will not be worked that way, and I do not see why it should introduce an element of suspicion or jealousy between the workers. I would suggest to the hon. member for Jeppe (Mr. Sampson) that perhaps those who take up that point of view are taking a narrow view of the function of trade unionism. Trade unionism has a long history, and by stress of circumstances for which they were not responsible, they have been forced into a definite line of action by organizing as a fighting force, and they are not responsible for the fact that their ideal of organization is the ideal of a fighting force, to strike as hard as possible when the weapon has to be used. They have organized that method to such an extent that they are in danger of losing sight of the new conditions which have sprung up when that organization is not going to do the best for them. In organizing themselves as a striking force, they have overlooked the fact that the best outlook now is not the exercise of the strike weapon, but the power they have for co-operation. They should not deal as an opposing force of employers, but should make it their concern that the interests of both sides are safeguarded as effectively as possible. This question of profit-sharing and piece-work, built up as a tradition of the trade unions, owes a great deal to the circumstances in which they had their origin, and to-day have lost a great deal in the changed conditions. There is a good deal in what the hon. member says about the formation of national councils. I do not see why a scheme such as this is going to stand in the way of development, a scheme which enables employers in certain conditions to give the workers a share of their profits, I do not see how that is going to stand in the way of the aspirations the hon. member spoke about. It should not stand in the way of the exercise by trade unions of co-operation, and not merely the organizing of themselves as a fighting machine. I know the hon. member is voicing the traditional attitude of the trade union movement, but it is with an eye on the history of the past, rather than on the possibilities of the future. I commend to him for earnest consideration whether he is not unnecessarily putting an obstacle in the way of a development calculated to be for the good of the employers and the employees. This Bill does not compel employers to do this, but it assists them to give the workers a benefit with a greater facility, and I hope the House will allow the Bill to go through and give it a chance in operation.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>The hon. speaker will agree that we should not burden the statute book with legislation which is not going to carry out anything useful, or anything which could be done without legislation. <span class="col_785-786" refersTo="page_0462"/>We have too many Acts of Parliament already, and this will only be another Act which will not do the good the mover thinks, and which will not achieve the thing the mover has in view. I waited for the last speaker to develop the argument that this Bill, if passed, would give the workers some right in the firm which they could not have at present under the profit-sharing scheme. He said the profit-sharing schemes in the past had caused dissatisfaction because people had not had a specific right. If the mover entered into a scheme with his large number of employees, and had an agreement entitling them to a share of the profits made, under the circumstances they would have a right at law to get those shares under such agreement. I have gone into the Bill very carefully and I have been informed by the authorities and the legal advisers that this Bill does nothing and gives no right which cannot be obtained at present by any arrangement entered into by companies with their employees. Is there anything in the Bill which will give a company the means of doing something they cannot do at present? The registrar of companies and the legal advisers say there is nothing in the Bill which gives them any right they have not got at present. Why then add this unnecessary legislation to the statute book? I notice the Bill is framed on the New Zealand Act. It is almost word for word a copy of the New Zealand legislation. The hon. member referred to the legislation of New Zealand, America, France and Switzerland, and he said that the reason that legislation had failed was that they had tried to lay down rigid conditions by law which ought to have been left to the firm and the employees. Then I ask how it is, the very last word in this matter,&#x2014;the Act for New Zealand brought in in 1924,&#x2014;lays down specifically in sub-section 3, (D) and (E), that the employees will be entitled to all the rights and privileges of shareholders. They can attend shareholders&#x2019; meetings and participate in any assets if the company is wound up. That clause was carefully omitted in this Bill. They cannot sell the shares, which are controlled subject to the articles of association and memorandum of the company. It specifically says the holder of the shares shall be entitled to these privileges.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I gave you my reason for it.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>I did not hear you mention it; you said the fault was that other countries tried to lay down too rigidly what should be done, and that was why it failed. We have written to New Zealand to find how far the Act had succeeded in its object. It is only two years ago since it was passed, and there has not been much time to try it. There was another important point in the New Zealand Act: Section 4, carefully left out of this Bill, which says that no scheme under that Act shall be brought into force without being first submitted to the Industrial Arbitration Court, the equivalent to our Wages Board here, and they must satisfy themselves that the scheme is in the interests of the general body of workers in the industry. The hon. member for Newlands (Mr. Stuttaford) has left two of the most important clauses of that Act out,&#x2014;the very substance of the New Zealand Act,&#x2014;namely, that those who hold workers&#x2019; shares should be entitled to participate in the affairs of the company and have the privileges of ordinary shareholders, and secondly that no scheme should be passed unless it was submitted to the Arbitration Court and certified to be to the benefit of the general body of workers in the industry. If the hon. member had wanted to make a good job of it and do it properly and handsomely, he would have embodied those two important safeguards, but they are cut right out. The last speaker mentioned that the hon. member for Jeppe (Mr. Sampson) was rather inclined to accept the traditional fighting policy of trade unionism in the past rather than the influence for good in the future on the lines of co-operation between employer and employee, in the interests of industry. The possibility of industrial peace and social and economic progress does not lie along the lines of this Bill. It lies along the lines of National Joint Councils which the late Government provided by means of the Industrial Conciliation Act in 1924. I take that point, because there seems to be something in it. If we want industrial peace and progress, and to make employers and employees realize they must pull together in the best interests of the industry, this Bill, as my friend pointed out, will not give it, but will cause conflict in the industry. We have the legislative machinery in South Africa but that machinery has got to be sympathetically administered. We have already got good legislation and with sympathetic administration it is producing a better feeling, greater goodwill and a better understanding between employers and employees. We are departing from that spirit which was referred to by the hon. member for Jeppe (Mr. Sampson), the traditional fighting spirit of always being in conflict and each fighting for its own side without due appreciation of the difficulties of both. In this country a number of industrial councils have been set up. They started off to regulate the conditions of employment&#x2014;the hours of labour, the wages to be paid, and the general conditions of employment&#x2014;and in the course of their deliberations and negotiations the difficulties which the industry itself was confronted with were laid on the table and discussed freely and openly by the employers on the one side and the employees on the other. The employees then had a better appreciation of the difficulties of the employers and vice versa. And what is happening? We find that the two together are combining for the purpose of trying to do something which will promote the interests of the industry as a whole. We have no better case than the printing industry, where the employers and the employees have got past the wage stage, as it were, and now they are saying&#x2014;</p>
+
+<block name="quote">What can we do to benefit our industry.</block>
+
+</speech>
+
+<speech by="#jagger">
+
+<from><span class="col_787-788" refersTo="page_0463"/>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>And take it out of the public.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>No one takes more out of the public than my hon. friend there. Everybody in business takes something out of the public. It is just a question of what is right, what is just and what is equitable. It is a matter for discussion and laying your cards on the table with a full appreciation of the difficulties of both sides. The lines of industrial peace and social and economic progress do not lie along the lines of legislation of this kind, but along the lines of joint councils which we have already in South Africa and which are proving successful, in spite of what may be said to the contrary by my hon. friend over there.</p>
+
+</speech>
+
+<speech by="#robinson">
+
+<from>Mr. <person refersTo="hansard_za">ROBINSON</person>:</from>
+
+<p>Why can&#x2019;t you have both?</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>Both are not necessary. If the hon. member had been in the House when I made my opening remarks, he would not have asked that question. While giving the hon. member for Newlands (Mr. Stuttaford) credit for his good intentions, I think he would be well advised, if he wants industrial peace and progress in South Africa, to leave it to the machinery which the late Government passed, and which we are now administering. If he wants his employees or the employees of any other firm in South Africa to participate either in the management or the profits, there is nothing whatever to stop him from making arrangements with his employees, and they will have as many rights, and the rights will be just as strictly enforced under any agreement which he makes with them as they possibly could be under a Bill of this kind. We have in South Africa already a number of firms which have arrangements like this. There is one firm which has an endowment trust fund, and which sets aside, out of its profits, a certain share&#x2014;say, if it makes £100,000 a year profit, a certain amount of that as shares on behalf of its employees to be divided out amongst them in a certain ratio according to length of service or rate of wages, and each year that endowment fund is built up definitely out of profits. This Bill does not propose to take anything out of profits. It proposes to create paper shares and give these to the employees.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>Out of the profits.</p>
+
+</speech>
+
+<speech by="#minister_of_labour">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LABOUR</person>:</from>
+
+<p>No, besides. It all depends whether they earn any profits or not. Under this Bill you start off with nothing. There is nothing whatever to stop any firm in South Africa from embarking on a profit-sharing scheme. In older countries that is being done successfully. The hon. member (Mr. Stuttaford) himself pointed out that Great Britain has not legislation dealing with this question, and then he quoted a large number of profit-sharing schemes which have been in force in Great Britain for many years. I cannot compliment the hon. member, in spite of his good intentions, on the way in which he has handled the whole question. Either he should have come forward with a decent Bill, and done the whole thing properly, or he should have said&#x2014;</p>
+
+<block name="quote">I am not going to put unnecessary legislation on the statute book; I am going to start with my own concerns and set an example to the employers of South Africa.</block>
+
+<p>For the reason stated, I think the hon. member would be well advised to drop the Bill.</p>
+
+</speech>
+
+<speech by="#oost">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">OOST</person>:</from>
+
+<p>The announcement of this Bill aroused much sympathy in me, because I thought that the House would have an opportunity of passing legislation in the direction suggested by the hon. member for Yeoville (Mr. Duncan), sound legislation for creating a spirit of co-operation between principals and employees in business places. If a Bill of that kind were introduced, the whole House would support it. But what is the case? The hon. member for Yeoville said that the Bill is intended to do justice to the workers, but the privileges they are getting seem to me worse than the granting of bonuses under existing practice. It is a fact that, particularly after the world war&#x2014;and more so in Europe than here&#x2014;a tendency existed, especially among the working class, to slack or to do as little work as possible. Therefore, I should have welcomed legislation such as I expected the hon. member to introduce. I think the necessary improvement can only be attained if an organization is created, if necessary by legislation, to enable workers not to have a few sham shares only, but to have a share in all the operations of a business and even in the management. Then every worker will take more interest in it and will work with heart and soul. I was disappointed because the Bill did not aim at that. This Bill will lead to nothing; nothing will be attained by it that we have not to-day. I think the existing system is better than that proposed, and I hope the hon. member will withdraw the Bill and next year introduce one which will realize the ideal as expressed by the hon. member for Yeoville, and which we could support.</p>
+
+</speech>
+
+<speech by="#stuttaford">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">STUTTAFORD</person>:</from>
+
+<p>I should just like to make a few remarks regarding the objections put forward to this Bill. The hon. member for Jeppe (Mr. Sampson.) was very certain that the holding of shares in a company by an employee always led to discontent. Well, I must say my experience has been the opposite. I think he must recognize that the enormous progress made in America, for instance, has been to a great extent caused by the co-operation between the worker and the employer. The reason of America&#x2019;s great progress, and particularly the worker&#x2019;s progress, has been the feeling by American labour that they can only get more remuneration by a bigger output, and they have co-operated with their employer in order to attain a bigger output and thereby get a bigger remuneration. They are satisfied that the interests of the worker and of the employer are identical, and in that way they have got into their very favourable position. Then there is the complaint that this Bill would lead to favouritism. It is the first time I have heard <span class="col_789-790" refersTo="page_0464"/>that reason given as an objection to profit-sharing. The hon. member seems to think that the interests of any individual worker would be judged at a given moment by a manager or employer, and if it were an unsuitable moment the man would get very little, and if it were a suitable moment he would get more than he deserved. It is quite evident that any scheme must be put down in black and white, and the rights of each individual worker will be clearly shown in the scheme. There could not be any favouritism. Each individual worker would be entitled to get his number of shares, either based on his years of service or the amount of his remuneration, or a combination of both. Another objection was that it is going to destroy collective bargaining. I am entirely at one with the hon. member for Yeoville (Mr. Duncan) in my belief that the development of collective bargaining has been a most valuable instrument to prevent war between employers and workers. I believe those industries that are properly organized and in which collective bargaining is carried to its extreme are those in which peace is most likely to prevail. But I do not see how anyone can say that profit-sharing is going to harm it. The worker is not going to be satisfied with bad wages and bad conditions of labour simply because he has an interest apart from his remuneration. He is not going to be prevented on that account from taking up the most stringent attitude with regard to his wages and the conditions of his labour, whether there is a profit-sharing scheme or not. I should like to refer to some of the remarks made by the Minister of Labour. He suggests that any employer can now enter into any agreement that he likes with his employees. He is quite right, but the method by which it has to be done may be very cumbersome. To suggest that a firm with two or three thousand employees can enter into an individual agreement with its employees is not the same as man having the legal right under the articles of association of the company. He particularly mentioned that I had left out certain clauses that are in the New Zealand Act. Well, I may say that some similar clauses are in the other Acts, and I gave the House my reasons for leaving them out. The principal argument he made was that under the New Zealand Act the workers have a right to participate in the management, and I pointed out that the Swiss Act and the French Act have failed, because they give certain rights of that kind. I predict that the New Zealand Act will fail for the same reason. There is no basic reason why the worker should participate in the management. The worker, to a great extent, is in the position of a mortgage holder in the business. His remuneration is the first charge on the business. The shareholder has to stand for the losses; therefore, the shareholder is the only one who has the right to interfere in the management of his own property. To those of us who believe in the rights of private ownership that seems to be a basic principle, that a man has the right to deal with what belongs to him, and no one else has the right to interfere. As I pointed out, as the worker does not share in the losses under a profit sharing scheme, it would be very unjust for him to push up the amount divisible and jeopardize the property of the shareholders. If you put such a provision in a permissive Bill it simply means that no companies will adopt it, and this has been the result in France, and I believe in Switzerland. As regards New Zealand, the Bill has not been enforced for a sufficient time to allow us to judge of the results, but I believe the Bill will be unsuccessful for that reason. Therefore, it is perfectly natural that I should leave it out in my Bill. As regards the contention of the Minister of Justice that the Bill is not necessary, and that the share certificate is a piece of paper, all share certificates are pieces of paper, but I might mention to him that they are of varying values. There is all the difference between a piece of paper which gives you an interest in one of the big valuable diamond mines of this country and a piece of paper which gives you an interest in a defunct industrial concern, and where workers are concerned there is a value in a man having a document which gives him a right under the regulations under which the company is formed, to hold shares in the books of the company. The other objection of the Minister of Justice was to Clause 5, making all workers&#x2019; shares unassignable. I mentioned in my speech that the reason for issuing workers&#x2019; shares is that your workers should have an interest in the profits and prosperity of a company. If workers, immediately they get them, have the right to sell the interest in those shares to someone else, there cannot be any object whatever in issuing workers&#x2019; shares. Therefore, I do not think anybody can object to Clause 5 as drafted, and I hope the House will adopt my view on the matter, and accept the Bill.</p>
+
+<p>Motion put and Mr. Oost called for a division,</p>
+
+<p>Upon which the House divided:</p>
+
+<p>Ayes&#x2014;37.</p>
+
+<p>Anderson, H. E. K.</p>
+
+<p>Ballantine, R.</p>
+
+<p>Bates, F. T.</p>
+
+<p>Brown, D. M.</p>
+
+<p>Byron, J. J.</p>
+
+<p>Chaplin, F. D. P.</p>
+
+<p>Deane, W. A.</p>
+
+<p>Duncan, P.</p>
+
+<p>Geldenhuys, L.</p>
+
+<p>Gilson, L. D.</p>
+
+<p>Giovanetti, C. W.</p>
+
+<p>Grobler, H. S.</p>
+
+<p>Heatlie, C. B.</p>
+
+<p>Henderson, J.</p>
+
+<p>Jagger, J. W.</p>
+
+<p>Lennox, F. J.</p>
+
+<p>Marwick, J. S.</p>
+
+<p>Moffat, L.</p>
+
+<p>Nathan, E.</p>
+
+<p>Nicholls, G. H.</p>
+
+<p>Nieuwenhuize, J.</p>
+
+<p>O.Brien, W. J.</p>
+
+<p>Papenfus, H. B.</p>
+
+<p>Payn, A. O. B.</p>
+
+<p>Pretorius, N. J.</p>
+
+<p>Rider, W. W.</p>
+
+<p>Rockey, W.</p>
+
+<p>Roux, J. W. J. W.</p>
+
+<p>Sephton, C. A. A.</p>
+
+<p>Smartt, T. W.</p>
+
+<p>Smuts, J. C.</p>
+
+<p>Stuttaford, R.</p>
+
+<p>Van Heerden, G. C.</p>
+
+<p>Van Zyl, G. B.</p>
+
+<p>Watt, T.</p>
+
+<p>Tellers: De Jager, A. L.; Robinson, C. P.</p>
+
+<p>Noes&#x2014;51.</p>
+
+<p>Allen, J.</p>
+
+<p>Basson, P. N.</p>
+
+<p>Bergh, P. A.</p>
+
+<p>Boshoff, L. J.</p>
+
+<p>Boydell, T.</p>
+
+<p>Brown, G.</p>
+
+<p>Christie, J.</p>
+
+<p>Cilliers, A. A.</p>
+
+<p>Conradie, D. G.</p>
+
+<p>Conradie, J. H.</p>
+
+<p><span class="col_791-792" refersTo="page_0465"/>De Villiers, A. I. E.</p>
+
+<p>De Villiers, W. B.</p>
+
+<p>De Waal, J. H. H.</p>
+
+<p>De Wet, S. D.</p>
+
+<p>Fick, M. L.</p>
+
+<p>Fordham. A. C.</p>
+
+<p>Hay, G. A.</p>
+
+<p>Heyns, J. D.</p>
+
+<p>Kentridge, M.</p>
+
+<p>Keyter, J. G.</p>
+
+<p>Le Roux, S. P.</p>
+
+<p>Madeley, W. B.</p>
+
+<p>Malan, C. W.</p>
+
+<p>Moll. H. H.</p>
+
+<p>Mullineux, J.</p>
+
+<p>Munnik, J. H.</p>
+
+<p>Naudé, A. S.</p>
+
+<p>Naudé, J. F. T.</p>
+
+<p>Oost, H.</p>
+
+<p>Pienaar, J. J.</p>
+
+<p>Pirow, O.</p>
+
+<p>Raubenheimer, I. van W.</p>
+
+<p>Reitz, H.</p>
+
+<p>Reyburn, G.</p>
+
+<p>Rood, W. H.</p>
+
+<p>Roos, T. J. de V.</p>
+
+<p>Snow, W. J.</p>
+
+<p>Strachan, T. G.</p>
+
+<p>Swart, C. R.</p>
+
+<p>Terreblanche, P. J.</p>
+
+<p>Te Water, C. T.</p>
+
+<p>Van Broekhuizen, H. D.</p>
+
+<p>Van der Merwe, N. J.</p>
+
+<p>Van Heerden, I. P.</p>
+
+<p>Van Niekerk, P. W. le R.</p>
+
+<p>Van Rensburg, J. J.</p>
+
+<p>Van Zyl, J. J. M.</p>
+
+<p>Vosloo, L. J.</p>
+
+<p>Wessels, J. B.</p>
+
+<p>Tellers: Sampson, H. W.; Vermooten, O. S.</p>
+
+<p>Motion accordingly negatived.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#architects_and_quantity_surveyors_(private)_bill">
+
+<heading>ARCHITECTS AND QUANTITY SURVEYORS (PRIVATE) BILL.</heading>
+
+<p>Third Order read: House to go into Committee on the Architects and Quantity Surveyors (Private) Bill.</p>
+
+<p>House in Committee:</p>
+
+<p>On Clause 2,</p>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">In lines 8 to 10, on page 6, to omit the definition of &#x201C;court, The definition is not necessary.</block>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">In line 64. page 4, before &#x201C;architect&#x201D; to insert &#x201C;chartered&#x201D;.</block>
+
+<p>I am entirely in favour of protecting professions, but the position in Natal is very difficult, There is such a person as a marine architect. There is an institution in England known as the Institute of Chartered Architects, some members of which practise in South Africa. As tile sons of South Africa will be known simply as architects and those from overseas will be called chartered architects, the public may imagine that the chartered architect has higher professional attainments than the architect pure and simple. In such an event, South African architects would be placed at a disadvantage, and would have to take second place to architects from overseas.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>I feel the same objection as mentioned by the hon. member for Three Rivers (Mr. D. M: Brown). As I stated at the second reading, the man who has a certificate will be able to be registered under the Bill, whilst the son of South Africa who has no certificate will be excluded. That is my objection. I expressed my views at the second reading, and the hon. member for North-East Rand (Dr. H. Reitz) thereafter made an attack on me about the business I was carrying on. Let me tell him that it was an honest business.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I did not attack the hon. member, and he therefore cannot say so.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>Hon. members of the House are witnesses, and we saw it in the newspapers as well. I carried on business for 16 years with a partner, but I never had anything to do with a man like Mr. Wilson.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>*Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>I never made any aspersions against the hon. member except that I said that he had not read the Bill. I still think that. He read about Mr. Jimmy Wilson in the newspapers, and now he domes and fusses about it here.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>Whatever the position may be, it is an insinuation which he made about me. The world can enquire into my past, and it will be found that I carried on an honourable business for 16 years, and never took anybody to court or was taken to court. I had nothing to do in my business with the class of man such as Mr. Wilson is.</p>
+
+</speech>
+
+<speech by="#christie">
+
+<from>Mr. <person refersTo="hansard_za">CHRISTIE</person>:</from>
+
+<p>I hope the hon. member in charge of the Bill will accept the amendment. There are overseas professional men who use the word &#x201C;chartered&#x201D; before architect, and if the South African designation were simply architect, the public might think that a chartered architect was a man with higher qualifications than one merely described as architect. That position, indeed, is felt by accountants so keenly, that they are promoting a private Bill to insert the word &#x201C;chartered&#x201D; before &#x201C;accountant.&#x201D; The public think that &#x201C;chartered&#x201D; means more than &#x201C;registered.&#x201D; You will have architects spending a lot of money to put the matter right when the putting in of one word will settle it.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I don&#x2019;t know whether the insertion of the word &#x201C;chartered&#x201D; is permissible. No notice of the introduction appeared in the notice or in the preamble.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I want the word &#x201C;chartered&#x201D; to mean a member registered with the Institute of South African Architects.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>Are there any societies known as chartered architects?</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I don&#x2019;t know. But the word &#x201C;chartered&#x201D; must come in here so that it will mean a member of the society, and no other man can use the word &#x201C;chartered.&#x201D;</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>This Bill does not include any designation except that architects must be registered before they can practise. I put it to you, sir, whether the hon. member is right in moving any amendment to this clause. If he is right, he will have to have a new substantive clause.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>That is the very point I have raised. How far the insertion of the word &#x201C;chartered&#x201D; affects any existing society.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from><span class="col_793-794" refersTo="page_0466"/>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>I do not know of any society of architects which have the word &#x201C;chartered&#x201D; in their name, but members have used the word &#x201C;chartered&#x201D; in this country. I submit that if we do not give that definition for the sons of South Africa, we must put a clause in the Bill that no man shall use the word &#x201C;chartered.&#x201D;</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Architects are the best judges as to what to call themselves. They do not want to call themselves chartered architects because then anybody would call himself an architect. You might as well suggest chartered medical practitioner, and anyone else could call himself a medical practitioner. This makes it really less clear. I have read the hon. member&#x2019;s evidence on the select committee, and he makes the thing more involved. He asked a witness how many were qualified as against unqualified, and the witness replied that the number was 10 to 1, and the hon. member for Three Rivers (Mr. D. M. Brown) wanted to know if that meant 100 to 10.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person>:</from>
+
+<p>Those of us who understood knew what the question meant. Apart from this, it is true the hon. member did try to convince me, but I failed to be convinced because I had a larger and wider experience of this society than the hon. member. The Bill before the House is not the Bill of the architects at all. It was fathered by the hon. gentleman who was chairman of the committee, and he is anxious that his baby should get into swaddling clothes and begin to walk.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>&#x2020;The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>I am unable to put the amendment proposed by Mr. D. M. Brown, as, in seeking to provide a designation for architects, it introduces a principle not contemplated by the notice of intention to apply for the Bill.</p>
+
+</speech>
+
+<p>Amendment proposed by Dr. H. Reitz put and agreed to.</p>
+
+<p>Clause, as amended, put and agreed to.</p>
+
+<p>On Clause 3,</p>
+
+<p>Amendment put as proposed by select committee.</p>
+
+<speech by="#christie">
+
+<from>Mr. <person refersTo="hansard_za">CHRISTIE</person>:</from>
+
+<p>I move as an amendment to this amendment&#x2014;</p>
+
+<block name="quote">To omit all the words after &#x201C;respectively&#x201D; in line 24, to &#x201C;business&#x201D; in line 30.</block>
+
+<p>I would point out to the committee it is the crux of the whole Bill. That is where you are going to make a close preserve and say no person shall practise as an architect or a quantity surveyor unless registered on the register of this society. In other clauses provision is made for people who have been drawing plans to be allowed to continue to do so, but, with the exception of those people who have vested interests, for the future they will make this such a close preserve that it is bound to have a serious effect on the smaller contractors and builders and the smaller properties that are being put up. Sitting on the select committee, right through I could not find any justification for the architects having the sole right of practising this profession. They certainly put up a case wherein they should have the sole right to title, they should have the sole right to describe themselves as architects when they have gone through a proper course of training and become registered as architects. They would then be in a position to put up their plates, and the public would also be able to discriminate between the certificated and qualified architect and the ordinary draughtsman. There is no doubt to my mind, and I think to the minds of most people in this country, that a qualified architect is not essential in the building of small cottage properties and the ordinary small structures. The record of the Johannesburg Town Council shows that the difference between plans sent in to the council signed by registered architects and those sent in by other persons was that less than 10 per cent, of the total plans put in were signed by registered architects. That shows to what extent the draughtsman and the ordinary drawer of plans is being made use of by the public and that he is undoubtedly giving good service. In the select committee and on the second reading debate in this House, it was pointed out in support of the claim put forward by the architects, that by giving them the sole right to practise it would tend not only to the greater beauty and adornment of the buildings in our cities and towns, but would also be a protection to the public in so far as buildings going up that might not be safe are concerned. In answer to that, it was shown that the most serious accident which had happened on any building in Johannesburg in recent years was where a concrete verandah collapsed just after the props had been taken away, and that the collapsing of the verandah caused the death of a man, and that the plans for that building and verandah were drawn by a registered and qualified architect. I think that demonstrates, as far as that point is concerned, that there is no danger whatever to the public in allowing plans to be drawn by draughtsmen and by others who are quite capable and efficient, for ordinary small properties and other properties perhaps of fair dimensions. As has also been pointed out, the necessity for giving the sole right to practise to registered architects is not a necessity demanded or needed by the public. It is a necessity required and now attempted to be got by the architects themselves in their own interests and with the object of securing for themselves less competition to enable them, perhaps, to keep more business within a smaller circle and a smaller number of people. I know that the hon. member in charge of the Bill will tell us that provision is being made for other people, that it is not only architects who can draw these plans, but that any person who has been doing this work for two years will be able to continue to do this work.</p>
+
+</speech>
+
+<p>[Dr. H. REITZ made an interjection.]</p>
+
+<speech by="#christie">
+
+<from>Mr. <person refersTo="hansard_za">CHRISTIE</person>:</from>
+
+<p>At any rate, whether it is two years, or whatever the period, it does not <span class="col_795-796" refersTo="page_0467"/>matter. The point is that the hon. member will tell us that a person who has drawn plans for a certain period, even though he is not a registered architect, will be allowed to carry on and do that work for the future. I would point out that the architects conceded that point after a good deal of argument. That was as far as we could go in select committee to secure that no vested right would be interfered with, but these men will be a diminishing number as the years go by. It is only a question of 15 or 20 years, when the profession will be a very close preserve indeed, and it will be kept entirely to a small body of men, and no other person will have any right whatever, as far as the drawing of plans and the supervising of buildings are concerned. I submit that the committee must take this Section (c) into most careful consideration. Should Section (c) be passed, then this close preserve will have been created, and I do not see that any useful purpose would be served by fighting the Bill further at this stage.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>&#x2020;*Mr. <person refersTo="hansard_za">J. S. F. PRETORIUS</person>:</from>
+
+<p>I entirely agree with the hon. member for Langlaagte (Mr. Christie); that is the very objection I have. The position to-day in Johannesburg is such that the plans for the big buildings are of course made by qualified architects, but for the small buildings outside plans are made by draughtsmen without certificates. Why should people be deprived of their livelihood. They will not be able under the Bill to continue drawing plans. They work for the middle class man who with difficulty saves a bit of money and wants to build a house costing £300 or £400, and they make the plan for £2 10s., £3 or £5, while a qualified architect would ask £15 to £20 according to the cost of the building. I am pleading for the man who will lose his livelihood, and, on the other hand, also for the poor man who wants to build a little house. Architects moreover are not always of the best. In my constituency a plan for a house and balcony was prepared by a qualified architect and when everything was finished the balcony collapsed and a person was killed. Fortunately the other people saved themselves otherwise there would have been more killed. I am opposed to drawing a ring fence round certain people and reserving work for them alone to do. It concerns many people on the Rand, not only a few. The present Government is doing everything to solve unemployment and now we are going to put more people on the street who for years have always been drawing these plans. My last objection is that if consolidating legislation is necessary the Minister should introduce it, bearing in mind the protection of all parts of the population, and that no one-sided legislation should be introduced by a private member for the protection of merely one class of person. I hope the House will support the amendment of the hon. member for Langlaagte.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>The hon. member for Three Rivers (Mr. D. M. Brown) is at all events consistent, but the hon. member for Langlaagte (Mr. Christie) wishes the word &#x201C;chartered&#x201D; inserted whereas in Select Committee he voted against it. I suppose in the meantime he has seen his friend Mr. Waugh and Mr. Waugh has given him bad advice. Amongst other things, Mr. Waugh told the Select Committee that he was in favour of the Bill, and so I am very surprised at the hon. member for Langlaagte going against his advice. Mr. Waugh then said that he did not care one way or the other, but the strange thing is that he paid his own expenses to come down to Cape Town to try and kill the Bill. He gave evidence in 1909 on the Transvaal Architects Bill, and in glowing terms he spoke in favour of it then. It was elicited in evidence that he has a grievance against the architects. He drew a plan and these architects officially criticized that plan. He even admitted that the criticism was correct and that it had done a public service to the people of Johannesburg. The puerile reason he gave was that the architects used his money to criticize his work. The hon. member for Langlaagte is very unfortunate in his examples, because he told us the other day that St. Paul&#x2019;s Cathedral was built by Sir Christopher Wren, who was not qualified, but he forgot to tell us that St. Paul&#x2019;s Cathedral is tumbling down.</p>
+
+</speech>
+
+<speech by="#mullineux">
+
+<from>&#x2020;The Rev. Mr. <person refersTo="hansard_za">MULLINEUX</person>:</from>
+
+<p>I cannot agree with the point of view of the hon. member for Langlaagte (Mr. Christie) in this matter and I do not think it is the right point of view to take on this particular clause. It seems to me that if we have an architects society at all and qualified men doing this work, we have to have some sort of protection for them. They have to be trained, just as men in the trades have to be trained, and I wonder what my hon. friend would say if he were a carpenter or a boilermaker and a man who was not trained came along and offered his services at a lower rate of pay. This particular clause does not prevent a man who has a small building, say a garage, from drawing that plan for himself or getting a friend to draw it for him. The question is as to a man not qualified as an architect doing the work of an architect. If there is to be any general improvement in the status of architects, and if we are to protect those who spend a large amount of money and many years in training, that protection has to go to the full extent that this Bill provides. In my opinion the clause is a quite correct clause and is in keeping with the traditions of the trades union movement itself. The clause is not in conflict with any principles that we, as labour members, have held. As a protective measure and a measure improving the standard of our architects, while at the same time allowing a man who wishes to have a plan drawn by himself or a friend to do so, the clause is perfectly in order and ought to be supported.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>I would like to support the amendment of the hon. member for Langlaagte (Mr. Christie). To begin with, I think the clause as drafted is a very vague and very embarrassing clause. It says that&#x2014;</p>
+
+<block name="quote"><span class="col_797-798" refersTo="page_0468"/>Except in premises within the boundaries of a municipality wherein two architects not being in partnership are carrying on the business.</block>
+
+<p>I do think that this should be made much plainer. I think the hon. member in charge of the Bill should make it absolutely clear that the architect should be resident and have his place of business in that town if that is what he means. Dealing with these small municipalities would be very difficult under this Bill. An architect may have his place of business, say, in Cape Town, and draw plans for a building say, in Umtata, under such circumstances he might reasonably be described as doing business in that town. If such is the intention of this clause, then it is quite wrong, and should be amended. If you want to put up a small building you may have to go several hundred miles to a place where an architect really has a place of business. The added expenses of a small building will make it prohibitive in many cases. If the public employ a man without qualifications, they know the risk they are taking. I contend they have the right to do it if they like to do so. If I spend money for the plans and the building of a house, why am I to be debarred from getting any person I want?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Who debars you?</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>This Act.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>What section?</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>This section. Once that list of unqualified men is absorbed by this Bill, no other unqualified men will be allowed to do the work. When the accountants came to this House, to all intents and purposes they wanted the same principle, which, I understand, has now been given up. I say there is only a very small step before you have an association of qualified builders, and that only a man who is a member of such association may undertake building. You will have other trades coming to the House for similar protection. It seems to me altogether wrong, and going back to the dark ages. We have evolved from slavery and have reached the pinnacle, and now we seem to be going down the other side with a state of bondage to various professions. We are now dragooned by the professions, and told how we are to spend our own money. We are impinging too far on the liberty of the subject. If I build a big and intricate building I am not going to a man who is not capable, and who is unqualified to do the job. But there are a tremendous number of buildings put un for which it is not necessary to get such a skilled man to draw up the plans. Do we do so in the country?</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Who forces you to do so? You can get a contractor.</p>
+
+</speech>
+
+<speech by="#gilson">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">GILSON</person>:</from>
+
+<p>My hon. friend is on dangerous ground now. The builder in the true trade union spirit will say, one man one job. I look upon this provision in the Bill (referring to a builder drawing up the plans) as a red herring; in fact, the builder will refuse to draw plans and will refer such inquiries to the architect, as on the latter party the builder looks for much of his work. Protected title is a most reasonable request and one which this House should grant, but further than that we should not go, and I hope that the hon. member will see his way to accept the amendment.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>The hon. member who introduced the Bill is inclined to sarcasm, it is strange to us farmers that in explaining the Bill the hon. member only speaks English. If he used Afrikaans we should know more or less the object of the Bill, but as he only speaks English, we know nothing about it. It is always a dangerous thing in the case of us farmers when a private member introduces an important Bill drawing a fence round certain classes.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>It is barbed wire.</p>
+
+</speech>
+
+<speech by="#heyns">
+
+<from>*Mr. <person refersTo="hansard_za">HEYNS</person>:</from>
+
+<p>Yes, it is barbed wire which is being used, and we have already had a good deal used in protecting certain sections of the population against competition. Now we have the architect. I think that when such an important Bill is introduced a Minister should be responsible for it and not a private member, because we have lately been regretting the introduction of private Bills and the consequences thereof. I want to explain why we farmers almost unanimously voted against the second reading, because the division showed that it was practically townsmen versus farmers. We send our children to agricultural schools and overseas to study farming, and when they come back are they to tell us that they spent money on their education, and that they alone should have a say about farming? What will become of farming? We must put an end to monopolies, and the farmers are wise enough to see that ring fences ought not to be allowed. When our sons have studied at agricultural schools, they have to come back and compete with other farmers. Let the other sections of the population also compete. If a man is sufficiently clever to do the work of an architect, and has done it in a competent manner, let him continue doing it. Why should there be a ring fence drawn every day by legislation about a certain section of the population? I am opposed to it, and I do not support this Bill.</p>
+
+</speech>
+
+<speech by="#de_villiers">
+
+<from>*Mr. <person refersTo="hansard_za">A. I. E. DE VILLIERS</person>:</from>
+
+<p>In principle I am against trusts and rings, and this Bill is asking for another ring. The Bill provides that where two persons are registered in a municipality and are not in partnership, an unregistered man may not prepare a plan for a house, etc. How many thousands of competent people are there not, even surveyors, who can prepare better drawings than an architect? There is a land surveyor of that kind in my constituency, and he will be prohibited by law from preparing plans as soon as two architects are registered in Witbank. I should prefer entrusting something to the surveyor, if I have anything to be done, rather than to anybody else. Builders have been spoken about. How many of them are not capable of preparing plans? And why should they be prevented? Why all the ring fences? I shall always vote <span class="col_799-800" refersTo="page_0469"/>against rings. We have dealt with the Medical Bill, when there was a question of danger to human life, but here we have to do with a ring where there is no such danger. I hope the House will not pass the clause as drawn. The hon. member has said that I do not understand the Bill, but I have gone into it and find it very clear. The hon. member is sarcastic, and wishes to ridicule the members of the select committee who voted against it, but in this House there are many more people against a ring.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>I regretted to hear the reference of the hon. member (Dr. H. Reitz) to Mr. Waugh, who has established a high reputation, occupies an official position of great trust at Johannesburg, and can take an absolutely independent view of the question. The hon. member threw contempt on the evidence of that gentleman, and is at variance with the views of the hon. member. Mr. Waugh was in a state of friendliness with architects. He was thoroughly fair-minded and competent, with a sufficient salary and an assured position. My only criticism of this Bill carries right through to all similar measures. I am a trade unionist, and I think this measure is going very far in exclusiveness, thereby possibly throwing out of work men who have families to keep.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>What single man has been thrown out of work?</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>I have letters and telegrams here to that effect.</p>
+
+</speech>
+
+<speech by="#reitz">
+
+<from>Dr. <person refersTo="hansard_za">H. REITZ</person>:</from>
+
+<p>Has anybody been excluded?</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>I may move an amendment to put beyond question that there will be no unjust exclusions. I have no objection to any association of which a man shall not describe himself as a member unless he is actually in it; but when they want to go beyond that, and prevent persons pursuing legitimate occupations unless they are in certain institutions, we have to watch outside interests carefully. During their lifetime persons should be allowed to continue in the work they have always carried on we do not wish to do any injustice, and only want fair protection all round. There are many precedents. Attorneys had to allow entrants to practise who had practised for a number of years as law agents, and that is quite right.</p>
+
+</speech>
+
+<speech by="#van_zyl">
+
+<from>Maj. <person refersTo="hansard_za">G. B. VAN ZYL</person>:</from>
+
+<p>And you are quite wrong.</p>
+
+</speech>
+
+<speech by="#hay">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">HAY</person>:</from>
+
+<p>It was so in the Transvaal, at any rate, and we do not want to see people driven out of professions which they had entered by necessity in service to the public.</p>
+
+</speech>
+
+<p>On the motion of Mr. Oost, it was agreed to report progress and ask leave to sit again.</p>
+
+<p>House Resumed:</p>
+
+<p>Progress reported: House to resume in committee on 11th March.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1927-02-25T17:58:00">5.58 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
