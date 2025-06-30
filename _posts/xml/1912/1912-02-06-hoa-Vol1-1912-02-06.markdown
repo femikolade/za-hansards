@@ -1,0 +1,2201 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY FEBRUARY 6 1912'
+layout: debate
+year: 1912
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, February 6, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-02-06T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse),</from>
+
+<p>from Charles W. Profitt, gaoler at Burghersdorp.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester),</from>
+
+<p>from Michael McDonagh, late Chief Constable, Bedford.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King William&#x2019;s Town),</from>
+
+<p>from Harriet E. Poutz, widow of Johann F. W. Poutz, Cape Mounted Rifles.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester),</from>
+
+<p>from Emma R. H. Whitaker, a widow, whose husband served as railway engineer.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King William&#x2019;s Town),</from>
+
+<p>from Daniel Keenan, pensioner, Postmaster-General&#x2019;s Department.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg),</from><p>from A. J. van der Merwe, teacher.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester),</from>
+
+<p>from G. F. Mynhardt. late convict guard.</p>
+
+</speech>
+
+<speech by="#becker">
+
+<from>Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismith),</from>
+
+<p>from C. G. D. Gerneke, teacher.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon),</from>
+
+<p>from W. Wippenaar, late cleaner Houses of Parliament.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>Government Notices by Excise Department ; Excise Memoranda on the importation into the Transvaal of South African spirits ; and two others to all agricultural distillers.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Government Notices and Regulations by Department of the Interior relating to Public Cemeteries, Local Auxiliary Forces, Public Health (Natal), and Food and Drugs Act (Cape).</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#repairs_to_locomotives">
+
+<heading>REPAIRS TO LOCOMOTIVES.</heading>
+
+<speech by="#griffin">
+
+<from>Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Maritzburg, South)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) What number of locomotives were in the Durban and Maritzburg workshops respectively on January 15 needingrepair ; (2) what is the nature of such repairs ; (3) what is the average time required to effect such repairs ; (4) have any locomotives been sent to Pretoria for repair, and, if so, what was the nature of the repairs required to be done in Pretoria ; and (5) could such repairs not be carried out in Maritzburg or Durban, and, if not, why not?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> replied:</from>
+
+<p>(1) On the 15th January there were 32 engines under repair in the Durban workshops and 11 under repair in the workshops at Maritzburg, in addition to which 41 engines in the Natal Province were in need of attention in the workshops and were waiting their turn for repairs. (2) The engines undergoing repairs at Durban, as well as those awaiting repairs, require an extensive general over haul, but with those in the Maritzburg workshops, repairs of a lighter nature are necessary. (3) The average time likely to be occupied in repairing the engines now in the Durban workshops, and those awaiting repairs, is six week3 per engine, while the repairs being undertaken at Maritzburg will occupy on an average, about a fortnight per engine. (4) Eight engines have been sent to Pretoria for an extensive general overhaul. (5) The work of repairing the eight engines sent to Pretoria could have been undertaken at Durban, but the capacity of the Durban shops, situated, as they are, at the coast, is at present taxed to the utmost with the erection of new engines, and it was with the object of relieving the congestion and securing an earlier return to traffic of the defective engines, that they were sent to Pretoria. The workshops at Maritzburg are fully occupied with repair work.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#electric_lighting_installations">
+
+<heading>ELECTRIC LIGHTING INSTALLATIONS.</heading>
+
+<speech by="#griffin">
+
+<from>Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Maritzburg, South)</from>
+
+<p>asked the Minister of Public Works: (1) What is the total cost of the installation of electric lighting in the Maritzburg Museum workshops, as also of the University, Maritzburg ; (2) how the work was carried out, departmentally or by contract ; (3) if departmentally, how many men were employed to do the work and where were they sent from ; and (4) were tenders called for and, if not, why not?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> replied:</from>
+
+<p>(1) The work is now in progress. When completed the cost of the installation <span class="col_115-116" refersTo="page_0064"/>at the Museum workshops will not exceed &#x00A3;175, and at the University &#x00A3;687. These sums provide for cost of connection and special fittings. (2) The work is being carried out departmentally. (3) Three men are employed. Two of these were sent from Pretoria ; the other is a local man. (4) Tenders were not called for, as electrical work is carried out departmentally.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#adulteration_laws">
+
+<heading>ADULTERATION LAWS.</heading>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>asked the Prime Minister whether, in view of the important interests that are affected, such as trade in general, viticulture and public health, at is the intention of the Government to introduce this session legislation to bring about uniformity in the adulteration laws of the various Provinces of the Union?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person> replied:</from>
+
+<p>The Government consider that legislation in this direction is necessary, but with so many important matters before the House it is feared there will not be sufficient time to permit of its being dealt with this session.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#liquor_adulteration">
+
+<heading>LIQUOR ADULTERATION.</heading>
+
+<speech by="#marais">
+
+<from>Mr. <person refersTo="hansard_za">J. H. MARAIS</person> (Stellenbosch)</from>
+
+<p>asked the Minister of Agriculture whether he intends during the present session to introduce legislation whereby the law on the adulteration of liquor in the Cape Province will be extended to the other Provinces of the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from><p>said the reply was similar to the one given to the previous question.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#east_coast_fever">
+
+<heading>EAST COAST FEVER.</heading>
+
+<speech by="#mentz">
+
+<from>Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from><p>asked the Minister of Agriculture: (1) Whether he is aware that East Coast Fever has broken out in several places in Zoutpansberg, probably owing to the fact that cattle are being unlawfully moved about and in a manner which it is difficult to trace on account of the extensive area of the northern districts and the large native population: (2) whether, under such circumstances, it is not necessary to keep the closest watch over cattle and to inspect them carefully ; and, if so, (3) whether he will not, in spite of the great need for economy, retain the cattle-branders and tellers in those districts?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>(1) While it is a fact that four outbreaks of East Coast Fever have occurred in the Zoutpansberg district within the past three months, the position of that district as regards disease has never been better than it is to-day, although the outbreaks which have occurred are probably the result of illicit movements ; (2) a close watch is being kept on the cattle in the district, and the system of census taking by the police and cattle guards is going on as heretofore ; (3) as all the cattle in the district have now been branded, the continuous employment of branding officers is no longer necessary, but men will be taken on from time to time for a specific period in order to brand the increase.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#johannesburg_water_famine">
+
+<heading>JOHANNESBURG WATER FAMINE.</heading>
+
+<speech by="#geldenhuys">
+
+<from>Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>asked the Minister of Mines whether the Government intends during the present session to submit a scheme to the House, whereby (1) relief will be afforded to the population of Johannesburg and surrounding areas who are suffering at present on account of scarcity of water ; and (2) the Rand Water Board will be prevented from pumping up all the water of the Klip River?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied:</from>
+
+<p>(1) Relief to the population of Johannesburg and surrounding areas in respect of the scarcity of water for domestic and industrial purposes devolve on the Rand Water Board, which body, it is understood, have alternative schemes under consideration for giving the Rand area an efficient water supply: (2) as regards the second portion of the question the Rand Water Board possess statutory powers to pump a very large volume of water from the dolomite formation in the Klip River Valley, and the Board is on the basis of present pumping operations as far as the Department is aware within its legal rights, and cannot therefore be prevented from pumping water up to the maximum extent permissible under Transvaal Ordinance 48 of 1904, as amended by Ordinance 30 of 1905.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sunday_at_the_post_office">
+
+<heading>SUNDAY AT THE POST OFFICE.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street)</from>
+
+<p>asked the Minister of Posts and Telegraphs: (1) Whether it is a fact that a number of the employees at the Genera! Post Office, Johannesburg, were employed on Sunday, October 20th, 1911, in sorting and delivering the election addresses of certain candidates at the recent Johannesburg Municipal Elections ; (2) was there any need for urgency, in view of the fact that the elections did not take place until the following Wednesday; (3) what remuneration such employees were paid for their services ; and (4) whether he will undertake to stop unnecessary Sunday work in the future?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person> replied:</from>
+
+<p>(1) The reply is in the affirmative. (2) Yes. 30,000 circulars were posted by Municipal candidates on Saturday, 21st October. Efforts were made by the local Post Office to induce candidates to post these circulars earlier without success. Special delivery arrangements had therefore to be made, otherwise the ordinary business of the Department would have been seriously hindered and the circulars themselves would probably have not been delivered in time to be of any use. (3) The letter-carriers were paid at a rate and a half for this special Sunday work. (4) All Sunday work in the Post and Telegraph Department is restricted as much as possible. <span class="col_117-118" refersTo="page_0065"/>The circumstances in the particular case were quite exceptional.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#glanders_outbreak">
+
+<heading>GLANDERS OUTBREAK.</heading>
+
+<speech by="#becker">
+
+<from>Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismith)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether the repeated outbreaks of glanders in the districts of Ladismith and Swellendam have been brought to the notice of the Department ; and (2) whether he will frame such regulations under the Diseases of Stock Act as will prohibit the indiscriminate moving of horses from one district to another for business purposes?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>(1) The Department is aware of the outbreak of glanders referred to. Immediately after the report was received a veterinary surgeon was sent to investigate and 200 horses were tested for glanders between 1st November and 19th December, 1911, and six destroyed which were either visibly affected or failed to re-act to the Mallem test. A second veterinary surgeon was sent to the district recently and, as a result of his investigations, the Senior Veterinary Surgeon. Cape, is of the opinion that the outbreak is now well in hand. It is hoped that, should any suspected cases occur in the district, the farmers will promptly report the same to the Department in order that they may be immediately dealt with. (2) I am of opinion that the Regulations made under the Diseases of Stock Act, now in force, are sufficient to deal with outbreaks of glanders.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#college_of_agriculture">
+
+<heading>COLLEGE OF AGRICULTURE.</heading>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked the Minister of Education, in view of the fact that the transfer of the ground granted by the Pretoria Municipality for the purpose of establishing a National College of Agriculture has been completed: (1) Whether a decision has yet been arrived at as to when the necessary buildings will be commenced ; (2) whether any plans, specifications, or estimates have yet been prepared ; (3) what is the scope and scale of the projected establishment ; (4) what amount is available or is expected to be available for the purpose ; and (5) from what sources are the funds to be provided?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>(1) No decision has yet been arrived at.(2) No. (3) Neither the scope nor the scale of the projected establishment has yet been finally decided upon. The Government is still obtaining technical advice on these points. (4) and (5) A sum of &#x00A3;100,000 was allocated by the late Government of the Transvaal towards the cost of establishing the College, which sum was to be provided from the repatriation debts in the Transvaal as the same were collected.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sea-going_engineers">
+
+<heading>SEA-GOING ENGINEERS.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>asked the Minister of Railways and Harbours whether the Government intends to make provision for the certification of seagoing engineers in South Africa, on lines adopted by the British Board of Trade?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>,</from>
+
+<p>on behalf of the Minister of Railways, replied: Legislation will be necessary to provide for such certification. It is obvious that it would not be of much use dealing with this matter if these certificates were only available in South African waters and on South African ships. In view of legislation the Board of Trade in the United Kingdom has, therefore, been asked to inform this Government of its requirements, so that certificates to be issued in South Africa may be as available as those issued by the Board of Trade in England.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reduced_to_the_ranks">
+
+<heading>REDUCED TO THE RANKS.</heading>
+
+<speech by="#harris">
+
+<from>Sir <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>asked the Minister of Justice: (1) Whether the police officers reduced in the commissioned ranks, and from the commissioned ranks to sergeant, owing to the depression in the Cape Colony in 1908, have been reinstated in the respective ranks they held before such reduction ; and (2) how many officers are still serving in the police forces who were reduced in rank owing to the aforementioned depression and have not been reinstated in the respective ranks held before such reduction?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person> replied:</from>
+
+<p>(1) Of the police officers of the Capo Colony reduced in the commissioned ranks and from the commissioned ranks to sergeants, owing to the depression in the Cape Colony in 1908, one officer reduced from sub-inspector to sergeant has been reinstated to the rank of sub-inspector. (2) Four inspectors and seven sub-inspectors who were reduced in rank owing to the aforementioned depression are still serving in the police force and have not yet been reinstated. It is intended to reinstate them as opportunity offers and vacancies occur.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#attorney-general_allowances">
+
+<heading>ATTORNEY-GENERAL ALLOWANCES.</heading>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>asked the Minister of Justice what are the emoluments of the Attorney-General in each of the four Provinces, (a) in salary and (b) in other allowances or fees?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person> replied:</from>
+
+<p>The Attorneys-General of the Cape of Good Hope and Transvaal receive salaries of &#x00A3;1,800 each per annum. The Attorneys-General of Natal and the Free State receive salaries of &#x00A3;1,200 each per annum. The Attorney-General of the Cape of Good Hope receives in addition fees in such Government civil matters assigned to him in which the fees would not have to come from the Treasury. The Attorney-General of the Transvaal receives fees in such civil matters as are assigned to him by the Government. There is no agreement allowing any fees to the Attorneys-General of Natal or the Free State.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#coloured_men_on_railways">
+
+<heading>COLOURED MEN ON RAILWAYS.</heading>
+
+<speech by="#schreiner">
+
+<from><span class="col_119-120" refersTo="page_0066"/>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether, since Last session of Parliament, any coloured or native employees on the Union Railways have been dismissed and their places filled with Europeans ; (2) if so, how many of such cases have taken place, and in what classes of employees; and (3) on what grounds has such action been taken?</p>
+
+</speech>
+
+<speech by="#minister_of_railways">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS</person></from>
+
+<p>said that when he received the information it would be supplied.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#police_dogs">
+
+<heading>POLICE DOGS.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Justice: (1) By whose, and under what, authority certain three police dogs were lately bought in Europe, and at what cost ; (2) whether any, and, if so, how many, of the dogs have died since ; and (3) under whose charge are these dogs, and when was the person so in charge first appointed an official and at what rate of pay?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> (on behalf of the Minister of Justice) replied:</from>
+
+<p>(1) The three police dogs lately imported from Europe were purchased under my authority. Their cost was, respectively: &#x00A3;27 10s., &#x00A3;22 10s., &#x00A3;20 ; total, &#x00A3;70 ; (2) one of the three dogs unfortunately died in December ; (3) the dogs are in the immediate charge of a competent trainer, Mr. Cornelius Kuyper, who is employed on a purely temporary basis at a salary of &#x00A3;20 per mensem ; he is at present under the orders of the Deputy Commissioner of Police, Johannesburg. Mr. Kuyper has been employed from 1st September last.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>What breed are the dogs? (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said he was not able to say.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person>:</from>
+
+<p>Are they terriers or what? (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Watchdogs. (Laughter.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#potatoes_for_standerton">
+
+<heading>POTATOES FOR STANDERTON.</heading>
+
+<speech by="#alberts">
+
+<from>Mr. <person refersTo="hansard_za">J. J. ALBERTS</person> (Standerton)</from>
+
+<p>asked the Minister of Railways and Harbours if he is aware that unnecessary delay in transport by rail of potatoes from Standerton to the market at Johannesburg is still continuing, and hat thereby serious loss has been caused to producers, and, if so, whether he is prepared at an early date to institute an inquiry in order to put an end to this state of affairs?</p>
+
+</speech>
+
+<speech by="#minister_of_railways">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS</person></from>
+
+<p>said he was not aware of any delay.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#auction_dues">
+
+<heading>AUCTION DUES.</heading>
+
+<speech by="#steyl">
+
+<from>Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>asked the Minister of Finance: (1) Whether the Government is aware that in the Orange Free State auction dues of 1 per cent. on immovable property and 2 per cent. on movable property are levied, while no such duty is levied in the other Provinces ; and (2) whether the Government will during the present session, take steps to secure uniformity in the matter of auction dues throughout the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> replied:</from>
+
+<p>The Government is aware that auction dues are levied in the Orange Free State, and that no such dues are levied in the other Provinces, but no steps have yet been taken to bring about uniform treatment in this matter, as it is anticipated that the report of the Financial Relations Commission will make proposals regarding the treatment of this dass of revenue. Pending the receipt of the report it is not proposed to take any action in the matter.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#uncertain_civil_servants">
+
+<heading>UNCERTAIN CIVIL SERVANTS.</heading>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether, in view of the serious loss and inconvenience suffered by the members of the administrative staff by reason of the uncertainty as to their future: (1) It has yet been decided when they will be transferred to Pretoria ; and (2), if not, whether he can name any date before which they will not be transferred, so as to enable them to make their arrangements for a reasonable period within which they will not be disturbed?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person></from>
+
+<p>said the reply to (1) was in the negative. So far as (2) was concerned, no date had been fixed, but ample notice would be given men of their transfer.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#fair_wage_clause">
+
+<heading>FAIR WAGE CLAUSE.</heading>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether he intends to enforce a fair wage clause in any mail contract that he proposes to submit to this House for acceptance?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person></from>
+
+<p>replied that there was no intention on the part of Government to insert the fair wage clause which did not appear in other Empire contracts of a like nature.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#extra_allowances">
+
+<heading>EXTRA ALLOWANCES.</heading>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked the Prime Minister whether, in view of the increased cost of living in the Transkeian Territories, owing to the cost and scarcity of transport, occasioned by the East Coast fever, and the absence of railway communication, the Government will take into serious consideration the granting of extra allowances to Civil Servants in those Territories?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied that the matter had been fully considered by Government on the representations of certain <span class="col_121-122" refersTo="page_0067"/>officials, and, in the opinion of Government, there was no need for special consideration, in view of other places where living was equally high and where no extra allowance was made.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#graaff-reinet_buildings">
+
+<heading>GRAAFF-REINET BUILDINGS.</heading>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet)</from>
+
+<p>asked the Minister of Public Works whether the Government is aware of the dilapidated and disgraceful condition of the public buildings in Graaff-Reinet, and, if so, what is the reason that the very necessary repairs are not taken in hand?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> replied:</from>
+
+<p>The Government is aware that the public buildings at Graaff-Reinet were in need of repair. A tender has been accepted for the requisite work, and active operations are now in progress.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#murraysburg_buildings">
+
+<heading>MURRAYSBURG BUILDINGS.</heading>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet)</from>
+
+<p>asked the Minister of Public Works when it is the intention of the Government to proceed with the erection of the public buildings in Murraysburg, for which a sum of money was placed on the Estimates last session?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> replied:</from>
+
+<p>It is intended to proceed with the erection of public buildings at Murraysburg as soon as a satisfactory tender is received. Tenders have been called for twice&#x2014;in September and again in October last&#x2014;but no tender was received on either occasion. The work will be put to tender again next month.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#divisional_councils">
+
+<heading>DIVISIONAL COUNCILS.</heading>
+
+<speech by="#van_eeden">
+
+<from>Mr. <person refersTo="hansard_za">J. W. VAN EEDEN</person> (Swellendam)</from>
+
+<p>asked the Minister of the Interior whether the Government wall consider the advisability of introducing, if possible during the present session, a Bill so to amend the South Africa Act that Divisional Councils may be established in all the Provinces of the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> replied:</from>
+
+<p>In terms of the South Africa Act Divisional Councils and similar institutions fall within the jurisdiction of Provisional Councils, and any legislation in the direction indicated by the honourable member would require to be introduced into those Councils.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners_phthisis">
+
+<heading>MINERS&#x2019; PHTHISIS.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Mines: (1) What number of persons have received assistance under the provisions of the Miners&#x2019; Phthisis Allowance Act (No. 34 of 1911), and what number of applications were received and dealt with during the month of December last ; (2) what balance of the &#x00A3;50,000, provided by the State and the mines, remains unexpended ; and (3) whether the Government intends to call upon the mining employers to make further contribution to the fund, so that relief may be secured to sufferers pending further legislation on this subject?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied:</from>
+
+<p>(1) 365 cases have been dealt with under the Act, and 62 were dealt with, and 77 applications received during December, 2) of the &#x00A3;50,000 originally provided, a sum of &#x00A3;14,625 remained unallotted at the end of December ; (3) the question of further contributions is receiving the consideration of the Government.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mines_sick_fund_committee">
+
+<heading>MINES SICK FUND COMMITTEE.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>asked the Minister of Mines what steps the Government intends to take to give effect to the recommendations of the Mines Sick Funds Committee?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied:</from>
+
+<p>In view of the fact that the report of the Mines Benefit Fund Committee referred to was not unanimous on some of the most important points referred to them, the Government does not consider that there is urgent need for further action at the present time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#station_shelters">
+
+<heading>STATION SHELTERS.</heading>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>asked the Minister of Railways and Har bours: (1) Whether he is aware of the inconvenience and discomfort the travelling public are put to, owing to the want of proper accommodation for shelter, at some of the stations and sidings on the Port Elizabeth&#x2014;Avontuur line and on the Oudtshoom&#x2014;Klipplaat line whilst waiting for trains ; and (2), if so, whether he will, when the demand is reasonable and justifiable, have the necessary sheltering put up, making separate provisions for Europeans and other races?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that there were some shelters erected where they were most needed, but there was not shelters at every station or siding. As his hon. friend knew, he (Mr. Sauer) was always a reasonable man&#x2014;(laughter)&#x2014;and if a demand were reasonable it would be complied with. The line had to be run economically, as it was not paying very well.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#insolvency_laws">
+
+<heading>INSOLVENCY LAWS.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>asked the Prime Minister whether the Government will take the necessary steps to have the Insolvency Laws amended in such manner as to give preference to claims for workmen&#x2019;s wages over other creditors?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>The new draft consolidated Insolvency Bill which it is proposed to introduce during the next session of Parliament makes provision for giving preference amounting to one month&#x2019;s wages in addition to the current month, to employees. (Cheers).</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#noxious_carnivora">
+
+<heading>NOXIOUS CARNIVORA.</heading>
+
+<speech by="#oosthuisen">
+
+<from><span class="col_123-124" refersTo="page_0068"/>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>asked the Minister of Agriculture what steps are being taken to give effect to the resolution adopted by the House on the 11th April, 1911, whereby the Government was urged to consider the desirability of placing on the Estimates a sum of money to be devoted to the encouragement of the destruction of noxious carnivora, chiefly wild dog, red cat, and the red or silver-backed jackal, by means of contributions on the &#x00A3; for &#x00A3; principle to poisoning clubs, co-operative farmers&#x2019; associations, and other public bodies?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>: replied</from>
+
+<p>The Government has made provision on the Estimates for a sum of money to be placed at the disposal of the Provincial Councils, to whom it is proposed to delegate this work, for the destruction of vermin.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#normal_colleges">
+
+<heading>NORMAL COLLEGES.</heading>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>asked the Minister of Education: (1)) Whether the Normal Colleges are exclusively under Provincial control ; (2) if so, whether it is not possible for him to take the necessary steps to have them placed under direct Union contral ; (3) if not, what steps has he taken or does he propose to take to secure uniformity in the training of teachers in the four Provinces ; and (4) whether he is prepared to appoint a Commission, partly to consist of educationists, to inquire into the work and functions of the Normal Colleges in the various Provinces?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person> replied:</from>
+
+<p>The Normal Colleges are at present exclusively under Provincial control, with the following exceptions: The South African College, Cape Town ; the Victoria College, Stellenbosch ; and the Grey University College, Bloemfontein, provide courses for the training of teachers, the first-named institution undertaking the work jointly with the Normal College, Cape Town. The Transvaal University College provides one year&#x2019;s academic course to students who have not passed the Intermediate Examination and desire to qualify at the Normal College, Pretoria for the Second-class Teachers&#x2019; Certificate of the Transvaal Province. In all the courses referred to the students must have passed the Matriculation Examination, in many cases they are required to have passed the Intermediate Examination, and for the Special Second-class Teachers&#x2019; Certificate, the B.A. Examination. At Grey University College students are admitted who possess the Intermediate Certificate, or have had a certain amount of experience in teaching. The instructors at the University Colleges are appointed and salaried by the Councils subject to the approval of the Minister, whereas those at the special Normal Colleges are appointed and salaried by the Provincial Administrations. The inspections and the examinations, except those in respect of which two of the University colleges issue their own additional diplomas, are conducted by the Provincial Departments of Education. The State bursaries are issued, in some cases, by the Provincial Departments, in others by the Union Education Department. In so far as the work at the Normal Colleges is of a post-Matriculation standard, it falls under higher education, and the institutions will be taken over in due course. The following considerations have, however, delayed such action: (a) The absence of uniformity in the requirements for the Teachers&#x2019; Examinations in the different Provinces. (b) The fact that in some of the Normal Colleges of some Provinces the candidates for the Teachers&#x2019; Third-class Certificate are below the standard of the Matriculation Examination. This is, however, a passing phase as the standard will be raised until the Matriculation Examination or its equivalent will have become a condition for admission to training as a third-class teacher. The Directors of Education of the four Provinces have, at the instance of the Minister, held several conferences to discuss matters relating to the training of teachers, particularly with a view to establishing uniformity of examination and certification. A copy of the report of the latest conference, held at Bloemfontein on November 30 and December 1, 1911, together with a circular minute addressed by the Acting Under-Secretary for Education to the Provincial Secretaries, dated December 29 last, and the replies thereto will be laid on the table of the House at as early a date as possible in response to the question of the hon. member for Uitenhage, addressed to the Minister on the 35th ult. From the said circular minute it will be seen that it is proposed for so long as primary and secondary education remain under the control of the Provincial Administrations, to control the examination and certification of teachers through a Board consisting of the heads of the Union and Provincial Departments of Education, and by this means to secure uniformity and the issue of Union instead of Provincial certificates for teachers. Pending the taking over of the Normal Colleges, the Government does not intend to appoint a Commission of Inquiry as suggested by the hon. member.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#i.d.b_special_court">
+
+<heading>I.D.B. SPECIAL COURT.</heading>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>asked the Minister of Justice whether he will cause an inquiry to be made into the effect of abolishing the Special Court for the trial of illicit diamond cases in Griqualand West, and of substituting trial by jury in lieu thereof, in order to ascertain whether, in the opinion of those entrusted with the administration of justice in the Kimberley and Barkly West districts, such change has secured better administration of justice and tends for the repression of crime or has had a contrary effect?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from><span class="col_125-126" refersTo="page_0069"/>The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>on behalf of the Minister of Justice, replied: I have under consideration the fact of the abolition of the Special Court for the trial of illicit diamond cases in Griqualand West and of the substitution of trial by jury therefor, and I shall decide therein in connection with the laying down of a Criminal Procedure Code for the Union.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#daniels_kuil_periodical_court">
+
+<heading>DANIELS KUIL PERIODICAL COURT.</heading>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>asked the Minister of Justice: (1) Whether it is a fact that the Periodical Court at Daniels Kuil has been closed for reasons of economy, and, if so, what amount of saving has been effected thereby ; and (2) whether, in view of the heavy cost to farmers residing in and near Daniels Kuil of having to travel 70 miles (or 140 miles for the double journey) to bring a case before the Magistrate&#x2019;s Court, he will consider the advisability of re-opening the Periodical Court at Daniels Kuil?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>on behalf of the Minister of Justice, replied: The decision to abolish the Periodical Court at Daniels Kuil was arrived at on account of the paucity of cases, which were, moreover, usually of a trifling nature. In the interests of economy, therefore, the Court was abolished, and a saving effected of &#x00A3;146 per annum. There were only five criminal cases during the six months prior to the abolition of the Court. In view of this the Government does not consider the circumstances justify re-establishment at present.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#zaaiplaats_tin_mine">
+
+<heading>ZAAIPLAATS TIN MINE.</heading>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg)</from>
+
+<p>asked the Minister of Mines: (1) Whether he is aware that the ore gained from the Zaaiplaats Government tin mine, of which mine the Transvaal Consolidated Land and Exploration Company, Ltd., has the lease, is crushed by the same battery as the ore of the Groenfontein Mine, which is an entirely private concern ; (2) how is it ascertained what quantity of tin is obtained from the Zaaiplaats Mine, to about 34 per cent of which the Government is entitled, and what quantity from the Groenfontein Mine, in which the Government has no such share ; (3) is it possible under these conditions adequately to control the amount of tin gained from the Zaaiplaats Government tin mine, and to ensure that the Government receives its due ; and (4) whether it is not advisable to appoint an official at the said Zaaiplaats tin mine to control and safeguard the interests of the Government?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied:</from>
+
+<p>(1) I am aware of the arrangement referred to by the honourable member, as it received the sanction of my predecessor ; (2) arrangements have been made, and the conditions of the permission given were such that the ore from the Government area is treated by itself, and there is no possibility of mistake as to the quantities dealt with in the two properties ; (3) it is considered that under the arrangement come to, the interests of the Government are completely protected ; (4) it is not considered necessary to appoint any special official, the general supervision being carried out by the Inspector of Mines.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#lay_vaccinators">
+
+<heading>LAY VACCINATORS.</heading>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>asked the Minister of the Interior: (1) How many lay vaccinators have been employed by the Government during the year 1911 ; (2) in which districts were they employed, and what is the reason in each case for their employment ; (3) were they white or coloured ; (4) how many persons were vaccinated by them ; and (5) were any complaints officially made?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> replied:</from>
+
+<p>There is no objection to giving the hon. member the information he wants, but it will have to be collected, which will take time. With regard to the last part of the question, I may say at once that no complaints had been officially made. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#perron_and_station_stoep">
+
+<heading>&#x201C;PERRON&#x201D; AND &#x201C;STATION STOEP.&#x201D;</heading>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) By whose authority the word &#x201C;perron&#x201D; was painted on boards at the Bloemfontein Railway Station; (2) by whose authority this word was obliterated and the words &#x201C;station stoep&#x201D; substituted ; and (3) at how many other stations was a similar procedure adopted, and at what cost?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> replied:</from>
+
+<p>(1) The railway administration; (2) the railway administration ; (3) I have not been able to ascertain the exact number ; and as to the cost, as it was necessary under the South Africa Act to have both languages&#x2014;(Ministerial cheers)&#x2014;I think I shall consult the best wishes of the House by not giving an answer to that. The cost was very trivial.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s.a_constabulary_benefit_fund">
+
+<heading>S.A. CONSTABULARY BENEFIT FUND.</heading>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>asked the Minister of Finance whether on the disbanding of the South African Constabulary a benefit fund, consisting of the proceeds of fines inflicted on members of the force was handed over to the Treasury ; what the said fund now amounts to, and what the Government intends to do with it?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> replied:</from>
+
+<p>The answer is in the affirmative. At the 31st January, 1912, the fund amounted to &#x00A3;23,144. A reference to Account No. XI., Schedule D, of the Treasury Finance Accounts, incorporated in the Controller and Auditor-General&#x2019;s report, will show what was the position of the fund at 30th June, 1910, and 31st March, 1911. As at present advised, the Government propose to make this fund available (under suitable regulations, <span class="col_127-128" refersTo="page_0070"/>which will be laid upon the table) for the purpose of making charitable grants in necessitous cases to members of the late South African Constabulary, whether or not they are still in Government employ. The fund is at present held by the Public Debt Commissioners.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_employee_and_tram_strike">
+
+<heading>RAILWAY EMPLOYEE AND TRAM STRIKE.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Is a man, Sherman, employed at present as learner guard at Waterval Boven ; (2) if so, on what date was he first employed by the Railway Department ; and (3) is this Sherman the same man who gave information to the police during the Johannesburg tram strike leading to the arrest of Whittaker and Morant?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> replied:</from>
+
+<p>(1) There is, I am informed, a man named Sherman employed as learner guard there ; (2) September 6 last ; (3) whether he gave information or not, we have no official knowledge of it, but I believe it is so.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#iron_and_steel_scrap_on_railways">
+
+<heading>IRON AND STEEL SCRAP ON RAILWAYS.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Rail ways and Harbours: (1) Whether the application of the Union Steel Corporation for permission to purchase iron and steel scrap was the only one received by the department, or were there others ; (2) if there were others, were they refused permission to purchase, and, if so, why ; and (3) is it a fact (a) that Messrs. Cartwright and Eaton have established a foundry in the Transvaal, and have offered the department &#x00A3;1 per ton for scrap, with an undertaking to experiment with Transvaal ore within 18 months, and 25s. per ton without the experiment ; and (b), if so, has their offer been entertained, and, if not, why not?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied:</from>
+
+<p>(1) Applications for the right to purchase steel and scrap under certain conditions were called for in the &#x201C;Gazette,&#x201D; and three applications were received. (2) In reply to question (2), the agreement could only be made with one applicant. (3) The answer is in the affirmative, but the offer referred to could not be entertained, as the agreement had already been signed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#inspection_of_rand_mines">
+
+<heading>INSPECTION OF RAND MINES.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Mines: (1) Whether all the mines on the Witwatersrand are visited periodically for the purpose of inspection ; (2) if so. (a) what period elapses between one visit and the next to any individual mine: (b) are all the underground workings inspected on the occasion of these visits; and (3) is it a fact that seldom, if ever, a mine is visited by an inspector except for the purpose of holding inquiry into the circumstances of an accident, and, if so, is this due to an insufficient number of inspectors?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> replied as follows:</from>
+
+<p>(1) The answer is in the affirma: tive. (2) (a) The period elapsing between one visit of an inspector and the next to any individual mine depends on circumstances; frequent inspections are made on mines whose accident and death rates are considered too high ; other mines are inspected at least once a year, and generally twice ; (b) a system of sample inspection is followed, it being impossible and unnecessary to inspect all workings ; for example, the Crown Mines would take one man about two months inspecting daily to visit all working places. (3) The visit of an inspector for the purpose of holding an inquiry into an accident is often utilised as an opportunity for inspecting other portions of the mine. The monthly reports, however, show that a large number of inspections are made apart from accident inspections, and a regular return is made of such inspections. The number of underground inspections on the Rand, apart from accident inquiries, was 580 during 1911.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#vergenoegd_nursery">
+
+<heading>VERGENOEGD NURSERY.</heading>
+
+<speech by="#lemmer">
+
+<from>General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether the Government will reconsider its decision in regard to the nursery on the farm Vergenoegd, in the district of Marico, and re-open the same, so that the planting of trees in the said district may be promoted ; (2) what were the annual expenses and the annual income since the said nursery was established ; and (3) what was the reason for closing the nursery?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied as follows:</from>
+
+<p>(1) I regret that I cannot see my way to continue the nursery on the farm Vergenoegd, but until it has been decided how best to deal with the farm it will be carefully looked after. (2) The annual expenditure on the nursery is as follows: Financial year 1909-1910, &#x00A3;699 18s. ; financial year 1910-11, &#x00A3;415 8s. 3d. ; April 1, 1911, to December 31, 1911, &#x00A3;408 3s. ; total expenditure, &#x00A3;1,523 9s. 3d. Owing to the nursery having been so recently established, there has been practically no income up to the present, but it was estimated that from now onwards the receipts would nearly equal the expenditure. The value of the trees established in the orchard and of the young stock in the nursery, together with the fencing, water furrows and other improvements made on the farm is fully equal to the money spent upon the place. (3) The reason for not continuing the nursery was that, in the opinion of the Government, the time had arrived when the propagation and sale of fruit trees by the Government to the public should be discontinued, as such trees could be obtained at reasonable rates from private nurserymen.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#native_males_in_factories">
+
+<heading>NATIVE MALES IN FACTORIES.</heading>
+
+<speech by="#nicholson">
+
+<from><span class="col_129-130" refersTo="page_0071"/>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg)</from>
+
+<p>asked the Minister of Justice whether the Government intends to introduce legislation during the present session prohibiting male natives from working alongside European women and girls in factories, as is the case in the dynamite factory in the Transvaal, in order to prevent such a state of affairs in the community?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>replied that the Government did not intend or contemplate introducing legislation in regard to this matter at present. As regarded the instance quoted by the hon. member, he was having inquiries made.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mine_regulations_futile_prosecution">
+
+<heading>MINE REGULATIONS: FUTILE PROSECUTION.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Mines: (1) Whether his attention has been drawn to a case heard before Mr. Van den Berg, First Criminal Magistrate, at Johannesburg, on the 12th January, 1912, when W. Malone was charged with committing a breach of the Mines and Works Regulations, &#x201C;by causing a native to drill into or near a misfired hole on the 30th November last, thereby causing an explosion, which inflicted serious injuries to a native, from the effects of which he succumbed,&#x201D; and to the fact that exception was taken to the summons on the ground that &#x201C;the old regulations were not effective after the 17th November last, and that the new regulations controlling the mines and works were not valid until the 1st of December, and that between the dates mention there were no regulations in force,&#x201D; which exception the Crown Prosecutor admitted he could not contest, whereupon the Magistrate was obliged to discharge the accused ; (2) who is responsible for this hiatus and neglect of duty ; and (3) what steps he intends taking against the offending official?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>replied that he had looked into the matter referred to by the hon. member and to the exception taken to the summons in the case mentioned, which was apparently admitted by the Crown Prosecutor. He was advised that the notice bringing into force the new mines and works regulations and cancelling the old was so worded that no cancellation of the old regulations took place until the date of coming into force of the new one, and that, therefore, there was no hiatus.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#purchase_of_iron_and_steel_scrap">
+
+<heading>PURCHASE OF IRON AND STEEL SCRAP.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether the Government have entered into a contract with Mr. Henry Horace Wright, whereby a company called the &#x201C;Union Steel Corporation of South Africa, Limited,&#x201D; has acquired the preferential right to purchase iron and steel scrap from the Government Railwayshops for a period of sixteen years at &#x00A3;1 per ton for the whole of the Transvaal and a large district south of it, and at satisfactory prices for the remainder of South Africa ; (2) whether the Government have agreed during the same period to increase the railway rates on exported scrap, and to rant the Union Steel Corporation a reduced rate of transport of their scrap to the corporation&#x2019;s works ; (3) whether the Government have also agreed to place their orders for such iron and steel goods as the corporation produce with the said corporation ; and (4) whether the Minister will lay copies of such agreement on the table of the House?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>replied that the terms of the agreement referred to by the hon. member, which was entered into by the Minister of Mines, in consultation with the Minister of Railways and Harbours, as regarded the railway rates to be charged, were correctly stated by the hon. member. It was proposed to publish a copy of the agreement in the &#x201C;Gazette.&#x201D;</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Is the agreement signed already?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Without Parliamentary knowledge?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>Will the Minister take, as an unopposed motion, a reference of this contract to the Public Accounts Committee</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person>:</from>
+
+<p>At present there are no papers ready to be laid on the table of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#natal_gaol_hours">
+
+<heading>NATAL GAOL HOURS.</heading>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked the Minister of Justice: (1) Whether it is a fact that under the new regime it is necessary for members of the gaol staff in Natal to work for an average of eleven hours per day, with absolutely no intermisdays&#x2019; annual leave, so that some men have days annual leave, so that some men have been kept on duty for twenty-three or twenty-four hours at a stretch ; and (2) whether any members of the gaol staff are expected to sleep in the gaol hospitals, thereby being exposed to infection from diseases?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>on behalf of the Minister of Justice, replied as follows Prior to the Union Prisons Act coming into force, night reliefs were not required to sleep inside the large gaols as is necessary and customary elsewhere. On representation that there was no proper guard-room at the Maritzburg Gaol in which to sleep, a ward in the prison hospital was taken as a temporary measure, with the concurrence of the medical officer. This ward was last used for a sick person in December, 1910, when a case of stricture was confined in it. The room is 27 feet by 17 feet in floor dimensions, and 13 feet <span class="col_131-132" refersTo="page_0072"/>high. It has nine windows, each five feet four inches by three feet six inches. There have not been infectious or contagious diseases cases in either the ward in question ox the adjoining ward for years. There is no risk whatsoever from infection. The leave roster for the Maritzburg Gaol, framed with a view to carrying out Prison Regulation No. 320, provided for four reliefs, the first relief having. 10&#x00BE; hours of actual duty, the second relief has 10&#x00BD; hours of actual duty, the third relief (a night relief) has six hours of actual duty, the fourth relief (night relief) has six hours of actual duty. The monthly average of actual duty, excluding week-ends, does not, therefore, exceed hours a day. The leave obtainable amounts to thirty days a year, plus ten hours a week. It is incorrect that any prison officer has been kept on duty without sleep for 23 or 24 hours at a Stretch.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#anthrax_at_boksburg">
+
+<heading>ANTHRAX AT BOKSBURG.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Agriculture whether the Government has any information to the effect: (1) That anthrax has been in existence in the Boksburg district since November last and that the centre of its location is a place occupied mainly by dairy farmers who it is alleged sell milk in the district ; and that since the outbreak of the disease twenty-four head of cattle have died therefrom, while others are still suffering from the disease, and that one native has also succumbed to the disease ; (2) whether it is correct that at the outbreak of the disease, whilst the police were proceeding to enforce the quarantine regulations, the Government removed the provisional quarantine regulations and allowed the owners of dairy cattle to sell their milk to the public, to the latter&#x2019;s great danger and risk ; (3) if these allegations or any of them are well founded, what steps does the Government intend taking to forthwith stop the sale of milk to the public from cows suffering from anthrax ; and (4) whether the Government will cause any delinquent officials, as well as the offending owners of the cattle, to be prosecuted and punished.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied as follows:</from>
+
+<p>(1) Sporadic cases of anthrax occur from time to time along the Reef and in other parts of South Africa, but as these outbreaks generally terminate with the proper disposal of the carcases of affected animals, it is not customary to impose a period of quarantine when the source of infection is not located and provided that the carcases are disposed of in a proper manner, because no rule can be laid down as to the persistence of veld infection. In all, since the beginning of the year 19 cattle and one horse have died of this disease on the following farms on the East Rand, viz.: Springs 1, Vlakfontein 7, Modderfontein 1, Klipfontein 2, Brakpan 4, Driefontein 1, Natal Spruit 3, Benoni 1. These deaths have occurred over a wide area and cannot, generally speaking, be attributed to any common source of infection. The native referred to died at Vlakfontein, the outbreak on which was not officially reported to the Department, in consequence of infection contracted by unauthorised cutting up of carcase of anthrax animal, to whose dissection the subsequent high mortality on that farm may be attributed. No animals are now known to be suffering from the disease. (2) The incident referred to is based on the circumstance that provisional quarantine, imposed by the police in one instance pending the arrival of a veterinary surgeon, was subsequently withdrawn by him when he ascertained that the carcases of the animals had been properly disposed of. (3) The danger to the public, as far as the use of milk is concerned, is practically non-existent on account of the rapid course of the disease, as the infected animals are generally found dead without having been previously noticed to be sick.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#overworked_railwaymen">
+
+<heading>OVERWORKED RAILWAYMEN.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether it is a fact that in most cases one trains foreman out of two on the South African Railways works twenty-four hours on Sundays, that he has to attend to telegraphic work, issuing of tickets, booking of luggage, abstracting of goods, the passing of the necessary messages for the safe passage of trains, and, in addition, to perform various other duties ; and (2) if so, whether he will cause the necessary changes to be made for the relief of such overworked workmen, and take such steps as may be essential for ensuring the safety of the travelling public?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> replied as follows:</from>
+
+<p>No foremen are required to work 24 hours at a stretch. Instances have come to light where men, to suit their own convenience, have worked 24 hours at week-ends when changing over from night to day duty, but in every case discovered steps have been taken to prevent repetition. Such cases are rare ; there were not more than about six in the Transvaal Last year. Eighteen-hour shifts are worked when changing over at stations open for 24 hours where only two men are stationed, but at such places the train service is infrequent, and only other work besides the passing of trains is booking passengers and parcels, and this traffic on Sundays at small stations where there is only one man is very light. At larger stations changing over duties do not entail more than a 12-hour shift, and it is only when exigencies of service prevent more favourable arrangements being made that 12-hour shifts are resorted to. Investigations axe being made to see whether it would not be possible to make limit of 12 hours at all stations, but I am afraid this would entail heavy additional expenditure.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transvaal_field-cornets">
+
+<heading>TRANSVAAL FIELD-CORNETS.</heading>
+
+<speech by="#wyndham">
+
+<from><span class="col_133-134" refersTo="page_0073"/>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>asked the Prime Minister: (1) Why all the Transvaal Field-cornets were re-appointed, immediately after the conclusion of last session, by Government Notice No. 730 of May 1, 1911, for a further period of three years ; and (2) whether this action of the Government&#x2019;s is the only obstacle to introducing uniformity throughout the Field-cornet systems of the Union?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person> replied:</from>
+
+<p>(1) As it was not found possible to alter the law in regard to Field-cornets lost session, the fresh appointments in the Transvaal during the recess had to take place under the existing Transvaal law, which provides for three years appointments. (2) Besides the difficulties arising under the Transvaal law. I may point out that the systems in the Provinces are so different that it would take considerable time and trouble to assimilate them all and to establish uniform conditions of service all over the Union.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_cigarette_tax">
+
+<heading>THE CIGARETTE TAX.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of Finance: (1) Whether the Government is prepared to take into consideration the advisability of supplying cigarette manufacturers with gummed Excise and surtax labels instead of those at present in use ; (2) whether the Government at first issued these labels in English with a picture of the King&#x2019;s head thereon ; and if so, how many of these still remain in stock and how many have been destroyed ; (3) whether the Government has since issued new labels in English and Dutch, but without the King&#x2019;s head thereon ; and (4) why these changes were made?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> replied as follows:</from>
+
+<p>(1) The Government&#x2019;s experience is that cigarette manufacturers as a general rule prefer ungummed labels; (2) the labels were first issued in English only with the King&#x2019;s head thereon, of this issue approximately 730,000 labels of various values still remain on hand, none of these labels have been destroyed ; (3) and (4) labels were subsequently printed in both the official languages of the Union, and as it was not possible to print a bilingual label providing for the King&#x2019;s head without unduly increasing the size of the label, the King&#x2019;s head was omitted.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#tobacco_licences">
+
+<heading>TOBACCO LICENCES.</heading>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>asked the Minister of Finance: (1) Whether he is aware: (a) That a definite promise was made last year for a refund on a tobacco licence taken out by the holder of a club licence; (b) that the promise was subsequently retracted ; (c) that under pressure from another club licensee such refund in his case was actually made ; (d) that demands to take out tobacco licences are now being made on holders of club licences ; and (2) whether such demands are in conformity with the interpretation of the law, and if not, whether he will give instructions to have such demands withdrawn and for refunds to be made where such licences have already been taken out?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> replied as follows:</from>
+
+<p>(a) I find that the Receiver of Revenue, Cape, did give some assurances last year that in certain circumstances moneys paid by holders of club licences in respect of tobacco licences would be refunded. This involved an alteration in the practice of the late Cape Government, and was the outcome of the decision of the Supreme Court in the case of Sealey v. the Union Government. (b) However, on a closer examination of these claims and after consultation with the law advisers, the conclusion was come to by the Department of Inland Revenue that the Sealey case did not affect the liability of clubs, and that clubs were legally liable for payment of the tobacco licence duty ; accordingly the claims for refund then pending, in respect of which the beforementioned assurances had been given, were rejected. (c) During the interval that elapsed before the decision to refund was reversed, a case did occur in which the tobacco licence duty was refunded. (d) In pursuance of what it believes to be the legal position, the Department of Inland Revenue is adhering to the practice of the late Cape Government, and is now demanding that holders of club licences shall also take out tobacco licences. I may add that a perusal of the papers leaves me in some doubt as to whether holders of club licences are actually obliged to take out a tobacco licence, and I am re-submitting the matter for the opinion of the law advisers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#bubonic_plague">
+
+<heading>BUBONIC PLAGUE.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>asked the Minister of the Interior whether, taking into consideration the fact that rats were dying in Durban, presumably of plague, for weeks before the existence of plague was suspected, and that no dead rats were bacteriologically examined for plague diagnosis until after the first man had died from plague, and considering further the extreme desirability of avoiding the damage, both direct and indirect, caused to Union ports by an outbreak of plague, he will give such instructions to all port health officers as will result in a frequent periodical bacteriological examination of dead rats at every Union port, and by that means endeavour to avoid further outbreaks of bubonic plague in South Africa?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> replied as follows:</from>
+
+<p>I am afraid that the hon. member who asked this question has been supplied with misleading information. There is no evidence to show that rats were dying in Durban in undue numbers for any length of time before the existence of plague was discovered, nor is it a fact that dead rats were not bacteriologically examined for plague until after the first case in man had occurred. The real facts are that a regular examination of rats found <span class="col_135-136" refersTo="page_0074"/>dead in the harbour area at Durhan has been performed for many years past by the Port Health Officer, and that during 1911 no less than 190 specimens were examined at regular intervals. Mortality amongst rats in and around the Point railway premises was first brought to notice on January 12, or three days before the first human case of plague occurred. The locality was at once visited by the Medical Officer, and specimens of dead rats were microscopically examined within one hour, but neither the Port Health Officer nor the bacteriologist could find any evidence of plague infection in them. Nevertheless, as is the practice from time to time in Durban, an urgent note was addressed by the Port Health Officer and delivered the same day to 30 Government officers and representatives of business firms in every wharf shed inviting attention to the importance of at once notifying any undue sickness or mortality amongst rats. Cultural exiperiments between January 12 and 20 proved entirely negative. From January 12 onwards 79 rats were examined before the first positive specimen infected with plague was discovered on January 21. This, to the minds of the Government Medical Officers, proves conclusively that the infection amongst rats was very sparse, and this has been amply confirmed by the experience of the health authorities at Durban subsequent to that date. So far as the other ports of the Union are concerned, I may state for the information of the hon. member that standing instructions have been in force for many years past requiring special attention to be paid to mortality amongst rats in port areas, and regular bacteriological examinations are made.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Prime Minister whether Field-cornets are precluded from active participation (other than the right to vote) in Parliamentary elections and from presiding at or taking part in the organisation of political meetings, and, if not, whether the Government intends taking any action to prohibit them from so doing?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>referred the hon. member to the reply he gave on November 10, 1910.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#natal_magisterial_divisions">
+
+<heading>NATAL MAGISTERIAL DIVISIONS.</heading>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked the Minister of Justice whether it has been decided to amalgamate any Magisterial divisions in Natal, and if so, which?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> (for the Minister of Justice)</from>
+
+<p>replied: It has not been finally decided to amalgamate any Magisterial divisions in Natal, excepting the case of Charlestown, which for judicial purposes has been amalgamated with Volksrust.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#jagersfontein_gaol">
+
+<heading>JAGERSFONTEIN GAOL.</heading>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>asked the Minister of Public Works when the Government intends to commence building the gaol at Jagersfontein, for which purpose a sum of money was placed on the Estimates last session?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> replied:</from>
+
+<p>It has been found to be more economical and convenient to concentrate the prisoners sentenced at Jagersfontein at Fauresmith Gaol. The proposal to build a new gaol at Jagersfontein has, therefore, been abandoned. Additional police cells, for awaiting trial prisoners, will, however, be provided at Jagersfontein.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#registration_of_patents">
+
+<heading>REGISTRATION OF PATENTS.</heading>
+
+<speech by="#robinson">
+
+<from>Mr. <person refersTo="hansard_za">C. P. ROBINSON</person> (Durban, Umbilo)</from>
+
+<p>asked whether It is the intention of the Government to introduce legislation during the present session to make provision for registration of patents for the whole of the Union, as distinguished from the present system of registration in each of the Provinces?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> (for the Minister of Justice) replied:</from>
+
+<p>The existing patent laws of the Provinces of the Union have been referred to a Commission of eminent judges and lawyers, and the question of the introduction of Union legislation must await the sending in and consideration of their report.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#suggested_fencing_bill">
+
+<heading>SUGGESTED FENCING BILL.</heading>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">P. J. G. THERON</person> (Heilbron)</from>
+
+<p>asked the Minister of Agriculture whether the Government intends to introduce a general Fencing Bill during the present session?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>stated that the answer was in the affirmative.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#coloured_workers_on_railways">
+
+<heading>COLOURED WORKERS ON RAILWAYS.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of Railways and Harbours whether it is a fact that the coloured railway porters and coloured labourers employed at Graaff-Reinet Station have received notice to leave the service in two weeks&#x2019; time and, if so, why?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that one coloured employee had been dismissed and two others had received notice in order to be replaced by whites.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#boers_in_the_argentine">
+
+<heading>BOERS IN THE ARGENTINE.</heading>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>asked the Prime Minister: (1) Whether the Government is aware that the vast majority of the people of this country who settled in the Argentine are at present in sad circumstances ; and (2), if so, whether the Government is prepared to assist, either financially or otherwise, those who are anxious to return?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the Government were in communication <span class="col_137-138" refersTo="page_0075"/>with the English Consul at Buenos Ayres, with a view to finding out what was the actual condition of the immigrants. From the information thus obtained, it appeared that their condition was not so bad as was generally feared. The Government had arranged last year to hire a ship to bring these people back to South Africa, but no sufficient use was made of the opportunity, seeing that the immigrants could not immediately dispose of their holdings. When they had sold their properties they would return.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#university_bill">
+
+<heading>UNIVERSITY BILL.</heading>
+
+<speech by="#marais">
+
+<from>MT. <person refersTo="hansard_za">J. H. MARAIS</person> (Stellenbosch)</from>
+
+<p>asked the Minister of Education whether it is the intention of the Government to proceed forthwith with the University Bill?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>In reply to the question of the honourable member for Stellenbosch I may say that the Government are still in communication with the representatives of Sir Julius Wernher and Mr. Otto Beit concerning their contribution towards the funds of the proposed University, and it is hoped that an understanding will yet be arrived at which will enable the Government to bring forward proposals for the acceptance and appropriation of this gift. For the time being the introduction of the University Bill remains in abeyance.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#judges_in_the_cape">
+
+<heading>JUDGES IN THE CAPE.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of Justice whether his attention has been directed to the important statement made by the JudgePresident in the Cape of Good Hope Provincial Division of the Supreme Court of South Africa on the 1st inst., to the effect that owing to one of the Judges being engaged upon a Commission for a considerable time suitors are put to the inconvenience of delay, and whether the Government is prepared to take steps to meet the difficulty?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> (on behalf of the Minister of Justice) replied:</from>
+
+<p>On a representation received from the Honourable the Judge-President of the Cape of Good Hope Provincial Division of the Supreme Court prior to the opening of the present term of that division, that the services of another Judge were required, the Honourable Mr. Justice Fawkes, of the Orange Free State Provincial Division, consented to act, and from the opening of the new term has been sitting in Cape Town along with the ordinary Judges of that Provincial Division.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#immigration_bill_official_correspondence">
+
+<heading>IMMIGRATION BILL: OFFICIAL CORRESPONDENCE.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of the Interior whether there has been any further correspondence between the Union and Imperial Governments on the subject of the proposed Immigration Bill since the last session of Parliament, and if so, whether he is prepared to lay the same on the table of the House?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> replied:</from>
+
+<p>Some further correspondence has taken place between the Imperial Government and the Union Government in reference to certain minor points in the Immigration Bill concerning British Indians. Those points are embodied in the draft for the House, and there is no necessity to lay the correspondence on the table.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#detention_of_immigrants">
+
+<heading>DETENTION OF IMMIGRANTS.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of the Interior: (1) Whether he has inspected the detention department for immigrants at the Docks, and if not, when he will carry out his expressed intention to do so ; and (2) whether the Government has taken into consideration the advisability of improving the unsatisfactory accommodation in this respect and of reducing the excessive charges?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> replied:</from>
+
+<p>I have made a surprise inspection of the depot in question, and was entirely pleased with what I saw. The premises were clean and the accommodation appears to me to be quite suitable for the persons who are detained there. The charges made for the detention of prohibited emigrants represent the net cost to the Government of detaining persons at the depot, and are exceedingly moderate. Accommodation is charged for at the rate of 1s. a day, and meals are supplied at a cost of from 3s. to 4s., while charges for guards are distributed pro rata according to the number of persons detained. All these charges are met by the steamship companies.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_health_acts_amendment_bill_first_reading">
+
+<heading>PUBLIC HEALTH ACTS AMENDMENT BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time, and set down for second reading next Monday.</p>
+
+</debateSection>
+
+<debateSection name="#a_magistrates_dismissal">
+
+<heading>A MAGISTRATE&#x2019;S DISMISSAL.</heading>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>moved that all papers in connection with the dismissal from the public service of Mr. John Blake van Renen, late Civil Commissioner and Resident Magistrate of Albert, be laid on the table of the House.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_deviations">
+
+<heading>RAILWAY DEVIATIONS.</heading>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District, North)</from>
+
+<p>moved for a return showing since the date of Union in each Province: (a) the expenditure on deviations on main lines, and on relaying main lines with heavier rails respectively ; (b) how many miles of fencing have been constructed, and at what cost ; (c) how much of the expenditure was charged to capital account ; (d) how much to betterment ; and (e) how much to renewals.</p>
+
+</speech>
+
+<speech by="#myburgh">
+
+<from>Mr. <person refersTo="hansard_za">M. W. MYBURGH</person> (Vryheid)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#department_of_labour">
+
+<heading>DEPARTMENT OF LABOUR.</heading>
+
+<speech by="#haggar">
+
+<from><span class="col_139-140" refersTo="page_0076"/>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>moved that the Government be requested to consider the desirability of introducing during the present session legislation for the establishment of a Department of Labour, and for effectively dealing with the questions of unemployment and under-employment. The mover said this was a matter dealing with practical subjects in a practical way. The numbers of the unemployed were increasing, and on the Rand and in Cape Town unemployment was a very real fact. In Cape Town there were white men working for 12s. 6d. a week, and a large number of intelligent, respectable white men were not able to obtain work at any figure. Only a few days ago there were 200 applicants for a situation worth &#x00A3;2 10s. a week. Continuing, the hon. member said that from other parts of the Union came the cry for more people, whereas on the Rand he, personally, knew of men who were willing but who were unable to find employment. His request was that Government should start a Department of Labour with one of the Ministers at its head. In the Transvaal they bad a White Labour Department, but though the officials worked well and gave a lot of satisfaction, they knew the office to be nothing more than a toy barometer. To make such a scheme successful, it would be necessary for one of the Ministers to put his back into it. If such action were taken, he was sure that success would be achieved, and that the wilderness would blossom. It was a question that should be tackled on public lines ; it could not possibly be dealt with on private lines. All authorities agreed that unemployment was a natural and necessary consequence of the industrial system under which they lived, and most of them agreed that it should be tackled without delay. He went on to refer to the Rand speeches of the Minister of Justice, and the statement of the Minister for Railways that there was work for all who wished to work. That was not correct. He (the speaker) contended that in 18 months&#x2019; time this evil of unemployment would be infinitely worse than it was at the present time. The hon. member went on to quote a large number of authorities on the subject of unemployment, and said that unemployment was an imposition on the public at large. Whether a country was under Free Trade or Protection, this evil of unemployment grew steadily from year to year. What he asked was that one of the Ministers should tackle the subject, put his back into it, and follow the example that was being set by other countries of the world. He did not ask for the means of life, but that such steps should be taken as would provide every man with the opportunity of working in order that he could live. Dealing with the classes to be touched, he said they had men who would work if they were given the opportunity, men who would not work, and those who comprised the submerged tenth, as the class was defined in England. They did not want charity or doles, and what could easily be done was for the Government to adjust its demand to the outside supply&#x2014;it could easily be done. An adjustment was what was wanted. Unemployment was a serious evil in the country, and the evil was growing in this country&#x2014;it could be curtailed and it could be controlled: and the only body to do that was the Government, not a private individual. It had been done in other countries, such as New Zealand, and there was no reason why it should not be done in this country as well.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that the hon. member had spoken as if there were only one class of labour in the country&#x2014;the white people&#x2014;and had omitted all reference to coloured labour. He had thrown out some hints which certainly did not tend to ingratiate the motion on that side of the House or even the opposite side of the House. He had suggested that by reorganising society on the basis he had referred to, they could get rid of unemployment or under-employment. He (the hon. member) thought that the suggestions were of no more value than the suggestions that it could be done with tariff reform. A Minister of Labour, even if he were appointed by the Right Hon. the Prime Minister, would not remove these conditions ; but, on the other hand, there were a number of very important questions which arose. They might have the system of labour exchanges, which he did not think they had yet established in any part of South Africa. Some effort had been made in the Cape to deal with the question in that way, but how far it had gone he was not in a position to say, and it was worth careful investigation. He hoped that the Government in due time would think out a plan and mitigate unemployment. It appeared to him to be a perfectly practical question whether all these matters should not come under one department&#x2014;a Department of Labour&#x2014;but he must dissociate himself from the nostrums which the hon. member had advocated. If the Government accepted the motion with the condition that the words &#x201C;during the present session&#x201D; be deleted, he would be extremely gratified if all these questions would be grouped together and tackled by the Government when the occasion arose. He would, however, say to the hon. member that it was idle to expect that that question could be tackled during the present session, owing to the large amount of work which had to be done. He moved, as an amendment, that the words &#x201C;during the present session&#x201D; be omitted.</p>
+
+</speech>
+
+<speech by="#joubert">
+
+<from>Mr. <person refersTo="hansard_za">C. J. J. JOUBERT</person> (Lydenburg)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that he would like the opportunity of correcting the hon. member for Uitenhage. <span class="col_141-142" refersTo="page_0077"/>He had drawn no distinction between white and coloured as the hon. member had said ; what he had said was: every able-bodied man. As to what the hon. member had said about nostrums, every fact was a dream before it had become a fact. He would accept the amendment of the hon. member.</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>said that he did not know whether the House was fully aware of the fact that they had a Labour Department. (Hear, hear.) In the Cape Province one had been established for a number of years, and it was in communication in Cape Town with all the Magistrates and right through the Territories. A monthly report was published, and a great deal of useful work had been done by the Department in bringing unemployed into touch with employers and providing work. In the Transvaal, under the Act of 1909, a Department of Labour had been constituted under the Inspector of White Labour, which office included labour registration and the Labour Bureau, the annual report of which contained much useful information, and had been laid on the table of the House. In the Provinces of Natal and the Orange Free State arrangements had been come to since Union with the Department of Justice by which Magistrates and Civil Commissioners acted as agents for that department ; and if the hon. member thought that because they used the existing machinery much and useful work was not being done, he was greatly mistaken. As a matter of fact, the Native Affairs Department had a very complete system of supervising recruiting, etc., of native labourers, not only for the Rand, but also other parts of the Union. They had in existence at the present moment very complete, and, what was more, very effective, machinery for dealing with this question. (Hear, hear.) He did not know whether the expenditure of more money on this department would increase its efficiency, but he had no objection to accepting the motion, with the amendment of the hon. member for Uitenhage, and looking into the matter. He could not promise the hon. member that he would meet him more than, perhaps, by co-ordinating the work a little more.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that, in view of the fact that the departmental expenditure of this country already amounted to &#x00A3;12,000,000 a year, and considering that this proposal would mean the establishment of another department in South Africa, he moved, as an amendment, that the motion be put this day six months. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is not a motion that can be put in this form. The hon. member can vote against the motion.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>The question was then put that the motion as amended be adopted.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>,</from>
+
+<p>after putting the question three times, declared that the &#x201C;Ayes " had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<p>Ayes&#x2014;23.</p>
+
+<p>Alexander, Morris</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Beyers, Christiaan Frederik</p>
+
+<p>Botha, Christian Lourens</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Fremantle, Henry Eardley Stephen</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Henderson, James</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Nathan, Emile</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Silburn, Percy Arthur</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>J. A. Vosloo and J. Hewat, tellere.</p>
+
+<p>Noes&#x2014;79.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Becker, Heinrich Christian</p>
+
+<p>Berry, William Bisset</p>
+
+<p>Blaine, George</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Brain, Thomas Phillip</p>
+
+<p>Burton, Henry</p>
+
+<p>Chaplin, Francis Drummond Percy</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Cronje, Frederik Reinhardt</p>
+
+<p>Cullinan, Thomas Major</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Graaff, David Pieter de Villiers</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grabler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Harris, David</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Hull, Henry Charles</p>
+
+<p>Hunter, David</p>
+
+<p>Jagger, John William</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Long, Basil Kellett</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Maasdorp, Gysbert Henry</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Mentz, Hendrik</p>
+
+<p><span class="col_143-144" refersTo="page_0078"/>Merriman, John Xavier</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Neser, Johannes Adriaan</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Phillips, Lionel</p>
+
+<p>Reynolds, Frank Umhlali</p>
+
+<p>Robinson, (Charles Phineas</p>
+
+<p>Rockey, Willie</p>
+
+<p>Sauer, Johannes Wilhelmus</p>
+
+<p>Sohoeman, Johannes Hendrik</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Searle, James</p>
+
+<p>Smuts, Jan Christiaan</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Stockenstrom, Andries</p>
+
+<p>Theron, Hendrick Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph Philippus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk. Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Wessels, Daniel Hendrick Willem</p>
+
+<p>Whitaker, George</p>
+
+<p>Wilcocks, Carl Theodorus Muller</p>
+
+<p>C. Joel Krige and Charles Fichardt, tellers.</p>
+
+<p>The amended motion was accordingly negatived.</p>
+
+</debateSection>
+
+<debateSection name="#railway_concessions_to_societies">
+
+<heading>RAILWAY CONCESSIONS TO SOCIETIES.</heading>
+
+<speech by="#oliver">
+
+<from>*Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley)</from>
+
+<p>moved that the petition of E. M. Mackenzie and seven others, general officers of the Federal Women&#x2019;s Christian Temperance Union of South Africa, praying for the restoration of certain railway concessions previously enjoyed, presented to this House on the 31st January, 1912, be referred to the Government for consideration. He said he would merely point out that the ladies of this organisation were doing a splendid work. He thought everyone would admit that the work they were doing deserved the utmost support the House could give it. They were asking for the continuance of a special power granted to them in the past. They were asking for what had been granted to a number of other societies under similar circumstances. He believed the Government granted a certain number of societies concessions in connection with their congresses, but when the Temperance Union came to them and asked for a similar privilege they were denied. He would point out to the Minister of Railways that, in granting this concession, he was not likely to lose any revenue. If the concession were not granted, it simply meant that the members would arrange their meetings at such centres as the members could get to without going over the railways at all. In consequence of the refusal of the concessions by the Government, they had arranged the next Conference to be held at East London, and the mail steamer company had arranged to give them a concession on travelling by steamer to East London.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland),</from>
+
+<p>in seconding the motion, said these ladies had just lately initiated a movement for the looking after of weak-minded women. Theirs was a work on behalf of the Government which should give them financial support, for their efforts went towards the lessening of poverty and crime.</p>
+
+</speech>
+
+<speech by="#minister_of_railways">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS</person></from>
+
+<p>regretted that he could not quite take the view of the hon. gentlemen opposite. The objects of temperance societies were most laudable, and no doubt they were animated by the best of motives&#x2014;that they were all agreed upon. But when concessions were asked for them that opened up a very difficult question. If concessions were given to the ladies&#x2019; societies, they would have to be given to the men&#x2019;s societies also. If concessions were given to temperance societies, they would have to be given to other societies&#x2014;(Ministerial cheers)&#x2014;to benevolent societies and also to societies very much akin to benevolent societies, and which partook of a somewhat political character sometimes. Then concessions would have to be given to deputations which came to interview members of the Government&#x2014;(laughter)&#x2014;he would fight against that. In one year the Cape gave railway concessions to the value of &#x00A3;183,000. which materially assisted in giving the Cape a very substantial deficit on the railways. He had been asked to bring down brass bands and menageries&#x2014;(laughter)&#x2014;at reduced rates, but if they once began there would be no end. There was such a thing as the South Africa Act, and the only way in which the concession requested could be given was by the Treasurer&#x2014;who was a very kind-hearted man&#x2014;to reimburse the railways by the money lost in the giving of concessions. Then he would be quite willing to carry them&#x2014;temperance societies or otherwise. Take the case of nurses&#x2014;he did not know that there was a more deserving case. (Cheers.) Nurses did a great deal of good and very often they were very popular. But the Board had not been able to give them concessions.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland):</from>
+
+<p>You give them to ministers.</p>
+
+</speech>
+
+<speech by="#minister_of_railways">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS</person>:</from>
+
+<p>Yes, but they don&#x2019;t get free tickets. I would be sorry to see the House interfere in a matter of this kind and override the spirit of the Act, and to ask us to recognise a system which worked most prejudicially to the interest of the Cape railways.</p>
+
+<p>The motion was negatived</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#a_serious_cattle_disease">
+
+<heading>A SERIOUS CATTLE DISEASE.</heading>
+
+<speech by="#wessels">
+
+<from><span class="col_145-146" refersTo="page_0079"/>&#x2020;Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland)</from>
+
+<p>moved that the attention of the Government be directed to the alarming spread of a disease amongst cattle known as &#x201C;galamziekte.&#x201D; and that they be requested to consider the advisability of employing more expert advice to combat the disease. The hon. member said that he did not think that Ministers realised the extreme seriousness of the position in Bechuanaland and the alarming way the disease was spreading. He did not want to say anything against Dr. Theiler, but what farmers felt was that Dr. Theiler had so much to do that he could not devote that attention to the matter which it demanded. What the farmers asked was that a couple of experts should be sent out to investigate the disease, and that experimental stations should be established. These men should devote their whole attention to the problem of finding out what caused the disease and how it could be combated. He hoped that the Minister would come to their rescue and assist them with something practical, because millions were invested in cattle in that part of the country. He hoped it would not be said by the Government that there was no money with which to come to their assistance. The farmers were quite in favour of paying a special tax, the proceeds of which to form a fund. But something must speedily be done, or it would mean ruination to them. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>who seconded the motion, said that this was becoming one of the most burning questions in South Africa. When the rinderpest broke out it was considered a most serious disease, and rightly so, but the present disease was, he thought, quite as serious, and in some parts of the Orange Free State not a single animal was to be obtained. It had spread from the Orange Free State, and there was a danger of it spreading to the Cape Province. Sheep and goats were now also threatened. He agreed with what the mover had said that they did not want to oppose Dr. Theiler, and they were thankful for all he had done, but he was such a busy man that he did not think he could devote that time he should to the eradication of gallamziekte. Sometimes remedies were discovered, but while they acted beneficially in respect to some cattle, they proved failures in other cases, and the whole matter was one which needed a great deal of investigation. He hoped that the Minister would not think that they were criticising him. That was not their idea at all, but they trusted that he would come to their assistance, the position being a most serious one.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said that when anyone became acquainted with the way the disease was spreading, he would see how serious the position was. It did not spread with the celerity of East Coast fever, but it spread insidiously, and very many cattle were affected. Dr. Theiler&#x2019;s ability was generally recognised, but he could not be everywhere at the same time. He thought the time had come for the Government to appoint at each experimental station a man who had practical knowledge of the disease, and who could try to find a remedy.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg)</from>
+
+<p>said he could corroborate what the hon. member had said, and he agreed with him, and if South African experts could not find a remedy, let them get experts from Europe, because something must be done, and the disease was spreading to other districts.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. S. THERON</person> (Hoopstad)</from>
+
+<p>said that in the past two years the disease had spread to a large extent in his district, and if more steps were not taken to discover the origin of the disease, the cattle farming industry would be ruined. The disease had now spread to the Winburg district. (An HON. MEMBER: And even Kroonstad.) Dr. Theiler had stated that the disease was not due to climate, but to the food which the cattle ate. A farmer had sent up to Pretoria a shrub which he believed was the cause of the disease, but had had to wait a long time for an answer, and then he had been told to send up another sample. He thought that if a great effort were made&#x2014;and it should be made, owing to the present position being so serious&#x2014;a remedy might be discovered.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>*Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said he could only add his voice to the voices of those who had urged the Government to do what it could to prevent the spread of this disease. The necessity of interference was recognised by anybody who came into contact with farmers and the country. He would not enlarge upon what had been said by other speakers. He felt sure that the Prime Minister would be in sympathy, and that he would do all her could to get rid of the scourge. He feared the right hon. gentleman would say that expenditure was urged while the country was crying for economy. But it would be false economy to stay expenditure in a matter of this sort. He thought they should spend as much money as possible as long as they stamped out the disease. He was against farmers being assisted with cheap this, that, and the other, but in this case the farmer was in the hands of the Government ; no farmer could help himself. The farmers were absolutely in the hands of the Government ; and unless the Minister gave material assistance, valuable assets would be lost in the end. The Prime Minister should not allow expenditure to stand in the way. They all recognised that Dr. Theiler was doing fine work, but he could not spread himself over the country, and he (the speaker) thought the doctor should be given well-paid and capable assistants wherever they came from. He <span class="col_147-148" refersTo="page_0080"/>would again urge the Minister not to allow the question of economy to stand in the way.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>said that he had known of the disease for 20 years, and had first noticed it in the Hope Town district. He was convinced that it was very infectious, and a friend of his told him that when cattle showed traces of the disease it was best to burn them, because even when the carcases were buried there was still some risk. He impressed on the Minister the seriousness of the disease, which, if not checked, would mean ruination to those engaged in cattle farming. He would cordially support the motion.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>*Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that nobody was better qualified to discuss a matter of this sort than the hon. member for Bechuanaland. He (the speaker) would impress upon the Prime Minister the urgency of doing something in the matter. An hon. member on the other side had said that this disease was of more moment than rinderpest. There was no doubt about that. Rinderpest investigations had reached such a point that a farmer could cope with an outbreak at almost a moment&#x2019;s notice. But this was an insidious disease that was spreading over the country, leaving ruination in its course. He was not exaggerating when he said that unless immediate steps were taken to check the spread of the disease a large number of farmers would be entirely ruined and would have to give up cattle farming and turn their attention to some other enterprise. The House wished to impress upon the Prime Minister the necessity of pursuing scientific investigations until some solution of the matter was arrived at. He recognised the important work that was being done by Dr. Theiler, but pointed out that the investigation made should not be sporadic. The Department must send out properly equipped scientific men to the affected districts. They would carry out quiet investigations, and ultimately come to a conclusion in connection with the disease. Referring to investigations that had been made in the Western Transvaal, he said it was only the other day that he had become aware of the character of these investigations. He understood that muzzling experiments had been carried on in that part of the country. The muzzled animals were allowed to run about like the rest of the stock, and these had not contracted the disease. What he did say was that such a result should have been published broadcast by the responsible department, so as to throw other investigations into the one channel. A manager of one of the Bechuanaland farms had informed him that 40 head of cattle had died in January alone, and it was his opinion that the farmers of the country had been minimising the extent of the disease in order not to lessen the value of their holdings. In the circumstances he did not think they were asking too much when they requested that Government should carry on all possible scientific investigations with a view of stamping out the disease. He urged the Government to adopt such a policy, seeing that they were faced with one of the worst dangers to successful cattle farming in the best cattle rearing districts of the country.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. L. STEYTLER</person> (Rouxville)</from>
+
+<p>said that whether the disease was infectious or not, there was no doubt that it was spreading&#x2014;whatever was the cause of that spreading. It was now going East, and it behoved the Government to do all it could to discover a remedy. He hoped that the Government would see that a large sum was placed on the Estimates, or even that experts were temporarily appointed, so long as something was done, as the farmers had done all they could, and could do no more. The Government would be indemnified by the fact that all lands in the West would be at once taken up and their value quadrupled There were, no doubt, able experts in the employ of the Government, but they had much other work to do, and they wanted men on the spot.</p>
+
+</speech>
+
+<speech by="#steyl">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>said that the disease had, within the last few years, spread to the Bloemfontein district, and even to Winburg, Ladybrand, and other districts. There was no doubt that the disease was spreading, and he thought it was also due to cattle trekking.</p>
+
+</speech>
+
+<speech by="#van_eeden">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. W. VAN EEDEN</person> (Swellendam)</from>
+
+<p>said that he thought the cause of the disease was that cattle ate a certain shrub, although that could not be proved. In certain parts of his district the disease had become so serious that not a single animal was left on some farms. He cordially supported the motion.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. P. VAN DER MERWE</person> (Vredefort),</from>
+
+<p>spoke of the extreme gravity of the position, and backed up what the previous speakers had said. No efforts should be spared, he said, to combat the disease, and see whether it could not be stamped out.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>*Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley)</from>
+
+<p>said that some years ago, at the request of the Farmers&#x2019; Association at Griqualand West, he had the honour of introducing a similar resolution to this. At that time in Griqualand West they were losing cattle to the extent of hundreds a year. He was sorry to say that it had now extended to thousands. Not only in Griqualand West, but in Bechuanaland and the Western Free State, the disease was spreading in every direction. At that time the Cape Government did what they could to meet the request of the farmers in Griqualand West. An experimental station was started. After certain experiments had been made, it was thought that, by feeding the cattle on bone meal it was a preventive. That, however, was not successful. The farmers of Griqualand West were convinced that the disease was spreading to such an extent, <span class="col_149-150" refersTo="page_0081"/>and it recurred on the same farm, that unless some special effort were made by the Government, those parts of the country where it occurred were going to be swept clean of cattle, just the same as rinderpest had carried off 90 per cent. of their cattle in Griqualand West in the past. They were convinced that the only way to cope with the situation was to start experimental stations in various parts where the disease was most violent, and put expert men there to carry out systematic investigations and advise the Government. He was asked to urge the Government to consider the advisability at once of starting experimental stations in various parts of the country and getting the best men possible for the work. He was sure that the Government, and especially the Prime Minister, who was the Minister of Agriculture, would leave no stone unturned to cope with this disease. He had heard the Prime Minister state that he would use his best endeavours to cope with the disease.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. DE WAAL</person> (Wolmaransstad)</from>
+
+<p>said that he would like to know whether experiments had been carried out by the Department of Agriculture to see whether dipping would be efficacious in stopping the spread of the disease. A farmer in the Vryburg district dipped his cattle regularly and was not troubled by the disease at all. He hoped that everything possible would be done by the Government to combat the disease.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from><p>said that the matter was of so important a nature that he wanted to say a few words. He would at the outset like to express his sympathy with those who were suffering so severely as the result of that disease breaking out among their cattle&#x2014;he had the greatest sympathy with them ; and the Government was devoting its most earnest attention to the matter. Investigations in connection with that disease were extremely difficult, because the investigation was essentially one for the scientific expert. The Government had appointed one bacteriologist for the Union, and that was Dr. Theiler, who was the most practical and most talented man they could possibly have to deal with cattle diseases, and he was devoting all his attention to the matter. The Government had told him not to hurry and give the matter all his attention. A sum of &#x00A3;5,000 had been placed at his disposal, and he was free to do what he thought fit in the combating of that disease. A farm had been placed at his disposal where experiments could be carried out, and he was given every possible facility, such as a motor-car for visiting farms on which the disease had made an appearance. He had made the discovery that those animals which had been muzzled did not get the disease, which was one of the most important discoveries which could have been made. He thought that Dr. Theiler could safely be trusted to deal with the matter, and if they appointed a number of experts they would only be in each other&#x2019;s way. Dr. Theiler had also made experiments to see whether a healthy animal could be infected by one suffering from the disease, but without success, which tended to show that the disease was not spread by infection, but was caused by the eating of some shrub or other or something on some particular shrub. In this connection botanical experts had been placed at Dr. Theiler&#x2019;s disposal. He gave the assurance that no better investigation could be made ; and it was being better investigated than ever before in South Africa. Dr. Theiler had a better knowledge of South Africa than any imported experts, and the matter could safely be left in his hands. While he had every sympathy with the motion, and hoped it would be carried, he thought that they should not go too far. Let them trust the Government, which was doing all it could to combat the disease.</p>
+
+<p>In reply to Mr. DE WAAL,</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>said that it was most difficult to say what caused the disease, or whether dipping prevented it. Some who had dipped their cattle had the disease breaking out on their farms, and others who had not dipped did not have the disease, and vice versa. The whole matter had to be investigated.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland),</from>
+
+<p>in reply, said that he agreed that Dr. Theiler was the best expert they could have. He did not want so many experts put to the work that they would be in each other&#x2019;s way ; what he wanted was a number of experts who would be under the direction of Dr. Theiler, who would devote all their attention to that matter. He also feared that the farmers would be slightly disappointed with the Minister&#x2019;s answer. He hoped that before the year was out a remedy would have been discovered. (Hear, hear.)</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#printing_contracts">
+
+<heading>PRINTING CONTRACTS.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>moved that all printing contracts entered into between the Government and private firms in force between May and August, 1911, be laid upon the table of the House.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs),</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#native_location_commission">
+
+<heading>NATIVE LOCATION COMMISSION.</heading>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>moved that a copy of the report, with the evidence proceedings, and papers of the Native Location Commission, 1905 (Transvaal), be laid upon the table. The mover said that he had found that the report and evidence had not been printed, and he would be satisfied with the manuscript. He would be content to see what papers the <span class="col_151-152" refersTo="page_0082"/>Government found it convenient to lay on the table.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>seconded</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person></from>
+
+<p>said there was no objection on the part of the Government.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#immigration_laws">
+
+<heading>IMMIGRATION LAWS.</heading>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>moved that a Select Committee be appointed to inquire into the administration of the Immigration Laws of the Union, more especially at Cape Town. He said that he had put the motion on the paper because he had had his attention drawn to certain points in connection with the way in which the law was administered. His attention had been drawn to a number of cases in which there had been partiality in the administration of the law. These cases could be laid before the committee for consideration. He referred to the case of a young girl who had failed to pass the education test, and who had not been allowed to land. Well, when they gave the officer in charge autocratic powers they certainly expected that he would use some discretion. Then there was the case of a brother, who was treated like a criminal and refused a chance to go to the Transvaal for some reason which nobody had been able to discover. The curious point was that this young man was allowed to enter America, where the immigration laws were far more stringent. Continuing, the speaker said that recently there was an industrial dispute in Cape Town between employers and employees in the printing trade. The employers imported men to take the place of those who had declined to work under the existing conditions of service. Well, there was nothing illegal in that, though it was unfortunate that employers were able to import labour from other countries in such circumstances. But he objected, and he thought the public would object, to the partiality shown by the Immigration Officers at that time to the employers. He believed&#x2014;he thought it was common knowledge among members in that House&#x2014;that as far as possible no person was allowed to go on board a ship until the Immigration Officer had made a thorough examination, and declared that the ship had the right of entry. They would expect that if such a notice was posted, as was the case, the terms of that notice would be strictly adhered to. It was not so in this case. The men thought they had an equal right of seeing these men and explaining their views to the men under contract. That was only just. But, owing to the action of the Immigration Officer, the agents of the employers were enabled to board the ship in Table Bay, converse with the men, and get them to sign contracts, while the agents of the men were refused when they applied for similar privileges. It was required that men coming out for service to this country under contract should ratify their agreements, and he supposed the idea was to allow the men who signed for service to make some inquiry into the conditions under which they were expected to work prior to ratification. By allowing the agents of the employers to go to the men in this fashion&#x2014;&#x201C;You have to sign this document or you will not be allowed to land,&#x201D; they were told, in fact, &#x2014;they were practically coerced into signing the document, which may or may not have been fair. The Immigration Officer had no right to differentiate in his treatment between various classes of people. If the people of South Africa were to be expected to have any respect for the laws which governed them, those laws should be impartially administered. He knew the Minister would say that the laws had to be strictly administered, but it was often said that if a man took out a first-class ticket, and was clad in a good suit of clothes, no matter if he were the greatest rogue in the world, he could enter South Africa. These were all matters which, he submitted, a Select Committee could sift to the bottom, to report whether there was any truth in the allegations.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>*Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>said he quite agreed that it was necessary that a Select Committee should be appointed, and he was glad that the motion had been divided into parts, because he certainly did not agree with the constitution of the committee as it was proposed. He thought, coming from those who during this session had repeatedly complained of the way in which committees were constituted, it was certainly remarkable to find a committee such as that, which was going to deal more particularly with the administration of Cape Town, on which there was not a single representative of Cape Town. (Hear, hear.) It was remarkable also to find that, in connection with the administration of the immigration laws, which took place at the ports of the Union, there was only one member proposed for this committee who represented a port of the Union. That there was a necessity for such a Select Committee, he thought everyone in the House would agree. He was not going to rest his statement upon generalities, such as had been adopted by the hon. member for Commissioner-street. There were several classes of grievances, as it were, against the administration of the Act. One particular class, under which many of the cases came, was that the Government, instead of resting its case upon the desirability or otherwise of an immigrant, when it had a bad case to defend, simply raised a plea of alienage. The Government did that every day in the courts of this country. It was a remarkable thing that in England, <span class="col_153-154" refersTo="page_0083"/>where an Aliens Act in 1905 was specially passed to keep out aliens, it had never yet been raised by the English Government as a bar to any alien going to the English courts. Not so here. Here an alien was met by a bar, however desirable he might be, and he had no opportunity of going to the courts. The result was that the grossest injustices had been committed, owing to the fact that the courts of this country were powerless to interfere, because of this plea raised by the Government. He would give a few instances to show what serious injustice was done in the name of the Government in the matter of the administration of these laws, cases that had occurred since the debate in the House last session. There was the case of a young man who wanted to go to Rhodesia to join some relatives who were in good circumstances. He asked to stay in Cape Town for a week until money and a permit, which he said would be sent down from Rhodesia, arrived. He was sent back to England by the immigration authorities. Two or three days after he had left, the money and permit arrived from Rhodesia. Then there was the case of Mr. Vorster and Miss McEwan, two born Free Staters. They had been to Europe to buy bioscope films. They were stopped last year on their way back here. The Immigration Officer seemed to regard himself as a sort of censor morum, and in that capacity he decided that these two should be separated. He only detained the lady till one o&#x2019;clock the following day, when she was released and told to report herself to the Chief Immigration Officer. Vorster was detained in custody. He was going to be sent off by the Walmer Castle, Dut an interdict was just obtained in time in the Supreme Court, and he was removed to the detention depot. The Immigration Officer was acting entirely outside the law. Vorster was temporarily released. Then came the gem. He was sent for by the Immigration Department and a document was put before him by the Chief Immigration Officer, in which he was told that, if he would sign a paper that he knew all along that he was not going to be sent away, there would be no further trouble in the case. He indignantly refused to sign such a paper. On the 15th, two days afterwards, the Government notified that they would pay all the costs to date. In order to intimidate this man, a charge was written out by the Chief Immigration Officer against him. In one case a woman, with her three children, was prevented from joining her husband at Germiston, because there was something wrong with the eye of one of the children. On the same ship was a young man who had been here three years ago. He had money and a trade and was perfectly respectable. He was identified by a well-known citizen of Cape Town, but that had no effect. In another case a woman was stopped because one of her children was pale. (Laughter.) On the Tintagel Castle was the wife of a wealthy man who had lived in Johannesburg for seventeen years. With her was her daughter, who had &#x00A3;5,000 in her own right. But she was a cripple and a dwarf, and that was sufficient to prevent her from landing. Then the immigration authorities urged a most ridiculous thing in the case of a boy of eleven, who wrote English, Yiddish, and Russian, but unfortunately he had a split lip, and so he had to go back. A boy of 14, who arrived here by the Gloucester Castle on September 16, and who had a brother living at Mowbray, was also sent away. Was the Minister aware that the immigration officials had adopted Lombroso as a sort of authority, and that they sometimes measured a man&#x2019;s skull to justify Government in excluding him? In the case of Berman v. the Minister of the Interior, heard on September 19 last, a medical officer of health put in the following report regarding plaintiff: &#x201C;His weight, with ordinary clothing is 105 1b. ; chest measurements at nipple line, on expiration 32 in., on full inspiration 33&#x00BD; in., both these measurements being slightly in excess of the actual chest expansion 1&#x00BD; in. ; height, 5 ft. ; arms and legs very thin ; baldness over a considerable area of the scalp &#x2014;(loud laughter)&#x2014;forehead slopes backwards, ears projecting and pointed, cranial capacity small, an&#x00E6;mic, and has pale mucous membranes, no detectable abnormality in heart or lungs, radial artery feels a little hard at wrist, and there is a slight contortion observable on right temporal artery, twelve teeth absent, three of remaining teeth decayed.&#x201D; (Laughter.) For these reasons, proceeded Mr. Alexander, the authorities asked the Court to exclude Berman. The Supreme Court had taken a very different view of Lombroso to that held by the Minister. He would say nothing of the head of the Immigration Department having been found guilty by three Judges of wilful contempt of Court and still being retained in the Service, but he would say that there was no department in the Union more thoroughly in need of a searching investigation than this particular Department. (Opposition cheers.) The way in which immigrants were harassed was sufficient to keep them far away rather than to come to these inhospitable shores. It was Parliament&#x2019;s duty, while keeping out undesirables, to say that every man should have fair-play and every opportunity to put his case before the Courts and not be under the autocratic control of the satellites of the Minister of the Interior. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from><p>moved the adjournment of the debate till Wednesday, 14th February.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#immigration_law_costs">
+
+<heading><span class="col_155-156" refersTo="page_0084"/>IMMIGRATION LAW COSTS.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>moved for a return showing: (1) The amount of legal charges or costs paid by the Government in connection with proceedings taken against the Government under the various Immigration Laws of the Union since 31st May, 1910 ; and (2) the amount of legal chargee or costs paid by the Government in connection with such proceedings in which the Government was unsuccessful.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#proposed_property_purchase">
+
+<heading>PROPOSED PROPERTY PURCHASE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved that the House go into Committee on the following: This Committee concurs in the proposed purchase by the Government of certain landed property as described in the schedule marked &#x201C;A&#x201D; annexed to certain provisional agreement dated 7th and 8th days of December, 1911, entered into between Edward Ridge Syfret, the duly authorised agent of George Frederick Arthur Pigot Moodie and the Honourable Sir David Pieter de Villiere Graaff, Baronet, in his capacity as Minister of Public Works and as such representing the Government of the Union of South Africa, copy of which agreement was laid on the table of the House on the 2nd day of February, 1912, for a sum not exceeding twenty-five thousand five hundred pounds sterling (&#x00A3;25,500), and subject to the terms and conditions set forth in the aforesaid agreement.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>moved the adjournment of the debate until tomorrow.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that if they agreed to the Minister&#x2019;s motion the House was, to a certain extent, agreeing to the principle. He would like to have an explanation from the Minister.</p>
+
+<p>The motion to adjourn the debate was agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-02-06T17:58:00">5.58 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

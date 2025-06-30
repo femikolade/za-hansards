@@ -29,7 +29,7 @@ plugins:
 
 twitter_username: za_hansards
 github_username: za_hansards
-twitter_link: https://www.twitter.com/za_hansards
+# twitter_link: https://www.twitter.com/za_hansards
 github_link: https://github.com/femikolade/za-hansards
 # Build settings
 theme: minima

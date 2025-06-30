@@ -22,9 +22,11 @@ layout: header_footer
     <ul>
       {% for post in site.posts %}
         {% if post.title contains page.year %}
+          {% unless post.title contains "Front Matter" %}
         <li>
           <a href="{{ post.url | prepend: site.baseurl }}"><span class="old-manuscript">{{ post.title }}</span></a>
         </li>
+          {% endunless %}
         {% endif %}
       {% endfor %}
     </ul>

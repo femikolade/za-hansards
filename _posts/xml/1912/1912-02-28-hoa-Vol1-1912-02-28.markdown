@@ -1,0 +1,345 @@
+---
+title: 'House of Assembly: Vol1 - WEDNESDAY FEBRUARY 28 1912'
+layout: debate
+year: 1912
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, February 28th, 1912</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-02-28T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands),</from>
+
+<p>from S. C. Chase, Magistrate&#x2019;s clerk at De Aar.</p>
+
+</speech>
+
+<speech by="#fichardt">
+
+<from>Mr. <person refersTo="hansard_za">C. G. FICHARDT</person> (Ladybrand),</from>
+
+<p>from Walter J. Highley, late of the Cape service.</p>
+
+</speech>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet),</from>
+
+<p>from the Town Council of Graaff-Reinet, for amendment of the General Dealers and other Licences Amendment Act, 1906 (Cape).</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl),</from>
+
+<p>from E. M. Wahl, teacher.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West),</from>
+
+<p>from Johanna Catherine Blyth, late teacher.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl),</from>
+
+<p>from A. M. du Biel, teacher.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands),</from>
+
+<p>from J. W. Goldsworthy, porter, Railway Department.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from><span class="col_741-742" refersTo="page_0377"/>Mr. <person refersTo="hansard_za">H. DE WAAL</person> (Wolmaransstad),</from>
+
+<p>from inhabitants of Wolmaransstad, praying to be relieved of the payment of the excess of their repatriation debts over the amount of claims owing to them (two petitions).</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>Mr. <person refersTo="hansard_za">H. DE WAAL</person> (Wolmaransstad),</from>
+
+<p>from Welverdiend branch of the South African Party protesting against certain parts of the South Africa Defence Bill.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>Mr. <person refersTo="hansard_za">H. DE WAAL</person> (Wolmaransstad),</from>
+
+<p>from Welverdiend branch of the South African Party praying that the previous system of Field-cornets be substituted for the present system.</p>
+
+</speech>
+
+<speech by="#de_waal">
+
+<from>Mr. <person refersTo="hansard_za">H. DE WAAL</person> (Wolmaransstad),</from>
+
+<p>from Welverdiend branch of the South African Party in opposition to the principle in the Scab Act whereby the whole flock must be dipped when one sheep is infected.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers),</from>
+
+<p>from residents of Port Elizabeth, praying for legislation prohibiting the sale of liquor to natives.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek)</from>
+
+<p>from Hester Fife for a temporary grant in consideration of her late husband&#x2019;s services.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Return showing number of public servants transferred to the Transvaal ; the cost of same and other particulars.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_accounts">
+
+<heading>RAILWAY ACCOUNTS.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved, as an unopposed motion, that the statement of accounts of the South African Railways and Harbours for the period 31st May, 1910, to 31st March, 1911, and the Assistant Auditor&#x2019;s report thereon with a memorandum by the Controller and Auditor-General, presented to the House on the 13th instant, be referred to the Select Committee on Public Accounts.</p>
+
+</speech>
+
+<speech by="#steyl">
+
+<from>Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#south_africa_defence_bill_second_reading">
+
+<heading>SOUTH AFRICA DEFENCE BILL.<br/>SECOND READING.</heading>
+
+<speech by="#lemmer">
+
+<from>&#x2020;General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>said that although principles might be good, it was not desirable to persist in old ones too long. Sometimes they must accept new ones, and that was the case with them in South Africa. After the very clear speech which had been made by the Minister, though there might be objections against the Bill, there could be no further misunderstanding. They had read in the Bill of compulsory training for four years, but that point had now been cleared up, though the clauses in the Bill should be made plainer. It should also be made clear that the army could not be sent out of South Africa, and that the cadet system would not be compulsory, but that the choice would be left to the parents. He (the speaker) saw the advantages of the system, but the principle of compulsion should be removed, and then the parents would reflect a little, and probably accept that system. The Bill was important, because next to the Almighty it was on the defence force that they must count for the preservation of their rights. Everyone must admit that a country must be protected, that they must not leave that protection to others, and that they must prepare for war in time of peace. The principle that every citizen must take part in the defence of the country was not new, and it had been clearly known to the old inhabitants of the Republics. Compulsion started in the Republics at the age of 16 years, and was now made 17. The district officers could formerly call up all men between 16 and 60 years but the principle in the present Bill, to demand the most work from the younger men, was a sound principle. Formerly there had been little or no training, but they found that discipline was wanted, and he himself applauded the provisions on that subject contained in the Bill. Those who complained of the prescribed period for training were the same people who had given trouble in the past. The Bill would contribute to bring the two races together, and if only the two sections co-operated, they would have an army which was one of the strongest in the world. Those who had served under the Republics would admit that it was only those who were accustomed to order and discipline who had done their work. They must prepare for big things, and if they wanted to do so without the necessary training, he feared for the future. The army must not be formed with an eye to the natives. The natives must remain friends to the whites. But looking at the geographical situation of South Africa, they must be prepared for big events, and that Bill would prove to be sufficient. He regretted that the hon. member for Pretoria District, South, had stated that the Bill was drawn up too much on foreign lines. That expression might be wrongly construed by the public. In connection with shooting clubs, the speaker said that the burghers formerly had always been trained in horse-riding and shooting. Opportunities were now not so frequent, and it was therefore a good thing that shooting drills should be made compulsory. The clubs should be run on a uniform basis. It was necessary to educate the people to understand that a scheme of defence was imperative. An officer who had never been trained was practically useless. The ballot system would not lead to any diminution of patriotism or feeling of personal responsibility. He could not see why universal compulsion should be better than partially universal compulsion. He was in favour of the former, but if the finances did not permit of it, then a limited compulsory service should be agreed to. The hon. member for Pretoria District, South, had stated <span class="col_743-744" refersTo="page_0378"/>that an army of 25,000 men was too small. The speaker admitted that, but thought they should first go slowly, and that after the Bill had been in operation for some time they would have a large and well-trained army. Meanwhile they were not dependent upon the 25,000 men, as every man could be called on to defend his country. He was not entirely in agreement with Clause 62, and considered that those who desired to be mounted, but were unable to provide themselves with horse and bridle, should be provided with these by the State. An aviation section would be desirable, but it could be brought up later after the Bill had been in operation. The Sunday work of cadets and scouts gave offence, and country people had a great aversion to such violations of the Sabbath. If that were stopped, the country people would agree to the system. Artillery should be trained in a central place. With regard to the police reserve, the hon. member for Pretoria District, South, had stated that it was insufficient and unorganised, and that they would not be able with the requisite speed to take the places of the regulars. The speaker thought that the reserve would do good work if they were composed in each district of the people of that district. It had been said that many volunteers would be refused, who would then be required to pay the &#x00A3;1 tax. But it was not the intention of the Minister to refuse a volunteer. Such a thing would be a great injustice. The hon. member for Edenburg said that members of Parliament should not be let off, but he (the speaker) did not think they should be compelled to serve, but that when circumstances permitted they should offer themselves. The right hon. member for Victoria West thought it was unfair to make a man pay &#x00A3;1, and then call him up for war, but that &#x00A3;1 was merely to obtain exemption from the military training, and not from military service. In a matter touching the freedom of the people it must be made quite clear that the proposals were in their own interests. With regard to language, he agreed that commands should be given in the mother language of the men. What should they do with regard to the young men who went to study in Europe? The point wanted clearing up. He did not agree with the hon. member for Rustenburg that that portion of the Bill dealing with compulsion should be postponed. Hon. members had had an opportunity to enlighten their constituents on the subject, and if the population were not satisfied, they must vote against the clauses. Those clauses, however, should, he thought, be accented in the interests of the country. He had travelled through his district, had explained the Bill, and misunderstanding and dissatisfaction had disappeared.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>*Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>said that a remark had fallen from the Minister of the Interior with reference to the Boy Scouts, and he thought something ought to be said in regard to that body as a means likely to be utilised towards making this Cadet Corps. Two of the hon. members opposite had raised an objection to the Boy Scouts in consequence of the language question. (Hear, hear.) One hon. member said &#x201C;Hear, hear.&#x201D; That convinced him (Mr. Brown) that he had not given the slightest study to the subject. There was nothing in connection with the Boy Scouts but what could be taught in the Dutch language, and it might be some advantage to tell hon. members that in towns like Graaff-Reinet, Paarl, Ceres, Robertson, and Prieska the Boy Scouts were in existence. The hon. member would find that many things connected with the movement were conducted in Dutch in those districts. The Cadet movement was nothing more or less than a soldierly movement. The Boy Scout movement brought out all that was good as regarded discipline ; it made for a higher type of man. The hon. member went on to refer to what the Boy Scouts were taught, and said that the scout law was nothing but good. The boys were taught to write out their reports, were taught to observe, and other things which were taught to them under no other system of training given to youths. He asked whether, during all the time they had sat there in the House, there was a single motion on the minutes dealing with the mental, moral and physical development of the youth of their country? One thing which the boys were taught was thrift, a thing which was very necessary in this country, and another thing which they were taught was first aid, a most useful thing; a rough and ready system of reading the stars, and astronomy. They were taught horsemanship, life saving and swimming. He was glad to hear the Minister of Defence say that he had been turning his ear to the system ; and he hoped that before long he would also have turned his heart to it. The movement required no drill halls, and every school hall could be used during the hours when there were no schools for a small patrol. That question he was referring to was one of the most important that could be dealt with, and he did feel that they were, as he had said at an earlier stage, neglectful of the interests of the young, and they did not spend any time or anything else on their boys and girls of to-day who were to be the men and women of the future. Education was not everything, and besides mental development they wanted physical development.</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from>
+
+<p>said he came from a district where the people regarded the Bill with some suspicion, and it was therefore necessary to be very careful. Much of the dissatisfaction was created by people who had fled from other countries in order to escape service. It was the duty of every citizen to defend his country. The Bill prepared the way for the compulsory service which had existed under the <span class="col_745-746" refersTo="page_0379"/>Republic. It was wrongly suspected by the public that the Bill called for a four years&#x2019; service, and that the Minister would have the power to send the trained men outside of South Africa. Those difficulties had now been removed, but the people insisted that the training should take place in their own districts, and under officers belonging to their own section of the people. In the speaker&#x2019;s view all the officers must be able to give commands in both languages, and it would not be sufficient that the men only understood such commands in both languages. He foresaw some difficulty in compiling the three lists, as there was an opportunity for favouritism. Clause 55 contained a dangerous provision, namely that an employer could, on the compiling of the lists, press for the exemption of his servants. It should be definitely laid down in the Bill that everyone liable to serve must be able to get leave to fulfil his duties, quite apart from his holidays. It was impossible to expect the men to pay for their entire equipment, and they should obtain from the Minister a positive assurance that training should not take place in camp on Sundays. With regard to the foreigners in the country, who would not be liable to serve, they must be taxed. They were at present ready to become naturalised in order to obtain votes, but if they were required to serve, they would not be so ready to do so, in which case they should be made to pay. In the Bill it should be laid down what was the period of training, which should be at least one month for the first year, and matters should be so conducted that it would not be regarded as a burden, but as a privilege. He thought the payment of a tax would diminish patriotism. Mounted sharpshooters might be given a certificate for admission to the Civil Service, and the same privilege should be given to members of the citizen force. The reserve should also be organised, so that in case of war their officers would know where to find their men. When there were not sufficient volunteers, and a few had to be taken by ballot, then some consideration might be given them in the form of a shortened period of service. Why could not a man of 25 years of age remain in the army? He was well trained, and suitable, and should, if he desired it, be allowed to remain. He feared that the standing army would never be as capable as the Minister imagined, owing to lack of opportunity to train in large numbers. They would do better police duty than war service, and in time of war would be good scouts, but as an army they would leave much to be desired. The coast artillery should possess the highest possible ability. It was to be placed at Cape Town and Durban, but if the enemy landed between those places, they could do nothing, and their cannon would be useless. Their training should take place in a central place, such as Bloemfontein or Pretoria. Neither the speaker nor the country people were opposed to the cadet system, but they were opposed to Sunday training, and the language used. The Scouts might be of great value, they were exercised a little, the spirit of comradeship was assisted, useful things were learned, and he hoped that some measure of compulsion to join might be agreed to. He hoped that the Zoutpansberg volunteer regiment would be taken over. That regiment consisted of both sections of the public, the officers were of both races, and from the point of view of defence, the regiment would be valuable. The horse allowance in the country places had always been smaller than in the towns, but in reckoning the amount to be allowed, it should be remembered that it was very dangerous in the Zoutpansberg to maintain horses. He hoped the Minister would consider these various points, and if dissatisfaction were removed, the Bill would tend to bring the two races together. Dissatisfaction existed mostly amongst the country population. The newspapers and the townspeople were for the most part satisfied.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>&#x2020;Comdt. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg)</from>
+
+<p>said that there was a good deal of dissatisfaction with the Bill. Objection was taken to the training period of four years, and to the compulsory cadet system. Notwithstanding the assurances which they had heard to the effect that the people were now satisfied, he found that meetings were still being held, and that dissatisfaction continued. There were in his district hundreds of men who did not possess a riding horse, and the Government should provide these. He denied that the Republican laws were not good. They were good, but they were not well carried out, and losses had occurred by reason of leaders not doing their duty. He was rather alarmed at the injury to landowners which might arise from the application of clauses 84 and 85, dealing with the setting up of camps. The men in such camps would have the disposal of the water, with the result that the owner would not be able to irrigate his ground. The men in camp had also the disposal of almost everything which was on the farm. He hoped that that would be modified, as otherwise there would be much dissatisfaction in the country.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>*Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula)</from>
+
+<p>said that when the Minister introduced the Bill he made an appeal to hon. members to treat the matter apart from politics or from race and he thought that the Minister could pride himself on his speech and the earnest manner in which the measure had been considered by the House. He thought it brought them to this conclusion, that though they had their family quarrels and their party system, everyone sank differences in a matter of this sort, and became South Africans. From that point of view he must congratulate the Minister on the way in which he introduced the Bill which was now being considered by the House. He had risen for the purpose of dealing with one point which, up to the <span class="col_747-748" refersTo="page_0380"/>present, had not been mentioned in the speeches that had been made by members on both sides of the House. He proceeded to quote the speech of the Minister when the alluded to the question of South Africa&#x2019;s contribution to the Imperial Navy. He quite agreed with the Minister that in that Bill they were doing a great deal for the British Army and the British Empire, and that the Bill was a big advance on the system that obtained at the present time. Still, he must say he regretted that the Minister did not continue his remarks on the point of naval defence, and explain to the House the present position in this connection. He thought it was only right that the House and the country should know if there was any understanding between the Government of the Union and the Imperial Government. There was no doubt that naval defence was necessary, and he pointed out that if Great Britain did not exist it would be incumbent upon them to do something. Therefore, Great Britain was doing what they were not doing themselves. They should like to know what understanding existed, else they would find later on, as the last speaker had remarked, that they were living in a fool&#x2019;s paradise, and be left in the lurch at the last moment. Not long ago they had twelve ships on this station, and owing to a change of naval policy in Great Britain, the Admiralty decided, at twenty-four hours&#x2019; notice, to put half of these ships out of commission. This was done without reference to the Cape authorities. Since then the fleet on the station had been reduced to a greater extent, and now they were left with only three or four ships, which did not only attend to the defence of the coastline of the Union, but their sphere of operations extended as tar as Mombasa, on the East Coast. It might he considered impertinent, at any rate it would be ungracious for us&#x2014;seeing that the Union contributed so little towards the cost of the Navy&#x2014;to criticise the number of ships necessary for South African dedefence ; but, on the other hand, he would point out that the question was of some importance. It was important to know what was being done for the defence of their trade between the Cape and Great Britain and the Continent. Perhaps the House was not aware that at the present time their exports and imports totalled something like one hundred million pounds a year For the protection of that trade they depended entirely on the British Navy. He thought they should recognise more fully their obligations in this respect. The contribution to the Navy had not been increased, and he alluded to the fact that the maintenance of the Naval Station at Simon&#x2019;s Town cost very little less than a million a year. Towards that amount they paid very little&#x2014;&#x00A3;85,000 per annum&#x2014;and he thought it was only right that they should recognise how important it was that they should do more. He did not think that anybody would object to a small tax for such a purpose; on the other hand, he thought an increased grant would be much appreciated by the Imperial Government. He hoped before the session closed that the Minister of the Interior would consider the matter and see the necessity even of increasing that sum in order that the British public may know that we were not unmindful of the services they had rendered and also of the fact that, now we had become a nation, we ought to try and do all we possibly could to take upon ourselves the responsibilities of the defence of our country. He only hoped the time was not far distant when we should be able to pay the whole cost of the defence of South Africa. (Hear, hear.) He recognised that the Minister of the Interior had got a difficult task before him. He could not get every one to see as he saw, and the matter was one that would have to be left to a large extent to education. He (Mr. Runciman) would like to say a word on one or two clauses of the Bill. First, in regard to the period of service which the citizen forces were required to undergo, he thought that two weeks in twelve months was not sufficient in which to prepare the men properly for the defence of the country. He hoped that the period would be extended. He thought the appeal that the Minister had made to the patriotism of South Africa must have convinced him that, even if he went a little further than he had done, he should have no difficulty in getting young men to serve at any rate one month a year. In regard to the cadets, he noticed that it was stipulated in the Bill that they should join at 13 years of age. He was of opinion that 13 was too old an age to join the movement, because at 13, unfortunately, a great many of the boys of this country left school. He certainly thought that they ought to start as members of the cadet corps at 10, 11, or 12. Further, he would like to see something done to encourage the coloured people to take an interest in the defence of the country. He considered that some clause should be incorporated in the Bill similar to the one that they had in the old Cape Burgher Act, so that the coloured people would be interested and could be called out in the event of hostilities. He only hoped that the measure would go through, as it deserved to go through, and that it would have a good effect upon them all, binding them closer together and doing away much more than they had been able in the past with racialism. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#neser">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom)</from>
+
+<p>stated that his constituents were for the most part satisfied with the Bill, though some were much against it. Personally he thought it was necessary for the country, and if his constituents were opposed to it, he would have to resign. Most of the difficulties rested on misunderstanding, which was the result of the faulty Dutch translation of the Bill. When it was properly <span class="col_749-750" refersTo="page_0381"/>explained, the public were satisfied. It was desired that the training period should be laid down in the Bill. If necassary the people would serve for a month, but it should be definitely determined. Some people objected to being obliged to provide themselves with horses, but his experience was that if an Afrikander had to walk for an hour he would run three hours to find a horse. When called up, they would appear all right with horse and bridle. He thought that compensation for wounds and death should not be left to the regulations, but should be contained in the Bill.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that South Africa was indebted to the Minister of Defence for the capable manner in which he had explained the provisions of the Bill. His speech had thrown light on the whole question, and had removed much misunderstanding. There was misunderstanding amongst his (the speaker&#x2019;s) own constituents, as witness the many letters for information which he had received. Most of the criticism of the Bill was caused by careless reading, and also in part by persons who wanted to start an agitation. He was convinced that the South African public would not allow themselves to be misled by such agitators. In South Africa a new nation had been formed, and that formation brought with it great responsibility, for peace and order must be preserved, and that was only possible by a general co-operation in the defence of the country. The defence question must be treated on a non-party basis, for nothing could more injure the country than if there were divisions amongst them in handling that subject. He had great respect for the hon. member for Pretoria District, South, in military matters. He knew the hon. member well, and they understood each other even if they did not always agree. The hon. member had spoken about consulting officers in connection with defence, and had been in favour of a big meeting of all Boer officers for the discussion of the subject. There was a good deal to be said in favour of that, but on the whole he (the Minister) came to the conclusion that it would do more harm than good. The hon. member had stated that the Minister of Defence had only consulted English officers, but that was incorrect. The G.O.C of the British Army in South Africa had been consulted, and afterwards he himself had been consulted, the hon. member for Pretoria District, South, and the Minister of Justice. The speaker thought that the last three mentioned represented the Boer section fairly well. Besides that, the Minister of Defence had addressed the House last year on the subject of defence, and his speech had been published in all the newspapers, which had published leading articles on it. In that speech the matter was brought to the notice of the public, and everybody who conceived it his duty to object to the scheme had done so. Deputations had come from all parts of the country, and objections had been heard and removed. The charge that only one part of the population had been consulted was entirely baseless. Objections had been made to the police and to the proposed artillery. The police must be slowly but well trained, as being the artillery of the future army. Time only would teach them whether the proposed plan was practicable. If found impracticable, then it would be replaced by another plan, and perhaps there would have to be a definite corps of artillery. The hon. member for Pretoria District, South, said that an army of 24,000 men was not big enough. The plan was to take every year 6,000 men, so that in four years there would be 24,000. At the end of four years the men would go into the reserve, which would grow in size year by year, and would ultimately be much larger than the active citizen force. Moreover, in time of need, every man between the ages of 17 and 60 could be called up, thus really the entire male population. They could not take anyone&#x2019;s right away to defend his country. To the objection to the &#x00A3;1 tax, his answer was that if he understood the Bill properly, it was not necessary for anyone to pay it. The Minister had felt that the whole of the 12,000 men might not offer themselves as volunteers, and those who did not would have to pay. If all of them were to be made volunteers they would have a force of 48,000 men. That part was only a question of money. The first reserve would consist of men who joined the shooting clubs, which were to be established throughout the country. If those members asked to be trained, or asked for leave to go into camp for 14 days, or to train in conjunction with other districts, then opportunity would have to be provided. (Hear, hear.) However, it must not be made compulsory. He shared the objection of the country people to the ballot system, but saw no other way to obtain the required number of men. They could not compel everybody to serve, as they must not burden too heavily a small population such as they had in South Africa. The ballot system must be first tried, and then, if necessary, it could be improved or changed. As regarded payment of the men, he thought that would ruin the spirit of the people, and that it would mean the creation of professional soldiers. They wanted patriotic soldiers, who were ready to give their lives for the country, but not for a few shillings per-day. In the Republic everyone had to fight, whether he was afraid or not. When he (the speaker) was Commandant-General, the Government decided to pay the fighting burghers five shillings per day, but that had been a vital mistake. They did not wish to fight for five shillings a day any longer. The men lost during every day&#x2019;s fighting a much larger sum. The members or the citizen force must learn to handle the rifle, to estimate distances, and to get accustomed to discipline. A disciplined man who could handle a rifle could be used anywhere, and a small section of well disciplined <span class="col_751-752" refersTo="page_0382"/>men was of greater value than a big commando of badly-trained soldiers. During the recent war 300 men without cannon were able to hold back a force of 10,000 men with 50 cannon for a period of three days. They did not leave their position, and only a small proportion came out alive. Many people were of opinion that the army should consist solely of volunteers, and that compulsory service was superfluous ; but if they had to rely upon volunteers, the future appeared to him to be dark. Special attention must be paid to mobilisation, which should take place every two years, so that they could see how speedily the army could be got together. The mobilisation would enable both officers and men to be trained. The holding of man&#x0153;uvres was also required, so that they could obtain collective action and kindle a spirit of emulation between the different corps, and so that criticism could lead to the improvement of the army. The speaker had himself seen cadet corps and scouts being trained on Sundays&#x2014;(hear, hear)&#x2014;and that had brought those bodies into ill-odour with the country population. As a desecration of the Sabbath, they could not excuse it. He was a supporter of the cadet system, and his own sons were members. If they wanted to bend a tree it must be done when it was young, and if they wished to train their children in a certain direction, the work must be begun young. The children of both races amongst the cadet corps learned to know and to respect each other, and the system must be continued under proviso that the parents had the right to refuse permission to their children to join. He would, however, advise parents to allow their children to join the cadets. The children enjoyed it, they were trained, and they learned to help themselves. They obtained a chance to show what was in them. But their work should not be done on Sundays. It was also most useful to retain the Boy Scouts. The safety of an army was dependent on scouting. It was the work of the scouts of the Transvaal and Free State which made it possible for them to continue to make war for nearly three years. Those officers who were too proud to make use of the scouts &#x201C;arrived&#x201D; earliest at the islands. Those who thought that that Bill gave power to the Minister to send the army outside of South Africa had not read it correctly. It was plainly stated that the army could be used outside the Union, but inside South Africa. In case of a Kafir rebellion the army must have the right to cross the borders of Swaziland and Basutoland, although those countries did not belong to the Union. The Union had for neighbours several of the great Powers, and in the case of raids from those territories the army must be able to cross their borders. The Union would preserve peace, but they would not give away an inch of ground. (Hear, heard He concluded by appealing for the co-operation of both races, so that the Bill could be made a success. Given that, the future looked hopeful.</p>
+
+</speech>
+
+<speech by="#griffin">
+
+<from>*Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Pietermaritzburg South)</from>
+
+<p>said he thought this Bill would go a long way towards enabling the two races in this country to pull together. At the same time he felt that it was a measure which, in its very nature, was an experiment, and, therefore, one which they ought to approach with caution. Objections had been raised, but they had greatly diminished, and, he believed, would soon have vanished altogether. The Swiss system had been referred to, but that system, he would remind hon. members, had taken many years to build up, and he felt that, if they were to try and introduce the Swiss system in its entirety in this country at this stage, it would prove most expensive, perhaps more expensive than the Minister had indicated. In reference to the first line of defence, the corps that would compose that line had rendered excellent service to the country in the past, and he would make a suggestion which he thought had not yet emerged during the debate. He would suggest that, as the men in the first line of defence retired, their good service should be encouraged by placing them on the land. He believed many of them would make excellent farmers, and they would always be a source that could be drawn upon in case of need. Mr. Griffin expressed his hearty approval of the cadet movement, and urged that the cadet system should be encouraged and improved throughout the Union. He was one of those who strongly objected to Sunday drilling. In regard to the capitation tax of &#x00A3;1, the hon. member said he thought that that would be a burden upon the poorer classes of the (people, and that a tax of 2s. 6d. would press as heavily upon some of the poor people as &#x00A3;1 would upon other classes. He hoped the Minister would bring in a graduated scale rather than impose a heavy burden upon those who could not afford to pay so much. He should give his very hearty support to the second reading of the Bill, and assist, as far as he could, its passage through the House. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>&#x2020;General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>said the Bill contained certain principles as to which all hon. members were in agreement, but it did appear to him that there was too little of the law in the Bill, and too much of it left over for the regulations. He was afraid of regulations, because successors of the present Minister might modify them in such a manner as would be against the interests of the public. The rights allowed in that Bill were not sufficiently guaranteed. There was for instance the right to have their own officers, and the right to use their own language during drills, nor was it made sufficiently clear what rights the officers would have. Clause 49 contained the words &#x201C;as far as possible&#x201D; which were vague and superfluous. If the Bill were to win the popular support, it must not be opposed <span class="col_753-754" refersTo="page_0383"/>to the spirit of the people. Care must be taken that the officers were not unapproachable by the men, otherwise there would be dissatisfaction. The army was to consist of volunteers, and failing sufficient volunteers there was to be a ballot. Now compulsory service was not according to the spirit of the people, but it was quite impossible to get an army without it. It was the intention to place one half of the people in a position to defend themselves, in his opinion they would have year after year fewer volunteers, when ballots would have to follow, and those who escaped the ballot must pay &#x00A3;1 per annum. Well, he thought that wrong. Those people who had to pay the &#x00A3;1 would still be required in time of war, and it was unfair to make them pay. They should first tax foreigners and absentee landlords. In the Bill it was laid down that every citizen had to join a shooting club, and he feared that if that were not done there would be very few shooting clubs. The kind of work which the farmer had to do brought with it the difficulty that he would now and again come and say that he could not attend for the purpose of shooting. Compulsion was therefore unavoidable. The objection to the cadets was not solely because of their Sunday work, but because they were placed under foreign officers, and taken to camps under unsympathetic officers, who could not understand them. It was therefore right to leave the choice of joining the cadets to the parents. The Prime Minister had stated that the success of the Bill was in great part dependent upon the national feeling of the public, but he (the speaker) advised them not to rely too much on patriotism, but rather to make it quite clear to every man liable to serve that it was his duty to serve and defend the country. He agreed that many of the youngsters ought to be trained up to become good scouts.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. J. G. THERON</person> (Heilbron)</from>
+
+<p>said that his constituents mostly favoured the Bill, but had some little difficulties, which would be removed by the speech from the Minister. He shared their objection to the ballot system, though admitting that it was difficult to solve the matter in any other way. In his district there was much objection to the division of the citizens in three sections, and also to the proposed tax of &#x00A3;1. It should be laid down in the Bill that everybody might be called up in time of war or need, and should be left free of that tax. There should also be compensation or pension in the event of a man being wounded. He knew of cases during the late war where wounded men had not received the smallest pension. Some consideration was also due to students who wished to continue their studies. It had been stated that the system of electing officers worked out badly, but he thought that if they appointed their officers, too much account would be taken of the influential persons in each military district. He had no other objections, and hoped the Bill would be made a success.</p>
+
+</speech>
+
+<speech by="#keyter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>said that if the clear language used by the Minister were contained in the Bill, there would be little objection to it. What objections there were were based on misunderstanding. The speaker had received many resolutions against the proposed cadet system, and it was therefore satisfactory to learn that it was not to be made compulsory. Another mistake which had been made was that the people would have to serve four years, but from the speech of the Minister it was clear that the period of training was one month for the recruits&#x2019; course, and during the following years 14 days. The ballot system was also objected to. By that system one part of the people were trained, and the other part had to pay &#x00A3;1, remain untrained, and yet be available in time of war. The result of that was that they would have &#x00A3;1 in cash, and would have incapable men in the field. His constituents were in favour of universal service from the 17th to the 25th year and no balloting. It was complained in country districts that shooting clubs were handicapped owing to the small supply of ammunition. He thought it was better to practise at shooting game rather than at fixed targets. Some people were opposed to compulsion, but they could not do very much without it. Most hon. members were now in favour of compulsion, and he hoped that in other equally important matters they would also favour it.</p>
+
+</speech>
+
+<speech by="#alberts">
+
+<from><span class="col_755-756" refersTo="page_0384"/>&#x2020;Comdt. <person refersTo="hansard_za">J. J. ALBERTS</person> (Standerton)</from>
+
+<p>trusted that the Minister&#x2019;s explanation had removed many of their difficulties. The dissatisfaction that had arisen was due to the complicated phraseology of the Bill. He supported its principles, and considered that the appointment of officers was of much importance, and that the success of the new law would depend upon the appointment of bilingual officers. The officers of the active citizen force would receive no payment, but they would have to pass through a training period, and serve in time of war as officers. He thought that in time of war they should be paid. He could not quite understand the connection between the Council of Defence and the appointment of officers. He thought that a Head Commandant should be appointed. In time of war the Governor-General could direct someone to take command of the entire army, and it was therefore better that he should be appointed in time of peace. He regretted the objection that had been taken to the cadet system, but recognised that it was a conscientious difficulty with many people. For himself he thought it was good that a youth should receive a training whereby he would become accustomed to order and discipline. He understood that the Minister was prepared to have the cadet system compulsory in the towns, but not in the country.</p>
+
+</speech>
+
+<speech by="#minister_of_defence">
+
+<from>The <person refersTo="hansard_za">MINISTER OF DEFENCE</person></from>
+
+<p>denied this.</p>
+
+</speech>
+
+<speech by="#alberts">
+
+<from>&#x2020;Comdt. <person refersTo="hansard_za">J. J. ALBERTS</person></from>
+
+<p>resumed his speech, saying that he must have misunderstood the Minister. In the country places there were, he said, parents who would like their children to have a cadet training, and he hoped therefore that it would he laid down clearly that such could be done. He moved the adjournment of the debate until to-morrow.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_land_expropriation">
+
+<heading>RAILWAY LAND EXPROPRIATION.</heading>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>moved that the report of the Select Committee on Railway Land Expropriation be laid upon the table of the House.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>stated that the report was on the table.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi) then moved:</from>
+
+<p>That the report be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-02-28T18:02:00">6.2 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
