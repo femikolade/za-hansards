@@ -1,0 +1,725 @@
+---
+title: 'House of Assembly: Vol1 - WEDNESDAY MARCH 22 1911'
+layout: debate
+year: 1911
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, March 22 1911</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the chair and read prayers at <recordedTime time="1911-03-22T14:00:00">2 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS</heading>
+
+<speech by="#hunter">
+
+<from>Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban, Central),</from>
+
+<p>from R. N. Moodley and four others, representing Colonial born Indians of Durban, praying that the Immigration Restriction Bill, now before the House, be amended so as to afford greater facilities for the movements of Asiatics.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo),</from>
+
+<p>from Municipal Council of Ermelo and others, praying that further Asiatic immigration be stopped.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central),</from>
+
+<p>from Thomas Sampson, a Works Inspector, South African Railways.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhago),</from>
+
+<p>from J. R. Dodd, bricklayer, South African Railways.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#leave_granted">
+
+<heading>LEAVE GRANTED</heading>
+
+<p>On the motion of Mr. G. BLAINE (Border), leave was granted to him to attend and give evidence before a Select Committee of the Senate.</p>
+
+</debateSection>
+
+<debateSection name="#prime_minister&#x2019;s_expenses_auditor-general&#x2019;s_letter">
+
+<heading>PRIME MINISTER&#x2019;S EXPENSES, AUDITOR-GENERAL&#x2019;S LETTER</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>laid on the table a copy of a letter written to him by the Auditor-General, dated March 20, 1911, having reference to the remarks of the Auditor-General in his report dealing with the expenses of the Prime Minister as a delegate of the National Convention.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>moved as an unopposed motion that the letter be read.</p>
+
+<p>The motion was agreed to, and the letter was read by the Clerk. It was in the following terms:</p>
+
+<p>Dear Mr. Hull,&#x2014;On page 173 of my report on the Transvaal accounts in the statement of expenditure in connection with the National Convention, there appears the following:</p>
+
+<p>&#x201C; 7. Expenses of General Botha, and his private secretary: Visiting Calais, Paris, Brussels, Cologne, Kissingen, Bad, and Berlin (vouchers incomplete), &#x00A3;295 14s. 4d.&#x201D;</p>
+
+<p>This statement was prepared under great pressure, and I regret to find that, although the amount above mentioned was actually spent from public funds in connection with a visit to the Continent, it is inaccurately described, and is as a consequence misleading. It was covered by a certificate from the private secretary to the effect that while travelling with the Right. Hon. the Prime Minister in Europe he had expended the sum on account of the Transvaal Government, and that wherever possible vouchers were obtained, and were enclosed for purposes of audit. All the vouchers which could be found at the time the statement was prepared amounted to about &#x00A3;108, leaving &#x00A3;187 not vouched for.</p>
+
+<p>I have now ascertained that the private secretary&#x2019;s personal allowance of &#x00A3;1 per diem from June 23 to October 16, 1909&#x2014; &#x00A3;116&#x2014;was included in the amount, and that General Botha&#x2019;s personal expenses (except while on official Business) were not so included, but were paid by him personally, and I much regret that the opposite conclusion should have been drawn under the circumstances.</p>
+
+<p>Berlin appears to have been mentioned in consequence of its appearing in connection with the transport of certain luggage, but I now gather that no visit was made to that city.&#x2014;Yours faithfully,</p>
+
+<p>(Signed) WALTER E. GURNEY.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#committee_procedure">
+
+<heading>COMMITTEE PROCEDURE.</heading>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>moved that on the consideration of the Native Labour Regulation Bill in committee of the whole House, Standing Order No. 403, having reference to the amendments made in private Bills by Select Committees, shall apply. He explained that the object of the motion was to save time in the progress of the Bill through committee.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>submitted a similar motion in respect of the Diseases of Stook Bill, and</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (for the Minister of Justice)</from>
+
+<p>moved to the same effect in reference to the Police Bill.</p>
+
+<p>The motions were agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#budget_debate_motion_to_commit">
+
+<heading>BUDGET DEBATE.<br/> MOTION TO COMMIT.</heading>
+
+<speech by="#farrar">
+
+<from><span class="col_1973-1974" refersTo="page_0996"/>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said he must candidly say that he agreed with a great deal that had fallen from the right hon, the member for Victoria West, and that his advice on a question like this must carry weight in the country. If they looked back at the past financial history of the Cape Colony, they found that that Colony had bitterly paid for their experience. They had been through such times in this Colony that they had had to tax incomes down to &#x00A3;50, which spread distress in the country; people had had to leave the country for lack of work and occupation, and he thought they should learn from the lessons of the past. Although Union had come about, they should be most careful in every possible way to see that through extravagant expenditure they did not fall into the errors of the past. Times had a way of repeating themselves, and, unless they showed in these matters that care and caution which they used in their ordinal business life, he thought perhaps they would be confronted with similar difficulties to those which had confronted this Colony. (Hear, hear.) He wanted to refer to another financial authority, who spoke as an out-and-out Nationalist and in support of the Government. He referred to the hon. member for Maritzburg (Mr. Orr), who, he believed, was the Auditor and Controller-General in Natal before Union. The hon. member congratulated the Minister of Finance on the investment of trust and deposit funds in the hands of Public Debt Commissioners. He (Sir G. Farrar) thought that was a move in the right direction. The hon. member (Mr. Orr) went on to condemn the using of &#x00A3;478,000 surplus, not in the redemption of debt, but in what they in the Transvaal knew as extraordinary expenditure. He also condemned the proposals of the Minister root and branch for the suspension of the Sinking Fund. The lion, member went on to say that when the railway rates were reduced in terms of the Act of Union there would be a deficit on the expenditure of &#x00A3;2,000,000. And yet this was in the high-water mark of our prosperity, as the hon. member had termed it. The hon. member told them that the Government must go carefully into the expenditure, seeing that the year of prosperity was based on a deficit of &#x00A3;2,000,000. otherwise, he said, there would be a period of famine, a period of slump, and a period of unstable equilibrium. Now, if that were the opinion of a supporter of the Government, what must be the opinion of the Opposition? He took it that the hon. member spoke in support of the Government, but he must say that this speech was very far from being a speech in support of the Government, and they must pray to be delivered from their friends. Let them take the first item, &#x00A3;478,000, which was to go not to redemption of debt, but to extraordinary expenditure. The Minister of Finance, after preaching that any surplus should go in redemption of debt, quietly used it for extraordinary expenditure.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#suspension_of_sinking_fund">
+
+<heading>SUSPENSION OF SINKING FUND.</heading>
+
+<p>Take the suspension of the Sinking Fund. In the Estimates, the Sinking Fund annual charge was &#x00A3;722,540. In the future it was to be &#x00A3;578,000. That meant practically that they were going to suspend by legislation &#x00A3;144,000 a year. To that must be added the diversion of receipts from Crown land sold by the Governments. There was an item of &#x00A3;10,500 in the case of Natal. Altogether, they were going to divert &#x00A3;215,000. Did they give any relief in taxation for this? Nothing at all. He should be glad to know from the Minister whether the proportion of the revenue which came from the Premier Mine, and which was to go in reduction of debt, would also be converted in the same way that the assets there were converted? They were in the first days of Union. According to the statement laid before the House, they would have to go into the market to borrow &#x00A3;10,000,000 within the next two years, and, knowing that they were in the early days of Union, they reduced their Sinking Fund, and he did think that when their credit was on a sound basis they should do nothing which would in any way depreciate the credit of this country. The country depended on the mining industry. He contended that, knowing that the prosperity of the country depended upon the mining industry, anything which would weaken their Sinking Fund was a very regrettable course of procedure. Western Australia depended a great deal upon mining. Their Sinking Fund on all their loans was paid over to Commissioners in London. It was said that surpluses in future would go in redemption of debt. Well, everyone knew the surpluses might not be there, but, if they were, they might be diverted in the way in which this money had been. The argument was that because their railways were kept up to standard they should not need that Sinking Fund. Well, the railways were kept to standard now, but if they took the history of the Cape Colony during the unfortunate period she passed through, she was unable to pay anything back. Taking all things into consideration, he thought the suspension of the Sinking Fund was not a policy that a young country at the start should pursue. The hon. member for Maritzburg had told them that when the railway rates were reduced, the position of the country on the basis of revenue and expenditure to-day was such that there would be a deficit of &#x00A3;2,000,000. Did hon. members think what other expenditure they had got to meet? They had had a great debate on defence. What was that going to cost? An additional &#x00A3;500,000. Reckoning the cost of defence and those other two items alone, it was possible that the deficit would amount to another million of money.</p>
+
+</debateSection>
+
+<debateSection name="#caution_necessary">
+
+<heading><span class="col_1975-1976" refersTo="page_0997"/>CAUTION NECESSARY.</heading>
+
+<p>He thought, together with other hon. members, that at the present time they were at the high tide of their prosperity, and figures like these must make them cautious. They took &#x00A3;300,000 from the surplus of railway revenue, and they used it for that extraordinary expenditure to make up their surplus of &#x00A3;750,000. Three years before Union they had endeavoured to get a reduction of the railway rates in the North from the Government; but they had always been met with this: that they were bound by the Convention and by the through railway rates; and so they had got no reduction at all to compensate the people for these high rates. He did not say anything about the Cape Province, because it was evident that the influence of the Cape was paramount in the Cabinet, and hon. members from the Cape were very lucky in that respect, when they had got a reduction of practically &#x00A3;200,000 in income tax, and &#x00A3;465,000 in railway rates, or a total of &#x00A3;665,000.</p>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>That is wrong.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>Well, will the hon. member correct me, then? What is the figure?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>was understood to say &#x00A3;520,000.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>I only took the figures from the Hon. the Minister&#x2019;s Estimates of last year. Let us call it &#x00A3;600,000, in round figures. Ho went on to say that he maintained that that &#x00A3;300,000 from the railway surplus should have gone towards the reduction of the railway rates, because here they had entered into the second year of the Budget, and so far no reduction had been foreshadowed in railway rates, except the reduction in the one Province. The people of the North ought to have got a reduction of the rates. The Minister of Finance had talked about a fiscal revolution, and said that one could not create a sudden gap. Well, he admitted that the thing had to be done gradually; but nothing had yet been done; although he hardly agreed with Sir Edgar Walton that the Minister had not produced any financial policy, because he had produced a cigarette tax; and he thought that, after all, that was something. (A laugh.) The trouble was that if the Government introduced any new proposals of taxation there would be a revolution&#x2014;not a fiscal revolution&#x2014;but a revolution among the various interests which made up the Government party.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#cape_excise">
+
+<heading>CAPE EXCISE</heading>
+
+<p>Now if they took Excise; in the Transvaal it, was 9s.; and from the statement of the Minister of Finance, the people there were able to compete against the imported article.</p>
+
+<p>The amount which had been received in 1910 from the Cape Excise was &#x00A3;198,000; and if the Excise had been 9s., as it was in the Transvaal, an amount of &#x00A3;372,000 would have been received, which would have given an additional &#x00A3;175,000 to the Exchequer. Why was it such a difficult thing to make the Cape Excise the same as that of the Transvaal? Would it cause a fiscal revolution in the country? It only showed that when the Hon. the Minister talked about &#x201C;fiscal revolution&#x201D; there was nothing in it. It showed that in that one direction the people of the North could have got relief in railway rates, but the Government preferred to take the railway revenue when they could have imposed some other taxation. He thought that some relief should have been given to the wage-earning classes in the North. The whole question came to this: when they went into Union they had anticipated that there would have been a substantial reduction in the costs of administration. (Mr. JAGGER: Hear, hear ) They had promised that; and made the people believe it, and he admitted, to be perfectly fair, that these things took time; but were there any signs whatever from the Government that they were prepared to study economy and carry out the promises which they had made to the people when they had induced them to come into Union? Everyone knew that the first three or four years were going to be the most difficult. He said &#x2019;that the most colossal mistake the Government had made was when they fixed their own salaries, because it set the keynote to the whole of the Civil Service. (Hear, hear.) If the Government had studied economy they would never have filled the portfolio of the Minister of Commerce, although he had nothing to say against that Minister. Then why appoint new Judges when there were already so many to administer the law? As to agriculture, he did not grudge them a penny for it. He said, spend the money, but spend it judiciously, and in the same way as they did in their own business. (Hear, hear.) Let them carefully watch every item of expenditure. He thought the administration was extravagant in every possible way, and if they spent less money upon it he thought that they could get the same services. (Hear, hear.) He did not grudge the money, and in the Transvaal they, as a party, had supported that vote, but they must, apply the same principles of economy as they would if they were spending their own money. In 1908, before they had game into Union, they had a revenue of 20&#x00BD; millions, which included the railway revenue; and in 1912 it was 27 millions. In 1908 the expenditure was 21 millions, and in 1912 25&#x00BD; millions: an increase of 4&#x00BD; millions in expenditure and 6&#x00BE; millions in revenue.</p>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>What nonsense!</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>asked why the hon. member said that?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p><span class="col_1977-1978" refersTo="page_0998"/>You said since Union&#x2014;</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>I don&#x2019;t know what the hon. member means: I said since 1908. The Hon. the Minister for Cape Town&#x2014;(laughter)&#x2014;well, he thought the hon. member (Mr. Jagger) would very soon be a Minister&#x2014;had estimated the fixed establishment expenditure since Union&#x2014;of course, he did not include the railways&#x2014;at &#x00A3;1,200,000 at least. He (the-speaker) would like, however, to point out to the hon. member for Cape Town (Central) that he had forgotten that in the Transvaal there was what was known as extraordinary expenditure, for which allowance must be made.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mr_hull_in_1908">
+
+<heading>MR. HULL IN 1908</heading>
+
+<p>Now, he would read extracts from speeches delivered by the Minister of Finance in 1908, when their expenditure was on the basis of 21 millions, and ask hon. members to compare them with the speech he had recently delivered when their expenditure had gone up by four and a half millions. Well, when they were spending in South Africa four and a half millions less than they were to-day, this was what the then Treasurer of the Transvaal said: &#x201C;I think, sir, it is acknowledged by almost everybody to-day in the Transvaal that most of the troubles that are upon us have been caused by extravagance and optimism. Not only has the Government been an optimist in the past, but so have municipalities; and especially the Municipality which claims to be the most enlightened body of its kind in South Africa has been optimistic, and obligations have been entered into by the Government and these municipalities which are, in my opinion, utterly unjustifiable&#x2026;. As I say, most of the financial troubles that the Government is suffering from to-day&#x2014;and the country is generally suffering from&#x2014;is due to what we might call incorrigible optimism. It was incorrigible optimism which compelled this colony to contribute year after year to the upkeep and maintenance of the South African Constabulary. (Ministerial &#x201C;Hear, hears.&#x201D;) It was incorrigible optimism which saddled this country with a Civil Service entirely disproportionate with the needs of the country. It was incorrigible optimism which induced our predecessors to spend money like water upon building schemes and other purposes. (Cheers.) The whole of the &#x00A3;35,000,000 which had been borrowed had been spent. Of course, while this money was being spent, and whilst these enormous undertakings were being carried out, they afforded work and employment for a large number of white people, and that meant circulation of money, but that circulation has now been stopped owing to the stoppage of the works. &#x2026; Our policy in the first place is to reduce the cost of administration to the lowest possible point consistent with efficiency. (Hear, hear.) In other words, J our policy is economy and efficiency.&#x201D; Well, he (the speaker) had no proof of that yet. (Opposition cheers.) The Treasurer went on: &#x201C;We have not only to broaden the basis of taxation, but we have to cheapen the cost of Living, and take off some of the burdens at present resting on some of the people&#x2026; Well, sir, there is a great deal to be said on behalf of an income tax, but I do not think the time is ripe yet in this country for an income tax. After all, hon. members must remember that the income tax is a most irritable tax, and that it is a very difficult and costly tax to collect. Therefore, I should be sorry, on the information at pre sent available, to advise the Government to adopt an income tax. &#x2026;&#x201D; Now that was the speech of a very great financial authority in the Transvaal, one who was the first Treasurer under Responsible Government in the Transvaal, and he believed that he had some relation to the Minister of Finance who had delivered his Budget speech the other day. (Laughter.) Now, when a Minister delivered a speech three years ago such as he had quoted, and then delivered a speech such as the Minister of Finance&#x2019;s Budget speech, all he could say was that it was very difficult to reconcile the two speeches, and that a great deal of discount must be placed upon the last Budget speech and the underlying principles. (Opposition &#x201C;Hear, hear.&#x201D;) There was another point to which he wished to refer. The Minister had made the very significant statement that the Post Office cost &#x00A3;1,485,000, and that the earnings amounted to &#x00A3;1,385,000, showing a deficit of &#x00A3;100,000. But he wished to point out that the Post Office rendered services free to other Administrations to the extent of &#x00A3;191,000. Now, he would like to read an extract from the report of the Postmaster Generals&#x2019; Conference. It said: &#x201C;We are strongly of opinon that services rendered by the Post Office to other Government departments, and vice versa, should be pawl for in cash, instead of being accounted for by a book entry, as in most eases at present. There is no doubt that under the present system the telegraph and telephone services, in particular, are used by many Government departments to a far greater extent than is necessary for the transaction of legitimate business&#x2014;and he (the speaker) might add especially at election times&#x2014;(laughter)&#x2014;and we are of opinion that if such services had to be paid for, a material reduction of such use would follow, as has been the practical experience in the Gape Colony since the partial introduction of the system we are now advocating. &#x2026; In no other way can the true financial position be shown in their annual balance-sheets. &#x201D;</p>
+
+</debateSection>
+
+<debateSection name="#postal_matters">
+
+<heading>POSTAL MATTERS.</heading>
+
+<p>What he maintained in regard to the Post Office was: that an increase of trade depended upon the efficiency of the department, and he thought that there should be <span class="col_1979-1980" refersTo="page_0999"/>some practical check which did not exist to-day, especially in view of the fact that they had to study economy. Now he came to the Rome Postal Convention of 1906. The Union was committed to a uniform rate by that Convention, namely: United kingdom and British Possessions, 1d. per oz,.; foreign countries, 2&#x00BD;d. for the first oz., and l&#x00BD;d. per oz. afterwards, in place of 1d. and 2&#x00BD;d. per half oz. respectively The Introduction of this change was temporarily deferred, under the provisions of the Protocol of the Convention, because the financial position of the then four colonies did not justify the sacrifice of loss of revenue (estimated at &#x00A3;56,000 per annum), but the question was one which must be faced immediately by the Union Government. The Minister of Finance, however, had not faced it in his Budget speech, He noticed that the Government had put down postal matters on the agenda of the Imperial Conference, and he thought that some statement should have been made by the Government, because the question of the Protocol was bound to be raised at the Conference. Now that they had entered Union, they should be prepared to meet their obligations. With regard to loan expenditure, he wished to say that he hoped the Loan Bill would not be put off until the last two or three days of the session, but that plenty of time would be allowed to members to discuss it fully. As regarded the income tax which was foreshadowed he said that it would be a tax upon the industrial classes and upon the wage-earn mg class, because everyone knew that of was impossible to collect an income tax from the farmers. (Ministerial cries of &#x201C;Why? &#x201D;) Well, if they looked at the history of the Cape, they would find that it was very difficult to collect the tax from farmers. The non member for Ermelo (General Smuts) saw &#x201C;Why?&#x201D; Well, he (the speaker) thought that as a farmer the hon. member for Ermelo would put most of his income back into his farm. At any rate, if he wore a wise farmer, he would do so. (Laughter.) He thought they should insist upon a land tax. Hon. members opposite should take far more interest in, the financial position of the country, He had listened to hundreds of request.: for branch lines all over the country. Branch lines were excellent things, and they enhanced the value of the land the passed through fully three times. (Opposition cheers.) Branch lines were built to encourage people to produce more, and to give them a market, but they did not want, to encourage people to sit, on their land until a speculator came along. (Cheers.) If we had an income tax, we must have it all round, and a land tax as well. The latter did not tax a man&#x2019;s energy or his improvements, but it got at those people who held up the land. (Cheers.) &#x201C;We should not,&#x201D; observed Si&#x201D; George, &#x201C;be satisfied, and we will not accept an income tax unless there is coupled with it a land tax.&#x201D; In the North, be continued, things had been different; people were now settled on the land there, and they must share in the country&#x2019;s burdens. The Minister of Finance had referred to the need far widening the basis of taxation. To do that they must increase the number of people who would bear that taxation. (Cheers.) If we encouraged good settlers to come to South Africa, the burden of taxation would be more equally distributed. So long, however, as Government did not have a policy of closer settlement and fair increasing the population, so long would the general prosperity of the country be retarded. Concluding, Sir George said that the Estimates were framed on the most extravagant scale&#x2014;(hear, hear)&#x2014; and on such a basis that the present condition of the country could not afford. If the expenditure were net carefully watched, then he was sure that we should have very had times before us. (Cheers.)</p>
+
+</debateSection>
+
+<debateSection name="#poor_whites">
+
+<heading>POOR WHITES</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said might he congratulate Sir George Farrar on his very rapid progress towards the views the Labour members held. Now, the hon. member had become an advocate of the taxation of unimproved land values. He hoped that, in Course of time, the hon. member for Georgetown would come and sit with, them on the cross-benches, and they would welcome him as a most valuable recruit. To most of them, proceeded Mr. Creswell, the Budget had two aspects&#x2014;an annual summary of the national house keeping and as outlining the general financial policy of the Government. Mr. Merriman gave them, the key to that when he said this country was regarded as a plantation country. The Government&#x2019;s proposal, and that of the Opposition, left us with a policy of general drift. The plantation ideal was that the comparative few should be able to exploit the land of the people. That was the policy on which we had been proceeding, and was continued in the Government&#x2019;s financial proposals. The Treasurer Hooked out for the people with the most bulging pockets. He (Mr. Creswell) quite understood that Mr. Hull was merely following the traditional policy adapted by the four colonies prior to Union. Before Union it was said that economy would be achieved as the result of Union, but so far no desire had been shown of saving Parliament opportunities of discussing vital economic questions. The object of the Government should be so to utilise the material resources of the country as to build up a strong people; the people should have access to the country&#x2019;s natural resources, and many more people would come from other centres to join in that prosperity. The most prominent feature in the country, however, was the number of whites sinking into a state of apathy, while the native population was on the upgrade. They found this manufacture of poor whites going on in a country where <span class="col_1981-1982" refersTo="page_1000"/>the perennial cry was a cry for labour to develop the resources of the country. Now, no one would begrudge money well spent in stimulating the agricultural industry, but be would like to have a little more information as to how it was proposed, to use the money set apart under the head of agriculture. He thought that the landed interests should bear their proper share in the expenditure of the country, It was only fair that a tax should be placed on land and on the unimproved land values in such a way as that it should bear evenly throughout the country. An advantage of this would be that it would act as a deterrent to locking up land in this country. Now, in regard to its mineral resources, he thought South Africa had been acting the part of a spendthrift. They frequently heard statements made that the dividends paid by the mines of the Transvaal were trifling compared to the huge amount of capital sunk in the mines. That was misleading. The hon. member proceeded to give figures relating to the capital of the Witwatersrand mines and the amounts paid in dividends. He stated that the dividends paid three and a half years ago by the dividend-baying mines was equal to 19&#x00BD; per cent, on the capital invested in equipment and so on. He contended that if the original owners of the mines had disposed of their holding at tremendously increased prices, the State should not be required to pay the gambling debts of the speculators in the mines. The State had been profligate in the way it had disposed of its assets in the past, and be would like the Minister to inform the House that he was gating to take up a very different attitude in the matter of the disposal of mining areas in future. In regard to the principle of calling for tenders for the development of Government mining areas, he questioned the wisdom of alienating the control of these areas, and the policy hitherto pursued of being continually dependent on capital and on those who had the strings of the capitalist world in their hands. This country, he maintained, was sufficiently strong to be able to do its own business. If it was good enough, as it was a little while ago, for certain people to enter into a bargain with the Government and to out out huge sums in the development of mines, then it was not a question of embarking in a speculative venture. There was very little of speculation about it. He would urge on the Minister to Consider the feasibility of sinking shafts on one of these areas, erecting la mill, doing a certain amount of development, and then, if the Government were shy of tackling the whole job, letting out the underground development in certain specified lots to contributors, or bands of contributors. And let them see that under these circumstances only men who came to the mines should get these things, and let them be real, genuine white labour undertakings. He could conceive such a system, of State Socialism as Wells depicted in &#x201C;The Sleeper Awakes.&#x201D; The best preventive for that was to say that the employees of the Government had just as full, free citizen rights to criticise public affairs as anyone else.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Fix their own wages.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>Yes, sir, fix their own wages if they are so unreasonable as that. My right hon. friend would be only too glad to fix the income from the properties he holds.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#premier_mine">
+
+<heading>PREMIER MINE</heading>
+
+<p>Proceeding, Mr. Creswell said that the Treasurer had alluded to the share which accrued to the Government from the Premier Mine in terms which seemed to indicate that he was contemplating reducing chat share. When, he read the report of the annual meeting of the Premier Company and the Treasurer, and it appeared conclusion he could come to was that pourparlers had taken place between the company and the Treasurer, and it appeared so him that the Treasurer, if he were not willing to lend a partial ear to these representations from the company, was, at will events, desirous of hearing what the members of that House thought of the suggestion. (Hear, hear.) To reduce that share would be nothing less than absolute public plunder. The company had &#x00A3;80,000 capital, of which &#x00A3;67,000 went to the property, &#x00A3;10,000 working expenses, and &#x00A3;1,000 shares, were held in reserve. They had been able to, spend on equipment &#x00A3;1,600,000. They had paid in dividends to those who subscribed that &#x00A3;80,000, &#x00A3;1,240,000. That seemed to be a moderate return in the space of eight or nine years on a capital of &#x00A3;80,000! What did this request from the company mean? They were asked to make a concession to enable those responsible to make good their promise to people who paid as much as &#x00A3;100 a share for the old shares. The country, he submitted, was not in a state when it could make handsome presents to the shareholders in Germany, France, and England, who had happened to have bought shares in the hope that the mine would continue to yield a carat to the load, instead of a quarter of a carat. Turning to the export of gold, Mr. Creswell said he would ask them to look at what happened to this &#x00A3;32,000,000 worth of gold sent out of the country. They had got to pay away &#x00A3;8,500,000 in dividends for the comparatively small amount of money put into the ground, and which had been raised in such a profligatively extravagant way. But, having borrowed our capital with one hand, with the full concurrence and support of the right hon. gentleman and the Government to-day, they proceeded to encourage these gentlemen to go and borrow their labour. A hundred thousand natives ware brought into the Union from outside its limits, and, according to the returns they took about 50s. a month, or <span class="col_1983-1984" refersTo="page_1001"/>&#x00A3;50 a year, and feeding and so on cost a matter of another 15s. a month, so that they could put it down that three or four milions a year were absorbed by that labour. It might be said that they spent a contain amount in this country; but who got the benefit of it? It went to support men who were not citizens of the country, and who took thousands away with them from the country. The result of that process was that they were going to lose, as far as their industrial and mineral resources were concerned, and they found it reflected in the most serious figures in the whole of the Estimates&#x2014;the Customs&#x2014; in regard to which the Minister of Finance anticipated a diminution, while they had that mineral prosperity; in other words, it meant that while industrial development was increasing, the spending power of the people would be lessened according to the estimate of the Minister. He saw that the Minister shook his head: but he could see no other way out of it. He believed that this thing was at the root of the poor White question; and he believed it was tying them up in other directions, and tying up their trade in every way. They were tied up to the Portuguese Government in regard to their ports. The hon. member went on to deal with the figures quoted by Mr. Merriman in regard to the wages paid in Australia, compared with those paid on the Rand. Only 47 per cent, of the men employed on the Rand, he said, got &#x00A3;1 or over, and the average of the whole only came to 4s. a day. The Australian figures represented all grades of labour; while the Rand figures corresponded more with the foreman class; and the comparison was altogether then incomplete. If in Australia the wages were so much lower, why did these men not come flocking here? Nor were there the health conditions in Australia which prevailed here; and in Australia they had encouraged the growth of a really contented working population, and they had legislation enabling those men to have their own plot of ground and to build their own cottage. Here no attempt was made to attract those men and help them, as was done in Australia. In Australia the cost of living was also a good deal lower. He hoped that the working men would combine to get the benefit of the lower cost of living, if the cost of living were reduced here, as he hoped it would be. He thought that in the Budget they had the same &#x201C;plantation idea&#x201D;; &#x201C;we are here to-day, and after was the devil.&#x201D; He saw nothing of what he could call a financial policy in the speech of the Minister of Finance. There was nothing of development in it, except in regard to agriculture&#x2014;nothing which would enable the country to have a greater spending power, and have a more fruitful source of revenue in the future. He was afraid that what they were doing was spending their capital. What he did quarrel with as regards the financial and the general policy of the Government was that they were pursuing the same policy of drift which the four colonies had pursued. They had had no discussion on these fundamental questions, and the general policy which was being pursued tended to crush out the white industrial population&#x2014;the real backbone of the population; and if the Rand were turned into a huge compound, where was the Minister of Finance going to get his revenue and Customs from?</p>
+
+</debateSection>
+
+<debateSection name="#present_labour_policy">
+
+<heading>PRESENT LABOUR POLICY.</heading>
+
+<p>The Minister of Railways would find that traffic was so low that he would have to put up his rates to keep up the interest on his debt, and the mining representatives would be sorry for the policy which they insisted upon the Government pursuing. They would find that the Government would have to get more revenue, and that they would get it by increasing the profits tax. Now he considered that to raise the profits tax because the money happened to be there was a proceeding which did much more harm to the credit of the country than any legislation which they might undertake, and which was obviously and clearly in the interests of the people of the country. He believed that the policy which the Government were pursuing in their adherence to the present labour policy would result in this, that in a couple or three years time they would have greater distress amongst the white population on the Witwatersrand than they had ever seen before. He said that with all sense of responsibility, and he would continue to say so, because he wanted the Government to give this matter not the mere consideration of an afternoon on private members&#x2019; day, but the full consideration which it deserved. He believed and knew that the Government were no less than himself sincerely desirous of seeing, instead of the white population sinking into a state of apathy, the white population of this country increased; of seeing that it took on a more vigorous character; of seeing that the evil idea that work was beneath the dignity of white men disappeared, and of seeing that the Government ceased, he would say, to pander to those who desired to sacrifice the whole future of the white population to an excessive regard for the interests of the natives. He believed in a wise policy, because he believed that such a policy would recognise that the contact and fusion of the two races in the sphere of industry was good neither for the white races nor for the black. He believed that by adopting a wise policy they would do everything they could to induce the natives to develop their own territories according to their own ideas and degrees of civilisation.</p>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>said that he was glad to hear at the end of the speech of the hon. member for Jeppe (Mr. Creswell) that he admitted the Government&#x2019;s seriousness, concern, <span class="col_1985-1986" refersTo="page_1002"/>and anxiety to do their utmost to prevent the white population of this country, or a part of it, from sinking any further than it had. He was glad he admitted that, because it appeared from the earlier part of the hon. member&#x2019;s speech, that he had taken the Government to task because they had deliberately moved down the paper the motion which he had introduced on white labour, and had given no facility to discuss it. Well, he (the speaker) had never heard of a more unreasonable complaint. The hon. member might have had the discussion proceeded with during the last three months by adopting the simple expedient of putting the motion down on an open day. He was sure that there had been open days, but the hon. member had failed to follow that course, and now charged the Government with burking discussion. He would like to tell the hon. member that he did not yield to him, and he was perfectly certain that not one of his colleagues yielded to him in their anxiety to do everything they possibly could on behalf of the poor whites. He agreed with the hon. member that wherever they could they should extend the field of employment for Europeans in this country. He believed that every member of the House desired that they should get people to come here and settle in the country. A great many people who came to this country, and he believed his hon. friend represented some of them, came with the idea of earning extravagant wages, but not with the idea of settling in the country. One would like to see settlements on the land. The Government welcomed bona-fide settlers He wished to point out that until this afternoon, and until he was reminded of it, the hon. member&#x2019;s whole idea was not centred on the question of the poor whites at all. If he was not mistaken, he did not mention a word about poor whites on the occasion of the debate on white labour.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>Oh, yes, I did.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (continuing)</from>
+
+<p>said that the hon. member (Mr. Creswell) failed to see the logic of existing facts and of the existing situation. The Prime Minister of Australia had told them that the conditions of South Africa were entirely different to the conditions of Australia, and that the state of affairs was such that white labour could not make the same demands as it could in Australia.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#tyranny_of_labour">
+
+<heading>TYRANNY OF LABOUR</heading>
+
+<p>There were perfectly competent coloured men at Stellenbosch prepared to work on the Union buildings at Pretoria, but his hon. friend and his friends had put their foot down, and said, &#x201C;This shall not be.&#x201D; (Government cheers.) Then the Johannesburg Town Council had decided that in future building contracts in that town no coloured person could ever be employed. The corollary to that was that the masons decided that they would not work under 24s. a day. So long as that attitude was adopted, and so long as we had a tyranny of labour far worse than the tyranny of the mining industry, the Labour party would never convince South Africa&#x2014; (cheers)&#x2014;and would be in conflict with every branch of industry. South Africa could well give only one answer to such a suggestion. The only substantial objection to labour from beyond our own boundaries for the mines was the tremendous mortality among the workers. The general complaint against the Government (continued Mr. Burton) was that it had displayed no tendency towards economy. (Hear, hear.) The hon. members for Georgetown and Yeoville had talked about broadening the basis of taxation. That was a familiar phrase, and was tile cry of the rich man when he feared he would have to carry a burden which he was well able to bear. Sir G. Farrar had suggested that there should be a tax on land. He (Mr. Burton) had no objection to that if it were necessary, and he did not believe a single member of the House would have any objection to bearing his fair share of that taxation. When we had an income tax in the Cape we had a land tax as well. But he was not so sure that the hon. member for Georgetown, if it ever came to the point, would press home to its logical conclusion this demand for a land tax. Then the hon. member for Georgetown suggested that the local people should be taxed for the building of branch railways. That was a most delightful policy introduced after 80 millions had been spent on railways, for the construction of which no one had been made to bear the expense locally.</p>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Oh, yes.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (continuing)</from>
+
+<p>said with regard to economy, so far as he was concerned, and&#x2014;he believed&#x2014;so far as his colleagues were concerned, they were as anxious to economise in the administration of the affairs of the country as any hon. member could be.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>You have not shown much evidence.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (proceeding)</from>
+
+<p>said he would be very much disappointed if in a few years&#x2019; time they were not able to show substantial economies, and everyone hoped that they would be able to do so. Government had not yet been ten months in office, and it had an enormous burden of necessary work to perform, not merely administrative, hut legislative, which could not be avoided, and to charge them with extravagance because they had not at once <span class="col_1987-1988" refersTo="page_1003"/>been able to effect economies was unreasonable. (Hear, hear.) To illustrate the unreasonableness of the attitude taken up by hon. members opposite, and even by Mr. Merriman, let them take a few of the comparisons they had applied. One compared our expenditure with that of the Netherlands and Denmark&#x2014;countries which had enjoyed the benefits of civilisation for centuries past&#x2014;and asked them why they could not administer on a similar basis. Why did not the hon. member compare the difference in the cost of Diving here with that in Holland, and blame the Government for it? That would have been equally reasonable. Then Mr. Jagger took as his standard of expenditure the time when the Cape&#x2019;s finances were at the very lowest point&#x2014;a point when the Cape broke its contract with the Civil Servants by deducting 5 per cent. from their salaries, a point when they were compelled to economise to a grievous extent. He (Mr. Burton) then saved something like &#x00A3;100,000 by reducing the police bellow the proper strength. The services were then starved throughout, and they had since then had to do things they would like to have done then. The present Estimates&#x2014;most rightly and properly&#x2014;now provided for those Services. What had happened since then? There had been an enormous expansion in South Africa. The expansion and development throughout South Africa had been so large that it justified Government in doing what it had done.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#expansion_under_union">
+
+<heading>EXPANSION UNDER UNION</heading>
+
+<p>Let them take the Department of the Minister of Posts and Telegraphs, for instance. When the Government was formed, the Minister was informed by his advisers that they hoped to be able to do with 200 men fewer under Union. Steps were about to be taken to effect this reduction, but since that, time the expansion of the postal business of the country had been so great that the same advisers were now unable to recommend getting rid of a single man. It was the same in his (Mr. Burton&#x2019;s) department. The bulk of the increase which Mr. Jagger complained of in the Native Affairs Department was explained by the enormous expansion of the native labour supply to the mines in Johannesburg. And that was one of the most productive services there was. Did the hon. member know that in respect of practically every native labourer who went to Johannesburg there was a revenue to the Government of about 25s.? Of course, there had to be increased expenditure on the machinery for the organisation of this supply, but the larger the expenditure was, the greater was the revenue to the Government. Of the increase in the department&#x2019;s estimates&#x2014; leaving aside a certain increase he would explain later&#x2014;over 50 per cent, was accounted for by this native labour supply organisation. During the year ended December 31, 1908, there were 256,000 native labourers sent to the Witwatersrand, whereas during the year 1910 there were 293,000, an increase of 14 per cent.; while the revenue derived in 1908 was &#x00A3;403,000, against &#x00A3;491,000 in 1910, an increase of 21 per cent. Surely the true reply to all this criticism that the Government had not displayed a tendency towards economy in these Estimates was the fact that by the Act of Union they were obliged to appoint a Civil Service Commission to go into the whole question of the reorganisaition of the Civil Service, that this Commission had been appointed, and that it was still sitting, with its labours uncompleted.</p>
+
+</debateSection>
+
+<debateSection name="#civil_service_commission">
+
+<heading>CIVIL SERVICE COMMISSION</heading>
+
+<p>He would remind the House that every recommendation made by that Commission in the two reports it had so far published in regard to the Customs Department had been carried out. Supposing that now the Government prepared estimates in accordance with a beautiful scheme of reorganisation they themselves devised, what were the chances that that Commission would not come forward and recommend an entirely different basis? The Government had still to come to the House with Estimates of a transitional character. And how could it be otherwise? The hon. member for Cape Town (Mr. Jagger) had said they employed one Civil Servant to every 73 white people in this country. The hon. member entirely ignored the fact that in addition to the administration of the affairs of the white population of this country, they had also three and a half million native people to deal with. Then the hon. member (Mr. Jagger) was alarmed at the increase of &#x00A3;58,000 in the expenditure of the Native Affairs Department compared with what was spent under Union. Well, out of this &#x00A3;58,000, &#x00A3;40,000 was incurred by the previous Governments prior to Union. That was an increase the present Government was not responsible for. Well, of the balance of &#x00A3;18,000. 50 per cent, was due to the progressive increase of the native labour supply, and the balance was due to such matters as services, agricultural supervision of the natives, and things of that sort&#x2014;things which the Government felt should be done, and things in regard to which he made bold to say the administration of native affairs in South Africa had in the past been greatly starved. Now the figures of expenditure upon native affairs, as compared with the revenue, were of a startling nature. The expenditure upon native administration in this country, including education, was &#x00A3;318,000; the revenue was &#x00A3;875,000.</p>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North):</from>
+
+<p>Including police and magistrates?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>Oh, yes; they are included where they are in Native Territories, as in the Transkei. When they criticised <span class="col_1989-1990" refersTo="page_1004"/>expenditure of that sort (he continued) they should bear in mind that it was difficult at a time of expansion and development to prevent an increase appearing on the Estimates. They ought not to be mean in expenditure on development. When they came down to their clerical staff at headquarters, then he agreed that their aim should be to reduce it, and they would find that this class of expenditure was reduced on the Estimates for his (the Native Affairs) department.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#civil_service_commission">
+
+<heading>CIVIL SERVICE COMMISSION.</heading>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek)</from>
+
+<p>said that he agreed as to the difficulty of dealing with the Civil Service until the Government had before them the recommendations of the Civil Service Commission. He would not have risen during this debate, but for the fact that he felt bound to make a few remarks on the nature of the Commission appointed, and on the nature of the work which appeared to have been done by the Commission. There was a disparity between the statements made by the Minister of the Interior and the Minister of Native Affairs. The former, when asked, had given an answer which was characterised by that vagueness which sometimes spread itself over the replies given by the Minister. But the Minister of Native Affairs had just made a definite statement in regard to the Commission&#x2019;s report. He said as to the second report, which dealt with Customs, that every recommendation in that report had already been put into effect by the Government.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>With regard to the numbers of the staff.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek):</from>
+
+<p>I am simply taking What was said by the Minister of Native Affairs.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>When I said that the recommendations of the Commission had been carried out with regard to the second report, I meant the report with regard to the reorganisation of the staff&#x2014;the establishment. I meant the reorganisation of the staff&#x2014;the reduction of the staff.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek):</from>
+
+<p>That is perfectly clear, and it is in regard to the reorganisation of the staff that I want to make a few remarks this afternoon. Proceeding, he said that he would like to refer to the personnel of the Commission. He knew it was a difficult subject to deal with, but he did say that the Commission which was actually appointed by the Government was not in its personnel such a Commission as was contemplated by the Act of Union. They had previously had Commissions on the Civil Service in the Cape and the Transvaal, and he believed that when the members of the National Convention drew up the Act of Union, they intended that an equally authoritative Commission, and, if possible, a more authoritative Commission, should be appointed to mould the services of the four colonies into the Union Service. The members of the present Commission could not compare, both for authority and weight, in the minds of the public, or in the minds of the Civil Servants themselves, with either of those Commissions that had preceded them in recent years in this country. There was another point, and that was: in the instructions it was provided that the secretary of each department should be a member ad hoc of the Commission, whilst the Commission was dealing with his department. He submitted that that was a condition which totally invalidated the conclusions af this Commission in regard to reorganisation. (Hear, hear.) Really, by appointing the Commission in this way, and limiting its instructions in such a way as not to allow it to take evidence, and compelling it to join with it the head of each department When it was inquiring into that department. The Government had practically hampered that Commission, and prevented it from giving a report which was of the slightest use in arriving at a final reorganisation of the services of the four colonies into a Union Service. He did not want to decry for one moment the services rendered by heads of departments in this country. He thought that in regard to one of the heads of departments, everyone who listened to the Budget speech must have realised that that exhaustive and clear statement of the finances of the Union owed a great deal to the head of the department of the Minister of Finance, and when the Minister had recited the memorandum to the House, they could not fall to be impressed with the knowledge and the capability of the one who had composed it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#heads_of_departments">
+
+<heading>HEADS OF DEPARTMENTS</heading>
+
+<p>Continuing, he said that if anything was essential for the reorganisation of the service, it was that not only should the evidence of heads of departments be given, but that junior members should be given the opportunity of criticising, under a pledge of secrecy, the scheme which had been drawn up by heads of departments. He would not have thought of reading extracts from the first report of the Commission, or treating it seriously, or giving it any serious consideration in the House, were it not for the definite statement of the Minister that the Government intended to act on that report. The hon. member went on to read extracts from the report, and said the Commission had gone to work without proper preparation for its duties, and had been convicted out of its own mouth. Proceeding, be said that in the Civil Service they had to deal with three classes&#x2014;the purely executive, and the administrative, which included the partly clerical and partly administrative. That first report of the Commission dealt only with the clerical and the administrative <span class="col_1991-1992" refersTo="page_1005"/>work of the Service, and the previous two Commissions&#x2014; the Cape in 1900, and the Transvaal in 1906&#x2014;which had reported on the condition of the Service had regarded it as essential that there should be a clear distinction made between the clerical and the administrative work. That was the real principle which underlay the whole of the Civil Service administration. The present Commission had totally departed from that recommendation, and had simply laid it down that there should be one class throughout the whole of the Union Civil Service; that that class should be strictly graded, and that there should be distinct barriers between the grades. The only entrance to the Union Service was to be by examination, and the standard was to be the matriculation examination. After recent events, what the Commission thought of that examination he did not know. The only way in which a man could rise from a lower grade to a higher grade would be by seniority&#x2014; because that, was what it would come to. What was going to be the result? Absolute stagnation in the Service, and no possibility of a young man, who was a capable and good man, getting over the head of the older man who was not so efficient. He besought hon. members of that House to realise the extreme seriousness of that position, in view of the statement of the Minister of Native Affairs; for the whole measure of reform lay in a satisfied and properly organised Civil Service. If the Government were going to reorganise the Service of the Union on the lines of the first report of the Commission, then there would be nothing but chaos, all kinds of confusion, and the utmost discontent, and the greatest injustice would be dome to the individual. The Government were almost bound to act on the report, but he thought they could get out of the difficulty by carrying out section 142 of the Union Act&#x2014;by appointing a permanent Public Service Commission.</p>
+
+</debateSection>
+
+<debateSection name="#budget_committee">
+
+<heading>BUDGET COMMITTEE</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>dealt with the question of recruitment of the Civil Service, and said that it was proposed to arrange the Civil Service without any regard to the educational system of the country. There was no need for the Commission to have made recommendations at the present time. He went on to deal with the speech of the hon, member for Georgetown (Sir George Farrar), declaring that it was full of mis-statements. The railways had developed the country, and they had justified themselves from a financial point of view. If there were any deficit on the new railways proposed to be built, it would be borne by the railway, and not the general revenue. It appeared to him that Sir George Farrar was trying to excite apprehension in the country&#x2014; apprehension for which there was no justification. The crux of the debate was the allegations of extravagance against the Government, but some of the hon. members who made that charge sat on the Budget Committee, which had not recommended any reductions of expenditure. &#x2019; (Laughter.) The Budget Committee found it exceedingly difficult to say that money was being wasted, and the committee did not find it possible to make any definite recommendations for reductions. Warnings against extravagance uttered by hon. members opposite misled the country, and he protested against the reckless language of Mr. Jagger, who compared the situation now with what it was in 1902-3. The position now was entirely different. Then comparisons had been made with other countries differently circumstanced from South Africa. Not only population, but wealth, size, and other factors must be considered in making this comparison. The United Kingdom, for instance, spent &#x00A3;15,000 per square mile, and South Africa spent &#x00A3;60. It would be quite as rational to argue that this was a proper comparison as it would be to contend that they Should reckon on the basis of the populations of the two countries. One hon. member had drawn attention to the fact that the salaries of the Customs Department amounted to &#x00A3;132,000, but he forget that that department collected revenue to the extent of &#x00A3;4,009,000. Continuing, the hon. member said that the Minister of Finance had performed the rare feat in the Transvaal of reducing expenditure while the revenue was rising, and he had no doubt the Minister would perform the same feat in regard to the Union finances. Now, the most extravagant language had been used about the salaries of Civil Servants, and the salaries of the heads of departments had been called preposterously high. Well, he (Mr. Fremantle) did no, think a salary of &#x00A3;1,500 a year for the head of a department having half his time in Pretoria and half his time in Cape Town was too high. He would like to have seen on the Estimates more provision for the equipment of the country out of revenue in requirements such as schools, roads, and bridges. The first necessity for sound principles in the expenditure of the country was no doubt Parliamentary control, and in this connection he wished to express his gratification with the proposals made by the Government. They had had an Audit Bill, which in the main was a thoroughly sound measure. Then they ought to take into consideration the provision made for the proper investment of the enormous balances, which in the past had certainly not been under proper control. The proposals in regard to loan expenditure also established Parliamentary control of a kind which had been lacking in the past, for money had been borrowed for one purpose and spent on another. That had been done by Sir E. Walton, when he was Treasurer General of the Cape. Due credit ought to be given to the Minister for having tied his hands in an extremely proper way in this respect.</p>
+
+</speech>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p><span class="col_1993-1994" refersTo="page_1006"/>(continuing his speech) thanked the Government for the statistics which had been placed at the service of members. He hoped that the Government would make some provision for the appointment of a statistician. Mr. Fremantle also urged the desirability of obtaining some correlation between the British trade statistics and the South African trade statistics. He pointed out the discrepancies which had been found in the statistics. For instance, in the British figures for 1910 as to imports from South Africa, the amount was given as &#x00A3;7,500,000, while the South African figures were &#x00A3;42,000,000. Touching on the estimates of revenue, he expressed the opinion that the Minister of Finance had under-estimated the Customs receipts. He regretted that they had not got bank statistics for the whole of South Africa. With the fixed deposits going down, and the floating deposits going up in the banks of the Cape Colony, he thought they had a most encouraging index of the state of tirade. He doubted very much whether the pessimism which had been expressed by some members opposite was justified. He took a hopeful view of the position. As to what had been said about reducing the railway rates, he did not think it was so easy to get rid of revenue&#x2014;(laughter)&#x2014;because if they reduced the rates the receipts would not necessarily go down owing to the increase of traffic. He hoped, however, that the rates would be reduced, as that would reduce the cost of living inland. There had been remission of taxation already; and he referred, inter alia, to the mineral tax, income tax, patent medicine tax, and the cigarette tax; and they were all grateful for what had been done. He hoped that it would not be found necessary to impose additional taxation. The hon. member said that his reading of the figures was that the Cape railways had not lost money as his hon. friend opposite seemed to make out, and from start to finish (1875&#x2014;1909) they had made a profit of &#x00A3;2,000,000. He thought the Government could safely add on &#x00A3;150,000 to their railways, to their Customs revenue, and so avoid the necessity of suspending the Sinking Fund. Continuing, he criticised the remarks of the hon. member for Georgetown with regard to the payments on the Sinking Fund, in so far as railways were concerned. He would like to see the Sinking Fund increased, and he hoped that such a day would soon come. He did trust that the Government would take two points into consideration in connection with the conversion of debt, one was terminable annuities and the other small holdings in the public stock of the country. He thought the latter would not only be an advantage to the small investor, but be in the best interests of the country. He hoped the time was not far distant when the whole question of education would be dealt with in the House, They would then have to deal with educational finance, and he hoped that the Government would follow a cautious policy. Although he was sorry to hear what was proposed to be done in regard to the Sinking Fund, he thought the Minister deserved well of the House for the full information he had given, and for the proposals he had brought, forward.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>sad that the hon. member (Mr. Fremantle) had stated that the Minister of Finance was securing Parliamentary control which they never had before, but he (the speaker) could only say that it had not yet been put into practice. (Opposition &#x201C;Hear, hear.&#x201D;) For the financial period ending this month the Minister of Finance was taking &#x00A3;742,000 from the railway profits, and for the year ending March 31, 1912, he was going to take &#x00A3;1,159,000. These demands, however, had to come to an end in the course of four years, and there was no indication in the Estimates to show how this was going to be made up. In regard to the proposed reduction of the Sinking Fund, he said that they were not living under purely normal economic conditions, and they ought to contribute more than a normal amount to the Sinking Fund in order to lessen the burdens of those who followed them.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#taxation_of_land_values">
+
+<heading>TAXATION OF LAND VALUES</heading>
+
+<p>It was not a question of transferring taxation from the poor to rich. The argument for the taxation of land values was stronger here than it was in any other country.</p>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Why didn&#x2019;t you put it on in the Transvaal?</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>When the hon. member was in power in the Transvaal he had a solid party behind him, but I was a mark to be shot at.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>You were a party yourself. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Johannesburg would not have had a debt of six millions then.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>My hon. friend and those who have been in office since have been parties to increasing that debt.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Look at the unearned increment over there. (Laughter.)</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>We were in office as benevolent autocrats&#x2014;(laughter) &#x2014;and the result was that we were marks to be shot at by everybody who was looking forward to the advent of Responsible Government. If we had attempted to introduce revolutionary changes of that kind within five years of a disastrous war, what would have been said to us? If we came short of our duty, then there is all the <span class="col_1995-1996" refersTo="page_1007"/>Jess reason for those who see it so clearly now to fall short of their duty. (Opposition cheers.) Proceeding, Mr. Duncan said Government talked about equalising taxation, but what lit had done simply meant moving the taxes from, the one part of the Union and placing them on another. Under the new stamp licences the Cape, Free State, and Natal were to be relieved to a considerable extent, but the Transvaal would have to bear a heavier burden to make up the difference. The equalisation of taxation must be sought by taxing people who could not be said to be poor who contributed an inadequate share to the revenue. Another point in favour of the equalisation of taxation was that, it would discourage extravagance.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#farmers_and_income_tax">
+
+<heading>FARMERS AND INCOME TAX</heading>
+
+<p>There was until lately an income tax in the Cape; the country population of the Colony paid a part of it, but it was instructive to see how quickly the country people shook that off. In 1907-8 the farmers of Oudtshoorn were assessed at &#x00A3;144,000, but in the following year the basis of assessment was changed, and their incomes fell to &#x00A3;57,000. (Laughter.) The next year they got back to the old system of assessment, but not to the old figures; the farmers by that time had learned a thing or two. (Laughter.) They paid on &#x00A3;362,000 instead of &#x00A3;519,000.</p>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>That is the whole colony; that included the traders and public-house keepers. (Ministerial cheers.),</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>I am perfectly right. The assessable incomes of &#x00A3;1,000 and over in the whole colony amounted to over &#x00A3;2,000,000. The farming incomes did not fall in 1909-10, as compared with 1907-8&#x2014;in fact, the farming population had done exceedingly well. Continuing, Mr. Duncan said that another advantage of the taxation of land values was that it, discouraged people who held up land, for speculative purposes. He was in favour of taxing unearned increments. There was no doubt that there was a great deal of land held out of production because its value was increasing without any exertion on the part of those who owned it. He saw that four young farmers from the Frankfurt district were leaving for East Africa because they could not find land that meant that they could not afford to pay the price which the owners insisted on receiving.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#discouraging_settlers">
+
+<heading>DISCOURAGING SETTLERS</heading>
+
+<p>The taxation of land would have a salutary effect, the effect of bringing land into the market which was wanted by the young men of the country. They had heard from the Minister of Native Affair&#x2019;s that the Government were anxious to encourage closer settlement. Well, he (Mr. Duncan) saw no signs of it in their fiscal policy, which seemed to be directed to getting the last penny they could out of the mineral wealth of the country, on the basis of uncivilised labour. Everything the Government did tended to maintain the high cost of living, and to discourage men from coming to this country and settling here. What were the Government doing to make it possible for a man to come here and establish a decent home? It was true, as Mr. Merriman had said, that the country was organised on a plantation basis, on the basis of a small aristocratic white community living on semi-servile labour. That, seemed the position, at any rate, to which the policy of the Government was leading the country. The hon. member for Victoria West (Mr. Merriman) had touched on the matter of preference. He (Mr. Duncan) was sorry that other hon. members had left the question so much in the background, because it was a matter of the greatest importance, and one which they could not afford to ignore. Now, Mr. Merriman had said that preference had been a failure in regard to Australia, because the result it had led to had been the rejection by Australia of large quantities on South African produce. Well, there was another side to it. He (Mr. Duncan) had seen lately statements as to the effect of preference in New Zealand&#x2014;that it had led to a large!&#x2019; increased consumption of South African wines in New Zealand. (Hear, hear.) Whether that was so or not, under our present Customs law preference between one part of the Empire and another was purely a matter of bargaining&#x2014; of give and take&#x2014;and if a bargain was proposed which did not suit them they needn&#x2019;t enter into it.</p>
+
+</debateSection>
+
+<debateSection name="#preference_with_great_britain">
+
+<heading>PREFERENCE WITH GREAT BRITAIN</heading>
+
+<p>He admitted that at the present time they gave a preference to Great Britain without getting preference in return, but he thought that was a state of things which might soon be remedied. In any case, before hon. members condemned this system of preference, he would like them to remember that there was a time&#x2014;not so long ago&#x2014;when preferential treatment was given in Great Britain to South African wines. Mr. Gladstone, when, he introduced his Budget in the House of Commons in 1860&#x2014;the year in which preference to Colonial wines was done away with in Great Britain as a result of the treaty with France&#x2014;gave some instructive figures relating to the importation of Colonial wines. He then said that for the period from 1851 to 1853, inclusive, the average importation of Colonial wines to Great Britain was 254,000 gallons; during the next three years&#x2014;1854-6&#x2014;the quantity was 298,000 gallons; from 1857 to 1859 it was 655,000 gallons. In the same period the importation of foreign wines had fallen from 6,235,000 to 5,893,000. Mr. Gladstone added that in fact the Colonial wine was rapidly displacing <span class="col_1997-1998" refersTo="page_1008"/>the foreign. Well, some hon. members might know that most of that Colonial wine came from South Africa. How much came from South Africa now? Were hon. members, in face of these figures, prepared to say that preference meant nothing to them? With regard to the Government share in the Premier Mine, he must say that, to his mind, any reduction of the Government share would amount to making a present to the shareholders in that mine. Before the law was passed, under which the Government took 60 per cent. of the production, the position was that private individuals were only entitled to an eighth of a mine which they found on Government ground, and the four-tenths of the net production of the mine was considered to be a, fair equivalent to that one-eighth of the mine. The 60 per cent was regarded as the rightful share of the Government, and it would be making a present to the shareholders of the Premier Mine at the expense of the public if that, share were now reduced. His criticism of the financial policy of the Government was not one purely directed to their expenditure; it was much more directed to the whole financial policy, a policy which he feared would lead them into disaster. (Cheers.)</p>
+
+</debateSection>
+
+<debateSection name="#the_north-west_cape">
+
+<heading>THE NORTH-WEST, CAPE</heading>
+
+<speech by="#kuhn">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>congratulated the Minister of Finance on the able way in which he had set the whole financial position of the Union before them, but&#x2014;for there was a but&#x2014;he thought that more could be done by the Government in the way of effecting economies. He was glad to see that there was a surplus, and that the Government intended to go in for a policy of development. As to what the hon. member for Fordsburg had said about the farming community, and the necessity for a land tax, it showed how ignorant even clever people could sometimes be, because the hon. member forgot that Divisional Council rates had to be paid, and the farmer had many difficulties to contend with. He was convinced that if the Prime Minister granted the hon. member a big farm, in the Gordonia district for example, and &#x00A3;5,000 besides, the hon. member would not be able to keep up farming for more than half-a-dozen years. (Laughter.) The hon. member went on to emphasise the value of the North-west, and the necessity for the Government to prepare for the day when the mines would no longer add to the revenue of the country. They talked glibly of immigration and land settlement, but the Government could do much in regard to water-boring in the North-west, for what was wanted there was water. What could be done by means of irrigation in those districts was shown by the Kakamas colony; and it was wonderful what some farmers had done in regard to irrigation schemes for a comparatively small sum of money&#x2014;much less than it would have cost if the Government had done the work. He hoped that the Government would listen to the people of the t-west for more assistance in connection with irrigation. He thanked the Minister of Posts and Telegraphs for what he was doing to increase postal and telegraphic facilities; but he thought that something more could be done for the North-west; some of the places there being 12 or 15 hours away from the nearest post office. Application for further facilities in that neighbourhood had been refused, though the Government did not forget to come down on the farmer when the latter had to report locusts and scab, despite the distances involved. There were certain portions of the country which needed development by means of railways; and he alluded to the necessity for a line between Prieska and Gordonia. Give the country a chance of developing, said he, for at present they had no chance. He had once been against railways being built until the districts concerned could pay for them, but now he had changed his mind&#x2014;(hear, hear) &#x2014;and thought that a district must first be opened up by means of railways; when prosperity would follow. The present railway rates were prohibitive, and he wished that the Minister of Railways would look into the matter, and see that they were more reasonable. Existing tariffs did not encourage the cleaning of cattle. One man who got a parcel, weighing 5 lb., sent by railway from Cape Town to Belmont, and which was valued at 8s., had had to pay no less than 11s. in railway rates. As the hon. member for Port Elizabeth, Central, had said, the country was a poor one, and the Government might make a beginning with effecting economies; they could begin with the small things, and save a good deal of money. There could be retrenchment, for, in his opinion, there were too many Government officials. Let them pay their officials well, but let them not have too many. Much could be done in regard to the enormous pension list; and one of his constituents had said that he would not mind living on the interest of one of these huge pensions. (Laughter.) The matter of more economical administration lay in the hands of the Government, not in those of private members &#x2019;; and if it wanted to effect a substantial saving, it could easily do so. He would have voted against the expenditure of the million and a half on the Pretoria Union buildings if it could have had the effect of reducing that expenditure, but if he had voted against the motion of the previous day, it would have had no effect, as the contract had already been entered into.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must not refer to the matter, which was debated yesterday.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska):</from>
+
+<p>I submit to your ruling, Mr. Speaker. In conclusion, he said that he thought that the Government could make the country a prosperous one, and he hoped that it would go about <span class="col_1999-2000" refersTo="page_1009"/>it on the right lines. He might have had to criticise the Government, but he was only doing his duty to his constituents, and he would continue to do so. Unless they took care they were going to get into a morass. They should be guided by the experience of 1902-5. The present position was an unsound one. Elevated though it might be, they might easily come to grief unless they reduced expenditure, and he wished to utter a sincere warning note.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#colonel_harris_and_transvaal_lines">
+
+<heading>COLONEL HARRIS AND TRANSVAAL LINES</heading>
+
+<speech by="#harris">
+
+<from>Colonel <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>said that charges had been levelled against the Government to the effect that the country was being administered on extravagant lines, and statements had been made that the country was being run on vanishing assets. Now, in view of the Government&#x2019;s intention to raise leans in a short while, statements of that kind were calculated to injure the credit of the Union, and he thought they were most unfortunate. The hon. member for Cape Town (Mr. Jagger) had stated that according to the Estimates for 1912 the expenditure was &#x00A3;1,200,000 in excess of the combined expenditure of the four Provinces before they joined Union, but he (the speaker) would like to point cut that in 1909 the Cape province passed through its worst period, of depression&#x2014; expenditure was reduced to the minimum; Civil Servants&#x2019; salaries were considerably reduced; the police were reduced to a perilous minimum; the Colonial forces were reduced; the whole of the capitation grant to Cadets was abolished; and no money was spent on public works&#x2014;and it was unfair to level a charge of extravagance against the Government, as the two periods could not be compared&#x2014;the expenditure during depressed times and the expenditure during the normal times of Union. He had examined the figures, and found that nearly &#x00A3;1,000,000 was due, first to expenditure consequent on Union, secondly to extraordinary expenditure, thirdly to the Post Office in providing for the increased trade of that institution, and fourthly, the increase in expenditure was largely due to increased expenditure in the Cape Province, as compared with 1909. If the expenditure in the Cape Province for the year 1911-12 was on the same basis as the expenditure in 1908-09, then a large proportion of the increase would disappear. For instance, the Sinking Fund was suspended in 1909: the salaries of Civil Servants were reduced to the extent of &#x00A3;150,000; grants to hospitals and charitable institutions were reduced to the extent of &#x00A3;32,172; there was a drop of &#x00A3;68,218 in the case of roads and bridges, and &#x00A3;90,085 in the case of education. Now, all these items had been placed upon the Provincial Council&#x2019;s Estimates for 1911-12. Besides all this, the Cape had benefited to a wonderful extent by the abolition of the income tax. The mining tax in that year amounted to &#x00A3;148,000. The saving to the Colony was &#x00A3;561,000 during that year. There was some expenditure which the Union Government was not responsible for. The Convention was responsible for it. These items included&#x2014;&#x00A3;85,000 for the Census, &#x00A3;10,000 for the Coronation contingent; compensation to Colonial capitals, &#x00A3;40,000; allowances and travelling expenses of Civil Servants, &#x00A3;495,000. Nearly half of the latter amount was due to transfers and removals consequent on Union. If the economists desired to run the country upon the lowest possible expenditure, let us have one capital only. (Hear, hear.) They would save an enormous amount by that, but if it were suggested that the legislative capital should be removed to Pretoria, there would be very strong opposition from the economists of Cape Town. Then the Post Office spent &#x00A3;44,000, mostly for the extension of the telephones; this was a business expenditure, and was reproductive. Altogether, the figures he had mentioned totalled &#x00A3;978,000 out of &#x00A3;1,200,000. He dared say that if he went carefully through the Estimates, and noted all the little figures, he could account for the whole of the &#x00A3;1,200,000, and yet the Government was now accused of running the country on extravagant lines. He had no objection to the Union being financed on Transvaal lines&#x2014;he had had quite sufficient of Cape lines. (Laughter.) Griqualand West suffered for a quarter of a century from high railway rates. It never obtained the slightest relief&#x2014;only a considerable amount of sympathy. (Laughter.) This was the first time, however, that they had been given some relief&#x2014;and they were going to get some more later on. (Hear, hear.) They were not ungrateful, and they had to thank the Union for these favours. Although the Cape got as much as it could from Griqualand West, it gave as little as possible in return. The only bridge on which tolls were paid was the Barkly Bridge, which had been paid for a thousand times over. Yet no Cape Government had the fairness to take the bridge over and make it free. Some of the children at Kimberley were being educated in barns, because they could not get sufficient money with which to build schools, but he thought there were other districts which were suffering in the same way. (Hear, hear.) If Union had not been established, these things would have gone on. To his mind, the Province making the greatest sacrifice for Union was the Transvaal. (Hear, hear.) Its enormous railway profit had been absorbed by the Union. He did not want anything from the Transvaal or from anybody else. (Laughter.) He had no political ambitions, and did not desire to be promoted from the back benches, but he wanted to be fair to the present Government, because he wanted it to be fair to him. If the Transvaal had been a separate Province, it could have paid for its enormous buildings out of revenue. Then, in the interests of Union, the Transvaal had surrendered its surplus revenue, and it had an income tax looming in the distance, which it never would have had if there <span class="col_2001-2002" refersTo="page_1010"/>had been no Union. And the Cape, of all the Provinces, had benefited to the greatest extent through Union; and in return they accused the Government of running this country on extravagant lines. They had rendered neither thanks nor recognition. Well, it was the Cape all over. (Laughter and cheers.)</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from>
+
+<p>said that the hon. member for Georgetown, who had made a most statesmanlike speech on a similar occasion in 1907&#x2014;in the Transvaal&#x2014;in the main supported the then Treasurer, the present Minister of Finance. Today that hon. member criticised the Minister. The hon. member for Cape Town, Central, had lately made a point of speaking provincially or racially. The hon. member had criticised certain appointments though recognising that the qualifications of the gentlemen appointed were beyond cavil. Why had not the hon. member criticised the appointment of Judges Searle and Ward? They were not officials, any more than the gentlemen whose appointment had come under the hon. gentleman&#x2019;s lash. Was that because those judges did not belong to the supporters of the Government? In the Cape a gentleman, v. HO had acted as agent to the Progressive party, received a Government billet, though he was not in the Civil Service at the time, and there had been other appointments of a similar nature. If it came to political jobs, there was enough to be said on the other side. He did not like discussing matters of that description, but if the appointments of Dutch-speaking gentlemen only were to be criticised he could not help drawing attention to the other side of the question. In the Public Works Department and the Railway Service they would find no Dutch officials except among the hewers of wood and drawers of water. He thought it was hardly fair for the hon. member for George, who represented a rural constituency, to attack a Ministry doing so much for the country districts as the present Government were doing. The hon. member had criticised the proportion of salaries paid in the Agricultural Department as compared to actual services, but even the Crown Colony Government had realised that it was necessary to educate the farmers, and for that purpose a large salary list was required. Thanks to an outlay on salaries in the Dry Lands and Co-operative Departments, many blades of grass were now growing in the Transvaal where none grew before. In connection with locusts, cattle diseases, wool, etc., the department had rendered invaluable services, but the hon. member for George was taking exception to the salaries which alone made those services possible. If the hon. member for Yeoville&#x2019;s scheme regarding contributions by landowners towards the cost of new railway lines were adopted he (the speaker) would cease to interest himself in railway extension, though in the post he had worked hard in favour of lines chiefly benefiting the mines. People had a good deal to say about immigration and closer settlement, but there the matter ended. The question was how to apply the principle. They should first prepare the soil. The peculiar conditions in the Northwest of the Cape Province existed in the Northern Transvaal, too. Zoutpansberg could carry a much larger population if they placed titles and similar matters on a sound basis. The Prime Minister&#x2019;s policy in teaching the farmers self-reliance should be continued. The question of titles to the land was a vital one, however. Government should not persist in the stringent conditions of the Transvaal. Settlers&#x2019; Ordinance. The wrong kind of settler had gone, and those who were left had borne the heat and burden of the day. It should be the business of those in authority to lighten their present burdens. Many of them suffered from grievous disabilities, such as excessive valuation, the consequence being that any temporary setback prevented them from meeting their obligations, when everything reverted to Government. Objections of a like nature applied to the tenure under the Crown Lands Disposal Ordinance. Often desirable settlers applied for Crown lands unsuccessfully, so that suitable farms remained unoccupied. A cotton syndicate had purchased land in Zoutpansberg, but the conditions and the complicated procedure of Government departments made it impossible for the venture to succeed. He advocated cutting up the Tzaneen Estate and placing settlers on it. Generally speaking. Government made the mistake of attaching undue importance to the value of Crown lands. Evidently they wanted settlers to be well provided with capital, but in the back blocks that could hardly be expected. Even people without capital opened up the country, and it was not going on right lines to dispose of Crown lands to capitalists, for land companies locked up the ground by asking impossible prices. They discouraged white occupation, because their very existence depended on the native squatting system, which would suffer, once whites were admitted. (Hear, hear.) He regretted nothing had been placed on the Estimates for the development of the Low Country by means of a subsidy to the anti-malaria crusade. The people of Johannesburg, had generously formed a society for that purpose, and had done good work in the matter. They spent a good deal of money on plant and stock diseases. Why, then, neglect human ailments if, by fighting these, they could make the country inhabitable? (Cheers.) The Government was not liberal enough in encouraging boring for water; hence, farms suitable for stock-raising, for instance, remained unoccupied. The two railway lines in the northern part of Zoutpansberg should be linked up, because the junction would assist many farmers, and would lead to further settlement. (Cheers.)</p>
+
+</speech>
+
+<speech by="#quinn">
+
+<from>Mr. <person refersTo="hansard_za">J. W. QUINN</person> (Troyeville),</from>
+
+<p>rising shortly after 11 o&#x2019;clock, appealed to the Prime Minister that the debate should be adjourned.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from><span class="col_2003-2004" refersTo="page_1011"/>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>moved the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>urged that the Government ought to agree to the adjournment. Surely this was making a farce of Parliamentary business, and he appealed to his hon, friend the Prime Minister not to ask the House to go on, when the members were tired of the day&#x2019;s work.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said he had always given the House an opportunity of speaking. He had not, like the last speaker, spoken 55 times a day. They had sat for four months, and very little work had been done, and if they discussed things as fully as some hon. members seemed to desire, they would sit till the middle of May. He would give in, however, and if only the hon. member had retained his seat, the House would have adjourned by now.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said he thought the Prime Minister had rather unfairly attacked the hon. member for Fort Beaufort (Sir Thos. Smartt), who had simply appealed to him (General Botha) to move the adjournment, because the Minister of Finance had refused to do so.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>also appealed to the Minister, on behalf of hon. members who lived at Sea Point&#x2014;(laughter) who had to walk home after midnight. He pointed out that up to the present only two days had been spent on the Budget. They had the right to discuss the Budget, and they did not see why they should be steam-rollered.</p>
+
+<p>The motion for the adjournment of the debate was carried.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1911-03-22T23:10:00">11.10 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

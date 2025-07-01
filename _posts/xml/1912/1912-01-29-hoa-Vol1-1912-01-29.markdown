@@ -1,0 +1,461 @@
+---
+title: 'House of Assembly: Vol1 - MONDAY JANUARY 29 1912'
+layout: debate
+year: 1912
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>MONDAY, January 29, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair and read prayers at <recordedTime time="1912-01-29T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#new_member">
+
+<heading>NEW MEMBER.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person>,</from>
+
+<p>the newly-elected member for Georgetown, was introduced by Messrs. Madeley and Sampson, and took the oath and his seat.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> (for the Minister of Justice):</from>
+
+<p>Government Notices Nos. 915, 954, 1,310, 1,948, and 1,949.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Estimates of Expenditure to be defrayed during the year ending 31st March, 1913.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>And the supplementary estimates?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>They will be ready in a few days.</p>
+
+</speech>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>Report Department of Commerce and Industries year ended 31st December, 1910.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Estimates of Expenditure South African Railways and Harbours year ending 31st March, 1913.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Report Transvaal Land and Agricultural Bank 1st July. 1910, to 30th March, 1911 ; Report Land and Agricultural Loan Fund, Orange Free State, period ended 31st March, 1911 ; Tender Board Regulations ; Regulations and Returns framed under the Exchequer and Audit Act, 1911 ; Report upon Returns for 1909 by Life Assurance Companies in the Cape of Good Hope; and Regulations framed under the Stamps and Licences Act and the Dealers (Wholesale and Retail) Act Natal.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#library_committee">
+
+<heading>LIBRARY COMMITTEE.</heading>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person> moved:</from>
+
+<p>That a Select Committee be appointed on the management and superintendence of the Parliamentary Library, with power to confer with a Committee of the Senate.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded. Agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person> moved:</from>
+
+<p>That the Committee consist of nine members.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>moved as an amendment:</p>
+
+<p>That the Committee consist of ten members.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek)</from>
+
+<p>seconded.</p>
+
+<p>The amendment was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person> moved:</from>
+
+<p>That the following be members of the Committee, viz. :&#x2014;Mr. Speaker, Sir Bisset Berry, Messrs. Merriman, Creswell, Stockenstrom, Van Niekerk, Chaplin, Sir David Hunter, and the mover.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#standing_orders_committee">
+
+<heading>STANDING ORDERS COMMITTEE.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> moved:</from>
+
+<p>That a Select Committee on Standing Rules and Orders be appointed.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> moved:</from>
+
+<p>That the Committee consist of eight members.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>,</from>
+
+<p>in moving, pointed out that the name of Sir Bisset Berry had been inadvertently excluded. He (the hon. member) would like his name to appear.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. J. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>moved as an amednment:</p>
+
+<p>That the Committee consist of nine members.</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. CULLINAN</person> (Pretoria District, North)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#keyter">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>moved, as a further amendment:</p>
+
+<p>That the Committee consist of ten members.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>Mr. <person refersTo="hansard_za">G. L. STEYTLER</person> (Rouxville)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>said that in that case he would move that the number be increased to eleven. The Government and Opposition had come to an arrangement and the Opposition was satisfied. If, however, another member were added on the Government side the Opposition would have to consider the advisability of a further nominee.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>pointed out that the Labour Party was not represented.</p>
+
+<p><span class="col_9-10" refersTo="page_0011"/>The amendment proposed by Mr. Keyter was withdrawn, and that by Mr. Wilcocks agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> moved:</from>
+
+<p>That the following be members of the Committee, viz.: &#x2014;Mr. Speaker. Mr. Merriman, Sir Starr Jameson, the Minister of Railways and Harbours, Sir Henry Juta, Sir Thomas Watt, General Beyers, and the mover.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_committee">
+
+<heading>PENSIONS COMMITTEE.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> moved:</from>
+
+<p>That a. Select Committee be appointed to which shall be referred all minutes recommending special pensions and all applications for pensions, grants and gratuities not authorised by the Civil Service Regulations; the Committee to have power to take evidence and call for papers; and that the Committee consist of nine members.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>failed to see why the committee should be appointed at all. He did not think that there should be any special pensions or any not authorised by the Civil Service regulations. (Hear, hear.) The rights of government officials to pensions and gratuities ought to be clearly laid down by the law, and outside the law officials ought to recognise that they are not entitled either to pensions or gratuities. It seemed to him to be entirely wrong that on the petition of a private member expenditure should be authorised out of public funds. That was a departure from the rule recognised as a good rule. It had been recognised long ago that it would not do to empower a Minister to award pensions outside the law. He feared that this was simply a way of getting round the law, to make provision or what are termed &#x201C;hard cases.&#x201D; He submitted that the House was not the proper authority to deal with hard cases. There were hard cases outside the House as well as inside. This was simply a kind of charity organization committee. The cases brought up, no doubt, appealed to one&#x2019;s sympathy, but he maintained that the House was not the authority to deal with such cases. The committee opened the door to pensions and gratuities which went to swell the already over-burdened pension vote.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>thought that his hon. friend entirely misapprehended the functions of the committee. It was not to grant pensions, but rather to restrict the grant of pensions by a too liberal House and a too liberal Government. He was concerned, some years ago, in the Cape House in getting the committee appointed. Before the creation of the committee members used to come down with their petitions. It was all very well to speak from high ground now, out members on both sides had followed the practice. Members of Parliament were generous dogs with other people&#x2019;s money. (Laughter.) Little committees were appointed, and reports brought up strongly recommended individual pensions. The thing grew to such a scandal at last that it was felt that some means must be taken to put a stop to it. Where matters were reported people were very generous; around a table they were not so generous ; and this committee had been of infinite use in checking extravagance. He would like to know how many pensions were granted by the committee last year. Uncommonly few! How many pensions had been granted during the whole of its operations? On the other hand, how many little jobs had been nipped in the bud? How many people exerting pressure over whole classes to get a slice out of the public revenue, had been checked by this committee? If they wished to open the door to jobbery and favouritism let them do away with this committee ;&#x2014;do away with any sort of investigation into the granting of these pensions. He was strongly in favour of the committee and he hoped that the Minister would stand to his guns on this matter, and, if necessary, divide the House. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that his hon. friend had given a correct history of the origin and object of such a committee as he now asked the House to appoint. In consequence of such a committee they saved the Treasury a very large sum of money. He sympathised with the hon. member for Fordsburg when he said that the House should not give pensions except where entitled by law. This was, no doubt, true as a general principle, but occasionally there was a case in which they gave a gratuity. He objected to the High Court of Parliament being shut to a person who came to seek redress. Special committees might, of course, be appointed, or the House might deal with these cases without reference to a special committee, but they would receive far more consideration if brought before a special committee. For these reasons he would be sorry if the motion were not carried. As a general rule they should give no pension that was not reclaimable by law, but do not let them say that under no circumstances could a person come to them for redress.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved an amendment that the committee be enlarged to ten members.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>moved that the committee be increased to eleven members to secure representation for the Independent Party.</p>
+
+</speech>
+
+<speech by="#rockey">
+
+<from>Mr. <person refersTo="hansard_za">W. ROCKEY</person> (Langlaagte)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from><span class="col_11-12" refersTo="page_0012"/>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said the committee had been appointed in the usual way before they knew the result of the bye-election. As Sir Lionel Phillips, he understood, would rather not serve on the committee, he would suggest the name of Mr. James Searle in his place.</p>
+
+<p>The amendments were negatived and the motion agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> moved:</from>
+
+<p>That the following be members of the committee, viz.: &#x2014;Messrs. Currey, Clayton, Keyter, Tobias Smuts, Whitaker, Runciman, Robinson, and the mover.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#serfontein">
+
+<from>THE LATE MR. <person refersTo="hansard_za">D. J. SERFONTEIN</person></from>
+
+<p></p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> moved as an unopposed motion:</from>
+
+<p>That this House desires to place on record its deep regret at the loss sustained by the death of Mr. Daniel Johannes Serfontein, Member for Kroonstad, since the prorogation of Parliament, and to convey to Mrs. Serfontein and other relatives of the deceased member its sincere and deepest sympathy with them in their sad bereavement.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to, members rising in their places.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#business_of_the_house">
+
+<heading>BUSINESS OF THE HOUSE.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that before the House adjourned, he desired to make a statement as to the course of business. It was proposed that the second reading of the Railways and Harbours Bill should be taken on Wednesday next, the 31st inst., the second reading of the Immigration Bill on Thursday, and the second reading of the Lands Settlement Bill on Friday. Hon. members would see that there would be a good deal of work early in the Session. (Hear, hear.) Early next week it was proposed to introduce the Public Health Acts Amendment Bill, and the Irrigation Bill. How far this work would be supplemented would largely depend upon the decision which would be arrived at that afternoon in another place as to whether they were going to adjourn for some time. As soon as Government business made it necessary, it was proposed to ask the House in the first place to sit for two evenings per week. (Hear, hear, and VOICES, &#x201C;Three.&#x201D;) Two only, added the Minister, were proposed at present.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>Revised copies of Draft Standing Orders for the House of Assembly dealing with public business, and private Bills, framed by Mr. G. R. Hofmeyr, the Clerk of the House, together with explanatory memoranda.</p>
+
+<p>The draft Standing Orders were referred to the Select Committee on Standing Rules and Orders.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-01-29T14:52:00">2.52 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

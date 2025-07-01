@@ -1,0 +1,1333 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY JANUARY 30 1912'
+layout: debate
+year: 1912
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, January 30, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair, and read prayers at <recordedTime time="1912-01-30T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown),</from>
+
+<p>for railway in Queen&#x2019;s Town district.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from Henry Charles Colclough, for commutation of pension.</p>
+
+<p>(This, with other petitions of a similar character, was referred to the Pensions Committee.)</p>
+
+</speech>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet),</from>
+
+<p>from Johanna Groenewald, teacher.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person>, (Tembuland)</from>
+
+<p>from Jessie Sidziya, widow of Fumba Sidziya, during his lifetime a mission teacher.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from Paul Ernst Emile Leder, a servant of the South African Railways.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from Antonio Fernandez, pensioner from the Table Bay Harbour Board.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from James Charles O&#x2019;Hare, late member of the Police Force.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from Thomas Ireland, retired on pension after service in the Cape Government Railways.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from Magdalena E. Biccard, of Plumstead.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland),</from>
+
+<p>from John Lundie, missionary of the United Free Church of Scotland.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>from Herbert Cecil Read, accountant&#x2019;s clerk, South African Railways.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse),</from>
+
+<p>from W. H. Whitney, gaoler of Elliot.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn),</from>
+
+<p>from Daniel J. Orffer, teacher.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens),</from>
+
+<p>from Maria Penelope McCutcheon, teacher.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from Martha Beukes, widow of Hans Jacob Beukes, in his lifetime a convict guard.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley),</from>
+
+<p>from Henrietta Margaret Cullinan, widow of the late J. J. Cullinan, a pensioner.</p>
+
+</speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. BRAIN</person> (Frankfort),</from>
+
+<p>from inhabitants of Vrede, Orange Free State, to connect their farms with the town by means of telephones.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from><span class="col_13-14" refersTo="page_0013"/>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from Jacob Reimer, ex-constable, Breakwater Convict Station.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from William Greenwood, pensioner, Cape Convict Department.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage),</from>
+
+<p>from I. T. Suter, late employee of South African Railways.</p>
+
+</speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. BRAIN</person> (Frankfort),</from>
+
+<p>from George R. Savage, formerly paymaster, Transvaal Police.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from Daphne Clowes widow of Cecil Philip Clowes, in lifetime a captain of the Cape Mounted Rifles.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort),</from>
+
+<p>from George McGillivray, late teacher, Lovedale Institution.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort),</from>
+
+<p>from George Andrew Martin, Cape pensioner.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Proclamations Nos. 102, 219, 103, and 281 of 1911, and 1 of 1912 (Natal), with Government Notice No. 1525 of 1911 (Orange Free State).</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>Government Notice No. 2,080. 14th December, 1911 ; Proclamations and principal Government Notices issued by the Department of Native Affairs, 1st April. 1911, to 31st January, 1912; Blue Book on Native Affairs year ended 31st December, 1910 ; proceedings of Select Committees, Transkeian Territories General Council, at the Session of 1911 ; and Reports by the Council for Native Affairs (Natal) upon matters specified in section 32 of Act No. 1 of 1909 (Natal).</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Report by Auditor-General on balances brought into Union by the Cape, Transvaal, Natal and Orange Free State.</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person>:</from>
+
+<p>Regulations, Registration of Deeds and Titles Act (Transvaal) ; Regulations under Miners Phthisis Allowances Act; Proclamation under Mineral Law Amendment Act, 1907 (Cape) ; Notes on Cooking Tests of Transvaal Coals ; Geology of country round Potgietersrust ; Geology of Sekukuniland ; Reports of Mines Department, 1910 (five reports) ; Report on Modderfontein Dynamite Factory Explosion ; Report of Conciliation and Investigation Board (Transvaal) re dispute between the South African Typographical Union and the &#x201C;Transvaal Leader.&#x201D;</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#financial_relations_commission">
+
+<heading>FINANCIAL RELATIONS COMMISSION.</heading>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>asked when the report of the Financial Relations Commission would be issued?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the report was not yet in the hands of the Government. As soon as it reached the Government it would be laid on the table of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#scab_inspectors_duties">
+
+<heading>SCAB INSPECTORS&#x2019; DUTIES.</heading>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">H. S. THERON</person> (Heilbron)</from>
+
+<p>asked the Minister of Agriculture whether there is any truth in the report that the Government has discharged all scab inspectors in the Transvaal, and transferred their duties to field-cornets, and, if so, whether the Government intends to follow the same course in all the other parts of the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>No; this rumour gives quite a wrong impression of what has been done. The field-cornets in the Transvaal were, in the first instance, appointed as scab inspectors, but in addition to their duties in this capacity they were instructed to supervise the measures taken for the eradication of East Coast fever, in addition to work in connection with the branding and fencing regulations, and also duties of a varied nature for other departments than the Department of Agriculture. As their duties were so extended it was found necessary to appoint temporary officers under the field cornets to assist them in the eradication of scab. The sub-scab inspectors in the Transvaal were, therefore, nothing but temporary assistants of the field-cornets When the situation in regard to East Coast fever in the Transvaal improved, and an alteration was proposed in the system of branding and fencing in that Province, in consequence of which the work of the field-cornets in these directions was considerably reduced, they had more time to devote to their principal duty, i.e., the eradication of scab. The services of their temporarily appointed assistants, the sub-scab inspectors, were therefore unnecessary, and owing to the necessity for economy they had to be discharged. This measure, therefore, only refers to the Transvaal, as the field-cornets in other Provinces were appointed with a view to performing quite different duties. It is, however, the intention of the Government to institute as much uniformity as possible in the whole of the Union in the system of field cornets, as well as in the system of scab inspection, but for the present this cannot as yet be done as, in accordance with advice obtained from the legal advisers, it will not be possible to alter the position of the field-cornets in the Transvaal during their term of office, as they have been appointed, according to law, for a period of three years. As soon, however, as it can be done, it is the intention of the Government to introduce a uniform system of scab inspection throughout the Union, more or less on the lines now followed in the Cape Province. In the meantime the most energetic steps are being taken in connection with the eradication of scab. In addition to the (approximate) twenty chief inspectors who are already actively engaged in the Cape, Free State, and Transvaal, an additional four chief inspectors will be appointed to control the work of the inspectors. <span class="col_15-16" refersTo="page_0014"/>In Bechuanaland, which district, up to the present, has been quite neglected, more inspectors will be appointed, and in addition some special inspectors will be appointed to be sent to those districts where not sufficient progress is being made in the eradication of scab.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#labour_agents_licences_at_queenstown">
+
+<heading>LABOUR AGENTS&#x2019; LICENCES AT QUEENSTOWN.</heading>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>asked the Minister of Native Affairs: (1) What public bodies in the Queenstown district of the Cape Province were consulted in anticipation of the issue of the instruction that all applicants for labour agents&#x2019; licences were to be required to give an undertaking to recruit only within certain areas in the said district ; (2) whether the Minister has received any protests against such instruction from any local body; and (3) whether, in view of the facility with which the interview can be evaded, he will consider the advisability of modifying or cancelling the instruction?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>(1) No public bodies in the Queenstown district of the Cape Province were consulted in anticipation of the issue of the instruction mentioned above. (2) Letters written in support of, as well as in protest against, such instruction have been received from local bodies. (3) The Government is not aware that the instructions issued are such as can be evaded with any facility, and no hope can be held out of their being modified or cancelled.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_foremens_hours">
+
+<heading>RAILWAY FOREMEN&#x2019;S HOURS.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether his attention has been drawn to a letter dated at Pretoria the 18th January, 1912, signed by &#x201C;Evolym,&#x201D; which appeared in the &#x201C;Leader&#x201D; of Johannesburg, on the 22nd instant, wherein, inter alia, it is alleged that in most cases one foreman out of the two works twenty-four hours on Sundays, &#x201C;has to attend to the telegraph work, the issuing of tickets, booking of luggage, abstracting of goods, and various other work,&#x201D; and has to pass the messages necessary for the safe passage of trains ; and (2) whether he will cause an immediate inquiry to be instituted to test the truth or otherwise of these allegations and, if found correct, whether he will thereupon forthwith cause the necessary changes to be made for the relief of such overworked workmen and have all done that is absolutely essential for ensuring the safety of the travelling public?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replying said he had some information, but it was not quite so full as he would wish, and he would ask that this question stand over until Monday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#coloured_and_native_interpreters">
+
+<heading>COLOURED AND NATIVE INTERPRETERS.</heading>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked the Minister of Justice: (1) Whether since last session of Parliament, any coloured or native interpreters in any of the Courts of the Union have been dismissed, and their places filled by Europeans ; (2) if so, how many of such cases have occurred ; and (3) on what ground has such action been taken?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>replied that since the last session of Parliament no coloured or native interpreters in any Courts of the Union had been dismissed and their places filled by Europeans.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#native_labourers_in_german_s_w_africa">
+
+<heading>NATIVE LABOURERS IN GERMAN S. W. AFRICA.</heading>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked the Minister of Native Affairs whether compensation has been paid or is to be paid by the German Government to the relatives of the native labourers from the Cape who were killed, and to those labourers who were wounded and disabled by the German military and police forces in the Wilhelmsthal-Karibib affair in 1910, and, if so, what is the amount of such compensation?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> replied:</from>
+
+<p>Compensation has not yet been paid by the German Government to the relatives of the native labourers from the Cape who were killed, or to those labourers who were wounded in the Wilhelmsthal affair, but strong representations were at once made to the proper quarter with a view to securing adequate compensation. A few months ago the Government was informed that the Bachstein Koppel Company had agreed to pay compensation, and the German Government was then requested to arrange for the payment of &#x00A3;50 to the relatives of each native killed and &#x00A3;25 to each of the wounded men. Up to the present, no further communication has been received from the German Government in the matter. Further representations have been made from time to time, and the Union Government will continue to press for a speedy settlement of the matter.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#civil_servants_emoluments">
+
+<heading>CIVIL SERVANTS&#x2019; EMOLUMENTS.</heading>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>asked the Minister of Justice whether in the case of Civil Servants who entered the service under Crown Colony Government, and were transferred to Responsible Government and who are now under the Union Government, the Union Government will respect all the conditions and emoluments made or granted to them when such transfers were effected?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>All existing and accruing rights which Civil Servants possessed at the date of Union are guaranteed <span class="col_17-18" refersTo="page_0015"/>by section 144 of the South Africa Act, 1909, and are respected by the Government.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#drifts_on_the_vaal_river">
+
+<heading>DRIFTS ON THE VAAL RIVER.</heading>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether the drifts on the Vaal River have been opened for ox-wagon traffic, and, if so, since when ; and (2) if not opened, what the Minister intends to do in the matter?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>The drifts on the Vaal River have been opened for inter-provincial movement of cattle, under permits obtainable from the Veterinary Division of the Department of Agriculture. The first permit was issued on the 9th December.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#gal-lamziekte">
+
+<heading>GAL-LAMZIEKTE.</heading>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether he is aware of the great losses still caused by gal-lamziektc in the North-western parts of the Orange Free State and Western Transvaal and Bechuanaland ; (2) what the Government is doing to discover a remedy ; and (3) whether he will institute an inquiry into the alleged discovery by Mr. Edwards, of Taungs, of the cause of the disease as also of a remedy?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>(1) I am well aware of the great losses still caused by gal-lamziekte in the north-western parts of the Orange Free State, the Western Transvaal, and Bechuanaland ; (2) investigations into this disease were commenced by Messrs. Spreull and Robertson of the Cape Department some years ago, and by Dr. Theiler in the South-western Transvaal in the beginning of 1908. In 1909, a field experiment station, to inquire into the disease on the spot, was established in the worst affected portion of the Transvaal, and Dr. Frei, an officer of Dr. Theiler&#x2019;s laboratory, was placed in charge. Last year extensive experiments were conducted on the farm Smitskraal, in the Boshof district of the Orange Free State, and further extensive experiments are now being conducted on the farm Armoedsvlakte, in the Vryburg district, and on Yarrow, near Graham&#x2019;s Town, and in addition experiments are being arranged, with the help of farmers, in the Vryburg, Bloemfontein, Humans-dorp, and Alexandria districts, and also in Graham&#x2019;s Town. In order that the investigations might be pushed on as rapidly as possible, an additional &#x00A3;5,000 was granted to Dr. Theiler for the work, and he is being given whatever assistance, professional and otherwise, that he requires. So far, our investigations indicate that the disease is not communicable by inoculation, and no micro-organism has yet been traced by microscope or by culture. Experiments with muzzled animals at Smitskraal indicate that the disease is contracted via the mouth. It was for this reason that Dr. Theiler and Mr. Burtt-Davy, the Government Botanist, commenced their search to see if any plants were in all infected areas, and the feeding experiments were also undertaken for a similar reason. It is however not certain that the disease is due to a plant, and attention is also being devoted to fungoids and insects found on plants ; (3) it is not the intention to institute an inquiry into the alleged discovery of a remedy for the disease by Mr. Edwards, of Taungs, on account of the expense involved and the interruption to what is believed are more promising lines of work, but this gentleman has been advised to place his remedy on the market so that farmers may be able to ascertain whether it confers the desired immunity.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#bekziekte_at_piquetberg">
+
+<heading>&#x201C;BEKZIEKTE&#x201D; AT PIQUETBERG.</heading>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether his attention has been drawn to the report that &#x201C;bekziekte&#x201D; has broken out among sheep in the Piquetberg district ; (2) whether he will send a veterinary surgeon to ascertain if the said disease is the same as what is known in the Transvaal as &#x201C;blaauwtong&#x201D; ; and (3) what steps he intends taking in order to assist the farmers in combating the disease?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>(1) My attention has been drawn to the prevalence of the disease known as &#x201C;bekziekte&#x201D; amongst sheep in the Piquetberg district ; (2) a veterinary surgeon is being despatched to inquire into the nature of the disease. I am inclined to think the disease is identical with what is known as &#x201C;blue tongue&#x201D; in the Transvaal ; (3) if the disease proves to be &#x201C;blue tongue,&#x201D; as anticipated, the best course to adopt in order to combat it is to remove the sheep from low-lying grounds at night. Advice will be given to farmers as to treatment.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#anthrax_in_the_cape">
+
+<heading>ANTHRAX IN THE CAPE.</heading>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether he is aware that although anthrax is rife in the northern districts of the Cape Province, farmers and others have been and are still unable to obtain serum ; (2) what steps are being taken to remedy this ; and (3) what security will be provided against a recurrence of this state of affairs in the future?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person> replied:</from>
+
+<p>(1) I am aware that unfortunately there is a shortage of anthrax vaccine and that farmers have been unable to obtain it. The demand this year was unusually large. Dr. Theiler is of opinion that in addition to an unusually large quantity used for vaccinating against anthrax, farmers also used the vaccine in the hope that it would act as a preventive against gal-lamziekte. (2) Immediately the probability of a shortage became apparent, a cable was sent to Europe for a further supply, which it is hoped will arrive in a fortnight or three weeks. (3) It is hoped <span class="col_19-20" refersTo="page_0016"/>to provide against the recurrence of this state of affairs by maintaining a larger stock of vaccine in the future, though this may entail a certain amount of loss, as it is important that the vaccine should be as fresh as possible, as it has a tendency to deteriorate if kept for any length of time. It may be possible later on to manufacture the vaccine in this country.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#postal_officials_in_the_free_state">
+
+<heading>POSTAL OFFICIALS IN THE FREE STATE.</heading>
+
+<speech by="#keyter">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>asked the Minister of Posts and Telegraphs: (1) Whether it is a fact that if an official in the Post Office in the Orange Free State, drawing a salary of, say, &#x00A3;300 per annum, everything included, were permanently replaced by an official, say, from the Cape Province drawing the same salary, the latter would be paid such salary plus an allowance of &#x00A3;60 a year as well as overtime, which might amount to as much as &#x00A3;10 ; and if so (2) whether, especially with a view to economy, he is willing in all future appointments, to consider the desirability of giving preference, provided other things are equal, to Free Staters?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person> replied:</from>
+
+<p>There is no redundant force in the Free State, consequently vacancies arising there have temporarily to be filled by officers from elsewhere. Such officers, if transferred from the coast, have their salaries augmented by an allowance to compensate them for the difference in the cost of living. Care is, however, taken that, in filling positions by officers from the coast, due economy is exercised, having regard to the services to be rendered. The service is now a Union service ; but other things being equal, it would be an advantage to transfer a near-by officer, and that course will generally be followed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#postmens_uniforms">
+
+<heading>POSTMEN&#x2019;S UNIFORMS.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether he is aware that the postmen at the General and Salt River Post Offices did not receive their October issue of uniforms and boots until December, and that postmen at the other offices in the Cape Peninsula have not yet received their uniforms ; and if so, whether he will: (1) State the reason for the delay ; (2) cause the uniforms to be supplied immediately ; and (3) take steps to prevent such delay in future?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person> replied:</from>
+
+<p>There has been regrettable delay in issuing the uniforms usually supplied to postmen in October. This has been due to a combination of causes in connection with the general process of unification, and in the absence of new contracts (the contracts in force prior to Union having expired) for the supplies for the whole of the Union, special steps had to be taken for obtaining the articles required. Owing to pressure of work, apparently, in the factories in England, the supplies were not received when expected. Alternative tenders have since been invited for the supply of the department&#x2019;s needs, either from abroad or to be made in South Africa. This will, it is hoped, obviate the delays which have recently occurred and which are regretted.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reduction_of_railway_rates">
+
+<heading>REDUCTION OF RAILWAY RATES.</heading>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District, North)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) What reductions it is the intention of the Government to make in the near future in railway rates generally, and (2) whether the various localities concerned will benefit by such reductions in proportion to the profit earned from such localities?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that with regard to the first part of the question the Government was contemplating giving effect to certain reductions in rates at an early date. If his hon. friend would only restrain himself until the railway budget speech was made he would be able to get any further information he required. As regards the second part, he wondered if his hon. friend was quite serious. (Laughter) If they were to have different rates according to the manner in which a line or a section of a line paid it would be an impossible way of working the railways. They would have different rates on the same line if one section paid and the other did not. He did not know how many kinds of rates they would have. They would have one rate from a coal mine, not far from Pretoria, to Johannesburg, and different and higher rates from Pretoria to intervening places, a state of affairs which he did not think his hon. friend would like to see, because, while the line paid in one case it did not pay in others. He was sure his hon. friend would see that the working of the railways in such circumstances would be impossible. At any rate he hoped his hon. friend would be satisfied when he (Mr. Sauer) said he would furnish the information at the earliest possible date.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#bloemfontein_postmens_pay">
+
+<heading>BLOEMFONTEIN POSTMEN&#x2019;S PAY.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>asked the Minister of Posts and Telegraphs: (1) Whether it is a fact that postmen in Bloemfontein are paid from &#x00A3;5 a month minimum to &#x00A3;10 a month maximum, and that men with six years&#x2019; service are only receiving &#x00A3;8 10s. a month ; (2) whether he considers &#x00A3;8 10s. per month a living wage?</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person></from>
+
+<p>said that the present scale of pay for postmen in Bloemfontein was &#x00A3;60, rising by &#x00A3;12 annually to &#x00A3;120 per annum, with free uniform and boots. An improved scale, raising the minimum and maximum pay and granting certain <span class="col_21-22" refersTo="page_0017"/>stripe allowances for good service, had been under consideration, and provision bad accordingly been made in the Estimates for the next year.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners_phthisis_compensation">
+
+<heading>MINERS&#x2019; PHTHISIS COMPENSATION.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>asked the Minister of Mines what steps, if any, the Government intend to take this session to provide adequate compensation to the sufferers from miners&#x2019; phthisis?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> said:</from>
+
+<p>The question of the prevalence of this disease is still being investigated by the Medical Commission appointed after the end of the last session of Parliament, and until the report of the Commission, which is expected to be completed shortly, is received, I am not in a position to make a statement on the subject.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#importation_of_labour">
+
+<heading>IMPORTATION OF LABOUR.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of the Interior whether he will, at an early date, introduce legislation prohibiting the importation of any class of labour when such labour is obtainable within the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that the hon. member would get all the information in the Bill that would be laid on the Table of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_service_bill_first_reading">
+
+<heading>RAILWAYS AND HARBOURS SERVICE BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time.</p>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved that the Bill be read a second time on the following day.</p>
+
+</speech>
+
+<speech by="#keyter">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked if it was the same Bill that was put before the House last year?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said he hoped his hon. friend would let him take the second reading on the following day. He was coming to the point as to whether it was the same Bill. He might say that it was not exactly the same Bill, for some alterations had been made.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>pointed out that he went through the Bill that appeared in the &#x201C;Gazette,&#x201D; and found that it was a very intricate measure. He thought with his hon. friend (Mr. Jagger) that they could not possibly do justice to such a Bill in so short a space of time. He (Sir Henry) could not do so. He would put it to the Minister that the time was far too short. If it had been the same Bill, it would not have mattered.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said it was his intention after the second reading to have the Bill referred to a Select Committee, composed of the same members who dealt with the Bill last year ; this would give them a chance of considering the alterations.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#immigrants_restriction_bill_first_reading">
+
+<heading>IMMIGRANTS&#x2019; RESTRICTION BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time.</p>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said this Bill was read a second time last year, but since that time certain amendments that appeared on the paper had been incorporated. He did not think, therefore, that Thursday was too early a date to read the Bill a second time, and he moved accordingly.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>said he would plead for further time for consideration. One or two minor amendments had been added, but the autocratic provisions of the Bill were as strong as they were in the old Bill. He would point out that the Minister withdrew the old Bill nine months ago, and for nine months it had been pigeonholed. Only last Wednesday the new Bill appeared in a publication that was not read by a great many people. It only gave a week for consideration. There were alterations in the Bill, and he thought that a further week might be allowed. He moved that the second reading be set down for Thursday, 8th February.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>hoped that the Minister would agree. It was absurd to bring in a Bill in this manner. He hoped the Minister would agree to the suggestion that further time should be allowed. He therefore seconded the amendment.</p>
+
+</speech>
+
+<speech by="#griffin">
+
+<from>Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Pietermaritzburg, South)</from>
+
+<p>thought it only right that further time should be allowed hon. members.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>pointed out that people in up-country constituencies had no chance of seeing the measure. Last session he complained more than once about Bills being brought into the House sometimes before they were published in the &#x201C;Gazette.&#x201D; Hon. members up-country had no opportunity of consulting their constituents or being advised by them. It was only fair that people in up-country places should know, so that hon. members could find out views and express opinions in the House.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that he deferred to the opinions expressed by hon. members. He was prepared to postpone the second reading until Thursday week.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>The second reading was set down for Thursday week.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#land_settlement_bill_first_reading">
+
+<heading><span class="col_23-24" refersTo="page_0018"/>LAND SETTLEMENT BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time, and the second reading set down for Friday</p>
+
+</debateSection>
+
+<debateSection name="#irrigation_and_conservation_of_waters_bill_first_reading">
+
+<heading>IRRIGATION AND CONSERVATION OF WATERS BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time.</p>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>understood that certain amendments to the Bill had been suggested, with regard to the definition of such terms as perennial and intermittent streams, and the normal flow. He did not know whether the Bill had been printed since these amendments were introduced.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that all the material amendments proposed, as well as the definition of &#x201C;normal flow,&#x201D; had been widely circulated by the Irrigation Congress, though they were not included in the Bill.</p>
+
+<p>The second reading was set down for Monday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#library_committee">
+
+<heading>LIBRARY COMMITTEE.</heading>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>moved that Mr. Long be a member of the Select Committee on the Parliamentary Library.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#standing_orders_committee">
+
+<heading>STANDING ORDERS COMMITTEE.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved that Sir Bisset Berry be a member of the Select Committee on Standing Rules and Orders.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_committee">
+
+<heading>PENSIONS COMMITTEE.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved that Mr. Searle be a member of the Select Committee on Pensions, Grants, and Gratuities.</p>
+
+</speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. BRAIN</person> (Frankfort)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>withdrew his amendment to the motion proposed by the Minister of Railways and Harbours: To move to omit &#x201C;Mr. Searle&#x201D; and substitute &#x201C;Mr. Silburn.&#x201D; ; His amendment, he explained, had been notified more as a protest against the policy of ignoring the claims of minor sections of the House to representation on committees. In this instance he was informed on excellent authority that Mr. Searle was an independent himself. (Laughter.)</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#control_of_public_education">
+
+<heading>CONTROL OF PUBLIC EDUCATION.</heading>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>moved for a return of all correspondence which has passed between the Minister of Education and the Provincial authorities, touching the relation between the Union and the Provinces, in regard to the control of public education or any part of public education. He wished, he said, to draw attention to a difficulty that threatened in regard to the partition of educational control between the Union Parliament and the Provincial Councils. The difficulty had arisen in consequence of the use of the term higher education in the South Africa Act without any attempt to define it. Where the word originated he was not aw are, and nobody seemed to know what it meant. A conference had been summoned by the Minister of Education to inquire into the question of higher education, and they had arrived at a most extraordinary resolution on the subject According to their definition what was higher education in one institution was lower education in another. Referring to the question of the training of teachers, he said that a conference had been held in 1903, at which a resolution was taken to hold similar conferences every year. They did not meet again for seven years. Thanks to the herculean efforts of his hon. friend they did meet in 1910, and passed some regulations. He believed there had been another conference, particulars of which he wished to obtain, and he therefore hoped that his hon. friend would be so good as to table the papers. Apart from the extraordinary definition referred to, it was generally understood that higher education was postmatriculation, and lower education ante-matriculation. It had been proposed that all the training of teachers should be after the standard of the matriculation, and the result of that would be that the whole of the training of teachers would be under the control of his hon. friend, the Minister of Education, while the schools would be under the Provinces. That seemed to him an untenable position, which could not be got out of except by breaking the law. He thought the House should define the law, and he hoped that his hon. friend had some plan for dealing with the question. His second point was perhaps of more general interest ; it was in regard to vocational education, and especially technical education. The proposal, made by the right hon. member for Victoria West at the National Convention, that it should came under the Union Parliament was not carried&#x2014;he thought rightly, but after various amendments the present arrangement was carried on the motion of the Prime Minister. The proposal made at this recent conference was to place it under the Union Government. That appeared to him to be impossible ; still, they should take cognisance of it. Under no circumstances could technical education be regarded as higher education. The highest point in technical education in this country had been fixed by De Beers the Fifth Standard for ordinary boys, and the Seventh Standard for apprentices. Neither standard reached the <span class="col_25-26" refersTo="page_0019"/>higher education stage. Therefore technical education was not higher education. He wished to point out the difficulties they would get into by drifting in these matters. Technical education came under School Boards. Behind all this there was a financial question of the greatest moment, because he found that motions had been passed for making uniform the preparation, standardisation, and certification of teachers. Following upon that was the question of making uniform the salaries of teachers. He should like to draw the attention of the Minister of Finance to this question. If they went on with conferences of this kind, making proposals from an educational point of view without any financial control on the part of those compelled to find the money, he believed they might find themselves in a very difficult position. Therefore, it seemed to him that, while accepting the existing Act at the present time, they ought to recognise that they could not altogether take the position as it stood. It seemed to him that they had three alternatives: either they must reconsider the present position, which he should like to see done at the earliest possible stage, or he thought they might have to amend the Act in some way so as to say that technical education or vocational education should come under Parliament ; or, thirdly, they might have a short Act just expressing the definition. He would like to know exactly what had taken place in the last few months. He would like laid on the table the reports in regard to the Technical Education Conference, in regard to the original conference which met soon after he (Mr. Malan) took office, and in regard to the conference of Directors as to the certification of teachers. He trusted that the papers would be laid on the table, and that the House and the country would give them the attention which the importance of the subject deserved.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>seconded the motion.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*THE <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the hon. member, in moving this resolution, had made a certain number of statements which perhaps it would have been better if he had made after he had seed the correspondence &#x2014;(hear, hear)&#x2014;but seeing that he had made them, it was necessary and advisable for him (Mr. Malan) to say a few words as to what had actually taken place. He (Mr. Fremantle) had rightly said that this matter of the division of the work between the Union Government and the Provincial Administrations was a delicate one. On account of the want of definition of the words &#x201C;higher education,&#x201D; as to where higher education should commence. It had been the endeavour of the Union Department to work hand in hand and co-operate with the Provincial Administrations in this matter, and not to force any high-handed interpretation of the View they took on the Provinces, but to get them to work harmoniously with the Department. The hon. member for Uitenhage had referred to the Conference of 1903. He (Mr. Malan) did not quite understand what bearing that had on the question. The Union Department of Education was only established, of course, after the establishment of Union in 1910. He might say that, dealing now, first of all, with the question of the training of teachers, in so far as it included matriculation, that undoubtedly was a question for higher education.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>That is contrary to your resolution.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Not necessarily, and, besides, the resolution is only a recommendation of that Conference, and was only for the time being. Mr. Malan went on to say that, after the establishment of Union, before the Directors of Education in the four Provinces were called together, on account of the difficulty of separating the teachers who were trained post-matriculation and: ante-matriculation in the same institutions, it was felt that they should not disturb the existing state of affairs immediately, but that they should go on as they were and take time to consider the matter, and a resolution was passed referring the question to the four Directors to report, and it was in consequence of this further resolution that was passed in 1910 that the adjourned Conference was held in Bloemfonten a few months ago. At this Conference at Bloemfontein a number of resolutions were passed dealing with the syllabus, standard of examination, etc. In consequence of those resolutions, a letter was written to the four Provinces suggesting to them that an Advisory Board for the training of teachers should be formed to consist of the Directors of the four Provinces, along with the Under-Secretary for Education of the Union Department, and that the Advisory Board should take into consideration the question of the training of teachers and the fixing of the syllabus, the regulation of examinations, and so on. As regarded the administration of the institutions, those that were dealing with students who had passed their matriculation, under the interpretation of the South Africa Act, came under the Union Government ; those that were dealing with teachers below matriculation would, of course, fall and remain with the Provinces ; while the mixed institutions would be administered by either the Union or the Provinces, according to mutual agreement. It was because of these difficulties, as the hon. member (Mr. Fremantle) had rightly pointed out, that he thought that until such time as they could go in for a radical change, the Advisory Board would be the right thing to do. He was not in a position at present to give the replies of the four Administrators on this matter, but as <span class="col_27-28" refersTo="page_0020"/>soon as he got the replies he had no objection to laying the correspondence on the table. He might add, that one matter that had rather delayed them in coming to a decision in this matter was the report of the Commission of which the hon. member for Uitenhage (Mr. Fremantle) had the privilege of being the chairman.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>Why?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>According to the reference to that Committee, that is one of the questions that they had to investigate, and upon which they had to report, and I thought until we came to take active measures we might await that report. I do not say that we must delay action until we have that report, but I think there is a possibility of our having that report soon, and that being so, we can delay action until we have made ourselves acquainted with its contents. Proceeding, Mr. Malan said that as regarded vocational or technical and industrial education, no one had argued, as far as he knew, that this was a matter for higher education. But the position was this, that at the present moment they had got five Union departments dealing with technical education, and four Provincial Administrations also dealing with technical education. It was felt that it might be of advantage to have a Conference for the purpose of considering the matter. Such a Conference was held, and he hoped to lay the report on the Table of the House in a few days.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>And the minutes?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>No minutes were really kept. The Conference was open to the public, and the reporters were present. The minutes, embodied in the resolutions, will be laid before the House. Mr. Malan went on to say that a letter was written alter the Conference to the four Provinces suggesting to them that an Advisory Board, on the lines recommended by the Conference, should be constituted, this Advisory Board to be advisory to the Union departments as well as to the four Provinces, but no suggestion had been made or would be made to transfer the administration of any particular institution from the one administration to the other. He hoped to lay upon the table the replies of the different Provinces to the proposals contained in his letter. As regarded the other points raised by the hon. member (Mr. Fremantle), he had no objection to laying the papers before the House, and he believed that the policy adopted or suggested in the correspondence would recommend itself to the favourable consideration of the House.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London)</from>
+
+<p>said he would like to ask whether this correspondence would include any correspondence which had passed between the Government and the Administrations of the various Provinces with regard to the report of the Select Committee on Education appointed last session. He thought the country desired the information. The wording of the resolution, he thought, would cover it.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said he had some doubt as to whether that was actually covered by the wording of the motion, but he had no objection to laying that correspondence, along with that asked for, on the table of the House, so that if the House would adopt the resolution in the form now before them, he would see it was put before them.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>asked if he could lay those papers on the table together? He did not agree with the member for East London that there had been a delay in the report&#x2013;&#x2013;&#x2013;</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London):</from>
+
+<p>I never said a word about that.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">FREMANTLE</person>:</from>
+
+<p>Then my ears deceived me.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">CREWE</person>:</from>
+
+<p>Hear, hear!</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">FREMANTLE</person>:</from>
+
+<p>At any rate, the work of the Commission is complete.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#taxation_of_unearned_increment">
+
+<heading>TAXATION OF UNEARNED INCREMENT.</heading>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>moved that the Government be requested to consider the advisability of introducing legislation providing for the raising of revenue on the principle of State revenues from State-created values, by taxing the unearned increment of income and land. He said that on the part of those who had not made a special study of the question, they found some prejudice, not very strong, but very pronounced. Some of the reasons for the discussion were, first, raising revenue in this manner was the will of the people. He took it that Parliament should be the organised expression of the voice of the people. He did not ask Government to bring in any particular legislation, but many members had gone into the question earnestly, and he trusted it would soon be law, to their gratification. It was soon to become a burning question. It was taking such a strong hold of the people, and would soon gain such a power that it would be able to either put in or put out a Government. To a certain extent, any reform depended on the disposition of a Government, and he ventured to believe that the disposition of this Government and the whole House was to advance reforms so long as they were true reforms. He wanted to see a handsome revenue, but it must be drawn from the proper sources. It was time they adopted science and civilisation in raising their revenues. It had been suggested that they have an income tax. He sincerely trusted it would <span class="col_29-30" refersTo="page_0021"/>never come to this country so far as earned salaries were concerned. An earned income was no measure of a man&#x2019;s obligation to the State. A tax on unearned increments was strictly just in principle and equitable in operation, and its principles would be approved by all intelligent men. They wanted to insist on equity of obligation. When they found scientific principles in operation, as in Australia, they found enormous taxes paid. In Australia the Hon. Mr. Fisher had stated they regarded taxation as a scientific investment. They should tax the unearned increment both of income and of land. In Victoria the distinction was adopted many years ago ; also, he believed, in Great Britain. Unearned increment was that which was not due to a man&#x2019;s own efforts: earned increment was the reverse He had said that the principles were just. He asked that the State revenues might be taken from State created values, on the principle that he who held the capital should receive the earnings of the capital so far as they were the results of his own energy. These unearned increments were enormous in all countries. In Great Britain they amounted to 450 millions annually. The unearned increment from land amounted to 171 millions, and in New Zealand the unearned increment was set at 104&#x00BD; millions, in New York 60 per cent. of the total value of the property, and in Boston the same proportion. Wherever this principle was applied they found taxation was small, while revenue was large, and they found no other taxation was necessary. It was not a new departure ; it was not even a new principle. They had it specially provided for in the South Africa Act. They taxed land when they taxed real estate ; they taxed unearned increment by death duties. The hon. member said that history showed that such a state of affairs had been in existence for thousands of years. In India 22 millions was raised from the land without anybody feeling the burden; millions were raised in Egypt by the same means, and a lot was raised in New Zealand. To come nearer home he quoted the case of Natal. When the proposal was suggested ten years ago it was laughed at. It was found however, that things that seemed impossible were easiest to achieve. The hon. member having dealt exhaustively with authorities on the subject, said that it was a proposal that would be strictly economical in its working. The cost of collection would be reduced to almost nothing, for every landowner would be required to value his own land and the Government could take-over the land at that price. The proposal would be equitable in its working, and he said that though there were objections he would leave them over for the time being. It had been argued that it would retard prosperity. That was an old and frayed argument, and he pointed out the prosperity of the countries that had gone in for the proposal. He quoted authorities on the subject. This was as good as any other country, and he did not see why it should not be brought up to an equal standard of prosperity.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>in seconding the motion, commended it to the careful consideration of the House, especially in view of the necessity of reconstructing the finances of the country. Business would not be delayed by such consideration. He regretted that members of the Opposition did not pay more attention to the motion, as this reform was one of the leading planks in their platform. He was anxious to hear the arguments that hon. members might be able to bring up against the motion. They would feel more gratitude towards the Government if they knew that the money spent in improving the country was to come back to those who provided it in some way. Large sums of money had been spent on railways, improving stock, eradicating disease, etc. For what purpose? What benefit were the chief people who provided the revenue, the industrialists, going to receive? They were being taxed through the nose. What were they going to get? Surely the farmers would give something. &#x201C;We want cheap food,&#x201D; he added. &#x201C;When are we going to get it?&#x201D; They wished to see the and improved and railways laid down, but for the benefit of the community, not for the benefit of a few landowners.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>thought they were all indebted to the hon. member for Roodepoort for his interesting speech. He feared, however, that the hon. member had obtained most of his information during the recess ; he must have been reading with too much attention certain speeches made at a famous Conference. (Ministerial laughter.) It seemed to him to anticipate certain resolutions taken at Durban by that august assembly. (Laughter.) Touching the merits of the motion, he did not think that the hon. member could possibly expect either the Government or the House to agree to the motion. What did it mean in effect? It meant that, if accepted by the House, it would be committing itself in advance to an entirely novel principle of taxation. The mover knew as well as anyone that it was not the business of the Government even to suggest any form of new taxation until the House was satisfied that additional revenue was required. At present, so far as the House knew, there was no deficit, and until the House was satisfied that there was a liability to be discharged by imposing new taxation, there was no need for the motion. Upon that simple ground, he hoped that the House would not agree to the motion. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>thought that some misconception existed upon the matter. The hon. Minister and the last speaker were mixing things <span class="col_31-32" refersTo="page_0022"/>up. The subject had not been brought up in its present form at the Durban Conference. While the present proposal was good in many respects, it required a great deal of discussion. The matter had not been explained to the country. (Cross-bench &#x201C;Oh&#x2019;s!&#x201D;) Well, even the taxation of prairie value was not yet understood. This proposal ad not been advocated by them ; it was an entirely different one. He did not say that it was not sound, but it had not been put forward by them. &#x201C;The policy advocated by us in other places will,&#x201D; he concluded &#x201C;find its advocates in this House on the proper occasion.&#x201D;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>*Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>did not think that the way the Treasurer had dealt with the motion was quite adequate. They looked upon the principle of taxation advocated by the motion as essentially sound and just. Therefore, whether there was a deficit or not did not amount to anything in affirming the principle. He understood the hon. member for Pretoria East to say that he endorsed the Treasurer&#x2019;s view, and if the debate had been productive of no other good, it had certainly been productive of this But the taxation of unimproved land values differed from the mere taxation of prairie value. The latter was a most inadequate proposal, which enabled loophole after loophole to be found for speculative holders of land. It was one of those absurd nostrums which might deceive the public for a short time, but had none of the virtue of the true principle. He heartily supported the motion. He believed that it contained the principle upon which the tax-raising of the country should proceed. There was no fairer tax, and if the country members of the House could be induced to give due consideration to the subject, they would find that in other countries no measure so greatly conduced to prosperity.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>explained that he had stated that he agreed with the introducer of the motion, and not with the Treasurer.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>prefaced his reply with a promise to be brief &#x201C;I think.&#x201D; he said, &#x201C;that information gratuitously given is not much appreciated.&#x201D; (Laughter.) He submitted that the Treasurer was absolutely wrong in his statement that the tax should only be considered when they were confronted by a deficit. &#x201C;Suppose,&#x201D; he said, &#x201C;I owe the Treasurer &#x00A3;100; it would make no difference to my obligation whether he needed the money or not. The Minister was hopelessly wrong in his perspective. He was wrong, too, when he said that it was an entirely new principle of taxation. We had it in the Union ; we taxed land values when we taxed real estate. The Bill passed in Natal was an admirable one, and they would never get much further than it. The tax was absolutely equitable in its operations, and surely that was what they really wanted.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the question, and declared that the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>called for a division which was taken, with the following result: &#x2014;</p>
+
+</speech>
+
+<p>Ayes&#x2014;17.</p>
+
+<p>Alexander, Morris</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Fitzpatrick, James Percy</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Henderson, James</p>
+
+<p>Hewat, John</p>
+
+<p>Jagger, John William</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Robinson, Charles Phineas</p>
+
+<p>Rockey, Willie</p>
+
+<p>Runciman, William</p>
+
+<p>Smartt, Thomas William</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>F. H P. Creswell and H. W. Sampson Tellers.</p>
+
+<p>Noes&#x2014;63.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Bosnian. Hendrik Johannes</p>
+
+<p>Botha, Louis</p>
+
+<p>Brain, Thomas Phillip</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Cronje, Frederik Reinhardt</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Graaff, David Pieter de Villiers</p>
+
+<p>Griffin. William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Harris, David</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Henwood, Charlie</p>
+
+<p>Hull, Henry Charles</p>
+
+<p>Hunter, David</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>King, John Gavin</p>
+
+<p>Kuhn. Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabber</p>
+
+<p>Leuchars, George</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Phillips, Lionel</p>
+
+<p>Raderneyer, Jacobus Michael</p>
+
+<p>Reynolds, Frank Umhlali</p>
+
+<p><span class="col_33-34" refersTo="page_0023"/>Sauer, Jacobus Wilhelmus</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Smuts, Jan Christiaan</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Theron, Hendrick Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, J. Adolph Philippus</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk. Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent. Alwyn Ignatius</p>
+
+<p>Vosloo. Johannes Arnoldus</p>
+
+<p>Wessels. Daniel Hendrick Willem</p>
+
+<p>Whitaker, George</p>
+
+<p>Wilcocks, Carl Theodorus Muller</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>C. Joel Krige and M. W. Myburgh, Tellers.</p>
+
+<p>The motion was, therefore, negatived.</p>
+
+</debateSection>
+
+<debateSection name="#waste_lands_committee">
+
+<heading>WASTE LANDS COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person> moved:</from>
+
+<p>That a Select Committee, to be called &#x201C;The Waste Lands Committee,&#x201D; be appointed to consider and report upon all such recommendations for the disposal of Crown lands, or of servitudes thereon, or conditions connected therewith, as may be submitted by the Government under the provisions of any Act or law requiring Parliamentary approval ; the committee to have power to take evidence and call for papers, and to consist of Colonel Crewe, Dr. Watkins, Messrs. Heatlie, Becker, Wiltshire, Alberts, Cronje, King, Oliver, Long, and the mover.</p>
+
+</speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. BRAIN</person> (Frankfort)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#parliamentary_buildings_committee">
+
+<heading>PARLIAMENTARY BUILDINGS COMMITTEE.</heading>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> moved:</from>
+
+<p>That a Select Committee be appointed for the management and superintendence of Parliamentary Buildings and surrounding ground, with power to confer with a committee of the Senate, and to consist of Mr. Speaker, General Beyers, Messrs. Marais, E. N. Grobler, Baxter, C. L. Botha, Dr. Macaulay, Mr. Henwood and the mover.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#internal_arrangements_committee">
+
+<heading>INTERNAL ARRANGEMENTS COMMITTEE.</heading>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person> moved:</from>
+
+<p>That a Select Committee be appointed on Internal Arrangements and Superintendence of Refreshment Rooms, with power to confer with a committee of the Senate ; and to consist of Mr. Speaker, Dr. de Jager, Mr. Brain, Sir Thomas Cullinan, Messrs. Meyler, Rockey, Nathan, Struben, H. W. Sampson, Krige and the mover.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-01-30T16:30:00">4.30 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

@@ -1,0 +1,469 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY FEBRUARY 9 1912'
+layout: debate
+year: 1912
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, February 9, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-02-09T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany),</from>
+
+<p>from the Municipality of Graham&#x2019;s Town, to amend the General Dealers and Licences Amendment Act (Cape), 1906, in respect of granting licences to general dealers.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam),</from>
+
+<p>from John Blake van Renen, late Civil Commissioner, Burghersdorp.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany),</from>
+
+<p>from Thomas Wesson, attendant at Fort England Asylum, Graham&#x2019;s Town.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany),</from>
+
+<p>from J. J. J. Brownlee, teacher.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">H. S. THERON</person> (Hoopstad),</from>
+
+<p>for railway in Hoopstad district (two petitions).</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West),</from>
+
+<p>in support of petition of John Blake van Renen.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein),</from>
+
+<p>from inhabitants of Orange Free State against repeal of laws restricting the influx of Asiatics.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humans-dorp),</from>
+
+<p>in support of petition of J. B. van Renen.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London),</from>
+
+<p>from Levy Howe, late clerk South African Railways.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam),</from>
+
+<p>four petitions in support of the petition of J. B. van Renen.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse),</from>
+
+<p>a similar petition.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>Government Notices relating to Customs, 30th May, 1911, to 2nd January, 1912.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Returns of land resumed and surrendered, together with church and school sites granted in the Transkeian Territories; Proclamations relating to disposal of Crown land in Natal.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#commerce_and_industries">
+
+<heading>COMMERCE AND INDUSTRIES.</heading>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Did I understand the Minister of Commerce to lay on the table the report of the Commerce and Industries Commission?</p>
+
+</speech>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>No, sir.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person>:</from>
+
+<p>Will the Minister be good enough to tell the House if he proposes to lay it on the table?</p>
+
+</speech>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>The report is in the hands of the Government, and is now being printed.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person>:</from>
+
+<p>When will the printing be completed?</p>
+
+</speech>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>In about a week.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#land_settlement_bill_second_reading">
+
+<heading>LAND SETTLEMENT BILL.<br/>SECOND READING.</heading>
+
+<speech by="#cronje">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>said that many hon. members appeared to be under the impression that the poor whites had themselves to thank for their condition. That was not so, and they could find examples in the Free State. It had been <span class="col_203-204" refersTo="page_0108"/>said that the poor should be taught to work, and with that he agreed. A settlement had been established in the Free State, but the settlers were not of the right sort. They were imported from elsewhere, and thought they could get rich without working within a few years. They did not understand farming, and had no conception of the plagues with which the South African farmer had to struggle. Those people were discouraged, the settlement was a failure, and the settlers went away. Those settlers cost &#x00A3;2,000 each, but the value of the land had not been increased by the improvements to the extent of &#x00A3;2,000. That sum of &#x00A3;2,000 per settler had been thrown away, which would not have occurred if the right persons had been selected as settlers. The settlements should have been better provided with water, and dams and furrows should have been made. It was useless to import people as farmers, seeing that experience had proved that they could not get on here. Still, he welcomed the Bill, because its object was to put the poor whites back on the land. Those people would ultimately own the ground, and would thus be encouraged to develop it as much as possible. The criticism of the Opposition had been weak. It had been said that the Bill was bad, though no reason for the statement had been adduced. There were here two sorts of people who had to be helped. In the first place, there were those who possessed nothing, who had to be helped with ground and cattle and everything ; and the other sort were those who had cattle but no ground. Those people also could now be helped. The hon. member for Ficksburg had stated that he was not prepared to vote money for settlements so long as the children were without education and there was still a lack of railway communication. But money was needed in order to get the poor people back from the towns to the country, and the Government would do good in spending money in that way. Railways were necessary, and education would presently be available for all children, but settlements must be established. Land Boards in connection with settlements were required, and it was just the local people who were the best acquainted with local conditions. The members of the Land Board should be farmers, seeing that they were well informed as to the value of the land. There was no danger of favouritism. The hon. member for Zoutpansberg objected to the provision that the settler must live on the ground, but how could he work it unless he lived there? The sub-letting of settlement farms should be forbidden. If a man received a farm, he should not be allowed to get it worked by another man. Then, if a settler left his farm, he should abide by the consequences and receive no payment for his improvements. The speaker supported the Bill, seeing that it aimed first at helping their own people, and then when they had been helped, at assisting immigration.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said that the mistake made by the Minister of Lands had been in trying to do too much. In introducing this measure it seemed as if he had had in his mind the object of doing what was necessary for the poor whites of the country&#x2014;an object with which they all sympathised&#x2014;and he had also the object of outlining some scheme by which immigrants must be settled upon the land. It appeared to him (Mr. Schreiner) that these two objects had to be approached in a different way, and to deal with them properly would necessitate two Bills, and not one Bill only. This two-fold character of the Bill seemed to him to be the explanation of the very varied and contradictory criticism that had been bestowed upon the Bill on both sides of the House. It behoved all of them to do what they could to attract immigrants and make provision for them. He was one who sympathised with both objects. It was because he realised the importance of getting immigrants into this country that he felt bound to support the amendment which had been brought forward from that side of the House. There was one point in the Bill which had not been touched upon by any of those who had spoken, and he desired to draw the attention of the House to it. There were people in this country, by far the larger part of the population of the Union, who, as far as they themselves were concerned were not represented in that House, and he felt that in every Bill which was brought before the House those who were interested in the welfare of those people should carefully scan these Bills, and notice if there were any departure from the well-founded principles of the past in regard to dealing with natives. When he looked at Chapter V. (clauses 38 and 39), the first idea that struck him was, why were these clauses introduced into the Bill, because they were not necessary? This section 39 was word for word the same as a section in the Squatters Bill, published some time ago, except that where the present Bill reads &#x201C;trespassers,&#x201D; the Squatters&#x2019; Bill read &#x201C;natives.&#x201D; Therefore it was quite clear that these sections were against the natives. He was perfectly agreeable that there should be strict laws against trespassers. At present thousands of people were living upon Crown lands by permission of the Government, and others upon private lands. There had not been wanting signs in the immediate past of a desire on the part of the Government, as shown in several Acts and in certain Bills that had been published, to alter the status of these people, and many of them felt a suspicion regarding the intentions of the Government. He would like that the native question should never become a party question, but rather that both sides of the House should agree upon a fair policy. The Government&#x2019;s policy had been declared by the Prime Minister to be fair and just but they <span class="col_205-206" refersTo="page_0109"/>could not forget that the right hon. gentle man had in the past given utterance to statements in regard to the natives which had caused some anxiety. They could not forget the policy of giving out native reserves to white people. He would not pin any man down to his past statements if he had become a convert, if he had improved. Therefore, be hoped that the Government intended to carry out what it had laid down as fair and just treatment of the native, but these two sections made him somewhat sceptical. They had seen since the last session what could be done by means of regulation. &#x201C;We are being governed by regulation,&#x201D; he exclaimed, &#x201C;rather than by Acts of Parliament.&#x201D; In more than one Bill the power we have given the Minister to make regulations has been abused. By means of such regulations, by means possibly of other provisions in other Bills&#x2014;for this was merely the thin end of the wedge&#x2014;it might be made possible that the natives would be turned off the ground they had held for generations. There was much unrest and suspicion abroad in the country at present, owing to legislation that was proposed, and he would like it to be laid down, if this Bill were sent back, that this matter should be attended to by the Government. Some safeguard should be inserted in the Bill to reassure the natives that there was no intention to seize their ground and give it out either to the poor whites or to oversea immigrants. Any attempt to do this would be cruel ; it would be unjust ; it would be wicked.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>said the debate concerned one of the most ticklish questions in South Africa, namely, the poor white question. Those people had become poor owing to circumstances, and not because of laziness. He was astonished at the attitude of the Opposition towards the Bill. He had expected support from them, seeing that they had always asked for settlement and irrigation. It was said that the Bill did not go far enough, but he agreed with the hon. member for Zoutpansberg that it should be made as simple as possible, so that everybody could understand it. The hon. member for Victoria West had gone over the history of the settlements in the Cape Colony, but he did not go far enough. The hon. member referred to a settlement in Wodehouse, where the settlers came with a doctor and nurses, etc. That settlement was abandoned within a few years, and after natives had occupied it, it was taken over by poor whites, who made a success of it. Between 1885 and 1895 there were five settlements in Elliot, and after some mistakes had been made, the settlements were a success, and 150 houses of prosperous settlers could be found there. The settlers received land, but neither house nor money, and that was a mistake. Another mistake was the common grazing, as a result of which it was impossible to improve the cattle, and the outside grounds could not be worked. The Minister of Lands had removed some of the grievances, and the settlements were now a complete success. The Bill laid down that land could be purchased to a value of &#x00A3;2,500,000 within five years. That purchase would increase the price of the land, and it would therefore be well to act with great prudence. It was dangerous to expropriate land, and then give it to people from oversea. The first object of the Bill, to help the poor whites back to the land, was a good one, and was the duty of the Government. The second object, namely, to import immigrants from elsewhere, was wrong, and he could not agree to it. There were quite enough people in South Africa, who should first be helped, and then they could see about immigration afterwards. He would stand or fall by that opinion, and trusted that the Government would amend the Bill.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>regretted that it had not been made perfectly plain what they meant by poor whites. It caused confusion. There were two or three sorts of poor whites. The poor whites in South Africa were not the descendants of criminals, as was the case with poor whites in other countries, but of honourable men who had come to this country from France and other countries. There were two classes of poor whites, namely, those who still had some money, and those who were entirely impoverished. Whilst he intended to support the Bill, he hoped the Government would advance carefully and with due regard to economy and prudence in buying land and in carrying out irrigation works. It appeared to him that the proposed expenditure of half a million for irrigation was too much, especially bearing in mind the difficulty which he and other farmers experienced in getting money to bore for water.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. J. W. DU TOIT</person> (Middelburg)</from>
+
+<p>expressed surprise at the attitude of the Opposition. Remembering the articles which had appeared in the Opposition newspapers, they should have greeted the Bill with acclamation, and yet they condemned it. If that was their view, the question should be dropped. Lord Milner&#x2019;s settlers had been placed in dry areas, with poor soil, and no water, and as they could not live there, they had to go away. Those people had been left with their debts, which they still had to pay, and that was impossible, though if the back debts were written off they might make a new star If they wanted closer settlement, they must have more railways, so that fruitful ground was brought in contact with the market. Immigration from oversea was absurd whilst there were still people here who needed help</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. L. STEYTLER</person> (Rouxville)</from>
+
+<p>said he would support the Bill, seeing that it was intended to help poor people who had nothing and others who possessed a few cattle. The last mentioned were at present compelled to rent land, and it would assist them substantially if they were enabled to <span class="col_207-208" refersTo="page_0110"/>buy it. They deserved help. It was thought at first that the labour colony at Rouxville was a failure, but it had been helped by the Church, the people themselves had worked, and now it was doing well. The poor whites had not yet lost their self-respect, and only wanted a fair chance. The Opposition had disapproved of the Bill, but that was the custom and the purpose for which they existed. The circumstances of the country were so various that it was not possible to make the farms all of the same size, and Land Boards would be required in each of the Provinces. There would be so much work that it would be impossible for one Board to deal with all the applications. At public meetings of the Opposition the farmers were always referred to in terms of the greatest contempt. It was said that the farmers would not work, and that it was therefore necessary to import men from outside. If new people wished to come here, they would be welcome, but it would not do to import them at the expense of the State, and then give them ground as well. The Prime Minister had said in England that if they sent people here, they should send the best. It had been concluded from that that the Prime Minister would carry out a scheme of State-aided immigration. That was wrong. There were enough people here who needed help, and it was not necessary to import more. Though he would support the Bill, he was opposed to the provision for expropriation.</p>
+
+</speech>
+
+<speech by="#de_beer">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg)</from>
+
+<p>thought he must vote for the second reading though he recognised there were many faults in the Bill. These, however, could be put right in committee, and he therefore hoped that the amendments would be withdrawn. He was glad there was no provision in the Bill for expropriation of land, as that was unfair to people who had worked for years in cultivating their holding. He was in favour of helping people and settling them on Crown lands, but thought they were giving the Government, or any Government, too much power in permitting them to spend half a million a year in the purchase of ground as settlements. He thought it would be better to build railways to the North-west, and to supply with money Church organisations such as the Dutch Reformed Church and others, for the purpose of helping poor whites, as was done in Kakamas. He thought it should be left to the Land Boards to recommend persons suitable as settlers. Parliament should not, however, give excessive powers.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>said that the question of settlements had been considered during the past ten years. The hon. member for Cape Town, Central, had discussed it then, though afterwards he had left it alone. And now, since the last election, it was brought forward again. The Minister should be very careful in the matter of settlements. The hon. member for Turffontein was not satisfied with the Bill because he was not in the Government. The hon. member for Fordsburg was a member of the Government when five million pounds were wasted to bring settlers here, and they should remember things of that sort. The hon. member for Oudtshoorn approved the Bill because it would bring the poor whites back to the land, but said that its success would depend on the men who carried it out. With that the speaker agreed. He trusted the present Minister, but he would not like to entrust the carrying out of the Bill to the hon. member for Fordsburg. The speaker agreed that before importing strangers, they should help their own people first. Then the hon. member for Bloemfontein had stated in England that English people were welcome to come to South Africa when they had money, and the speaker agreed with that. To pay out State money to get immigrants from elsewhere was, however, absurd. Those people had no knowledge of the conditions here, and their efforts as farmers were failures. Not sufficient had yet been done for the people in the North-west, and the law of 1908 should be carried out. In that law the taking up of ground by poor whites was approved, but only a little ground had been given out. The Government wanted first to find water, but that was wrong. When the hon. member for Fort Beaufort was Minister, he spent &#x00A3;7,500 on irrigation works at Buchuberg, but the machinery was afterwards sold, and the money wasted. Many efforts had already been made in connection with settlements, the existing laws had not been carried out, and what was the use of bringing in a new Bill? If there were no connection with the market, the settlements would fail. There were good farms on the Groot Rivier, much of the ground was under water, and last year 80,000 sacks of grain were obtained. But they could not sell the grain owing to lack of transport. It was therefore better to spend the money in the building of railways. A line should be constructed from Prieska to Gordonia, so that meat and grain could be carried. Too much power was given in the Bill in the matter of the control of money, and if another Government came into power, there was risk of waste. He did not expect much from the Select Committee, although they could perhaps somewhat improve the Bill. The Bill should not, however, oppose the law of 1908, otherwise he would have to vote against it. He would at present support the second reading.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>*Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>rose to remove a misapprehension under which some hon. members opposite seemed to be labouring as to the policy of his party in regard to land settlement. He had no recollection of any hon. member on his side of the House having advocated the importation into this country of people who were not able, to a certain extent, to help <span class="col_209-210" refersTo="page_0111"/>themselves. Every man who came here should be able to assist himself to a very large extent. None of them had advocated a policy of dumping the poor of London into South Africa. They had seen enough of the poor whites in this country not to be desirous of introducing a further number to make their task still more difficult. Some surprise had been expressed that the Minister in charge of the Bill had made a speech which did not agree with the provisions of the Bill itself. In other words, it was said that the speech went far in advance of the Bill. As the debate developed, and as they heard the criticisms of hon. members behind the Minister, it must have struck many that the Minister had showed an extraordinary amount of courage in making that statesmanlike speech. It appeared, indeed, that hon. members behind the Minister had an idea that settlement could not be attempted until they had solved the poor white problem, and that every scheme must begin and end with the poor whites. If he had understood the Minister correctly, his speech made a clear distinction between the poor white, the man who was able to help himself, and the man who was to be imported. But they must deal with the poor white question separately, and according to the abilities of these men. What was even more important, their intention was to level up the condition of the poor white, and to get him away from the towns. The general scheme of land settlement, however, had not this for its object, but the development of the undeveloped portions of this country. He was surprised at the note sounded in many speeches, that they must not tax the people of this country in order to attract settlers from oversea. He had not heard of any proposition to tax people for the purpose of land settlement. Properly carried out, land settlement must pay for itself. He had not heard of any scheme for land to be handed over to the settler free of charge. The land was purchased by the Government, and re-sold on easy terms to the settlers, these terms always including in the first instance interest on the money the Government paid. Even in settlements for the poor the principle was followed. He quoted the case of settlement on the farm Roodepoort in the Free State. It was 4,000 morgen in extent. A dam had been constructed at a cost of &#x00A3;80,000. The farm had been divided into plots, which had been sold on easy terms. At the present time the proceeds had been sufficient to repay the whole of the outlay on the dam and the purchase price of the farm. Hon. members opposite seemed to labour under the mistaken idea that the Opposition was trying to get all the &#x201C;backwaters&#x201D; of Europe into South Africa. The object was not to bring voters into this country. (Hear, hear.) And, after all, if they put farmers on to the land, it did not matter what their nationality was&#x2014;be they English, Dutch, or German&#x2014;their interests were the same, and they would vote in the same way as the other farmers. A country with a vast area uncultivated and unoccupied could not possibly prosper. We wanted a large and prosperous population in order that we might compete with other countries, and if we looked at our geographical position, it was obvious that we could compete with Australia and Canada. Our soil and our rainfall were as good as theirs, and we should be able to maintain a population ten times as large as we had now and to export ten times as much as we did at present. In conclusion, the hon. member said the introduction of settlers would be one way of meeting the native difficulty; to diminish the enormous disproportion between the numbers of whites and blacks would be for the good of the country. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#oosthuisen">
+
+<from>*Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>said he was one of those who had the misfortune to live on the land. He had never heard of any Government in the world which had to try to get people to go into the towns. But Canada and Australia had exactly the same difficulty as we had to get people on to the land He must congratulate the Minister of Lands on undertaking this task, which was a very formidable one, but whether the Minister would make a success of it, he (Mr. Oosthuisen) was not quite so sure. What was the real idea of getting people on to the land? (Hear, hear.) To his mind, the idea was to increase the production of the land. He would like to see statistics showing how many people actually were on the land, and how many people who lived upon them. There were very few producers in this country, but there was a very large proportion of people who lived on them, but he did not want to go so far as to call them parasites. Not a hundred miles from Cape Town a certain local authority tried a few days ago to make a change in its market arrangements, but certain people clubbed together, and the public knew the result. That showed the risk of having a few producers and large numbers of others living on them. He was for the Government doing everything in its power to open up the country. South Africa had been colonised by people who had gone into the country, mostly in the first instance with stock, for that was the easiest way of farming, and also the best paying. Government should meet this class of people and make everything as easy for them as possible. No man could go on to the land without improving it in some way. There was another class, which had lost its stock and land, and had been driven into the towns. These people wanted to know what they were going to get for their labours, but the difficulty in farming was that one never knew what recompense one was going to receive. These people should be put on to the land under a closer settlement scheme, under the strict supervision of the Government, but he did not know whether that would pay the Government. <span class="col_211-212" refersTo="page_0112"/>These people on the land should be assisted to such an extent as to enable them to get fair prices for their produce. It would be a long time before they would be able to produce farm stuff at such a cheap rate as to be able to compete with the imported article. The hon. member for Cape Town, Central (Mr. J. W. Jagger) had stated that they had protection ; he (the speaker) would point out that there was no protection for the wheat-grower at the present time. He had never been in Australia, but he had visited the biggest growing districts in the United States, and though they had to contend with troubles, these did not approach the difficulties to be faced in South Africa. He (the speaker) grew wheat in one of the driest districts of the country, and he was fully acquainted with the whole of the circumstances. He spoke of the small man being ousted from his holdings and said that the man required on the land was the man who could command capital, unless he was near a big market like Cape Town. To make a scheme of land settlement a success, they must get men who would not be afraid to take off their coats, and then provide satisfactory markets. He could not vote for the amendment of the hon. member for Turffontein, because he did not exactly know what the mover meant. He was prepared to vote for the second reading, and allow the measure to go to a committee.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that after hearing the speeches that had been delivered, hon. members must have had their belief in the efficacy of Government control of land settlement schemes sadly shaken. Others were, perhaps, harder to convince. He thought that the experiences of South Africa in this regard had been very sad indeed. The experience of Natal in lending money to farmers in the Vryheid district had been unfortunate. He would like to know how much of the money lent in that district would be repaid. Then &#x00A3;60,000 was spent on land settlement in the Winterhoek district, and the result was that there were only about twenty farmers there now, and they were leading a hand-to-mouth existence. Then there was the Weenen irrigation scheme, which had proved a failure ; through mismanagement and ignorance, the land was waterlogged and useless. An hon. member had referred to sugar-growing in Zululand. Though success had been achieved in a number of cases, this was in spite of and not because of Government control. The Government were wishful to split up the land, but in clause 9 (sub-section 3) there was the old stumbling-block&#x2014;the transfer duty of 4 per cent. The Government itself, placed the stumbling-block in the way of the splitting up of land. Members on the Opposition benches had been told that they held large tracts of land for speculative purposes. Though they were told that these corporations and companies sinned, he thought that the Government was the greatest sinner. What about the huge holdings of Crown lands in the country? There were 25,000,000 acres in the Cape Province ; 20,000,000 in the Transvaal, besides a large amount of Crown land in Natal and the Free State&#x2014;in short, a total of 50,000,000 acres. Were the Government holding these lands for a speculative rise, or did they intend to tax themselves later on for the unearned increment? He saw no need for talking about buying more land, so long as these huge areas which might be occupied were still under the control of the Government. If the Government went in for giving away land, as opposed to the principle of buying land, the effect would be to lower the price, and surely that was the object they had in South Africa, and not to raise the price of ground by the Government rushing into the market with these globular millions to buy land. In the first place, land should be given out to applicants, who should be carefully selected by a Board, and who should not be placed on the 20 years&#x2019; purchase system. He noticed that every applicant under the Bill must not be under 18 years of age. It occurred to him that the Minister would be helping a lad much more at 18 years of age if, instead of giving him Government doles, he made him a present of Smiles&#x2019; &#x201C;Self Help.&#x201D; The hon. member for Germiston (Mr. Chaplin) had declared that compulsory expropriation was not Socialism. In his (Mr. Fawcus&#x2019;) opinion, the compulsory expropriation of land was the head and front of Socialism. The hon. member for Jeppe (Mr. Creswell) had referred to the land speculators as being the modern prototype of highwaymen. The hon. member, who was not in his place, knew a great deal better than that. The tax-gatherer was the modern prototype of the highwayman. One cause of the failure of land settlement in this country had been the greed of the Government land departments, making farmers pay for land from year to year, either in the form of annual payment on the 20 years&#x2019; system or quitrent. He advocated not giving doles to farmers, but rather that they stop taking away money from them. He did not think that the failure of land settlement in the past gave much hope for the success of land settlement in the future. The right hon. the member for Victoria West (Mr. Merriman), when he advised them rather to invest their money in South Africa by constructing developing railways, struck the right note. He (Mr. Fawcus) did not intend to move that this Bill be read again that day six months, but, judging from the tone of many speeches he had heard, he thought that such a motion would meet with considerable success. He trusted, however, when this Bill emerged from the committee it would be in a severely mutilated form.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from><span class="col_213-214" refersTo="page_0113"/>*Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg)</from>
+
+<p>spoke a word on behalf of the settlers and other occupants of Crown lands in his district, and urged that concessions should be given to encourage them in their work, remarking that their first and foremost need was railway communication. Proceeding, he said he never could fathom the real motive that made hon. members opposite so keen on land settlement and immigration. He said that the hon. member for Pretoria East (Sir Percy Fitzpatrick) some time ago did his constituency the honour of paying it a visit, and speaking at a meeting, said that immigration was not coming into South Africa as fast as it was going to Canada or to Australia, but it was coming in in driblets, and the snowball was gradually rolling and becoming greater and greater, and that then the power would be in their hands, and then they must be generous and not vindictive to the older population. This showed how the current was running. The hon. member was quite oblivious of the fact that the genial South African sun, performing its function, would dissolve this snowball, and that the snow would be absorbed into the South African elements, and find itself with that party which was working for the permanent interests of South Africa. (Laughter.) The hon. member for Yeoville, when the right hon. gentleman (Mr. Merriman) asked why the land companies did not do something in the way of settlement, shouted,&#x201C;We do.&#x201D; Yes, they do. He knew something about that matter, and had had correspondence with them in his hands. The terms were seven years&#x2019; lease, so much for the first two years, increased rent for the next two years, and a still further advanced rent for the last three years, and then, after the seven years had expired, they would define the price of the land, and not till then. One of the men, Gibson, who had been on a farm of the company, had applied to come in under the Crown Lands Disposal Ordinance, and he hoped the Government would cede him ground. He was a hard-working man, and he (Mr. Nicholson) had given him a recommendation to the Board. (Opposition cheers.) The company&#x2019;s terms were impossible, and he wished now to begin his life again on the Springbok Flats. That was the sort of encouragement offered by the company.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville):</from>
+
+<p>What company?</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>*Mr. <person refersTo="hansard_za">NICHOLSON</person></from>
+
+<p>replied that the agent for all of them was one Mathieson. These Transvaal companies held one-eighth of the land in the Province. They would never encourage settlers so long as they could farm with Kafirs, and this Kafir farming would continue until the end of time if it was not stopped by legislation. (Cross bench cheers.)</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Support the land tax.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>*Mr. <person refersTo="hansard_za">NICHOLSON</person>:</from>
+
+<p>I am going to when taxation is readjusted in this country. The hon. member for Clanwilliam feared that the appointment of a Land Board would lead to nepotism. He had considerable experience of Land Boards in the Transvaal, and he assured the hon. member that there nepotism was conspicuous by its absence. Proceeding, he said that when the hon. member for Turffontein attacked the Bill, it reminded him of a terrier shaking a rat. (Loud laughter.) It was to be death, instantaneous death. The Bill was to be crushed in its infancy. (Laughter.) There was to be no compromise, no modus vivendi. (Laughter.) The whole of the Bill was to be crushed. That speech reminded him of another made by a prominent member of the Opposition at Johannesburg. That gentleman had said, &#x201C;We must oppose every measure brought forward by the Government, even if it is for the advancement of the country.&#x201D;</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers):</from>
+
+<p>Who said that?</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>*Mr. <person refersTo="hansard_za">NICHOLSON</person>:</from>
+
+<p>Read your subsidised press and you will find out! (Laughter.) Continuing, he asked why hon. members&#x2014;Lord Milner&#x2019;s advisers at the time&#x2014;had not stayed the many Australians who had been repatriated at the expense of the Australian Government. They were imbued with the Imperial idea. They fought British and would vote British. No, they were too busy importing Chinese and endeavouring to retain them to think of the Australians who came out here during the war, actuated by Imperial instincts. He then attacked the hon. member for Cape Town, Central, of whom he said that it is the man with a theoretical knowledge and no practical knowledge of the subject under discussion who is more dogmatic, positive, and assertive in discussion.&#x201D; (Laughter.) That remark, he added, also applied to the hon. member for Jeppe. (Renewed laughter.) The hon. member for Cape Town, Central (Mr. Jagger) wished it laid down what the annual improvement value of the land should amount to. In the waterless, sandy backveld on the borders of civilisation, the only improvements they could expect were a house and a kraal. The hon. member had spoken about the quantity of eggs imported&#x2014;he was always theoretical. (Laughter.) In the North they could get eggs at from 6d. to 1s. a dozen during nine months of the year&#x2014;(An HON. MEMBER: &#x201C;How about election time?&#x201D;)&#x2014;and during the other three months they had to import them. That was owing not to the want of egg-producers or poultry owners, but to the obstinacy of the hen. (Laughter.) He did not think that the Government should be saddled with that blame, when it was owing to the unreasonableness of the hen. (Renewed laughter.) The present Bill was modelled on the Crown Lands Disposal Ordinance, which had given considerable satisfaction in the <span class="col_215-216" refersTo="page_0114"/>past. Proceeding, he said that he would be only too happy, when additional taxation was required, or taxation was to be readjusted, to vote for the taxation of unimproved unoccupied land, also for an income tax differentiating between earned and unearned increment, a bachelors&#x2019; tax &#x2014;(laughter)&#x2014;and the year following leap year a spinsters&#x2019; tax. (Laughter.) He failed to see why they should expropriate land when they had got so much Crown land at their disposal at present, or could acquire such at reasonable terms. Hon. members opposite seemed to think that all the poor whites on the Rand were failures. Most of them were not, and never would be failures if fair assistance were granted them. These people had been bywoners in pre-war days, but had their own house, wagon, oxen, and from 30 to 100 head of cattle and 600 to 1,000 sheep, and were doing well. In the war their houses were burnt down and stock taken. They could not go back empty-handed to the ground they occupied before, and so were driven to the towns. These men had a life-long experience in farming, but the experience yet to be gained by the immigrant would have to be bought at the expense of the taxpayer. We wanted men to come here on their own initiative. Referring to the conditions of allotment of land, the hon. member said it was not fair in every case that personal occupation should be insisted upon in the case of brothers, for instance, whilst one was working at his trade. The six weeks were not sufficient in which to enable a man to visit a farm and personally inspect it before sending in his application. Again, why should a man who owned land of the value of &#x00A3;100 be put on a worse footing than a man who had no land at all? If the Bill were passed, concluded Mr. Nicholson, it would bring far-reaching benefits to South Africa, and the Government would have more than justified its existence. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>said the Bill proposed to give to the Minister of Lands a blank cheque which he might fill in to the extent of five millions of the taxpayers&#x2019; money. The Minister might go from one end of the Union to the other buying land which he would have power to give out to those applicants who met his approval. He would also have power to advance money to the settlers. There was no limitation to the extent of land which the Minister might give out, or to the amount of money he might advance. An hon. member had stated that many men were waiting for the Bill to go through in order to send in their applications at once. Seeing the terms, he (Mr. Blaine) did not wonder at that. Another hon. member had spoken of the machinery of the Bill as being insufficient. The sole machinery provided by the Bill was the Minister himself. (Opposition cheers.) Probably the Minister would appoint Land Boards, but they would be purely advisory. Although the machinery was hardly sufficient to secure anything like success for the scheme, it would be quite sufficient for the expenditure of the taxpayers&#x2019; money. If there ever was a Bill to provide an excellent field for all manner of jobbery and corruption, this Bill was particularly calculated to fulfil that purpose. (Opposition cheers.) The Bill said Land Boards might be appointed, in fact, the Government, in its measures, seemed very fond of the word &#x201C;may&#x201D; and very rarely used the word &#x201C;must.&#x201D; (Hear, hear.) But there was no fear of the Minister not appointing Land Boards ; on the contrary, he feared there would be altogether too many of them. A would-be settler might apply for land in any part of the Union, and as soon as applications came in tremendous pressure would be brought to bear for the establishment of Boards. But he hoped the number of the Boards would be as few as possible. Successful land settlement, even when it had been carried out in large blocks, had proved exceedingly difficult. Under the Bill settlers could dot themselves here and there without proper supervision, and in the lack of that and proper conditions being framed for them the scheme was bound to prove a failure. (Hear, hear.) He went on to say that the sum of money asked for was very large ; and added that he did not see the real object of the Bill. If one was to judge from the speeches made on the other side, it was rather a, measure to settle the poor whites of the country on the land. It was a disgrace to the country that there should be such a class in existence. This country, with a population such as it held, was a country which could least afford to have a class of this description. It was, therefore, to the benefit of the country that these people should be repatriated. If that was even achieved by the Bill, then it would be a measure worthy of support ; but, on the other hand, if the measure was for the purpose of promoting land settlement, as the subject was understood on his side of the House, he did not think that it would be calculated to ensure success. Apart from the matter of poor whites he did not think that this was the best way of spending the money. It was an open question whether money spent on closer settlement in the manner provided for in the Bill would be the best method of increasing the production of the country. He thought it better if five millions were spent on railways, roads, and irrigation works. It was a good thing to get people on the land, but they must have the right class and give them every opportunity to make a success of these settlements. He pointed out that though good men had succeeded on the Cape Flats, it was a question whether the same people would succeed in parts of the country covered by the measure. By simply increasing the population on the soil they would not increase the productiveness of the soil. Hon. members were fond of talking about things that were imported, but that could be produced in the country <span class="col_217-218" refersTo="page_0115"/>Of course, the stuff could be produced here, but the difficulty was to get it to market. He and hon. members on his side of the House considered that such an important measure should receive serious consideration in the quiet of the committee room. It was a reasonable request. If it were a case of second reading or no Bill, he thought that hon. members on bis side of the House would support the measure. It was a reasonable course that was proposed by the Opposition, and one which he thought might with advantage be adopted. They knew it was a difficult matter, but they thought it should go to a committee before being read a second time.</p>
+
+</speech>
+
+<speech by="#vintcent">
+
+<from>*MR. <person refersTo="hansard_za">A. I. VINTCENT</person> (Riversdale)</from>
+
+<p>said he thought the Minister should be complimented on his courage in bringing forward such a measure. It had been subjected to much criticism, but he thought that when it emerged from committee it would be a useful and practical measure, and one that would assist in the development of their country. He thought, too, that the Minister must be congratulated on bringing in the Bill at such an opportune time, because of the new spirit that existed among the farmers of the country. He thought the Minister was on firm ground when he accepted the principle of dealing with their own people first, but he did think the Opposition were right when they said that this showed the Government to be opposed to immigration. So far as the poor whites were concerned, he thought it their duty to uplift them. In his opinion the people who would benefit by the Bill were those who were tenants of the land at present. The right hon. gentleman (Mr. Merriman) was inclined in his speech to be pessimistic, and he based his opinion upon experience many years ago. Circumstances, however, had changed in this country. Much had been done by the opening up of railway communications. There was a good future for settlement in the George district, especially when the railway had been connected up with Oudtshoorn. The George district offered a better opening for land settlement than any he knew. It had a rainfall of 30 to 36 inches per annum, and was near the coast. The suggestion as to compulsory purchase of land was, in his opinion, altogether premature. The expropriation of land for railway purposes did not furnish a parallel. He sincerely hoped that a workable scheme would be adopted in connection with the Bill.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>*Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>said that it had been borne into his mind indubitably that this Bill was too bad a Bill to read a second time and send to a Select Committee. If this Bill were to be read a second time and sent to a Select Committee, it could not be altered in many of the particulars in which it had been proved by debate in the House to be extremely defective. On listening to the debate in that House, one man come to the conclusion that the design of the Bill was very dubious, that its framework was very brittle, and that the content of the Bill was incomplete, ineffective, and unsatisfactory. (Hear, hear.) The only way to deal with a Bill of that kind, on such an important question, was to send the subject-matter of it to a Select Committee. (Hear, hear.) He could not support the amendment of the hon. member for Jeppe ; a time might arrive when proposals such as the amendment contemplated will have to be seriously considered, but that time was not yet. He should support the amendment of the hon. member for Turffontein (Mr. Wyndham).</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that the hon. member for Turffontein (Mr. Wyndham), in his speech, seemed to have lost sight of the fact that that august conclave of seers which held its deliberations at Durban decided to drop the expropriation idea like a red-hot coal. (Laughter.) The meaning of the term &#x201C;compulsory purchase&#x201D; in such a Bill meant that the Government must purchase land whoever came along to sell it. There were no safeguards. The hon. member for Bechuanaland had challenged the Labour party&#x2019;s right to discuss the question of land settlement, on the ground that they knew nothing about it. (An HON. MEMBER: &#x201C;Hear, hear.&#x201D;) When the Bill dealing with phthisis came up, hon. members opposite had freely discussed it, despite their ignorance on that point. So his party was not alone in the matter of ignorance. What, for instance, did the Minister of Commerce know about commerce?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must confine himself to the subject.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person> (proceeding)</from>
+
+<p>said he failed to understand the attitude taken up by the right hon. member for Victoria West, who knew nothing about expropriation. The hon. member went on to say that money was only the indication of wealth.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>And a pretty good one. (Laughter.)</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person></from>
+
+<p>proceeded to make a comparison between the wages paid farm hands in this country and in Australia. In the latter country the terms were eight hours&#x2019; work a day, 50s. a week, all found, and homes provided. He quoted a paragraph from the &#x201C;Melbourne Age&#x201D; in proof of his figures, as, he said, hon. members appeared to doubt their authenticity. In the paragraph it was stated that general farm hands were paid 25s. a week, and harvesters 45s. per week.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>But you said 50s.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Oh, yes ; I beg your pardon. But an advertisement had appeared in a Johannesburg paper calling for a farm hand at &#x00A3;2 per month. After all <span class="col_219-220" refersTo="page_0116"/>it was a mere quibble to speak of a few shillings when the difference between the two countries was so great.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>A few shillings&#x2014;100 per cent.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person></from>
+
+<p>made some reference to Socialism, and then moved the adjournment of the debate.</p>
+
+<p>This was agreed to, the debate being adjourned till Monday.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-02-09T18:00:00">6 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

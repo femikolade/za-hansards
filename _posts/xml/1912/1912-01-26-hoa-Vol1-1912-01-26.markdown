@@ -1,0 +1,415 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY JANUARY 26 1912'
+layout: debate
+year: 1912
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, January 26, 1912</heading>
+
+<prayers>
+
+<narrative>The House met at <recordedTime time="1912-01-26T11:40:00">11.40 a.m.</recordedTime>, in the Conference Room of the House of Assembly.</narrative>
+
+</prayers>
+
+<debateSection name="#the_proclamation">
+
+<heading>THE PROCLAMATION.</heading>
+
+<p>The CLERK read the Governor-General&#x2019;s proclamation summoning Parliament to meet for the despatch of business, as follows :</p>
+
+<p>PROCLAMATION by His Excellency the Right Hon. Viscount Gladstone, a member of His Majesty&#x2019;s Most Privy Council, Knight Grand Cross of the Most Distinguished Order of St. Michael and St. George, High Commissioner for South Africa, Governor-General and Commander-in-Chief in and over the Union of South Africa.</p>
+
+<p>Whereas by Section 20 of the South Africa Act, 1909, it is provided that the Governor-General may appoint such times for holding the sessions of Parliament as he thinks fit, and may also from time to time, by proclamation or otherwise, prorogue the said Parliament ;</p>
+
+<p>And whereas by Proclamation No. 193, 1911, the said Parliament was prorogued until Wednesday, the 1st day of November, 1911 ;</p>
+
+<p>And whereas it is expedient that Parliament should be prorogued for a further period ;</p>
+
+<p>Now, therefore, under and by virtue of the power and authority in me vested, I do by this my Proclamation further prorogue the Parliament of the Union until Friday, the 26th day of January, 1912, and do hereby declare, proclaim, and make known that the second session of the first Parliament of the Union of South Africa, constituted as provided by the said South Africa Act, 1909, will be held at Cape Town at 12 o&#x2019;clock noon on the said 26th day of January, 1912, for the despatch of business.</p>
+
+</debateSection>
+
+<debateSection name="#god_save_the_king">
+
+<heading>GOD SAVE THE KING.</heading>
+
+<p>Given under my hand and the Great Seal of the Union of South Africa, at Pretoria, on this, the 19th day of October, 1911.</p>
+
+</debateSection>
+
+<debateSection name="#gladstone">
+
+<heading>GLADSTONE.</heading>
+
+<p>Governor-General.</p>
+
+<p>By command of His Excellency the Governor-in-Council.</p>
+
+</debateSection>
+
+<debateSection name="#louis_botha">
+
+<heading>LOUIS BOTHA.</heading>
+
+<p>Prime Minister.</p>
+
+</debateSection>
+
+<debateSection name="#opening_ceremony">
+
+<heading>OPENING CEREMONY.</heading>
+
+<p>The CLERK read a letter from the Secretary to the Prime Minister, dated 13th November, 1911, stating that His Excellency the Governor-General had signified his intention of opening Parliament at noon today with the usual ceremony.</p>
+
+<p>At a few minutes before 12 o&#x2019;clock, Mr. Speaker and members proceeded to the Assembly Chamber to attend the ceremony of the opening of Parliament, and on their return.</p>
+
+<p>Mr. SPEAKER took the chair and read prayers.</p>
+
+</debateSection>
+
+<debateSection name="#roll_call">
+
+<heading><span class="col_3-4" refersTo="page_0008"/>ROLL CALL.</heading>
+
+<p>The following members answered to their names :</p>
+
+<p>Mr. Johannes Joachim Alberts.</p>
+
+<p>Mr. Morris Alexander.</p>
+
+<p>Mr. Hendrik Lodewyk Aucamp.</p>
+
+<p>Mr. William Duncan Baxter.</p>
+
+<p>Mr. Heinrich Christian Becker.</p>
+
+<p>Hon. Sir William Bisset Berry, Kt.</p>
+
+<p>Mr. George Blaine.</p>
+
+<p>Mr. Hendrik Johannes Bosman.</p>
+
+<p>Mr. Christian Lourens Botha.</p>
+
+<p>General the Rt. Hon. Louis Botha, P.C.</p>
+
+<p>Mr. Thomas Phillip Brain.</p>
+
+<p>Mr. Daniel Maclaren Brown.</p>
+
+<p>Hon. Henry Burton, K.C.</p>
+
+<p>Hon. Walter Frederick Clayton.</p>
+
+<p>Col. the Hon. Charles Preston Crewe, C.B.</p>
+
+<p>Mr. Frederik Reinhardt Cronje.</p>
+
+<p>Hon. Henry Latham Currey.</p>
+
+<p>Mr. Michiel Johannes de Beer.</p>
+
+<p>Dr. Andries Lourens de Jager.</p>
+
+<p>Mr. Patrick Duncan, C.M.G.</p>
+
+<p>Mr. Gert Johan Wilhelm du Toit.</p>
+
+<p>Rt. Hon. Abraham Fischer, P.C.</p>
+
+<p>Mr. Henry Eardley Stephen Fremantle.</p>
+
+<p>Mr. Lourens Geldenhuys.</p>
+
+<p>Hon. Sir David Pieter de Villiers Graaff, Bart.</p>
+
+<p>Mr. William Henry Griffin.</p>
+
+<p>Mr. Evert Nicolaas Grobler.</p>
+
+<p>Mr. Pieter Gert Wessel Grobler.</p>
+
+<p>Mr. Charles Henry Haggar.</p>
+
+<p>Mr. Charles Beeton Heatlie.</p>
+
+<p>Mr. James Henderson.</p>
+
+<p>Gen. the Hon. James Barry Munnik Hertzog.</p>
+
+<p>Dr. John Hewat.</p>
+
+<p>Hon. Henry Charles Hull.</p>
+
+<p>Sir David Hunter, K.C.M.G.</p>
+
+<p>Mr. John William Jagger.</p>
+
+<p>Rt. Hon. Sir Leander Starr Jameson, Bart., P.C., C.B.</p>
+
+<p>Mr. Christman Johannes Jacobus Joubert.</p>
+
+<p>Mr. Jozua Adriaan Joubert.</p>
+
+<p>Hon. Sir Henry Hubert Juta, Kt., K.C.</p>
+
+<p>Mr. Jan Gerhard Keyter.</p>
+
+<p>Mr. John Gavin King.</p>
+
+<p>Mr. Christman Joel Krige.</p>
+
+<p>Mr. Pieter Gysbert Kuhn.</p>
+
+<p>Gen. Lodewyk Arnoldus Slabbert Lemmer.</p>
+
+<p>Col. the Hon. George Leuchars, C.M.G., D.S.O.</p>
+
+<p>Mr. Basil Kellett Long.</p>
+
+<p>Mr. George Albertyn Louw.</p>
+
+<p>Dr. Donald Macaulay.</p>
+
+<p>Mr. Walter Bayley Madeley.</p>
+
+<p>Hon. Francois Stephanus Malan.</p>
+
+<p>Mr. Johannes Henoch Marais.</p>
+
+<p>Mr. Hendrik Mentz.</p>
+
+<p>Rt. Hon. John Xavier Merriman, P.C.</p>
+
+<p>Mr. Izaak Johannes Meyer.</p>
+
+<p>Mr. Hugh Mowbray Meyler.</p>
+
+<p>Mr. Marthinus Wilhelmus Myburgh.</p>
+
+<p>Mr. Emile Nathan.</p>
+
+<p>Dr. Andrew Murray Neethling.</p>
+
+<p>Mr. Richard Granville Nicholson.</p>
+
+<p>Mr. Henry Alfred Oliver, C.M.G.</p>
+
+<p>Mr. Ockert Almero Oosthuisen.</p>
+
+<p>Mr. Thomas Orr, C.M.G.</p>
+
+<p>Mr. Charles Phineas Robinson.</p>
+
+<p>Mr. Willie Rockey.</p>
+
+<p>Mr. William Runciman.</p>
+
+<p>Hon. Jacobus Wilhelmus Sauer.</p>
+
+<p>Mr. Johannes Hendrik Schoeman.</p>
+
+<p>Mr. Theophilus Lyndall Schreiner.</p>
+
+<p>Mr. James Searle.</p>
+
+<p>Hon. Sir Thomas William Smartt, K.C.M.G.</p>
+
+<p>Gen. the Hon. Jan Christiaan Smuts.</p>
+
+<p>Mr. Johannes Petrus Gerhardus Steyl.</p>
+
+<p>Mr. George Louis Steytler.</p>
+
+<p>Mr. Andries Stockenstrom.</p>
+
+<p>Mr. Charles Frederick William Struben.</p>
+
+<p>Mr. Hendrik Schalk Theron.</p>
+
+<p>Mr. Petrus Jacobus George Theron.</p>
+
+<p>Mr. Johannes Adolph Philippus van der Merwe.</p>
+
+<p>Mr. Jacobus Willem van Eeden.</p>
+
+<p>Mr. Hercules Christian van Heerden.</p>
+
+<p>Mr. Christian Andries van Niekerk.</p>
+
+<p>Mr. Jan Abraham Venter.</p>
+
+<p>Mr. Hendrik Cornelius Wilhelmus Vermaas.</p>
+
+<p>Mr. Johannes Arnoldus Vosloo.</p>
+
+<p>Hon. Sir Edgar Harris Walton, K.C.M.G</p>
+
+<p>Mr. Egidius Benedictus Watermeyer.</p>
+
+<p>Dr. Arnold Hirst Watkins.</p>
+
+<p>Hon. Sir Thomas Watt, K.C.M.G.</p>
+
+<p>Mr. Daniel Hendrik Willem Wessels.</p>
+
+<p>Mr. George Whitaker.</p>
+
+<p>Mr. Carl Theodorus Muller Wilcocks.</p>
+
+<p>Mr. Henry Wiltshire.</p>
+
+<p>Hon. Hugh Archibald Wyndham.</p>
+
+</debateSection>
+
+<debateSection name="#governor-generals_address">
+
+<heading>GOVERNOR-GENERAL&#x2019;S ADDRESS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that the House had this day attended the ceremony of the opening of Parliament, and that His Excellency the Governor-General was pleased to deliver an opening speech to both Houses of Parliament, of which, for greater accuracy, he had received a copy, as follows:</p>
+
+<p>Mr. President and Gentlemen of the Senate,&#x2014;</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly,&#x2014;</p>
+
+<p>I welcome you to this the Second Session of the First Parliament of the Union.</p>
+
+<p>Since the prorogation of Parliament in April last an event of the highest historical importance has taken place. The Coronation of His Most Gracious Majesty King George V., at which representatives of the Union were present, was celebrated in London on the 22nd June, 1911. Messages conveying the loyal congratulations of the people of South Africa were forwarded to His Majesty, who was pleased to express his sincere appreciation and the hope that the progress of the Union might be attended with peace and prosperity.</p>
+
+<p>A conference of representatives from the United Kingdom and Dominions of the Empire was held in London prior to His Majesty&#x2019;s Coronation. Important matters were discussed, and resolutions were passed which affect closely the interests of the Union. The report of the proceedings of the conference will be laid on the Table of both Houses.</p>
+
+<p><span class="col_5-6" refersTo="page_0009"/>It is a matter for congratulation that the first year of the Union has been one of advancement and prosperity, and that the finances of the Union are in a satisfactory state.</p>
+
+<p>The Commission appointed under the South Africa Act to inquire into and to report upon the financial relations of the Union and the Provinces has completed its labours, and its report will be laid before you for your consideration. The settlement of this question will determine one of the most important matters left open under the South Africa Act.</p>
+
+<p>The re-organisation of the Departments of the Public Service referred to in my speech to you last Session has been occupying the serious attention of my Ministers, and the Public Service Commission will, it is hoped, report the result of its deliberations at an early date. Bills will be laid before you regulating the Public Service and the Railway Service of the Union, and providing for pensions and gratuities in case of superannuation or retirement from the Service.</p>
+
+<p>Now that South Africa has taken her place amongst the self-governing Dominions of the Empire, it has become necessary that steps should be taken to provide for the adequate defence of the Union, and legislation for the establishment of a suitable defence organisation will be submitted to you. My Ministers are much indebted to His Majesty&#x2019;s Military Advisers, who have been at all times willing to render valuable assistance in regard to this important matter.</p>
+
+<p>During the recess my Ministers have had under consideration a scheme providing for Land Settlement and Irrigation, and legislation to give effect to their conclusions will be laid before you.</p>
+
+<p>A Bill for the establishment of a Land and Agricultural Bank for the Union will be submitted to you, the operations of which will, I trust, lead to considerable improvement in the agricultural development of the country. Such development cannot, however, be fully successful without improved means of communication, and my Ministers are giving attention to a scheme of railway construction, which they will submit for your consideration.</p>
+
+<p>The Commission appointed to inquire into and make recommendations for the readjustment of the present duties of Customs, the promotion of local industries, and cognate matters, has accomplished its work, and its report will be laid before you in due course.</p>
+
+<p>The establisliment of a national South African University, to which I referred last Session, has been receiving the attention of Ministers, and it is hoped to introduce legislation dealing with this matter during the present Session.</p>
+
+<p>At the opening of the last Session I referred to the great importance of consolidating the legislation of the Provinces and passing uniform laws applying to the whole of the Union. A number of such consolidating Bills will be submitted to you, dealing amongst others with such important subjects as Immigration, Registration of Voters and the Conduct of Parliamentary Elections, Police, the Administration of Estates, Native Settlement and Squatting, Estate and Succession Duties, Native Taxation, the Control and Regulation of Railways and Harbours and Precious Stones.</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly,&#x2014;</p>
+
+<p>Estimates of Revenue and Expenditure will be laid before you.</p>
+
+<p>Mr. President and Gentlemen of the Senate,&#x2014;</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly,&#x2014;</p>
+
+<p>In commending these matters to your consideration I have every confidence that you will approach them with a desire to promote the best interests of South Africa., and I pray that the blessing of Almighty God may rest on your deliberations.</p>
+
+<p>In His Majesty&#x2019;s name I now declare this Parliament to be duly opened.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#printing_committee">
+
+<heading>PRINTING COMMITTEE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>appointed the Minister of the Interior and Sir Starr Jameson a committee to assist Mr. Speaker in regard to the printing of the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Report of Librarian of Parliament, 10th January, 1912; Copies, of contracts for the production of a Hansard for both Houses of Parliament, entered into by the Clerks of the respective Houses, with the Cape Times, Limited, and Messrs. Van de Sandt de Villiers and Company, Limited, respectively.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#new_member">
+
+<heading>NEW MEMBER.</heading>
+
+<p>The CLERK read a letter from the Secretary to the Prime Minister, dated 25th instant, intimating that William Henry Andrews had been elected a member of the House of Assembly for Georgetown, to fill the vacancy caused by the resignation of Sir George Farrar, Bart., D.S.O.</p>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person>:</from>
+
+<p>Principal Government Notices issued by the Department of Agriculture, December, 1910, to 11th January, 1912; principal Proclamations issued by the Department of Agriculture, December, 1910, to 24th January, 1912.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Blue Books, being minutes and papers, Imperial Conference including Naval and Military Defence.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Government Notice No. 1862, 10th November, 1911, O.F.S. Police Regulations Amendment ; regulations governing farm colonies and inebriate reformatories ; juvenile reformatories and juvenile adult reformatories ; Government industrial <span class="col_7-8" refersTo="page_0010"/>schools, and general regulations for the government of convict prisons and gaols.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Report of General Manager on the working of the South African Railways and Harbours, year ended 31st December, 1910 ; Blue Book, new lines authorised under the Railways Construction Act, No. 33 of 1911.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Report and audited accounts, Indian Immigration Trust Board, Natal, year ended 30th June, 1911 Reports Natal Museum, 1st January, 1909, to 31st March, 1911, and 1st April, 1911, to 31st December, 1911 ; Report South African Museum, year ended 31st December, 1910 ; Report of Trustees, South African Public Library, year ended 31st December, 1910; Report of the Protector of Indian Immigrants, year ended 31st December, 1910; Regulations, Act No. 2 of 1910 (The Census Act).</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-01-26T12:40:00">12.40 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

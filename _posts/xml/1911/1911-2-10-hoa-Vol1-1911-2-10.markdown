@@ -1,0 +1,587 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY FEBRUARY 10 1911'
+layout: debate
+year: 1911
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, February 10 1911</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the chair and read prayers at <recordedTime time="1911-02-10T14:00:00">2 p.m.</recordedTime>
+
+</narrative></prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg),</from>
+
+<p>from residents of Hopefield, Vredenburg, Hoetjesbaai en Langebaan, praying for the creation of a separate Fiscal Division.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. Jagger</person> (Cape Town, Central),</from>
+
+<p>from C. J. Cole, Ltd., contractors for the <span class="col_1107-1108" refersTo="page_0563"/>supply of bread to Imperial troops in Cape Town and Wynberg, praying for a refund of the amount paid on wheat imported.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. de Jager</person> (Paarl),</from>
+
+<p>from F. A. Thwaits, Sea Point, Education Department;.</p>
+
+</speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. Brain</person> (Frankfort),</from>
+
+<p>from inhabitants of Bethlehem, Orange Free State, to extend the railway from Heilbron via Lindley, to Lindley Station and the Aliwal North line.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. Venter</person> (Wodehouse),</from>
+
+<p>from Town Councillors of Barkly East, praying that further Asiatic immigration be stopped.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. de Jager</person> (Paarl),</from>
+
+<p>front C. G. Langford, teacher at Paarl.</p>
+
+</speech>
+
+<speech by="#joubert">
+
+<from>Mr. <person refersTo="hansard_za">C. J. J. Joubert</person> (Lydenburg),</from>
+
+<p>from inhabitants of Lydenburg, praying that further Asiatic immigration be stopped.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>Mr. <person refersTo="hansard_za">G. L. Steytler</person> (Rouxville),</from>
+
+<p>similar petition, from residents of Wepener, Orange Free State.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. Nicholson</person> (Waterberg),</from>
+
+<p>from inhabitants of Pretoria and Waterberg, praying that the Solemnisation of Marriages Bill be amended so that marriages between Europeans and coloured people will be prohibited (five petitions).</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>Mr. <person refersTo="hansard_za">G. L. Steytler</person> (Rouxville),</from>
+
+<p>from Louisa S. van der Riet, widow of R. J. van der Riet, Law Department, Tulbagh.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_laid_on_table">
+
+<heading>REPORTS LAID ON TABLE.</heading>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>,</from>
+
+<p>rebuilding of public offices, Murraysburg, and building of a bridge over the Buffet&#x2019;s River.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#high_commissioner&#x2019;s_bill_third_reading">
+
+<heading>HIGH COMMISSIONER&#x2019;S BILL.<br/>THIRD READING.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved the third reading of the High Commissioner&#x2019;s Bill.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Sir <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>asked the Prime Minister if he intended to bring in a (Bill to deal with Ministers&#x2019; salaries. It had been the practice in the past.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that that had nothing to do with the question of the High Commissioner&#x2019;s salary.</p>
+
+<p>The Bill was read a third time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#south_african_college_bill">
+
+<heading>SOUTH AFRICAN COLLEGE BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>announced that the Select Committee on Standing Rules and Orders had appointed the following members to form the Select Committee on the Bill, viz: Messrs. Long, Fremantle, Maasdorp, and Dr. Watkins; Mr. Long to be chairman.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mines_works_machinery_and_certificates_bill">
+
+<heading>MINES, WORKS, MACHINERY, AND CERTIFICATES BILL.</heading>
+
+</debateSection>
+
+<debateSection name="#second_reading">
+
+<heading>SECOND READING.</heading>
+
+<speech by="#wilcocks">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>resumed the debate on the motion for the second reading of the Mines, Works, Machinery, and Certificates Bill. He said that he could not understand why it was the case, but it was so: there was a contest between capital land labour. He could not understand why the capitalist sometimes wished to exercise political influence on the workers, or why some of the workers considered that they could be altogether independent of the capitalist. To develop the resources of the country, capital was, of course, necessary, but the? interests of the workmen must be kept in mind; and he was glad that the workmen had some representatives of their own in that House. Dealing with clause 6 of the Bill, the hon. member said that there were parts of it with which he did not agree&#x2014; he alluded to the question of Sunday labour, land although he would vote for the second reading of that Bill, he deemed it necessary that certain amendments should be moved in committee. The people of this country were of opinion that one day of the week should not be a day of labour, but a day of rest.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that he had read the Bill very carefully, had listened very closely to the speech delivered by the Minister of the Interior, and had gathered that the only result of the Bill would be the extension of the legalisation of Sunday labour to large corporations. The Minister of the Interior had deliberately pleaded for Sunday labour, and one of the reasons he had advanced was that Sunday labour had been in existence for something like 23 years. The Christian religion, however, had lasted for nearly 2,000 years, and the Fourth Commandment still stood intact&#x2014; there should be no labour whatever on Sundays. A further reason advanced by the Minister was that the closing down of the batteries would only affect 1,500 out of 25,000 men, and that it meant a rise in Working costs. How that came about he failed to see. The argument regarding a decrease of production was infamous. No wages would be paid on Sundays if no work was done, and how the increased costs come in he failed to see. Sunday labour must cease. They could not have so iniquitous a system of working on Sundays, at all events for profit. There was some misunderstanding amongst members as to what was meant by an eight hours day face to face and an eight hours day bank to bank. He would therefore explain the difference. What they meant by bank to bank was that a man arrived at the surface of the mine and when he went back to the surface. They claimed that it was quite enough to be out of sight of the sun for eight hours a day. He knew cases of unnecessary delay where men, in going down at the station&#x2014;the place they got off at&#x2014;had to wait a couple of hours, because they could not proceed to their work on account of the smoke and dust. If the onus Would only be thrown upon the <span class="col_1109-1110" refersTo="page_0564"/>owners, it would soon be seen that there would not be this unnecessary waiting. On the E.R.P.M., which his hon. friend the member for Georgetown spoke about, there were miners working 12, 14, 16, and 18 hours a day. Another argument against the clause was that it only applied to the machine men. The machine men employed amounted to 2,200 out of a total of 9,000 men working underground, consequently only about a quarter would be affected. If the clause was applicable to one portion of the men it was applicable to them all. With regard to Sunday labour again, the Minister of the Interior stated that this only affected 1,600 men, but would it be new to the Minister to know that probably three-fourths of the surface men worked on Sunday? These men ought surely also to be considered. In his own case, when working upon the mines, he had to complain of an engineer who came round on Saturday looking for work for him (Mr. Madeley) to do on Sunday. Certainly, the miners believed that the hon. member for Georgetown was in favour of the principle of bank to bank. He (Mr. Madeley), however, told them that he did not believe it, and was glad to see that his opinion had been substantiated. Proceeding, the hon. member said he could not join in congratulating the Minister of the Interior on the Bill&#x2014;all he could congratulate him upon was that the clauses came correctly in notation. (Laughter and cheers.) With regard to the invitation given by the hon. member for Yeoville. For hon. members to go down the mines, he would like to give them another piece of advice. By all means, go down the mines, but don&#x2019;t go accompanied by the hon. member for Yeoville. Let hon. members get permission to go down the mines, and go themselves with the shift, and pay particular attention to the sanitary arrangements. If they did that, hon. members would come back, and would soon see that the present Bill was wiped out. The hon. member for Georgetown said if they had not this Sunday labour, they would have to place a guard round the mines. That would not apply to the hon. member&#x2019;s group, which had a strong fence all round the properties, and which only wanted blockhouses to be an actual fortress. The hon. member for Yeoville stated as something of which they should be proud that the actual excavation on the Rand would equal a tunnel 10 ft. square to Bulawayo and back, but he did not state how long the line of coffins would be of those who had perished in that industry. (Hear, hear.) They asked the Minister of the Interior not to injure this industry&#x2014;this babe in swaddling clothes, this minor industry&#x2014;which paid &#x00A3;10,000,000 last year in profits. Don&#x2019;t stop 1,500 men working on Sundays, because they would injure this industry that sent &#x00A3;10,000,000 out of the country! What was the industry, land what effect had the industry on the country? The country itself had a right to gain from any industry, which was indigenous, if he might put it, to the country itself. It was not a manufactory; it was not something they were putting into the country; it was something they were taking out. They had the right, as a country, to get as much as they possibly could out of an industry of this description, which solely belonged to the country. Let hon. members remember that this industry had cost the united countries of England and the Transvaal something like &#x00A3;300,000,000 and 50,000 lives, and who had a right to gain from an industry of that description if not the people themselves?</p>
+
+</speech>
+
+<speech by="#woolls-sampson">
+
+<from>Sir <person refersTo="hansard_za">A. WOOLLS-SAMPSON</person> (Braamfontein)</from>
+
+<p>said that at no time was it pleasant to confess that one was wrong, and he must honestly say that the provisions of this Bill marked a distinct advance on the part of the Government. It was evident that the most searching inquiries were instituted before legislation was introduced, and on all future occasions if the Government would adopt that wise procedure in dealing with the interests of the people represented on that side of the House, he thought they would go a long way to reduce contentious opposition. He thought the bulk of the mining industry and the mine-owners would accept the provisions of this Bill with very few reservations. If there were nothing else, it must be considerably to their interest to settle that old contentious question once for all of Sunday work. He only regretted that, in having gone so far in one direction, the Government had not gone a little more in the other&#x2014;that in giving the mine-owners so much they had not conceded a little to those who performed the labour, more especially as it lent colour to the contentions of the representatives of the Labour party that the Bill leaned more in one direction than it did in another. He (Sir Aubrey) also represented a section of the Labour party. He was quite prepared at one time to leave the matter in the hands of the hon. members who stood there for, but history and experience had taught him that the successful reformer was one who reached his object by a ladder, that was, step by step, but it would appear that hon. gentlemen who represented the Labour party were using the flying machine for that purpose, with the result that they only got half-way, and then went flop. (Laughter.) Sir Aubrey proceeded to address himself to the eight hours&#x2019; question, and said that he had always flavoured an arrangement of eight hours with the mine-owners, and that arrangement had held good on most of the mines for a considerable time in the past. He thought if the Labour party were to alter its administration and approach the industry in a different form and a more conciliatory spirit, they would &#x2014;if they went like the man on the ladder&#x2014; step by step&#x2014;in time secure a great deal more in the interests of their people than <span class="col_1111-1112" refersTo="page_0565"/>they were trying to force at the point of the bayonet from the mine-owners to-day. He was not in favour of the Government proposition that a man using a rock drill should &#x2019;work eight hours from face to face. They knew that that was the point where the danger was met with. He was interviewed by his constituents of the Labour party on that point, and they recognised at once that it would be absurd to ask for a concession from bank to bank. As the Government wanted an eight hours day from face to face, and as the Labour party in the House wished to have an eight hours day from bank to bank, it seemed to him it would be a very wise compromise if they met halfway, and said that the time should begin at the bank and end at the face. This Bill certainly moved in the right direction, but to his mind it did not move far enough. He hoped that as this Bill aimed at doing so much for one section, the Government would recognise that something should be done also for the others. He was glad that the Bill had given such pleasure to those concerned in the mining industry who sat on that side of the House. He would be gratified if he could feel that the people who did the actual labour on the mines were as much pleased. It was a step in the interests of humanity, and in the interests of common justice, and he hoped that hon. members who sat opposite would meet him in the amendment, which was fair, and which was just, and which would go a long way to make the Bill acceptable, not only so far as they on that side (the Opposition) of the House were concerned, but also so far as the mine workers on the Wit-watersrand were affected.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">H. S. THERON</person> (Hoopstad)</from>
+
+<p>supported the Bill as a whole. Its importance lay in the fact that it interfered in matters concerning the most important industry, bearing upon the relationship between capital and labour. Where those two were at, war, it was a delicate matter for the Government to intervene. In the Free State prospecting had been carried out in a dilatory fashion. He trusted the Government would support prospecting. The hon. member for Commissioner-street had suggested the appointment of inspectors, who were to be selected by the working men themselves. He (the speaker), however, thought that this question should be left to the people concerned. The power of mine managers to frame regulations had boon taken exception to, but he would point out that the regulation would not apply until confirmed by the Government Mining Engineer. Mining Inspectors should constantly pay surprise visits, in order to guard against the danger of regulations becoming a dead letter, owing to matters getting into a groove. The health of miners depended chiefly on ventilation and sanitation. When, he was a mining inspector, there was a high rate of mortality among the Koffyfontein Mine natives. He insisted on better sanitary arrangements, and the consequence was, the falling of of the death rate. The improvements in question were strenuously opposed by the London Board of the Koffyfontein Company, but this opposition ceased as soon as the Government threatened to close down the mine. He was glad to note that the Minister was limiting the hours of labour. At the time, the workmen at Koffyfontein worked from sunset to sunrise, with a lunch interval of one hour. The natives had to cook their food within that hour, but many of them were too indolent; they had no proper meals, and they neglected their ablutions on account of the long hours of labour; the result was that on an average, out of the 1,600 natives in the mine, 280 were laid up. This figure fell to 20 when the mine management undertook the preparation of food, and saw to it that the natives washed. He was in favour of an eight-hours day from bank to bank, because the miners sometimes had to wait for hours at the shaft before they were lowered into the mine, and it was unfair not to pay them for the time lost in that way. It was impossible to stop all work on Sundays, because that would dislocate the whole of the industry. He was in favour, however, of limiting Sunday labour as far as possible.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg)</from>
+
+<p>said that it was certainly not the case that they on his side of the House were unfriendly to the mining industry; they were, in fact, proud of it. They, as farmers, also did certain necessary work on Sundays, and so they wanted to allow Sunday work on the mines, but only such work as could not be stopped without ruination as far as the mines wore concerned. He could not agree with certain of the provisions of the Bill, as they really legalised certain kinds of work on Sunday: and he hoped that the section dealing with the matter would be deleted. He would have favoured the eight and a half hours day from &#x201C;bank to bank,&#x201D; but preferred the proposal of the hon. member for Braamfontein (Colonel Sir Aubrey Woolls-Sampson). He would vote for the second reading of the Bill.</p>
+
+</speech>
+
+<speech by="#lemmer">
+
+<from>&#x2020; General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>thought that there were exaggerations on both sides&#x2014;the mine-owners and the mine-workers. Each side demanded too much. He disagreed with all unnecessary Sunday labour. He did not see why a ship should be stopped on Sunday, or a Sunday train; but the trains ran for the benefit of the public, while the mimes were worked for the benefit of private persons. He must, as a representative of the people, protest against the provisions in the Bill dealing with certain kinds of Sunday labour, which were not absolutely necessary, unless for additional profit making. (Clause 6 contained so many exceptions that practically any kind of work was allowed on Sundays, and it required amending.</p>
+
+</speech>
+
+<speech by="#maydon">
+
+<from><span class="col_1113-1114" refersTo="page_0566"/>Mr. <person refersTo="hansard_za">J. G. MAYDON</person> (Dunban, Greyville)</from>
+
+<p>said he would like to call the attention of the Minister to two or three points. He went on to deal with the regulations, and he was understood to say that there should be some definite assurance given regarding their alteration. He welcomed the declaration that the regulations would be laid on the table of the House, font he thought that those concerned; should he informed with regard to what was being done. He was glad to hear that these were going to apply to the coal-mining interests; and he hoped that the Minister would table the amendment be had mentioned as soon as possible. Continuing, he said he also hoped the Minister would recognise the desirability of appointing one supreme authority to control the mines. In conclusion, he thought that the fine to he imposed by inspectors for any disregard of their directions should be reduced from &#x00A3;5 to &#x00A3;1.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>&#x2020; Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>referred to miners&#x2019; phthisis being introduced from other countries, and said that that was the great danger as far as the mines were concerned&#x2014;tuberculous workers who came from other countries infecting the others. He made a strong plea on behalf of proper steps being taken to combat that awful disease. It was an occupational disease, and was not the fault of the mine-owners.</p>
+
+</speech>
+
+<speech by="#macaulay">
+
+<from>Dr. <person refersTo="hansard_za">D. MACAULAY</person> (Denver)</from>
+
+<p>said he regretted the fact that the regulations had not been brought before the House. Many contentious matters would, no doubt, be contained in the regulations, and he thought the House should have an opportunity of discussing them. He regretted the attitude the Labour party had taken up, because he thought the universal desire was to make the conditions of work on the mines as comfortable and as healthy as possible. He was not so much concerned with the hours of labour as he was with the conditions of work underground. He considered the Labour party had not given credit where credit was due. For instance, the Labour party had not given credit to the hon. member for Georgetown (Sir Geo. Farrar) for the excellent system of ventilation he had adopted in his mines, or to the hon. member for Germiston (Mr. Chaplin) for abolishing might work in the mines which he controlled. The speaker concluded by saying that he hoped the Minister would see his way to have the regulations submitted to the House.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that he and his colleagues had serious criticisms to offer against the Bill, which they did not regard with the same satisfaction as the hon. member for Yeoville (Mr. Lionel Philips) and the hon. member for Georgetown (Sir Geo. Farrar) did. In fact, they were aghast when they listened to the speech of the Minister of the Interior to find the almost cynical attitude which he adopted towards election pledges. The remarks of the Minister led one to suppose that election pledges were things to be forgotten immediately after they were made, and to be buried and not resurrected until the next election. They expected to find some advance upon the last Bill, but they were mistaken; the Bill remained the same as before. The Minister was strongly supported by the hon. member for Yeoville, and throughout the whole of the Minister&#x2019;s speech the secret of the Bill was the Chamber of Mines. That was the secret of the Bill. That was the secret of the different attitude which the Minister took up to-day from the attitude he took up before the elections. It was evident that the Minister had been influenced by the Chamber of Mines, and they objected to legislation by backdoor influence. Proceeding, the hon. member objected to the Government giving power to any other authority above the Courts to deal with a man&#x2019;s certificate. Then, with regard to Sunday work, it was evident in this case that the Minister felt he had been treading on very delicate ground. The Minister felt it necessary to divert the House with a startling scientific discovery. In fact, he had discovered that it was impossible to do in six days what could be done in seven. (Laughter.) Did the Hon. the Minister know that there was a whole heap of unnecessary work done on Sundays? All sorts of jobs were done on Sundays. He knew something of these things himself, because he had been a mine manager. Managers had one idea before them, and that was: to keep up or increase their output, and they made all sorts of inducements to keep the men underground on Sundays. He thought that some penalty ought to be allocated to Boards of Directors, because they were really the responsible individuals, and they should be held immediately responsible for breaches of the law. Now, with regard to the eight-hours&#x2019; day. Bank to bank, it was said, meant ten hours face to face. He would guarantee that if they had an eight hours&#x2019; day, the organisation would see that as little time as possible was taken up in getting the men to and from the work. There was another matter which he would like to allude to, and that was: the statement by the Minister that the obstacle against an eight-hours&#x2019; day was that the mines mainly depended upon Kafir labour. He hoped that the press would take note of that, and that the white workers on the mines would take note of it also. Mr. Creswell went on to refer to the conditions under which blacksmiths had to work when employed underground, and urged that this work could be done perfectly well on the surface, the only reason why it was done underground being some real or fancied saving of a minute amount. There was no indication in the whole of the Bill as it stood, and there was no indication in the speech of the Minister of the Interior, that the Government meant at all to give effect to the election sympathy <span class="col_1115-1116" refersTo="page_0567"/>which had been expressed freely throughout the country, and to the election pledges which so many members of the House had given. They hoped that the Minister of the Interior, when he replied, would tell them that on this question of eight hours, and on this question of Sunday labour, the Government would not attempt, when they were in committee, to influence their supporters, and make appeals to their loyalty to support them in insisting upon keeping mills running on Sundays, but that they would have a vote according to the feeling of the House, irrespective of party. They also hoped that on the eight hours&#x2019; question they would be equally desirous of taking the real feeling of the House. In regard to the line taken by the hon. member for Braamfontein, he had never listened to a speech which showed so clearly a lack of comprehension of what the Labour party meant. They were desirous of approaching the other side wherever they could reasonably do so, but the Labour party did not stand for going hat in hand to employers or anyone else. They insisted upon their conditions being made part of the law of the land. He hoped the Minister of Mines would dissipate the impression that he had conveyed in his speech that communications with the recent deputation from the Chamber of Mines had influenced his policy very, much more than the facts of the case, and independent investigations of what should and should not be done. He would like to point out to the Prime Minister that during the last three years the Government of the Transvaal, of which he was the head, lost infinitely in public esteem, because it was felt continually that where the public interest, the great mass of little people, where their interests were concerned, they always went to the wall before the little interests of the little mass of big people, and that the interests of the public were subordinated to the interests of the big corporations.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said that the Minister of the Interior and his colleagues on the front bench were deserving of sympathy. Here they had a Bill which one would have thought would have commended itself to the members on the cross-benches, and yet those members were turning on the Government, telling them very plainly yesterday what should be the order of business in that House&#x2014; (laughter)&#x2014;telling them to-day how they should instruct their supporters to vote, whom they should consult when they wanted to collect information to prepare a measure which was to come before the House, and, last of all, they had these gentlemen, who were so anxious for reform, advocating that this Bill should be read that day six months. The members on the cross-benches, as the hon. member for Denver had said, usually confined themselves to abuse. He did not know during his experience of the past eight years one instance when the hon. member for Jeppe (Mr. Creswell), who posed as the representative and as the champion of the working classes, had come to him, at any rate, with any suggestions whatever. He could only suppose that the conditions on the mines with which he was connected were so perfect that the hon. member had no advice to offer. Had they (the Labour party) done anything during all these years to improve the relations between employers and employed? He said emphatically &#x201C;No,&#x201D; and he said that more of the hon. member for Jeppe than anyone else, because it seemed to him (Mr. Chaplin) that during the last eight years he had laid himself out, not so much to do good to the working classes, as to firmly get his teeth into the hand that, used to feed him. (A VOICE: &#x201C;Question.&#x201D;) There were two main points in this Bill. The Bill itself was practically a reproduction of the Bill passed in the Transvaal Parliament in 1909. In regard to Sunday work, he could quite understand the feelings of those who had conscientious and religious scruples against Sunday work. He could appreciate that hon. members who were not very conversant with the needs and requirements of the gold industry should imagine that that industry was like any other business, and that there was no reason why it should be allowed to work on a day when other businesses were closed. But the position was not the same. They had in the mining industry of this country an industry by which, whatever may be in the future, the whole prosperity of South Africa hung to-day. As the Minister for Mines had said, though that industry was prosperous, there were difficulties in the path of its progress. The Minister for Mines was right when he said, <b>&#x201C;</b> Beware at this stage of making rash experiments, which may give a shook to confidence, and which may have effects which may be disastrous, effects which no one anticipates now.&#x201D; He appreciated the feelings of people who disliked Sunday labour, but he did not sympathise with the hon. member over there who said that he objected to engine-drivers working on Sundays because they prevented other men from being employed.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort):</from>
+
+<p>On a point of order, I did not say that.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston):</from>
+
+<p>I don&#x2019;t know whether the hon. member is a member of the Labour party or not. The Labour party, I understand, from reading the papers, periodically expel him, and then they take him back to their bosom. Perhaps to-day he is not a member of the Labour party. Continuing, Mr. Chaplin said that the vast majority of the men who were affected by the question of Sunday labour&#x2014;the men engaged in the reduction works&#x2014;were entirely opposed to any change in the present system. That, after all, was not surprising, because, if they were prevented from working on Sundays they would lose four shifts, and they would also probably <span class="col_1117-1118" refersTo="page_0568"/>lose certain privileges which most of the mining companies give them as compensation for working on Sundays. He believed if reasonable holidays were given as a compensation to the men for having to work on Sundays, such as were given in most mines, the vast majority of the men would infinitely prefer things to go on as at present. There were many companies which had the greatest difficulty in making any profits at all, and which had no capital to spend on new plant, and, as had been pointed out, the industry had been built up on the assumption that milling would be allowed on Sundays. It that were altered, the consequences would be serious to many companies. If the system was altered, it would seriously diminish the income of a large number of men, and the spending power of the community, and while he sympathised with those members who had a, conscientious objection to Sunday work, he would ask them to leave the law as it was, and to see it was properly enforced. A is to the question of hours, it was curious that the men most affected by the provisions of the Bill on that point&#x2014;the men employed at the rock drills&#x2014;were, most of them, opposed to the change. The majority of them to-day worked nine hours. While some of the most skilful of them could perform their contract work in that time, others would find it difficult to do so. Still, he thought the arguments of the medical men on this point were very strong, and he, for one, would not object to limiting the hours to eight. Not would be object to extending the limitation to all workers underground; and for this reason&#x2014;that if the limitation were applied to one class there would surely be an agitation on the part of all classes of underground workers to have it extended to them. It would be much better to do this at once, so that the mines could be organised to meet the changed conditions. It would be better to have a lasting settlement at once. But, in his opinion, it would be impossible to have an eight hours day from bank to bank, or an eight hours day in which the time occupied in going to and from work was to be taken out of the company&#x2019;s time. If that were made law, he was certain there would be a most serious dislocation of the whole mining industry. The whole conditions of working would have to be altered. They would have to go back to the double-shift system, where now they had the single-shift system&#x2014;a system which everybody who knew anything about the subject agreed was altogether in the interests of the men. The same amount of work would not be got through, and it would be perfectly impossible for the companies to pay the same rate of wages as they paid to-day for the less amount of work which would then be done. That would involve endless discontent, enormous loss, and the upheaval of the whole industry. He could not, therefore, support any amendment which would limit the hours of work to anything less than eight hours&#x2019; work underground. Only to that extent did he think the House should go. Concluding, the hon. member said he hoped the Government would make it clear that separate provision would be made for the coal mines and for the smaller mines of the country.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley)</from>
+
+<p>said he was sure every member desired to improve the conditions under which the miners worked, but unfortunately they looked at the matter from different standpoints. He was entirely in accord with an eight hours day for miners working underground, and he would do all that he could to secure that for all miners. He had conscientious scruples about working on Sundays; he had never done so himself, and was not desirous of seeing other people work on that day. (Cheers.) If it were possible for Parliament to release miners from Sunday labour, it was its duty to do so; but he fully realised that there was certain work which must be carried on Sunday; but the men compelled to work on Sunday should have one day in seven to themselves. He was disappointed that the representatives of labour should have left the House when one of those connected with the mining industry was addressing the Assembly. (Opposition cheers.) He felt convinced that the hon. members to whom he referred did not entirely represent the labouring classes. (Opposition cheers.) The men who tried to create strife between employers and employed were the worst enemies of the working classes. (Opposition cheers.) In conclusion, Mr. Oliver stated that the working classes at Kimberley had been treated in a very considerate and generous manner by those who employed them. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said he wished to draw attention to one point the extension of legislation by regulation. That had been very noticeable this session, and although one quite realised that with the complicated machinery of government there must be the power of making regulations, yet he would call attention to the creation of crime by regulation. (Hear, hear.) According to the Bill for a breach of the mining regulations one could be sent to gaol for two years with hard labour, and the House did not know what the regulations were. For a breach of the regulations, under section 5, there was the same penalty. A manager of mines might make regulations. The House was legislating to allow the punishment of an offence to be created by a mines manager to the extent of two years&#x2019; imprisonment.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>Fourteen days.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour):</from>
+
+<p>Section 17: For breaches of rules and regulations made by a mine manager, a man may be sent to gaol for two years,</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from><span class="col_1119-1120" refersTo="page_0569"/>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Read sub-section (c) of section 5.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour):</from>
+
+<p>I have read it. I am perfectly correct, because the words are so plain.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>,</from>
+
+<p>replying on the debate, said that many of the points raised referred, either to mining matters in the Bill which could best be dealt with, in committee, or to matters which could more properly be dealt with by regulations which would in due time be laid on the table. Technically speaking, hon. members had had the regulations before them for some months, because the Mining Commission&#x2019;s report contained the regulations recommended by that Commission, and although spine alterations might be made&#x2014;some, no doubt, important&#x2014;the bulk of the regulations had been before the members. He did not think a second reading debate was the proper time to raise a discussion on those regulations. What had surprised him most of all was the amendment promised to be moved from the cross-benches. The matter seemed very ludicrous. The Government appointed a Commission to inquire into matters which concerned the life, health, and welfare of the workers on the Rand. The Commission took the evidence of the workers themselves, and recommended a large and important body of regulations, but legislation was necessary before they could be carried out. All the Bill did was to give scope for those regulations to come into force. Then some hon. members took up an illogical position, and said, &#x201C;We will have none of these things, because we are not satisfied with the conduct of the Minister&#x2014;(hear, hear)&#x2014;whose hostility to the gold mining industry is not sufficiently marked.&#x201D; On both these points, technically, he had a complete answer. These were the points which were referred to the Commission, which was not a Commission of mine-owners; it was one of the most impartial and able Commissions that could be appointed. (Hear, hear.) The Commission went thoroughly into the questions of Sunday labour and bank to bank hours, and reported adversely to the views held by the hon. members on the cross-benches. &#x201C;It is not for me,&#x201D; observed General Smuts, &#x201C;to carry out my wishes at all &#x2018;hazards. Hon. members on the cross-benches know that there is no man who has greater sympathy for the workers on the Rand than I have. (Hear, hear.) But the industry is a vast one, and a Commission was appointed to inquire into these very matters. I have carried out the recommendations of the Commission. The hon. member for Jeppe (Mr. Creswell) says that I consulted the Chamber of Mines too frequently. I have consulted the Chamber and various mining (groups, and have also gone into the individual cases of the smaller mines in order to satisfy myself as to what the consequences of any measure would be. I thought that was my duty, and to go thoroughly into the facts before a far-reaching alteration was carried into law. Surely my hon. friend opposite cannot blame me for that. I have spoken more to him about mining matters than to any member of the Chamber of Mines.&#x201D; (Hear, hear.) Proceeding, he said he did not think his hon. friend was justified in passing the strictures he had concerning him the speaker), and the Chamber of Mines. He thought it would have been cowardly on his part if he had shunned the Chamber, because he considered it was the duty of the Minister to hear all he could from experts, and those more closely connected with mines than he was, and then come to some impartial conclusion. He had been rather astonished by some of the arguments that had been used by hon. members on his side of the House. Why, the hon. member for Vrededorp was one of those responsible for the passing of this very lay relating to Sunday labour. In 1909 the Transvaal Parliament passed an almost identical law; the only alteration that had been made was that connected with the limitation of the hours of labour. His only object that day was to extend a law which had proved so beneficial in the Transvaal to other parts of South Africa. Now, the hon. member for Waterberg was very complacent about this measure when it came before the Transvaal Parliament in 1909, and he wondered whether the atmosphere of Cape Town had been responsible for all these sudden changes. (Laughter.) In the somewhat irreligious atmosphere of Pretoria they decided one way, and now they repudiated that decision. He did not think that such a position was logical. Continuing, he said that while they might make experiments with an industry that was in its infancy, it was a different matter when they dealt with an industry as long and as firmly established as the mining industry. Therefore, it behoved him to be very cautious, and he also wished the House to be cautious in dealing with this important industry. The hon. member for Greyville had asked that the coal mines should be dealt with on a separate footing, and that before these regulations were promulgated the people involved should be consulted. He would give that assurance gladly, even at the risk of being chided by the hon. member for Jeppe for having run after, say, the coal mines of Natal, (Laughter.) After paying a tribute to the lucid and illuminating speech&#x2014;perhaps the most lucid and illuminating speech of the debate&#x2014;by the hon. member for Hoopstad, the speaker went on to refer to the finding of the Mining Commission in connection with the hours of labour. He was quite prepared to face the matter, after what he had heard, and say that, with certain exceptions, it should apply to all the workers underground. Dealing with the coal mines, he said that while, perhaps, ten hours might not be too long, yet there should be power to deal with an employer who worked his men for a longer and an unreasonable period.</p>
+
+<p><span class="col_1121-1122" refersTo="page_0570"/>The amendment, to postpone the second reading of the Bill for six months, was negatived.</p>
+
+<p>The Bill was read a second time, and set down for committee stage on Friday next.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#explosives_bill_second_reading">
+
+<heading>EXPLOSIVES BILL.<br/>SECOND READING.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved the second reading of the Bill, and said that Le did not think it would be necessary for him to go into all the details of the measure, which had to do with the storage, importation, exportation, and general handling of explosives throughout the Union. Proceeding, he said that South Africa was in the position to-day of having three very important factories, whose business it was to manufacture explosives. These three factories supplied almost entirely the needs of South Africa, the value of their production being more than one million and a half sterling. Conditions were laid down as to how factories were to be established in future, and in regard to the opportunities to be given to the public to lodge objections to the establishment of factories. In the event of objections being lodged, a Commission would be appointed to go into the matter and report to the Minister. As hon. members would see, the powers of inspectors were all defined, and the power to make regulations was left to the Government, which provision, he thought, was necessary. The Bill embodied the provisions of similar laws in existence in the various Provinces.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>welcomed the Bill. There were one or two points, however, which he would deal with when the committee stage was reached. Among them there was the question of penalties, and he thought it was altogether excessive to make a man liable to a fine of &#x00A3;250, or twelve months&#x2019; imprisonment, for a slight mistake. After all, they were all liable to make mistakes at times, and he hoped the Minister would take the matter into consideration.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>said that under the provisions of the Bill the whole of the Cape Explosives Act of 1887 was abrogated. Included in the Cape Act there was a clause (27) which legalised the manufacture and sale of fireworks. That, of course, was a very small part of explosives, but nevertheless, this provision had been forgotten in the present Bill. If things stood as they were under this Bill it would be illegal for anyone to manufacture and sell fireworks in the Cape. He hoped that before the Bill reached the committee stage the Minister would make provision for this.</p>
+
+<p>The Bill was read a second time and set down for committee stage on Monday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#native_labour_regulation_bill_second_reading">
+
+<heading>NATIVE LABOUR REGULATION BILL.<br/>SECOND READING.</heading>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>,</from>
+
+<p>in moving the second reading of the Bill, said that the principle of the measure was the control and regulation by the Government of the supply of native labourers to various centres of work in South Africa. That such regulation and control by the Government was desirable nobody, he thought, could deny. Regulations were in force in the various colonies before Union. There was the Cape Act of 1899, the Transvaal Act of 1901, the Natal Act of 1901, and amended in 1908, and there was a Free State Act somewhere about, the same time. If they went back to the conditions and circumstances under which native labour was recruited in the years prior, to 1899, he did not think that any member of the House would doubt the necessity and desirability of the legislation provided by the present Bill. In 1897 and 1898 native labour was recruited in a haphazard manner, without any sort of restriction or control of any kind. In fact, they had a state of affairs in the Cape Colony, and for that matter throughout South Africa, which was highly undesirable and unsatisfactory, not only from the point of view of the mining industry and other large labour employers, but also from the point of view of the labourer himself. The latter was ignorant, he was unhappily traded upon by people who ought to have known better, and he was induced to enter into contract in consequence of misrepresentation. Improvements had been made in the conditions of the contracts, and the conditions under which the natives worked. In the matter of contracts these had to be entered into before a Magistrate, who was bound by law to explain the terms carefully to the labourers concerned. He thought he was justified in saying that recently there had been an enormous advance made for the benefit of the natives in the improvements made in the condition under which they contracted and laboured. A few years back native labour was contracted for in a manner by which huge advances were made to the natives to induce them to re-engage. These advances were made generally in cash or cattle. Unfortunately these were represented in the contracts greatly in advance of the actual amounts. Now the Government had succeeded in prohibiting any advances of cattle, and with regard to the advances of cash they proposed to limit that to &#x00A3;5. Another matter was the question of payment for work. In the contracts it had been set down that the natives agreed to perform a minimum standard of work, but if he performed less than that, he would not be paid pro rata; he, in fact, would receive nothing at all. In going through the Transkei he was shown several of these contracts, where a native had to guarantee to drill 36, or even 42 inches. If he drilled only, say, 41 and 9-10th inches, <span class="col_1123-1124" refersTo="page_0571"/>he would receive nothing. He (Mr. Burton) was glad to say, however, that there had now been an agreement by which the mining companies on the Witwatersrand would establish a fair minimum. Thirty inches had been suggested, because if a native was unable to do that he was either unfit for the work, or malingering. The Bill proposed that some system such as this should be adopted all round. (Hear, hear.) With regard to the housing and feeding, etc., they had sent from the Cape and Natal Magistrates to inspect the conditions prevailing on the Rand. He did not speak of the conditions prevailing at Kimberley, because they required no inspection. The testimony from the Magistrates was that the housing, feeding, and hospital accommodation, etc., showed enormous improvement.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>What about the mortality?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>I am coming to that. Proceeding, the hon. member said that in connection with the employment of natives south of latitude 22, the average mortality was 26 per thousand. The Cape natives&#x2019; mortality was 18, Basutoland was higher, and the Transvaal natives figured out at 28 per thousand, giving an average altogether of 26 per thousand for the past five years. North of latitude 22&#x2014;and he would say that, the figures quoted by the hon. member for Jeppe were correct, as they had been supplied by the department&#x2014;the mortality was enormously high. The figures had been causing the department the very gravest concern, because it was impossible to shut one&#x2019;s eyes to the seriousness of the position. In 1906 the mortality of natives coming from north of latitude 22 to work on the mines was 70 per 1,000; in 1907-8, 63 per 1,000; in 1908-9, 67 per 1,000; in 1909-10, 65 per 1,000; and from July 1, 1910, to December 31, 1910, it was 77 per 1,000. The Government had called the attention of the mining companies to this awful death rate, and had impressed upon them the necessity of seeing that as far as possible conditions should be changed in order to reduce this death rate, and to ascertain what really was the cause of it. (Hear, hear.) The Chamber of Mines had agreed to an arrangement by which every endeavour would be made by special watching and special arrangements, to see what was the cause and how to remedy the evil, and he was happy to say that he believed there would be an improvement soon. (Hear, hear.) He doubted very much, however, whether the high death rate was due to the change of climate or the character of the work alone. The death rate among these tropical native labourers in their own territories was enormously high, even among those employed on surface work. He begged to assure the House that both he and the department were fully alive to the seriousness of this matter. They were keeping it tinder observation all the time, and the House might rely entirely that everything would be done to find out the cause, and then to get a remedy. He wished to add, however, that in no sense whatever would the Government hold itself responsible for the recruiting of natives. (Cheers.) For the Government to undertake any business of that sort would be wrong in principle and would fail in fact. One great reason was that they would lose entirely, he feared, that respect which the native had for the Government as Government&#x2014; the respect which he had for a controlling power above all others who were connected with him for his own interest. He (Mr. Burton) had set himself entirely against that. It was a hopeless policy. He thought the impression had arisen that the Government were thinking of gradually introducing it, from the fact that they had appointed registrars in certain eight or ten centres. &#x2018;Now, the Bill was rendered necessary for various reasons. In the first place, it was necessary on account of consolidation. They must have a simple, uniform method. It was desirable that they should have centralised administration of the whole matter. Then there were many important defects in the existing legislation which they should try at the earliest opportunity to meet. After pointing out various directions in which they had sought to supply these defects, Mr. Burton went on to say that in regard to the principal changes in the Bill he might remark that one leading feature was the entire control of the issue of licences to labour agents and runners by the Government. The Bill proposed to apply these provisions throughout the Union, and it would include all recruiting, not only of mining companies, but for every kind of labour, with certain exceptions, viz., labour employed for farming, horticultural and irrigation purposes, and domestic service. One very important matter that the Bill dealt with was that of granting licences for certain areas. In Natal certain areas were by proclamation excluded from recruiting. In this Bill they had gone on the principle of granting a man a licence for a certain district, where he was to confine his operations. If he wanted to recruit in more than one district he had to get his licence endorsed and pay a small additional fee. In regard to the thorny question of recruiting for employment outside the Union, Mr. Burton said that he had already stated in another place that their experience had been that if you prohibited recruiting for employment outside the Union, the natives would go without being recruited. Still, they thought they should retain power to prohibit recruiting within, the borders for employment outside, for circumstances might arise where it was highly necessary that they should have the power, and so they had taken the power. Referring to the fees for labour agents&#x2019; licences, he stated that they proposed to make &#x00A3;12 the ordinary fee for such licences, and then for <span class="col_1125-1126" refersTo="page_0572"/>each additional district that an agent recruited in, an additional &#x00A3;1 was charged. This, on the whole, would work out in most cases as a reduction on the present scale. They also introduced a system by which provision was made for the proper conduct of natives in the train, etc., to their destination. Provision was also made for compound managers taking out licences.</p>
+
+</speech>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (continuing)</from>
+
+<p>said that the Bill provided for the issue of licences to labour agents, who had the right to recruit by themselves, or by their agents or runners. Hitherto, at the Cape, runners&#x2019; licences had been issued indiscriminately at a nominal figure to people of all sorts. Among these were a number of Transkeian traders, who really were not runners at all, but who stayed in their stores, and employed others as runners. Such a man was not really a native labour agent, and, personally, he (Mr. Burton) thought this class of man should be required to take out a recruiting agent&#x2019;s licence. This Bill, however, did not contain any special provision of that fort. The Bill contained! what, he thought was a salutary provision, to the effect that labour agents should be liable in law for the acts of those employed by them, so long as those acts were within the scope of their employment. Hitherto all sorts of people had been employed as runners, who had performed acts of every description, and in many cases had cheated, misled, and made misrepresentations to the natives. The principle was established in their liquor legislation that the holder of a licence was responsible for the acts of his servants done within the scope of their employment, and it was fair, he thought, that that principle should be adopted here. On the other hand, he recognised the reasonableness of the complaints made by labour agents with regard to the actions of many of the natives employed by them. It had been found that many natives engaged themselves to half-a-dozen agents, and received an advance from each of these. It had been held that this was not a criminal offence, and, of course, it would be hopeless for an agent to sue the deserter civilly. It was proposed in this Bill to make that sort of thing a criminal offence. Now, he came to the most difficult and thorny subject, viz., clauses 13 and 16. Clause 13 made the owner or manager of a mine or works the responsible employer, and clause 16 made it an offence for any employer to pay the whole or part of any wages due to a labourer to any person other than the labourer. There was no doubt these two clauses, taken together, introduced an entirely new feature into the system. Hitherto they had had, broadly speaking, at the one end the native labourer, in the middle the recruiter, and at the other end the actual employer. The general system was for the mines or works to pay the recruiters for their services, and the mines and works then became responsible for the housing, feeding, wages, and the general treatment of the labourers, but there had been existing, side by side with this system, another system of contractors. These contractors might be divided into three classes. First, there was the independent contractor, who recruited native labourers, and who himself compounded them, and undertook that, they should perform certain work at his own risk, and, of course, for his own profit. He thought it would not be right to interfere with the position of this class of contractor. The second class was the contractor who, having recruited native labour, did not enter into an independent, contract, for which he himself was responsible, but contracted that with this labour a certain amount of work should be done on what might be called the shift basis, for which he had to pay the native. In that case, the responsibility for housing, feeding, etc., of the native rested with the mine or works. The third class was the contractor who engaged the labour for himself, who compounded the labourers, and fed and housed them, and so forth, but, who engaged with the mine or works, not to perform so much work for which he was responsible, but to get paid on the shift basis. He engaged to supply so many boys, and he got paid the money&#x2019; which was to go to the boys eventually as wages, but instead of the man doing it himself, the mine or works was responsible for the housing and feeding of these natives. With regard to the first and second classes of contractor, he could not see that there was much reasonable ground for interfering with their positions, but the difficulty which was presented to him was in the ease of the contractors who were not independent contractors&#x2014;who did not seem to be quite one thing or the other. It had been put to him that for years past this system had worked unsatisfactorily, because they had been unable to fix anyone with the responsibility for these people. The inspectors complained, and they were fortified by the magistrates&#x2019; reports, that, the arrangement worked extremely unsatisfactory. There was a lack of proper compound accommodation, and the money earned by the boys was handed over in the first place to the man who engaged them, for payment to them. It was difficult to see how a contractor could avoid the temptation to make a profit our of the transaction, and also out of the housing and feeding of the boys. (Hear, hear.) He had thought it right to put clause 13 into the Bill. Probably there would be a good deal of feeling over this matter, and a good deal of opposition to this clause, but he wished to assure hon. members&#x2014;who might feel that vested interests were affected&#x2014;that, in his mind, there was no intention whatever to hurt any man&#x2019;s interests. He had put the clause in for the purpose of submitting it to a <span class="col_1127-1128" refersTo="page_0573"/>Select Committee&#x2014;the appointment of which he would move after the second reading&#x2014;in order that the matter might be, fully investigated, and Parliament might decide what was best to be done. He could, not conceive any measure more fairly deserving, of being referred, to a Select Committee; it was exactly the sort of Bill that should go to a Select Committee. Almost inevitably in a measure of this kind a good deal of its actual working must be left to regulations, but he had tided to put the driving principle into the law itself. But they could not, of course, have every detail in the Act. The regulations, however, would be laid on the table of the House&#x2014;(cheers)&#x2014;and they could fully be examined into by the Select Committee. In conclusion, Mr. Burton said that so long as they, as men of business, had to deal with an existing situation and to face the logic of existing facts, so long was it right and proper that that Houses representing a the Union&#x2014;should take stops to deal with, and regulate, native labour.(Cheers.)</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said: it was obvious that the Bill really concerned the mining industry of South Africa, because the Bill in effect was a consolidation of regulations determining how natives should be recruited for, mines and works throughout the Union. It was obvious, considering the very large number of natives required for industrial purposes, that the matter must also affect farming and agriculture Therefore, it was necessary to see that the measure be made as effective as possible. The Bill proceeded on the assumption that the native was required for unskilled labour, and that the native would not be treated the same-as, the European. It was no good when an employer had advanced sums of money, that because a native, committed some trifling fault he should be dismissed. While that might, do in the case of the European, it would not do in the case of the native. He had no doubt that the hon. member for Jeppe would give them his old argument in support of the theory that there should be no special provision for the native. He (the speaker) should treat the matter, as the Minister had done, on business lines, and he assumed&#x2014;a point upon which most of them were satisfied&#x2014; that the natives of this country would supply the main unskilled labour force which would be used in the development of the resources of South Africa. On the question in, general, he could say that he was in agreement with the Minister. He agreed that it would be a mistake&#x2014;he would go further, and say misfortune&#x2014;it the Government made itself responsible for the recruiting of labour; but while the Government, should not make itself responsible for the recruiting of natives, it was only right that; a principle should be laid down regarding the recruiting of labour for the mines. He agreed that the Government should have control over the issue of licences, that there should he responsibility on the runners, that no advances higher than the sum mentioned in the Bill should be made, and that the Government should have the power to close districts to recruiting for special reasons. So far as the treatment of natives on the mines was concerned, there had been complaints, and probably complaints would still be made. It would be idle to think that there could be no complaints where such a great industry employed such a tremendous amount of labour. He believed, and the Minister would bear him out, that there was every desire on the part of the large employers of labour to see that the employment of natives was conducted on humane lines, and that their treatment was just. There was a great scarcity of natives. They were short of them. How were the mines to get natives if these people went back to their homes and said that they were not fairly treated? No doubt some of these complaints were founded on fact; but, generally speaking, the treatment of those men had improved, and was improving every day, and everything that had been suggested by the Native Affairs Department had been done, and would gladly be done, by the people in charge of mining operations. The speaker dealt, at length with the standard of work in the various mines, and said that to those who were closely acquainted with the business the amount that was required was not unreasonable A mine could not set, anything but a reasonable standard for the reason that the natives would go to other mines. He went on to say that the death-rate had come down in a very satisfactory manner. That, was no doubt, due to greater advances in the way of medical knowledge. They had learned with the experience of years. Science had improved, and they knew how to treat natives for special complaints. He agreed that the death-rate among natives from the North was very high, and the deaths were largely due to pneumonia. He had no figures dealing with the question, because unfortunately the Native Affairs Department, had not been able to issue its report for the year. For the twelve months ended October 31 last, according to figures he had been able to obtain, the percentage of deaths which occurred from pneumonia had been no less than 39. That was to say that 39 per cent, of the deaths were due to pneumonia. He believed that applied with even greater force if they segregated from the total number of natives to which his figures applied the natives who came from the territory north of latitude 22. Why that was so was a matter for bacteriological research. If they could find something that would cure that death-rate&#x2014;and it was no use saying it was impossible&#x2014;he thought every research should be made. He agreed with the Minister that, if a reasonable time elapsed, and no improvement had been made, and if nothing could be done to mitigate the death-rate, then they should <span class="col_1129-1130" refersTo="page_0574"/>seriously consider the question as to whether these importations should be continued. The probability, however, was that there was something that could be discovered by medical research, and he thought that a reasonable time should be allowed for that research to be made. In that connection he should like to refer to a matter of considerable interest on the Witwatersrand, and that was as to the status of the laboratory in Johannesburg. He was told that it was very difficult&#x2014; well, he would say that it was very much more difficult&#x2014;to obtain a report as to the result of investigations on any matter affecting human diseases, than it was to obtain anything in regard to matters affecting the diseases of stock. Now, if that were so, he thought it would be generally agreed that, it should not be so, and that, at least the same facilities should be given for cases of human sickness as were given in respect of diseases of stock. The only other point with which he wanted to deal was that raised by the Minister with reference to contractors. As the Minister had said, that was an extremely thorny subject. The matter had become more and more complicated owing to the scarcity of natives for mining operations, and the employers&#x2014;companies&#x2014;had been driven to employ contractors, but under more fortunate circumstances they would have preferred to have done their own work. It would be within the recollection off many members that a few years ago, at the time of the Chinese importations, all the recruiting operations for the mines on the Witwatersrand were centred under the control of one authority&#x2014;the Witwatersrand Native Labour Association. Well, in the heat of the controversy that arose over the Chinese question, that association had to be given up. Now, he did not wish to be in any way unfair to the contractors. They were quite within their rights when they organised for themselves after the Witwatersrand Native Labour Association was broken up. They employed the best recruiters, and he would be the last to say that many of them had not done extremely good work. But the system had developed in a way which certainly did give rise to difficulties. There were contracts in existence to-day between the mines with which he himself was connected and prominent recruiters, which contained those disadvantageous features to which the Minister had referred. He had nothing to say against the contractors. He believed they did their best to fulfill their contracts, but he did say that the arrangements into which they had been compelled by force of circumstances to enter were not calculated to be of the best use to the labourer, and, not such as to cause the most efficiency on the mines. He agreed that the mines should, he responsible for the feeding of all their natives. He did not say that contractors made profits out of the feeding of natives, but he said it was inconvenient if in one part of a compound the mine led a lot of natives, and in the other the contractors were responsible for the feeding of the natives. The mines would naturally prefer to have the thing under their own control, but they recognised that vested interests had grown up in connection with this matter to some extent.: The vested interests were not of long duration, but nevertheless they must be admitted at the present time, and he should be the last to advocate that any injustice should be done to those contractors who loyally observed their contracts. The mines made the best of the present position, and did what they could to see that the natives received their fair pay. It was not in the interests of a company that a contractor should not pay his labourers every penny they earned, because the mines would become unpopular to the natives. It was a question whether in the general interest, some change in the present system should be made, and in that the Minister had treated the matter extremely fairly. The best thing to do was to refer the Bill, and this matter in particular, to a Select Committee, which could call evidence and see for itself what, was the best thing to do in the matter. Of course, if changes had to be made they would be unpopular with some of the people concerned, but in these matters the larger interests would have to prevail, and if it should be found by the Select Committee that in the interests of the natives themselves, and to a secondary degree in the interests of the mining companies that a change, of the present system should be made, well, he thought means would have to be found either of varying the present, contracts, or of seeing that such contracts were not repeated. He said in conclusion that, so far as those who were connected with the mines were concerned, they welcomed the criticism, investigation, and interest of the hon. members opposite.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he rose to move an amendment to the motion before the House that the Bill be read a second time that day six months., (Laughter.) He regretted having to move the amendment in view of the statement that had fallen from the lips of the last speaker (Mr. Chaplin) in the course of a, debate during the afternoon, when he insinuated that it was not with. A view to furthering the interests of the party he represented, but rather to rise the speaker&#x2019;s own words, to bite the hand that fed him. That was not correct. He recollected being fed by no hand in this, country. He recollected being employed, arid receiving a salary for work that was done, and wall done. He did not see that receiving wages from a firm for work done made a citizen adopt the political views of those, for whom he worked. If he were employed by a great financial corporation, and if he received from that corporation a high salary for that work and ff he knew that it was I impossible for <span class="col_1131-1132" refersTo="page_0575"/>him to absent himself from the scene of his labours for a lengthy period of time to attend Parliament&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I must point out to the hon. member that the question now before the House is the second reading of the Native Regulations Bill.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>With all! due respect to your reference, Mr. Speaker, I am only trying to explain&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The whole of the lion, member&#x2019;s remarks up to the present have been with reference to another debate, which is entirely closed and he must confine himself to the matter before the House.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>Well, I will say that I only ask hon. members to receive my remarks for what they are worth. If I were not present in a perfectly free position, and present in the sole interests of the country, and its interests alone, I should hold myself unworthy to take a seat in this House. Continuing, lie said he would repeat the arguments he had given the House earlier in the day. All the reasons he had advanced would, he thought, make hon. members vote against the Bill. He desired to see the present, state of affairs gradually abolished. He considered, whether hon. members agreed with him or not, that the present state of affairs embodied the very essence of slavery. They were told that afternoon of the great mortality among the natives; his hon. friend the member for Victoria West had stated on a former occasion that if these figures could be proved this should not be allowed. A few hours after the Minister of Native Affairs had given the figures, they had the hon. member for Germiston talking about a bacteriological inquiry. Slavery such as this had this effect, that it dulled all the feelings of humanity, and crimes which the country would not tolerate for a moment, and civilised countries would not tolerate, had been excused by the member for Germiston and the Minister of Native Affairs. Proceeding, the hon. member criticised certain of the offences which the native would be punished for. He would like to say that the mine managers of the Rand used every endeavour to see that their men met with no accidents, and it might be that a native, being anxious to get away from a place where he feared accidents, chooses to leave, that Assembly of civilised men proposed to make it a crime to leave an employment in which his life was endangered, and made it a crime to harbour this criminal. If the hon. member for Tembuland should harbour this native he would be liable to six months&#x2019; imprisonment. The hon. the Minister had stated he had been guided by the report of a Commission that had inquired into these things, but there was another Commission that was distinctly inimical to the policy of certain hon. members for Johannesburg, and whose interests the Government were so careful not to run up against. They heard nothing about that Commission. The Government seemed to him like Mr. Spenlow, who, when he wanted to say a nice thing, always spoke as Mr. Spenlow, and when he wanted to say something nasty, always spoke for his partner. (Laughter and cheers.) He (Mr. Creswell) realised that until certain steps were taken a certain control of the native was necessary. However, the Minister had told them that most of the abuses had already been cured, that these advances to the natives had already been put a stop to: why, then, ask them to consolidate this law? The present Bill, as he understood it, would simply be the means of handing the native labour over more and more to the mining industries. The Bill sought to eliminate the contracting clause. This clause 13 referred to a controversy that had been going on for a very long time. There were contractors who came round saying that they were content to do without recruiting fees, and would take so much a shift. It is quite right to have the natives under their own control. If a recruiter had value under this system it meant that his services were worth something to the controllers of the mine, and if a man could also control the natives, and it was more profitable to him to get something upon their work, then why should the Government step in and say he should not exercise his skill and knowledge of native labour? When Chinese, labour came to an end, the contract system was resumed. The Minister of Native Affairs had been falling into the same pit as the Minister of the Interior, and had been taking too solely the advice of the Chamber of Mines, and let him warn the hon. gentleman, in the words of the old proverb, that &#x201C;who sups with the devil must have a long spoon.&#x201D; (Laughter.) If they were going to have this slave system, for goodness&#x2019; sake don&#x2019;t discriminate between the different classes of slave-owners. He did not hold any brief for the contractors. He wanted to see in time the whole system swept away. So long as it was maintained he impeached the Bill on two grounds: (1) That it extended the semislavery system, and (2) having done that, in attempted to discriminate between the various classes of slave-owners in the interests of the most powerful.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he thought it was a great misfortune that the hon. member for Jeppe, for whom, he was sure, they all of them had a great regard, should adopt this tone with which he dealt with these questions. (Hear, hear.) Here was a Government brought in a Bill with the best possible intentions to regulate the conditions of labour, for which they were all responsible, on the <span class="col_1133-1134" refersTo="page_0576"/>Witwatersrand. It was attacked in the most violent, and, if he would allow him (Mr. Merriman) to say so, in the most intemperate language, by the hon. member for Jeppe. What good did it do? Was he likely to make any impression upon any of them by the sort of statement he had just made? Not at all. He hoped the hon. member would learn, before he neutralised his great ability, that that was not the way to influence any House of Parliament in the world. (Hear, hear.) He must really try and persuade people and not adopt violent language of that sort upon every occasion. Two Bills they had before the House to-day, both of them dealing with important subjects, as far as: he could make out, with the best possible intention, this one to be sent to a Select Committee. Both of them the hon. member had denounced at length in what he could not help saying was intemperate language. If he would take the advice of one who was proud to call himself his friend, he would try in future to cultivate a Parliamentary manner. This Bill, Mr. Merriman proceeded to say, did attempt to regulate what was one of the great problems in this country, and that was the immense mass of natives now gradually being brought out, forced out they might say, to industrial conditions under circumstances which must cause all of them&#x2014;any man who thought&#x2014; the gravest consideration and the gravest doubts. There were 200,000 of them on the mines&#x2014;barbarians most of them&#x2014;from all parts of South Africa, herded together, breaking down their tribal customs, brought in contact, he regretted to say, with the most undesirable class of white men, taught the white man&#x2019;s vices, taught things which he should blush to speak of in that House. They went back to their kraals, they went back to our territories, and they boasted of things which they never heard or dreamt of before. Such a state of affairs, for which they were all responsible, and for which the control was with them, was a matter which must give every Government the gravest alarm, and must give them, who were members of Parliament, who were always telling them that they were the superior race, many an anxious thought. So far from joining in that helter-skelter denunciation that the hon. member for George had indulged in, let him tell him that ever since Responsible Government was granted to the Transvaal, there had been a marked improvement in the conditions of native labour. During the time he was Minister of Native Affairs in this colony there was no suggestion made by them with regard to watching recruiting, and the care of the natives on the mines, that was not inquired into. Now, his hon. friend had talked about the system of slavery. (Hear, hear.) He supposed the hon. member would refer to a free system. Yet, he (Mr. Merriman) could tell the hon. member that he had not seen the effect of the free system. Now, his hon. friend the member for Beaconsfield could tell him what the effect of the free system was&#x2014; (hear, hear)&#x2014;and could describe to him&#x2014; well, he (Mr. Merriman) could hardly do it, because it was unfit for publication&#x2014; some of the scenes that used to take place every Saturday night in the Dutoitspanroad. They saw those natives dying like flies, uncared for. That was the free system. It was the compound system, which &#x2014;much as they might dislike it&#x2014;it was the only system which was suitable to the sort of labour that they had at present&#x2014;that had rescued those natives from being verily the most degraded class of labourers they could possibly see to being a very contented, happy set of natives. They came back year after year to De Beers Mines, which were, he thought, some of the best employers in the whole country. (Hear, hear.) However, notwithstanding the improvements which had taken place, something still remained to be done to improve the conditions of natives of the Witwatersrand. They were there exposed to all kinds of temptation the minute they went outside the guardianship of the mines. What would be the result of a free system? The result would be that the natives would simply be handed over to people who would prey upon them. But with regard to the ventilation of the mines and improved sanitation and so forth, he thought there was room for improvement, notwithstanding that a great deal had been done, and he hailed with pleasure the speech of the hon. member for Georgetown (Sir G. Farrar), and the temperate way in which he said he would do anything and spend any money to put his mines in order. And he (Mr. Merriman) did not think that the good employer deserved the wholesale denunciation that had been levelled at him in dealing with a very difficult problem. With regard to the unfortunate remarks that had been made about mining magnates, he (Mr. Merriman) would say that no one was more glad than he was to see them sitting in that House. They were in their right place there, because the House had them before it, and could tall them what it thought of them, and hear what they had to say in their defence. That was better than that they should be pulling the wires outside. (Laughter.) Proceeding, the hon. member said that the great difficulty they had always encountered in this country in regard to this matter was the difficulty of preventing these recruiters from going and making presents to the headmen. Some means, he hoped, would be found of putting a stop to that, for, though a native was unwilling, the chief or headman could make things uncomfortable for him, and compel him to take the work. That required careful watching. Then the proceedings of the recruiters also required to be looked into. He (Mr. Merriman) did not like the system of advances at all. It might be necessary, but it was an unfortunate thing. He thought they should, aim at the system by which a man could go to the agent, get the money for his <span class="col_1135-1136" refersTo="page_0577"/>passage, and go up himself and choose the mine at which he would work. The natives now had all sorts of reports given to them by agents, and it was the worst agents who made up the most flowery story. They wanted the same system as prevailed in connection with De Beers, who only had to hold up a finger to get as many natives as they liked. Another question was as to the mode of conveyance of these natives. The traffic was of great value to the railway, and it was the duty of the railway to care thoroughly for these people. He believed that matter was receiving the attention of the Government. There remained one subject on which he would like to say a word, and that was: the great mortality among the tropical natives on the mines. They had been told that the death-rate was 86 per 1,000. They could not regard that with anything but horror. They could not sit down complacently while that was going on, and he thought something should be done immediately in a matter of that kind. He had not intended to delay the House so long, but this was a matter of the deepest and most painful interest. They had these 200,000 natives on the mines in their care. He had said before&#x2014;and his words had been, misinterpreted, but he would say lit again&#x2014;that at the present moment Johannesburg and the mines were, for the natives of this country, a criminal university. They learned vices and crimes there of which, in their ordinary state, they had no conception. Well, they had a Bill before them with regard to habitual criminals. Don&#x2019;t let them be mealy-mouthed about habitual criminals, and the way in which they were treated in prison while they were manufacturing criminals in another way. These people were under their care, and it was their duty, as the Parliament of the country, to do what they could to regulate this system. (Cheers.)</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Mr. <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said that the mine-owners were as anxious as any one that the welfare of the natives should be the first consideration in the mines. They believed that, till the end of time, their industrial system, would rest upon that great asset of South Africa&#x2014;the natives&#x2014;and they realised that, if only in their own interests, they must treat the natives as human beings, and do what they could to secure their advancement. With reference to the remarks of the hon. member for Victoria West (Mr. Merriman), it must not be forgotten that of recent years enormous strides had been made in the way of improving the lot of the natives on the Rand, where night schools had been founded for their benefit. The habits of industry the natives acquired on the Rand were a valuable asset to themselves and to South Africa. (Hear, hear.) The employers of native labour did not desire to see it displace white labour; on the contrary they desired to see more and more white labour used. But white men must recognise that they must be prepared to take their coats off, and to accept as their assistants&#x2014;not the natives upon whom they relied to-day &#x2014;but white boys. (Hear, hear.) The mine-owners tried to induce the skilled men to take white boys, but in that way the miners would be making competition for themselves. But this competition would be infinitely less serious in the men&#x2019;s interests than that caused by the training of native labour, which they were now doing. (Cheers.) He mentioned this as an instance of the interest which the much-despised mining magnate had for the employment of white labour. The: idea that natives themselves should go to the labour agents and get the latter to make arrangements for them to work on the mines would do away with a great deal of the abuse that had taken place in the past when, under the touting system, the most frightful abuses occurred. (Mr. MERRIMAN: Hear, hear.) He believed this admirable measure, when it left the Select Committee, would be of the utmost advantage, not only to organised labour, but to the natives themselves, who formed part of this big industrial system. He (Mr. Phillips) had been twitted by the hon. member for Jeppe (Mr. Creswell) in not having humane instincts over the matter of the heavy native mortality on the Rand at least the hon. member said that any observations he (Mr. Phillips) made in that direction should be discounted. He claimed to be as humane as the hon. member for Jeppe, perhaps more so. (Hear, hear.) It would have been better to have retained a certain number of Chinese rather than to have to resort to recruiting in the tropical territories. But he was not at all sure that the statement made by the Minister in this direction would not turn out to be absolutely accurate&#x2014;that those natives in their own country wore a short-lived race, and it might turn out that the mere fact of bringing them down to work on the Rand would be the very means of discovering remedies for those things which they suffered from in their own country. (Cheers.) If, in Spite of all the efforts to decrease this terrible death-rate, they failed, he would be one of the first to agree that it was necessary to stop recruiting in those regions. (Hear, hear.) To put it on the lowest basis, it was not a profitable thing for the mining industry to bring down a lot of men to die at the rate of 77 per thousand. As to the mining representatives not having answered the statements of the hon. member for Jeppe, they knew that speech of his by heart of the fantastic illusions from which the hon. member suffered.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>&#x2020; General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>said that the Bill would affect, not only the natives and the mines, but the whole country. There were a couple of clauses, such as clauses 13 and 16, which he must object to, because, if he read them aright, they contained a wrong principle. When a monopoly was given to one body it might act <span class="col_1137-1138" refersTo="page_0578"/>in such, a manner that native labourers would not come forward; then it would be said that there was a scarcity of labour; and it might be asked that Chinese labour should again be imported. If it were clearly laid down how the natives should be treated by contractors, there would be no way open for abuse in the compounds, and native labourers would, if they knew, they would be well treated, readily come forward. Though some of the contractors might be unsuitable men, the system was a good one. Any contractor treating his natives badly would soon have a shortage, and the fact that natives preferred contractors to mine compounds proved that there was not much wrong to-day. With regard to what the hon. member for Jeppe (Mr. Creswell) had said about the &#x201C;slavery&#x201D; on the mines, he thought that if the natives got to know of what had been said by the hon. member against that Bill, it would have a very bad effect. If all these thousands of Kafirs ran about the streets of Johannesburg, what might not happen? Was it not better that they should be kept under control? (Hear, hear.) He hoped that the Minister of Native Affairs would introduce some legislation, or make some addition to that Bill, so that he could deal in a suitable fashion with certain natives who ran about in the towns, and control them better.</p>
+
+</speech>
+
+<speech by="#leuchars">
+
+<from>Colonel <person refersTo="hansard_za">G. LEUCHARS</person> (Umvoti)</from>
+
+<p>said he welcomed the Bill as an improvement on the measure it was intended to repeal. He welcomed it because it give the Minister the power to decide when recruiting should take place&#x2014;a very necessary provision. From what they had heard they would assume that the only industry to be considered was the mining industry. He would point out that there were other industries that would suffer if attention was only paid to the recruitment of natives for the mines.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said he hailed the measure with pleasure, because it seemed to him that it bore the marks of having been drawn up after very great consideration indeed. It seemed to hold the balance between the conflicting interests concerned in this instance. It did justice to the great mining industry; it did justice to the natives; it did justice in a way to the native labour agents and recruiters. He was glad to hear the Minister say that the Government would not have anything to do with the recruitment of natives. The speaker proceeded to deal with some of the clauses of the measure, commending the Bill to the approbation of members of the House. As to the slavery spoken of by the hon. member for Jeppe, there was no such thing. He (the speaker) spoke from a clear and sound knowledge of the state of affairs in the Territories. The natives were told where they were to go, and what they were to do, and they clearly understood everything. The word &#x201C;slavery&#x201D; was misapplied. The hon. member for Jeppe and his friends&#x2019; argument was that the native should make way for the white man. But the black man was the labourer of the country. He was placed here by Providence, and he was not brought to this country, and the white man was not here to take his place. If these gentlemen, had 150,000 white men ready to step into the places of these natives; at a slightly higher rate of wage, it would be a different state of things. These gentlemen wished to overthrow the labour system of the country, upon which everything&#x2014;the development of South Africa&#x2014;depended. It seemed to him to be the dream of people who did not understand the position of affairs. Whenever a semi-civilised race came in conjunction with a civilised race, the result was the same. Still, on the whole, the goldfields and diamond fields had been beneficial to the natives. He had some connection with the mines himself. He had disapproved of the introduction of Chinese labour, but when he went up to the Rand he found that the Chinese were very well oared for, even to the disadvantage of their own natives. Thank God, however, the Chinese had gone, novel to return, and he believed that the mine owners were now going to do their duty by the natives, and the natives by them. Although clause 13 was a very good clause, he did not entirely agree with it, but he believed that it could be amended. Interested in this question as he was, and his constituents also, he was surprised to find that where opposition to this Bill was expected, he had received replies from his constituents that it was a good Bill, and they were satisfied with it. Continuing, the hon. member stated that the unworthy agents referred to had used liquor freely as a means to secure natives for the mines, and he hoped that this bribe, which had been attended with such disastrous effects, would be also prohibited. He thought some of the penalties provided in the Bill were too high. It was time that the practice of many of the natives in contracting with more than one labour agent at a time, and obtaining advances, was put a stop to. In conclusion, be said he believed that it was a good Bill, and that it could be made even more operative for good in the Select Committee.</p>
+
+</speech>
+
+<speech by="#joubert">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">J. A. JOUBERT</person> (Wakkerstroom)</from>
+
+<p>said that it was not clear to him whether, when once the recruiting agents had obtained a licence, they could recruit among natives employed by private persons. If they could, he disapproved of the system. He was in favour of all Kafirs having a pass, and a Kafir running about without a pass should be looked upon as a tramp. At present many labourers ran away to serve other owners; with a proper pass system there would be better control. He could not agree with the proposal of the hon. member for Jeppe (Mr. Creswell) that the Bill should be read that day six months.</p>
+
+<p><span class="col_1139-1140" refersTo="page_0579"/>During the past few days the hon. member had apparently done nothing but impede, or try to impede business, and he (Mr. Jobbert) trusted that some progress would be made, and thus he hoped that the measure would not be shelved. He thought, however, that the day would come when the white labourer would do a certain class of work and the native labourer another. For one thing, he would favour the Kafirs working underground, and the European labourers on the surface. (Laughter.)</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said he would like to move the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>Let&#x2019;s go on until 11. I hope the hon. member will not press the motion. We have an enormous amount of business to get through.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>withdrew the motion, and congratulated the Minister on the admirable Bill. During the recess he (Sir Bisset) met a number of labour agents at Queen&#x2019;s. Town. They were considerably alarmed over the Bill, and interviewed him on the subject, but subsequently their alarm was allayed. As regards the remarks made by the hon. member for Jeppe (Mr. Creswell), he would say that the ideas he put forward would not wash. He might also say that the views the hon. member wished almost to force upon the House had been considered scores of years ago by many of them, and they had made up their minds that, they were practically unsuitable for the present time. He appealed to the hon. member to withdraw the amendment, and said he would get more, sympathy from the House if he allowed the Bill to go through the second reading. So fair aw he was concerned, he welcomed the Bill.</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>Colonel <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>said that he connected as he was with the largest employers of native labour in the Cape Province, welcomed the measure, which he considered was a step in the right direction. It would protect the native against the unprincipled labour agent and against, the unprincipled employer, and would protect the legitimate employer of labour. Continuing, he said he appreciated the remarks that had been made concerning the organisation of and the treatment meted out to native labourers by the company with which he was connected. He went, on to refer to the scenes which were witnessed in Kimberley in the old days, and said that the old state of affairs brought about a decrease of the number of white men employed. Owing to the shortage of native labour brought about by the state of affairs he had depicted, the white men at the period to which he referred did not obtain more than an average of four days&#x2019; work per week. That, he thought, would convince the majority of the House that the number of white men that could possibly be employed by the mining industry depended absolutely to-day upon the number of natives that could be secured. The compounds had a great civilising influence upon the natives, who were taught habits of cleanliness; they had hospitals, post offices, savings banks, and all those concerns that the white people themselves had, and when they returned to their own country they were able to teach their brethren the benefits of civilisation. The result was that the natives came to the mines quite voluntarily. Whereas formerly they spent large sums of money in the recruitment of natives, they now spent nothing at all. At one time the company paid a lot of money to get, natives, but now the men came willingly. He did not, see how that could be called slavery. There was the contract, of course: but if that was called a modified form of slavery, then compulsory education was a modified form of slavery. He went on to refer to the natives being robbed of their wages on their way home. Unprincipled natives, and even white men, got, them into shebeens, and while under the influence of liquor, the natives were robbed. He should like to see something done to protect the native on his way from the mine to his home. He would certainly vote for the second reading of the Bill. It was a move in the right direction. It would be the means of bringing a larger number of natives into the Colony, and by these means they would be able to employ a large number.</p>
+
+</speech>
+
+<speech by="#stockenstrom">
+
+<from>Mr. <person refersTo="hansard_za">A. STOCKENSTROM</person> (Heidelberg)</from>
+
+<p>moved the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to, and the debate adjourned till Monday.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1911-02-10T23:30:00">11.30 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
