@@ -1,0 +1,319 @@
+---
+title: 'House of Assembly: Vol41 - MONDAY 27 JANUARY 1941'
+layout: debate
+year: 1941
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_1737-1738" refersTo="page_0001"/>MONDAY, 27th JANUARY, 1941.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair at <recordedTime time="1941-01-27T10:35:00">10.35 a.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#vacancies">
+
+<heading>VACANCIES.</heading>
+
+<p>Mr. SPEAKER announced that during the adjournment vacancies occurred in the representation in this House of the following electoral divisions:</p>
+
+<ol>
+
+<li>(1) Smithfield, on the 14th December, 1940, owing to the resignation of General the Honourable J. B. M. Hertzog; and</li>
+
+<li>(2) Fauresmith, on the 17th December, 1940, owing to the resignation of the Honourable N. C. Havenga.</li>
+
+</ol>
+
+</debateSection>
+
+<debateSection name="#new_member">
+
+<heading>NEW MEMBER.</heading>
+
+<p>Mr. SPEAKER further announced that on the 8th January, 1941, Mr. Charles Robberts Swart was elected a member of the House of Assembly for the electoral division of Winberg in the room of Dr. N. J. van der Merwe, deceased.</p>
+
+</debateSection>
+
+<debateSection name="#affirmation">
+
+<heading>AFFIRMATION.</heading>
+
+<p>Mr. Swart, introduced by Mr. Sauer and Mr. R. A. T. van der Merwe, made, and subscribed to, the affirmation and took his seat.</p>
+
+</debateSection>
+
+<debateSection name="#s_c_on_public_accounts">
+
+<heading>S.C. ON PUBLIC ACCOUNTS.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Public Accounts be appointed, the committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_pensions_grants_and_gratuities">
+
+<heading>S.C. ON PENSIONS, GRANTS AND GRATUITIES.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to consider and report upon all minutes and petitions which may from time to time be referred to it recommending or praying for pensions, grants, gratuities or other benefits in respect of service rendered to the state which are not authorised by law; the committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+<p>Certain petitions, upon which the Select Committee on Pensions had been unable to complete its investigations during the 1940 session, were laid upon the Table and referred to the Select Committee on Pensions.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_library_of_parliament">
+
+<heading>S.C. ON LIBRARY OF PARLIAMENT.</heading>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed on the management and superintendence of the Library of Parliament, the committee to have power to confer with a similar committee of the Senate.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_railways_and_harbours">
+
+<heading>S.C. ON RAILWAYS AND HARBOURS.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Railways and Harbours be appointed, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_internal_arrangements">
+
+<heading>S.C. ON INTERNAL ARRANGEMENTS.</heading>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed on Internal Arrangements, the Committee to have power to confer with a similar Committee of the Senate.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_crown_lands">
+
+<heading>S.C. ON CROWN LANDS.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee be appointed to consider and report upon all such recommendations for the disposal of Crown lands or servitudes thereon, or conditions connected therewith, or the reduction of the purchase or allotment price thereof, as may be submitted by the Government, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_irrigation_matters">
+
+<heading><span class="col_1739-1740" refersTo="page_0002"/>S.C. ON IRRIGATION MATTERS.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Irrigation Matters be appointed, the Committee to have power to take evidence and call for papers.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#s_c_on_native_affairs">
+
+<heading>S.C. ON NATIVE AFFAIRS.</heading>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>I move&#x2014;</p>
+
+<block name="quote">That a Select Committee on Native Affairs be appointed, the Committee to have power to take evidence and call for papers and to have leave to confer with a similar Committee of the Senate.</block>
+
+</speech>
+
+<speech by="#higgerty">
+
+<from>Mr. <person refersTo="hansard_za">HIGGERTY</person>:</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#business_of_the_house">
+
+<heading>BUSINESS OF THE HOUSE.</heading>
+
+<speech by="#malan">
+
+<from>*Dr. <person refersTo="hansard_za">MALAN</person>:</from>
+
+<p>I wish to give notice of a motion, but before doing so I wish to put a question to the Prime Minister regarding the business of the House, and I should like to know whether the House is going to be granted private members&#x2019; days again, and when? Because if motions are introduced hon. members are anxious to know what days will be available for the discussion of such motions.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I intend giving notice of a motion which will be proposed later on in the week in which it will be laid down that after the end of this week we shall practically revert to the old procedure so that private members will again have at their disposal those private members&#x2019; days which they had in the past. For the present week it will be necessary for the Government, in view of Government business which has to be disposed of, to keep in force the order of the day which has already been passed. But we propose introducing a change from next Monday, after which Tuesdays will be available again for private members.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#motion_of_appreciation_of_services_rendered_by_general_the_hon_j_b_m_hertzog">
+
+<heading>MOTION OF APPRECIATION OF SERVICES RENDERED BY GENERAL THE HON. J. B. M. HERTZOG.</heading>
+
+<speech by="#malan">
+
+<from>*Dr. <person refersTo="hansard_za">MALAN</person>:</from>
+
+<p>I move as an unopposed motion&#x2014;</p>
+
+<block name="quote">That this House learns with regret that General the Hon. J. B. M. Hertzog has, by his resignation, ceased to be a member of the House of Assembly; that this House desires to avail itself of this opportunity of placing on record its deep appreciation of the invaluable services which General Hertzog has rendered to our country and people in general and more particularly to this House for the period of thirty years that he was a member, during half of which period he served as Prime Minister and as Leader of this House; and further, this House expresses the hope that he will long be spared and wishes him God&#x2019;s highest blessing.</block>
+
+<p>I was pleased that when I had this motion, which I wish to move as an unopposed motion, conveyed to the Prime Minister, prior to the commencement of this sitting, and when I asked him whether he associated himself with the motion, he without hesitation replied that he was prepared to do so. I realise that a motion of this nature in respect of a man who was a member of this House and who has ceased to be a member, whatever may be the reason, is something very unusual, and I assume that no member of this House is anxious to create a precedent in regard to the introduction of such a motion, a precedent which may be referred to later on. In any case, however, I consider that on this occasion the House should not lose sight of certain facts, facts which have caused this to be an extraordinary and exceptional instance. The first point is that Gen. Hertzog since Union, that is for the last thirty years, has been a member of this House without a break. I believe that in this House&#x2014;I may be wrong, but that is my belief&#x2014;there are only two other members who in that respect are in the same position, namely, the Prime Minister himself and the Minister of Labour. I do not believe that there is any other member in this House in the same position. In those circumstances I feel that the House should take official cognisance of the position in a manner which has nothing to do with party politics as such. As the motion itself states, Gen. Hertzog for half of that period of thirty years that he was member of the House was at the same time Leader of the House, and Prime Minister of the country. This motion is entirely outside and above ordinary party politics. In order to make it possible for the House to accept it as an unopposed motion, the motion has been worded in this particular way. There are some hon. members who would like to go a great deal further, but the motion has been deliberately drafted in such a fashion as to make it possible for everyone heartily to support it. I feel that on this occasion we should not lose sight of the fact that Gen. Hertzog has not only rendered long and honourable services to this country and to its people in general, but we should also bear in mind the fact that he is one of the statesmen in South Africa who has lived in a <span class="col_1741-1742" refersTo="page_0003"/>period of time which has proved to be the unique historical period, and a unique period so far as the political development of this country is concerned. He has played his part during that period, an honourable part, as everyone will undoubtedly agree. Even before the Boer War he took his part in politics. During the war he fought for the Republics, for the freedom of the country. And he continued to fight until the end of the war. When the war was over he took a prominent part in politics, first of all in the Orange Free State Parliament, and after that he took a particularly important part in the proceedings which led to the achievement of the Union of South Africa. When the Union came into being he was a member, one of the most important members, of the first Union Cabinet. Since those days he took an important share in what is regarded as an important forward step along the road of political development, and along the road of the development of the freedom of the Union. Our minds go back to the statement made by the Imperial Conference of 1926, an event which subsequently led to the passing of the Statute of Westminster, and still later to the passing of the Status Acts by this House. In all these events he played an important and honourable part. Whatever difference of opinion existed in those days, what was achieved then, to-day has the general approval of the whole of the people and of all parties in the Union. These are matters which should not be lost sight of. From the very start he always laid great emphasis on the unity, the desirability of unity among our people, and he emphasised that unity could only be achieved in South Africa if the liberties of the people were considered and recognised; but in addition he always emphasised that the other essential foundation on which that unity must be established was equal rights for both sections of the country. For that reason, however much members of this House may have differed from Gen. Hertzog on various occasions, I have no doubt that they will all associate themselves with the motion which I have introduced. It is a motion of regret that he has severed his connection with this House by his resignation, and the motion further expresses its appreciation of what he has done for his people, and more particularly also from this House, and we wish him God&#x2019;s speed. I move.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>*The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I second. As the hon. member for Piquetberg (Dr. Malan) stated, I immediately, when he intimated what his intentions were in regard to proposing this as an unopposed motion, stated that I had no objection, and I go further and I say that I am of opinion that the services which Gen. Hertzog has rendered to South Africa, and his achievements as a member of this House for a period of thirty years, are a justification for a motion of appreciation of his services being passed. Today, however, is not the occasion to go into this question at length, because the motion has been introduced as an unopposed motion, and there will be a further opportunity not only for me but also for other hon. members to express their appreciation when the Bill of which the Minister of Finance has given notice comes before this House. That Bill, I believe, will come before the House next week, or possibly as early as next Friday. After Gen. Hertzog&#x2019;s resignation the Government felt that his services to the country and to the people and to this House rendered it necessary in the particular conditions to grant him a pension in a special way on behalf of the country. It is for that reason that notice of such a Bill was given here to-day, and when that Bill is before the House I hope to avail myself of the opportunity of expressing my appreciation on behalf of the Government, and on behalf of the people&#x2014;in the position which I occupy. For that reason I therefore wish to reserve my remarks, because this is an unopposed motion and it is not open for general debate. When the Bill is before us I hope to express my appreciation also on behalf of the Government and the people of the great services which Gen. Hertzog has rendered to the country.</p>
+
+<p>Motion put and agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>On the motion of the Prime Minister, the House adjourned at <recordedTime time="1941-01-27T11:16:00">11.16 a.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
