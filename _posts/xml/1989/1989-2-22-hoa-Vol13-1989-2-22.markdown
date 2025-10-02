@@ -1,0 +1,283 @@
+---
+title: 'House of Assembly: Vol13 - WEDNESDAY 22 FEBRUARY 1989'
+layout: debate
+year: 1989
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_113-114" refersTo="page_0096"/>WEDNESDAY, 22 FEBRUARY 1989</heading>
+
+<debateSection name="#house_of_assembly">
+
+<heading>HOUSE OF ASSEMBLY</heading>
+
+<debateSection name="#questions_for_written_reply">
+
+<heading>QUESTIONS FOR WRITTEN REPLY</heading>
+
+<p>&#x2020;Indicates translated version.</p>
+
+<p><b>General Affairs:</b></p>
+
+<writtenStatements>
+
+<heading>Universities: subsidy formula</heading>
+
+<question by="#burrows" to="#minister_of_national_education">
+
+<num>22.</num>
+
+<from>Mr R M BURROWS</from>
+
+<p>asked the Minister of National Education:</p>
+
+<ol>
+
+<li>(1) Whether he has determined the formula for the subsidy of each university in the Republic; if not, why not; if so, what is this formula;</li>
+
+<li>(2) what value of <i>a</i> in terms of the subsidy formula has he determined for each university in the Republic for the (a) 1986, (b) 1987, (c) 1988 and (d) 1989 university financial years;</li>
+
+<li>(3) whether in any case the value of <i>a</i> was less than one; if so, why;</li>
+
+<li>(4) whether different universities had different <i>a</i> values in the same year; if so, why;</li>
+
+<li>(5) whether he will make a statement on the matter?</li>
+
+</ol>
+
+</question>
+
+<answer by="#minister_of_national_education" to="#burrows">
+
+<from>The MINISTER OF NATIONAL EDUCATION:</from>
+
+<ol>
+
+<li>(1) Yes. General Policy in respect of norms and standards for the financing of the running and capital costs of universities was determined on 27 October 1987. Government Notice No R2471 of 6 November 1987 has reference. Full details regarding such policy is contained in the report NATED 02-100 (87/09).</li>
+
+<li>(2)
+
+<ol>
+
+<li>(a) The a-values for 1986 are not available since the said policy only applied to universities as from 1987.</li>
+
+<li>(b) and (c) The a-values for universities in the Republic for the 1987 and 1988 financial years are as follows:</li>
+
+</ol></li>
+
+</ol>
+
+<table>
+
+<tr>
+
+<td><p></p></td>
+
+<td><p>1987</p></td>
+
+<td><p>1988</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Cape Town</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,725</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Durban-Westville</p></td>
+
+<td><p>0,900</p></td>
+
+<td><p>0,886</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Medical University of South Africa</p></td>
+
+<td><p>1,823</p></td>
+
+<td><p>1,536</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Natal</p></td>
+
+<td><p>0,834</p></td>
+
+<td><p>0,745</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of the North</p></td>
+
+<td><p>0,992</p></td>
+
+<td><p>1,149</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of the Orange Free State</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,736</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Port Elizabeth</p></td>
+
+<td><p>0,834</p></td>
+
+<td><p>0,773</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Potchefstroom University for Christian Higher Education</p></td>
+
+<td><p>0,834</p></td>
+
+<td><p>0,815</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Pretoria</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,744</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Rand Afrikaans University</p></td>
+
+<td><p>0,834</p></td>
+
+<td><p>0,703</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Rhodes University</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,723</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of South Africa</p></td>
+
+<td><p>0,696</p></td>
+
+<td><p>0,748</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Stellenbosch</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,807</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of the Western Cape</p></td>
+
+<td><p>0,834</p></td>
+
+<td><p>0,990</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of the Witwatersrand</p></td>
+
+<td><p>0,833</p></td>
+
+<td><p>0,703</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>University of Zululand</p></td>
+
+<td><p>1,433</p></td>
+
+<td><p>0,948</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Vista University</p></td>
+
+<td><p>0,758</p></td>
+
+<td><p>0,704</p></td>
+
+</tr>
+
+</table>
+
+<ol>
+
+<li>(d) The proposed a-values for 1989 will only become known when the 1989/90 budget is submitted to Parliament.</li>
+
+</ol>
+
+<ol>
+
+<li>(3) Yes. The lack of funds prevented the attainment of a-values equal to one.</li>
+
+<li>(4) Yes. This is mainly due to previous financing patterns and a lack of funds.</li>
+
+<li>(5) No.</li>
+
+</ol>
+
+</answer>
+
+</writtenStatements>
+
+</debateSection>
+
+</debateSection>
+
+</debateSection>
+
