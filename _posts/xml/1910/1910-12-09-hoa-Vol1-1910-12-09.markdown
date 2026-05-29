@@ -1,0 +1,2127 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY DECEMBER 9 1910'
+layout: debate
+year: 1910
+month: DECEMBER
+month_slug: Dec
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, December 9 1910</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1910-12-09T14:00:00">2 p.m.</recordedTime>
+
+</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany),</from>
+
+<p>from S. Pike, forester, Cape Government.</p>
+
+</speech>
+
+<speech by="#aucamp">
+
+<from>Mr. <person refersTo="hansard_za">H. L. AUCAMP</person> (Hope Town),</from>
+
+<p>re a railway from Belmont to Douglas.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#census_bill">
+
+<heading>CENSUS BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>communicated a message from the Senate, in which the Senate had made certain amendments.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved, seconded by Mr. KRIGE: That the amendments be considered on Monday. Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_holidays_bill">
+
+<heading>PUBLIC HOLIDAYS BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>communicated a message from the Senate, in which the Senate had made a certain amendment.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved, seconded by Mr. KRIGE: That the amendments be considered on Monday. Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#a_question_of_pairs">
+
+<heading>A QUESTION OF PAIRS.</heading>
+
+<p>&#x201C;Before proceeding with the business of the House,&#x201D; said Mr. J. X. MERRIMAN (Victoria West), after various notices of motion and petitions had been lodged, &#x201C;I would like to make an explanation.&#x201D; The right hon. gentleman went on to say that upon the advice of his doctor he left the House at four on the previous afternoon, and he was very much surprised to find that he had been put down in the public prints as having been paired against the motion of the hon. member for Cape Town, with Mr. D. M. Brown. &#x201C;Now, I left the House without being asked to pair,&#x201D; said the speaker. &#x201C;I made no arrangements for pairing, and there was no idea of pairing; as a matter of fact, I am entirely opposed to the side with which I was supposed to have paired.&#x201D; Continuing, he said he hoped that the House would excuse him taking up time, but he felt strongly on this question. He had spoken on the matter, and he would have been false to his traditions, theories, and practices if he had voted in the direction in which he was supposed to have paired,</p>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the House took no notice of pairs at all it was a matter entirely out of the purview of the House.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>rose and said that in view of the statement, and in justice to the party whip, he hoped that he would be allowed to make a statement on the subject. &#x201C;I,&#x201D; he went on, &#x201C;was surprised to see that the right hon. gentleman had paired in that direction, and, therefore, I made inquiries, and I found that the party whip had asked the responsible whip on the other side for a pair for Mr. D. M. Brown, and was given the name of the right hon. gentleman, and thus he paired.&#x201D;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that surely an hon. member could not be paired without his wish, because it was a very important matter.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany):</from>
+
+<p>Surely hon. gentlemen on that side trust their whips as we trust the whips on our side?</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>rose, but</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the matter had nothing to do with the House, and suggested that it should be settled outside.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#powers_and_privileges_of_parliament_bill">
+
+<heading>POWERS AND PRIVILEGES OF PARLIAMENT BILL.</heading>
+
+</debateSection>
+
+<debateSection name="#committee&#x2019;s_amendments">
+
+<heading>COMMITTEE&#x2019;S AMENDMENTS.</heading>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>asked if some amendment could not be introduced providing for the accounts of the House being audited.</p>
+
+<p>&#x201C;Does the hon. member move an amendment?&#x201D; asked Mr. SPEAKER.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he would like to know whether the responsible Minister intended to move in that direction.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>I move the deletion of clause 31; that will bring the matter to a head.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the amendment, and declared that the &#x201C;Noes&#x201D; had it.</p>
+
+<p>The Committee&#x2019;s amendments were agreed to, and the Bill set down for third reading on Monday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_estimates_agriculture_vote">
+
+<heading>THE ESTIMATES AGRICULTURE VOTE.</heading>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked if he were in order in suggesting that they take the votes according to their number. When he asked that question the previous night the Chairman ruled that they could only take the full sum in one vote. He suggested that they be taken seriatim, otherwise the whole amount voted under one heading could be devoted to another.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the mode of putting the vote before <span class="col_651-652" refersTo="page_0335"/>the House had nothing to do with the allocation of the money. The vote had been put in that way merely for the convenience of members. It was impossible to examine into every item. Furthermore they were dealing with money that had already been spent.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that he did not want to examine into every individual item, but simply to take the amounts under the heads as they appeared in the Estimates separately.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>remarked that the point was that as things stood at present the Minister could take any part of the vote for &#x00A3;593,052 and devote it to one service.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that that matter depended upon the wording of the Appropriation Bill.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that if he got an assurance from the Government that the items specified in the Estimates wore attached to the schedule and in the Appropriation Bill, he would be satisfied As things stood at present the money might be devoted to one service.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that it was quite true that the money had been expended, but there was a policy behind that, and it was that policy which they wanted to get at.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>gave the hon. member for Fort Beaufort (Dr. Smartt) the assurance he asked for.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>moved to reduce the salaries of the four principal veterinary surgeons by &#x00A3;1,000. He said that one of the results which was expected from Union was economy, but here they had four principal veterinary surgeons each of whom was responsible to the Minister of Agriculture. He thought they could dispose of three of these officers and have one principal who would enunciate the policy of the Government and carry it into effect.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>That is a very good point for next year&#x2019;s Estimates. It is the intention of the Government, to reorganise not only this department, but all the departments. He asked what good was going to result from moving a reduction when the men had already drawn their salaries.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>asked, in view of the explanation of the Minister, whether it would not be possible for him to put all these votes en bloc, and put an end to the farce of discussing them.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>said he was sorry the hon. member (Mr. Orr) thought this was a farce. The position was that this amendment was moved with a view to suggesting a certain policy to the Government. The suggestion had been most sympathetically received by the Minister of Education. The hon. member (Dr. MacNeillie) had gained his object, and no doubt he would now withdraw his amendment, because he knew he had the sympathy of the Minister on the matter of having one chief veterinary surgeon for the whole of the Union. He thought the remarks of the last speaker (Mr. Orr) might be intended to facilitate business, but they were not designed to help forward a definite policy. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that he did not want to burke discussion, but there was something in what the hon. member for Maritzburg had said. He thought that a discussion like that was tantamount to obstruction, because did the hon. member who proposed the reduction really wish to see the salaries reduced, or the officials dismissed? Dealing with the question of reorganisation, the right hon. member said that it was, as had often been said already, a matter which could not be dealt with in a hurry. He might have started to &#x201C;reorganise&#x201D; on May 31 in his own department by dismissing a few hundred men, but he did not believe in that kind of reorganisation. They must go slowly, and as soon as the proper time came there would be reorganisation, and there would be one head of that department for the Union, because what was the use of having Union if there was not one head?</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">L. C. BOTHA</person> (Bloemfontein)</from>
+
+<p>said that hon. members were justified in drawing attention to particular points upon which they desired information. Last night hon. members on the Ministerial side had taken as much part in the discussion of the Estimates as hon. members on the Opposition benches had done. They did not intend to obstruct the Estimates, but they were certainly going to get full discussion of important matters. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>said his intention in moving the amendment was to raise a discussion on this important matter, and it was utterly uncalled for the Prime Minister to talk of obstruction.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that amendments moved on these Estimates were not designed to obstruct, or necessarily to criticise the policy of any particular Minister. This matter involved one of the most vital questions they had to face, viz., East Coast fever. Now he considered that the most prominent veterinary officials in the service were the men who should be responsible for the suppression of scourges like East Coast fever: but he would show the House that these officials could not be held responsible, because they were powerless to carry out what they considered to be the right thing. He was perfectly determined to see that this vote did not go through until they had had a proper discussion of these things. He thought it would be playing the fool with the country to do otherwise. He was in favour of the holidays, but he was prepared to gave up all <span class="col_653-654" refersTo="page_0336"/>the holidays, and to sit there to see the thing through. (Cheers.) In the discussion on East Coast fever, the other day, the Prime Minister said that the condition of public opinion was not such as to enable the Government practically to introduce very restrictive measures. Well, he (Sir Percy Fitzpatrick) thought that here and now were the place and time to educate public opinion. (Cheers.) It was possible for careless and indolent farmers to propagate disease and ruin everybody. They wanted a drastic law and proper administration. They had a draft Bill before the House now, which was full of permissive clauses. Everything was &#x201C;may be&#x201D;; nothing was &#x201C;must be.&#x201D; The position was extremely unsatisfactory. The hon. member proceeded to read from a letter, in which it was stated that one Field-cornet left signed East Coast fever permits for his niece to issue during his absence, and another left permits for his relatives to fill in when he was away, while permits had been issued which were both unsigned and undated. It was the exception, the writer said, for Field-cornets to fill in the correct number of the farms, many of which bore the same name. He trusted to the honour of the Prime Minister that he would not make it hot for the official who had given this information. Sir Percy, quoting further from the letter, mentioned a case where a quantity of stock, which had been ordered to be dipped by the local scab inspector, were being dipped in a mixture of 1 in 500, instead of 1 in 50, the scab inspector having taken no steps to see that the work was done properly. He mentioned these things, not because he wished to pass any censure upon the right hon. gentleman or his department, because he was satisfied that there was no man in the House more anxious to put things right, but the matter was so serious that it was only right that these things should be brought cut. In these circumstances he did not think that Field-cornets, who were subjected to local influence, were the proper persons to carry out this matter. &#x201C;You want,&#x201D; the hon. member proceeded, with great earnestness &#x201C;persons with expert knowledge, who are, and who ought to be, secured in the fulfillment of their duty.&#x201D; He next referred to the difference in conditions which the farmers had to contend with in the North, as compared with the Cape. They had got on the high veld a season of the year when they got no natural fodder, and he mentioned one case where a Dutchman had put down 3&#x00BD; tons of paspalum seeds. What (asked Sir Percy) was the good of all this if their cattle were to be infected with East Coast fever? &#x201C;We want to search this thing out,&#x201D; he proceeded, &#x201C;and have a thorough discussion upon the subject. By the time we meet again it may be too late. East Coast fever has taken another jump of 50 miles. You don&#x2019;t know that the next jump may not be 500 miles. I heard an hon. gentleman say the other day they had no ticks on the Karoo That is something we can congratulate him upon; but it is no security to the rest of the country.&#x201D; (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the speech of the hon. member had practically nothing to do with the vote before the committee, He did not say that there was wilful obstruction, but, still, he thought that there might be less discussion; for all that he wanted was to expedite business. As to the letter which the hon. member for Pretoria East (Sir P. Fitzpatrick) had read, if the hon. member wanted to benefit the country why could he not have sent that letter to his (General Botha&#x2019;s) department, where he would see that letter, and where he would, if he thought necessary, gave immediate instructions for an investigation to be made; and if it were found that there had been a dereliction of duty on the part of an official, that official would be punished. But all that seemed to be necessary was to mention the name of a Field-cornet and then the man&#x2019;s reputation was supposed to have been tarnished. A Field-cornet had no right to gave a permit in a district infested with East Coast fever: the Magistrate was the person to gave a permit in consultation with the Veterinary Department. In Waterberg the Magistrate had unlawfully authorised the Field-cornet to issue permits. As to what the hon. member had said about the inefficient way in which cattle were sometimes dipped, there was an Act dealing with the matter, and it was a very stringent one. He agreed that it was no use passing legislation if it were not put into force, but he denied that the Transvaal Act was not being carried out. He did not think that there was any other part of South Africa which had such stringent regulations with regard to cattle diseases as the Transvaal. He (General Botha was a practical farmer; but there were a number of people who thought that if a man was born in South Africa he was of no importance. That was a very wrong spirit, and what they wanted was the best co-operation between the experts and the country population. When he had come into office he had found that there was not the slightest co-operation between the Department, the veterinary surgeons, and the country population, and he thought that it had been due to his efforts that there was that better feeling and that co-operation to-day. (Cheers.) He hoped that the discussions would not again put difficulties in the way of that co-operation. There had been some difficulty in connection with the natives, because anything that had to do with them&#x2014;the dipping of their cattle included&#x2014;came under the Native Affairs Department, but with the co-operation now existing between the two Departments there had been a great improvement. They had done much to exterminate scab, and in those parts of the Transvaal where there were but few natives, scab was practically non-existent, because the field-cornets were assisted by the people, He admitted that <span class="col_655-656" refersTo="page_0337"/>there was a spread of East Coast fever, but as he had said the previous evening, there was a Bill, which would come up for second reading at a later stage, which would deal, not only with East Coast fever, but with all stock and cattle diseases. He thought it would be better for the discussion on cattle diseases to be kept over until the proper time came, and not to discuss the matter at that stage.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>was sure they were all pleased to hear such an earnest speech from the Prime Minister, and they all fully recognised that he was doing everything he could to promote the agricultural and pastoral interests of the country, but he thought the right hon. gentleman was wrong in saying that the speech of his hon. friend (Sir Percy Fitzpatrick) had practically nothing to do with the vote before the House. His hon. friend had brought before the House very forcibly a system of administration which, unknown to the right hon. gentleman, had been going on in certain districts of the Transvaal, and what was now before the committee was the voting of &#x00A3;145,000 for the purpose of dealing with the Veterinary Department, the administration of the Scab Acts, and the suppression of East Coast fever. Surely they ought to know, he pleaded, when this money was voted, the manner in which it was to be administered. Continuing, he said he knew that in certain districts the administration of the Scab Act was farcical, and he would like to know whether that state of affairs was going to continue. He referred to the appointment of scab inspectors by local nomination, and said that if an inspector was averse to stringently carrying out the regulations it was a strong recommendation in his favour. He touched on the trouble that had occurred in the Calvinia district, where a most capable man was dismissed, the only charge being that he had done his duty.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Do you want us to go through it again?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said he wanted to see such a condition of affairs made impossible in the future. That was what he wanted to know. They were prepared to spend any money in reason, but they desired to have the Act properly administered. They wanted the regulations administered in the general interests of the whole community, and not in the interests of a few. They would have the disease down at the coast districts if the Act was not administered with a rod of iron. They should have responsible independent inspectors, who would look to no local considerations, and get protection from the Minister if he carried out the Act. Continuing, he said he would like some information with regard to sheep-pox in German South-west Africa; and he asked what steps were being taken to combat the disease. Ruin would result if it got amongst the stock in the North-western Districts.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that there was a rumour that this disease had come over the border, but it was found to be untrue. He went on to deal with the action taken by the Government.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein),</from>
+
+<p>in referring to a vote of &#x00A3;8,000 odd for guards on the Transvaal border, said the newspapers had it that the guards had been withdrawn, though the proclamation was still in force. Would there be a reduction in the vote? Continuing, he emphasised remarks that had been made with reference to the scab regulations, and said that these should be properly enforced if good results were to be obtained. They would never get rid of scab till the regulations were stringently enforced.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>dealt with the glanders regulations in the Orange Free State, and the permits for the transference of sheep. It was not always possible to find the veterinary surgeon and get a permit.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said he did not think that Parliament was the first Court to appeal to.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said he had complained to Magistrates and the responsible department in the Orange Free State until he was tired. He had no alternative but to bring the complaint to Parliament.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that perhaps the matter had been properly attended to, and that the hon. member (Sir Percy Fitzpatrick) was not aware of what had been done, owing to his roaming about.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that he hoped the hon. member (Mr. Fischer) would not allow his experience to cease with his youth, and hoped, further, that he would learn that matters of public importance should be discussed in that House. What was the Court of the first instance? He would gave the House an illustration. He knew of a man in one district who was taken to task by an inspector. The latter was simply abused, and he summoned the man before the Magistrate. The case, however, was not heard, because orders came from headquarters that it was to be postponed. Now, when such things as these occurred, and when they were voting thousands and thousands of pounds, surely they ought to know how that money was going to be spent. He considered that the administration of the Scab Act in the Cape required most serious looking into, owing to the fact that in some places they had not sufficient inspectors; that in others they had not sufficient qualifications; and that, in the third place, the fines imposed for contraventions were entirely of an inadequate character. He wanted to get an assurance that the Government would set their minds against such a state of things. He went on to say that it paid a man to break the law when he was only fined 10s. or &#x00A3;1 for doing so. He suggested <span class="col_657-658" refersTo="page_0338"/>that the penalty should be of such a character that it would almost ruin a man to break the law.</p>
+
+</speech>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>said the matter was in the hands of the Prime Minister, and the House could rest content that the matter would be properly attended to.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked the Prime Minister to gave the House an assurance that he was really going to do something. After several months he had introduced a Diseases of Stock Bill, but there was no chance of it going through before Christmas. The matter was a very urgent one, and it was time that something definite was done. A Bill in connection with the solemnisation of marriages had been brought before the House, but it could very easily have waited until after the recess. The matter of East Coast fever was of the most vital importance, and the people would soon realise the enormous danger that was hanging over them. There was another matter, and that was in connection with veterinary surgeons. Veterinary surgeons should be readily available for farmers living in the neighbourhood of stations. He had heard of a case in which a farmer sent for a veterinary surgeon owing to his stock having suddenly become affected with the disease. The farmer sent for the veterinary surgeon to the place where he was usually to be found, but he was not there, and before he was found fifteen head of his cattle had not only died but had been buried. Now that was a wrong state of affairs. The veterinary surgeon in question had been sent to the far end of the Province. If the Prime Minister thought it necessary to come down to Natal and call the Magistrates together to make arrangements for the carrying out of regulations, surely it was time that the matter was taken in hand and the regulations imposed.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>protested against the Minister of Lands (Mr. Fischer) saying that the House was not the proper place in which to make their complaints. He had never heard of such a doctrine before, It was the only way to have their grievances remedied. They were now discussing votes which had been spent, but he hoped that when the Government came to ask the House to pass new Estimates, they would gave them some assurance that the money would be well spent. He would have a great deal to say later on as to the administration of different Acts, more especially the Scab Act. It was most discouraging for careful progressive farmers to find all their efforts useless owing to the lax administration of the Scab Act.</p>
+
+</speech>
+
+<speech by="#king">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KING</person> (Griqualand)</from>
+
+<p>said that in the Maclear district scab would be unknown if it were not for the trek boers from Barkly East. Year after year infected sheep were brought in, and progressive farmers had to suffer, He hoped the Government would gave the House the assurance that the Scab Act would be strictly administered in these districts.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said the Scab Act was stringently administered in the Transkeian Territories, but the inspectors there suffered from many disabilities, such as having to pay for deputies while they were on leave. It was imperative that they should have contented and capable inspectors.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said he had hoped to hear hon. members on the Ministerial benches enlighten them a bit with regard to this matter; but he saw what had taken place. The Government wanted to get the Estimates through, and there had been a little talk and there was to be no discussion at all from the Ministerial benches. (Laughter.) Continuing, the hon. member said he noticed that provision was made for inspectors at salaries of from &#x00A3;75 a year. Now, he would like to know whether these were white men, whether they were educated, and whether they were competent to be inspectors, and whether this was a living wage, upon which they could maintain their wives and children, and live in a civilised manner. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said the hoped the Government would tell them when the next Estimates came on what the policy of the Government was to be with regard to this large vote for scab. He would like to know also what progress had been made in the Cape Colony during the last ten years or so in dealing with scab. It seemed to him that, in the Cape, scab had ceased to be a disease&#x2014;it was an industry. If it had been the case that scab inspectors were appointed by local Boards, they could understand the position. Was it the Government&#x2019;s policy to try to banish scab, or was it their policy to go on as they had been doing in the past&#x2014;to treat scab &#x201C;sympathetically&#x201D;? If they meant to try to remove the disease, the first step must be to get rid of the system of having inspectors appointed by local Boards, and to gave the inspectors an independent standing in the country. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that for a considerable number of years they had been spending &#x00A3;80,000 a year on scab in the Cape, and he calculated that they had spent over a million altogether on this particular disease.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said they were told at election time that what was wanted for this country was a strong Government&#x2014;not a Coalition Government, but a strong Government. Well, he wanted the strength of the Government to be shown in connection with suppressing scab, and in doing something for the prevention, if not for the cure, of East Coast fever. They had been discussing scab in the Cape Parliament not for 10 years, but for 15 <span class="col_659-660" refersTo="page_0339"/>years, and they were discussing scab to this day; but if they had had a strong Government they ought to have been able to do something in that time to suppress that terribly insidious disease. Sir Bisset also drew attention to the position of affairs in relation to East Coast fever, and the demand which had been made by farmers on the Border for compulsory dipping, and remarked with some warmth that, because the Government would not put forth their strength, those people who did not care to dip their cattle were to be allowed to go past and their cattle to carry ticks, and disseminate ticks all ever the country.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria East)</from>
+
+<p>said that the hon. gentleman had talked very amusingly about a &#x201C;strong Government,&#x201D; but he had not pointed out what an advantage it was to have a strong Opposition. (Laughter.) The Opposition were quite right in bringing everything to light. &#x201C;If you had had a Coalition Government,&#x201D; said the right hon. gentleman, &#x201C;you would have had nothing of this&#x2014;(derisive laughter)&#x2014;the poor dumb dogs would have looked up on each side.&#x201D; Proceeding, Mr. Merriman observed that he noticed that his hon. friend had on the previous night referred to him as having administered the scab law sympathetically. They could make a severe scab law if they liked; but they could never kick people&#x2014;the small landowners&#x2014;into doing anything. They could only lead them into doing anything. There were districts in this country where it was very difficult to carry out rules and regulations, which did admirably in another part of the country. In the country his hon. friends and himself came from scab had not been stamped out yet, after 200 or 300 yeans&#x2014;nay, 400 years&#x2014;for the same reason&#x2014;the position of the small landowner in Great Britain. The same with regard to America. In Australia they had stamped out scab. There they had a strong democratic party in the towns, who had brought in a very stringent scab law. There were, it was true, certain things which ought to be done, but there were other ways in which, he thought, a lack of sympathy towards the people had shown itself.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that the speech they had just heard was extraordinarily interesting. They now found that, because there was an unsympathetic Government in Australia, they successfully dealt with scab. It was quite right to be sympathetic with your relations, and those things; &#x201C;but,&#x201D; added, Sir Percy, amid laughter, &#x201C;what you want to be sympathetic with scab for I don&#x2019;t know.&#x201D;</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the previous speaker was exceedingly fond of petty insinuations. Could it be that the Opposition bad put their heads together in order to have a full-dress debate on scab? If so, it would be very fitting, seeing that their front-bench members were all townsmen! The guards along the Cape-Transvaal border had been removed because there was no longer any East Coast fever in Marico. The guards had not been dismissed, however, because they were tried men, and would probably be engaged in connection with the reorganisation of the police force. As to the question of the hon. member for Weenen (Mr. Meyler), he had recognised that more veterinary surgeons were necessary for Natal, and six additional men were to be appointed. As to East Coast fever regulations in Natal, the policy in that Province had been altered. Formerly the Magistrates had nothing to do with regard to East Coast fever. He had altered that, and now the Magistrate was the head of his district, and, all stock inspectors and other officials were directly under him. (Hear, hear.) He (General Botha) was convinced that if the Magistrates did their best to carry out their instructions there would be a considerable improvement in Natal. As to what the hon. member for Griqualand East had said about &#x201C;trek boeren,&#x201D; well, there were good and bad trek boeren, like in other cases, and it was not a proper thing to label them all with the same label. In a case where an official had not done his duty, he had given instructions for his dismissal. As to sheep pox in German Southwest Africa, he had been informed that the disease had broken out in two districts there, but not nearer than 100 miles from the border. An expert who had been brought out to German South-west Africa had reported that the disease was getting less. Dealing with the question of compulsory dipping or cleansing of cattle, General Botha said that his Government had the greatest sympathy with it, but they must not use the steam roller. They must get the people of South Africa to cooperate, and not make them angry. It would therefore do more good if hon. members, instead of coming to the House with a quantity of loose talk, would urge their constituents to assist the Government in matters such as these</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said the hon. member for Victoria West (Mr. Merriman) had broken away from the caucus resolution that there was to be no discussion on the Estimates. (Laughter.) The hon. member for Prieska (Mr. Kuhn) had not even spoken on the Estimates. (Laughter.) Sympathetic administration of the Scab Act had allowed sheep to carry the disease broadcast. Some of the inspectors &#x2014;whose names he could supply&#x2014;when asked why they did not see that the law was obeyed, replied: &#x201C;We understand the Scab Act is to be administered in a sympathetic manner.&#x201D; Between 15 and 16 hundred thousand pounds had been spent in trying to cope with the scab in the Cape Colony, &#x00A3;1,200,000 having been spent since 1904. Had we value for that money? No; simply because people hesitated for political reasons to do what was necessary in the <span class="col_661-662" refersTo="page_0340"/>interests of the country. Members of Parliament played upon the sympathies of the people, and came down and used their voice in the Legislature to prevent the Act being properly administered. Surely under those circumstances the Opposition was justified in saying that under the new condition of affaire an end would be put to that. The trek boers had to trek because they overstocked their farms and they carried disease through the country. He did not want them to be treated in an unsympathetic manner, but in good seasons the law should be administered in such a way that when the droughts came their flocks would be clean, and could be moved without any danger to their neighbours. He hoped, added the hon. member, that an end would be put to the squandering of money in an ineffective administration of the Scab Act.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said his hon. friend (Dr. Smartt) had stated that he (Mr. Merriman) had broken away from a resolution of the caucus. It was an old dodge of his hon. friend&#x2019;s&#x2014;having his ear at the keyhole, and bringing out imaginary resolutions. (Laughter.) He (Mr. Merriman) knew of no such resolution.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">SMARTT</person>:</from>
+
+<p>Your friends behind you know.</p>
+
+</speech>
+
+<speech by="#opposition_member">
+
+<from>An <person refersTo="hansard_za">OPPOSITION MEMBER</person> (to Mr. Merriman):</from>
+
+<p>Where were you last night?</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>If you want to know, I was in bed. Proceeding, he said that his hon. friend (Dr. Smartt) had stated that during the past sixteen years there had been a vast squandering of public money. Well, during those sixteen years his hon. friend and his friends had been in power. (Ministerial cheers.) Another mis-statement his hon. friend had made&#x2014;he was sure unwittingly&#x2014;was that the people who trekked with their sheep were wealthy farmers who overstocked their farms. In many cases, however, the farms were not stocked at all owing to the drought. The situation of these people was utterly depressing, and how they stood five years&#x2019; perpetual drought, he did not know. Nevertheless, they were taking a great deal of pains to combat scab, and all the intelligent ones said they would be sorry to see the Scab Act withdrawn. There were two ways of enforcing the law. &#x201C;One way,&#x201D; observed Mir. Merriman, &#x201C;is to kick my hon. friend on the shins, and say, &#x2018; You shall not get drunk&#x2019;&#x2014;(laughter)&#x2014;and another is to point out that drink is bad for his health and digestion, and would surely get him into trouble. I know which is most likely to affect my hon. friend (Laughter.) People unfortunately make violent speeches which get into the newspapers, and that sets the people against the law.&#x201D;</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>said that surely now, at the beginning of the Union, was the time to lay down principles. The Magistrates should be given the power to carry out the very excellent policy which the Prime Minister in August last said he was going to carry out in Natal with regard to East Coast fever. He went on to deal at length with epizootic lymphangitis, and said he hoped that this matter would have the earnest attention of the Minister concerned. It was a contagious disease, and steps should be taken to combat it. The trade in second-hand harness was also a danger, so far as this disease was concerned. He also thought something should be done about the tick bird, which was a source of contagion.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>said that so far as Natal was concerned there was no need for the Prime Minister to issue fresh instructions in regard to lymphangitis, because the veterinary surgeons there were doing all that was required in that Province. He observed inter alia that the farmers of Natal looked forward to Union as being a means of proper attention being devoted to East Coast fever. Dealing with the tick bird, he said that an Act was passed in the last session of the Natal Parliament.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>said that he had suggested that the veterinary surgeons in the Provinces should be consulted in these matters.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>said that he had attained the abject he had wished to attain in moving the amendment. What he advised was that these several veterinary surgeons should come under the control of one head veterinary surgeon.</p>
+
+</speech>
+
+<p>The amendment was withdrawn.</p>
+
+</debateSection>
+
+<debateSection name="#bacteriology">
+
+<heading>BACTERIOLOGY.</heading>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>dwelt at length upon what the farmers called gall sickness, which, it seemed, troubled stock farmers on the border of the Transvaal and in Bechuanaland. Experiments had been carried on at a station on the borders, but whether the station had been closed up or not, he did not know. Hundreds of cattle had died in this part of the country; nobody seemed to know the real cause of death, and he thought it essential that these experiments should be continued, so that they would be able to arrive at a solution of the trouble.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that he was glad the question had been asked. There were many stock diseases in South Africa which the Government would do everything to cope with. He quite recognised the importance of the Bacteriological Department, and he hoped that the House would never cut down that vote. (Hear, hear.) With regard to the disease amongst horses to which the hon. member had referred, Dr. Theiler was carrying out experiments, but he had been more successful with regard to mules than with regard to horses. Their best thanks were due to the important work done by Dr. Theiler, <span class="col_663-664" refersTo="page_0341"/>and whatever the doctor thought was necessary for the successful carrying out of his experiments, was granted by the Government. As to lamziekte, the matter was receiving the very serious attention of the Government, and Dr. Theiler was carrying out experiment. In fact, a farm had been rented for experiments, but not a single case of the disease occurred there, and the Government were now going to experiment on farms in the Western Transvaal.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland)</from>
+
+<p>also referred to gall sickness in Bechuanaland, and said that he wished to impress upon the Government the necessity of doing everything in their power to continue the experiments which were at present being conducted at the experimental station. He hoped that the Prime Minister would also realise the necessity of increasing the staff if necessary, and of appointing somebody to go down to Bechuanaland. If nothing were done, cattle farming in Bechuanaland would be a thing of the past. A private person had discovered an alleged remedy, and Government had promised a reward of &#x00A3;5,000 if it should prove efficient.</p>
+
+<p>On the vote, wool industries,</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>urged the appointment of more experts.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the three men would be better distributed than in the past, as soon as the Agricultural Department was re-organised.</p>
+
+<p>In reply to further questions,</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said the trouble was that when farmers started shearing their sheep they all wanted an expert to be present. What they had done in the Transvaal for the past year was that when one farmer began shearing, an expert was sent there, and a sort of demonstration was then given to all the farmers of that particular district.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#dairy_industry">
+
+<heading>DAIRY INDUSTRY.</heading>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>asked what was being done with regard to fixing the standard of milk. It had been found, in a certain case, that the Elsenberg cows had given milk below a standard which a dairyman had been prosecuted for not reaching. Some of the best Friesland cattle, which were in considerable demand, gave a milk which was considerably below the standard required.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked if it was intended to provide assistants for the expert. He would also like to know what sort of work the creameries were to do&#x2014;whether they were to assist farmers, and so on, or whether they were intended to be for the training of dairymaids, and like purposes.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>asked for information as to the grant of &#x00A3;4,000 to the Tweespruit Dairy,</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that there was no law, so far as he was aware, defining a standard for milk in this country; but under the Foods and Drugs Act it was assumed that the general average taken all over the world would be the standard to he complied with. Of course, the strength of the milk depended upon the quality of the food, the time the cows had been in milk, and also on the breed. As regarded the Tweespruit Creamery, the position was that these people had occupied a place which was granted under the Crown Government, on a long lease at a nominal rent. An agricultural school was now to be established there, and naturally the creamery people required some quid pro quo. Out of the &#x00A3;4,000 compensation there would be deducted &#x00A3;2,300, the amount of the mortgage on permanent buildings there. In regard to what had been said by the hon. member for Cape Town (Mr. Jagger), he might say that two other dairy experts had been engaged, and as soon as the craze for economy went down, it was hoped to extend the grants in this connection.</p>
+
+</speech>
+
+<speech by="#henwood">
+
+<from>Mr. <person refersTo="hansard_za">C. HENWOOD</person> (Victoria County)</from>
+
+<p>asked for information with regard to the items of &#x00A3;3,000 each for the equipment of the Standerton and Middelburg creameries.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied that the amount on the Estimates was for machinery, which was not ready. The Government of the Transvaal had thought it would be an encouragement to the farmers to build those creameries. It was intended to lease the creameries to co-operative societies.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he understood these creameries were authorised by the Transvaal Parliament.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Yes; two years ago.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he would like to know how these items were brought up against the revenue of the year. Members would have difficulty in explaining to their constituents how it was that these creameries for one Province were voted against the revenue for this year, while another Province got nothing. At any rate, the revenue should be credited with the amounts paid for these things out of the Transvaal balances.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person>,</from>
+
+<p>said that these buildings had been ordered by the late Transvaal Government after the Transvaal Parliament had agreed to it. The money came from the balances which were left, and came under a revote. The factories had been delayed owing to the Public Works Department being too busy</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said the amounts were brought up against the revenue for this year, and they should be brought up against the revenue balances,</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from><span class="col_665-666" refersTo="page_0342"/>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he thought the hon. member (Mr. Merriman) was wrong. These items were brought up here as debits against the revenue. No credit balances were brought forward from any of the colonies, so how could they charge the amounts against the credit balances?</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said his hon. friend must know that the revenue was not the thing placed before this Parliament. They had only got the expenditure before the House which was brought forward in the Estimates, as they knew there was no binding force in that instrument, and it was understood that these things did not form a charge against the revenue of those ten months. It was perfectly clear&#x2014;and it was what he had been aiming at during the Budget discussion to get a definite statement from the Minister&#x2014;that these things were allocated out of the Transvaal balances. The Prime Minister and the Minister for Agriculture acknowledged that. That being the case, of course they could not form a charge against the revenue, of which they had an estimate there. There would be some other arrangement made by law. By which the sums for these works would be taken out of the balances, and not out of the revenue for the ten months.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>That was not the statement made by the Minister for Finance. Mr. Jagger added another remark, which was inaudible in the Press Gallery, whereupon</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person></from>
+
+<p>again rose, and indignantly exclaimed: That is a very uncalled-for remark.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that there was some balances taken from the Transvaal which the Minister for Finance told them were to be utilised for certain purposes. There were ten items of over &#x00A3; 100,000 of cases where money had been voted last year in the Transvaal, where the money had not been spent, and this appeared in the votes. Were those items going, to be taken out? If the were, then all he could say was that there was going to be a very much increased surplus. If those items were going to be taken out, as the Prime Minister said, then they did not require this expenditure; it could be cut down by at least a quarter of a million.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg North)</from>
+
+<p>drew attention to the provisions of section 121 of the Act of Union.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he would like to point out to his hon. friend (Mr. Jagger) that they were quite at one about it&#x2014;that there was an understanding&#x2014;(&#x201C;Oh&#x201D;)&#x2014;in fact, it was embodied in the Act, that any works begun or authorised in the different Provinces should be carried out from the funds at their disposal. He did not want to go into these matters, but some Provinces went to work and voted all their surplus away for certain purposes. &#x201C;We,&#x201D; said Mr. Merriman, &#x201C;did not do it; perhaps you will say we were foolish; at any rate, let that stick to the wall. We did not do it; but they did. All I say is: let them apply those balances as they were voted, only don&#x2019;t come down and charge against the Union revenue for those ten months those works which were voted on the strength of their balances, because, otherwise, what a position you have put us into! We have to go back to our constituents all over this great country, with one-half the white population of South Africa and an equal proportion of natives, who are taxpayers, and explain to the people who sent us here how it is that the Transvaal and Natal have such a vastly-increased grant for works over the Cape Colony. The answer is perfectly plain; I shall answer that those things come out of the balances. If they were to come out of the revenue, we should have a serious grievance. But they don&#x2019;t. I must confess that the Treasurer has not made the intentions of the Government quite plain. I had information from the Prime Minister and the Minister for Agriculture that that was the intention, but I will say that the Treasurer did not make it perfectly plain when he made his statement.&#x201D; They must, he urged, avoid parochialism, hut, as he understood the position, his mouth was closed.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that that was very satisfactory, but the Treasurer did not put it before them yesterday as the right hon. gentleman had put it that day. If the Minister of Finance had put it in that way yesterday, they would not have been discussing this question now. If he was going to pay for these services out of the balances, they must not be deducted from the Estimates, but in the Estimates there must appear a credit which would reduce the total amount. If that was the intention, he would satisfy many of them who felt that they were unjustly treated.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said the House ought to be informed how much of the Estimates were earmarked.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that they had heard a good deal about earmarking that afternoon, and he hoped the House would bear with him while he explained the position. Let them take the case, say, of the Transvaal. He was merely assuming a certain case, say, the Transvaal, for last year. They would assume that the Transvaal budgeted for a revenue of five millions, and budgeted for an expenditure of &#x00A3;4,900,000, or a surplus for that year of &#x00A3;100,000.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West.):</from>
+
+<p>Including railway contribution?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (deprecatingly):</from>
+
+<p>Don&#x2019;t let us worry about railway contribution. Let us try to understand each other. Proceeding, Mr. Hull said, <span class="col_667-668" refersTo="page_0343"/>assuming that the Transvaal budgeted for a surplus of &#x00A3;100,000, and that it made provision for the expenditure of half a million on public works. Assuming that it was impossible to spend the whole of that half a million during the year, but only &#x00A3;400,000 were spent, the surplus would be increased by &#x00A3;100,000. He put forward the proposition the other day that all revenue surpluses should be applied for the purpose of paying off debt. By the authority of the Transvaal Parliament last year the Public Works Department had entered into contracts for the whole of the &#x00A3;500,000; but there was still to be spent the sum of &#x00A3;100,000. According to Parliamentary practice, that &#x00A3;100,000 had to be revoted.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that what the Treasurer was doing was raising money twice over for the same object. The Treasurer said to the taxpayer: &#x201C;I want to tax you for these public works,&#x201D; and when he had got the money he said, &#x201C;I am going to use it for paying off debt.&#x201D;</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg North)</from>
+
+<p>asked if the money had been used to extinguish the floating debt of the Cape.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>expressed his regret for saying that the Prime Minister did not understand the question.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>When the Treasurer made his Budget speech, he distinctly said&#x2014;as far as I understood him&#x2014;that these balances were to be allocated to certain public works, voted by the Transvaal Parliament. He is confirmed to-day by the Prime Minister and the Minister of Agriculture.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>No, no; you misunderstand me. (Laughter.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>It is a very curious misunderstanding, for a more definite statement was never made. How are we to go back to our constituents, and say: &#x201C;These Ministers don&#x2019;t know their own minds&#x201D;&#x2014;(laughter)&#x2014;&#x201C;and they have voted so much out of your revenue from public works, which were voted two years ago.&#x201D; Talk about fog and mist, (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>As there seems to be some misunderstanding, I wish to say that if by the Secretary for Agriculture the hon. member (Mr. Merriman) means me, he is mistaken, for I have not spoken on the matter. As regards the Prime Minister, he has spoken in Dutch, and I understood him to say that this is a re-vote, and he added that this money was brought in from the Transvaal as a part of the surplus; but he did not say that he would take it out of the surplus brought in. He only said, &#x201C;We brought in assets for it.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I understand that financial experts on both sides of the House accept the proposition that, whatever surpluses you have you must, following the great liberal traditions in England, use them for the purpose of extinguishing debt. Are we agreed on that?</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>No; it depends on circumstances. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Whatever surpluses you have ought to be applied for the purpose of redeeming the debt automatically. How my hon. friend can say we are deceiving the taxpayer by taxing him twice I cannot conceive.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>I agree with you on the general principle that surpluses should be used to extinguish debt; but it depends on the nature of your surpluses. (Opposition cheers.) If they got their excess of revenue, say, from the Customs, it is all right; but where you raise revenue for special purposes, it is not a surplus in the ordinary sense of the word. The Minister of Finance must remember when he said that, instead of having deficits, they were surplusses, he added, &#x201C;But these are not free surpluses.&#x201D;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>The Minister of Finance is too apt to think that when he makes a Chartist speech, the whole House will agree with him. It is a very good doctrine to apply surpluses to extinguish debt at certain times; but to extinguish debt with one hand, and to borrow with the other, that seems to me to be a madman&#x2019;s finance. (Laughter.) I will not go into Natal&#x2019;s deficits, and do not wish to hurt anybody&#x2019;s feelings; but the Cape brought into Union Government assets certainly exceeding in value the amounts of the other colonies. (Hear, hear.) Take the matter of the unallocated Crown Lands. These will be of great value when the Cape is developed in the proper way by driving railways into the large tracts of country. We brought in Crown Land bonds, and had liquid assets of that kind to a very great value.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Brandy?</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>We will probably get something out of that. If you look at the railway returns, you will see that the Cape put revenue into the construction of railways and the reduction of debt a sum vastly in excess of any deficiency. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>We have rather wandered away from the vote.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Mr. <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said that all the trouble had arisen because the Treasurer had not given the House a simple and clear explanation of the finances. If he had told them at the start how much each Province had had in hand, and how much of this had been allocated, they would (have been better able to determine the position. He did not gave these accounts, and therefore they did not know where they were. They did not ask that <span class="col_669-670" refersTo="page_0344"/>these separate accounts should be kept always, but they did say in the first year of Union the position of each colony should have been shown clearly. It was the duty of the Treasurer to show the balances in hand, and whether the whole or any part of these had been earmarked; at present they did not know where they were. The Treasurer was going, to pay debt from surpluses that had been earmarked for other purposes, and then going to raise funds again for the purpose of erecting these buildings. That was not paying debt out of surplus revenue. He hoped the Treasurer would reconsider the matter, and not mystify them any further! He agreed that the explanations had been very clever&#x2014;-(laughter)&#x2014;but they had not been able to ascertain what he was driving at. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that this doctrine which the Treasurer had expounded was the old Cape doctrine, and really no new idea; yet Cape members got up and criticised the Treasurer when they knew the facts of the case. In fact, it was the law in the Cape, for a measure on the subject was passed about twelve months ago. He thought the point was that they had accumulated surpluses, and the Treasurer was trying to get back to Cape principles as quickly as possible.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>But they have been earmarked.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>These have not been earmarked. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">FREMANTLE</person> (Uitenhage):</from>
+
+<p>Is there something behind this? (Cries of &#x201C;Oh!&#x201D; and laughter.)</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Ask the Treasurer. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that he hoped his hon. friend, in spite of the Opposition, would go on with his sound financial doctrine of using surpluses for the redemption of debt.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand):</from>
+
+<p>What vote is before the House? (Opposition &#x201C;Hear, hears&#x201D;)</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that this principle of applying surpluses for extinguishing debt was all very well, and if obligations had been discharged then it would have been well and good. But he pointed out that certain works in a certain Province had not been carried out, and in extinguishing this debt the Treasurer was going to borrow more money, and furthermore this money was to be raised from the whole of the Union. Did the Minister of Education admit that? The Treasurer did. The Transvaal Government had contracted these obligations, the money had been obtained, the works had not been carried out, and now they were going to the Union for the money, with the result that the other Provinces would be starved for one Province of the Union. It was not a question of paying off debt, but the consequences that would accrue.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>referred at length to the position of creameries in the Orange Free State. He was very much in favour of creameries, but he thought that this was a most expensive way of carrying a principle into effect. He thought it would be better were the Government to gave small loans at small rates of interest, placing upon the localities concerned the onus of self-sacrifice.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said the Minister of Education knew very well that they had experimented with these creameries in the Gape. Of the nine that were started only two were really paying at the present time. He was not against the principle, but what he objected to was the proposal that this sum of &#x00A3;23,000 should be spent practically at one spot. They were putting all this capital into two creameries, and there would be little chance of their geting the money back. He would not be opposed to the vote if the money were spread over a large area.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the two creameries were decided upon by the Transvaal Government, and the Union Government bad to carry into effect the decision of that Government. So far as he was concerned, he believed that the creameries would serve a very good purpose.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>pointed out that at the time the Transvaal Parliament had voted the money for these creameries there were no private creameries at Ermelo, Vrede, and the like. It was the action of the Transvaal Parliament, which had awakened these private people and induced them to start their creameries.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that he did not dissent from what had been done by the Transvaal Government. As a matter of fact, he strongly urged the Minister of the Interior to stand out against the efforts of private individuals who were trying to establish a monopoly, but the appearance of the vote on the Estimates without any explanation however, would bring down all sorts of applications, and the present scale was altogether too high.</p>
+
+<p>The dairy industry vote was passed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#ostrich_feathers">
+
+<heading>OSTRICH FEATHERS.</heading>
+
+<p>On the ostrich feather industry vote,</p>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person>,</from>
+
+<p>replying to Dr. Smart (Fort Beaufort), said that the ostrich expert was not an official of the Transvaal, but of the whole Union. The expert had stated that certain people in the Potchefstroom district farmed with ostriches which were of such poor quality that they were not worth their upkeep. He advised getting some birds of the best quality for the experimental farm at Potchefstroom, so that farmers could learn <span class="col_671-672" refersTo="page_0345"/>how beet to farm with ostriches. The expert at Graham&#x2019;s Town, whom the hon. member had referred to, would continue his work there.</p>
+
+<p>The vote was passed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#botany_and_agronomy">
+
+<heading>BOTANY AND AGRONOMY.</heading>
+
+<p>In reply to a question by Dr. T. W. SMARTT (Fort Beaufort) on the botany vote,</p>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the tobacco industry would become a great industry if they set about to develop it on the right lines. The expert they had in the Transvaal was one of the best men they could possibly have, and would, of course be at the service of the Union. He would like to repeat that he did not look only to the Transvaal as far as agriculture was concerned, but the whole of the Union. The trouble in the Transvaal was that the tobacco farmers had mixed their seeds The Government originally wanted to sell the Tzaneen experimental station, but since then it had been decided to build a railway, and the farm would now be kept on.</p>
+
+</speech>
+
+<p>The item was agreed to.</p>
+
+<adjournment>
+
+<p>The committee adjourned at 6 p.m.</p>
+
+</adjournment>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked what the Government had done or intended to do with regard to fostering the cultivation of cotton. Experiments which had been made showed that cotton could be grown near East London, and in the Transkei, especially in the Butter worth district. There seemed to be great possibilities in this connection along the coastal belt in that part of the country. They had pre-eminently the population there which could carry out the cultivation of cotton. Once the natives could see there was money in this they would take it up themselves, apart from what the Europeans would do. If the industry were set on foot properly and encouraged there, they would have a great asset.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth Central)</from>
+
+<p>referred to the cotton-growing experiments in the Eastern Province, and said the experiments were hung up because of the want of encouragement. He saw no provision made for pushing these cotton-growing experiments in the Eastern Province.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>said that if the Minister for Agriculture went to the Sundays River and saw the irrigation and cotton-growing there it would be a revelation to him.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said he would like some information with regard to what was to be done with the tobacco-growing industry as leading up to a tobacco export industry. Something should be done, he thought, on the same lines as those on which New Zealand had proceeded in regard to the flax industry. They ought to have a tobacco industry here as good as the gold industry, but they would only be able to establish the industry if they ensured that the tobacco produced was uniform and of high quality. They all knew the history of the wines and the fruits of this country, and the moral that it taught. They went in for quantity, and did not pay regard to quality, and they had had to suffer the consequences. He had proposed years ago in the Transvaal that the Government should gave facilities for the curing, storing, treating, and exporting of tobacco only if it were of a certain standard, so that tobacco of good quality should actually be cheaper than tobacco of poor quality. Then the good tobacco would reach the markets of the world with every facility that could be given, while the man who grew poor tobacco would have to look after himself. Did the policy of the Government go in that direction, or did it go no further than to have a storehouse which would gave equal facilities to those producing poor tobacco as to those producing a good article?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said the central depot was now being built at Rustenburg. The intention was to have tobacco cured better than had been the case in the past, and he hoped it would be high-class tobacco that would be stored there, because he quite agreed with the hon. member (Sir Percy Fitzpatrick) that the object lesson which it was sought to teach would otherwise be lost. As regarded the remarks of the hon. member for Tembuland (Mr. Schreiner), he might say that some time before May 31 the Cape Government was asked by a syndicate of English firms for facilities to carry on cotton-growing experiments in the neighbourhood of St. John&#x2019;s. The Government had some land there, and was able to place as large a plot as the syndicate wanted at their disposal. It was granted to the syndicate for a term of years at a nominal rental, and the experiments, he believed, were now being carried on there. There had been experimenting in cotton growing for some time in this country, and the Government had collected a certain amount of information, and on the whole it was encouraging. (Hear, hear.) They could not, of course, expect the Government to create an industry, but the Government could collect information and make experiments, and put the result at the disposal of the public. So long as the goldfields offered a quicker return for capital than the slower process of agricultural development, he was afraid that these farming or agricultural industries would languish. As regarded cotton growing, all that was required now was that a little capital and enterprise should be forthcoming.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>observed that the hon. member said that these were earmarked items. The Treasurer had said: &#x201C;You <span class="col_673-674" refersTo="page_0346"/>are not to have a penny of that.&#x201D; They were voting this from the Union money; it came from the pocketse of the people they represented in the Cape Colony, and they were not getting a penny back. Every penny of the vote they were dealing with went to the Transvaal. He hoped the Prime Minister would see the justice of the point he was making. There was nothing in the vote for the Cape Colony.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>I cannot help it. The Government before Union did not start stations; we in the Transvaal did.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that the position must surely be perfectly plain by this. He hoped they were not going to have a fourth Budget discussion. The position was that the Transvaal voted a certain amount for public works, and also provided the funds for executing those works. After May 31, the Treasurer found that a number of Treasure bills, mostly from the Cape Province, wore falling am to be redeemed.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>No, no; don&#x2019;t make a mistake. The Treasurer specially told us that he did not use that money for Treasury bills.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person> (continuing)</from>
+
+<p>said that he understood the Treasurer to say that he used money from the Transvaal revenue surpluses to redeem bills. The votes were being used for the purpose of reimbursing the Transvaal for the money which was taken away from it and spent in redeeming Treasury bills, which came from the other colonies. He did not want it to go forth to South Africa that they were using to-day Union funds in order to equip the Transvaal with works to which it was not entitled. Technically, they were now using money for that purpose. That, however, was only half the truth; the other half was that the Transvaal had paid it for the purpose of redeeming Treasury bills of the other colonies.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that there was no necessity to redeem two millions of Treasury bills. They said that there was no necessity to redeem the whole of those Treasury bills, amounting as they did to &#x00A3;2,161,000. If the Treasurer had redeemed a certain portion, he could easily have redeemed the balance and paid off the debt year by year.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>urged that this discussion was quite irrelevant to the vote now before the committee, and deplored its recurrence.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that this discussion cropped up at every stage, and was wasting the time of the House. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said that the result of the discussion was that, to his mind, there was now confusion worse confounded. He would like to have an authoritative statement, in the language of the ordinary layman, as to whether the Treasurer borrowed these funds which were voted by the Transvaal and the Free State to balance his accounts with the Union, and whether he intended later on to revote the votes that were passed in the respective Parliaments out of money from the Union. If the Union borrowed the money of the Transvaal and Free State, it must pay it back.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>May I call your attention to item No. 9?</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said that he merely asked for a clear statement that would be understood by laymen.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he understood yesterday from the Speaker that it was not competent to refer to motions on the paper.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein):</from>
+
+<p>The hon. member does not understand the position.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>There is the following notice of motion on the paper: &#x201C;This House is of opinion that the moneys voted for the purpose of carrying out certain public works in the Orange Free State Province as enumerated in Supplementary Estimates No. 4 and passed by the late Parliament of the Orange River Colony have been appropriated by the Minister of Finance contrary to the intention of the Legislature and people of the Orange Free State.&#x201D; Is it competent for the hon. member who has given notice of this motion to refer to the subject matter of this notice?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>He cannot go beyond the vote.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein):</from>
+
+<p>I protest against the waste of time by the Minister of Finance. (Cheers and laughter.)</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street):</from>
+
+<p>I rise to a point of order. Under Rule 101 is this not a tedious repetition of former discussions?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. member (Mr. Botha) is quite in order. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said he wished to know if money had been borrowed from the Free State for the purpose of the experimental tobacco stations in the Transvaal.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>If the Treasurer wishes to expedite business, he must do so in the ordinary manner. (To the Chairman) The business of the committee seems largely to be distributed by certain members of the House assuming the functions which you, sir, discharge so admirably.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person>:</from>
+
+<p>On a point of order. Is the present discussion in order? (Laughter.)</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from><span class="col_675-676" refersTo="page_0347"/>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Sit down. (Renewed laughter.)</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>And in time he may have an opportunity of filling the Chairmain&#x2019;s place. (Laughter.) Proceeding, Dr. Smart pointed out that there were certain districts in the Cape admirably suited for tobacco growing, and asked if experimental tobacco stations would be started in other portions of the Union, apart from the Transvaal.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>hoped that the hon. member (Dr. Smartt) would not ask him to gave a pledge that evening. They had to do with the Estimates, and, as had already been said, these Estimates were based on those of the four colonies before Union. They had tried to introduce as little as possible which was new. There must be reorganisation in the Union, because they were now under one administration. The experts, who had belonged to the Transvaal or any of the separate colonies before Union would shortly be at the disposal of the whole of the Union, and would report when they considered it necessary that additional stations should be constructed. The hon. member for Port Elizabeth (Mr. Walton) seamed to insinuate that the moneys of the Cape were spent on public works in the Transvaal. That was not the case, and he hoped that it would not be said again, because it would lead to bad feelings, which he hoped would never again be raised in South Africa. He hoped that there would be a higher level reached in that debate. They had become one Union, and there should be an end to these parochial feelings. If, however, debates such as they had had were to continue, there would be but one course open, and that was to keep separate accounts for the different Provinces. Every Province would then be able to spend its own revenue. However, that would be a most retrograde step, for too much had been sacrificed on behalf of Union, and they could not go back on it. Some of the amounts criticised dated back to Crown Colony Government, and Ministers only asked for what was absolutely required. There was no new expenditure.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>said he was sure that hon. members on that side would respond to the Premier&#x2019;s appeal, and would leave the financial discussion alone for the present, and would continue with the matter before the House. But he wished to remind the Prime Minister that the Treasurer had not made clear the position with regard to Transvaal funds being used to redeem Treasury Bills. Hon. members on that side must have that matter cleared up, but he hoped they would delay that clearing up until they came to the Treasury votes. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#tobacco_and_cotton">
+
+<heading>TOBACCO AND COTTON.</heading>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked for the Government&#x2019;s policy with regard to cotton, about which they heard so much from one of the Ministers the other day. What information had the Minister for the statement that the finest cotton could be produced in the bushveld of the Transvaal? He hoped that before the next Budget speech they would be given that information.</p>
+
+<p>The vote was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#horticulture">
+
+<heading>HORTICULTURE.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked whether some further financial assistance could not be given the horticultural assistant at the Cape to enable him to get about the country and continue the good work he had done in the past. He went on to refer to the necessity for fruit experts, and also for some gentleman who could gave information with regard to raisins.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that these visits of experts to the country had done a great deal of good, and encouraged growers to persevere</p>
+
+</speech>
+
+<speech by="#maydon">
+
+<from>Mr. <person refersTo="hansard_za">J. G. MAYDON</person> (Durban, Greyville)</from>
+
+<p>referred to a collection of the plants of Africa at Durban, and said that, work had been stopped there owing to the financial position of Natal&#x2014;necessitating the vote being dropped. He was afraid if the Government did not do something, the present valuable collection of plants would be lost to the country.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>,</from>
+
+<p>in reply, said that during the last six months the Cape Horticultural Assistant had been travelling all over the country with Mr. Chiappini, the Trades Commissioner in London, giving advice to the farmers. He would not have to want for funds for the work in the future. So far as raisins were concerned, the Government contemplated paying attention to this matter, and the Minister joined with the hon. member for Cape Town in paying a tribute to the good work that had been done by Mr. Cillie With regard to the question of the hon. member for Durban, the Minister said that that could be raised again when the vote of the Minister of the Interior was under consideration.</p>
+
+<p>In reply to Mr. J. W. JAGGER (Cape Town, Central),</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the voluntary inspection of fruit&#x2014; the system of the last two or three yeans&#x2014; would be continued.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that in the last session of the Cape Parliament the Hon. the Minister introduced a Bill for compulsory inspection, which did not get through, but which he believed met with the approval of the majority of fruitgrowers of the country. He hoped the Government would see its way clear to re-introduce that measure before the end of the present session.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#viticulture">
+
+<heading><span class="col_677-678" refersTo="page_0348"/>VITICULTURE.</heading>
+
+<p>On the vote for Viticulture,</p>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked what the intention of the Government was in regard to Groot Constantia farm. He reminded the House that there was some idea in recent years to convert the place into a national memorial.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the intention of the Government was to continue the farm as heretofore. It was not only used for viticulture purposes, but proved a very convenient place to entertain Royal visitors. (Laughter.) The Government would make a very great mistake if they were to sell it. As a matter of fact, the Government had no intention of doing so.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>drew the attention of the Minister to the brandy advances made by the Cape Government.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>replied that the Board which was appointed to dispose of the brandy had recently reported that they had failed to dispose of the brandy outside the Union, and it was for the Government now to consider what was to be done. They would have to introduce some scheme during the present session, but certainly not until these Estimates had been passed. (Laughter.)</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>referred to the following item, &#x201C;expenses in connection with the disposal of brandy taken over from the Agricultural Distillers&#x2019; Association, Act 22 of 1909 (Cape), &#x00A3;6,000,&#x201D; and said that he did not see why that amount should appear in the Estimates, because if they read Act 23 they would find that it set forth that the amount of &#x00A3;6,000 was &#x201C;to be a final charge against the loans raised for such purposes under the said Act.&#x201D; Now, seeing that the Act distinctly laid down that the &#x00A3;6,000 was to be a final charge against the loans raised, he would like to know how it came about that it appeared in the Estimates in the form it did.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that under the circumstances of the case it would be a wrong principle to do other than the Government had done.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked the Minister whether it was necessary to sign Customs forms to get Cape wines to other parts of South Africa.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Not wines.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Yes. In the Free State Customs forms had to be signed, and wines were not delivered until the forms had been filled up. And they talked about fostering the wine industry of the Cape.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that about wines he did not know. There was no duty on wines. He knew that the Customs officials had some regulations to observe in regard to brandy being sent upcountry in bulk and bottled up there, but the arrangement was to the advantage of the merchants down here.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that it was a fact that Cape wines could not be delivered until one produced his Customs forms up-country. He knew it himself, and he said that was a hindrance to the wine trade of the Cape. While they allowed these hindrances there was no good talking about making the Cape wines popular up-country.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that that state of affairs was contrary to the Constitution, which provided for Free-trade within the Union. He wished to know whether it was the intention of the Government to introduce legislation this session for the purpose of having a uniform Excise throughout the Union. He contended that it was impossible to continue with the different Excises in the various Provinces. He hoped that if such legislation were introduced it would be in the direction of levelling up instead of levelling down.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said he was not going to introduce legislation dealing with the Excise this session.</p>
+
+<p>The vote was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#entomology">
+
+<heading>ENTOMOLOGY.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked what was the meaning of the following item, &#x201C;beekeeper for one month, &#x00A3;3.&#x201D; Were the Government engaging a man or discharging a man? The point was a very serious one. (Laughter.) The matter of beekeeping was very important, and he would like to know what the item meant.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>asked whether it was the policy of the Government to go on having experts as the heads of every small administrative department?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the Government hoped to reorganise the departments sufficiently to do away in the next Estimates with all these small departments. In reply to the hon. member for Cape Town, Central (Mr. Jagger), he might say it was the intention of the Government to introduce a Bill dealing with bees.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>referred to the expenditure on locust destruction. Nothing would be more disastrous than to have a diminution in the expenditure in this connection.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that from reports received it was not anticipated that any work would be required in connection with locust destruction this financial year, but a sum of &#x00A3;3,000 was asked to meet emergencies.</p>
+
+<p>The vote was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#chemistry">
+
+<heading><span class="col_679-680" refersTo="page_0349"/>CHEMISTRY.</heading>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>urged the importance of having a systematic soil survey throughout the country and analyses of the various soils. He hoped everything possible would be done in that connection.</p>
+
+</speech>
+
+<p>The vote was agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#publications">
+
+<heading>PUBLICATIONS.</heading>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked what the intention of the Government was in regard to the &#x201C;Agricultural Journals.&#x201D; Was it intended to continue publishing Provincial &#x201C;Agricultural Journals,&#x201D; or to publish one &#x201C;Journal&#x201D; for the whole Union?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said it was intended to have only one &#x201C;Journal&#x201D; for the whole of the Union.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>hoped that there would not be an expensive journal for the whole of the Union. He thought that small journals dealing with matters of special local interests would be more useful.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the new &#x201C;Journal&#x201D; would not be more expensive then any individual &#x201C;Journal&#x201D; had hitherto been. It was the intention of the department to republish matters that were of interest to particular areas in the form of bulletins.</p>
+
+</speech>
+
+<p>The vote was agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#co-operative_societies">
+
+<heading>CO-OPERATIVE SOCIETIES.</heading>
+
+<p>On vote O, co-operation,</p>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>suggested that the item &#x201C;auditor of co-operative societies&#x201D; should be transferred to the Auditor-General&#x2019;s Department in future years.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the accountants of co-operative societies would be taught by the auditor of co-operative societies. The accounts themselves would be sent to the Auditor-General&#x2019;s Department.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>brought under the notice of the Minister for Agriculture the fact that mealies from up-country were shipped at Port Elizabeth at a less price than they were sold at to the farmers in the Graaff-Reinet and Alexandria districts. He hoped the Government would be able to gave some attention to this anomaly.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked whether the Central Co-operative Agency in the Transvaal was a Government institution, and also as to the position of the co-operative dairies and the wineries in the Cape.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that, as he had already said that afternoon, the co-operative undertakings in question in the Transvaal were not carried on by the Government, but by private individuals, the Government having paid for the construction of the buildings and putting in the machinery. The Agency had had a Government advance for the first year&#x2019;s working.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that there was nothing new to report in regard to co-operative dairies in the Cape beyond the facts already in the possession of members. With regard to the co-operative wineries, a Commission had been constituted, consisting of three members.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked whether the Prime Minister was satisfied with the progress made in cooperation in the Transvaal during the past year?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied that co-operation was one of the most difficult matters in this country, because people lived at such great distances from each other, and one man understood one thing by co-operation and another man something else. They must go very carefully, because if they did not, they might make a mess of it. The man they had in the Transvaal was a particularly able one, and he felt sure that he would make a success of it.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Pont Elizabeth, Central)</from>
+
+<p>said the greatest difficulty the Cape had was to persuade the members of the co-operative societies to leave the business side alone, and that the selling of their produce should be given to business men. He was still convinced that the co-operative principle would prove a great success. (Cheers.)</p>
+
+</speech>
+
+<p>The vote was agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#fencing">
+
+<heading>FENCING.</heading>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked for details regarding the amount.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that there were different Acts in the different Provinces, and each Provincial Act was being carried out. In Natal and Transvaal when the Government fenced a farm in connection with East Coast fever the owner paid 50 per cent. of the cost, in some parts of the Cape the whole, and in the Transkei nothing, the Government doing the work free. It was his intention to have one Act for the whole of the Union, so that Government would everywhere pay one-half.</p>
+
+</speech>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet)</from>
+
+<p>said the granting of loans to farmers had greatly been appreciated, and it would be most disappointing if the loans were discontinued. It had been decided by the old Cape Parliament to gave grants for fencing, instead of making grants for the destruction of vermin. The Cape Parliament authorised the raising of a loan for fencing purposes, but the loan was never raised. The matter of fencing was of the very greatest importance, for fencing helped the farmers to check disease, raised the value of land, and saved stock from destruction. Farmers were finding out that they must enclose their land and restore their veld. <span class="col_681-682" refersTo="page_0350"/>He hoped a substantial sum would be put on the next Estimates for fencing loans. The farmers did not ask for doles, but all they wanted was cheap money.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said he thought that the request of the hon. member was very reasonable, and they should not object when it was a question of developing the resources of the country. They should help where security was offered, and when that security was good.</p>
+
+<p>On the vote for agriculture and experimental farms,</p>
+
+</speech>
+
+<speech by="#neser">
+
+<from>Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom)</from>
+
+<p>drew attention to the need for encouraging dry land farming.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that there were a lot of farmers who would gave a great deal of assistance to the Government, so that proper experiments might be carried out.</p>
+
+<p>On the vote for Guano Islands,</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said, in reply to Mr. J. W. JAGGER (Cape Town, Central), that though it was not the intention of the Government to buy a steamer, he would like to talk over the matter with his hon. friend.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked if the profits of guano were being&#x2014; as he understood they were to have been&#x2014; used for a laboratory for the analysing of manures.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>replied in the affirmative.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Are there any profits? What will be the arrangement for the future with regard to the farmers of the Union? I hear that it is, or has been, sold at a loss.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>First come, first served. (Laughter.)</p>
+
+<p>On the vote for cold stores and abattoirs,</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>was understood to make some reference to the transport of hides in Natal, and said there was need of investigation in regard to this matter. He hoped that the Minister would look into the question.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>inquired what the connection was between the Government and the Transvaal Cold Storage Co., Ltd.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that he understood that the Government were represented on the Board of the company in accordance with an old arrangement of the Transvaal Republic; he suggested that the Prime Minister should inquire into the matter and inform the House of the position later.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the Koelkamer Company was a private concern. The Z.A.R. Government had lent them money. He was opposed to Government cold storage.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#field-cornets">
+
+<heading>FIELD-CORNETS.</heading>
+
+<p>On the vote for Field-cornets,</p>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>moved to reduce the amount by &#x00A3;4,940. He wished to point out that there was &#x00A3;19,760 for the payment of Field-cornets in the Transvaal. It was just as, well that hon. members opposite recognised that the Union was finding that amount for the payment of Field-cornets in the Transvaal. (Hear, hear.) The right hon. gentleman said &#x201C;Hear, hear,&#x201D; but he (the speaker) would like to say that if the same scale of payment to Field-cornets in the Transvaal&#x2014; that was, &#x00A3;200 a year to each and &#x00A3;60 sustentation allowance&#x2014;were paid to all Field-cornets throughout the Union, the total amount would be &#x00A3;80,000, and he did not think that hon. members opposite would say &#x201C;Hear, hear.&#x201D; Now there was not the slightest doubt that this question in the Transvaal had been the cause of a great deal of dissatisfaction. Proceeding, the speaker referred to the duties of Field-cornets, and said that they were very important persons. (Opposition laughter and Ministerial cheers.) He should create a good feeling amongst all sections of the community. (Opposition hear, hear.) He should not represent one section, but should represent all sections.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>So he does.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>He should administer the law without prejudice and without fear.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>And so he does.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>And be non-political. (Opposition cheers.) Proceeding, he said that he hoped the Minister of Lands (Mr. Fischer) would not think that he was wasting the time of the House in bringing the action of the Field-cornets in the Transvaal before the House, because he maintained that this was the proper place and the proper time to discuss the matter. On the question of efficiency, Sir George read a letter in which it was stated that in many instances the Field-comets in the Transvaal were not sufficiently educated, not had they the ability for the important work which they had to perform. The letter further stated that Field-cornets had the right to appoint scab inspectors, and in several cases they had appointed relations. It also stated that in one case a Field-cornet had not reported East Coast fever as being in his ward though it had been there for several months. Proceeding, the hon. member said that pointed to inefficiency. They wanted to know also whether the high salaries paid to Field-cornets were going to be extended throughout the Union. Then there was another serious question in regard to Field-cornets, and that was that they took a prominent part in politics. They on that side of the House did not mind fighting the political organisation represented by the hon. gentlemen opposite, hut let them fight fair and square; don&#x2019;t let them use Government officials as their <span class="col_683-684" refersTo="page_0351"/>political agents. That could only lead to a change of officials whenever there was a change of Government. They did not want a state of things like that. (Opposition cheers.) Everyone knew that field-cornets presided at political meetings, and that they stuck up posters and issued political notices signed by them as officials of a political organisation. The Prime Minister stated the other day, in reply to a question, that instructions had been issued to field-cornets not to take part in politics, but to his (Sir G. Farrar&#x2019;s) certain knowledge, they had continued to take an active part in politics.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why shouldn&#x2019;t they? District Surgeons do.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>District Surgeons are in a different position altogether. Who compiles the voters&#x2019; rolls? It is not the District Surgeon; it is the field-cornet who puts the names on the voters&#x2019; roll.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>That isn&#x2019;t so.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>They did the last time. At any rate, what I say is this: these field-comets take an active part in politics. Instructions have been issued, according to the Prime Minister, advising them not to take such an active pant in politics, but everyone knows that in a recent election telegrams have been sent, and letters have been sent, to field-cornets on the result of the last elections. I say that is not a thing that ought to be done.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Question.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>Well, will the right hon. gentleman tell me by whose authority this telegram was sent: &#x201C;Pretoria, 10 a.m., October 19.&#x2014;From General Botha to H. T. Watkins, Barberton (that is the field-cornet).&#x2014;Please accept my sincere thanks for your loyal and able services rendered to our party and South Africa in securing the election of Mr. Hull, with such signal success&#x201D;? The Right Hon. the Prime Minister can easily verify that telegram by having the records of the office turned up. There is no doubt that several telegrams have been sent, though perhaps not with his authority. Continuing, Sir G. Farrar said they did not allow a railway servant earning, say, 3s. 4d. a day to take part in politics, but it seemed a field-cornet who got &#x00A3;240 a year of the taxpayers&#x2019; money could preside at a political meeting, and issue notices signed by himself as an official of Het Volk. Why this feeling had been engendered against the field-cornets was because they were put in the districts as justices of the peace, and they were put there so that all sections of the community should respect them. Therefore, he said that if they wanted respect and would administer the law properly amongst all sections of the community, they ought not to take that active and prominent part in politics that they had done. They wanted to know what was the policy of the Government in regard to the field-cornets. He moved the reduction of the vote by &#x00A3;4,940.</p>
+
+</speech>
+
+<speech by="#joubert">
+
+<from>&#x2020; Commandant <person refersTo="hansard_za">J. A. JOUBERT</person> (Wakkerstroom)</from>
+
+<p>said that in 1903 East Coast fever had spread like wildfire, and the Government tried to combat it by means of fencing and veterinary surgeons, but without effect, and they hardly knew where they were until in 1908 the field-cornets had been appointed, when a different state of affairs was brought about. The hon. member who had just spoken was ignorant of the abilities of the field-cornets, and all the good they had done. They encouraged the people, and it was due to the field-cornets that they had advanced so much in agriculture in the Transvaal and got such good prices for their wool. The field-cornets had not to ask where a man&#x2019;s sheep were&#x2014;they knew. Hon. members from other Provinces could speak of their own field-cornets, but as far as the Transvaal field-cornets were concerned, he could have nothing but praise for them. The old cattle inspectors drew &#x00A3;400 per annum, but knew nothing about scab.</p>
+
+</speech>
+
+<speech by="#searle">
+
+<from>Mr. <person refersTo="hansard_za">SEARLE</person> (Port Elizabeth, South-west)</from>
+
+<p>said that he did not think the objection of the hon. member for Georgetown applied to all field-cornets. It might apply to some in the Transvaal. He rose more particularly to support the petitions that had been received from field-cornets in the Cape Colony, asking for better treatment than they had now. Mr. Searle paid a high tribute to the work done by the field-cornets of Port Elizabeth and Uitenhage. He said that he should be pleased if the whole positions of field-cornets were placed on a different basis. He understood that in the Cape Colony they had no salaries, but received fees.</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from>
+
+<p>said that he had not expected the field-cornet question to be raised after the elections. Some field-cornet or other might have done wrong, but the grievance against them appeared to be that they had been appointed from among the country population. In the Civil Service as well as in the railway service there was only room for people of one particular political persuasion, and did hon. members mean to say that those men never mixed with politics? The hon. member for Georgetown had mentioned some of the work done by field-cornets, but it was a fact that they also compiled statistics, inspected roads, protected game, etc. They were indispensable in connection with the extirpation of cattle disease, the proper administration of the laws and the country&#x2019;s affairs generally, and he trusted that the amendment would be withdrawn. As a politics alone, and most of them had obeyed rule the field-cornets did their best. The Prime Minister had given instructions, before the elections, that they should leave that order.</p>
+
+</speech>
+
+<speech by="#quinn">
+
+<from>Mr. <person refersTo="hansard_za">J. W. QUINN</person> (Troyeville)</from>
+
+<p>said the alarming thing about the discussion was the telegram that had been read. Was it correct? That point could be settled in two minutes by the Prime Minister, and <span class="col_685-686" refersTo="page_0352"/>if he said it was incorrect, that would relieve the minds of hon. members of a very uneasy feeling. If Field-cornets in different parts of the country were to understand that, in order to earn the goodwill and commendation of their employers, they had simply to become keen political partisans, whenever there was an election, it was easy to understand what that would result in. (Hear, hear.) What were people to think? That in every country constituency there was an active agent&#x2014; naturally influential because of his position as a Field-cornet&#x2014;using his position&#x2014;and encouraged to do so by the express commendation of the Prime Minister&#x2014;in order to further the ends of one political party. The thing became intolerable. What would the Field-cornets think, for they were bound to have read the statement made in that House a short time ago by the Prime Minister, when that gentleman said the Field-cornets had been warned not to take part in politics. It was as grave a position as could be imagined. Let hon. members on that side of the House nut themselves in the places of hon. members on his side of the House. Imagine a member on his side of the House being the Prime Minister, having all this patronage, and giving it to his friends. It was a shameful condition of things, and he hoped that, in spite of all he had said&#x2014; all of which was justified&#x2014;that he would be able to get up and withdraw what he had said. He could only do that if the Prime Minister said that he did not send that telegram.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that in the first place he would like to say that he knew nothing of the telegram which the hon. member for Georgetown (Sir Geo. Farrar) bad read. (Cheers.) If his hon. friend had asked him a question afterwards, he would answer it, and meanwhile be would make an investigation into the matter. He wanted to say that he was very glad that the hon. member had let the oat out of the bag. He could recollect when the elections were on that much capital had been made by the other party out of the matter. Well, that afternoon his hon. friend the member for Pretoria East (Sir Percy Fitzpatrick) had read a letter, and that evening the hon. member for Georgetown (Sir Geo. Farrar) had again read a letter. They had not mentioned any names; they had not said who had written the letters, and they might have been written by the secretary of the political organisation with which the hon. member opposite was connected, for all he knew. These letters made certain insinuations, and he thought it was unreasonable to read them. Were the hon. members prepared to place those letters on the table of the House? He defied them to do so. If it were done, he would take steps to see that an investigation was made into the charges made in these letters. It was not right and proper to blacken the characters of people who were absent, and who were not in a position to refute the charges which had been made against them. The right hon. gentleman repeated what he had said that afternoon, that the Field-cornets of the Transvaal were really stock inspectors of their districts, although they were not so called, and their assistants were appointed, not by them, but by him, as Minister of Agriculture. As to the extract read from the Auditor-General&#x2019;s report by the hon. member, he had ordered the Magistrate to make an investigation, which had shown that the official in question had been remiss in his duties, but nothing more, for which he (General Botha) had severely reprimanded him. They did not surely want him to dismiss the man for a first offence of that nature. Then the hon. member (Sir George Farrar) had spoken about Field-cornets taking an active part in politics. Well, he thought that when the hon. member spoke of Field-cornets he did not know 5 per cent. of them. (Laughter.) If he knew them at all, he would know that they consisted of the best possible men they could get in the Transvaal. There were Field-cornets who did not take an active part in politics, and there were those who had been the chairmen of their party organisation, but had resigned as soon as they had been appointed to the position of Field-cornet. If the hon. member for Georgetown (Sir Geo. Farrar) was in his (General Botha&#x2019;s) position, would, he have dismissed all Civil Servants whom he knew were of different political feeling to himself? They could not treat one set of officials in one way and another set in a different way. Field-cornets were not full Civil Servants; they were only appointed for three years, and received no pension like ordinary Civil Servants. He had received a large number of letters about Civil Servants taking an active part in politics and supporting the party on the other side of the House. Would it be proper for him to read these letters? Certainly not, and he did not intend to do so Would it be right for him to dismiss these Civil Servants for the action they had taken? No. They had in the Transvaal two similar classes of officials&#x2014;Field-cornets and District Surgeons. A lot of fuss was made (about the Field-cornets, who drew the enormous salaries of &#x00A3;260 a year, while some of the District Surgeons drew, if he was correctly informed, as much as &#x00A3;1,200 to &#x00A3;1,900, with allowances. Well, many of these District Surgeons were chairmen of the political organisation of the party opposite, and had taken a very active part in the last elections. One of them had even come to one of his election meetings to oppose him. Had he dismissed any of them? No. He said that it would be beneath the Government to dismiss men on account of their private political feelings. Then, again, some of the trains in the Transvaal had, during the election times, been decorated with the Unionist colours; and they had banners <span class="col_687-688" refersTo="page_0353"/>on the engine entitled &#x201C;Vote Unionist,&#x201D; or &#x201C;Vote for Sir George Farrar.&#x2019;&#x2019; (Laughter.) He knew all the names of the officials who were concerned. Had he ordered their dismissal? No; because he did not think it was right to do so. At election time people were unduly excited, and not quite responsible for their actions. On the (Eastern railway line in the Transvaal he had seen trains galore with the legends &#x201C;Vote Unionist&#x201D; and &#x201C;Vote for Drew.&#x201D; He hoped that the hon. member for Pretoria East (Sir Percy Fitzpatrick) would stand up and put the debate on a higher level than had been placed by the hon. member for Georgetown (Sir George Farrar). If that was the spirit they were to have in the Union, he would deeply regret it. He again referred to the good work the Field-cornets had done. The police had been held up as an example, but that force, too, contained keen politicians; yet no member of his (the speaker&#x2019;s) party had urged their dismissal. It would be a sorry day for South Africa if every change of Government meant a change of officials.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that he would be a coward to his convictions, a coward to his constituents, and a coward to labour if he did not protest against the movement of the hon. member for Georgetown. Dirty weapons were all right for a dirty game, but clean men preferred to leave them alone. There was a time when the State used to decide what religion a man should follow, but if that were attempted now there would be a howl of indignation. The State had no more right to interfere with a man&#x2019;s politics than it had to interfere with a man&#x2019;s religion. Referring to the telegram quoted by Sir George Farrar, he said he held that the telegram was a private document, and as such the man who would reveal its contents, and try to make capital out of it, was a skunk (Laughter.) What he objected to was the wicked, cruel, despotic principles expressed that night. A few years ago they had these loyal patriots, British to the core, helping to flood this country with blood. (Cries of &#x201C;Oh, oh.&#x201D;) He did not wonder that they said &#x201C;Oh, oh.&#x201D; If those gentlemen who said &#x201C;Oh, oh,&#x201D; had any conscience they would be ashamed to think of it. Men had come from Canada, Australia, New Zealand, and other parts to fight for the franchise and full liberty to exercise it. And had they got it? No. Although they pretended that every man had the right to vote, when it came to the Civil Servant, he was expected to throw his away. No State, no Government had any moral right to interfere with a man&#x2019;s privileges and rights as a citizen, be he a railway man or a Field-cornet, or anything else. They had this same sort of tyranny in England a few years ago. Until a few years ago Civil (Servants in England were not allowed to join Trades Unions. He liked this sort of thing coming from the source it did. (Ministerial laughter.) He had had other telegrams sent to his constituencies, and mine captains and officials had been allowed to go and intimidate the men. He did not care whether the Premier sent the telegram or not. His point was that they had no business to prevent a citizen taking part in political life so long as he did his duty to his master.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Gape Town, Central)</from>
+
+<p>said the position was that if they allowed Civil Servants to take part in politics it would always be a matter of their being on the side of one party in the State, or the other. The result would be, they would have the same condition of affairs as they had had in America, where officials had been changed as the Governments changed. They did not want that state of things here. It was entirely in the interests of Civil Servants that they were prevented from taking part in politics.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said they were losing sight of the point referred to by the hon. member for Georgetown (Sir George Farrar) in the early part of his remarks, which was whether the duties now performed by Field-cornets could not be better performed by different officials. There had been complaints as to the way in which some Field-cornets performed their duties. The hon. member read an extract from a report of the Transvaal Landowners&#x2019; Association, in which it was stated that the duties of field-cornets were of an arduous and responsible nature, and demanded a considerable amount of tact and education, and that the work of these officials was not rendered easier by the fact that in the course of their duties they were frequently in conflict with the interests of their friends and relatives. The Committee went on to state that a number of complaints had been made to the Government by the association They ware of opinion that the field-cornet system was unsuitable to modern conditions, and was seriously handicapping the work of district administration. Mr. Chaplin put it to the Prime Minister whether the present system was calculated to get the work done in the best possible manner. It seemed to him that it would be much better if they were going to spend so much money on the system that they should have officials who devoted all their time to the office. At any rate, if these men were retained, they should not be allowed to take an active part in politics. Nobody, of course, said that they should not record their votes.</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg)</from>
+
+<p>said that the Field-cornets in the Zoutpansberg had rendered very valuable service in connection with East Coast fever. He proceeded to make an explanation in regard to a mistake made fay the field-cornet of his own district.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from><span class="col_689-690" refersTo="page_0354"/>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>pointed out that he had not referred to any particular field-cornet. He had handed his letter to the Minister of Agriculture to be passed on to the Prime Minister.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that it was difficult to sympathise with the complaints which had been made in view of the quarter from which they came. He did not think it was desirable that men in the Government service should be utilised as party agents.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>was sorry that the debate had assumed a character that had made it impossible for him to refrain from speaking. Lurking behind that debate was the burning question which had been the damnation of South Africa for years past, and that was the racial feeling. He thought the Prime Minister had taken the matter much more heatedly than he ought to have done. He (Mr. Botha) thought it was extremely unfortunate at the present time that parties were divided more or less on racial lines. Government should be exceedingly careful in their appointment of field-cornets, who had no right to take part in politics. Government should have issued instructions to both field-cornets and district surgeons, telling them to refrain from taking part in polities.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said that in moving the amendment he had secured the object he had in view. He would be very glad to show the Prime Minister a copy of the telegram, because no doubt many telegrams were sent, and that might be one of those which was sent without the right hon. gentleman&#x2019;s knowledge He (Sir George) did not think two wrongs made a right. All Civil Servants should be treated in the same way, no matter to which political party they belonged. As long as men were efficient and loyal, it did not matter what their polities were. As to the trains, two were decorated, but how many others were not?</p>
+
+<p>The amendment was then withdrawn.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>moved to report progress (Government cries of &#x201C;No.&#x201D;)</p>
+
+<p>The question was put, and the CHAIRMAN declared that the Noes had it.</p>
+
+<p>A division was called for, but was afterwards withdrawn.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transport">
+
+<heading>TRANSPORT.</heading>
+
+<p>The item was agreed to, and the Vote for Agriculture, as amended, passed.</p>
+
+<p>Progress was reported, and leave was asked to sit again on Monday.</p>
+
+</debateSection>
+
+<debateSection name="#payment_of_members_senate&#x2019;s_amendments">
+
+<heading>PAYMENT OF MEMBERS.<br/>SENATE&#x2019;S AMENDMENTS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>communicated a Message from the Senate, the words to be inserted being in italics, and those to be omitted in brackets, so that the amended resolution read:</p>
+
+<block name="quote">(1) Subject to the deductions, if any, [to be made in terms of section <i>fifty-six</i> of the South Africa Act, 1909, there shall be paid monthly by he Clerk of the Senate, or of the House of Assembly, as the case may be, to every member of the respective Houses, a sum at the rate of &#x00A3;400 per annum from the date on which such member takes his seat] <i>the Clerk of the House concerned may at the end of each month during a session pay, and thereafter until a sum of &#x00A3;300 has been paid to every member of the House of which he is Clerk, a sum at the rate of &#x00A3;60 per month, but not exceeding &#x00A3;300 for any session. The balance of the remaining &#x00A3;100 due to such member to be paid at the end of each year, commencing on the date such member took his seat.</i></block>
+
+<block name="quote">[(2) Before any payment is made to a member during a Session of Parliament he shall furnish to the Clerk of the House of which he is a member a certificate signed by him showing the number of days during the month on which he attended and the number of days, if any, on which he was absent and the reason for such absence.]</block>
+
+<block name="quote">[(3)] <i>2.</i> A member shall not be deemed to have been absent on any day during which he shall have attended a meeting of the House or any Committee of which he is a member, or if his absence is due to his illness, [or] the subpoena of a competent Court, <i>to not receiving timely notice of the intention to hold such a Committee meeting, to family bereavement or, to serious illness in his family.</i></block>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved, seconded by Mr. KRIGE: That the resolutions be considered on Monday Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-12-09T23:30:00">11.30 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

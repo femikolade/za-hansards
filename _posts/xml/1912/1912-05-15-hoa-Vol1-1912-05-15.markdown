@@ -1,0 +1,1865 @@
+---
+title: 'House of Assembly: Vol1 - WEDNESDAY MAY 15 1912'
+layout: debate
+year: 1912
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, May 15th, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-05-15T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North),</from>
+
+<p>from women residing in Natal, praying the House to consider the prevalence of crimes of violence by native males on European women and children, with a view to such steps being taken as may tend to mitigate the evil, and recommending more stringent forms of punishment in certain cases of outrage.</p>
+
+</speech>
+
+<speech by="#meyer">
+
+<from>Mr. <person refersTo="hansard_za">I. J. MEYER</person> (Harrismith),</from>
+
+<p>praying that a Post Office Agency be established in the ward Boven Cornelius River.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central),</from>
+
+<p>from David Collenette, formerly a Harbour Works blacksmith.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon),</from>
+
+<p>from D. J. L. van Blommestein, teacher.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein),</from>
+
+<p>from B. G. Badenhorst and 13,509 others, citizens on the Witwatersrand, directing attention to the prevalence of native crime, more especially of outrages on women, and children, and praying the House to consider the desirability of increasing police protection; establishing of compounds for the natives and their women; and of establishing training schools for white and coloured female domestic servants.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg),</from>
+
+<p>praying that H. S. Steyn be allowed to practice as medical practitioner.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg),</from>
+
+<p>praying that the hire charged for water drills be reduced from &#x00A3;4 per diem to &#x00A3;2.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#white_labour_motion">
+
+<heading>WHITE LABOUR MOTION.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved, as an unopposed motion, that the Order of the Day for Wednesday, the 29th inst.&#x2014;adjourned debate on motion on employment of white labour and on curtailment of importation of alien native &#x2018;labourers, to be resumed&#x2014;be discharged.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to, and the order was accordingly discharged</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#ascension_day">
+
+<heading>ASCENSION DAY.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>moved that the House, at its rising to day, adjourn until Friday, the 17th inst., at 2 o&#x2019;clock p.m.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_meetings">
+
+<heading>SELECT COMMITTEE MEETINGS.</heading>
+
+<p>On the motion of the MINISTER OF FINANCE, leave was granted to the Select Committee on Public Accounts to meet on Friday, the 17th inst., at 10.30 a.m.</p>
+
+<p>On the motion of the MINISTER OF FINANCE (for Sir Thomas Cullinan), leave was granted to the Select Committee on Scrap Iron Agreement to meet on Friday, the 17th inst., at 9.30 a.m.</p>
+
+<p>On the motion of the MINISTER OF THE INTERIOR, leave was granted to the Select Committee on Public Service and Pensions Bill to meet on Friday, the 17th inst., at 10.30 a.m.</p>
+
+</debateSection>
+
+<debateSection name="#second_appropriation_second_appropriation_part_bill_1912_first_reading">
+
+<heading>SECOND APPROPRIATION SECOND APPROPRIATION (PART) BILL, 1912.<br/>FIRST READING.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved, for leave to introduce a Bill to apply a further sum not exceeding one million pounds on account of the service of the year ending the 31st day of March, 1913.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#white_labour_policy">
+
+<heading>WHITE LABOUR POLICY.</heading>
+
+<speech by="#andrews">
+
+<from>*Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>moved to insert at the end of the motion: &#x201C;When the Government has given this House a definite assurance that the importation of native labour recruited north of latitude 22 degrees south will be prohibited.&#x201D; Continuing, the hon. member said that he took that course because he was extremely anxious that this matter should be settled as far as that session was concerned and that the House should be given an opportunity of expressing its opinion upon it The matter had been before the House previously, but they had really not got to know the Government&#x2019;s intentions. He hoped the House would recognise that this amendment was moved not from any obstructionist motive, but from <span class="col_2699-2700" refersTo="page_1356"/>sincere convictions in his own mind and that of his colleagues, that the matter was the most important that could be brought before the House for many years to come. (Hear, hear.) He would like to traverse the criticisms that had been given regarding the curtailment of the indentured native system. He found that hon. members in the House, and the public generally, agreed that there should not be any extension of native labour for doing white men&#x2019;s work, but it was when a definite proposal was placed before the House that they were told it was inopportune or threatened a section of the population, so it could not be entertained or deliberated upon He noticed that one of their local papers&#x2014;the &#x201C;South African News&#x201D; &#x2014;said &#x201C;they were quite agreed that it was necessary to widen the field of employment for white labour, but the policy that came from the North they had no sympathy with.&#x201D; He took it that as the &#x201C;South African News&#x201D; was considered to be a Government organ, this statement represented largely the views of the Government. What was this policy&#x2014;this white labour policy? If the public were not led astray, if they really knew what were the objects and methods proposed to be adopted by this much-abused and much-misrepresented white labour policy, he was assured that such pressure would be put upon the Government that they would have to take such steps, whether they approved or not. They were warned not to be in a hurry, but to make haste slowly. They were agreed that no revolutionary proposal would be tolerated in that House, would be adopted by the Government, or would meet with the good will or support of the people of the Union. The proposal they had put forward was not a revolutionary one. At present, from every indication, South Africa was not only making haste slowly, but was making haste in the wrong direction. (Hear, hear.) The white population was almost stagnant, and the native and coloured population was in danger of being overwhelming. The recent census had shown that the position in South Africa was exceedingly serious, particularly in Cape Town, where they found that there were 8,000 less white people than when the previous census was taken. As to the question of artificial aids and encouragements of native labour, he had no doubt that hon. members knew what he meant but there were considerable sections of the public who were not quite so clear on this, how the various laws tended, and, he thought, had been framed for the purpose of fostering and encouraging the recruitment and employment of unlimited numbers of black labourers at extremely low rates of pay. They had the indentured labour system in the Transvaal and the pass laws, all making the Kafir a more desirable labourer; laws which had been passed not to protect the white community, but to force the native labourer to do what he was disinclined to do, viz., to apply himself regularly to employment for wages. Then the sale of the liquor to natives was prohibited. He had nothing to say against that, but was this, he asked, done for the benefit of the native, to save his immortal soul? Not at all. Commercialism dictated this policy. One result of that policy had been illicit liquor selling. Probably they would find that their prohibition laws on the Rand had done more harm than good, both to the natives and the white people. Laws were passed which only affected the white man, leaving the black man out. He cited the case of the Workmen&#x2019;s Compensation Act in the Transvaal. That, he urged, had indirectly fostered the employment of coloured and native labour. The policy of all Governments in South Africa had always been and still was in the direction of breaking up, as far as possible, the native communal system. The Kafir standard of living was brought up against a white labourer when he applied for unskilled employment. They said that that policy should be reversed. They would rather encourage the natives to work out their destiny in their own country, and in their own way, guided by the superior knowledge and administrative ability of the white people of this country. Let them be agriculturists and pastoralists, as was natural to them, instead of being sent to labour in the mines. He ridiculed the argument that the more natives were employed on the mines the more white workmen would be employed. Bitter experience had taught the white workers that the more natives were crowded into the various occupations, the less room there was for white men. Continuing, he said he thought that the employers of the country should tell the men what they meant to do or what they wanted. He had read that morning that one of the Rand mining leaders deplored the policy of the Government in sending back the Chinese to their homes. Those employers wanted South Africa to be a sort of plantation colony. They could not hope to encourage the respectable, hard-working man by bringing in a lot of cheap labour. They were told that the white man was not the worker, and they wanted to retain that policy. If these employers did not want that, then let them say so and allow these artisans to emigrate to other countries where they could exercise their trades and become citizens and men. Continuing, he said that during the short time he had been in the House he had listened to the Bills brought in by the Government, and the speeches made by hon. members on both sides of the House, but there had been nothing which would lead him to suppose that it was the intention of the Government to build up a white population in this country. The Fencing Bill, the Land Bank Bill, and even the Land Settlement Bill did not solve the problem. He had seen a pamphlet sent out by the Manufacturers&#x2019; Association, which stated that they were unable to obtain enough artisans to <span class="col_2701-2702" refersTo="page_1357"/>carry on their industries. On the other hand, the secretary of the Master Builders&#x2019; Federation of South Africa had stated that it was possible to get hundreds in South Africa. On top of this they had all this talk about technical schools, industrial schools, and training schools. The remedy did not lie there. He pointed out the large numbers that were out of employment at the present time, and added that since he had been in Cape Town he had met many skilled men, who were waiting for ships to take them to Australia, many of them born and trained in this country. It had been said that artisans did net take much interest in the apprentices, but he would like to say that if an artisan were found instructing apprentices, he would very soon find out that his services were not required. It was a mean attempt and an unfair attempt to draw a red herring across the track of one of the most important problems which they had to face in this country. They were told that they did not like these boys. He would refer the House to the report of the Railway Workshops Commission, in which it was stated that the total number of apprentices in the shops was about 800, while the number completing their apprenticeship in 1909 was 128, 1910, 132, and in 1911 there would probably be about 160. The report went on to state that only a portion of these apprentices were absorbed by the workshops even when trade was booming, but it was evident that an increasing number of these young men would be thrown on the labour market year by year. In addition to this 800 which were to be found in the railways&#x2019; workshops, the mines and private workshops were turning out apprentices, and these, in turn, were being thrown upon the labour market. What was to become of them all? Technical education was not the primary necessity. The need was that those who had learned a trade should have an opportunity of exercising that trade.</p>
+
+<p>There was another question with which he wanted to deal; it was a question which had agitated and was agitating, the minds of the people on the Witwatersrand. It was the Black Peril question. They had been told that the Government was going to the root of the evil, and that a Commission was to be appointed. Well he hoped it would do good, but he doubted it. The root of the evil lay just again&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I wish to point out to the hon. member that the matter of Black Peril appears on the Order paper for the day.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>*Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown):</from>
+
+<p>I only wished&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must not deal with this question.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>*Mr. <person refersTo="hansard_za">ANDREWS</person>:</from>
+
+<p>I wish to say, with all due deference to your ruling, that the hordes of natives on the Witwatersrand, living a single life, are naturally a great danger to the community. Continuing, he said he did not see a satisfactory remedy in compounding these boys as had been done in Kimberley and elsewhere. He doubted if any solution lay in the com pound system, and he further doubted whether the mercantile section of the community&#x2014;he referred to the shopkeepers and traders&#x2014;would welcome the compound proposal. They all knew what it meant, and what it would lead to. They were told they should have either the compound system or total prohibition of the sale of liquor on the Witwatersrand or in the Transvaal, but he thought that there would be another outcry against interference with vested interests. The Minister of Native Affairs, some time ago, referred to the dignity of labour, and urged the white man to learn the dignity of labour. Now he challenged the statement that there was dignity in nine-tenths of the labour performed. Labour was only dignified under certain circumstances&#x2014;when it was for a good purpose and conducted on good, fair, and humane conditions. Labour was dignified when a man worked for the benefit of himself and his family at some useful work necessary for the community, bur when a man was engaged in adulterating the food of the people, however hard he might work, there was no dignity. When a shopkeeper sold shoddy goods and pretended that they were something which they really were not, then that labour was not dignified. The Minister of Native Affairs had also accused the white workers of wanting to set up artificial barriers between themselves and the blacks. It was not true. That was what they were protesting against. They did not want any laws made in favour of the white man. They said that the black man must work out his own destiny in his own way. Under their present commercial and industrial system, it was not always the best man that survived. The fittest man from the industrial employers&#x2019; point of view was the man who worked the longest hours, who was the most docile, who lived on the humblest fare, who submitted to any kind of treatment, and who lived in a hovel and produced many of his kind in order that they might go and repeat the process. Judged by that rule, what chance had a white man got against a Kafir. In a country where they held up that as the ideal, the white man must descend to the level of the Kafir or get out of the country. The Minister of Native Affairs had also said that the white man in this country would not work. Well, they were used to being insulted; but he would like to know who did the work which was performed in this country? White men worked just as hard here as in any other country, and they desired the opportunity to work. He intended to ask the House to divide on the question, so that the public could see how hon. members voted. Some of the members of the Opposition side of the House had stumped the Reef saying that the Labour men were wrong and <span class="col_2703-2704" refersTo="page_1358"/>wished to ruin the mining and farming industries, and turn South Africa upside down, but hon. members who said that were, silent in the House upon the subject. If the black policy were a good one, let them have Chinese and coolies instead of Dutchmen and Englishmen. They were told that they had to do their duty to the black; much the employers oared about that, the advantage of black labour being that it was cheap. Child labour in England was favoured in the early days of industrial development for the same reason, and would increase here if the employers were not watched. The white man was being driven out, and in future the country would have to be defended by a black army. Opinion in the constituencies was veering round to the Labour point of view, and hon. members would be serving the interests of South Africa if they limited the importation of alien indentured people. (Labour cheers.)</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>said it was not Government&#x2019;s intention yesterday to burke discussion on the motion introduced by the hon. member for Jeppe (Mr. Creswell), or to get out of the subject by a side wind. Everyone on the Government benches was prepared to come to an issue on this matter.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Is this in order, Mr. Speaker? The hon. member is alluding to the debate that occurred yesterday on the motion of the hon. member for Jeppe.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member is referring to the amendment before the House. The hon. member will proceed.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person> (continuing)</from>
+
+<p>said he was not reflecting on yesterday&#x2019;s vote at all. The Government&#x2019;s attitude was really the same that it was when he explained it in the speech he made when the hon. member for Jeppe first introduced the motion. The matter was crystallised into the recruitment of these native labourers from beyond latitude 22. It was desired that that importation should entirely cease, and that Government should give an assurance that it should cease before the motion was proceeded with. The Government could not give this assurance, and for this reason. The amendment of the hon. member for Georgetown proceeded on the basis that it was in the interests of the development and extension of white labour that this stoppage of importation from beyond our borders should be made. As he (Mr. Burton) understood it, the proposal was not based on the ground of the health of the natives; that alone would not probably have produced the motion. The motion was based on the reason quite frankly given. A great many of them had a great deal of sympathy with the expression in the motion, and as he said before, on behalf of the Government, he disliked the importation of alien coloured labour beyond our borders, but when he was faced with a proposition immediately to stop the importation of these people, he said he could not give an assurance on behalf of the Government that that would be done. And for this reason.</p>
+
+<p>The only ground upon which the Government would be justified in giving such an assurance would be the health of these people. That was to say, if Government were satisfied that the mortality among these natives, who were the subject of the motion, was of such a character and was so great that it would be a wrong and an improper thing, and also inhuman, to allow them to be brought into the country, the&#x2014;as he already had indicated to the mining people&#x2014;Government would stop the importation of these people at once. When he last spoke on this subject, he gave some figures to the House. These figures displayed a very serious state of things, but it was impossible to disregard the fact that, serious as the death-rate had been, there had been a very substantial reduction during the last six months. He said so in his previous speech. On some mines the death-rate had been so reduced as to be barely distinguishable from that of other natives, but in some of the other mines the death-rate was still exceedingly unsatisfactory. He had given instructions that arrangements were to be made that these tropical natives were no longer to be employed on the mines where the high death rate occurred. But it would be wrong for Government to say that they should not go to those mines where the death-rate had been reduced to reasonable limits. He was not in this matter concerned in the white labour view at all, but only with his duty in administering the native affairs on the score of the health of these people. It appeared to him that there were signs of great improvement. So long as that improvement continued to reduce the death rate to a reasonable figure, he was not prepared to say that the employment of these natives should be stopped. If, however, the condition did not improve, and it continued unsatisfactory, the Government would take proper steps to stop that importation. Apart from this matter of mortality, the Government were not prepared to go back upon the arrangements that had been made, and which, in his humble opinion, ought to be maintained. These arrangements were made by the Transvaal Government at a time when feeling ran high against the Chinese labour. It would be a breach of faith on his part and the part of the Government to go back on these arrangements, unless some substantial reasons were advanced.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said the Minister had been perfectly frank when he said that he could not take the view that they took upon this importation of natives from Northern Territories, because he <span class="col_2705-2706" refersTo="page_1359"/>stated that they had not brought in this amendment solely on account that the native health suffered. Quite true, they did not base their claims upon that ground only, but they did lay claim to this position: that in considering a question of this description, which though primary seeking to extend the sphere of white labour, yet, as legislators, it was their duty to take into consideration the health of the natives.</p>
+
+<p>Much more serious figures than those which the Minister had quoted he would quote. He had also read the Blue-book on Native Affairs for 1910, and he had occasion to read through the reports of various Resident Magistrates, inspectors of native locations, and medical men of the Union. It would be news to hon. members to know that they reported to this effect: that the published figures of the Rand did not give a true index of the death rate upon these mines. There was something more than the actual death rate to consider, and that was the spread of disease among the natives. From the reports of the Magistrates throughout the Union, they were told that syphilis was very widespread on account of the close association of the natives to large centres. The Magistrate of Dundee stated that the disease was on the increase and that it was frequently carried to the kraals by natives returning from Johannesburg. A distressful feature was that many of the children were born with genital syphilis. The Newcastle Magistrate reported also that the disease was steadily increasing. The Umlazi Magistrate reported that out of 1,000 natives examined, 142 had syphilis, namely, 18 men, 89 women and 25 children. The reports emphatically stated that the introduction of this disease could be traced in the first instance to natives who had gone to Johannesburg and returned to the kraals. Proceeding, the hon. member said he wanted hon. members to consider what was the fundamental principle underlying colonisation generally. The fundamental principle was the spread of the boundaries of a country in order to find scope for earning a living for the congested population of that country. The Union of South Africa is a unit portion of the British Empire, and whites who are British subjects have a right to earn a living in South Africa for which they are still paying taxation. They had also the other phase of the question raised, and that was the economic, and in that connection he would like to make reference to a statement by the hon. member for Georgetown that white men, in order to live in the country, would have to bring themselves down to the level of the Kafirs. He would draw attention to a leading article in the &#x201C;Cape Times, which stated most emphatically that the only way in which the white worker could hope to compete with the black, was, among other descents, a reduction in the scale of living, which meant that the white man, in order to compete with the black, had got to reduce his standard of living. The point was this, that in this country, more and more they were beginning to realise that a white man who did work of any sort, was slowly but surely having his standard of living reduced to the level of the Kafir, and where he said &#x201C;Hold, enough, I cannot go any further,&#x201D; he had to get out. (Mr. CRESWELL: Hear, hear.)</p>
+
+<p>They had often been charged with representing bodies of men called trades unionists, who objected to the native as a member of those bodies. He challenged the Minister to tell him any trades union which had introduced into its rule book a rule which prevented the coloured man or the black man from joining. (Hear, hear.) There was one trades union in this country which prevented the coloured man or the black man from joining the union, and, furthermore, not only prevented him from joining as a member, but absolutely prevented him from earning a livelihood at that particular trade. He referred to the lawyers&#x2019; union, the Law Society.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Nothing of the kind.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person> (Springs):</from>
+
+<p>Then I misread the papers. That was what I understood in connection with the Transvaal&#x2019;s Order of Advocates.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>It was proposed.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person> (Springs)</from>
+
+<p>said he understood that it was carried, and that that was the only reason which prevented the Western Province branch from joining with them.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof):</from>
+
+<p>That is not a trade.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person> (Springs):</from>
+
+<p>I would say to the hon. member&#x2014;and I do not say it in an offensive sense&#x2014;that that is a subterfuge. It is an association banded together to advance the interests of their own particular order, and that is what every trades union is. It is the only trades union which has a colour bar. Proceeding, the hon. member said that the only qualifications that all trades unions insisted upon were that a man must be competent in his particular trade, and must be earning a standard rate of pay. A man must also be of good character. The ultimate result of this policy of the Government in regard to native labour was going to be what the hon. member for Georgetown had stated&#x2014;the driving out of the white man and the installing of the black man in his place. Take the plastering trade. There was not a single white employee in the plastering trade in Cape Town to-day. He was sorry that hon. members on the Opposition benches had not spoken. He would have liked to hear an exposition from the hon. member for Germiston, who was recently stumping part of the country. Mr. Made-ley went on to say that he had gathered some rather interesting statistics relating to the employment of natives on the Rand from an official report which had been issued. He found that the average earnings of natives <span class="col_2707-2708" refersTo="page_1360"/>on the Witwatersrand Mines were 51s. 11d. per month. The cost of recruiting amounted to about &#x00A3;6 per native for a six months&#x2019; contract. Taking other expenses, housing, hospital, food, etc., he found that they had a total of &#x00A3;4 2s. 4d. per native per month as the cost to the mine owners. Taking 30 days&#x2019; work per month, they had a rate of 2s. 9d. per native per day. If they took it that one white labourer was equal to four native labourers, and they had 50,000 white labourers instead of 200,000 native labourers, they could afford to pay these white men 11s. per day.</p>
+
+<p>Continuing, he said that he had been in constant touch with the white and black labour of the country, and he said that the black man could do infinitely less than the white man. He was referring to unskilled labour. They on those benches had proved that from the economic point of view, from the point of view of health, and from the point of view of building up a white South African nation, that the exploitation, it was nothing else than exploitation, of the native of this country was doing infinite harm to the country. He thought that the House should lay it down that afternoon, by supporting the amendment of the hon. member for Georgetown, that the country&#x2014;this country&#x2014;must be run upon civilised lines. Neither the white man nor the native of this country was treated by the employers of this country in a civilised manner. Instead of placing obstacles in the way of the white man, they should give the white man a chance if the employers of this country wished to build up a South Africa that would be a sound South Africa in the future. If the white man were allowed to work on a civilisation scale, then they on those benches would not have anything to say. If the employers of this country were to create sound working conditions in this country, they would not say anything. But the conditions in the country were entirely different at the present time. Not only did they not allow the white man to do this work, but the native was not allowed to come freely. The native did not come along and ask for his job.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Doesn&#x2019;t he?</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>He does not.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>He does.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>*Mr. <person refersTo="hansard_za">MADELEY</person> (continuing)</from>
+
+<p>said that if he was ignorant on that point, then his ignorance was shared by most of the Magistrates in that part of the country which was affected. He went on to refer to the evidence of an official before the last Select Committee on Native Affairs. That official gave one instance where a recruiting agent gave a chief a large amount of liquor and greased his palm liberally in addition. That chief was required to supply a certain number of natives. These natives were sent. They fulfilled a contract, came back, and were turned out again the very next day. They were sent back to the mines, and fulfilled a contract for the second time. When they were returned they were sent to the mines again. He (the speaker) asked the official if these natives went willingly, and he was told by the witness that they did not go willingly, but were forced to go by the chief at the instance of the recruiting agent. He did not believe that twenty-five per cent. of the natives who were working on the mines went willingly. He hoped that the House would support the amendment which had been submitted by the hon. member for Georgetown. He regretted that members on the crossbenches had had to take this course in order to ventilate their views on this matter, which was of so much importance to the country. If they could have brought forward a motion on private members&#x2019; day without being blocked, as they had been blocked the other day, they would have done so. They found it impossible to ventilate their views in that way, and so they were forced to take the only course that was open to them. He hoped that the House would give its support to the amendment.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said he had not intended to take a part in that debate He could understand the motives of the Labour members in forcing this debate on the House, but he thought that after the remarks of the Minister of Native Affairs the matter might have been left where it was. But when arguments, such as those advanced by hon. members on the crossbenches, were put forward, then he felt it was his bounden duty to deal with them. In the first place the hon. member who had just spoken lost sight of the interests of the people most concerned, and those people were not the European miners, not the mining companies, but the natives themselves. Hon. members on the crossbenches always attempted to pose as the defenders of the natives so far as health was concerned. He gave them credit for kindly human feelings, but he could not understand them when they talked about phthisis, because they knew that whereas one native contracted the disease ten Europeans did so. (Labour laughter.) Yet they wanted to put white men in the mines, knowing that these men would work on and on until they were fatally infected, whereas the native did not work for more than six or nine months at a stretch. To his mind the motion that was brought forward by the hon. member for Jeppe meant the substitution of white labour for native labour in the mines and everywhere else in South Africa. It was an unblushing attempt to substitute white labour for native labour.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person> (continuing)</from>
+
+<p>said that native labour was the natural labour of the country. There was not a big public work in the country where the labour had not been performed by the natives.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from><span class="col_2709-2710" refersTo="page_1361"/>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why?</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person>:</from>
+
+<p>They are the labourers of this country?</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Who made them that?</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person>:</from>
+
+<p>You could not get white men to take their places.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Oh!</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person>:</from>
+
+<p>Yet the people who have been provided by Providence to do&#x2014;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Oh!</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person>:</from>
+
+<p>You want to substitute white men from other countries for these natives. Continuing, he asked why the employers of the country should not use the natural labour of the country. Another point was whether they would be able to get a hundred thousand white men &#x2014;he assumed that was the number from the terms of the full motion, of which the amendment of the hon. member for Georgetown formed a part&#x2014;to fill the places of these natives.</p>
+
+<p>Basutoland, Swaziland and the Bechuanaland Protectorate, as well as the Portuguese territory, and that great Northern heritage of Rhodesia were all outside the Union, and if the object of the gentlemen on the cross-benches were gained 100,000 native labourers would have to be dismissed in order to make room for white men, who would not work at the same rate of wages as the natives. He estimated that if these natives were replaced by white men the change would cost the mining people &#x00A3;10,000,000 more than it did at present, and the effect would be felt by all in South Africa, because they had lived, and were still living, largely upon the mines and the expenditure upon the mines. The expenditure upon low-grade mines was just as beneficial to the country as was expenditure upon mines which paid dividends, and the extra cost of replacing black men by white men would have the effect of closing down all the low-grade mines, and there would be a great loss not only to the mines, but also the whole community. The farming community would suffer most if labour became scarcer, for it could not compete successfully with the mining companies as to amount of wages. As regards the mining industry, he considered it had been the salvation of South Africa, As regards the importation of white labour he wished to say that surely every human being in the Union, or in South Africa, should have the right to obtain a living. He wanted the people of this country, whatever might be their colour, to have that right; he did not want 100,000 persons to be imported to take their places. As regards skilled coloured labour, it was used because people found that the work was performed as well as it was by white labour, and at a cheaper rate.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Yes, at a cheaper rate</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland):</from>
+
+<p>Surely it is the right of an employer of labour to pay only as much as he has today. Proceeding, he said that a fair wage was that which a man was willing to sell his labour for, provided he did so voluntarily and not under compulsion. The native and coloured labourers were satisfied with the wages they received on the mines. The wages were far higher than were paid in the old days. The mining industry, as a matter of fact, had been the means of raising the wages and of putting them on a different level to that of the old days. He wished to say that he believed that South Africa&#x2014;he was not referring to the Union only&#x2014;was able to supply all the labour wanted. He did not quite agree with the Minister of Native Affairs when he favoured the restriction of the recruiting of the natives from any part outside the Union. Of course, he did not agree with the importation from certain parts outside the Union of natives who died at a much greater rate than those from other parts. As a whole, he believed that there was sufficient labour in South Africa to meet the demands without having to import men from overseas. As regards the statement that a white man could do more work than the coloured man, he wished to say that that was not his experience. Another thing he desired to say was that native labour in this country was voluntary. He was one of the pioneers of Kimberley and he remembered men coming from far north to offer their services. They were attracted by the wages offered. So from the beginning the native had been willing to labour, and as regards their being helped to go to the large centres, it was only commonsense that the people who needed their services should offer them inducements.</p>
+
+<p>The natives were not forced to go to the mines from the Transkei, and it should not be called forced labour. If the amendment would bring into the country the people we wanted, he would vote for it.</p>
+
+</speech>
+
+<speech by="#labour_member">
+
+<from>A <person refersTo="hansard_za">LABOUR MEMBER</person>:</from>
+
+<p>Whom do you want?</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person>:</from>
+
+<p>Settlers on the land &#x2014;not unskilled labour, and he would be glad if any way could be found whereby European miners on the Rand might become such settlers before they were entirely incapacitated by miners&#x2019; phthisis. Continuing, the hon. member said if the supply of outside labour increased to such an extent that our own native labour would be shut out, then he would say that the importation should be stopped. His position was that native labour in South Africa belonged to the natives here. Things should be left alone, for, generally speaking, the white and coloured races were getting along well together. We did not want the disputes and strifes that belonged to the Old Country imported into South Africa, and that was one reason why he did not desire the importation of unskilled labour.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from><span class="col_2711-2712" refersTo="page_1362"/>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown):</from>
+
+<p>You don&#x2019;t want free men; you want slaves.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person> (concluding)</from>
+
+<p>paid a tribute to the character of the traders of the Transkei, who were not looked on by the natives as enemies but friends, and to the honesty of the natives who left the Transkei to work on the mines, the natives often returning and paying debts to the traders which the latter had long ago written off.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said it was impossible for them to understand the position taken up by the hon. member for Tembuland. With the extraordinary mental confusion which characterised the whole of his speech, the hon. member had been dancing with one leg on the native and the other on the white man, and occasionally resting his shoulder on the tropical native. What had the hon. member ever done to put a stop to this amazing mortality? Rather than make himself disagreeable to the men leading his party, he had never raised his voice to protest against this human slaughter. The hon. member evidently wanted the tropical native to have a monopoly of miners&#x2019; phthisis. The fact of the matter was that the hon. member&#x2019;s absolute obsession with the conviction that he was the instrument raised up in this land of Philistines to be the only person to defend the interests of the natives made it appear to him that anything anyone else proposed must be directly against the interests of the natives. He (Mr. Creswell) challenged him to show that the importation of tropical natives was in the interests of either the natives of Tropical or Southern Africa. Since the last time this subject had been discussed there had been a diminution in mortality of from 45 per cent.to 41.2 per cent. They would agree that was not one they could describe as a marked improvement, and he warned the hon. Minister that as soon as he took his eyes off, the improvement would cease again. But there was a more important question even than that. The Minister, in stating the position of the Government when he spoke a few months ago, said that the only ground upon which they could accept the amendment, or give this assurance, was upon the ground of the health of the tropical native. He said they had an engagement with the mining people which precluded them from taking any other course. He (Mr. Creswell) was naturally curious, as he had no doubt other hon. members were, to know what was the nature of the agreement with these high potentates which made it impossible for a Minister to pay regard to the demand made, and he asked that the particulars be laid on the table. He found that the so called agreement, reserving the right of the Government regarding recruiting labour in Portuguese Africa, began: &#x201C;My dear Mr.&#x2014;&#x201D; and was signed by &#x201C;J. C. Smuts,&#x201D; the present Minister of the Interior, and had nothing to do with the Government. The House ought to refuse to be bound by the agreement entered into at that time. And this monopoly having been created for these gentlemen to recruit labour in Portuguese East Africa, they think they should be considered as having been given some sort of moral right and should not be interfered with. He wanted to know what right the Minister supposed he had on grounds of health to intervene, and he wanted to know from the Ministry whether such an agreement as that, between the Government and certain citizens of the country, is to be an arrangement for perpetuity. He took exception, and he hoped that people, outside the House at all events, would also take exception to it.</p>
+
+<p>What surprised him immensely had been the silence of the Opposition benches, the party which was such a determined Opposition. (Hear, hear.) But the secret was out. Here they had a gross piece of political corruption in the year 1907; a little engagement which was to be construed as a binding engagement on the country in perpetuity, not to interfere with a recruiting arrangement, and all this time since 1907 those great politicians had been going about the country posing as a strong and determined Opposition.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Where were you in 1907?</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>replied that he was in Johannesburg; he was not in Parliament at the time. Opposition, indeed; it was not an Opposition; that great Unionist party was simply a little family party held together by a prostitute press. That was the only thing they had to lean on.</p>
+
+<p>They were tongue-tied, they could not speak, although there were a few rebels like the hon. members for Cape Town, Central, and Fordsburg who were not afraid of giving their views upon such questions. They were people who kept the Press and were kept up by the Press, and when anyone wanted the public&#x2019;s eyes opened to these facts, they on the cross-benches had to do it. Where was the leader of the Opposition? Why did he not raise his voice on this question? The policy of both parties was to try and let sleeping dogs lie, but there were some people who were determined to make this a white man&#x2019;s country, and this question would not be allowed to be burked. Although they had been compelled to take these measures, they were not going to have this country run and constantly subordinated to the dictates of wealthy potentates. The people of the country were going to govern themselves, and these two penny halfpenny agreements were eventually not going to carry any weight at all.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said that as reference had been made to him by the last speaker, he desired to add a few words to the debate. He regretted the action adopted by the Minister of Native Affairs in replying. It seemed to him that his attitude had changed since the time when the question was last before the House, <span class="col_2713-2714" refersTo="page_1363"/>because he now said that they could not interfere with the importation of native labour except on the question of health. He regretted when he said also that the Government were bound by the agreements that had been entered into, because he (Mr. Duncan) agreed with what was said, that the country should not be bound by agreements of such&#x2019; a nature. But when he had said this it did not mean that he would support hon. members on the cross-benches in obstructing the business and wasting the time of the House&#x2014;(cheers)&#x2014;and if they thought that, they took a very different view of the matter than he did. He regretted that the Government had not allowed this motion to be debated the other day, so that they could have come to a vote upon it, instead of having the time of the House wasted in an attack upon the Opposition that was at once unjustified and unparliamentary.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person>:</from>
+
+<p>I rise to a point of order. Is the hon. member in order in referring to the remarks of a previous speaker as being unparliamentary?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is merely a matter of opinion.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (proceeding)</from>
+
+<p>said of course he quite understood that if the remarks had been unparliamentary Mr. Speaker would have called the hon. member to order. Although he held exactly the same opinions as he had always held upon this point, he was not prepared to support the amendment. (Mr. CRESWELL: &#x201C;Oh,&#x201D; and laughter.)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the question that the amendment of the hon. member for Georgetown be agreed to, and declared that the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>called for a division, which was taken with the following result:</p>
+
+</speech>
+
+<p>Ayes&#x2014;5.</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Silburn, Percy Arthur</p>
+
+<p>W. H. Andrews and F. H. P. Creswell, tellers.</p>
+
+<p>Noes&#x2014;91.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Alexander, Morris</p>
+
+<p>Becker, Heinrich Christian</p>
+
+<p>Berry, William Bisset</p>
+
+<p>Beyers, Christiaan Frederik</p>
+
+<p>Blaine, George</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Botha, Christian Lourens</p>
+
+<p>Botha, Louis</p>
+
+<p>Brain, Thomas Phillip</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Burton, Henry</p>
+
+<p>Chaplin, Francis Drummond Percy</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Cullinan, Thomas Major</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Fitzpatrick, James Percy</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Harris, David</p>
+
+<p>Henderson, James</p>
+
+<p>Hertzog, James Barry Munnik</p>
+
+<p>Hull, Henry Charles</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p>Juta, Henry Hubert</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>King, John Gavin</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Long, Basil Kellett</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Macaulay, Donald</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Mentz, Hendrik</p>
+
+<p>Merriman, John Xavier</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Myburgh. Marthinus Wilhelmus</p>
+
+<p>Nathan, Emile</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Neser, Johannes Adriaan</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Phillips, Lionel</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Robinson, Charles Phineas</p>
+
+<p>Rockey, Willie</p>
+
+<p>Runciman, William</p>
+
+<p>Sauer, Jacobus Wilhelmus</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Searle, James</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Smartt, Thomas William</p>
+
+<p>Smuts, Jan Christiaan</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Theron, Hendrick Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Wessels, Daniel Hendrick Willem</p>
+
+<p>Whitaker, George</p>
+
+<p>Wilcocks, Carl Theodorus Muller</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Woolls-Sampson, Aubrey</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>J. Hewat and C. Joel Krige, tellers.</p>
+
+<p><span class="col_2715-2716" refersTo="page_1364"/>The amendment was therefore negatived.</p>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>was about to put the question, when</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>rose and said that there was a question put some time ago by the hon. member for Fort Beaufort, and he submitted that they ought to have an answer to that question before the question was put.</p>
+
+<p>The motion was put and agreed to.</p>
+
+<p>The Bill was read a first time, and set down for second &#x2018;reading on Friday next.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#land_bank_bill_in_committee">
+
+<heading>LAND BANK BILL.<br/>IN COMMITTEE.</heading>
+
+<p>On clause 15, Removal and disqualification for retention of office by members of a Board or Advisory Boards,</p>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>moved, in sub-section (2), paragraph (c), line 3, on page 12, to omit &#x201C;twelve months,&#x201D; and to substitute &#x201C;two years.&#x201D; He said his reason for moving this was that it seemed to him to allow a member of the Board to be absent six months out of twelve. He thought that was altogether too much, and that they should substitute two years for one.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>moved to add the following new paragraph to follow paragraph (c) of sub-section (2), viz.: &#x201C;(d) if he commit any breach of this Act or any regulation framed thereunder.&#x201D; There were, he said, certain things in section 14 which a member of the Board must not do. There was no disqualification if he did those things, and, therefore, in this additional clause he proposed to embrace everything that a member must not do.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that, with regard to the amendment of the hon. member for Durban, Berea, he did not think his hon. friend quite understood the clause. It meant that no member should, during any period of office, be absent for six months without leave of absence-If the amendment were carried, any member wanting to go oversea would, in effect, have to retire from the Board. In regard to the second amendment, that certainly he could not accept, that a member should be disqualified if he committed a breach of the Act or any regulation framed thereunder. He thought that was altogether too wide. The clause was sufficiently drastic already.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>said he thought the Minister was wrong. He thought a member of the Board should resign who wanted six months&#x2019; leave of absence out of a period of twelve months. In his opinion, six months&#x2019; leave out of a period of 24 months was quite enough.</p>
+
+<p>The amendment to substitute two years was negatived.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he thought some such provision as that moved by the hon. member for Von Brandis would be necessary, or they would not be able to get rid of a man. If it were a trivial matter, the Government would take no notice.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that there would be no option under this amendment.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>said he noticed that the section gave the Governor-General power in case of incapacity or misbehaviour. He thought that covered the matter. He moved as a new sub-section (d): &#x201C;If he be or become a director in any other banking or money-lending institution.&#x201D;</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said that certain stipulations were made in section 14 as to things that a member should not do, and the clause said that for contraventions a member may be removed. It was permissive.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Yes; put read on&#x2014;&#x201D;and his seat shall thereon become vacant.&#x201D;</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">NATHAN</person></from>
+
+<p>said he had overlooked that, and would withdraw his amendment.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>strongly opposed the amendment of the hon. member for Port Elizabeth, Central. It was quite superfluous, seeing that the bank would not compete with other banks.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he thought that plenty of men of standing would come forward who were not directors of banks.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that in every case in Australia every member of a board was a Civil Servant. He thought they were narrowing down the choice to too great an extent.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said he could not agree with the Minister. He pointed out that the provision contemplated by the amendment was to be found in clause 14. He did not think the amendment was necessary.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town. Central)</from>
+
+<p>said he would support the amendment; but he could not agree with the right hon. gentleman as to narrowing down the choice.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said it was quite clear that the choice was being narrowed down.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that when they elected directors they wanted men who would have single minds.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg North)</from>
+
+<p>pointed out that he was quite unable to follow the trend of the debate.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>read the amendment.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said they were going to restrict the choice to people <span class="col_2717-2718" refersTo="page_1365"/>who were not acquainted with institutions of the kind. Now these people could give valuable aid and he thought they should leave the clause as it stood. As a matter of practice they could select the right men.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said the case of mining companies was different.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said he did not think that the feared trouble would eventuate. The point was that the choice was being limited.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he was not so much afraid of directors of insurance companies. He was afraid of directors of banks, who, holding the two positions, might be tempted to get rid of bad mortgages.</p>
+
+</speech>
+
+<speech by="#neser">
+
+<from>Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom)</from>
+
+<p>moved that the words &#x201C;be or become&#x201D; be inserted in the amendment.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>accepted the amendment.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said he would like to know the exact meaning of the amendment.</p>
+
+<p>The amendment of the hon. member for Port Elizabeth, Central, was agreed to.</p>
+
+<p>On clause 16 (Meeting of the Board and Local Boards),</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person></from>
+
+<p>moved the insertion of the words &#x201C;once at least every month,&#x201D; saying that no time for meetings had been fixed in the clause.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that hon. members from every Province meeting at Pretoria would be a most awkward and inefficient method of conducting the business of the Board. In the neighbourhood of Pretoria they would find more brains to the square mile&#x2014;at least so the people said&#x2014;(laughter)&#x2014;than in any other part of South Africa. At any rate, they would find some very competent business men there. The Board should meet at least once a week, and the idea of having on it one man from each Province should be abandoned. They saw in larger affairs what a bad policy that was; it was localism run mad.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said there was another obvious reason why it was absurd to think of having one man from each Province&#x2014;the fees would not pay their railway fares. The right thing would be to have four men from the neighbourhood in which the headquarters of the bank were located.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>moved that the Board should meet at least once a week. He moved accordingly.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said the matter must rest with the Minister of Finance.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he would prefer that it should be at least once a month.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>thought that weekly meetings would be far better.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Even if there were no business?</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person>:</from>
+
+<p>Last time the Minister showed us what an enormous amount of business there would be to transact when he defended the salaries of these people.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>thought once a week would be quite enough. The Board would have lots of work to do if it met weekly.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sis <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked what would be the penalty for not meeting once a week. (Laughter.) Surely that was a matter which could be left to the Board.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said all the powers of the Local Boards had been taken away and they had become Advisory Boards, so that the Central Board would have to do the whole of the business.</p>
+
+<p>Mr. Merriman&#x2019;s amendment was negatived; that by Mr. Jagger agreed to.</p>
+
+<p>Clause 17 was amended at the instance of Mr. NATHAN by the insertion of the words &#x201C;prima facie.&#x201D;</p>
+
+<p>On clause 18, The business of the bank,</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>moved in line 39, to omit &#x201C;or guarantees for.&#x201D; He was opposed to loans to co-operative societies at all, he said, until he saw that the Treasurer had taken care to have very good guarantees. At the same time, their experience of the Cape Colony had been that many of these cooperative societies consisted of one or two solvent individuals and a number of men of straw. He thought the loans should be safeguarded, or this guarantee business would be a very disastrous one indeed.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>said the matter would arise when he moved to delete clause 29, and he hoped to have the right hon. member&#x2019;s support.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>did not agree with the amendment. The guarantee had had excellent results in the Transvaal in the obtaining of large contracts. The bank did its business on safe lines. In examining applications for loans from co-operative societies, the Transvaal Land Bank always inquired what were the possessions and the debts of the members, and the lending of the money depended on the result of the inquiry.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>thought it would perhaps be better that the amendment should stand over, and when they came to clause 29, it could be withdrawn or confirmed, and a good deal of discussion might be avoided.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from><span class="col_2719-2720" refersTo="page_1366"/>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>moved an amendment to the clause, to add a new sub-section (4), viz.: &#x201C;To applicants who are unable to furnish the security of first mortgage on land as hereinafter set forth on security other than that of immovable property on such terms and conditions as may be laid down in regulations from time to time, and made by the Governor-General on the recommendation of the Central Board. Advances made under this sub-section shall be for sums not less than fifty pounds and not exceeding two hundred pounds.&#x201D; His amendment provided for such people who could not borrow money on immovable property. In the Free State this provision had worked well, and had proved to the benefit of a large section of the community. The principle of this Bill should be to assist people on easy terms, and it should not be the intention to assist only such people as could help themselves. The amendment was therefore not opposed to the principle of the Bill. One of the objects of the Free State law had been to assist people to buy cattle, and a tremendous amount of good had been done in that manner. People who were not landed proprietors had been assisted to become landed proprietors. Unless the amendment were accepted, poor people without land would derive no advantage from the Bill.</p>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#smuts">
+
+<from>&#x2020;General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>could not agree with the amendment of the right hon. member for Victoria West, which, if adopted, would make it impossible for co-operative societies to benefit under the Bill. No risks were incurred if the clause was adopted, as the provisions in regard to co-operative societies were quite sufficient.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said his hon. friend was a business man, and he hoped he would bring his business experience into play. If a business man got a promissory note discounted, it was because he could afford to do so, and because he made probably a huge profit on his business. This bank could not afford to be run on ordinary commercial methods, because a commercial man, if he made 25 per cent. or more profit, could afford to make a few losses, but the land bank could not afford to take these risks. He certainly hoped the House would support the Minister in seeing that the bank was not led into channels of commercialism. The bank was simply established so as to assist the poor man in developing the land.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg)</from>
+
+<p>said if the amendment were accepted, co-operative societies might as well be left out altogether.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said what he objected to was that the bank was responsible for guarantees, and that would only tend to lead these societies to wilder schemes than otherwise they would be led into. Reading the Auditor-General&#x2019;s report, he found with reference to the loans in Appendix A, that they guaranteed for the sale of mealies to the stores on the Rand at certain prices, and if it were found that they could not supply these from their own stores, they would have to buy them from other people at greater cost, perhaps to fulfil the guarantee. It was a wrong principle to guarantee this. If they looked at section 29, in the event of a co-operative society running a business of this sort, the bank might have to take it over and run it themselves. That seemed an impossible thing to do; the bank was not established for anything like that. He knew of certain societies which, if the Government were to take over and run, would land them in tremendous loss. If the bank were going to do this class of business, it was not going to help the poor man, but ruin him. (Hear, hear.) This was a grave danger, and he did not know of anything that struck more deeply at the root of co-operation than this.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said his right hon. friend did not understand the working of this matter. He understood him to say that the Land Bank could make advances to co-operative societies.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person>:</from>
+
+<p>I will tolerate it.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Well, he tolerates and is agreeable to it. In the one case, proceeded the Minister, the Land Bank made, say, an advance of &#x00A3;10,000 to co-operative societies on their joint and several guarantees, and in the other they did not pay out money, but there was still a joint and several liability. Of course, they had no co-operative societies in the Cape Province. One of the great objections to the bank seemed to be co-operation, but they wanted to encourage co-operation, and that could only be done by encouraging it upon the joint and several liability principle. In regard to the right hon. gentleman&#x2019;s reference to the Auditor-General&#x2019;s report, there was no doubt that sometimes the strict objects of the bank in the Transvaal were abused. The object of the bank was to assist the agriculturist, but not the speculator. The Land Bank now exercised a very close supervision upon these matters, and when they found that a loan was used for other purposes it was called in. He was informed now that such abuses did not occur. He hoped that the committee would not agree to the amendment of the right hon. gentleman. With regard to the other amendment which suggested that the bank should make advances on promissory notes, he also hoped the House would not agree to that. If the bank was to be conducted on business lines, either they must have security on mortgage, or <span class="col_2721-2722" refersTo="page_1367"/>the security of 500 or 600 men. If they agreed to this, any member of Parliament would not be safe, as he might find his name on the back of a promissory note. (Laughter.)</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>asked why this question of guarantees by co-operative societies did not appear in other Bills? It did not appear in the Transvaal Act.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>It is in the Transvaal law.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea):</from>
+
+<p>Yes, but it was not in the original Transvaal law. Why should we go further, and extend the risk of the business you are doing with the co-operative societies under their contracts? You are only encouraging speculation if you do so. I think that the House should not consent to the extension of the Land Bank business in this way. I must press the amendment.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>said the hon. member was too much concerned with the administrative part of the Bill, and lost sight of the object, which was to help the poor man. He objected to the amendment of the right hon. member for Victoria West. Although co-operation in the Cape had been a failure, they should try and encourage it as much as possible in the future. He supported the amendment of the hon. member for Fauresmith, and could not see where the bank could suffer if good security were offered.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>hoped the hon. member for Victoria West would withdraw his amendment, and pointed to the good work done by co-operative societies in the Transvaal. A Land Bank law without the present principle in regard to co-operative societies would be useless. This principle had not been laid down in the original Transvaal, law, because at the time they had not sufficient experience of its benefits. Eventually, however, the matter had been altered, and to-day the co-operative societies were able to put in for large tenders for the mines, and, with the assistance of the Land Bank, they were able to proceed successfully. The mines asked for bankers&#x2019; guarantees in the case of big contracts, and the Land Bank backed up the co-operative societies. The bank had in such cases the double security of the collective responsibility of the members of the society and the security of the goods themselves. Of course there were difficulties. If the amendment were accepted, all the work in regard to co-operation would be lost, and all their efforts to bring the farmer and the consumer in direct contact would be lost. Everyone would acknowledge the benefits of such immediate contact. As regarded the loans to people without landed property, he regretted that he could not agree with the views expressed by the hon. member for Fauresmith. The Land Bank could only lend on the most excellent security. If this amendment were accepted, losses would occur, and who would have to bear such losses? The bank could not bear them. He appealed to hon. members not to wreck the bank in this manner. Let them first give the bank a fair start, and not impose too heavy a burden from the outset. The Land Banks in the Free State and Transvaal had worked well, but those institutions were still too young to judge of the results obtained. If they succeeded now, this amendment could always be introduced at a later date. After all, the Land Bank&#x2019;s first object was to lend money to people who could not help themselves, and extreme care was needed lest by a false start they might wreck the whole enterprise. They could not accept the amendment.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said that his idea of the proposals of the Minister of Finance was that he did not intend to dole out money to people, but help people who required help, and so advance the material prosperity of the country. He did not think that the Minister would be wise in accepting the amendment. He had another reason to advance. He knew of a case in the Free State where a man borrowed money on the security of two landowners. A bywoner borrowed the money&#x2014;he helped him to borrow it&#x2014;on the security of the owner of the farm he was working and his son. The money never got to the pockets of the bywoner, but was used by the farmer and his son for speculative purposes. This sort of thing went on through the Free State, and the Land Banks could not possibly get to know of it. In the days of the old Free State, as the hon. member for Ficksburg knew, the Government had a system whereby poor people could acquire land. Whenever any man wanted to hire land, he simply put his bywoner up, but the latter did not get the benefit of that land. For these reasons he hoped that the committee would help the Minister in resisting the attempt that was being made to allow this bank to be used for speculation by landowners. Referring to the amendment of the right hon. member for Victoria West, the speaker said the right hon. gentleman was very fond of getting up and telling them the experiences of other countries, particularly Spain, which he had recently visited Well, he would like to draw the attention of the House to the case of Denmark. There the Government were in the habit of advancing money to co-operative institutions on the same principle as was embodied in this Bill. He was surprised to hear the hon. member for Durban, who was a business man, say that it was dangerous or risky to advance money on these terms.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea):</from>
+
+<p>We are not dealing with the question of advancing money on guarantees, but the bank giving guarantees.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from><span class="col_2723-2724" refersTo="page_1368"/>Mr. <person refersTo="hansard_za">C. L. BOTHA</person></from>
+
+<p>said that that was not a personal explanation. That was a mere quibble. He would tell his hon. friend that he knew of a bank in this country which had advanced money to a co-operative society on the same terms of guarantee. It was perfectly good business. Of course, it was rather out of the way to some people who were in business and who were accustomed to charge ten per cent. for these advances. They were in a certain groove, and they could not understand that it was perfectly good business to go outside that groove. He thought that if hon. gentlemen would only study the clause carefully they would find that it would be far better to leave it as it stood. He looked at the clause from an impartial point of view, and he must say that he was unable to see any difficulty. He did not see why they should not adopt the clause as it was framed by the Minister.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>&#x2020;Comdt. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>supported Mr. Wilcocks&#x2019;s amendment, without which the land would be like a man with one leg, and a distinct set-back as far as the Free State was concerned. The principle had worked well then, and helped many a poor man on his legs again, who would otherwise have been hopelessly lost. A few losses might be suffered, but the good that would be done would, on the other hand, more than make up for them. He referred to what had been done in the Transvaal under the &#x201C;Arme Burghers Fund,&#x201D; in providing poor people with cattle, and urged that the rights given to the Free State some years ago should not be taken away. Their aim was to help honest people who wanted help, but could not help themselves. They were prepared to provide security, and he was sure the mover would be prepared to suggest the loans to be made for such periods in order that the Government might be protected from loss. Some bijwoners, for example, would get a couple of men to guarantee them. So he hoped the amendment would be agreed to.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>agreed with a good deal that had been said. It would be wrong to start lending promiscuously to co-operative societies. He could not agree to the amendment proposed by the hon. member for Fauresmith, as money lent on promissory notes was not always used for proper purposes. The bank should not be obliged to lend money to co-operative societies, but be able to do so if, after due investigation, they (the members of the Board) were satisfied as to the bona tides, etc., of the society. He thereupon moved to omit &#x201C;business of the bank shall be to,&#x201D; and to substitute &#x201C;board of the bank may from the moneys of the fund&#x201D;.</p>
+
+</speech>
+
+<speech by="#steyl">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>supported the amendment of the hon. member for Fauresmith, and deprecated the remarks of the hon. member for Bloemfontein in regard to a certain case in the Free State. The hon. member ought to have warned the Land Bank. He knew of cases where extremely deserving people, able only to give personal security, had been assisted and put on their legs again.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>hoped that the right hon. member for Victoria West (Mr. Merriman) would not press his amendment with regard to the guarantee at this stage. The guarantee would be dealt with in clause 29. The Transvaal Land Bank had been very successful and had made advances on safe lines, while it had done a certain amount of guarantee work on security which he thought was quite sound. He would not prevent the Board carrying out business of that kind if it thought that the security was good. So far, he did not think that the bank had lost a penny by it, and at the same time it helped the farmers, which, after all, was what they wanted to do. (Cheers.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he would not withdraw his amendment; he wanted it to stand on record that this was his opinion in the time which he saw coming. In the Transvaal farmers had guaranteed that they would deliver mealies at a certain price, but so many mealies were sent to England that there was a shortage in the Transvaal. The House would encourage speculation by this guarantee at the expense of the taxpayers. One unfortunate institution had already gone into liquidation. He was told that a widow had to sell two cows&#x2014;perhaps her little all&#x2014;so that she could pay up her share. One institution was down for &#x00A3;20,000; that almost reminded him of the Cape&#x2019;s experiences, where it succeeded so badly. He could understand giving a loan on sound security, but a speculative one was a dangerous thing.</p>
+
+</speech>
+
+<speech by="#alberts">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. J. ALBERTS</person> (Standerton)</from>
+
+<p>said experience in the Transvaal had taught them that the affairs of the co-operative societies were duly investigated before any loans were made. He could not agree with either of the amendments, and said if the latter were accepted the State would lose, as it had through the repatriation advances.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>supported Mr. Wilcocks&#x2019;s amendment, and said if good security were forthcoming the Government should make advances on promissory notes. Those who had land could easily get money. Some people would have to pay eight and nine per cent. to the ordinary banks, and everyone was looking forward to being able to obtain money on more reasonable terms. Under the Cape law of 1887 people obtained ground when they could pay one-fifth of the purchase price. Those farms were always being improved, and under Mr. Wilcocks&#x2019;s proposals <span class="col_2725-2726" refersTo="page_1369"/>other people of the same class could be helped. As regarded co-operative societies, he urged that the producers should be brought together and be able to supply direct to the consumers. He did not see any objection to the clause as it stood, and hoped the right hon. member for Victoria West would withdraw his amendment.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. S. THERON</person> (Hoopstad)</from>
+
+<p>supported the amendment of the hon. member for Fauresmith. The Prime Minister had stated that it would lead to loss if accepted though no loss had been stated, and if payment were required within five years, there would be little risk. The case referred to by the hon. member for Bloemfontein was of a wrong application of the money, and not of a loss. As regards the other matter, he urged that farmers should be educated to co-operate. In the past they had suffered considerably owing to lack of mutual confidence. The amendment moved by the right hon. member for Victoria West should not be accepted.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>thought that where a particular co-operative society was perfectly substantial and gave security of a satisfactory nature the Bank was perfectly justified in giving a guarantee. It would not be a guarantee for some speculative or doubtful thing, and he suggested the word guarantee should remain upon that subject of giving guarantees. Co-operative societies that entered into large contracts for mealies had at their backs a very substantial number of farmers, and there was no risk, especially in view of clause 27, which provided for a security. He hoped when clause 29 was reached that some word would be put in which would make it necessary to give the guarantees where there was absolute security. He was opposed to the amendment of the hon. member for Fauresmith and objected very strongly to the Agricultural Bank having the right to carry out or abandon any of its contracts for which it gave guarantees; its business was to see that behind the guarantee there was ample security and if the contracts were not carried out it was not the business of the Bank. He thought the clause required great amendment and he would ask his honourable friend not to press his amendment now, because he thought the guarantee could in some cases be useful, but it was one of those provisions which required to be hedged in with proper and satisfactory conditions.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">E. N. GROBLER</person> (Edenburg)</from>
+
+<p>feared if the amendment of the right hon. member for Victoria West were accepted the whole country, and especially the Transvaal and the Free State, would suffer. The Land Bank was being extended because it had been a success in the Transvaal, Free State and Natal. Now it almost appeared that some members wanted to shipwreck the scheme, by requiring the bank to be run on ordinary banking lines. He therefore supported the amendment of the hon. member for Fauresmith. He considered there was no point in the speech which had been delivered by the hon. member for Bloemfontein, and he opposed the amendment moved by the right hon. member for Victoria West.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>said in all co-operative societies established through the world the system was that the bank should take movable property as security, and here they had a proposal to make advances not on landed property, but on movable property. He thought the proposition of the Minister was quite reasonable, because he could lay down whatever regulations he pleased, and could demand that collateral security be given as well. The objections offered by the hon. member for Bloemfontein did not appeal to him at all, because there might be miscarriage or misappropriations in all sorts of business.</p>
+
+</speech>
+
+<speech by="#neser">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom)</from>
+
+<p>held if the amendment of the hon. member for Fauresmith were accepted, considerable losses would result, as had happened under the Arme Burghers Fund and a repatriation advances. He trusted a co-operative law would be introduced next session in which he hoped provisions would be made to enable such societies to borrow money from the Land Bank in order to help poor people with guarantees. If this amendment were accepted in this Bill, however, considerable losses would occur.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. J. W. DU TOIT</person> (Middelburg)</from>
+
+<p>said if poorer people wished to be helped they should join co-operative societies. As regarded the advances for animals, he wished to point out that these advances had been made through the Land Board, and not through the Land Bank, which only-lent money on good security. The Repatriation Department had shown how dangerous it was to lend on personal security.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. P. VAN DER MERWE</person> (Vredefort)</from>
+
+<p>supported the amendment of the hon. member for Fauresmith. Those who owned property could very well help themselves, but there were numbers of people who could not be sent to labour colonies and who yet deserved to be helped.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>said that he proposed to abandon the amendment, of which he had given notice, and to move a new sub-section (4), to provide for advances to farmers holding land under agreement of purchase from the Crown, or holding leases of land from the Crown. He did not propose to say anything with regard to this at present, as he hoped the Minister would allow the clause to stand over His proposed new sub-section was: (4) To farmers holding land under agreement of purchase from the Crown or holding land under lease from the Crown if the unexpired period of the lease be ten years or more.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from><span class="col_2727-2728" refersTo="page_1370"/>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said practically every argument he had heard had been in favour of his amendment. He only asked for assistance to persons on security to be fixed by the Central Board. He could not see any reasonable objections to helping a man who could get a guarantee from a landowner. Apparently this House wished to help one class of persons, and not another. In the Free State 517 people had been assisted by the Land Bank on the security of fixed property. Altogether &#x00A3;587,000, whilst in 580 other cases money had been lent on the security of promissory notes. Out of those 580 cases there had so far been no loss incurred or likely to be. What were they now going to do with those 580 people? Did the Government wish these people to become poor whites and sink even lower than the native? Hundreds of people at present paid 60 per cent. interest, and these people had to be helped. It would be his painful duty, he declared, to divide the House on the matter. There was a large class of people deserving of assistance; no promiscuous assistance, but assistance on sound security.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>said although he was satisfied that the poor man must be helped, the bank could not possibly proceed on the suggested basis. It must be run on business principles? He could not vote in favour of the Government lending money&#x2014;the taxpayers&#x2019; money&#x2014;on anything but fixed property. If they wished to be charitable, let them be as charitable as they liked, but out of their own pockets. (Hear, hear) Would the hon. member for Prieska lend his money on promissory notes? He could not agree with the other amendment either, as he knew of the good effects of co-operative societies.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>There are now no less than five amendments on this clause before the committee. As some of these are not upon the Order paper, and as they are of great importance, I would suggest that we should have an opportunity of seeing these amendments on the Order paper before voting upon them I would move, therefore, that the further consideration of this clause stand over.</p>
+
+<p>By leave of the committee, the clause was allowed to stand over.</p>
+
+<p>On clause 19, Purposes for which advances may be made by the bank,</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>moved the insertion after &#x201C;cultivation&#x201D; of the words, &#x201C;the blocking of sloots, dongas, and watercourses to prevent denudation of soil.&#x201D; The mover said these words appeared in the Free State Act. There was a tremendous erosion of the soil going on by the formation of sloots and dongas, and some farmers were anxious to prevent this unfortunate state of affairs.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Why didn&#x2019;t you give notice of the amendment?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">JAGGER</person>:</from>
+
+<p>It is not necessary in the committee stage.</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>moved that the sub-sections be taken seriatim.</p>
+
+<p>Agreed to.</p>
+
+<p>On sub-section (a),</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>moved to add &#x201C;sugar cane and tree plants.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he would accept the latter amendment.</p>
+
+<p>Both amendments were carried.</p>
+
+<p>New sub-section (b),</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>moved: That the following be a new sub-section to follow sub-section (a), viz.: &#x201C;(b) The harvesting and marketing of standing recurrent crops.&#x201D;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said there were other crops&#x2014;(an HON. MEMBER: &#x201C;Brandy&#x201D;)&#x2014;such as fruit, advances on which might be unsafe.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I cannot accept the amendment; we can better discuss it later on.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>withdrew his amendment.</p>
+
+<p>On sub-section (b),</p>
+
+</speech>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>moved to add the word &#x201C;farm,&#x201D; so as to qualify the word &#x201C;stock.&#x201D;</p>
+
+<p>The amendment was negatived.</p>
+
+<p>On sub-section (c)</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>moved in line 53, after &#x201C;land&#x201D; to omit all the words to the end of the sub-section. That seemed to him to open the door very wide indeed, and there would be a difficulty in saying where it would end, and might bring loss on the bank.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Better leave out all the words after &#x201C;liabilities.&#x201D;</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>said that liabilities on land meant liabilities secured on land. He moved in line 55, after &#x201C;liabilities&#x201D; to omit all the words to the end of the subsection, and to substitute &#x201C;in cases in which the board approves of an advance for improvements.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>thought they should strike out all the words after &#x201C;liabilities,&#x201D; and in that way the object they had in view would be met.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said the farmers of this country were unfortunate in their dealings in stock. In gold shares, nobody had been taken in more than the farmer.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from><span class="col_2729-2730" refersTo="page_1371"/>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Stock here does not mean that.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">MERRIMAN</person></from>
+
+<p>said it was never the intention of the Land Bank to discharge people&#x2019;s liabilities of all kinds.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said he entirely disagreed with the last speaker.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>suggested that the clause should read to &#x201C;discharge the existing liabilities on land, stock, and agricultural implements.&#x201D;</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>suggested that the clause read &#x201C;liabilities that have been incurred,&#x201D; as in the two preceding clauses.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>thought the amendment of the hon. member for Port Elizabeth made the clause worse than it was. It would be much more satisfactory to say &#x201C;existing liabilities on land.&#x201D; He could quite understand the position in which a farmer might be placed who was compelled to pay 7 or 8 per cent., and who went to the bank to take his mortgage over and pay the lower rate of interest; but if the bank was empowered to make advances for all existing liabilities, that would be a dangerous principle.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central),</from>
+
+<p>said supposing a man bought up 40,000 sheep, well, that would not be a liability upon land, but he might come to the bank and say he had to pay &#x00A3;700 or &#x00A3;800 and wanted to borrow money to carry out improvements, then the bank might advance him money on his stock.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved to omit all the words after &#x201C;liabilities&#x201D; in sub-section (c). He could not understand what fear there could be and what the objection was.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said it was never the intention to transfer one mortgage from one bank to another, but if a man was mortgaged up to 40 per cent. only of his property he might ask the bank to give him a mortgage up to 60 per cent. for the development of his land.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Look at sections 21-2.</p>
+
+</speech>
+
+<speech by="#beyers">
+
+<from>&#x2020;General <person refersTo="hansard_za">C. F. BEYERS</person> (Pretoria South)</from>
+
+<p>could not see how the amendment could have the desired effect. As long as the bond did not amount to more than 60 per cent. of the value, the Board could easily accept such a bond.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said he thought this should be settled by the directors of the bank. He thought it would be sufficient to allow the clause to stand, if they added at the end after &#x201C;liabilities&#x201D; &#x201C;incurred for the purpose of improvements.&#x201D; If they invited those who had mortgaged their farms to come to the Land Bank to replace mortgages already existing, the time would come when the Land Bank money would give out, because there were millions of money out on mortgage at higher rates than this. The clause appeared to him to have been drawn with the idea of helping the man who had incurred a liability for the purchase of his land to pay off unpaid purchase price, but they wanted to go further than that, because a common liability of farmers was in connection with stock. If the farmer could get money from the Land Bank to pay for that stock, a debt contracted before the Land Bank came into existence, he would be tremendously helped. At the same time he (Sir J. P. Fitzpatrick) thought it would be very impolitic to pay simply liabilities of any kind. It would invite a number of people to come and replace at the public expense what they had borrowed from others. He thought the directors ought to have some guide to show that that was not the intention.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>thought that would be found in clauses 21 and 22.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person></from>
+
+<p>said he preferred the clause as it stood.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said that one of the objects for which the bank was established was to help people who were paying 8, 10, or 12 per cent interest to get money at a lower rate. In every case a man must state what he wanted the money for, so that the bank could keep a check upon him.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said it happened that there were a lot of people besides farmers who had to pay a high rate of interest. If the hon. member who had just spoken and the Minister would apply that to its logical conclusion, then the bank must lend money on any security whatever to anybody and not to farmers merely. He would welcome the amendment of the Minister if he would do that.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said that he had an amendment on the paper to delete this clause, but after the explanation given by the Minister as to what was meant by &#x201C;special circumstances&#x201D; and &#x201C;existing liabilities,&#x201D; he would withdraw his amendment. He would, however, move to add at the end of the sub-section after &#x201C;existing liabilities&#x201D; the following words: &#x201C;which have been incurred under sub-sections (a) and (b) of this clause.&#x201D; He thought that the clause as it stood was far too wide.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>said he thought that the committee should adopt the clause as it stood in the Bill.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said that if they were going to frame legislation on hard cases then he thought that they would make very bad financial laws. He submitted that clause 21 was no safeguard. Clause 21 laid down that the bank could not advance on a second mortgage, but that had nothing to do with the question of development. The special point was that <span class="col_2731-2732" refersTo="page_1372"/>they were not giving money for the purpose of paying off existing debt, but they were giving money to assist in the material development of the country. The object of the bank was not to give cheap money for nothing at all, but to lend cheap money where it could be utilised to the best advantage in the development and advancement of agriculture. He thought that the amendment of the hon. member for Port Elizabeth should be adopted for the reason that therein something definite was laid down.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that there seemed to be a great deal of misapprehension with regard to the sub-clause. Most members seemed to &#x2018;be in favour of the bank being authorised to advance in order to cover existing liabilities. If the bank were authorised to pay irrespective of the debt then surely the rest ought to follow. He thought the committee should follow the advice given by the hon. member for Pretoria East&#x2014;that the matter should be left to the discretion of the Board. He accordingly moved in line 53, after &#x201C;liabilities&#x201D; to omit all the words to the end of the sub-section.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said that the object of the Bill was not to relieve a man of existing debt, but to help him to push forward agricultural development. The development of the agricultural re-sources of the country was the only justification for the passing of such a measure. If this did not result in the advancement of agriculture then they were not justified in passing this measure.</p>
+
+</speech>
+
+<speech by="#steytler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. L. STEYTLER</person> (Rouxville)</from>
+
+<p>thought a certain amount of discretion should be left to the Board to say if they had the funds that certain people should receive advances if the Board considered it advisable to make them. It was impossible to tie their hands by laying it down in the Bill itself.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>withdrew his amendment.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said they all appreciated what the hon. member meant by getting the benefit of development. Take the case of a man who borrowed money with which to make a watercourse. He knew of such a case, the man borrowing from a bank in the ordinary way, and he (Sir Percy) standing security for him. But the man was paralysed because the money might be called up at any moment. He (Sir Percy) thought the Land Bank ought to be able to make advances in such cases as this, but he did not think it could be done unless it were left to the discretion of the directors. He did not see how it was possible to safeguard what they wanted to safeguard without limiting the discretion of the directors.</p>
+
+<p>The amendments of Mr. Nathan and Mr. Currey were withdrawn.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said supposing a man had a place worth &#x00A3;2,000, and spent &#x00A3;1,000 on it, it would be worth &#x00A3;3,000. That principle was in the Cape Irrigation Act.</p>
+
+<p>The amendment of Sir E. H. Walton was negatived.</p>
+
+<p>On sub-section (e),</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>moved the deletion of &#x201C;wool and leather.&#x201D;</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that not a penny had been advanced in the Transvaal under this subsection.</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District, North)</from>
+
+<p>said wool and weaving industries were being started in the Transvaal and Free State.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>On clause 20,</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>moved an amendment for the purpose of omitting the mention of the definite sum of six million pounds. He saw no necessity for setting in the Bill any limit.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>expressed his willingness to accept the amendment.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central),</from>
+
+<p>referring to the amendment, said that Ministers went about the country talking about floating enormous loans&#x2014;five millions for irrigation, five millions for land settlement, and six millions for a bank; that would mean 16 millions. He thought the Minister of Finance should get hold of his colleagues and curb them. (Laughter.)</p>
+
+<p>The amendment was agreed to.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>also moved to insert &#x201C;per annum&#x201D; after &#x201C;per cent.,&#x201D;</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>moved to omit sub-section (3).</p>
+
+<p>Agreed to.</p>
+
+<p>Progress was thereupon reported, and leave granted to sit again on Friday.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-05-15T22:55:00">10.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

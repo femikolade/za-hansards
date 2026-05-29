@@ -1,0 +1,1695 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY MAY 28 1912'
+layout: debate
+year: 1912
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, May 28th, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-05-28T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon),</from>
+
+<p>from J. Pitcher, stationmaster at Caledon.</p>
+
+</speech>
+
+<speech by="#woolls-sampson">
+
+<from>Sir <person refersTo="hansard_za">A. WOOLLS-SAMPSON</person> (Braamfontein),</from>
+
+<p>from E. C. J. Brand, detective-inspector, late Transvaal Town Police.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">H. C. VAN HEERDEN</person> (Cradock),</from>
+
+<p>for legislation providing for the Direct Popular Veto</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division_error">
+
+<heading>DIVISION ERROR.</heading>
+
+<speech by="#marais">
+
+<from>Mr. <person refersTo="hansard_za">P. G. MARAIS</person> (Hope Town)</from>
+
+<p>called attention to an error in the division list for the &#x201C;Noes,&#x201D; on the motion by Sir Bisset Berry in Committee of Supply on the Estimates, that the further consideration of Vote No. 3 stand over, yesterday, his name not appearing therein, although he so voted.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>having called upon the tellers for the &#x201C;Noes,&#x201D; the list was corrected accordingly.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#royal_assent">
+
+<heading>ROYAL ASSENT.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>announced that the Governor-General, on behalf of His Majesty the King, had been pleased to give his assent to the following Bills:</p>
+
+<p>Irrigation and Conservation of Waters Act.</p>
+
+<p>Second Appropriation (Part) Act.</p>
+
+<p><span class="col_2993-2994" refersTo="page_1503"/>Second Railways and Harbours Appropriation (Part) Act.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#duty_on_imported_meat">
+
+<heading>DUTY ON IMPORTED MEAT.</heading>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>moved as an unopposed motion that Order of the Day No. 28, adjourned debate on motion on duty on imported meat to be resumed, be discharged.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>Annual report, Customs and Commerce Sections, Department of Commerce and Industries, 1911.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Regulations under Irrigation and Conservation of Waters Act.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#forest_bill_first_reading">
+
+<heading>FOREST BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was transmitted from the Senate.</p>
+
+<p>By direction of Mr. SPEAKER,</p>
+
+<p>The Bill was read a first time.</p>
+
+<p>The second reading was set down for Monday.</p>
+
+</debateSection>
+
+<debateSection name="#police_at_benoni_and_springs">
+
+<heading>POLICE AT BENONI AND SPRINGS.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (for Mr. W. B. Madeley)</from>
+
+<p>asked the Minister of Justice: (1) What is the number of police stationed in Benoni and Springs districts respectively; (2) what is the total population in each district; (3) what is the area of each district which the said police have to patrol; (4) whether his attention has been drawn to the recent perpetration of several outrages&#x2014;one of which ended fatally for the victims&#x2014;on lonely roads within the districts of Benoni and Boksburg; (5) if so, whether he is prepared to increase the number of police in the districts of Benoni, Springs, and Boksburg; and (6) how often are the roads connecting the various mines in the districts of Benoni and Springs, each with the other, and with the towns of Benoni and Springs, patrolled in every 24 hours, and by how many separate policemen?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>replied: (1) Benoni and Springs are both areas in the Boksburg district. The number of police in Benoni and Springs areas is respectively: Benoni, 30 Europeans (including 1 sub-inspector), 14 natives, making a total of 44; Springs, 10 Europeans and 3 natives, making a total of 13. (2) The population of Benoni is approximately 31,000 (9,000 Europeans and 22,000 natives), and of Springs 7,750 (1,750 Europeans and 6,000 natives). (3) Benoni: Area, 68 square miles, but in addition to this there are certain farms outside the municipality, which makes the total square mileage of the police area 85. Springs: 15 square miles. (4) The answer is in the affirmative. (5) Provision has been made in the Estimates of Expenditure for an increase in the police force at Benoni and Boksburg. The police establishment of Springs is considered reasonably sufficient. (6) Springs: The mine roads are patrolled daily, two mounted patrols by day (one morning and one afternoon). The streets in Springs township are patrolled by two European constables by day and one European constable and a native constable by night. Benoni: Most of the mines are visited once or more often daily, but the whole area is so intersected with roads and tracks as to make it quite impossible to patrol them all daily.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#natal_creamery_imported_butter">
+
+<heading>NATAL CREAMERY: IMPORTED BUTTER.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether he is aware that two thousand cases of butter were imported from Australia last week per S.S. Norseman for the Natal Creamery; and (2) whether the necessary precautions have been taken that this imported butter shall not be carried over the South African Railways as South African produce?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> (replying for the Minister of Agriculture)</from>
+
+<p>said that the number of cases was 1,264, and not 2,000. The answer to the second question was in the affirmative.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#cape_education_commission&#x2019;s_report">
+
+<heading>CAPE EDUCATION COMMISSION&#x2019;S REPORT.</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>asked the Minister of Education: (1) Whether applicants for copies of the report of the Cape Education Commission have been informed that none are available; (2) whether it is a fact that no copies are available for the general public or for leading educationists, and, if so, who is responsible for this state of affairs; and (3) whether the type from which the report was printed has been broken up?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>replied: (1) I am informed that applications were made to the Government Stationery Department before the printed copies of the report had been received from the Government printers, and that applicants were informed that no copies were then available. (2) 1,125 English and 600 Dutch copies were printed, which should be a sufficient supply for all purposes. Of this number 583 English and 265 Dutch copies were supplied to the Provincial Administrations for distribution according to their requirements; 411 English and 250 Dutch copies have been supplied to the Union Parliament, and there remains a balance of about 150 copies for sale. (3) The type has been broken up as it was considered that a total print of 1,725 copies was ample.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#naval_defence_policy">
+
+<heading><span class="col_2995-2996" refersTo="page_1504"/>NAVAL DEFENCE POLICY.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>asked the Prime Minister: (1) Whether his attention has been drawn to a speech recently made by the Right Hon. the First Lord of the Admiralty on the Naval policy of Great Britain and the position of the oversea dominions in that policy; (2) whether his attention has been drawn to speeches made within the last few days by responsible Ministers of oversea dominions endorsing the First Lord&#x2019;s naval policy; and (3) whether, in view of these recent developments, the Prime Minister will state what the policy of the Government of this Union is on the question of Naval defence and whether the Government is now of opinion that the Naval Contribution should be made on a revenue basis?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied: I have read the newspaper reports referred to. The Union Government has maintained close touch with His Majesty&#x2019;s Government on all questions of Imperial defence affecting the Union, and have no reason to think that His Majesty&#x2019;s Government is not satisfied with the proposals and policy of the Union which are contained in the Defence Bill and which have been explained in Parliament by Ministers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners_phthisis_in_barberton_district">
+
+<heading>MINERS&#x2019; PHTHISIS IN BARBERTON DISTRICT.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>asked the Minister of Mines: (1) Whether it is a fact that a considerable number of mine workers in the Barberton mining district have contracted miners phthisis, and, if so, (2) whether he will take steps to extend the regulations framed under the Miners&#x2019; Phthisis Allowances Act of 1911 in such manner as to make provision for such cases, or afford other relief?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person>:</from>
+
+<p>I have no information on the subject at present, but am malting inquiries.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#changes_of_railway_rates">
+
+<heading>CHANGES OF RAILWAY RATES.</heading>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether in connection with the reductions and alterations of railway rates and fares which were given effect to during 1911 and which were estimated to amount to &#x00A3;465,000 and &#x00A3;121.500 respectively, the Railway Board prepared and approved of the details of the reductions and alterations, and, if so, the date of such approval and the dates on which the altered rates came into operation; and (2) whether the details of such altered rates and fares were submitted to the Government for approval before they came into operation, and, if so, the dates when they were so submitted and approved?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: (1) Alterations and reductions involving the surrender of revenue to extent of &#x00A3;465,000 were considered in detail by the Railway Board and were approved by the Board on December 17 1910. The revised rates had effect from February 1, 1911. Alterations and reductions involving the surrender of &#x00A3;121,500 were also considered by the Board, and were approved by the Board on September 22, 1911. The altered rates were introduced on November 1, 1911, except in the case of reduced rate for fertilisers, which took effect from October 1, 1911. (2) This question was dealt with by me in my statement to the House the other day. No details of the rates were submitted to the Cabinet.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_board_and_proposed_lines">
+
+<heading>RAILWAY BOARD AND PROPOSED LINES.</heading>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether the records of the Railway Board contain any request from the Government to the Board to report on the several proposed lines of railway set out in the first schedule to the Bill now before the House to provide for the construction and equipment of certain lines of railway, and, if so, the date or dates of such request; (2) whether any instructions were given to any of the engineers in the employ of the Railway Administration to inspect, survey, examine, or report upon the routes of any of the several proposed lines of railway, and if so, by whom and upon whose authority and on what dates were such instructions given; (3) the dates when the Rail way Commissioners inspected the said proposed lines of railway; (4) by whom and upon what data and when the details of estimated revenue and expenditure of the said proposed lines were framed; and whether such estimates or any of them were submitted to the Government, and, if so, when; and (5) whether the printed report (U.G., 40&#x2014;&#x2019;12), laid upon the table on the 20th inst., contains all the reports and opinions of the members of the Railway Beard and of the railway engineers and other officers on the said proposed lines of railway, and, if not, if he will lay upon the table any reports and papers which may have been omitted from the printed report?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: (1) Yes; the request is recorded in Railway Board Minute No. 683, dated 10th November, 1911, and dealt with all the lines which appear in the first schedule to the Bill now before the House, with the exception of the following, viz.: Fauresmith to Koffyfontein, Schroeders to Harburg, Bethal to Zandspruit, in regard to which the request made to the Board to report thereon was conveyed verbally by the Minister during March last. (2) Yes, but only in respect of the following lines, the others having been surveyed or inspected before there was any intention of including them in this year&#x2019;s construction programme: Line, Krom River-Twee Riviers, date of instruction, 7th December, 1911, authority, Minister; Victoria West-Twee Riviers, 16th December, 1911, Minister; Carnarvon-Brandylei, <span class="col_2997-2998" refersTo="page_1505"/>13th January, 1912, Minister; Carnarvon-Williston, 5th February, 1912, Railway Board; Bethal-Zandspruit, 12th March, 1912, Minister; Fauresmith-Koffyfontein, 26th August, 1911, Minister; Vierfontein-Bothaville, 26th August, 1911, Minister; Aliwal North-Zastron, 27th March, 1912, Railway Board. (3) Between the 27th November and the 16th December, 1911, with the exception of the Bethal-Zandspruit and Schroeders-Harburg lines, which were inspected during March last, and the Fauresmith-Koffyfontem route, which was inspected prior to November, 1911. (4) The estimates of revenue and expenditure were framed by the General Manager and reviewed by the Railway Commissioners. They were based upon the revenue and expenditure on sections of existing lines considered to be best comparable with the particular lines under consideration, and in conjunction with the data obtained locally by the Administration. The estimates were framed during the period that the lines in question were under consideration by the Board. The estimates were not submitted to the Government, as they were not finally completed until the 14th May. Had they first been submitted to the Government the publication of the Board&#x2019;s report and its presentation to Parliament would have been delayed. (5) The answer to this question is in the affirmative, except so far as it relates to the reports of &#x201C;other officers.&#x201D; The only reports which have not been printed are the usual departmental documents called for by the Board embodying information required by it in the consideration of the lines under review.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#arrests_by_military_police">
+
+<heading>ARRESTS BY MILITARY POLICE.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Defence: (1) Whether citizens within the Union are liable to arrest by military police, and under what circumstances; (2) if military police have power to arrest civilians are they not required to state to the person or persons concerned the nature of the charge under which the arrest is made; (3) whether he is aware that three of the military police endeavoured to publicly arrest a civilian, a British subject, in Cape Town Railway Station, on the evening of Thursday, the 23rd May, without legal warrant or charge laid against the said civilian, to his great annoyance and inconvenience, regardless of the fact that he tendered his name and address: (4) whether he is aware that upon appeal to the Cape Town police, the victim of the aforesaid outrage was immediately released from custody upon giving his name and address; and (5) whether he will immediately cause an inquiry to be made into the matter?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>replied: (1) Citizens are liable to arrest by any person, whether Military Police or not, in the Cape Province, under circumstances set forth in Ordinance No. 73 of 1830 (Cape). (2) The reply is in the affirmative. (3) I am not aware that such was the case. (4) The soldiers in question believing a crime to have been committed, requested the person to stay until the arrival of a police constable. On the latter&#x2019;s Arrival the person&#x2019;s name and address were taken, and he was allowed to go. (5) The question of a prosecution of the person concerned is now under consideration.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#steamship_company_and_miners_phthisis">
+
+<heading>STEAMSHIP COMPANY AND MINERS&#x2019; PHTHISIS.</heading>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>asked the Minister of the Interior: (1) Whether he is aware that the Union-Castle Steamship Company are refusing to carry passengers suffering from miners phthisis except upon payment of large fees to the medical officers over and above the ordinary passage money, and, in the event of passengers refusing to pay such fees, are circularising their names among other shipping agents with a view to preventing them booking by other lines; and, if so, (2) what steps he will take to remove the inconvenience and distress caused by such action of the shipping companies to the large number of mine workers now leaving South Africa for other countries?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>replied: My attention has been drawn to this matter within the last few days, and I am instituting inquiries to ascertain what the position actually is.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#piece-work_in_durban_railway_workshops">
+
+<heading>PIECE-WORK IN DURBAN RAILWAY WORKSHOPS.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether he has received a request from the Durban railway shops employees for a referendum to be taken throughout the Union railway shops on the question of the introduction of piece-work; and, if so, (2) whether he intends to comply with that request and to act according to the result of the voting?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: The answer to question (1) is in the affirmative, and the answer to question (2) is in the negative; but in regard to No. 2 the matter will, as has already been intimated in the House, be carefully considered, both from the Administration&#x2019;s and the men&#x2019;s points of view, before any decision is arrived at.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#alleged_arrest_at_cape_town_station">
+
+<heading>ALLEGED ARREST AT CAPE TOWN STATION.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether his attention has been drawn to an incident which happened in Cape Town railway station, when a station policeman at the instance of the Military Police detained a civilian British subject without a warrant or charge laid against him; (2) whether he is aware that the said civilian proffered his name and address, and suffered considerable annoyance and inconvenience on account of the public manner in which the arrest was made; (3) whether <span class="col_2999-3000" refersTo="page_1506"/>he is aware that the said civilian was immediately released at the instance of the town police upon giving his name and address; and whether he will issue instructions for the purpose of safeguarding the liberty of citizens on railway and harbour premises?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: I am informed that no station policeman detained any man at the instance of the military police.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sufferers_from_miners_phthisis">
+
+<heading>SUFFERERS FROM MINERS&#x2019; PHTHISIS.</heading>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>asked the Minister of Mines; (1) What is the total number of (a) miners suffering from miners&#x2019; phthisis, and (b) dependants of miners, who have been sent to England and other countries, respectively, at the instance of the Miners&#x2019; Phthisis Board, in the following classification: A. (i.) Married miners; and (ii.) unmarried miners and widowers without dependants accompanying them; B (i.) widows without children; (ii.) widows with children and number of latter; (iii.) wives without children accompanying their husbands; (iv.) wives with children and number of latter; and (v.) children without parents: (2) by what lines of steamers were the said miners and dependants sent out of South Africa, and what was the cost of passages in each case; (3) were any miners or dependants sent on any of the Union-Castle steamships, and, if not, why not; (4) is it a fact that certain miners and dependants were, in the instance of at least one steamship, berthed upon the same deck and at the same end of the deck with Chinese, Indians, and Kafirs, without any separating partition, and, if so, what is the name of the vessel and to which line does it belong; (5) What kind of food and accommodation was specified in engaging passages, and what was supplied; and (6) how many miners died (i.) during the voyage, and (ii.) since repatriation?</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>replied: (1) The number of miners and their dependants who have been sent to England and other countries at the instance of the Miners&#x2019; Phthisis Board is: A. (i.) Married miners, 73; (ii.) unmarried miners and widowers without dependants, 26; B. (i.) widows without children, 2: (ii.) widows with children, 5, and number of children, 10; (iii.) wives without children accompanying their husbands. 6; (iv.) wives with children, 23, and number of children, 44; (v.) children without parents, 0. (2) The above were sent by the German-East Africa Line in all cases except 5, which went by the White Star Line, and 2 by the Union-Castle Line. The cost of passages was at third-class rates, except in one or two eases, when second-class rates were paid. (3) Two went by Union-Castle, who booked their own passages. It is understood that the Union-Castle Line does not book passages paid for by the Phthisis Board. (4) No specific complaint has been made on this subject, but a general complaint has been made that miners going by the East Coast on the ships of the German-East Africa Line mix with Chinese, Indians, and others. These steamers carry natives as deck passengers, but they are not berthed with European third-class passengers, nor need the Europeans of any class mix with them. (5) Food and accommodation are that supplied to passengers of the class for which the fares were paid. (6) (i.) No information has reached the Board as to any deaths of miners during the voyage; (ii.) since repatriation, the Board has notice of six deaths.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#business_of_the_house">
+
+<heading>BUSINESS OF THE HOUSE.</heading>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said: Mr. Speaker, my hon. friend the Leader of the Opposition has often asked for a statement as regards the business of this House, and I now wish to say a few words as to the intention of the Government in connection With the Bills on the Order Paper. As hon. members know, three measures have been completed, or practically completed, so far as both Houses of Parliament are concerned, and these measures are the Irrigation, Land Settlement, and Defence measfres. (Hear, hear.)</p>
+
+<p>The following are the other Bills which the Government proposes to proceed with during this session of Parliament: Judges&#x2019; Salaries and Pensions Bill, Railways and Harbours Services Bill, Administration of Estates Bill, Native Disputes Bill. Administration of Justice Bill, Miners Phthisis Bill, Land Bank Bill, Fencing Bill, Public Services and Pensions Bill&#x2014;(hear, hear) Police Bill, Immigration Bill, Estate Duties Bill&#x2014;(Opposition laughter)&#x2014;Financial Relations Bill. Railway Construction Bill, a small Bill about settlers in the Orange Free State, an agreement about land purchase in Bechuanaland, and of course, also, Appropriation measures. These, Mr. Speaker, are the Bills we intend proceeding with. If my hon. friend the Leader of the Opposition will look through this list, he will see that these Bills have either gone through one stage or another, even if only through Select Committee. The financial matters have not been proceeded with very fast, but they will naturally have to be passed. These, then, Mr. Speaker, are the most important Bills.</p>
+
+<p>Now, I only wish to say a few words to my hon. friends. Hon. members may probably think that we have too long a session and that the House should prorogue. I wish to emphasise, however, that in view of the Union of South Africa it is in the interest of South Africa that the sessions of this House should not be too short and that the consolidation measures required should be proceeded with. (Hear, hear.) We have at present the impossible position that in one Province taxation is levied on certain matters, while such taxation does not exist in other Provinces. In Australia, after Federation Parliament sat for over a year. I appeal to this House to assist the <span class="col_3001-3002" refersTo="page_1507"/>Government to bring about this consolidation. It is a great task, but if we fail to do it now we shall have to do it next year. Unless we do a little more now, it may become necessary to have a session of eight months. Therefore, Mr. Speaker, I hope this House will assist us to proceed with these matters, especially with these matters of consolidation. I do not speak now about political matters, but only about the consolidation measures which have become necessary through Union. I repeat this list shows the measures the Government intends proceeding with this session. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transvaal_and_o.f.s._land_settlements_amendment_bill_first_reading">
+
+<heading>TRANSVAAL AND O.F.S. LAND SETTLEMENTS AMENDMENT BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill was read a first time</p>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked if this Bill was included in the list read by the Prime Minister?</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Yes.</p>
+
+<p>The Bill was set down for second reading on Thursday next.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#unauthorised_expenditure_1910-11_bill_first_reading">
+
+<heading>UNAUTHORISED EXPENDITURE (1910-&#x2019;11) BILL.<br/>FIRST READING.</heading>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton)</from>
+
+<p>moved for leave to introduce a Bill to apply a further sum of money towards the service of the period from the 31st May, 1910, to the 31st March, 1911, for the purpose of meeting and covering certain unauthorised expenditure.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he would like a ruling on the point as to whether it was competent for a private member to introduce a Bill appropriating public money.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>As the hon. member for Barberton (Mr. Hull) was the Chairman of the Public Accounts Committee and was authorised by the Government, it would be competent for him to introduce the Unauthorised Expenditure (1910 &#x2019;11) Bill, which is intended to give effect to a report of the Select Committee on Public Accounts, if the Governor-General&#x2019;s recommendation is announced by a Minister.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>But the hon. member is not a Minister of the Crown.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I am aware of that fact.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>read the sanction of the Governor-General for the introduction of the Bill.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that did not give the hon. member authority to introduce the Bill.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is quite unnecessary The Governor-General does not give such an authority to any member of this House.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>asked whether it was competent for any private member of that House to bring in a Money Bill whether he had received authority or not.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the hon. member for Barberton, in his capacity as Chairman of the Public Accounts Committee, had asked for leave to introduce this Bill. The Bill could not be proceeded with without the sanction of the Governor-General. That had been granted, and now the Bill was read a first time.</p>
+
+<p>The motion was agreed to.</p>
+
+<p>The Bill was read a first time, and set down for second reading to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#direct_popular_veto">
+
+<heading>DIRECT POPULAR VETO.</heading>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>moved that the petition from E. Pells and 85 other residents of Worcester, praying for the introduction of legislation prohibiting the sale of liquor to natives throughout the Union, presented to the House on the 12th April, 1912; and the petition from the same persons, presented to the House on the 17th April, 1912, praying for legislation providing for the direct popular veto, be referred to the Government for consideration. The mover said that a good many petitions of a similar character had been introduced during the session, but as yet no opportunity had been given of explaining the reasons why the Government should accede to the prayer of the petitioners. He supposed that within a certain period of time the Government would introduce a measure to consolidate the liquor laws of South Mi Africa. So he would like to place some points before hon. members for their earnest consideration. In the first instance he would like to say that the native was less able to withstand the craving for drink than the European. Once a native commenced to drink he was tempted to drink to excess. One of the Rand papers had suggested with a view to getting rid of drunkenness and crime, that the Government should start certain canteens along the Reef, but he (the speaker) thought that this would be a wrong course to pursue. Experience had shown that once a native commenced to drink he would not be satisfied with the liquor which would be supplied in the canteens that had been suggested, the illicit traffic would still flourish as before. Continuing, he said that with regard to prohibition, it was desired by the vast majority of the natives of the country. He was a prohibitionist, but he, for one, would never press this upon people who did not desire it. It had been suggested recently that there should be total prohibition&#x2014;to whites and blacks alike&#x2014;on the Rand, but he could not support that unless he was sure that total prohibition was desired by the majority of the people residing in those districts. <span class="col_3003-3004" refersTo="page_1508"/>Another reason in favour was that there had been prohibition in the Orange Free State, Natal and Transvaal for many years, and the result had been that the natives and the Europeans had benefited to a considerable extent. He would quote from a pamphlet which was issued a few years ago by the Presbytery of the Dutch Reformed Church of Potchefstroom. The opinion of leading people such as Judge De Villiers, President Steyn, Judge Gregorowski, Sir J. Fraser, and Judge Stuart, was that the Ordinance of the Free State to which he had referred had done a vast amount of good.</p>
+
+<p>The old Free State law had practically remained a prohibitory law up to the present. There was prohibition in the Transvaal, but at Johannesburg there was a very large amount of illicit liquor dealing; but the drunkenness there would be very much worse but for prohibition. As to the Cape, he believed the majority of the people here were in favour of the prohibition of the sale of liquor to natives, but the obstacle was the political power of the brandy and wine interest In the Western Province; but that influence was quite out of comparison with the real number concerned in the industry and with the interests at stake. That power had been sufficient to prevent the prohibition of the sale of liquor to natives. In 1898 Mr. Rose-Innes (now Sir James) introduced a Bill to give Licensing Courts power to decide what restrictions should be placed on the sale of liquor to the natives. That passed in the Assembly, but in the Legislative Council &#x201C;up to prohibition&#x201D; was altered to &#x201C;short of prohibition,&#x201D; In Kimberley and Griqualand West there were more convictions for drunkenness among natives than in any other part, because &#x201C;Bechuana&#x201D; had been accidentally omitted from the Innes Act. It was time that the Cape law was levelled up to that in force in other parts of the Union.</p>
+
+<p>The hon. member then quoted statistics showing the amount of drunkenness prevailing in different parts of South Africa last year. In the Glen Grey district, out of an adult native population of 21,000 there were four convictions for drunkenness; in Cala four out of 6,500, and at Queenstown 862 out of 11,051, the proportion of convictions being: In Glen Grey, one in 3,500 of the adult population; Cala, one in 1,631; and Queenstown, one in 12. Prohibition was in force at Glen Grey and Cala. At Rouxville there were three convictions out of a population of 4,214, or one in 1,404, and at Aliwal North 128 convictions out of 4,910, or one in 38. At Butterworth, in the Transkei, where prohibition was in force, there were nine convictions for drunkenness, out of an adult population of 8,501, or one in every 944; while at King William&#x2019;s Town, where prohibition did not prevail, there were 223 convictions out of an adult population of 40,990, or one in 33. These instances ought to suffice to show the absolute improvement in the lessening of drunkenness owing to prohibition. At Kimberley last year there were 1,861 convictions out of an adult population of 29,103; but 15,000 of these were natives who were compounded at De Beers, where they had no liquor, and on quitting the mines the natives proceeded direct to the railway station and left the town, so that they could not be taken into consideration. Leaving the De Beers natives out of the calculations, the convictions for drunkenness at Kimberley were one in seven of the adult native and coloured population.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown):</from>
+
+<p>A dry climate.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (proceeding),</from>
+
+<p>said that at Johannesburg one out of every 23 of the native and coloured inhabitants were convicted of drunkenness in 1910. There was more drunkenness among the coloured people where there was no prohibition than among the natives where there was. At Graaff-Reinet last year, under the Innes Act, there were 112 convictions out of an adult coloured population of 5,386, or one in 48. In Worcester there were 255 convictions out of an adult coloured population of 5,914, equal to one in 23. Stellenbosch had 267 convictions out of an adult coloured population of 6,357, equal to one in 24. Paarl had 424 convictions out of an adult coloured population of 8,330, equal to 1 in 19. He contended that these statistics showed that the law which existed in Natal, the Free State, and the Transvaal, which prohibited the sale of liquor to natives and coloured people, was a sound law. He had taken some statistics in relation to the seaports. He found at Port Elizabeth that they had 629 convictions out of a native and coloured adult population of 13,173, equal to one in 21; at East London, 441 out of 14,618, equal to one in 33; and in Cape Town 1,592, out of a population of 19,469, equal to one in 12. In reference to Cape Town, he should explain that the returns only referred to the city and Sea and Green Point, the figures for Woodstock and Wynberg not being available.</p>
+
+<p>He had only one more locality to deal with, viz., the Rand. He had not got the figures for 1911, and so would take the returns for 1910. In Johannesburg there were 3,387 convictions out of an adult coloured and native population of 90,411, equal to one in 23. He believed that, without prohibition, Johannesburg would have been the lowest in the list, and that these figures were an absolute proof in favour of prohibition. In Germiston they had 1,106 convictions out of 35,052, equal to one in 31; in Boksburg, 547 out of 49,621, equal to one in 90; and in Krugersdorp, 460 out of 54,403, equal to one in 120. It was significant to take the figures as regarded the white population in some of these areas. In Boksburg they had 135 convictions out of a white population of 11,094, equal to one in 82, while in Krugersdorp they had 218 convictions out of a population of 15,782, <span class="col_3005-3006" refersTo="page_1509"/>equal to one in 72, the proportion for whites thus being larger than amongst native and coloured for both those places, but even these figures prove that even on the Rand prohibition does to some extent prohibit. If on the Rand they could at once consent to compound the natives on the mines, as was done at Kimberley, he believed that drunkenness and crime and even the &#x201C;black peril&#x201D; and a great deal of that which they were accustomed to associate with the Rand, would pass away and would never be heard of again. He thought he had given sufficient statistics to the House to enable hon. members to realise that, at any rate, there was ground for consideration of the question of putting the Cape Province on the same basis as regarded the sale of liquor to natives and coloured people as the other parts of the country.</p>
+
+<p>He would now deal with the second part of the petition, praying for legislation in the direction of the direct popular veto, somewhat on the same lines as the legislation carried out in New Zealand. In spite of the steps which had been taken in the past through Licensing Courts and so forth, the evil wrought by drink continued in this country, and he asked whether the time had not come when the people of this country should be allowed to say to what extent the liquor traffic should be carried on? He would not force prohibition on the people against their will, even if he had the power. Dealing with the steps taken in New Zealand, Mr. Schreiner quoted figures from 1896 onwards showing how the vote in favour of no licences being granted had grown. The number who voted for no licence in 1896 was 39 per cent. of the electorate, and the requisite three-fifths majority for no licence was not carried in any district, while 52 districts declared for continuance of the traffic; in 1899, 43 per cent. voted no licence, and 1 no licence district was established; in 1902 the vote for no licence rose to 49 per cent, and 6 districts became prohibitioners; in 1905, 51 per cent. voted no licence, and 12 districts became &#x201C;dry&#x201D;; and in 1908, 53 per cent. voted no licence, 12 districts remained &#x201C;dry,&#x201D; and 56 voted prohibition, but not by the requisite majority. In the districts a majority of three-fifths was required for the abolition of licences. In 1910, he went on to say, the liquor interest became alarmed, and an overture was made to the other side whether they would consent to give up the vote for reduction on condition that the vote should not only affect districts, which had been the case hitherto, but should affect the whole country. This was agreed upon. In 1911 a vote was taken with the result that the vote only failed by 20.000 of the 60 per cent., and there were only 13 districts that cast their vote against prohibition. Then, again, if the Temperance party had agreed to the compromise which the liquor party suggested, that instead of requiring 60 per cent. of the votes, 55 per cent. would suffice provided that the licences were not disturbed for nine years, if they had accepted that, prohibition would have been carried. He could easily prove to them how necessary it was to have their say in this matter. He did not know how it would result in South Africa, perhaps instead of having no licences there would be a continuance of them everywhere. Certainly if the majority wanted to continue the liquor traffic then let them do so, but if the majority said that it should not be carried on, then let their decision prevail. This was a fair proposition to the liquor dealers themselves, and he said, also, if the coloured people wanted this prohibition of liquor, they had a right to have it also. Some legislation should be introduced whereby the people should be able to determine whether they should have this liquor traffic or not. (Cheers.)</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>*Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley),</from>
+
+<p>in seconding the motion, said, as representing a constituency that had been alluded to, he did not think that the hon. member had been particularly fair to Kimberley, because he had only dealt with one phase of the matter. He hardly ever saw any drunkenness in Kimberley to-day amongst Europeans and Cape coloured.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Not to-day.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>*Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (proceeding)</from>
+
+<p>said the hon. member said no, not to-day. He would go further, and say that there was less drunkenness among the coloured people and Europeans in Kimberley than in any part of South Africa. With regard to the natives, there had been a great amount of drunkenness in Kimberley, but that was not the fault of the Kimberley people. If there was anyone to blame it was the Cape Parliament, who were asked to place Bechuanaland under the same restrictions as the rest of South Africa, but this was refused.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>You mutilated the Light Wine Act.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>*Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (proceeding)</from>
+
+<p>said he did nothing of the sort. He would like to say this, that he had received a large number of petitions from Kimberley praying that the Government would take into consideration the prohibition of the sale of liquor to the natives and also to adopt the principle of direct popular veto. He felt confident that members on both sides, when they came to deal with the matter, would realise that greater restrictions ought to be placed on the sale of liquor to natives. It would be better for the natives and better for the country in every respect, and when that time came he would assure the hon. members that he would cast his vote for increased restrictions upon the sale of liquor to natives.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from><span class="col_3007-3008" refersTo="page_1510"/>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he had misunderstood the hon. gentleman, because he thought he was drawing an unfair comparison between Kimberley and Benoni. He had often heard all these stories about more restrictions and total prohibition, but how could hon. members shut their eyes to the facts? Where was the traffic doing more harm to the natives&#x2014;in some places where the severest restrictions were imposed. (Hear, hear.) They were not going to make people sober by laws and restrictions, and they were going to have a great deal of underground crime. They had only to read the admirable report of the Department of Justice to see how many white people were in gaol for the crime of illicit liquor selling. It would frighten them to read it. This system was breeding a special class of criminals. There were many other ways of showing that they were looking after the natives&#x2014;one was to see that they were properly educated, and not treated like brutes. Mr. Merriman drew attention to the system of Municipal Kafir beer houses in Durban. Did the hon. member think that teetotallers were alone righteous, and fit for the Kingdom of Heaven? Moderation and the gradual tendency of civilisation would do more than their Jaws would do, but as long as they said that they would not allow their natives to advance, so long would it be impossible to advance their moral position.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>said they were all familiar with the gibe that they could make statistics prove anything. He could not quite agree with the right hon. gentleman that restrictions were useless. The Resident Magistrate at Queenstown, in his last report, said that the restrictions had worked well in his district. The proportion of convictions for drunkenness was extremely small. But then came the difficulty of dealing with the matter in the way mentioned. The last time he stood for Parliament he addressed a body of natives&#x2014;a very excellent body of natives they were&#x2014;and he was talking over this very subject, and defending the Innes Liquor Law, but one of the natives present asked: &#x201C;How can men impose these restrictions upon natives that they did not impose upon themselves?&#x201D; He felt that was difficult to answer. They might limit the canteens for the sale of liquor, because the native in going down the street and seeing a canteen, the tendency was to pop in and have a drink. The example of Johannesburg showed the futility of imposing severe restrictions.</p>
+
+<p>Although the authorities there had done their utmost to restrict the legal means of obtaining drink for natives, yet the illicit trader was the master of the situation, and they had not been able to devise means of doing away with him. That was the point of attack they should try to make in this country. He hoped that some method would be devised to deal with these matters. As regarded proper refreshment places for natives, there could be no doubt that the example of Durban had been an object-lesson to them throughout the Union. He wished to say that in the course of last session he had a private interview with the Minister of Native Affairs, and he put a question to him about having a law by which local authorities might be authorised to deal with this subject. The Minister said he quite sympathised with the object, agreed with the utility of such a law, and promised at a very early date to bring in a Bill. But they were getting near the end of the second session, and no such Bill had yet been introduced. He would like very much to see such a Bill. If the Minister would only bring it in, they (the Opposition) would help to pass it into law with a great deal more enthusiasm than they had welcomed some of his other Bills. He wished to take up the point raised by the hon. member for Kimberley, namely, the position of the Bechuana in Kimberley. That was a matter which was repeatedly before the old Cape Parliament, and there was still a very crying evil. The Magistrate of Kimberley said that, generally speaking, the natives in Kimberley could obtain as much liquor as they required, despite the provisions of the Innes Liquor Act, owing to the fact that the Bechuana and other natives in Kimberley were not included in the definition of &#x201C;native,&#x201D; as given by section 5 of that Act. That was a practical point to which they might draw the attention of the Government. There were many other important matters in the report which deserved the attention of hon. members of the House. For instance, there was an interesting report on the location at Ndabeni. The population of the location was 13,895, including 7,487 adult males, and the Resident Magistrate reported that in the whole of the location there were only 37 convictions in 1910, and all of them for minor offences. That was a very small proportion.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said he thought they were all agreed upon the object to be attained, namely, the inculcation of methods of sobriety amongst the native population, but he must say, so far as his own experience went, he was inclined to agree with his hon. friend behind him (Mr. Schreiner) rather than with the right hon. gentleman opposite (Mr. Merriman), because certainly their experience on the Rand tended, to his mind, to show that they would more nearly attain their object by enforcing total prohibition rather than by educating the native, so to speak, to take a moderate amount of drink. Now he must admit that the present state of affairs was very undesirable, but he did not think the police were altogether to blame. They were not allowed by law to deal effectively with the matter as they should be. A commission which investigated the whole question throughout South Africa recommended that natives should be trained in the use of liquor, so to speak, and should be allowed <span class="col_3009-3010" refersTo="page_1511"/>to have a certain amount, more or less on the lines now followed at Durban. The circumstances on the Rand, however, were not the same as those at Durban, and if such a system as had been set up at Durban were introduced on the Rand it would not attain anything like the same success. They had got, on the Witwatersrand, two large parties of natives. A large number were employed on the mines, and they had a large number employed as houseboys, and in warehouses and shops, and what might suit one class of native might not suit another, and on the merits of the case he thought it would be a very rash proposal to try on natives of different classes, some of them entirely uncivilised. He hoped that before the next session the Minister of Justice would go into the question very thoroughly and also inquire into the illicit trade in gold and diamonds, and bring forward measures to remedy the present state of affairs.</p>
+
+</speech>
+
+<speech by="#woolls-sampson">
+
+<from>*Sir <person refersTo="hansard_za">A. WOOLLS-SAMPSON</person> (Braamfomtein)</from>
+
+<p>said that the hon. member for Queenstown (Sir Bisset Berry) seemed to think that total prohibition had done very little for Johannesburg or the Transvaal, but he did not think the hon. member knew what existed prior to the introduction of prohibition. Before prohibition, it was impossible for families to live in the neighbourhood of the mines. There used to be regular drink orgies, and none of the old hands could contradict that statement. Public feeling became so strong that the Government of the day consented to prohibition. Crime was rife by day and by night. Now, on the Rand, they had a large number of people who had no right to be there&#x2014;people from the Mediterranean. They did nothing but hawk goods about the Reef they had no profession; and they were not connected with any industrial works for the good of the country. The mine managers would tell them that these people were so clever that they could not be caught, and that even when they were caught they were fined or imprisoned and afterwards allowed to go free. What the people of the Rand demanded was that these people should be prohibited from coming to the country and that those discovered in the illicit liquor trade should be deported at once, and if the opinion of the people of the Rand were taken it would be found there would be no dissent on that point. They knew who were carrying on the trade. There were men, but there were also women of the lowest character, of the most depraved type. They were responsible for a vast amount of the crime now on the Rand. It was no secret. It had been represented to the Government times without number. The police had made representations, and if these people were prohibited from taking part in illicit liquor selling the influence would be a very beneficial one. He was very glad to say, so far as they knew on the Rand, that these people were not men and women of the country&#x2014;(hear, hear)&#x2014;but people from oversea. If the Government would only use its prerogative and deport these people the result would be beneficial. Prohibition was one of the best things ever instituted on the Rand, and he thought it would be a terrible calamity if it were removed or even reduced in any form whatever.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said the hon. member (Col. Sir A. Woolls-Sampson) had made reference to a certain class from the Mediterranean. Probably he referred to Greeks and Syrians. Not a single case had been proved in the courts wherein an Assyrian woman had been implicated. He thought it had been proved that these women were a respectable and law-abiding community. Recently there had been a case in connection with a member of the Greek community, and the Magistrate had pointed out that no Greek woman had been before the Court during the last twenty years. He thought it presumption to say that these people were guilty of this sort of thing.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland),</from>
+
+<p>in reply, said that he did not give details so far as Kimberley Europeans were concerned; he only gave figures of two other places in the Transvaal. He happened to have the figures dealing with Europeans in Kimberley, and he found that there were 188 convictions out of a total population of 11,000. The proportion was 1 in 59. On the whole, it was a sober community. Then the coloured people of Kimberley were very sober, but when he quoted those figures he took them from a return that lumped natives and coloured people together. With regard to what the right hon. member for Victoria West had said, they all knew they could get something out of the right hon. member&#x2019;s speeches, if they went back far enough, which was quite contrary to his present opinions. He (the speaker) resided in Kimberley in the old days, and he could remember a speech of the right hon. gentleman&#x2014;he would look it up if he got time&#x2014;when he pictured the horrors of Kimberley&#x2014;that was before the days of prohibition and the compound system&#x2014;in that wonderful way he had. Those were days when no European woman could be in the streets on a Saturday even in daylight, and when the police used to go about on the Monday picking up corpses of natives who had died from exposure. He supposed that the reference one speaker had made concerning light wine had raised the ire of the right hon. gentleman and induced him to speak in the way he had done. He thought all thinking people would shrink from the suggestion that natives should be as free to obtain liquor as Europeans. Experience had shown that prohibition did a lot of real good. With regard to what the hon. member for Queenstown had said about the Queenstown statistics, he had received the number of convictions from the Magistrate through the <span class="col_3011-3012" refersTo="page_1512"/>hon. member, and with regard to the very few convictions at Ndabeni Location, it must be remembered that there were severe restrictions imposed in Cape Town.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#products_of_stock_farmers">
+
+<heading>PRODUCTS OF STOCK FARMERS.</heading>
+
+<speech by="#louw">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg)</from>
+
+<p>moved that a Select Committee be appointed to inquire into and report upon the conditions under which the products of South African stock farmers are disposed of, the committee to have power to take evidence and call for papers. The hon. member stated that the railways stood in the closest connection with the produce of the cattle industry. He had no desire to censure the Minister of Railways and Harbours, but felt that an inquiry into some railway matters was urgently needed. The farmer often failed to get trucks when he required them, and although he did not wish to blame the Department, it appeared to him that preference was often shown to the coal mines, and that the trucks were detained for too long a period. The Minister had stated that in Durban the trucks were sometimes kept 17 to 21 days, and the people concerned did not wish to pay for it. But if a cattle farmer kept a truck only one day he would have to pay 4s. They had heard a lot of talk about &#x201C;business principles&#x201D; on the railways, but it appeared to him that to allow a truck to stand idle in Durban for 21 days was not good business. A farmer who hired a truck had to pay 1s. to have it cleaned, and he thought that was not unfair, but for coal trucks that charge was not made. It often happened that when the farmer received his truck he found it covered with coal dust, and if valuable sheep were carried in a truck like that they became filthy, and their value was diminished. Sheep and wool ought to be carried in clean trucks. It had been his own experience that in sending wool in new sacks he had to deposit them in coal wagons, so that they reached their destination in a filthy condition. It was not possible for the sender so to clean the trucks beforehand that they would not soil the contents. They were always hearing the praises of Australian wool sung, but when they came to examine it they found that South African wool compared very favourably with it. It was true that in the European market wool from this country obtained lower prices, and there must be a mistake somewhere, and that being so, he favoured the holding of an inquiry. He felt bound to admit that the farmers here were largely to blame, owing to shearing on dirty floors and indifferent treatment of the wool. Those faults could be repaired. Blame must also be sought for amongst those who bought up the wool in the country districts. They often paid an all-round average price, the same for good and for inferior sorts. He was told that that was done in order to prevent dissatisfaction. It was a bad custom, bad both for the industry itself and for the country. A man who did his best was in that way discouraged and those who were careless were encouraged. The wool buyers mixed the bales up all together, and the market was in that way worsened. There was a great future for the export of skins, but meanwhile there was too much carelessness in slaughtering the cattle and in the treatment of the skins, as a result of which the value was diminished. Moreover, it was not good policy to brand the animals on the best part of the skin; it should only be done on the less valuable or valueless parts. The mealie and grain farmers had been substantially helped of late, and the speaker was not at all envious, though he asked that an improvement should be made in the transporting of cattle. In carrying slaughter sheep by rail the number per truck was 42, each sheep weighing about 55 lbs. When recently a farmer sent in one truck 84 lambs, each about 25 lbs. in weight, he was required to pay double freight, and that was unfair. A proper distinction should be made between the two. Such action by the railway administration made the sale of lambs totally impossible. Under the Cape Government they could carry 60 lambs at the price of 42 sheep. Then the butchers could get lamb; but not now. He invited the help of the hon. member for Cape Town, Central, who refused to eat goat flesh. It should be made possible to transport 60 to 70 lambs at the cost of 42 sheep. It was possible to carry about 100 slaughtered sheep at the same price as 42 living, and that also was not fair, seeing that slaughtered sheep were mostly imported. A society of wool buyers at Port Elizabeth had recently decided to deduct, after 1st July next, 12 lb., instead of 10 lb. as formerly, on account of the bags containing mohair. That agreement was made between Cape Town, East London, Queenstown, King William&#x2019;s Town, and Port Elizabeth. The bag in question weighed, as a rule, 8 lb., and often less, and it was unreasonable to deduct 12 lb. from the total weight in respect of which payment was made. Farmers should simply refuse to agree to that being done. The amount to be deducted should be brought back to 8 lb.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska),</from>
+
+<p>who seconded the motion, said the statements made by the last speaker could not be allowed to pass without notice. In the matter of the transport of sheep and cattle, prudence was of course necessary. He could not see why the farmer had to pay a shilling for cleaning the railway truck, seeing that it was usually filthy when he received it. The fact was that the animals arrived in a filthy condition, and their value was diminished. Then the freights were also too high, and a distinction ought to be drawn between sheep and lambs. Moreover, he could not understand why they should have to pay import dues on meat, seeing that it was not demanded in the Transvaal, and there <span class="col_3013-3014" refersTo="page_1513"/>should be more uniformity in the regulations concerning applications for and the use of railway trucks for the transport of produce. He again laid stress on the defilement of the animals whilst in transit in dirty trucks, and said that it resulted in their obtaining poorer prices for the wool than would otherwise be the case. Mr. Daverin, of Port Elizabeth, had himself said so. The speaker heartily supported the motion of the hon. member for Colesberg, and trusted it would receive the attention of the Government.</p>
+
+</speech>
+
+<speech by="#welcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WELCOCKS</person> (Fauresmith)</from>
+
+<p>agreed that too much attention could not be given to the cattle farmer and his produce, and that both animals and goods ought to be handled with care on the railway. If they were placed in coal trucks the wool and hides were injured. The wool dealers in the interior were dependent on the conditions which applied at the coast, and if 12 lb. was deducted from a sack of wool at the coast, the wool buyer had to do the same. In the long run it was the farmer who had to suffer in that respect, and an inquiry ought to be made into the question. At the beginning of each season the dealer decided more or less in accordance with the market news what price he would pay for wool. He only paid one price, and the owner of bad stuff got the same price. In that way a premium was set on slovenliness, and those who were neat and careful in their methods enjoyed no advantage. There was great lack of co-operation. If they had cooperative markets, payment should be made in accordance with the value of the goods, without favouring any individual. He hoped the Government would earnestly consider the matter.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>supported the motion. He entirely disapproved the action of the dealers&#x2019; associations in deducting 12 lb. for a bag which weighed 10 lb., and 10 lb. for an 8 lb. hag, containing wool. Formerly they deducted 10 lb., and even that was too much. In that way the dealers got 1s. 6d. worth of wool to which they were not entitled, and also retained the bag, which cost 2s. 6d., and so made 4s. on each bale. They could easily get rich in that way. The speaker did not think the tariff was too high; the railway could not be expected to work at a loss. It was impossible to expect the Government to do everything at the expense of the State, and he rather thought the scope of the motion was too wide.</p>
+
+</speech>
+
+<speech by="#becker">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismith)</from>
+
+<p>said there had been many accidents on the railway in the transport of ostriches, and only recently 17 were killed and 21 badly hurt owing to the slippery floors of the trucks. Three of the ostriches which had been brought from Barbary had broken their legs. He thought there should be special trucks for ostriches.</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>said the transport of cattle and produce was an important question for farmers, and a good deal could be done to improve it. One of the first things was to obtain more co-operation among the farmers. A good spirit had been shown at first in that respect, but it had afterwards slackened off, which was much to be regretted. He admitted that transport was sometimes very slow and that caused considerable, loss to the farmers, and that the cattle were sometimes for several days without food and water. Transport could be made much cheaper if they followed the Australian policy of having double-decker trucks on the railway, so that twice the number of animals could be carried, and certainly it ought never to be allowed that animals died from want of water. It should become a custom in times of drought to transport the animals by rail, and so save a good deal of money. An inquiry would be useful, and would also supply the public with useful hints. The wool and mohair industries were of great importance, and improvement was specially noticeable in the latter. The best mohair now came from South Africa. The speaker added that he had previously explained that owing to the prevalence of East Coast fever it had become necessary to import meat, and he was considering whether importation could not now be stopped. The session was too far advanced to appoint a Select Committee, as Parliament would have risen before the committee could report. However, the discussion had opened up the question, and could be continued during the following session. The hon. member might safely withdraw his motion.</p>
+
+</speech>
+
+<speech by="#smuts">
+
+<from>&#x2020;General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>said that notwithstanding all the improvements which had been made, he wanted the Minister of Railways to note that there were still many complaints of ill-treatment of animals. He feared that the railway authorities gave too much credence to their own officials and too little to those who complained. In one case a horse was carried from Pretoria to Randfontein, and was kept at one station en route for two days, although, the station-master well knew whose animal it was and that the owner was within easy call. Nevertheless, the statement of the stationmaster was preferred to that of the consignor. He thought that trucks for the transport of sheep might Very well be in three storeys without any fear of upsetting even on sharp curves. There were also many complaints about the carriage of fruit, whole boxes of which were stolen on the railways. Finally, he hoped the Minister of Railways would do his best to put a stop to thefts of that sort.</p>
+
+</speech>
+
+<speech by="#marais">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. MARAIS</person> (Hope Town)</from>
+
+<p>said that much had been made of the reduction of freights. Yet from De Aar to Maitland a truck of sheep previously cost &#x00A3;5 3s. 6d., and it had now been raised to &#x00A3;6 11s. 8d. In other respects also the tariff had been increased, and the speaker submitted figures to prove his statement. After examing those figures he had come to the conclusion that there was not much question of reductions. The new tariff had killed the sale of lambs. The motion was therefore a <span class="col_3015-3016" refersTo="page_1514"/>welcome one, and he hoped the Minister of Railways and Harbours would consider the question. The wool was collected in the local markets, and the dealers sold the (poorer sorts in the public market in London, whilst the best sorts were sent direct to the factories. The farmer, however, only received payment at the rates ruling in London for the poorer sorts.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. J. G. THERON</person> (Heilbron)</from>
+
+<p>said that in buying wool the dealers took no account of quality, and that sort of thing ought to be stopped. Mealies which were sent by rail were sometimes kept a long time at the stations lying in the rain. The farmer suffered badly from that, as he could not then sell his stuff.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>said that the new railway tariff for slaughter cattle had made the transport of cattle from remote districts impossible. The farmers could not sell the wethers owing to the high tariff, and the animals were therefore kept on the farm, to the detriment of the flocks. In Dordrecht and Barkly East there were at present twice as many sheep as was desirable. He was inclined to agree that the importation of double-decker sheep trucks would enable the necessary reduction in the tariff to be made. Owing to the slovenly treatment of wool on the railways, the farmers had lost heavily. He trusted the motion would be accepted.</p>
+
+</speech>
+
+<speech by="#oosthuisen">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>applauded the motion that had been brought forward, and said he regretted that the Opposition did not make itself heard on the subject. From the 1st July next the wool dealers had decided to deduct 12 lb. from every bale of wool. It was pure confiscation. Generally speaking, the bag weighed 7 lb., and it was unfair to deduct an additional 5 lb. If the appointment of the proposed Select Committee resulted in inspiring the dealers with more concern in the interests of the farmers, then it would justify itself. He moved as an amendment to omit all the words after &#x201C;That&#x201D; to the end of the motion, and to substitute &#x201C;this House, while agreeing that there is urgent need for an immediate inquiry into the conditions under which the produce of South African stock farmers is disposed of, is of opinion that, in view of the lateness of the session, the Government be requested to cause full inquiry into the question to be made during the recess in order to afford the House an opportunity of dealing with the matter early next session.&#x201D;</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#cronje">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>expressed regret that the hon. member for Wodehouse had lost courage in producing good wool. The hon. member should establish a cooperative society in his district, as had been done in Winburg, where the society had its own grader. The wool from Winburg went direct to Europe, and sold well there. The best wool was sold at Port Elizabeth, and went direct to the factories, and the poorer sorts were sent to the market in Europe. If they wanted to make an end of the wool buyers, the wool growers should form a society amongst themselves and decide not to sell their wool in South Africa. The motion was welcome, as it had brought forward grievances for the attention of the Government. There were many grievances in country places in connection with the railways. It often happened that when a farmer had requisitioned for trucks he failed to get them, and that was a state of affairs that ought to be improved.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>supported the amendment. Societies such as that at Winburg were not a success. He approved the principle, however.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said he did not think any purpose could be served by carrying the motion, because at that late stage of the session it would be impossible to have such an inquiry as the motion proposed. However, he wished to call the attention of the Minister of Railways and Harbours to the fact that some very extraordinary things were happening on the railway, and that it was desirable that the ventilating places in the cattle trucks should be made smaller. Recently he sent two valuable bulls by train, but unfortunately only one arrived at the destination. A search was instituted, and eventually the railway authorities stated that an animal corresponding to the description of the missing bull had been found along the railway line, the railway officials adding that the loss of the animal was due to the carelessness of someone in not properly fastening it up in the truck, thus allowing the bull to jump through one of the ventilators. (Laughter.) The Department now recognised that there was a possibility of someone having loosened one of the bars in the truck, and the Department proposed to pay as compensation 30 per cent. of the animal&#x2019;s value.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I am surprised at that.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I hope that I will be able to make them pay 100 per cent. The railways cannot contract themselves out of their liability as common carriers.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>They don&#x2019;t plead that.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (proceeding)</from>
+
+<p>said that the letter from the Railway Department went on: &#x201C;The bars across the windows of the truck must have been unfastened by someone, otherwise the animal could not have escaped. I am in a position to prove that a full-grown mule and heifer did escape through the ventilating spaces&#x2014;(laughter)&#x2014;and although the suggestion seems an impossible one, it is well within the bounds of possibility.&#x201D; (Laughter.) In conclusion, Sir Thomas remarked that the Prime Minister had referred the other day to the desirability of breeding a <span class="col_3017-3018" refersTo="page_1515"/>standard type of sheep. However, he (Sir Thomas) hoped that they would not continue to breed a type of bull that developed such acrobatic qualities as to enable them to jump through the ventilating spaces in railway trucks. (Laughter.)</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Oolesberg)</from>
+
+<p>said he was prepared to accept the promise of the Minister of Agriculture to leave the matter as it was, to take it up again next year. He, therefore,, withdrew his motion.</p>
+
+<p>The amendment was also withdrawn.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#oversea_clothing_contracts">
+
+<heading>OVERSEA CLOTHING CONTRACTS.</heading>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>moved: &#x201C;That in the opinion of this House it is desirable that all contracts for clothing required by the Government should, as far as consistent with true economy and the interests of the taxpayer, be executed within the Union.&#x201D; The mover said he hoped the motion would commend itself to the sympathy of all patriotic members. Recently a large contract was made with two European firms for the supply of 20,000 suits of clothing for the Post and Telegraph Department. The contract was for three years, so that a large amount of work which could, and should, have been done in the Union had been sent away. The total sum involved was about &#x00A3;16,250. Had the work been done in South Africa from &#x00A3;5,000 to &#x00A3;10,000 would have been spent in wages, which would have been circulated locally, thus assisting local traders and finding employment for a large number of people, for from 31½ per cent. to 60 per cent. of the total cost in the clothing trade went in wages. The work of the country should be reserved for the people of the country who had to pay for it, as far as it could be done with true economy and in the interests of the taxpayers. But the custom had grown up of sending away to other countries as much work as they possibly could and so creating the maximum of evil&#x2014;unemployment. These two contractors in England had no real interest in this country beyond this, that they got as much as possible and they gave the least possible in return. On the other hand, local contractors were employers of local labour. Local contractors had invested their money here; they paid rates and they paid taxes, and, more than that, they had to take their share of the local responsibilities. He only wished that in this country they could introduce an Act similar to the Australian Industries Preservation Act. From their local contractors they asked conditions that they did not impose upon the people oversea. No supervision was exercised over the conditions of labour in which these contracts were executed, they might be executed in Germany even. He held that it was not economy to send work away from this country, or to pay more for clothing in other countries than they could get it for here, if the return were equally good. One-third of the contract clothing, owing to stock sizes being sent out, did not fit, and had to be altered. The clothing sent out was not always suitable. Clothing adapted for Johannesburg was not suitable for Cape Town, and clothing adapted for Cape Town was not suitable for Durban. He maintained that the contracts could have been executed in a satisfactory manner within the Union.</p>
+
+<p>He mentioned that a charge of 5s. on one-third of the work per suit became necessary in order to deal with misfits and adapt the clothing to requirements. Local contractors guaranteed &#x201C;fit.&#x201D; It had been shown, he contended, that, provided a fair amount of work were given locally, satisfactory prices could be arrived at. He was not saying that they should give English prices, or anything of the kind. He rather thought that in this country they might give, say, 33 1-3 per cent. It was not a question of the English standpoint, but what was a fair price from the local standpoint. He would now give a few figures which he had taken from the returns as to the contracts supplied the other day. The London prices were as follows, the local prices being given in parentheses: Postmen&#x2019;s tunics, 7s. (11s. 9d.); trousers, 5s. 8½d. (6s. 1d.); messengers&#x2019; tunics, 6s. 3½d. (7s. 1d.); trousers, 5s. 2d. (5s. 7d.); knickers, 4s. 8d. 5s. 7d.); native suits, 7s. 8d. (12s.). In regard to the last item, Mr. Haggar explained that the reason of the difference was that in this country native suits would be made by tailors, but in England or Germany they were made by shirt makers. In the Cape Province, they were told, men were allowed 10 per cent. on the oversea price, that was, increase on the English price. That was not a true statement of the case. Although they were allowed 10 per cent., they had to pay 12½ per cent. on the cloth and on the trimming, so that that brought it down to a difference of 2½ per cent. only. In Natal it was maintained by first-class men that it was necessary to give a difference of 35 per cent. Although some of these prices in London were lower than the local prices, when they took the complete set such as he had given here, and they allowed Is. 8d. for alterations, the complete set in England was 48s. 8d., and locally 48s. Id. If that one contract had been executed locally at the very lowest rate there would have been &#x00A3;5,000 in wages to be spent locally. At the highest rate paid in Johannesburg there would have been &#x00A3;10,000 in wages. That being so, it was plain to see it would be a good thing if the Government would undertake as far as possible that all contracts for clothing should be executed within the Union, in order that the work of the country might be retained for the people of the country, who had to find the money.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>seconded the motion.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from><span class="col_3019-3020" refersTo="page_1516"/>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said the hon. member for Roodepoort had quoted from the report of the Industries Commission, and made a statement to the effect that the Union should be independent in the matter of food and clothing. It was much easier for him or the Industries Commission to make a statement of that sort than Satisfactorily to prove it. He thought that such an attempt as that, to introduce the manufacture of stock-made clothing into South Africa, was a thing to be greatly deprecated. In his opinion a hot climate, such as that of South Africa, was not suitable for the conditions under which the manufacture of factory made clothing was carried on. There was no need here for the establishment of spurious industries of that kind. They had large unoccupied tracts of country, and were calling out for settlers and others to cultivate the land, and they were asking for sums of money to fructify these lands. He would be sorry indeed if they were to spend money to manufacture shop-made clothing in South Africa. It was much better for the people to be employed in the open air than in factories, which would become in this country hot-beds for disease, and in which the moral fibre of the workers would be undermined. The establishment of such factories would be nothing less than a calamity for the country. Instead of encouraging the people to leave the land and work in these factories in the towns, it should be the object of the House to encourage them to go out into the country and cultivate the land. (Hear, hear.) With regard to the suggestion of a Government clothing factory, he thought the Government was doing enough in this country already.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said he hoped the House would accept the motion. What they wanted in this country in order to increase the population was industries that could support the people. Let them keep those things in their own hands as much as possible. He would like to have had the opinion of the Government, but he noticed the Minister was absent. If there was a kind friend in the House perhaps the Minister would be sent for (Laughter.)</p>
+
+<p>It being five minutes to 6 p.m.,</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>stated that in accordance with the Sessional Order adopted by the House on the 20th instant, he would now adjourn the debate.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>agreed with the motion, but not with all the arguments of the hon. member for Roodepoort. The motion was in the right direction. He feared the Government was already taking too much &#x201C;hay on its fork,&#x201D; and he feared if the Government started such a factory everyone would become an employee of the Government. They should not go too far. He moved that the debate be adjourned.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springe)</from>
+
+<p>seconded.</p>
+
+<p>It was agreed to adjourn the debate until Wednesday week.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_estimates">
+
+<heading>THE ESTIMATES.</heading>
+
+<p>The House went into Committee of Supply on the Estimates.</p>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<p>On Vote 5, Prime Minister, &#x00A3;8,473,</p>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he hoped that this vote would be criticised year by year.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>The same old horse.</p>
+
+</speech>
+
+<speech by="#walton"><from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (continuing):</from>
+
+<p>Yes; the same old horse, and the same old horse will win in the long run. The time would come when the reduction he moved, that the salary of the Prime Minister be reduced from &#x00A3;4.000 to &#x00A3;3,000, would be adopted. Continuing, the hon. member said that perhaps it did not serve any useful purpose to repeat the facts that had been made on previous occasions regarding this vote; the facts he meant being the salaries paid by other countries for similar services. It was the duty of those who held that the present administration of the country was too costly to put these facts before this House, until this Parliament or some future Parliament would realise the truth of it. If a time ever came when a change occurred, the first act the new Ministry would have to do would be to reduce the salaries of Ministers. If they paid &#x00A3;31,000 a year to Ministers that was not all that they cost the country. They cost the country a little more, because sundry houses had been taken over in Pretoria, and so he simply mentioned that because he desired to point out that this was not all that the Ministers cost the country. Australia was a larger country than South Africa. It had a larger population and much greater imports and exports. Its Ministers had greater responsibilities, yet they found that they paid only &#x00A3;12,000 a year for the whole of the Commonwealth Ministry. How did that compare with the &#x00A3;31,000 paid by this country? Take the case of Canada, again. He was only repeating facts that had already been before the House, but economics would force the country to rectify an extravagance which would bring the country to its senses in due course. The Canadian Prime Minister received &#x00A3;2,400, plus a sessional allowance of &#x00A3;500; the other Ministers received &#x00A3;1,900, and the total paid by the Canadian Government to their Ministers was about &#x00A3;20,000. Let them compare for a moment the wealth, population, and resources of that country with South Africa, and ask themselves why they were going <span class="col_3021-3022" refersTo="page_1517"/>to pay half as much again? Was it sensible? Was it a reasonable thing to do? Their object was to put these facts again before the committee and the country, so that not only this committee but the whole of the country would realise them. The Secretary of State in the United States of America received &#x00A3;2,400. He had enormous responsibilities, and they must not forget that the population of the United States was 100,000,000. Holland was the birth-place of a large number of the original white inhabitants of South Africa. What did they pay their Ministers in Holland&#x2014;&#x00A3;1,000 a year.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>It is a small country.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (continuing):</from>
+
+<p>It had a much larger white population than South Africa. The Dutch might be a slow-going people, but they were a sure people. (Loud Ministerial cheers and laughter.) They built on sure principles. They did not rush into wild expenditure and they saw to it that their expenditure was carried on within their means. Why were hon. members so indifferent, why did they shrug their shoulders every session? (An HON. MEMBER: They don&#x2019;t pay for it.) &#x201C;No,&#x201D; continued the hon. member, &#x201C;they don&#x2019;t pay for it, but they will pay for it.&#x201D; Surely they must realise that this was unnecessary extravagance, and though they know that the country ought not to pay these salaries, yet they could not get them to take a manly stand and say they should no longer be paid. Any member who took the trouble to analyse these Estimates would come to the conclusion, which the hon. member for Ficksburg came to the other day, that the salaries altogether were on a princely scale. The reason was because the Ministerial salaries were put upon so high a level that all the other salaries worked up in that direction.</p>
+
+<p>They had departed from the moderate level, and taken the highest level. What he complained of was that there was no consistency about this matter. Let him deal with one case which he had come across in the Railway Department. They had a financial secretary of the Treasury&#x2014;a most responsible office, which was filled by a most capable officer. (Hear, hear.) Now the office of financial secretary to the Railway Department was not nearly so responsible, and the duties were not nearly so arduous. But the secretary to the Railway Department got &#x00A3;1,750, while the Secretary to the Treasury got &#x00A3;1,500. This sort of thing made every man in the service make every effort to get these high salaries. Another thing was that they were face to face with a deficit for the year upon which they were just entering. The Treasurer had given them an estimated deficit of &#x00A3;670,000. These would be altered by some figures which had not yet been given them, and up to the present the Supplementary Estimates had not been placed before them. In round figures they were facing a deficit of three-quarters of a million for the year which they were entering. In addition, the Treasury was drawing half a million from the Railway Department. Then again, they had to remember that there would be additional expenditure in the future in connection with the Defence Scheme, and in other ways, and they knew very well that at the end of the present year they were going to be faced with additional taxation. He did not mind going back and telling his constituents that there would be additional taxation if he could tell them that this money was going to be spent in the best interests of the country and economically spent, and not used for the purpose of paying what the hon. member for Ficksburg had described as princely salaries. He did not mind if this money was being spent on the economic government of the country, but it was quite another thing when they found that this expenditure was not really justified. He declared that the salaries were out of all proportion and higher than any other country in the world. Were they the richest country in the world? Who was going to pay this additional taxation that was going to be demanded of the people of the country? Were the rich men going to pay? He submitted that the real burden would fall on the poor man in the country. They might place the tax on the rich merchant and the rich mine owner, but they knew as well as he did that all taxation reflected back on the poor man. They would not mind paying if it was required for the economical administration of the country, but it was a different thing when they found that this money was utilised for the purpose of these very high salaries. It might be hopeless moving this motion and dividing the House upon the motion, but they were going to do so. They would do it. They would move it, and divide the House year by year, and the time would come when they would carry this point. He would only say this to his hon. friends opposite, that when that time came they would be very sorry for not having accepted the motion he was moving that evening. It did not mean very much to Ministers, but it meant a great deal to the people of the country, and a great deal so far as the economical administration of the country was concerned. He would move that the salary of the Prime Minister be reduced by &#x00A3;1,000. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he would like to make the position which he took up on this question quite clear. The last time this matter was discussed he was, unfortunately, ill; but he would like to say at that point that it was very regrettable to him to see this question brought up again. He had hoped that before these Estimates came up again they would have had an Act settling the question of Ministers&#x2019; salaries once and for all. The matter could then have been discussed&#x2014;there might even be a conference between the two sides of the House&#x2014;and they would have an Act, as was the <span class="col_3023-3024" refersTo="page_1518"/>case in every country with which he was acquainted. This would remove the question from what appeared to him to be a most distressing controversy. If one did one&#x2019;s duty and spoke one&#x2019;s mind one perhaps made bad friends, and was told that one was looking at the matter from the personal standpoint. The last time this matter was under discussion he was as he had said prevented from being present owing to illness, and he could not register his vote. He held that a Minister&#x2019;s salary should enable a Minister to live in decency and comfort, and the? should not consider the view, which he regretted had been expressed, that it should be made &#x201C;worth his while.&#x201D; That was not the basis on which any man ought to enter political life. The greatest thing a man could do was to serve his country, and it was an object of worthy ambition. A Minister who was prepared to serve his country must scorn delights and live laborious days. He must sacrifice his time, often his money, and, perhaps, his advancement. He did it because it was the highest honour that could be paid a man to govern his fellowmen by their own consent. He agreed with almost everything that had been said by the hon. member for Port Elizabeth. They had heard that their Ministers&#x2019; salaries were absolutely the highest in the world, with the exception of England. He thought, if he remembered rightly, and he spoke subject to correction, that the salaries of the whole of the Cabinet of the United States totalled &#x00A3;24,000 a year. They administered the affairs of eighty millions of people, and, he believed, he thought he was right, they were respected. Ours amounted to &#x00A3;31,000. He was told by some of his friends to look at what was received by a member of Congress. He would be sorry to compare their Ministers with members of Congress. Although members of Congress got enormous salaries&#x2014;it was really a positive scandal&#x2014;he had never heard that the position of a member of Congress was much admired or looked up to. If they wanted to turn to America then let them take another example. Let them take the example of George Washington, who was the father of his country&#x2014;first in war, first in peace, and first in the hearts of his countrymen. What did he do? He would barely take his personal expenses, of which he kept a rigid account. He would take no more. That set the key note, the ideal in America. Continuing, he said that the scale of Ministerial salaries was reflected in these estimates. On the previous night he felt sure that not only that side of the House, but the other side of the House would have voted for any addition to the salary of a person whom they liked and respected, but they felt it was impossible for them, with words of economy on their lips, to vote for unnecessary expenditure. It was the same with these salaries. Willingly would they give Ministers whatever they could give them, but if they voted for high Ministerial salaries they would vote for a high scale right through the Estimates. That was not only the opinion of hon. members in that House, but the opinion of people in the country. He had attended many meetings and spoken to many people of all, shades of opinion, and they were all of the same opinion on this question. He had refused to discuss the subject at public meetings. He felt that that was not the place for such discussions. The proper place to discuss a matter of this sort was in that House. It was regrettable, however, that this discussion had taken place on the Estimates; the proper time to discuss the matter was when a Bill was before the House. He did not wish to prolong the debate. It had been inferred, he believed, that he had run away from his vote last term. He hoped he should never do a thing of that sort. He was very strong on the point&#x2014;he was strongly opposed to these high Ministerial salaries. He should be failing in his duty to his constituents and in his duty to the country if he did not vote for the motion that had been brought before the House by the hon. member for Port Elizabeth. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that he thought to was his duty to vote for the Ministerial salaries as they stood. Certainly George Washington was no example for them&#x2014;(loud laughter)&#x2014;and a boy who could not tell a lie and stick to it would never become a man. (Laughter.) He quite agreed with the sentiment of the right hon. member for Victoria West (Mr. Merriman)&#x2014;not with what he said, because he did not always mean what he said, or say what he meant. In the Commonwealth, he would like to point out, they had to find &#x00A3;35,000 for other Ministers, in addition to the &#x00A3;12,000, so that it did not come out so cheaply after all. Last year they had argued from these benches that there were some things they must maintain, and it was hinted that they must cut down expenditure, and if they wanted to cut down Ministers&#x2019; salaries because they wanted to reduce the salaries of others below them, he, for one, objected. He was in favour of the salaries as they stood, until they were dealt with in a Bill.</p>
+
+</speech>
+
+<speech by="#woolls-sampson">
+
+<from>*Sir A. <person refersTo="hansard_za">WOOLLS-SAMPSON</person> (Braamfontein)</from>
+
+<p>said that on the last occasion he had voted for the salaries as they stood, and he would do so again. (Ministerial cheers.) He wanted a poor man who was an able man to take his share in the government of his country. In the Transvaal there was a great prejudice against the moneyed man, and if the voting of the people were taken they would, he thought, be against the affairs of the country being entrusted in the hands of moneyed people &#x2014;(hear, hear)&#x2014;and he wanted these salaries arranged on such a basis that if a man was a good man, a patriot, but poor, <span class="col_3025-3026" refersTo="page_1519"/>nothing should stand in his way of becoming a Minister of the Crown. He quite agreed with what the right hon. member for Victoria West had said, but what were they going to do with the man who could not afford it? He did not think it was in the best interests of the country if the Portfolios of the country were only open to the man who was able to hold them, although he did not say that with any ill-will towards those who possessed money. Means should be given, not only to hold that position, but to uphold it. (Hear, hear.) He did not see why, if a man served his country, he should do so at his own expense.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that he regretted that that question should be brought up year after year, without putting the facts fairly before that House and the country. He would like to point out that, unlike the case they had been considering the previous evening, there was no increase of expenditure at all&#x2014;none being proposed. If a salary had been fixed like that, there was considerable reason for not altering it, either one way or the other. These Ministerial salaries were inherited salaries, and taken from the Transvaal, and had not been fixed by the Right Hon. the Prime Minister and his colleagues, but were inherited from the Crown Colony Administration. The right hon. member for Victoria West said that the feeling of the country was against these high salaries, and he (the hon. member) did believe that the feeling of the people of the Cape Province was against it, but he wanted to know whether the people who had that feeling had been duly instructed on the subject, and told that the salaries were inherited.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>It is not true.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person>:</from>
+
+<p>The salary of Sir Richard Solomon had been &#x00A3;4,000 under Lord Milner&#x2014;(Ministerial cheers)&#x2014;and the salary of more than one of his colleagues had been &#x00A3;3,000, and these salaries were pensionable, therefore the money value of the present salaries was actually less. The work of the Ministers had been enormously increased, and they had to superintend the work of the whole of the Union, instead of one Province, and their expenses had been largely increased, owing to the dual capital and having to keep two establishments. He had listened with pleasure to the speech of the hon. and gallant member for Braamfontein. Considering the circumstances in the Transvaal, matters were altogether different from what they were under the old Cape Colony. He believed, as he said last year, that the point which the committee had now to decide was not whether a certain salary was to be paid to the present occupants of the Treasury benches or their successors, but whether it was to be possible for professional men without private means to enter public life in this country. (Hear, hear.)</p>
+
+<p>He considered that the small extra expenditure was cheap if the country were to have the advantage of the services of the best of its sons and those who lived in this country. The real question was whether they were not by their attitude confining these offices to rich men and place men? Then it had been said that these salaries set the scale of salaries for the whole of the Civil Service. He should like to ask where that could be shown?</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Read the Estimates.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">FREMANTLE</person>:</from>
+
+<p>I have read the Estimates as carefully as the hon. gentleman opposite, and I am bound to say I cannot find any traces of the kind. There is no trace of that criticism which the hon. member has made being true. The General Manager of Railways was receiving the same salary as the General Manager of the Cape Railways had received, though his responsibility was far greater, and the scale of salaries laid down in the Estimates was most moderate. Proceeding, Mr. Fremantle said it seemed to him, after all, that these salaries were set, not by Ministers or by Parliament, but in the last resort they were always set by the scale of living in the country concerned. He would have it made clear that he had not been interviewed by the Whips in connection with this question, but he would say that it required a great deal less courage to take the course which he was taking and support this vote than it would to vote with hon. members opposite. (Opposition laughter and cheers.) He was never afraid to vote with hon. members opposite if necessary. He voted with them last night, and he should vote with them this evening, if it were not for the unfortunate fact that they were wrong. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that the hon. member for Uitenhage had drawn a red herring across the track. He traced these salaries back to Crown Colony Government in the Transvaal. Even if it were the case that these salaries had been so inherited&#x2014;which he had no means of knowing&#x2014;what had that got to do with the present case? The hon. member had said the salaries were inherited from the Transvaal. But surely there were other parties to the Union besides the Transvaal. There was the Cape Colony where Ministers&#x2019; salaries were on a lower scale. There was Natal, where salaries were also on a lower scale. Why could not those be taken as an example, just as well? He thought the hon. member for Braamfontein and the hon. member for Uitenhage were wrong in their premises. His hon. friend (Colonel Sir A. Woolls-Sampson) had spoken as if they were going to reduce these salaries to &#x00A3;500 or &#x00A3;1,000 a year. If this amendment were carried, it would still leave the Prime Minister with &#x00A3;3,000, which was as high as the salary of the Chief Justice of the Union of South <span class="col_3027-3028" refersTo="page_1520"/>Africa under the Bill introduced by the Minister of Justice. Let them take the salaries in Australia. There they paid a Minister &#x00A3;1,700 a year. Take the case of the United States&#x2014;&#x00A3;2,400. The cost of living in Washington was pretty well as high as it was in Cape Town or Pretoria. It was common knowledge in South Africa to-day that this had settled the salaries right throughout the Union. A gentleman, got out from Home to advise the Government in reference to the financial relations, was astounded at the salaries paid in South Africa, and he thought that gentleman went so far as to say that he did not see how South Africa could stand it for long. The universal feeling in the street and on the veld was against these high salaries. If it were not for the party aspect of this question, hon. members opposite would be against these high salaries. Take the case of the Judges&#x2019; salaries. They had seen hon. members opposite support the reductions proposed in the Bill of the Minister of Justice. He should say that the position of a Judge in South Africa&#x2014;and this included the Judges of Appeal&#x2014;was certainly of as much dignity and importance as that of any Minister, and yet they proposed to pay the Judges less. (A VOICE: &#x201C;They have pensions.&#x201D;) He should say that the pension was very small indeed. He had been in good hopes that the Ministers, knowing the feeling which existed in the country, would have come forward and avoided all this debate.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton)</from>
+
+<p>said he was extremely sorry the question had been brought up again. He had hoped, after the long and very distasteful discussion in the committee last year, that hon. members opposite would have had the decency&#x2014;(Cries of dissent.) He wanted to repeat that it was a most unfortunate thing that the discussion should have arisen again; it was unworthy of the hon. members opposite and unworthy of that House. (Hear, hear.) Last year he felt, as he felt now that he was free, that a lot of the talk was humbug. (Hear, hear.) It was not sincere. The discussion had proceeded on Cape lines, and was unworthy of the Cape. He was free to speak now: he knew how distasteful it was to his hon. friends sitting on the Treasury benches, and surely hon. members must know how distasteful it was to the Speaker. It was pure humbug on the part of the Opposition and the country knew it. Let them try and discuss the question calmly. (Hear, hear, and laughter.) He had to say that because the hon. member for Port Elizabeth had set the example and remained anything but calm to the end. But he (Mr. Hull) would now switch off, and would proceed to deal with the thing on its merits. He thought the hon. member for Victoria West was quite right when he said that the salaries ought to be fixed to enable Ministers to live decently and in comfort. (An HON. MEMBER: &#x201C;By Act of Parliament.&#x201D;) &#x201C;Yes,&#x201D; continued Mr. Hull, &#x201C;by Act of Parliament, if it would discontinue a discussion of this sort.&#x201D; And in justice to the Ministers he thought so too; he did not think there was a single member of the committee who would deny that No one suggested that the salary should be fixed at an extravagant scale. Unfortunately for South Africa they could not depend entirely upon rich men to fill these offices, and they had to call upon men actively employed in their own businesses. These men were called upon to devote not only three or four months, but to devote the whole of their time from the 1st January to 31st December, day after day, week after week, and month after month, to the affairs of the Government. It was impossible for any Minister to take part in the affairs of the Government unless he devoted the whole of his time and energies to the business of his portfolio. (An HON. MEMBER: Six months in the year.) &#x201C;The whole twelve months in the year,&#x201D; the speaker maintained. He had had five years&#x2019; experience, and he had found that not a single Minister could devote any part of his time to his private business. A Minister was entirely different from an ordinary member. Did they want the Ministers to be paid a scale of salary which would enable them to live decently and in comfort?</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Rubbish.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>*Mr. <person refersTo="hansard_za">HULL</person></from>
+
+<p>replied that that was an argument that his hon. friend was fond of using. He (Mr. Hull) during the five years he had been a Minister had not been able to save a single penny, and he had been drawing the same rate of pay as was payable in the vote, and he had to rely upon a private fund of his own. (An HON. MEMBER: &#x201C;Extravagance.&#x201D;) Let them take the cases of the other Ministers who were lawyers by profession. They had to surrender their private businesses&#x2014;</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person>:</from>
+
+<p>Do they lose by it?</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>*Mr. <person refersTo="hansard_za">HULL</person></from>
+
+<p>said they did not make anything. His hon. friend did not know what he was talking about; he himself did. He wanted to assure his hon. friend that if he were to examine the private accounts of the Ministers he would find that not a single one of them had saved any money. The salary of &#x00A3;4,000 was not sufficient to pay the expenses of the Prime Minister, who was called upon to maintain an expensive establishment at Groote Schuur. He did not always agree with his hon. friend the member for Braamfontein (Sir A. Woolls-Sampson), but it had been a pleasure to listen to him that evening. He wanted to urge that if they continued to raise distasteful discussions of that kind they would frighten decent-minded men from taking any place in the Government, unless, of course, they got professional politicians to take the posts or depended upon their rich men. No doubt some of his hon. friends opposite would like to take <span class="col_3029-3030" refersTo="page_1521"/>Ministerial posts even if they received nothing at all. Under the best conditions Ministers had to maintain two houses, one at Pretoria and one in Cape Town. If a Minister was fortunate enough to have a house in one of these places, then of course he need not pay house rent at the other place. But if he were a Minister, placed as he was, or the Minister of Lands, and the Minister of Justice, he was compelled to maintain three houses. (An HON. MEMBER: What about the members?) Well, he did not say that members were adequately paid, but the point they were dealing with now was Ministers&#x2019; salaries. He wondered if a Minister were not provided with private means and found himself in the position of not being able to pay his butcher or his baker, what would they say? He was exceedingly sorry that the discussion had arisen, and sincerely hoped that this would be the last occasion when it would be raised.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that of all the extraordinary positions that his hon. friend the member for Barberton found himself in no position was so extraordinary as when he told the House that it was perfectly indecent to discuss this matter, because the case of Ministers was entirely different from that of members. He acknowledged that the case of Ministers was different from that of members. The salaries of members were very wisely fixed by the Act of Union, but the salaries of Ministers were fixed by themselves. (Opposition cheers.) Therefore he acknowledged that there was a very great difference, and they might rest assured that if it had ever been thought that such a situation would have arisen, the salaries of Ministers would have been fixed as well. (Hear, hear.) He entirely agreed with the member for Braamfontein (Sir A. Woolls-Sampson) when he said that a poor man should not be debarred from serving on the Treasury Bench but it would be a lamentable thing if the salaries paid by the Treasury Bench were to encourage poor men to sacrifice their convictions. He did not mention this for the first time; when the matter was under discussion last year he brought forward the same argument, and he said then that the salaries, once for all, must be fixed by statute. He maintained now as he maintained then that a salary of &#x00A3;3,000 for the Prime Minister and &#x00A3;2,500 for the other Ministers were fair and adequate salaries, because he felt that the opinion of the country was behind them when they said that the salaries were paid on too high a scale. Ministers ought not to sit upon the benches for the sake of the salaries. They were elected in the same way as members, and they accepted seats upon the Treasury Bench because they conceived that it was their duty and that they had a majority of support in the House. The hon. member for Barberton (Mr. H. C. Hull) had asked him and his hon. friend the member for Port Elizabeth to examine his banking account. He was perfectly certain that it would be a most interesting document. (Laughter, and &#x201C;Hear, hear.&#x201D;) He talked about his expenses.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton):</from>
+
+<p>They are more than yours.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I can live on less than &#x00A3;3,000 a year, and live in a respectable manner. (Laughter, and &#x201C;Hear, hear.&#x201D;) My hon. friend gets so excited that it is a good thing there are doctors in the House, because he may find it necessary to call us in to attend to him. (Loud laughter.) Would the hon. member move that this matter be decided by a ballot, and then they knew how members would vote, because members would have no fear of the Ministerial whip. (Cries of &#x201C;Oh,&#x201D; and laughter.) His hon. friend had interrupted and said that members were not paid for their votes. Nobody suggested that they were; but that vote, like other votes, had been taken under strong party pressure. He had discussed this matter with his constituents, and their general opinion was that they were continuing an unwise thing, and that it would be best to bring in a Bill to fix the salaries once and for all.</p>
+
+<p>The hon. members on the Treasury benches were informed last year, as they were being informed this year, and they would be informed of this matter year by year, until they brought in a Bill fixing the salaries of Ministers. They would be subject to this discussion until the whole feeling of the country supported the view that had been expressed by the hon. member for Port Elizabeth. The hon. member for Barberton was really expressing the views of the gentlemen on the Treasury benches.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why not?,</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>My hon. friend says &#x201C;Why not?&#x201D; (Ministerial laughter.) He spoke in support of the Government, as he did last year. (Ministerial cheers) I must say that I compliment him. (Opposition laughter and Ministerial cheers.)This is the first occasion during my experience of night sittings that I have seen the members of the Treasury benches represented in full strength. We can account for that. (Opposition laughter and Ministerial dissent.)</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>They are not.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>Except one whose absence through illness is deplored by every member in this House.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>Well, there are 2, 4, 6, 8. (General laughter.) They are all here, and we are very glad to see them. (Renewed laughter.) We hope this new departure will be continued. (Laughter) Continuing, he said that the hon. member for Barberton tried to compare Ministerial salaries with the salaries of highly-placed professional men.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from><span class="col_3031-3032" refersTo="page_1522"/>Sir <person refersTo="hansard_za">T. W. SMARTT</person></from>
+
+<p>said that highly-placed professional men, by every law of decency, were perfectly entitled to get as high a return for their services as they were able to get. Ministers who took positions of honour were not entitled to do things of that sort.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Don&#x2019;t get warm. (Ministerial laughter.)</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>Satan rebuking sin. (Opposition laughter.) Continuing, he said that if there were one subject upon which one would be justified in getting warm it was the subject of the high salaries that were being paid. He thought it was incumbent on Ministers to see that while their salaries were such as would enable them to maintain a position of decency they should not be so high as to induce the people of the country to express the opinion that they were striving after office for the sake of the emoluments that were paid.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he did not think that the hon. member who had just spoken had raised the debate to a high level. (Ministerial and Labour cheers.) He found that the more the matter was discussed the more one was in the dark as to the principles upon which this matter should be settled. In his opinion no discussion of a party character should take place on a question of this sort. The hon. member for Port Elizabeth had argued that these salaries should not be as high as they were, for the reason that they were a poor country. That should not be so. If the position of a Minister was considered to be worthy of remuneration to the extent of &#x00A3;4,000 a year, then he felt that it would be unworthy to argue that we were a poor country. The hon. member for Victoria West had argued that salaries of this size set a keynote for the rest of the expenditure of the country. He knew numbers of men in the Department of the Minister of Railways and Harbours who could not be said to be drawing princely salaries. If it did set the keynote for the lower paid men in the service, then he would not mind. He thought that was a faulty argument. Another argument advanced was that by the hon. member for Fort Beaufort, who said that he could live on a good deal less than &#x00A3;3,000 a year. He (the speaker) agreed with him. Did the hon. member suggest by that that Ministers should be paid to the amount upon which other members in the House could live? It seemed to him that this question had been made a party cry, though he, personally, did not wish to make it anything of the kind. He thought that the fact that the hon. member for Fort Beaufort offered to split the amount last year somewhat detracted from the high principle of his speech. (Labour laughter.)</p>
+
+<p>He hoped that the matter would be settled once for all, and let them have a Select Committee on the matter of these salaries; let them thrash it out and go through the pleasant and interesting task of inspecting the Prime Minister&#x2019;s banking account if they thought necessary, or any other thing they liked. Until that had been done he did not see any reason for departing from the position he held last year. What was wanted was a categorical and clear promise from the Government that before the Estimates were considered next session they would have a Bill before Parliament fixing the matter, so that they would not have any more of these disagreeable discussions.</p>
+
+</speech>
+
+<speech by="#macaulay">
+
+<from>Dr. <person refersTo="hansard_za">D. MACAULAY</person> (Denver)</from>
+
+<p>asked for the Chairman&#x2019;s ruling as to whether on that vote they could discuss the Prime Minister&#x2019;s department.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. Member must confine himself to the amendment: a reduction of &#x00A3;1,000 in the vote. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>Sir <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>said that the hon. and gallant member for Braamfontein had expressed the opinion that these salaries should be so high that a poor man could occupy the Treasury benches, and they should not be confined to the rich. The hon. member need not be disturbed on that account, because very few rich men in this country would risk undertaking the worries, the troubles, and the anxieties of the Treasury benches, even if the salaries were fixed at twice the amount they were now. It was quite true that there were many people not occupying the responsible position of Ministers who got very much higher salaries than these hon. gentlemen, and their positions were assured and fixed, while the position of the hon. gentlemen occupying the Treasury benches was temporary (Laughter.) The House and the country must be convinced that the salaries alone did not keep the Ministers in their seats from what had occurred. The example of the salaries paid to Ministers in the Cape Colony had been given, and they amounted to &#x00A3;1,500, if he were correct, but some members of the Cape Cabinet had made great sacrifices in accepting office, and could have made twice as much in their profession. He would not like it to go forth into the world that the Ministers in power had voted themselves these salaries. (Hear, hear.)</p>
+
+<p>He knew perfectly well, and he felt that, regarding the salary of the Prime Minister, he was not getting one sixpence beyond that which he spent in maintaining his office. He must entertain very largely, and if he did not entertain in all directions it might create a feeling that he was not exactly doing his duty. He was perfectly convinced that the gentlemen who occupied the Treasury benches did not do so from any financial consideration at all, and that they were not receiving a sixpence more than they should or a shilling more than the country could afford. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>*Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said he should like to join in the &#x201C;indecency&#x201D; <span class="col_3033-3034" refersTo="page_1523"/>and add his voice to the humbug with which they had been charged, because he felt that this was an occasion when one should speak out in the interests of the country. They had heard various reasons put forward why the present salaries of Ministers should be maintained. They had been told that, unless high salaries were given, it would be impossible for poor men ever to enter the Ministry of this country. A more ridiculous argument could scarcely have been brought forward. It was not by giving a high salary that they were going to attract the best men into their Cabinet. Then the hon. member for Uitenhage had said that these salaries had been inherited from the Transvaal, but he forgot to mention that there were three grandparents to this Union, who had lower salaries, as against this one who had higher salaries. The idea seemed to have got abroad that the dignity of Ministers was kept up by high salaries. He thought it was a very sad thing for this country that that should be the tone put before them now.</p>
+
+<p>It was an inheritance they had got from the Transvaal. It was important that they should each year protest against the extravagance which set the tone throughout the whole country. It was not the amount but the principle behind the money which was the important point. Late as it was for Ministers to do it, there was only one way to rehabilitate themselves, and that was to refer the matter to a committee selected from both sides of the House, not only men from the Transvaal used to Transvaal lines and living, but others who know it was possible for a man to live decently and respectably on a much lower salary than that they had fixed for themselves.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. J. W. DU TOIT</person> (Middelburg)</from>
+
+<p>could not see his way to support the amendment. The salary of the Prime Minister of the Transvaal was &#x00A3;4,000, and he had expected that with the increased work of the Prime Minister his salary would have been increased. But that had not been the case, and he could not understand the complaint of the Opposition. Ministers were bound to entertain, and that cost a good deal of money.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said the hon. member for Barberton seemed to think there was a want of sincerity on the part of members on his side of the House. So far as he was concerned he had had one idea from the very beginning. When the matter of these salaries was raised it was discussed at public meetings in his constituency, and he agreed with public opinion at every one of those meetings that the salaries were too high. He had been of that opinion ever since, and felt bound to take advantage of every occasion to vote in favour of a reduction. He thought however, the Prime Minister&#x2019;s salary should certainly be &#x00A3;3,000, &#x00A3;1,000 higher than that of the other Ministers, on account of his duty of entertaining at Groote Schuur, etc., perhaps it should be higher than &#x00A3;3,000, and he would support an amendment, if one were moved, that instead of reducing the salary by &#x00A3;1,000 it should be reduced by &#x00A3;500. He did not feel inclined himself to move a further amendment on the lines suggested, but he would vote for it in place of the other, if somebody would move it.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>put the amendment and declared the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>called for a division, which was taken, with the following result:</p>
+
+</speech>
+
+<p>Ayes&#x2014;27.</p>
+
+<p>Alexander, Morris</p>
+
+<p>Baxter, William Duncan</p>
+
+<p>Blaine, George</p>
+
+<p>Chaplin, Francis Drummond Percy</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Henderson, James</p>
+
+<p>Jagger, John William</p>
+
+<p>King, John Gavin</p>
+
+<p>Long, Basil Kellett</p>
+
+<p>Macaulay, Donald</p>
+
+<p>Merriman, John Xavier</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Nathan, Emile</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Phillips, Lionel</p>
+
+<p>Robinson, Charles Phineas</p>
+
+<p>Rockey, Willie</p>
+
+<p>Schreiner, Theophilus Lyndall Smartt, Thomas William.</p>
+
+<p>Struben, Charles Frederick William</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>J. Hewat and C. L. Botha, tellers.</p>
+
+<p>Noes&#x2014;63.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Becker, Heinrich Christian</p>
+
+<p>Beyers, Christiaan Frederik</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Burton, Henry</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Cronje, Frederik Reinhardt</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>De Waal, Hendrik</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Fremantle, Henry Eardley Stephen</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Harris, David</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Hertzog, James Barry Munnik</p>
+
+<p>Hull, Henry Charles</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p><span class="col_3035-3036" refersTo="page_1524"/>Keyter, Jan Gerhard</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus slabbert</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Mentz, Hendrik</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neser, Johannes Adriaan</p>
+
+<p>Nicholson, Richard Granville</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Orr, Thomas</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Sauer, Jacobus Wilhelmus</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Smuts, Jan Christiaan Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Stockenstrom, Andries</p>
+
+<p>Theron, Hendrick Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Woolls-Sampson, Aubrey</p>
+
+<p>C. Joel Krige and C. T. M. Wilcocks, tellers.</p>
+
+<p>The amendment was accordingly negatived.</p>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>said he wished to take advantage of the opportunity to make a few remarks upon the policy of the right hon. gentleman.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. member can only refer to the other items in the vote.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person>:</from>
+
+<p>Cannot I refer further to the salary of the Right Hon. the Prime Minister?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>No; that has already been voted upon.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>I would like, Mr. Chairman, to draw your attention to the last vote. It has been decided that the salary of the Prime Minister shall not be reduced by a certain amount, but the whole salary has not yet been voted.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>May I ask, Mr. Chairman, if your ruling is of such a character that it is not within the province of the committee to move another amendment? I can understand that it would not be possible to move to reduce the Prime Minister&#x2019;s salary by more than &#x00A3;1,000, but surely we could move to reduce it by less than that amount?</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The hon. Member can move an amendment.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>said that he really did not wish to move a reduction, and if he had to move a reduction he did not wish to move merely a nominal sum. He would move, therefore, a reduction of the vote by &#x00A3;500. There seemed to him, as between the policy of the right hon. gentleman as declared and explained by him in the course of his speeches and the policy of the right hon. gentleman as revealed by his administration, a great difference. He had no desire to make this a party question; but he wished to illustrate to the right hon. gentleman the support which he would have obtained from that side of the House if he carried out the ideas which he had advanced in the course of his speeches which he had made in that House and in the country. He did believe that if, apart from other considerations, they were to divide the House on the question of a progressive and go-ahead policy so far as agriculture was concerned they would have the support of the great majority of the hon. members of that House. They had hopes when the chief Minister of the Union kept the Portfolio of Agriculture in his hand that this policy which he had enunciated would be pursued, for the reason that they thought that as chief Minister in the Union he would be in a better position than any other Minister to carry out his ideas on the subject. But they failed to take into account the fact that the right hon. gentleman was the leader of a political party, and they found now that where the interests of party came into conflict with the interests of the industry the interests of party weighed more than the interests of the industry in the mind of the right, hon. gentleman. One of the first indications they had was the speech of the right hon. gentleman at Losberg. Among other things he explained to his constituents the Animal Diseases Act which had been passed by Parliament. He explained the provisions of the Act, and he told his constituents the date upon which the regulations would come into force. Then he went on to say in effect that if his hearers found the regulations too irksome they were to come to him. That was the first indication they had that the Minister of Agriculture was swayed in his policy of administration by political considerations.</p>
+
+<p>He thought that all who had followed the political career of the right hon. gentleman in that House and outside of it, knew nothing more clearly than how party interests had affected his administration. He should have liked to deal at considerable length with the reorganisation of the Agricultural Department, but he found himself at once in the great difficulty that although Union had existed for two years now, there had been no report from the Agricultural Department, so that information as to what was being done by that Department had to be obtained piecemeal. That absence of a <span class="col_3037-3038" refersTo="page_1525"/>report had been commented upon by the Public Accounts Committee, and very properly so, and when they had to consider the estimates of the Agricultural Department they had to do so without a proper report either from the Department itself or the Public Accounts Committee. They had understood last year that the necessary reorganisation of the Agricultural Department was awaiting the return of the Prime Minister, who had gone to England to attend the Coronation, but it had surprised them to hear that the services of certain highly paid officials had been dispensed with during his absence. When he had returned he had no time to reorganise his department, as he had to follow the spoor of the Minister of Justice and allay the uneasiness caused by the latter. (Laughter.) Much of his time since then to the opening of Parliament had been occupied with the reorganisation of his party. Anyhow, as far as he (the hon. member) could judge, the only result of the right hon. gentleman&#x2019;s administration had been a complete upheaval and the disorganisation of his Department. It had meant the destruction of all the Provincial Departments he had found in existence; and so far as he knew, there had been nothing to replace them, and this had led to very grave dissatisfaction throughout the country.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska):</from>
+
+<p>The Cape Province.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">BLAINE</person></from>
+
+<p>said he was glad the hon. member had said that, and he would read an extract from &#x201C;The Friend.&#x201D; The hon. member proceeded to do so, the article being to the effect that, there was more discontent than ever in the Orange Free State, and it was not a political feeling. Continuing, the hon. member said that if little had been done in the way of real reorganisation, there had been a very unwise attempt to hustle off everything to Pretoria and centralise everything there.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>That&#x2019;s not true.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">BLAINE</person> continued:</from>
+
+<p>If there were one department where such Centralisation would be destructive indeed, it was the Agricultural Department; and for it to be of real service it should keep in touch with the farmers and keep itself well posted and see to the needs of the industry. He did not mean that there should be contributions or doles, but one did look to the Department to supply the needs which were beyond the efforts of farmers, and the wants which the farmers would look to the central Government for.</p>
+
+<p>He would like the Minister to point out in what way such advances as had been made by the industry had been due to the administration of his Department. He had got rid of some of the very best officials in his Department, men to whom the great improvement in the Free State was largely due. He had discharged and destroyed what he found in existence, without in anyway replacing it by anything so good, far less anything better. (Hear, hear.) And advances, if they had been made at all, appeared to him (Mr. Blaine) to have taken place in spite and not in consequence of the administration of the right hon. gentleman. In regard to scab, they had an example of that in that very good law, the Animal Diseases Act. How had the Minister used the power given him under that Act? In the Cape, he made bold to say, scab was more widespread than it was at the expiration of the Jameson administration, which had taken over, as a legacy from the war, a very extensive scourge of scab. The present state of things may have been due to some extent to what was called the &#x201C;sympathetic administration&#x201D; of his predecessor in office. They were at a disadvantage in regard to this matter by reason of the absence of reports, but, from what he heard the Free State was very much worse than it was two years ago. (Ministerial dissent.) He could not get a report, and he had to judge as best he could of the condition of the Free State. He thought that many good results which were obtained, owing to the energetic and enlightened administration of the late Minister of Agriculture in the Free State had been lost. (&#x201C;Nonsense,&#x201D; and interruption.) In the Transvaal, where the right hon. gentleman was dismissing sheep inspectors and appointing field-cornets as inspectors at a salary of &#x00A3;300 a year, when a return was called for the number of sheep and goats infected by scab the answer was ‘ information not available.&#x201D; They learnt now that in the north-western districts of this Colony, &#x201C;sheep are to be allowed to travel, though they are scabby, if only they have been hand-dressed.&#x201D; It seemed to him that the administration of the right hon. gentleman would yet prove even more disastrous. They had a very fair example of the natural consequences of his policy of vacillation, failure, and indecision in regard to the East Coast fever. His method of stamping out the outbreak of East Coast fever had been by slaughter and fencing, and right down from Natal through the Native Territories it had been a repetition of the same dreary policy which had so far proved an utter failure. There had been a woeful waste of public money simply with the idea of stilling the clamour of the public. The right hon. gentleman knew the methods were utterly useless. What he blamed the right hon. gentleman for was the half-hearted manner in which the efforts were made to stamp out the disease; not so much for the actual amount of money spent in the attempt. No Minister of Agriculture had been invested with so much power as the right hon. gentleman. The Animal Diseases Act provided for the erection of dipping tanks, and not only that, but it provided for the issue of loans to farmers who might require the money. The cost of a dipping tank would be about &#x00A3;50, and the interest on that amount would be &#x00A3;2 10s., and a farmer must be very poor indeed if he <span class="col_3039-3040" refersTo="page_1526"/>could not pay that to insure the safety of his cattle. When the hon. member for East London asked if these dipping tanks were going to be made compulsory his answer was &#x201C;Yes.&#x201D; Continuing, he said that as late as September the Government had formulated no policy as to what would be done if East Coast fever entered the colony proper. That was the reply received by the Farmers&#x2019; Association that concerned itself about the matter. Would the right hon. gentleman accept a motion for the adjournment?</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">BLAINE</person></from>
+
+<p>suggested that progress be reported.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person>:</from>
+
+<p>The motion is&#x2014;</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">BLAINE</person>:</from>
+
+<p>Shall I go on?</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON. MEMBERS</person>:</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>*Mr. <person refersTo="hansard_za">BLAINE</person>:</from>
+
+<p>Very well, I shall proceed. Continuing, the hon. member, who was almost inaudible at times in the Press Gallery, said that though asked for as far back as May, 1911, it was not until January, 1912, that compulsory dipping was proclaimed in the districts of Komgha, East London, King William&#x2019;s Town, and Cathcart. Whether such neglect was criminal, he would not like to say, but he thought that a Government which carried on the administration of these affairs in such a manner should get short shrift. Unfortunately hon. members on the other side were blinded by other considerations, and they supported a Government which gave little thought to an industry that was entitled to the greatest consideration. The hon. member referred to the outbreaks of East Coast fever in the East London and King William&#x2019;s Town districts in February last, and criticised the action taken by the Minister, stating that he issued a Proclamation with regard to the removal of cattle without providing the means of enforcing it. It seemed to him that the farmers had to depend a good deal on their own efforts, because the Government seemed to be too apathetic. It appeared to him that, in the matter of dipping, the Minister was giving way to pressure. Where he had power to compel, he held out inducements. Quite recently in Griqualand East the right hon. gentleman sanctioned the removal of some cattle from an infected area, and, in answer to a question put to him in the House, stated that this removal had been made under proper precautions. He did not dispute that. But the outstanding feature was that he had broken his own law, and if concessions were to be allowed at all then who was to say when these concessions would be made. Quite recently, again, in the Somerset East district, there was a political meeting which protested against the provisions of the Animal Diseases Act in force in that district. In that connection he placed himself in altogether a false position, and weakened his authority by his indecision, by shirking responsibility and placing it on the Divisional Councils. These methods of the right hon. gentleman were being watched all through the country. Was it going to be the policy to allow those who kicked against this to go free? If the Ministry were going to continue indifferent to the wants of progressive agriculture, they might find that their immense majority would be swept away sooner than they expected. (Cheers.)</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said before the reduction was moved he would like to ask his right hon. friend to move to report progress and ask leave to sit again. That would give his right hon. friend an opportunity of replying fully to the speech of the hon. member for Border, which he could not adequately do now at that late hour.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>was understood to say that he had long expected such an attack on himself as made on him by the hon. member. He was quite ready to give a reply to the hon. member, but thought it was better to do so when the vote of the Minister of Agriculture was before them. Then they could deal with the whole question of agriculture.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said he understood that by the ruling of the Chairman it would not be competent to introduce a general debate upon the whole agricultural policy except upon this particular vote.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>said a reduction had been moved in the salary of the Prime Minister with a view to criticise the agricultural policy of the Government. If the committee had no objection he would allow the discussion to proceed upon the second vote.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said there was one point that he would like to hear answered. He referred to a matter that had been raised by the hon. member for Jeppe, when the reduction of the Prime Minister&#x2019;s salary was under discussion. The hon. member requested him to make a statement whether he would bring in a Bill fixing Ministers&#x2019; salaries, and if the Prime Minister would make a statement he would have nothing further to say then.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>withdrew his amendment.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the matter of introducing such a Bill as referred to by the hon. member for Springs (Mr. Madeley) had received the consideration of the Government&#x2014;such as fixing the salary of Mr. Speaker, the Ministers, and so on.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>asked if in voting for these salaraies, had they to accept the grading system?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from><span class="col_3041-3042" refersTo="page_1527"/>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that the matter would be dealt with when the Public Service Bill was considered.</p>
+
+<p>The vote was agreed to.</p>
+
+<p>Progress was reported, and leave granted to sit again to-morrow.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-05-28T23:26:00">11.26 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection></debateSection>
+

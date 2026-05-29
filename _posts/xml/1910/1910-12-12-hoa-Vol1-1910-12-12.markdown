@@ -1,0 +1,1105 @@
+---
+title: 'House of Assembly: Vol1 - MONDAY DECEMBER 12 1910'
+layout: debate
+year: 1910
+month: DECEMBER
+month_slug: Dec
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>MONDAY, December 12 1910</heading>
+
+<prayers>
+
+<narrative>
+
+Mr. SPEAKER took the chair and read prayers at <recordedTime time="1910-12-12T14:00:00">2 p.m.</recordedTime>
+
+</narrative></prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg),</from>
+
+<p>from E. W. Bischoff, late trooper, District Mounted Police, Porterville.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>Mr. <person refersTo="hansard_za">J. A. P. VAN DER MERWE</person> (Vredefort):</from>
+
+<p>Re bridge across the Vaal River at Parys.</p>
+
+</speech>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg):</from>
+
+<p>Re magisterial sub-district of Hopefield to be made a separate fiscal division. (Six petitions.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage),</from>
+
+<p>from F. J. Nance, Johannesburg, clerk in Railway Department.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#payment_of_members_senate&#x2019;s_amendment">
+
+<heading>PAYMENT OF MEMBERS.<br/>SENATE&#x2019;S AMENDMENT.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>communicated the message from the Senate already given.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>asked how the Clerk would know whether members were absent.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from><span class="col_691-692" refersTo="page_0355"/>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that the Clerk would keep a tally of members.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Will the Clerk keep a tally? It seems an entirely new departure.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>pointed out that the receipts signed by hon. members would be safeguards.</p>
+
+<p>On the new clause 2,</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked how &#x201C;timely notice&#x201D; was to be defined. How, too, would the illness of a cousin affect the matter? He moved to delete the words.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>agreed to what had been said about &#x201C;timely notice.&#x201D; Hon. members&#x2019; families were not elected, and should not be paid by the public. There must be some limit. If hon. members could not attend, they should not be paid. It was absurd.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked for the views of the Government on the subject. What had been added was certainly not what the Convention intended.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said his hon. friend seemed to think that he was responsible for the amendments. They had come from another place, and he thought they were entitled to respectful consideration. The Constitution stated that the rule was to be subject to rules framed by the Houses. The question was whether the exceptions made in these amendments were reasonable. There was something to be said for the first exception as to receiving timely notice, because it was possible for a committee to be sitting when the House was not, and it might happen that a member did not receive sufficient notice. In regard to the exception as to family bereavements, that was rather wide, and might dead to abuse, but hon. members would see there were cases where the law of Nature conflicted with the law of the land, so to speak. He thought the principle was deserving of attention. There should be some finality in regard to minor details, and perhaps the House should not scrutinise too closely the additions which the Senate had thought fit to insert.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town. Castle)</from>
+
+<p>considered the amendment was in conflict with section 56 of the South Africa Act. He asked the ruling of the Speaker on the point.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020; The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that he agreed that the amendment of the Senate should be rejected.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said he was not prepared to rule that the amendment was not in order. Continuing, Mr. Speaker said that a question had been asked as to whether a committee of the House might sit when the House itself was not sitting. He might say the rule was for committees only to sit upon those days upon which the House was sitting, but there was nothing to prevent the House from granting committees leave to sit on days when the House was not sitting. As a matter of fact, the Senate frequently appointed committees to sit in the recess while the Senate itself was not sitting.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg North)</from>
+
+<p>said the Act of Union explicitly said that for every day on which a member was absent there should be deducted a sum of &#x00A3;3, and he submitted that no rule of the House could alter that.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the amendments in paragraph (1), and the omission of paragraph (2) which were agreed to.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the amendments in paragraph (3), which were negatived.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>desired to move another amendment, to the effect that it should be the duty of the Clerk of each House to keep a record of the days on which members of each House were absent.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>We must confine ourselves only to the amendments made by the Senate.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>This is consequent on the amendment made by the Senate.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The amendment has already been accepted.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>complained that some of the Dutch-speaking members of the House did not know what had been done, as the amendments were only in English. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+</debateSection>
+
+<debateSection name="#census_bill_senate&#x2019;s_amendments">
+
+<heading>CENSUS BILL.<br/>SENATE&#x2019;S AMENDMENTS.</heading>
+
+<p>The amendments were agreed to.</p>
+
+</debateSection>
+
+<debateSection name="#public_holidays_bill_senate&#x2019;s_amendments">
+
+<heading>PUBLIC HOLIDAYS BILL.<br/>SENATE&#x2019;S AMENDMENTS.</heading>
+
+<speech by="#smuts">
+
+<from>&#x2020; General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>complained that the Dutch copy did not agree with the English, and he did not think that that was fair to the Dutch-speaking hon. members of the House, especially since Mr. Speaker read all amendments in English only. He protested against the rights of either of the two official languages being ignored.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that even in the English copies these amendments were not set forth.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I shall have that inquired into. I have a copy before me with the amendments.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved that the consideration stand over until Wednesday.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>And in the meantime it will be inquired into why hon. members <span class="col_693-694" refersTo="page_0356"/>have not got copies&#x2014;both English and Dutch&#x2014;of these amendments. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#powers_and_privileges_of_parliament_bill_third_reading">
+
+<heading>POWERS AND PRIVILEGES OF PARLIAMENT BILL.<br/>THIRD READING.</heading>
+
+<p>The Bill was read a third time.</p>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said that the Dutch translation of the Bill was not a true translation. There was clause 2. he had called attention to it before, and it had not been altered.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I think the hon. member will find that it is perfectly correct. They did not profess to be translations of each other; both are originals.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>If both are originals, and one Act differs from another, which is the Act?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>They do not differ.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany):</from>
+
+<p>If they are both originals, must they not be identical?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The meaning is identical.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>How is this House to know, if the Bills are not identical, which is the law of the land? Suppose, he continued, they went to law, which was the Act upon which the Court was to decide, supposing they were not identical? The Act of Union said that the Bill whose language was signed by His Excellency the Governor-General was the one upon which the Court would decide.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said both the Dutch and English Bills were the originals.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>wished to know if a member of Parliament could be called up for words used in Parliament. By inference the English copy of the Bill said that a member&#x2019;s language could be called in question in Parliament. On the other hand, the Dutch copy of the Bad said a member&#x2019;s utterances could not be called in question in any place.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>explained that the Dutch word meant not in Parliament. Parliament had the right to do whatever it liked to its members.</p>
+
+</speech>
+
+<speech by="#stockenstrom">
+
+<from>Mr. <person refersTo="hansard_za">A. STOCKENSTROM</person> (Heidelberg):</from>
+
+<p>Who is the authority to decide which is the correct translation and which is not? (Laughter.)</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>The Minister of the Interior.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said only one copy of a Bill was signed by the Governor-General.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>What is the point of order?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>I have not risen to a point of order. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East),</from>
+
+<p>rising as the Speaker was putting the question that the Bill be now passed, said: Are we allowed to speak?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The Ayes have it.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Are we not allowed to speak on the third reading?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The third reading was passed a long time ago. (Laughter.)</p>
+
+<p>The Bill was then passed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_budget_motion_to_commit">
+
+<heading>RAILWAY BUDGET.<br/>MOTION TO COMMIT.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>was cheered when he rose to propose: &#x201C;That the House go into Committee of Supply on the Estimates of Expenditure of the South African Railways and Harbours for the 10 months ending March 31, 1911.&#x201D; The mover said he noticed, when the Treasurer made his Budget speech the other day, that when his hon. friends came to the question whether there would be additional taxation or not, there was an eager, almost an anxious, attitude in certain quarters of that House. There was no such piquant element to deal with in what he (Mr. Sauer) had to say. The railways might almost be said to be offensive in their prosperity. The Estimates he was about to submit were for the 10 months beginning from the date of the Union to March 31. The Estimates had been framed with a view to making them simple and easily intelligible, not only to the financial pundit, but to the ordinary man. (Hear, hear.) The Estimates would not show the whole position of the railways. They would not deal with expenditure, capital account, or the unexpended balances on capital account, or with the large amounts on fixed deposit. On May 31 there was on deposit from railway funds and from balances of loans &#x00A3;3,836,934. On October 31 the amount on fixed deposit and other securities was &#x00A3;4,535,000. This amount was made up of balances of loans and amounts set aside from railway revenue for specific purposes, such as construction, maintenance, and depreciation. But of this amount &#x00A3;2,020,000 would be required almost immediately for railway construction. (Hear, hear.) He therefore proposed, after the Estimates of Revenue and Expenditure now before the House had been disposed of, to submit&#x2014; early next year&#x2014;Estimates of Expenditure on capital account, when he could gave a full statement of the railway position. (Hear, hear.) We had at present 7,046 miles of railway, which cost&#x2014;not including rolling-stock&#x2014;&#x00A3;63,116,000. On June 30, 1909, the approximate capital expenditure was &#x00A3;60,201,627, so that there had been an increase of &#x00A3;2,914,373. The quantity of rolling-stock up to date was: Locomotives, 1,380; coaches, 1,950; and goods vehicles, 22,879. The approximate capital expenditure&#x2014;that was, expenditure from borrowed money and money obtained from revenue <span class="col_695-696" refersTo="page_0357"/>which bad been brought into capital account for rolling-stock, was &#x00A3;13,664,000. On June 30, 1909, the expenditure on rolling stock was &#x00A3;12,992,961, since when there had been an increase of &#x00A3;1971,039. Shortly prior to Union a Conference, representing the four colonies, met at Bloemfontein, when rolling-stock to the value of &#x00A3;700,000 was ordered, and had been paid for. This had all been received. Since the establishment of Union further rolling-stock had been ordered to the value of &#x00A3;787,110. None of that had been received yet, but they hoped before long to have some of it. The cost of rolling-stock was defrayed partly out of the depreciation fund and partly out of the betterment fund. (The value of the stores on hand, or in transit on May 30 last, in the several Provinces, was &#x00A3;1,458,910, as compared with &#x00A3;1,313,365 on December 31 last. However, one concern would not require the same quantity of stores as three, and they would bring about a substantial reduction.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reducing_railway_rates">
+
+<heading>REDUCING RAILWAY RATES.</heading>
+
+<p>With regard to the staff they had on the 31st of May, at the date of Union, 37,750 persons were employed on the railways; now they had 38,918, an increase of 1,168. Of these, 21,000 were Europeans. Besides the railways actually constructed&#x2014;7,045 miles&#x2014;there was actually under construction 000 miles more, at an approximate cost of about &#x00A3;4,000,000, or, to be exact, &#x00A3;4,052,084. Of these 900 miles, it was expected that 76 per cent., or 683 miles, would be completed within the next twelve months. Besides these, 810 miles, for which there was Parliamentary authority, at an estimated cost of &#x00A3;3,500,000, but in all cases the money was not available, and in some cases he was not sure that the lines would be to the best advantage, and in the public interest. Now he came to the revenue. It would seem, looking at the Estimates of the revenue up to the ten months ending 31st of March, that the revenue from traffic, leaving out subsidiary revenues, was &#x00A3;9,880,371. For the preceding ten months the revenue was &#x00A3;9,312,748. There was, therefore, an increase of &#x00A3;567,623. There were increases in all branches of traffic, but it was especially noticeable that there was &#x00A3;93,141 increase from passenger traffic. That, he said, was very noticeable, because in August of last year the C.S.A.R. reduced their passenger fares by something like 30 per cent. The Cape and Natal just prior to Union did the same thing also by something like 30 per cent., the estimated loss for these two colonies being &#x00A3;151,000. Notwithstanding that estimate, however, there was an increase in the passenger traffic, or an estimated increase of &#x00A3;98,000. That went to show that the depression to a very large extent had passed away, and it also showed that if they gave cheaper tickets, the public took advantage of them. He had said that the estimated revenue from traffic for the ten months to 31st of March was &#x00A3;9,880,371. That gave a monthly average, supposing they distributed that amount over ten months, of &#x00A3;986,037. Up to the end of November&#x2014;that was for six months &#x2014;they had actually received &#x00A3;6,061,785, or a monthly average, dividing the six by ten, of &#x00A3;1,010,298, whereas the monthly estimate was &#x00A3;988,037. The four months&#x2019; balance required to realise the estimate of &#x00A3;9,880,371 was &#x00A3;3,818,586, or dividing that sum again by the number of months still to run, an average per month of &#x00A3;954,646. That showed that the amount required less per month than the estimate was &#x00A3;33,391. Therefore, if they got the monthly estimate of &#x00A3;988,037, they would have a balance over revenue of &#x00A3;133,564. It was proposed to reduce the tariff, within the Cape Colony more especially, in fact, almost exclusively. That would entail a loss of &#x00A3;455,000 per annum. It was intended that the reduced rates should come into force in January. That meant that these rates would be in force for three months of the present financial period, the loss being &#x00A3;1(16,000. They were, however, only to come into force on the 1st of February next, and that meant one month less, amounting to &#x00A3;38,750. If they added that &#x00A3;38,750 to the &#x00A3;133,564 which they anticipated to get from the estimated revenue, they would get &#x00A3;172,314, which would very likely be in excess of the estimate. Now, he knew that prophecy was a gratuitous form of folly, but he could not help thinking that they would very likely, in fact, very probably, have a revenue of something like &#x00A3;200,000 in excess of the estimate. Now, with regard to the &#x00A3;465,000, he would like to say a few words. At the time of Union and today still, the railway rates were different in this Province from any other Province. Of course, he was talking of the local rates within the Province. In other words, they were higher. (Hear, hear.) Well, it seemed to him that one of the first objects of Union was to equalise local rates throughout the Union. Therefore, he discussed the matter with the gentlemen with whom he had the honour of being associated, and they decided that they should bring the Cape rates down to the same level as those in other parts of the Union. That reduction involved a loss of &#x00A3;465,000, and he would ask his friend for Cape Town (Mr. Jagger) particularly to notice, because he was such a particularist, that that fell to the advantage of the Cape Province almost exclusively. Natal got a very slight advantage, but the great bulk of the &#x00A3;465,000 was almost entirely to the advantage of the Cape Province. (Hear, hear.) They would be able to relieve Kimberley, Mafeking, Beaufort West, and various other centres from the grievances which they had suffered so long. He would beg leave to say that he entirely approved of and would do all he could, to carry out the provisions of the South Africa Act, which recognised that it would be necessary for the development of the country <span class="col_697-698" refersTo="page_0358"/>that they should carry goods and passengers up-country at the cheapest rate possible. The people living at the coast had contributed precious little towards the railways. They had never called out for higher railway rates, but they did not pay them themselves.</p>
+
+</debateSection>
+
+<speech by="#opposition_members">
+
+<from><person refersTo="hansard_za">OPPOSITION MEMBERS</person>:</from>
+
+<p> Oh, oh.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Yes; precious little. I have often wished that I could put Cape Town, Port Elizabeth, and East London 200 miles into the interior, and so equalise matters. (Ministerial cheers.) My hon. friend (Mr. Jagger) has been one of the worst sinners. He has denounced me for carrying the produce of the farmers at half-price and that we in the towns have afterwards to make up the deficiency.&#x201D; Proceeding, he said that it was an accident, no doubt, but a very unfortunate one, that the four communities or the coast communities, were so free from taxation as they were. He entirely subscribed to the doctrine that to develop the country they must carry into the interior stuff that they took here for development, as well as passengers, at as low rates as possible. The provision in the South Africa Act was entirely in the best interests of South Africa. Now, the revenue per train mile was estimated at 9s. 2.29d. The revenue per train mile during the previous 10 months was 10s. 2.54d., or a decrease of 1s. 0.25d. There was an estimated fall in earnings per train mile due to reduction in rates of &#x00A3;465,000 for the year, made up as follows: Passengers, &#x00A3;109,000; parcels, &#x00A3;16,000; goods, &#x00A3;320,000; and live-stock, &#x00A3;20,000. Then he came to the expenditure. He had stated, and he hoped he had made it clear, as to the probability of a surplus of &#x00A3;200,000 over the estimated revenue.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#working_expenditure">
+
+<heading>WORKING EXPENDITURE.</heading>
+
+<p>The ordinary working expenditure was &#x00A3;4,979,000. For the previous 10 months it was &#x00A3;4,632,000, and therefore there was an increase on the ordinary working expenditure of &#x00A3;347,000, or equal to 7.50 per cent. That was owing, firstly, to &#x00A3;269,000 on account of lines newly opened; secondly, to increased staff; and, thirdly, to increments to staff salaries&#x2014;a very considerable sum having had to be provided on account of emoluments of officers. To the amount of &#x00A3;4,979,000 must be added &#x00A3;791,000 for depreciation, making, therefore, a working expenditure, including depreciation, of &#x00A3;5,770,000. The provision made for the previous 10 months for depreciation was &#x00A3;382,000 only. There was, therefore, an increase of &#x00A3;408,000 in the item of depreciation, or an increase of 106 per cent. That was entirely owing to insufficient or no provision having been made previously in the Gape and Natal for depreciation. He thought every member of the House would agree that full provision should be made for depreciation, and he considered the amount now proposed was an adequate sum; but by no means an excessive sum. The expenditure with depreciation was &#x00A3;5,570,000, and the expenditure per train mile to March 31 next was estimated at 5s. 4d., as against an expenditure for the previous 10 months of 5s. 5.98d. per train mile, equal to a decrease of 1.57d., which was the lowest on record in South Africa. The percentage of earnings was not so favourable. The estimated cost per train mile far the 10 months ended March 31, including depreciation, was 58.40 per cent., as against the cost for the previous 10 months of 53.84 per cent. That was mainly due to the loss of revenue by reduction in rates, and increased train and other services rendered to the pubic. There was an item of betterment, &#x00A3;750,000. That was about the same as was allowed last year by the C.S.A.R., and it was less than would be required to provide a sinking fund of 1 per cent. Since no sinking fund was to be provided, and since they had to run the railways so as to pay certain services, and no more, he thought hon. members would agree that it would be better to make a fair provision under that head, and in his opinion &#x00A3;750,000 for betterment was not too much to provide. In the future he hoped sufficient would be provided to cover all reasonable depreciation, and sufficient to pay for all the betterment that was required.</p>
+
+</debateSection>
+
+<debateSection name="#the_railway_position">
+
+<heading>THE RAILWAY POSITION.</heading>
+
+<p>With regard to the &#x00A3;50,000 some of the expenditure had been incurred, but he had left the great bulk over because he believed that Parliament should not lose its control of the expenditure of large sums of money where the railways were concerned. Then it would be seen that &#x00A3;163,000 had been set aside far what might be called a rates equilibrium fund. Hon. members knew the object of this. Sums were set aside in prosperous times so that when had times came they should not be obliged to alter the rates, and be able to carry on till the dark clouds rolled away. Then there was the interest on capital, &#x00A3;1,920,863. The revenue was &#x00A3;9,880,371, to which had to be added subsidiary services, &#x00A3;67,091, and there was &#x00A3;90,000 interest on revenue which was derived from the amounts on deposit, and therefore gave a total revenue of &#x00A3;10,037,462. Against that there was expenditure on working, &#x00A3;4,979,000; depreciation, &#x00A3;791,031; interest on capital, &#x00A3;1,920,863; charges in respect of lines leased, &#x00A3;11,312; betterment, &#x00A3;750,000; rates reserve fund, &#x00A3;155,333; and this left over the sum of &#x00A3;1,220,000, a little bonne bouche which he had been able to send over to his hon. friend the Treasurer. That was the position of the railways. The revenue from harbours had been &#x00A3;628,836, and the ordinary working expenditure, &#x00A3;424,863; depreciation, &#x00A3;147,590; interest on loan capital, &#x00A3;304,857, and there was, therefore, left a shortfall of &#x00A3;194,474. He went on to say that though &#x00A3;147,590 was a large sum for depreciation, the amount originally allowed was insufficient. He did not think they <span class="col_699-700" refersTo="page_0359"/>could do better than allow an annual sum &#x2014;even if it was a small sum&#x2014;in order to keep the works in proper order. In the expenditure figures it would be seen that there had been an increase of 21 per cent. on the working of the harbours. On the whole, however, there was a shortfall of &#x00A3;194,474. He did not propose to go into details as to how this shortfall occurred, until the House got into committee. He went on to refer to the gratifying position with regard to the branch lines. Their position had improved enormously: compared relatively with the larger lines it might be said that they had done better. He would gave the House a few instances. With regard to the Kraaifontein-Malmesbury line, this yielded a profit of &#x00A3;5,600 in 1908; to-day in was at the rate of &#x00A3;10,058. or nearly double. The Malmesbury line in 1908 only gave a profit of &#x00A3;2,200, while to-day the amount was &#x00A3;6,300 or about 200 per cent. better. The Eerste River-Sir Lowry Pass line, which yielded &#x00A3;5,009 in 1908, now gave a profit of &#x00A3;11,300. What was more gratifying was the position on the Caledon-Sir Lowry&#x2019;s Pass line, which many people looked upon as hopeless. In 1908 the profit was &#x00A3;2,600; to-day it was &#x00A3;6,400. But these results were not only confined to this Province, because there had been increases in other parts of the Union. He went on to refer to the Sterkstroom-Indwe line, which yielded a profit of &#x00A3;1,600 in 1909, a figure which had risen to &#x00A3;5,200.</p>
+
+</debateSection>
+
+<debateSection name="#retrenchment">
+
+<heading>RETRENCHMENT.</heading>
+
+<p>Now, he had given the revenue from the railways and harbours for the ten months. If they took the revenue for the other two months at the same rate they would then have a total revenue from these sources of &#x00A3;12,864,000. That was an enormous sum, almost equal to the general revenue from the whole of the Union. The capital spent on harbours and railways amounted to &#x00A3;89,000,000, but he might say that the amount in respect of which interest was paid was only &#x00A3;77,400,000. There was, therefore, &#x00A3;11,600,000, which had been put into the railways and harbours from the revenues derived from them, on which no interest had to be paid. The position thus was that to-day, on their railways and harbours, which cost &#x00A3;89,000,000, they had only to pay interest on &#x00A3;77,400,000, and if these concerns belonged to a private company, after paying all working expenses and making a liberal allowance&#x2014;such as had been made&#x2014;for depreciation, it would pay 4 per cent. on &#x00A3;100,000,000, and leave something like &#x00A3;150,000. (Hear, hear.) That was a very satisfactory state of things, and one which they could justly be proud of; and, he thought, when the Union went into the market&#x2014;which he supposed it would do, sooner or later&#x2014;this would be counted to it for righteousness. All that was required was to continue to manage the railways as, in the main, they had been managed in the past, with economy and with efficiency; and when a question occurred as to whether there should be retrenchment, where possible, in that respect he was perhaps a heretic. He had always held, and would continue to hold that in the public service they should not employ more people than were necessary. The talk which he had heard for years&#x2014; which was more sympathetic than economic &#x2014;that they should keep people hanging on until better times came, seemed to him, as a rule, to lead them into very serious difficulties. The turn of the tide never seemed to come until they had been forced, after a while, by necessity, to bring about retrenchment, and then the unfortunate people who had been kept were told to go, whereas if they had been told earlier it would perhaps have been easier for them to make provision for themselves. Taking the railways as they were to-day, it would look to him as if it were possible to make a reduction of, say, a quarter of a million, which was the interest on six or seven million pounds. Assuming his figures were correct, and that they could retrench to such an extent, it seemed to him to be a very serious matter that the State should be compelled to go on paying the interest on seven millions on an wholly unproductive debt. That was not conducting the railways on business principles of which they heard so much, and of which he was a disciple. Their aim should be to carry on the railways on business principles as much as possible rather than to pay unnecessarily, on staff and otherwise, a quarter of a million. He was glad that these branch lines showed such good results, because it was easy to talk of developing the country, and it was easy to tell a farmer he must grow more potatoes and wheat, but what the farmers wanted were means of communication. (Hear, hear.) Now, he had said that with the principles laid down in the South Africa Act, he was in accord. He thought it was necessary that they should carry at as low a rate as possible what was required for the development of the country to the people who were away from the coast, and he was glad that they had got to the position where they could gave practical effect to that; and as long as he was associated with the railways, or as long as he was a member of that House, be would endeavour to do his share to gave effect to it. He would only say, in conclusion, that if he could gave any further information to the House it would afford him the greatest pleasure to do so. He was a disciple of&#x2014;he did not know exactly of whom (laughter)&#x2014;but partly of great men in this country, and of great men outside; he was a firm believer in Parliament being primarily responsible to the people of the country for keeping full control over all public concerns, and especially over public expenditure. (Cheers.)</p>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said he thought the Minister of Railways was not only a disciple of business principles, but a disciple also of Transvaal lines, because there was no doubt, as far as the Transvaal was concerned, the prosperous picture <span class="col_701-702" refersTo="page_0360"/>which had been drawn was a good deal due to the railways in the North. He (Sir G. FARRAR) was glad the position in regard to the branch lines had improved. He saw from the General Manager&#x2019;s report that the loss on branch lines had been some &#x00A3;512,000.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>They have improved very much since then.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>I am very glad to hear it. We all want to develop the country and provide better means of communication, which is essential to the progress of the country; but we have had lessons in the past that there has been indiscriminate building of branch lines, that is, without proper inquiry. Continuing, the hon. member said that if branch lines were built they gave considerable benefit to the community, because markets were opened, which added to the production; but he must say that branch lines must be built with great care, great caution, and after careful inquiry. With regard to revenue, the Minister reckoned &#x00A3;253,000 per week, or roughly a million a month, so that without prophesying what surplus there would be on those figures, there was no doubt, he thought, that there would be a surplus. With regard to the provision for depreciation and betterment, he was glad that the Minister was a disciple of the Transvaal, because he thoroughly endorsed the policy of the late C.S.A.R. with regard to depreciation. He thought that that allowance was only necessary, because if they came to take the life of rolling stock, according to the figures for depreciation laid down by the late C.S.A.R., they put the average life of rolling-stock at from 15 to 20 years, so that showed that that 30 millions of money had got to be renewed every 15 years. In regard to the harbours, he saw there was a loss of &#x00A3;194,000.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Which includes depreciation.</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said that he was surprised that the Minister had not delivered another lecture to the hon. member for Cape Town (Mr. Jagger), because he could have pointed out that the people who did not live along the coast had also to provide that out of railway revenue. He was glad to notice the improvement which had taken place. He thought it would be the policy of the Administration that every service under that Administration paid that service. As to the question of the amount set aside for the equalisation of rates, he found that it seemed to be the general policy of the Government when there was the word &#x201C;shall&#x201D; to make it &#x201C;may,&#x201D; and when there was &#x201C;may,&#x201D; to make it &#x201C;shall.&#x201D; Candidly, he was one of those who did not think there was any need at present to provide for that equalisation. Under the Act of Union the word was &#x201C;may.&#x201D; He thought it had been put in the Act of Union because when a railway did not pay a fair rate of interest there was naturally need to have equalisation of rates, but when they had such a surplus as they had there was no need to provide for an equalisation of rates. He found that the whole of the reduction in railway rates was to come into operation in the Cape Province, and he congratulated those living there. He was glad to see a movement in the right direction, but he did say that the people of the Orange Free State and the North wore also entitled to some consideration, because there was not the slightest doubt that, if they considered the railway position, those who used the C.S.A.R. had provided that enormous surplus; and he thought that a greater reduction of railway rates could have been given them. There was another thing&#x2014;a portion of that reduction of &#x00A3;465,000 had been taken away already, as it was not to come into operation until February 1, a month having been taken off. He did not see any necessity for that, as the Minister of Railways reckoned there was to be a surplus. He (Sir George) thought the people in the North were entitled to a further reduction, and they would be disappointed When the railway rates were reduced in many cases there was an increase of traffic, so that the loss of revenue was not so great. He (Sir George) had hoped that the Minister would have given the House some idea of his opinion on the transportation system. Early in the session the Minister stated that the transportation system did not exist here, but afterwards he corrected himself, for in the Estimates it would be found that the system was introduced since the railways came under the hon. member&#x2019;s (Mr. Sauer&#x2019;s) charge. The transportation system was an innovation that was introduced on the advice of the General Manager of the C.S.A.R. against expert advice. It was an open question whether the system was a success. The only expert advice taken on the matter was from Mr. Brounger, who reported very much against it. He (Sir George) thought a good deal of unrest, especially amongst enginemen and drivers, had arisen from the adoption of the transportation system. That system was in force in America, but American systems were not always perfect, especially from the point of view of accidents. He was glad to see that they were going to have a separate control of the finances of the railways. He considered that the system of audit and control which was in force in the Transvaal at the date of Union was much better than that in the Cape. There was one other point. He had hoped that the Hon. the Minister of Railways would have given the House some information in regard to the Railway Board. He had asked the Hon. the Minister a short time ago to lay on the table the regulations that governed the appointment of the Board, but up to the present those regulations had not been forthcoming. He was not prepared at present to say anything <span class="col_703-704" refersTo="page_0361"/>about the constitution of the Railway Board, as he considered that every opportunity should be given to see how the Board worked and how the Commissioners carried out the duties entrusted to them The placing of the railways under a Board, subject to the control of the Governor-in-Council, was a very important innovation, and it was an innovation which he thought desirable, and one which he believed would have good effects on the administration of the railway system. So far they had only had one-half of the railway draft laid before the House. The statement made by the Minister that day had contained a certain amount of information, but they would have to wait till they got a detailed statement before they would be in a position to understand the expenditure of loan funds and the state of affairs in that respect. The Hon. the Minister had made a very clear statement, but he thought a greater reduction in railway rates could have been made than was foreshadowed in that statement.</p>
+
+</speech>
+
+<speech by="#hunter">
+
+<from>Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban, Central)</from>
+
+<p>said that with regard to the item of &#x00A3;791,000 for depreciation, it was a point which did not commend itself to him, because it seemed to be a new departure in railway practice, and it certainly was a departure from the practice of railways, which worked on business principles. Included in that amount was a sum of &#x00A3;248,000 for expenditure on permanent way works and &#x00A3;143,000 for rolling stock. Permanent way work on railways did not properly speaking come under the heading of depreciation. In the majority of cases permanent way works appreciated, and did not depreciate. The sum of &#x00A3;791,000 was really a renewal fund, and was apparently, roughly speaking, 1 per cent. of the entire capital of the railways. About three years ago he was asked by the Government of Mauritius to inspect the railways of that colony, and he was surprised to find that the rolling stock supplied 45 years previously was still running. He had to make a recommendation that that rolling stock be put out of commission and replaced. Still it was remarkable the length of service it had stood. Then there was an item called betterment, &#x00A3;750,000. That was one of those items which required to be very carefully watched. There was at present no information before the House as to how that &#x00A3;750,000 was to be applied. The principle of debiting the railways with a certain amount for betterment was a principle he approved of, and therefore he did not quarrel with the item; but as the amount proposed was a very large one, he hoped a very strict watch would be kept on that expenditure. Proceeding, he said that, considering three systems had been amalgamated, they could not have expected any particular reduction in the expenditure, but the increase had been exceedingly large. He went on to say that the English system of working the railways had been proved up to the hilt. He could not understand why they had gone in for this new system. He dealt with the transportation system, pointing out that in Great Britain it was only used toy one company out of many. The speaker was then understood to refer to the composition of the railway staffs, considering that more consideration should have been shown men who had served their country so long and so well. The results from the branch lines was a matter for congratulation, and as regards the construction of these lines in the future, he hoped that the Railway Board would gave these careful consideration, and lay full facts before Parliament. He thought it was a tribute to the work that had been done by the general managers of the system that &#x00A3;12,000,000 which had been spent on the railways had been used out of current revenue. The Minister had referred with gratification to one item. He laid great stress upon the reduction in the cast per mile. Now, the train mile was a very excellent index to a certain extent, but it was a very misleading index also, for this reason, that a railway manager who listened to the public, and ran any number of unnecessary trains, would soon increase the cost per train mile; but that was altogether against the interests of the country. He was quite sure they would all be ready to join with the Minister of Railways in congratulations on the very sound position in which they stood to-day as regarded the railways of South Africa. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that he would like to add his small tribute to those who had congratulated the Minister on his address and on the position of the railways. He had been working with his hon. friend (Mr. Sauer) for many years, and he took this opportunity of expressing the debt of gratitude which this colony owed to the Minister of Railways for the way in which he had administered the railways during the last two and a half years in the Cape Colony. It was mainly owing to him that they were able to present a fairly satisfactory position when they ended their career as a separate colony. He would like briefly to address his hon. friend the member for Georgetown (Sir George Farrar), who had referred to the position of the railways in the inland colonies. What had they done? They accumulated a very large sum, of which they were justly proud. How did they do it? By treating the coast colonies in what he (Mr. Merriman) said was a very unfair manner. (Hear, hear.) Playing off the rivalries of the two coast colonies, they were able to take a very large proportion of the share of the through rate, although the two coast colonies had to haul the goods up to the plateau. They took the lion&#x2019;s share of the through rate&#x2014; (hear, hear)&#x2014;and, more than that they acted on &#x201C;pure business principles.&#x201D; They screwed the agriculturist to the utmost extent. <span class="col_705-706" refersTo="page_0362"/>They charged, and boasted that they charged much higher rates than they were warranted in doing. Those were the &#x201C;business principles&#x201D; which his Hon. friend (Sir George Farrar) had no doubt found eminently successful in a career which: they all admired. He did not think that the position in the Cape ought to be thrown in their teeth when they remembered that they had gigantic intellects like his hon. friend, working a rival concern upon &#x201C;pure business principles,&#x201D; that was screwing the utmost they could out of the rivalries of the two peoples with whom he had to dead. Now, it was a great thing, no doubt, for the railways to have four and a half millions, of which he believed at the present moment two millions was on deposit in the National Bank, Transvaal&#x2014;very nearly two millions. Then they were to go on still building up this fund. What for? To put more of it on deposit? No, he did not think that was sound policy at all. They, of course, in the Cape had had a depreciation fund. In this country they had paid something like five millions from the debt during the past twenty years. That was adding to the assets, but at the same time they were increasing the burdens of the people of this country for the purpose of piling up a fund of money which they were going to put away in a bank. It was not sound policy, in his opinion. There was a golden mean that they would work it upon. They should not forget that they were still going on and paying the sinking fund. They contributed something like &#x00A3;1600,000 or &#x00A3;700,000 to sinking fund every year, to which the railway did not contribute&#x2014;&#x201C; on business principles.&#x201D; Let him tell his hon. friend (Mr. Sauer) that these transportation people, or whatever they called themselves now&#x2014;they used to be general managers&#x2014;if they found that there was a large sum in his pocket they would immediately want a nice class of rolling-stock. Then, it was said, what was to be done with the old rolling-stock? Scrap it? Laughter.) Now, scrapping was an expensive thing, and scrapping meant high rates, and high rates meant a lack of development in the country. His hon. friend had spoken recently about the development of the country, but how could they talk about the development of the country when the railway rates were being kept up in order to accumulate a large fund to keep in a bank. The true development of the country was to keep their railway rates down as far as possible. (Hear, hear.) Now that this was one country they could get to work on something like proper principles. They should not be cutting each other&#x2019;s throats for the purpose of enabling his astute friend (Mr. Sauer) to keep up his rates when he got up to the Hat country. There his hon. friend sat with four and a half millions&#x2014;a fair mark at which they would all have a shot in the future. His hon. friend held the soundest doctrines: he knew that if they ran a mile of railway into the country, unprofitable as it seemed to be at first, they were bringing the means of development over a larger area. There was another thing he wished to point out. He was sure his hon. friend would not keep up the agricultural rates in the Transvaal higher than they were in the Gape. Then it seemed absurd that while they had in this country a great abhorrence of dumping, while they were shouting against dumping, they were doing all they could to dump the produce over the sea, at such rates that it positively almost paid to buy the produce needed here for consumption in a foreign country and bring it back here, because they could not buy it at their own doors. There were me allies, for instance: it did seem absurd to have mealies going past their own door while they had to import mealies. Another thing which he had been asked to bring before the Minister was as to the rates upon Transvaal coa1. Now, they could put out coal as cheaply as it could be done anywhere in the world&#x2014;for 3s., he believed, it was put out at the pit side. Yet all down in the Midlands and wherever there were big irrigation works and big pumping plants they had to pay extremely high rates for coal. For domestic purposes they had also to pay heavily, and they could not get coal down here at mineral rates. If the Minister would gave his attention to this, he would open up a very large trade indeed. Proceeding, Mr. Merriman said he did not want to go into all sorts of little details; he simply rose for the purpose of congratulating his hon. friend, and at the same time to put a little strength into those excellent principles which he knew his hon. friend possessed on the subject. If was to him (Mr. Merriman) a very gratifying thing to be able to congratulate the Minister of Railways upon having a concern which, as he had said, was worth a hundred millions, and which produced a revenue of twelve millions per annum. It was a sound thing to have built that up. Thirty-five years ago, he (Mr. Merriman) assisted in the Parliament of the Cape in passing the first Railway Bill, which gave expansion and the possibilities of expansion to the country; and he remembered nothing which more marked the change that had passed over this country. It was a great change indeed from the tiny little railway which ran to Wellington. He remembered the enormous fuss that was made when Mr. Molteno, owing to the influence he had over the people of the country, induced them to consent to a loan of four millions, which was considered to be a gigantic revolution. That was a great change, but there was a much greater change still, and that was over the spirit of the people. At that time the Boer was a cautious man, the landowner seemed to have some idea that when there was borrowing of money he was putting a mortgage on his own country. At present that was entirely changed. And who caused the Government to borrow <span class="col_707-708" refersTo="page_0363"/>money now? Who regarded millions as if they were dust under his feet? It was the landowner of this country. (He was the man who was always inciting the Government to barrow, little recking of the future, Well, he (Mr. Merriman) did hope that that spirit would be held somewhat within bounds, because it was a dangerous spirit, and although they had got this large asset, at the same time they must remember that they had very great responsibilities in this country, and that the country was not altogether in all respects a rich one; and to go on borrowing money in the way same people proposed would be an unwise thing.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that, for two reasons, he would not follow his hon. friend (Mr. Merriman) in congratulating the Minister of Railways upon having made admirable and lucid statements. In the first place, he would be laying himself open to the charge that it would be afterwards impossible to criticise any statement when they got into committee, and, secondly, he did not consider the Green-book supplied to hon. members gave them the most lucid and clear statements. He had been amused at the speech of his right hon. friend, who had spoken of agricultural development and the construction of more railways, but how had he finished up? &#x201C;Beware of the danger of borrowing money and placing the bonds on the farming community who had to foot the bill.&#x201D; Well, railways could not be built without borrowing money or without a surplus of revenue over expenditure. So his right hon. friend had been opposed to both principles.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>No, he has not.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>He advised the building of as many railways as possible, and cavilled at the C.S.A.R. for laying out this large fund.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>I did not cavil at them for that, but for accumulating it and putting it into the bank.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that the right hon. gentleman had also claimed for a reduction of rates. They were not to borrow, and he would like to ask where was the money to come from with which to build these interesting railways? He had also been pleased to hear that the right hon. gentleman, in complimenting the Minister of Railways on the reduction of the rates, had come back to the old faith, for he had once raised the rates. The right hon. gentleman had referred to the C.S.A.R. bleeding the coastal colonies, but did he remember the time when the coastal colonies kept the Customs dues, and when there was the in-transit rate, which he (Dr. Smartt) when in office had reduced from 3 to 1 per cent.?</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown):</from>
+
+<p>What about Kimberley?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>replied that that was within the Colony, and was competition of quite a different character. As to the Green-book, he wanted a clear and simple statement of the position of the railways on May 31, showing how much was revenue balance and how much loan balance; how much had been appropriated and the items for which it had been appropriated, how much had been expended, and the position when the Minister of Finance had made his Budget statement. Then they wanted to know how it was proposed to allocate these moneys, and the views of the Railway Board on that allocation. Then as to the balances, the cash and loan balances in the possession of the various railway administrations should be placed in the hands of the Railway Board of their administration&#x2014;whether it was right or wrong to do so he was not now arguing&#x2014;but on that basis they had come into Union, and it had been provided for in the Union Act. He hoped that the Minister of Railways would lay the resolutions of the Railway Board on these matters before the committee. As to the transportation system, had that question been fully discussed by the Railway Board? He asked whether that principle of transportation for the amalgamated railways was the recognised policy of the Board, after the fullest discussion and fullest consideration of the question? That should be laid before the committee, too. On page 28 he found a statement as to a balance of &#x00A3;39,000 of revenue over expenditure in regard to real estate. They wanted to know what that real estate really was. Another point he would like to know was whether, in the appointment of the Acting General Manager of Railways, that had been made by the Railway Board or by the Government? He did not wish to be understood to reflect in the slightest on the General Manager of the S.A.R., because he considered him an admirable officer; but, as far as his memory carried him back, in the same &#x201C;Gazette&#x201D; in which he had seen the appointment of the Railway Board, he had also seen the appointment of the Acting General Manager. If that were the case, it was unfair to put the responsibility on the Railway Board, when they had not selected the General Manager. He thought that these were facts which the Minister of Railways ought to place the House in possession of before it went into committee. He was glad to hear of these rates being reduced; but he hoped that the Minister of Railways would tell them on what basis they had been reduced, and whether it was on the basis of mileage or a sliding scale for distance. Before very long the whole question of railway rates throughout the Union would have to be gone into. A sliding scale should be introduced, and the old mileage system&#x2014;which had done much to prevent development in the Cape Colony&#x2014;should be done away with. When he was Commissioner he approached the right hon. member for Victoria <span class="col_709-710" refersTo="page_0364"/>West (Mr. Merriman) who was the leader of the Opposition, with the suggestion that there should be a Commission, on which both sides should be represented, to go into the question of railway rates; but his right hon. friend did not see his way clear, either to sit on the Commission himself or to allow any of his followers to do so. Thus, the right hon. gentleman allowed political considerations to dwarf the general considerations of the wellbeing of the whole of the Colony. (Hear, hear.) He (Dr. Smartt) would like to know what the Minister of Railways was going to do with some &#x00A3;500,000 worth of debentures which fell due shortly. Would be pay for them out of revenue or out of the balances in his possession? There had been a good deal of discussion prior to the meeting of Parliament as to the economies which ware to be effected when the railways came under Union. Perhaps the figures in the Estimates could be explained, but they did not point towards economies. For instance, the administration of the Stores Department under Union was to cost &#x00A3;132,000 for 10 months, against &#x00A3;115,000 for the administration of the three different systems for the preceding 12 months. There was another very interesting item, which he had no doubt his hon. friend would explain. They had heard a great deal about Asiatic immigration, and he (Dr. Smartt) was surprised to find in the Railway Estimates that a large amount was put down for Indian recruiting. There was another point of great importance to the men which his hon. friend had not dealt with&#x2014;that was equalisation of salaries. Salaries were paid on an entirely different basis on the three old systems. They would never have a contented service if salaries were not paid on a fair and reasonable basis. Next, as to the accounting department; the expense for this for the amalgamated service was to be higher than that of the whole three different systems. It seemed to be an anomaly that the railway auditor was to be paid &#x00A3;100 a year less than the chief railway accountant. Then his hon. friend had said that since amalgamation the staff had been increased by 1,100 men, and he also stated that if they had economy they could reduce the expenditure by &#x00A3;250,000. These two statements did not balance. Dr. Smartt went on to say that he did not agree with his right hon. friend (Mr. Merriman) that they should not make fair provision for charges such as betterment, contributions to capital, and renewal. It would be an ill day for the State if they had nothing put by with which to deal with periods of depression. As to the reduced railway rates, the House should get some statement as to the reasons why the Railway Board had decided that the reduced rates should come into force on February 1 instead of January 1. With regard to the depreciation on rolling stock, the amount set aside for that purpose might or might not be enough. There must be an enormous obsolete stock in the three Administrations, and what he wanted to know was whether there had been a thorough valuation of railway stock since May 31. Otherwise, how were hon. numbers to know that the charge for depreciation of &#x00A3;534,000 was sufficient? For years and years, save the period 1899-1900, the old Cape Government Railways had brought a charge against depreciation of railway stock and permanent way.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>Totally inadequate.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>Would my hon. friend direct his remarks to the Minister of Railways, because although inadequate, we recognised the system. But when my friend (Mr. Sauer) took office he drew his pen through it, and it disappeared from the Estimates altogether. Proceeding, he said there was another question he wished to deal with, and that was the question of railway sleeper plantations He referred to what had been done in the Cape in this matter, and said that it was the duty of he railway authorities to lay down plantations in the vicinity of the lines for the purpose of growing timber for sleepers. He could not find a vote for that purpose in the Estimates. He found, however, a vote for the sleeper factory at Knysna. Now, he thought it would be far better to utilise the money for the replanting of trees. It would gave the poor white woodcutters permanent employment, whereas their employment at the present time was of the most casual character. He would like to see a far larger amount placed on the Estimates for that purpose. Another question he wished to raise was that of reducing gradients. He would like to know, for instance, whether it was the intention of the Government to carry out a reduction of the gradients on the Western system so as to facilitate considerably travelling between Cape Town and Pretoria; and whether it was their intention to reduce the gradients on the Klerhsdorp-Fourteen Streams and Fourteen Streams-Johannesburg lines. These were facts which the House should have in its possession. He only hoped that a policy of opening up the agricultural resources of the country would be adopted by the Government and the Railway Board, but in that connection he must say that he received with a certain amount of misgiving the statement of the Minister as laid on the table and the reasons which he gave for not carrying out the lines already authorised by the various Parliaments. He understood the Riversdale-Llewellyn line had had to stand over on account of tick fever. Surely, however, Cathcart-Clifton was a line which should have been proceeded with; surely the Belmont-Douglas line would be a line which would open up an irrigation district with great possibilities; surely the Queen&#x2019;s Town-Whittle-sea line would develop as good an agricultural district as any of the lines already <span class="col_711-712" refersTo="page_0365"/>opened up; surely the Butter worth Idutywa line was a line absolutely necessary, especially in view of the inroads of East Coast fever and the suspension of ox-wagon traffic; and surely the extension from Alexandria to a point on the Victoria railway, with a view to eventually opening up the district of Peddie was a consideration which influenced the Cape House when voting money to build the line from Barkly Bridge to Alexandria. When Union took place on May 31 several railways had been authorised by the various Legislatures of the Union, and he wanted to know who had subsequently decided which of those lines should be built and which should not be built. The House was entitled to know the reasons which actuated the Government in undertaking certain lines and not undertaking certain other lines. When the House went into committee on the question it would facilitate the passing of the Estimates if that information were given. It was never the intention of the Act of Union that the Minister for Railways, perhaps for political purposes, should commence the construction of some lines of railway, and should leave alone the construction of other lines. He would like to have in writing the reasons of the Railway Board for earmarking certain sums for certain particular lines, and he would like to have the minutes of the Railway Board laid on the table of the House. He considered that year by year within fourteen days of the meeting of Parliament the minutes of the Board should be laid on the table of the House, so that the House could judge how the Board were going into the various questions left to their administration, and how the railways were being controlled. He hoped when the House went into committee they would have a free and full discussion, but he trusted, with a view to making that discussion as short as possible, the Minister for Railways would place the House in possession of all the facts in connection with that matter.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said the Minister for Railways had referred to the increased efficiency of the railways. He would like to know if the Hon. Minister did not attribute a good deal of the efficiency that had taken place of late years to the encouragement of white labour, and if that was the case, would the Hon. Minister not consider how he could still further use white labour in the future. The Transvaal railways in late years had been almost entirely constructed by white labour, and it would be interesting to know whether the wear and tear in connection with the lines laid by such labour was not less than on lines which had been laid by native labour. The Minister had referred to future retrenchment. He (Mr. Sampson) considered that the lines on which any further retrenchment should take place should be in connection with the coolies employed in Natal. Coolie labour might be found cheap, so far as salaries were concerned, but in the long run it would be found that it would have been better had the work been done by white labour. There seemed to him to be a danger that in framing his next Budget the Minister for Railways would allow a very small margin for the betterment of the workers on the railway. He hoped, however, better counsels would prevail, and that the Minister would allow as generously for the betterment of his workers as he allowed for the betterment of his rolling-stock. In conclusion, he said that in view of the doubtful benefit of the continued use of native labour at the present rate of wage and under present conditions, the Minister should at least decrease the facilities for bringing natives from outside the country into the country, so that they might compete with white men.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said he would like to dispel the idea that had somehow got abroad in connection with the transportation of goods from the coast, and the fact that the Central South African Railways got the lion&#x2019;s share of the through traffic. He admitted that they did get the lion&#x2019;s share of this, but he would like hon. members to ask themselves who paid these rates. The people who paid these rates were people in the Northern colonies, by whom these railways were served. Then it had been said and had been insinuated, that the Transvaal had played the coast ports against each other, and had got better terms from a foreign State. He pointed out that the Northern colonies were under a treaty with Portugal, and that if the Transvaal had used the Delagoa line on strictly business principles, and had cut the rates, the greater share of the traffic would have come through Delagoa Bay. With regard to the accumulation of railway funds and the suggestion that the Finance Minister should make use of this money, he pointed out how careful the Convention had been on this point, and maintained that South Africa should be guided by the experience of other countries. In other countries it had been found a very easy matter to make use of money of this kind; but seldom or ever had these amounts been placed back. He thought that if such a policy were adopted, those who acted in that way would be ill advised. He proceeded to deal with the amounts set down for betterment and depreciation, and said that he was in agreement with what had been said by the hon. member for Fort Beaufort (Dr. Smartt) in regard to the rolling-stock of the country. He thought that, to be on the safe side, the best policy they could pursue would be to have a thorough investigation of the value of the rolling-stock at present in use. He went on to refer to what his right hon. friend had said with regard to landowners borrowing money. In the past the landowners had been wary of such a policy, but of late years his right hon. friend had said that there had been a complete change. If they examined the matter he thought they would come to the conclusion that the <span class="col_713-714" refersTo="page_0366"/>present-day willingness of landowners in regard to the borrowing of public money was due to a shifting of the incidence of taxation. He did not say that there should be wholesale taxation on the land, but what he did say was that when railways were laid down, and the value of land enhanced, these owners should contribute something more than they were doing at the present time. He congratulated the Minister upon the reductions in local matters which he had been able to effect in the Cape Colony, and said he thought those reductions ought to have been effected long ago. He hoped that when the Railway Budget came in they would be able to see a general reduction all round, as, indeed, they must if the present conditions continued. Mr. Duncan went on to urge upon the Minister the need of going carefully into the coal rates, and he submitted that the Railway Department were justified in charging the lowest possible rate for the carriage of coal. He pointed out that there was a danger that the large power companies on the Rand might, if the rates were not reduced, remove their stations to the pit, where the coal was produced, and thus the railways would lose a large amount of the present coal traffic. Mr. Duncan also drew attention to the need of (improved housing of the employees on the railways, and the provision of better coaching accommodation for the native traffic in the Transvaal, and, in closing, he remarked that he thought the Minister was to be congratulated on being able to produce a Railway Budget of that kind. What they had got to see now was that the provisions of the Constitution were carried out, and that these enormous revenues, which they were earning from the railways, were to promote railway communication throughout the country, and to gave the employees on the line as reasonably good conditions as possible. (Cheers.)</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District North)</from>
+
+<p>said that he thought it was decidedly wrong that these reductions in the Cape Colony should be made without reductions being made in the Transvaal. He also urged that a revision of the coal rates was necessary, and said that in an area of between 50 or 100 miles in the Transvaal the profit on the carriage of coal was 60 per cent. The railway charges for the huge machinery used on the gold mines had to be paid by the mines as well as these charges on the carriage of coal, so that the gold mines had to pay much more to the revenue than was fair. The same thing applied to some other industries there. It was true, as the hon. member for Fordsburg (Mr. Duncan) had said, that power stations were being erected at the coal mines, so that the railways would lose the revenue which accrued from the carriage of the coal. That meant that the railway rates on other goods would have to go up through the loss of this traffic. By lowering the rates, they would increase the traffic; by keeping the rates up, they would be giving another power the chance of coming in and competing. The Transvaal surplus should have been applied to the reduction of the railway rates. The people of the Transvaal had expected that, for they were told that the railways were to be run on business principles. In the Transvaal they had been paying toll ever since they had a railway there; they had been paying huge sums to the revenue of the coast colonies. Proceeding, the hon. member said they had to consider seriously in regard to the railway policy whether the railways to be built would open up the country, irrespective of whether they were going to pay. In countries where they had rivers even, they found that the railways had taken away the traffic from the rivers, and thus they found it to be universally the case that the railways were the greatest instruments in the opening up and development of a country. If they built a line between Zeerust and the main line, a distance of about 40 miles, they would save 300 miles, and he hoped that the Minister of Railways would see that that railway was built. They did not get trade for the Union to-day which they could if that line were there. They might say that Natal would benefit, but they must not go in for that dog-in-the-manger policy.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that his hon. friend (Mr. Sauer) had accused him of wishing to raise railway rates on natural produce. So far as he knew, he had never done so, but he would say this: that he had opposed the making of branch lines from time to time. If he had sinned in that respect he had sinned with his hon. friend (Mr. Sauer), who had also opposed these lines; in fact, he had done much more, he had absolutely refused to make them. They had heard much from the Minister about developing the country, but here were these four lines referred to by the hon. member for Fort Beaufort (Dr. Smartt), which were for no other purpose than developing the country, to which not a spade had been turned. The whole of the money for these lines&#x2014;which had been authorised by Act 34 of 1906&#x2014;had been raised, and of the &#x00A3;2,026,000, &#x00A3;2,000,000 had been raised on permanent loan, not on Treasury Bills, leaving &#x00A3;26,000 still to be raised. His hon. friend had that money, and yet he had said that certain lines were again to be brought before Parliament.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that he had not said that.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>thought that it was a fair inference to make from the Minister&#x2019;s speech that some of these railways were again to be brought before Parliament. The hon. member accused him (Mr. Jagger) of not wishing to push the country along, and being in favour of raising the rates; and here was the opportunity of developing <span class="col_715-716" refersTo="page_0367"/>the country by building these lines; the Minister had the money in his pocket, or it had been devoted to some other purpose. As to the point raised by the right hon. member for Victoria West (Mr. Merriman) and the hon. member for Uitenhage (Mr. Fremantle), that no contribution was made to the Sinking Fund out of railway revenue, he need hardly say that that matter had been a good bit debated in the Convention, and also in Parliament. There had been a good deal of division on that matter. He held that under the agreement they had made they were bound to stick to it&#x2014;it was part of the agreement under which the Northern colonies had entered Union. It was always contended that if they kept the rolling-stock and the line up to standard, they did as much. Of course, that meant what had been done by the Railway Board&#x2014;providing a liberal allowance for depreciation, betterment, and so forth.</p>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central),</from>
+
+<p>continuing this speech, said that the amount contributed out of the general revenue of the country by way of railway revenue and capital expenditure amounted to &#x00A3;7,419,000. The railways paid interest on this. The Minister of Railways had made fairly liberal provision for both betterment, and depreciation. He (Mr. Jagger) was rather surprised at what the right hon. member for Victoria West (Mr. Merriman) had said in reference to this matter. He (Mr. Jagger) thought it should not be piled up, and the sooner it was used the better, because it did not pay the country to have money in the bank earning 3&#x00BD; per cent. interest. Better use could be made of this money in relaying and regrading the railway. It would pay to regrade the line from Touws River to Dwyka. The Cape Colony had had no fixed policy in reference to railway sinking fund and depreciation. The railway interest had been counted at &#x00A3;3 14s., and the sinking fund had not been kept distinct. He thought it was an extremely sound policy to make liberal provision for betterment and depreciation, because it kept up the earning capacity of the railways. Referring to the item of &#x00A3;25,000 for railway sleepers from Knysna and Storms River, Mr. Jagger said he could not understand how the Minister of Railways could have agreed to this, seeing that the railways were supposed to be run on business principles. The purchase of these sleepers was condemned both by the railway authorities and the forest officers, and also by everyone who had the interest of the woodcutters at heart. The Cape sleepers cost more than the imported, but the life of the former was not so long as that of the latter. Then the wood was far too good to be used for the purpose of making sleepers from. These facts had been known by the Minister of Railways for years past.</p>
+
+</speech>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp):</from>
+
+<p>It is the short wood they use.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>I prefer to take the Forest Officer&#x2019;s authority. Proceeding, Mr. Jagger said that the life of the woodcutters was both demoralising and precarious. The woodcutters could better be employed on reafforestation work. Continuing, Mr. Jagger said that he noticed that the Minister of Railways and Harbours had estimated a revenue of &#x00A3;16,000. Now, he wished to know how he was going to get that amount, because he did not see how he could get revenue from lighthouses. One matter which he particularly desired to bring to the notice of the Minister was the necessity of a lighthouse at Slangkop. He hoped he was going to make some provision for such a lighthouse. The question of lighting the coast had come before a Lighthouse Commission, which reported that three things were badly required. The first was the improvement of the Agulhas light, the lowering of the Cape point light, and the construction of a lighthouse at Slangkop. The Agulhas light had been improved, but the lowering of the Cape Point light and the Slangkop light had never been attended to, and since the report of the Commission two ships had gone ashore, the Maori and Umhlali. Now, he did not say that if the Slangkop light had been there these wrecks would have been prevented, but he certainly thought that the Slangkop light was very badly needed, and he hoped the Minister would see his way clear in the near future to put up that light. (Hear, hear.) If the lowering of the Cape Point light and the construction of the Slangkop lighthouse were attended to, then he thought the South African coast would be very fairly provided for in the matter of lights. Another matter upon which he desired some information was that of Indian recruitment. He agreed with what his hon. friend had said in regard to the railways being a very large and valuable property, bringing in a revenue of something like &#x00A3;12,000,000, pretty well as large as the general revenue of the country, but, to his mind, it was necessary that there should be very careful handling, otherwise they might easily get into a mess. The present prosperity was, to his mind, a source of temptation to go in for extravagant management. The Minister would have to be very firm, because political influence would be brought to bear upon the railway management. It was to guard against such dangers that the Convention created the Railway Board. There could be no question about that&#x2014;(Opposition cheers)&#x2014;but he thought that the House was inclined to ignore or forget the existence of the Board, as was shown by the appointment of the Commission to inquire into the grievances of the railwaymen, quite independent of the Board. To <span class="col_717-718" refersTo="page_0368"/>his mind, the best policy the House could pursue was to trust the Board, and leave them a reasonably free hand. (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort),</from>
+
+<p>after regretting that more details had not been given in regard to stores, said that he wished to enter his protest against certain acts of petty tyranny which were going on, one of the most recent of which was in connection with the elections. In various parts of the Union Government employees were told that if they stood as candidates they must resign. He knew that these men had to resign. In some cases the unsuccessful were offered their positions back again, but others were refused. Proceeding, he said that he noticed that there was a sum for wages for Indian coolies on the railways in Natal, and he wished to point out that, whereas the Transvaal was spending thousands of pounds sterling to keep the coolies out, in Natal they were spending thousands and thousands of pounds sterling to bring them in. He mentioned the fact that the heads of departments of the Natal Government Railways told a Commission which considered the matter that they could do without coolies. There were about 4,000 coolies employed, but he was glad to say that since the sittings of that Commission there had been an improvement. The Commission were also told that down at the Point, Durban, they could do without coolies. Now, if they could do without them, why should they increase the number?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that, nevertheless, a very bad policy had been introduced within the last two years. Coolies had displaced the natives. Now, to his mind, the work of this country should be done by the people of the country, whether they be whites, native, or coloured, as far as possible. Another point he wished to mention was that elderly men had been discharged, simply because they were born a bit too soon. (Laughter.) When the next Estimates came up, he would tell them the truth in all its hideous reality, and then hon. members would see that it was a necessity that something should be done.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The debate was adjourned until Wednesday.</p>
+
+</adjournment>
+
+</debateSection>
+
+<debateSection name="#naturalization_of_aliens_bill_senate&#x2019;s_amendments">
+
+<heading>NATURALIZATION OF ALIENS BILL.<br/>SENATE&#x2019;S AMENDMENTS.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>communicated a message from the Senate, in which the Senate had made certain amendments.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved, seconded by Mr. LOUW: That the amendments be considered on Wednesday.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mining_profits_tax_motion_to_commit">
+
+<heading>MINING PROFITS TAX.<br/>MOTION TO COMMIT.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved that the House go into Committee of Ways and Means to consider the following: &#x201C;(1) That there shall be assessed, levied, collected, and paid to the revenue of the Union under the provisions of, and subject to the conditions enacted by, any Act which may be passed in the present session of Parliament, a tax on the profits of mining as follows: (a) On the profits from mining or winning of gold, 10 per cent. (b) On the profits from mining or winning of precious stones, 10 per cent. (c) On the profits from mining or winning of other minerals, according to the following scale: Where the amount of profit does not exceed 5 per cent. of the gross revenue, 2&#x00BD; per cent.; exceeds 5 per cent., but does not exceed 10 per cent., 3 per cent.; exceeds 10 per cent., but does not exceed 16 per cent., 3&#x00BD; per cent.; exceeds 15 per cent., but does not exceed 20 per cent., 4 per cent.; exceeds 20 per cent., but does not exceed 30 per cent., 5 per cent.; exceeds 30 per cent., but does not exceed 40 per cent., 6 per cent.; and thereafter for every additional unit per cent. of profit an addition of 0.1 (decimal 1) per cent. to the rate of tax. (2) That the profits for taxation shall include profits derived from the mining or winning aforesaid, and from any product or undertaking in connection therewith. (3) That in assessing the profits of gold mines there shall be deducted an allowance for the amortisation of capital actually expended. (4) That in assessing the profits from the mining or winning of any of the minerals mentioned in the sub-section (c) of the first paragraph, the rate of profit shall be taken to be the percentage of the amount of profit to the amount of gross revenue. (5) That the taxation in respect of diamond and copper mining companies in the Cape Province be levied as from the date to which the profits of the respective companies have been charged to, and have borne and paid income tax under the Cape Income Tax Act, 1909; and in respect of the diamond mining companies in the Orange Free State Province, that the said taxation shall be levied as from: the date to which the profits of the respective companies have been charged to, and have borne and paid profits tax as imposed by the Orange River Colony Ordinance No. 24 of 1907. (6) That the said taxation shall not be levied on any profits derived as aforesaid in which the Crown is entitled to share by virtue of any law, grant, lease, or agreement. (7) That whenever the profits derived as aforesaid do not exceed &#x00A3;1,000 sterling in any one year an exemption from the said taxation shall be allowed <span class="col_719-720" refersTo="page_0369"/>in respect of those profits for that year.&#x201D; In moving the motion, the speaker said that before he went on with the observations he wished to make, he would like to amend the motion by expunging the words &#x201C;or undertaking&#x201D; from the second section. Continuing, he said that hon. members would recollect that when he made his Budget statement he intimated that he intended to make good the difference between revenue and expenditure by appropriating a sum of &#x00A3;1,200,000 from the railway surplus; and also intimated that he intended to apply the provisions of the gold profits tax of the Transvaal to those diamond mines in the Cape Province and in the Free State, which at present paid no tax: and he further indicated that he proposed to pass a uniform law of taxation dealing with base-metal mining, and in the case of the copper mines that he intended it should be paid from the time the copper mines paid income tax in the Cape Province. He also said he would take advantage of that opportunity of proposing uniform mining taxation right throughout the Union, uniform taxation not only in respect of base-metal mining, but in respect of diamond mining, of gold mining, and of other mining.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#uniform_taxation">
+
+<heading>UNIFORM TAXATION.</heading>
+
+<p>And he was sure that hon. members would agree with him that it was desirable that there should be a uniform tax, and if it was desirable, then it was desirable to have that taxation imposed as soon as possible. He was sure, too, that no hon. members could object to the proposal that diamond mining should be taxed on the same basis as gold mining. He was pleased to observe the other day that one of the representatives in that House of the principal diamond mining company affected by the tax&#x2014;he would not say welcomed the tax, but, at any rate, raised no dissent to the proposal, because he thought it would be recognised that the real imposition of the tax on diamonds was to all intents and purposes a re-imposition of the income tax on a slightly smaller scale, which the diamond mines of the Gape had been accustomed to pay during the last few years. He thought it was very desirable before he explained the system of taxation at present in force in the various Provinces, that hon. members should clearly understand what the principles were which at present governed the ownership of precious metals and precious stones; and he was sure the House would bear with him for a few minutes while he discussed the legal position in the various Provinces in regard to the ownership of these precious stones and minerals. He supposed that most hon. members were familiar with the laws which at present existed, and that these laws differed very considerably. It was rather curious to observe what enormous encroachments had from time to time been made by the Legislatures of some of the Provinces with regard to the rights of private owners of land. They were, no doubt, aware that there were, broadly speaking, two classes of titles to land in South Africa. There was one class of title which contained a reservation in favour of the State or the Crown of all precious stones or precious minerals. That form of title was commonly known as a British title based, no doubt, upon the form that was observed in England. The other form of title that was found in South Africa was known as the Free State title; it contained no reservation in favour of the Crown, and the result of the second class of title was this: that if diamonds or precious stones or gold or precious minerals were discovered upon a farm under the Free State, that it all went to the private owner. It was with regard to the second class of title that he would like to address the House. Now, most of the land grants made in the Free State&#x2014;most of the grants, if not all&#x2014;and most if not all of the land grants in the Transvaal were based on what was known as the Free State title. The Kimberley and other farms were all under the Free State title</p>
+
+</debateSection>
+
+<debateSection name="#divergence_of_legislation">
+
+<heading>DIVERGENCE OF LEGISLATION.</heading>
+
+<p>The great majority of the titles in the Gape Province and the Province of Natal were based upon what was known as the British title. It was curious to see how in some of the Provinces the Legislatures had gradually encroached upon the rights of private owners. He thought it was admitted that, under the Free State title the private Owner, the grantee, of the land was entitled, upon the discovery of a diamond mine or a gold mine upon his farm, to the sole and complete right to those mineral and precious stones, but they found that for many years, and especially in the Province of the Transvaal, the Legislature had gradually encroached upon and gradually curtailed the rights of the private owners, and to some extent the same legislative policy was pursued in the Free State. Curiously, however, no such policy was pursued in the Province of the Cape of Good Hope, but on the contrary, instead of private rights to precious stones and minerals being curtailed, as had been done in the Transvaal and Free State, they found in the Cape Province a farm which was held under the Free State title, if a valuable discovery of diamonds or gold were made upon such a farm, the private owner to-day, under the law of the Cape Province, had the benefit of the whole of that discovery. The State had no interest and no participation in that discovery. In the Cape the Legislature had gone in the opposite direction to what the Legislatures in the Provinces of the Transvaal and Natal had done, and, instead of reserving to the Crown or the State, as they were entitled to do under the titles, the whole of those diamond or gold discoveries, they had by legislative enactment, if a discovery of gold or diamonds took place upon private land, where the owner had no right <span class="col_721-722" refersTo="page_0370"/>to minerals or precious stones, enabled the owner in such a case to be entitled to half of the discovery.</p>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>interpolated a remark which was inaudible in the Gallery, whereupon</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>proceeded to say that in the case of gold the owner got rights which he was not entitled to under his title. Let him remind hon. members how the Legislatures had incroached in the Northern Provinces of the Transvaal and the Free State upon the rights of the private owners.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#legislative_encroachment">
+
+<heading>LEGISLATIVE ENCROACHMENT.</heading>
+
+<p>In the Transvaal, where the encroachment had been the greatest in respect of diamond mines, the position to-day was that, in spite of the fact that the owner of the land held a grant under which there was no reservation to the Crown or the State, yet, upon the discovery of a diamond mine upon the farm, the State was, by legislative enactment, entitled to 60 per cent. of the profits made from the working of that mine. (Hear, hear.) In the Free State they had declared that upon the discovery of diamonds the State should be entitled to 40 per cent. of the net profits of the mine. Again, take the case of gold In the Transvaal, the Legislature had reduced the owner&#x2019;s original rights to this position, that to-day, upon the discovery of gold he was entitled to a mynpacht equal to 20 per cent, of the mineral area and half of the claim licences payable in respect of the area, and the State was entitled to the balance. In the Free State the position was that upon discovery of gold upon a private farm the owner became entitled to a mynpacht, equal to 10 per cent. of the mineral area, and to 50 per cent. of the claim licences, and the State took the rest in each case. Up to now he had said nothing in regard to the Province of Natal, because there all the titles, with the exception of a few newly-annexed districts, were British titles. There was no question that, if a discovery took place, the Crown would be entitled to the benefit of that discovery, subject to the payment of a small royalty. He had thought it necessary to make this statement, because he hoped that his hon. friend the Minister of the Interior, who was also the Minister of Mines for the Union, would take steps, and, he trusted, at an early date, to bring about uniformity, so that the State or the Crown would in future, upon any new discoveries of gold or diamonds, have a substantial interest in these discoveries. He should now refer to all the existing taxation laws in each of the Provinces upon diamonds, gold, and base metals. First of all, in regard to gold, the tax upon the profits made from gold mining was in the Transvaal, at the rate of 10 per cent., and profits under the Transvaal law&#x2014;net profits&#x2014;meant for the purpose of assessment of the tax, the gross value of the profit obtained, less cost of working, and also an amount to be deducted for amortisation of capital. There was no similar tax in any other Province of the Union. This tax of 10 per cent. on gold was first imposed in the Transvaal some seven or eight years ago, and certain machinery was laid down in the Jaw of 1902 for the assessment and collection of the tax. That machinery had worked well, and he thought the House would be acting wisely if they adopted the machinery which had been in operation in the Transvaal for the assessment and collection of this tax. He proposed to impose that machinery right throughout the Union, subject to certain minor modifications in the assessment and collection, which the experience of the Transvaal of the last eight years had shown them to be necessary. In respect to diamonds in the Transvaal and Free State, they to-day received a share in the profits in the Transvaal of 60 per cent. from diamond mines, and from the Free State 40 per cent.; but in the Free State this 40 per cent. of the profits was only applicable to mines which had been discovered since the year 1904. Well, if the House agreed that the same rate should apply to the diamond mines as applied to the gold mines in the Transvaal, then he saw no reason why the diamond mines discovered in the Free State prior to 1904 should not be made to pay the same rate of tax as they proposed to apply to the diamond mines in the Cape Colony. Therefore, he proposed to impose the same rate of tax in regard to those mines. Then it was well known that the diamond mines of the Cape had been made to pay the income tax until that tax had ceased, and he proposed to impose this new tax from the date up to which those mines had paid their income tax&#x2014;from the date to which the tax was assessed.</p>
+
+</debateSection>
+
+<debateSection name="#an_uniform_system">
+
+<heading>AN UNIFORM SYSTEM.</heading>
+
+<p>Then as to the base metals, such as coal, copper, and tin, the taxation laws throughout the Provinces varied considerably. He proposed to repeal all the existing taxation laws throughout the Provinces, and to impose one uniform graduated system of taxation. The effect of the graduations would be that the poorer base metal mines would pay a smaller tax than they did at present, and the richer mines would pay a somewhat Higher tax&#x2014;though not much higher. He proposed also some other important modifications which would be of great assistance, he thought, to the small workers, and to the small mining companies throughout the Union. He proposed, first of all, in the case of individual workers of any mine to allow a deduction for the individual&#x2019;s own personal services of &#x00A3;750 a year Then, in addition to this, if his profits, after deducting the working expenses, and this allowance of &#x00A3;750, did not exceed &#x00A3;1,000, he would not be taxed at all. The effect of this would be that, <span class="col_723-724" refersTo="page_0371"/>practically speaking, all the individual diggers, such as the Barkly West diggers, would be exempted. With regard to section 2, he had already given notice to strike out the words &#x201C;or undertaking.&#x201D; He proposed to impose taxation on profits, and he declared that the profits should include all &#x201C;profits derived from the mining or winning aforesaid and from any product in connection therewith.&#x201D; By that he meant that if in the course of winning, say, for gold, a by-product, such as silver, was obtained, then ten per cent. tax would be levied in respect of that by-product. In the case of gold, he made an allowance for amortisation of capital. He did not propose, it would be seen, to allow that in the case of existing diamond mines or in the case of base metal mining. He had considered whether an allowance should be made for amortisation in the case of existing diamond mines, and he was advised that the diamond mining companies would be worse off if he made such allowance, because he was told that in the case of the diamond mines of the Cape their capital had been paid back many times over. That was a question, however, he was quite willing to discuss with the representatives of the diamond mining companies, and he had no doubt they would be satisfied to leave the question of amortisation alone. But there was this further important concession he made to them: that, in future, whatever money they spens upon replacements of machinery or equipment, or upon new capital expenditure, he allowed them to treat as current working expenses. There was one other point. It would be seen that in paragraph 6 he said that &#x201C;the taxation shall not be levied on any property derived as aforesaid in which the Crown is entitled to share by virtue of any law, grant, lease, or agreement.&#x201D; The object of that provision was that mines like the diamond mines in the Transvaal and the Free State, which already paid 60 per cent. and 40 per cent. respectively, should not be subjected to further taxation. Then there were the cases of certain goldmining areas in the Transvaal which the Government had disposed off to mining companies. In those cases, of course, these areas were subject to contracts under which certain rates were paid. It would, of course, be manifestly unfair to impose such a scale of taxation upon them, and therefore the provisions of the clause had been introduced to exempt them.</p>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that he was rather afraid to pay his hon. friend a compliment&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I don&#x2019;t want them any more. (Laughter.)</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Well, at the same time I will risk it again. He has made the House a very interesting and lucid&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No, no, no, no. (Laughter.)</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (continuing)</from>
+
+<p>explanation of the principles underlying his proposals, which all sides of the House will support. Continuing, the hon. member said that the hon. member for Uitenhage (Mr. Fremantle) had intimated on a previous occasion that there was something behind the action of the Opposition with regard to the profits tax. The hon. member would realise something more when they reached to-morrow&#x2019;s paper. As a general principle, they in the Cape Province already had what the Transvaal had adapted as a principle, that these mines&#x2014; at any rate, precious minerals and precious stones&#x2014;should make a contribution to the revenue.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No; you have not.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany):</from>
+
+<p>Yes; income tax.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Mr. <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>went on to say that when they had come into office in 1904, one of the principles of the Government was that the diamond mines in the Cape Colony should make a substantial contribution to the revenue of the State. During the time they were in office they had gradually increased that contribution until it had come to 10 per cent. of the gross profits There was another principle, one he was sorry that the Minister of Finance had not paid more attention to-&#x2014; which was, what proportion of that contribution was he going to take for ordinary revenue, and what proportion was he going to set aside for the permanent improvement of the country? (Hear, hear.) They were not dealing with agricultural products, where the value of the soil was increased as the production was increased, but with mining, where they were impoverishing the soil, and it was an ordinary economic proposition that for what they took out they must put something back. So that he hoped that a certain portion of that revenue would be devoted to what would be of permanent benefit to the country. They on the Opposition were prepared to support a policy which would ensure the investment in the permanent interests of the country of a portion of the revenue derived from mineral wealth. He hoped that the Minister might be converted to take a more South African, a more national view of that principle than he had apparently done so far. (Cheers.) He thought that his hon. friend was wise in the taxes which he proposed to impose on base minerals. He thought that they should be graduated, and that they should do their utmost to encourage the working of base minerals. He thought in the first place that the Minister of Finance was going to let some of them off lightly, especially as regarded copper; but there were special circumstances in that case, and they wanted to encourage copper mining.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said that he entirely agreed with the hon. <span class="col_725-726" refersTo="page_0372"/>member for Port Elizabeth as to the attitude of that side of the House as to the principles of the motion. So far as the gold mining of the Transvaal was concerned, which was responsible for the greater part of the direct revenue received from mining, he thought there was no objection at all to the principles embodied in that resolution. They might have some little discussion on some of the details involved, especially as regards calculation and amortisation allowance. He thought that the Minister of Finance had been well advised to leave the words &#x201C;or undertaking&#x201D; out, because if they had been left in they would have been forced to levy the tax on all sorts of industries. If they were going to have a general income tax, such wording would be quite in order, but as that was not the intention, he thought they would have been put to a great deal of trouble. He did not see that there was much reason to object to the inclusion of water, although it might be possible to speak against it. As regards base metals, he was inclined to think that the tax might press somewhat hardly on industries for which there were, as a general rule, comparatively small profits. Base-metal mining was a chance to the small man or the small syndicate. In some cases the rate of taxation would constitute a very considerable burden. He had some figures there; and the point made by the people concerned was that they said that no provision was made for depreciation or the amortisation of capital. Whether it was right to go so far as was now done in this direction was worthy of consideration. He hoped, if the present scale of taxation were adhered to, the Minister might find it possible to do something more to alleviate the position of the small miners. With regard to the general policy of levying taxes on mines, there was no division in that House. They who ware connected with the mining industry had said over and over again that they recognised that the mines were a perishing asset, that it was reasonable that a fair amount should be set aside from their profits in order to build up the country, so that there might be something to replace the mines when they were worked out. (Hear, hear.) They could not, however, indefinitely go on taxing an industry and at the same time getting the capital required to keep that industry in a perpetual state of progress. He did not think the tax now proposed would have any materially bad effect on either the diamond or gold mines, but there was something to be said in the direction of modifying the proposals so far as the base-metal mines were concerned. The hon. member for Port Elizabeth (Mr. Walton) had overlooked the fact that in the existing laws in the Transvaal provision was made for dealing with the profits that accrued to the State in respect of the State holdings in the mines. He (Mr. Chaplin) supposed that when the mining laws were consolidated, the principle which was embodied in the Transvaal legislation would be extended to other parts of South Africa.</p>
+
+</speech>
+
+<speech by="#maydon">
+
+<from>Mr. <person refersTo="hansard_za">J. G. MAYDON</person> (Durban, Greyville)</from>
+
+<p>said the fact that the Treasurer&#x2019;s proposals in levying a tax on profits alone, and then only on profits which exceeded certain limited dimensions, removed the objections which otherwise might obtain to the proposals. He thought the small, struggling miners need have no very great apprehension. Whilst congratulating the Treasurer on that point, he would like to draw his attention to his reference to a mining industry which was not too flourishing at the present time. He was exceedingly gratified to have elicited from the Treasurer the fact that he was prepared to deal with the question.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>What question is that?</p>
+
+</speech>
+
+<speech by="#maydon">
+
+<from>Mr. <person refersTo="hansard_za">J. G. MAYDON</person> (Durban, Greyville):</from>
+
+<p>That of the royalty on coal mining in Natal. In conclusion, Mr. Maydon said a differentiation had been made between coal mines on private ground and those on Crown lands.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>quoted from the report of the Inspector of Claims at Barkly to show that there were digging on the river diggings, which extended from 60 to 80 miles along the Vaal River, 1,455 licensed diggers; that the revenue collected during the year from these diggers by the Government amounted to &#x00A3;14,476 Os. 6d.; that from that amount was to be deducted &#x00A3;4,641 7s., which was payable to the owners of the land over which the claims were situated; that there was a net revenue of &#x00A3;9,834; that the 1,456 diggers found diamonds valued at &#x00A3;290,633, or an average of &#x00A3;190 12s. per digger per annum; that the average cost of labour amounted to &#x00A3;116 per annum; and that the net result therefore was &#x00A3;83 12s. per head per licensed digger, from which he had to pay other expenses. Proceeding, Dr. Watkins said that he wrote to the Inspector of Claims to find out what the other expenses would amount to, and received the reply that these would amount to &#x00A3;40 12s. That declared the speaker, left the digger a pittance of &#x00A3;43 per annum with which to pay living expenses.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I make it &#x00A3;750.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said these men could not grow fat on &#x00A3;43 per annum, which was the average. Now, out of the total of &#x00A3;290,000 odd which was the total value of the diamonds sold by the whole of the river diggers, the Government received a direct revenue of &#x00A3;9,834 in claim licences and so forth. That meant 3&#x00BD; per cent. on the total sales made by the river diggers, and if they deducted from the sales working expenses it meant that these diggers were paying something like 15 per cent. to the State. That seemed to him <span class="col_727-728" refersTo="page_0373"/>to be a very fair contribution from these men towards the revenue of the State. They must remember that they were not in the position of shareholders of a mining company, who sent the profits to be distributed in lands across the sea. The Government in a way had been very generous, but he thought it could go further&#x2014;seeing these men were taxed in many ways&#x2014; and exempt the alluvial diamond diggings altogether.</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>said he would like to refer to a class of mining that was of more interest to him, and that was coal mining in Natal. Under this new basis of taxation the mines would have a greater impost put upon them than in the past, and it would be a greater tax upon their mines than in other parts of the Union where the base minerals tax would be reduced. It was a struggling industry. There were only 14 collieries that were putting out coal. The capital of the producing collieries was &#x00A3;2,206,000. The total dividends in 1909 amounted to &#x00A3;58,962; the average dividend on the paid-up capital of the mines actually producing, to say nothing of those already dead, was only 2.67 per cent. The amount of royalty the Government received in 1909 amounted to &#x00A3;974 18s. 1d. The taxable profits in 1909&#x2014;as far as he had been able to work out&#x2014;would amount to &#x00A3;188,000; if they took into consideration the new colliery the amount of profits taxable would be &#x00A3;200,000. The lowest rate of the tax was 2&#x00BD; per cent.; the highest 6 per cent. Working it out on a conservative basis of 3 per cent., it would gave the Government an amount of &#x00A3;6,000, as against the &#x00A3;974 which it received in 1909; it meant that the coal mines would pay six times as much in taxation as they did under the royalty system. He would not grumble about this&#x2014;practically speaking, it was a small amount&#x2014;were it not for the fact that Natal was already overburdened with taxation in one form or another. He touched upon the transportation of mealies, and said that while Natal mealies were carried at a profit to the railways, the mealies of farmers in more inland ports were carried at a loss. He trusted that the Treasurer would look into this matter of a six-fold increase of taxation upon the mineral products of Natal.</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>Colonel <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>opened by commenting upon the thinness of the Ministerial benches, as reflecting the amount which members on that side were called upon to contribute to this tax. Proceeding, he said he admitted that the proposals of the Treasurer did not impose an increase, as far as the taxation of diamond mines in the Colony was concerned; he admitted that those proposals were not unfair&#x2014;(hear, hear)&#x2014;and they were prepared, he added, to pay their share of the taxation. He only wished that other industries and individuals who were making large profits were equally prepared with those who were making profits out of mining to bear their share of the taxation. He should like to see the patriotic farmer also pay his share when he made good profits. He was afraid that in many cases it was what might be termed &#x201C;parsimonious patriotism.&#x201D; He entirely disagreed with the hon. member for Port Elizabeth (Mr. Walton), who had never been a friend of the mining industry. He (Mr. Walton) said that, unless the Treasurer earmarked a considerable amount of the tax that was derived from the mines, this country would, when those mines were worked out, be no better off than before. As far as the diamond mines of Cape Colony were concerned, he thought he was correct in stating that they had produced diamonds in amount of 140 millions 100 millions of which had been spent in the Cape Colony. If the Colony were no better off by the circulation during the last forty years of 100 millions of money spent in every possible direction within that territory, then the people who resided in South Africa would not be prosperous under any circumstances whatever. In Cape Town about fifty years ago the total income of the Municipality was about &#x00A3;20,000 a year. To-day he believed the income of the Municipality amounted to &#x00A3;300,000. Evidence was afforded of other Municipalities and towns in this colony that had been lifted from poverty into afluence by the working of those mines. Colonel Harris, proceeding, put in an earnest plea on behalf of the exemption of the river digger from the operation of the tax. As far as amortisation was concerned, in regard to Colonial companies, he had no fault to find with those proposals of the Treasurer, but, as far as the Free State companies were concerned, he thought they were entitled to same preferential treatment. There they had the low grade mines. The Free State companies were paying a 7 per cent. dividend tax. Now, the Treasurer had an overflowing Treasury chest, and in that pleasant condition of affairs he raised the taxation from those low grade mines. He thought the Treascurer would be well advised if he would allow the tax, as far as those companies that were paying their tax in the Free State were concerned, to remain as lit was now. He specially instanced the case of the Koffyfontein Mine, which, he submitted, was entitled to breathing time, and ought not to be taxed for the next three years. Then there was another point. It appeared to him (Colonel Harris) that the Minister of Finance was under the impression that he was entitled to a year&#x2019;s income from the Cape mining companies. Now he (Colonel Harris) submitted that the Minister was only entitled to a tax on three-quarters of the profit made by the Colonial company, based upon the profit up to June 30, 1910. The Cape income tax, under which these companies were taxed, was based upon their profits up to June 30, 1910, for the service of the colony for the year ended June 30, 1910, so that, as far as the <span class="col_729-730" refersTo="page_0374"/>companies were concerned, they had paid the taxation up to June 30, 1910. The Cape Colony income tax did not expire until June 30, 1910. The Minister of Finance intended to tax these companies for the whole year. That would be an overlapping tax, because the companies would be paying twelve months&#x2019; taxation for nine months. The Colonial companies paid their tax in advance, just as a tenant paid his house rent in advance, and the Minister should make them an allowance accordingly. If the Minister was right in his idea that he would get twelve months&#x2019; taxation, then it was only necessary for him to alter the financial year four times and he would get five years&#x2019; taxation in four years. There was the constitutional aspect of the question, too. The Constitution was established on May 31, 1910, and he (Colonel Harris) thought that any Act that House passed, especially in regard to taxation, that was intended to operate anterior to the establishment of the Union would be illegal. He admitted the House could pass a law that the companies should pay this taxation for ten months, i.e., from the date of Union. That could be done constitutionally, but he contended it would be inequitable. He knew the Minister did not mean to be hostile towards these companies, and he hoped that after consideration the Minister would be satisfied to receive the taxation for three-quarters of the year. He (Colonel Harris) thought that even then the tax would gave as much as the Minister had budgeted for.</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria North)</from>
+
+<p>said that if the hon. member who had just spoken claimed a remission of taxation for the low grade diamond mines of the Orange Free State, he thought the Transvaal could also ask for a remission. About a year after the Premier Diamond Mine had been discovered the law was passed in the Transvaal that a 60 per cent. tax should be levied. After that the law in the Orange Free State, which imposed a tax of 40 per cent., had been passed. He wanted to know why it should be 60 per cent. in one colony and 40 per cent. in the other. It was said that in the Premier Mine every load was worth 25s.; but in the Premier Mine they were working ground which was only worth 3s. a load. As to coal, he thought that the Treasurer would do well not to tax it, as he had proposed to do. It should be absolutely free of taxation, as it was a product which was so much required in the country. (Cheers.)</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>commented on the importance of two diamond mines in his constituency, viz., the Jagersfontein and Koffyfontein Mines, which employed a large number of people, and constituted a good market for the district. They were, however, low grade mines, and should, on that account, be treated on a basis different from that which they might be prepared to apply to the rich mines in Cape Colony. The latter went from 55 to 150 carats per hundred loads. The Koffyfontein, however, only yielded 5 carats per 100 loads. Other Free State mines had a yield of from 10 to 12 carats, and it would be only fair to discriminate when it came to taxation.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020; Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>said that in the Transvaal the policy had always been not to tax the mines unduly, but rather to encourage anything in the mature of local industry, so as not to frighten away foreign capital. In view of that fact he could not understand why in 1902 Transvaal diamond mines had been obliged to disgorge 60 per cent. of their revenue as against the 40 per cent. in the Free State. The explanation probably was that, at that time, owners&#x2019; rights were not greatly respected. He trusted that the Transvaal and Free State diamond mines would now obtain relief, and be placed on the same footing with similar mines in other provinces. The hon. member for Beaconsfield had suggested the fitness of a tax on farming profits, but he (Mr. Geldenhuys) considered that there was no comparison between agriculture and mining.</p>
+
+</speech>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>referred to the coal industry in Natal, and suggested that the Natal coa1 mines should not be taxed.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppes)</from>
+
+<p>said there was an entire lack of any intelligible principle on which taxation of base minerals was based. Why should the profits on these be taxed to a less degree than those accruing from gold? It was indisputable that &#x00A3;190,000, whether made from the profits of mining gold or other mineral, was equally valuable to the owner. The proposed scale arose from following broadly the basis adopted in royalty. He strongly differed from the hon. member far Pretoria North (Sir T. Cullinan) when that gentleman said that the Premier Mine was paying 60 par cent. taxes. (Cheers.) It was paying nothing of the sort. In fact, it was paying no taxation whatever, whereas the Cape companies paid a tax of 10 per cent. (Hear, hear.) In regard to the small owners&#x2019; propositions, he said that the royalty basis was not a real basis, and recommended the Treasurer to study the Rhodesian law and practice, which were fairer and more encouraging to enterprise. There was another point, and that was the necessity of having all returns published, because in the method by which they assessed the profits tax, and allowed remissions, there was a continual temptation to under-estimate the life of a mine, and a very good check upon such a tendency would be the publication of the returns. He could not understand, and he hoped the Minister of Finance would explain, why the word &#x201C;undertaking&#x201D; should be taken out.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>,</from>
+
+<p>in reply, said he hoped that the tone of the Opposition&#x2019;s criticism indicated a new feeling towards taxation and Treasury proposals, from that side of the House. <span class="col_731-732" refersTo="page_0375"/>He would refer to what had been said by his hon. friend the member far Jeppes (Mr. Creswell), who was alarmed, because he thought by expunging the two words &#x201C;or undertaking,&#x201D; the Government would lose money. He had only agreed to their deletion after the very fullest consideration. If any company decreased its profits, in the way the hon. member for Jeppes had suggested, he thought that the assessor would be able to know how to deal with that company. Take the gold mines on the Rand. If the directors&#x2019; fees were unreasonably large, the assessor would object.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppes):</from>
+
+<p>What did you contemplate?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he took it that if the words were left, it might be argued that the profits of De Beers dynamite factory should be taken with the profits of the diamond mine. That would be unfair. The object of the tax was to tax mining, and mining alone, and not subsidiary undertakings. The Government was concerned with mining alone. Strong appeals had been made to him to make a differentiation in the proposed taxation in regard to diamond mines in the Free State as compared with diamond mines in the Cape Colony or elsewhere. All he could say was that, in the case of the Jagersfontein mine, he understood that they made a profit last year of over &#x00A3;600,000. That did not appeal to him at all; he thought a company that made a profit of that amount could well afford to pay the tax. A very strong appeal had also been made to him to exempt river diggers from this tax altogether. He had already sketched the very generous provision which he had made in regard to the river digger, or the individual who worked a mine himself. He did not think any reasonable man could fairly object to the taxation proposals which were embodied in the resolution he had made.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>You have not dealt with coal mines.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that what he had said in regard to river diggers applied to coal mines. If they saw what the coal-mining profits were, he did not think they would make any fuss about that matter. He did not think the revenue from the profits on the coal mines would exceed &#x00A3;15,000 or &#x00A3;20,000 a year. No reasonable exception, he considered, could be taken to the proposal that coal-mining profits should be taxed.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved to go into Committee of Ways and Means upon the resolutions to-morrow (Tuesday).</p>
+
+</speech>
+
+<speech by="#van_eeden">
+
+<from>Mr. <person refersTo="hansard_za">J. W. VAN EEDEN</person> (Swellendam)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-12-12T22:55:00">10.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

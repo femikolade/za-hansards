@@ -1,0 +1,2125 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY APRIL 23 1912'
+layout: debate
+year: 1912
+month: APRIL
+month_slug: Apr
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, April 23rd, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-04-23T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Fauresmith),</from>
+
+<p>from mine workers, praying that the Miners&#x2019; Phthisis Bill be so amended as to secure to sufferers from phthisis compensation in conformity with the principles of workman&#x2019;s compensation.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Fauresmith),</from>
+
+<p>two similar petitions.</p>
+
+</speech>
+
+<speech by="#macaulay">
+
+<from>Dr. <person refersTo="hansard_za">D. MACAULAY</person> (Denver),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#rockey">
+
+<from>Mr. <person refersTo="hansard_za">W. ROCKEY</person> (Fauresmith),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Fauresmith),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Fauresmith),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Fauresmith),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Fauresmith),</from>
+
+<p>similar petition.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Fauresmith),</from>
+
+<p>from H. Winfield, late lock-up keeper, Porterville.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">H. C. VAN HEERDEN</person> (Fauresmith),</from>
+
+<p>from A. C. Versfeld, clerk, Department of Justice.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Fauresmith),</from>
+
+<p>for legislation providing for the Direct Popular Veto.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Fauresmith),</from>
+
+<p>from S. J. Chandler, late gaoler of Malmesbury.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#waste_lands_reports">
+
+<heading>WASTE LANDS REPORTS.</heading>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>brought up the Report of the Committee of the Whole House on the First and Second Reports of the Select Committee on Waste Lands, reporting certain resolutions.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved that the resolutions be adopted, and transmitted by message to the Senate for its concurrence.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded. Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_report">
+
+<heading>PENSIONS REPORT.</heading>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>brought up the Report of the Committee of the Whole House on the Third Report of the Select Committee on Pensions, Grants and Gratuities, reporting certain resolutions.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>moved, pursuant to notice, that the resolutions be now considered.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved that the resolutions be adopted.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Imperial Blue-book, relating to position of British Indians under the Gold Law and Townships Amendment Acts, 1908 (Transvaal).</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_report">
+
+<heading>PENSIONS REPORT.</heading>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person>,</from>
+
+<p>as Acting Chairman, brought up the Fourth Report of the Select Committee on Pensions, Grants and Gratuities.</p>
+
+<p>The committee recommended the award to J. C. O&#x2019;Hare, formerly chief constable, District of Tulbagh, of an invalid pension equal to one-fifteenth of one-half of the average salary during the three years preceding his retirement for each complete year of service; the award to J. Harris, formerly police-sergeant, Paarl, of an invalid pension equal to one-fifteenth of one-half of the average salary during the three years preceding his retirement for each complete year of service; and that the breaks in the services of W. H. Mitford-Norton teacher, and of A. M. du Biel, teacher, be condoned.</p>
+
+<p>They were unable to recommend that the prayers of the following petitions be entertained: <span class="col_2127-2128" refersTo="page_1070"/>W. H. Jones, G. F. Mynhardt, J. H. Lander, J. D. Aupiais, L. C. Morkel, D Cockayne, W. A. Huskins, W. Gray. J. Turton, T. Wesson, W. J. Lewis, J. W. Dummy, A. G. Brink, P. J. van Coller, J, D. Cox, H. T. Driver, J. K. Stevenson, J. K. Ross, E. Hobden, M. J. H. de Jongh, H. S. Vatble, F. Donaldson, P. H. Steyn, A. Jukes, I. Willis, J. Lawrence, D. G. Coetzee, S. White, V. H. Begley, J. L. Spence, and J. Seddon.</p>
+
+<p>With reference to the petition of F. G. Fraser, referred back to them, the committee were unable to recommend that it be entertained.</p>
+
+<p>With reference to the petition of B. Noaks, the committee were of opinion that the application for relief should be deferred until such time as petitioner retires.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person></from>
+
+<p>moved that the report be considered in Committee of the Whole House on Thursday.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person>:</from>
+
+<p>Report of the Commissioner of Excise, 1911.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#lifeboats_on_ocean_steamers">
+
+<heading>LIFEBOATS ON OCEAN STEAMERS.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked the Minister of Finance: (1) Whether any inspection takes place in South African ports of ocean-going vessels trading therewith, to ensure that they carry sufficient boats to accommodate, in case of accidents, all persons on board; (2) if so, what officers are charged with this duty; and (3) if not, whether he will make arrangements for such inspection, and for advertisement both in South Africa and by the High Commissioner in London for the benefit of the travelling public of the names of any vessels not so provided?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>replied: No inspection is specially made, but if the Customs Officers notice that any British vessel is without the boats required by the Board of Trade certificate the vessel would be regarded as unseaworthy, and clearance would be withheld until such boats were obtained.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#clocking_in_railway_workshops">
+
+<heading>&#x201C;CLOCKING&#x201D; IN RAILWAY WORKSHOPS.</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether the system of clocking in and out has recently been introduced into the workshops; and whether it has been brought to the notice of the Minister that the employees strongly object to the system of clocking out as involving considerable loss of time for which they are not paid: and (2) whether the employees at Uitenhage, and in other railway workshops have been asked to sign or, otherwise, signify their acceptance of a new set of rules, and have declined to do so?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: (1) The answer to the first part of the question is in the affirmative, so far as it applies to certain shops in the Cape Province and to shops in Natal in which time-recording clocks were not previously in use. At other shops in the Cape Province the system is gradually being introduced. This system has been in operation in the Transvaal and Orange Free State and at Pietermaritzburg for some years with satisfactory results. Time-recording clocks have also been installed m two shops at Durban for about four years, and have not given rise to any complaints. The answer to the second part of the question is also in the affirmative, but the Administration does not agree that considerable loss of time is involved, as sufficient numbers of clocks have been and are being provided to enable employees in each department to &#x201C;clock&#x201D; in or out within two or three minutes. (2) Yes. Rules governing discipline in and working of shops formerly applicable on respective lines have been assimilated and embodied in a book which has been distributed to men in various workshops throughout the Union. Except that the Natal workshop rule book contained a clause embodying rates of pay, privileges, etc. (and this information will, when rates of pay have been definitely settled, be conveyed to the men by circular), the rules are identical &#x2019;in principle with those in operation in different workshops prior to Union, and signed for by men on similar acceptance form to that contained in the new book; but as the men in the Cape Province were not previously required to sign for rules, it has been arranged that signing of receipt for new books shall apply only in case of new appointments. Copies of rules have, therefore, been placed in each workshop, in poster form, as was done in the Cape Province before Union. A clock had been in use in the points and crossings shop at Salt River during the past two months, and the foreman has not heard of any complaints from the men.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mooi_river_creamery">
+
+<heading>MOOI RIVER CREAMERY.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Why the attention of the Attorney-General of Natal has not been drawn to the fact that the Mooi River Creamery of Natal had imported foreign butter in bulk which they had distributed as the produce of South Africa, and why the Mooi River Creamery had not been prosecuted for evading the law; (2) what sum of money has the Administration lost through such action by the Mooi River Creamery; and (3) what sum of money has been refunded to the Administration by this creamery?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: (1) The Administration is not aware that the Mooi River <span class="col_2129-2130" refersTo="page_1071"/>Creamery distributed imported butter as South African, so that this question falls to the ground. (2) The Administration did not lose any money. (3) &#x00A3;221 8s. 6d. The Administration had no difficulty in collecting undercharges; in fact, the company offered to place its books at the Administration&#x2019;s disposal.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#baggage_at_cape_town_docks">
+
+<heading>BAGGAGE AT CAPE TOWN DOCKS.</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether some of the passengers ex Dunluce Castle on Monday, the 15th instant, expressed a desire to engage licensed carriers to deliver their baggage by wagon to the Cape Town railway station and whether this request was refused; (2) whether under the new arrangement cabs and hotel &#x2019;buses are permitted to deliver baggage, but licensed carriers delivering by wagon are not permitted to do so; (3) whether about 32 passengers ex Dunluce Castle missed the 11.30 train on Monday morning owing to the non-delivery by the Department of their baggage in time to enable them to catch the train; (4) (a) whether some of these passengers received meals at the Railway Refreshment Room during Monday at Government expense; and (b) whether others have presented claims for expenses incurred owing to their enforced stay in town, and, if so, whether such claims have been or will be satisfied; (5) whether most of the passengers left by Monday evening&#x2019;s train; (6) whether the Government paid the difference in fare between the morning and evening trains; (7) whether it is a fact that some of the remaining passengers had to wait over for Tuesday morning&#x2019;s 11.30 train because of the non-arrival of their baggage; (8) whether many of the passengers who left by Monday morning&#x2019;s train had to leave without the whole or a portion of their baggage, and, if so, whether it is being forwarded to them at Government expense; (9) whether the Government is aware of any incident of this kind occurring during the regime of the licensed carriers, and whether steps are being taken to prevent such incidents occurring in the future; and (19) whether the Government is prepared to take into consideration the advisability of allowing the licensed carriers now holding, licences to continue to deliver the baggage of such persons as may choose to employ them?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that it was almost an appalling question and almost trespassed on the good nature of the House. (Laughter and cheers.)</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle):</from>
+
+<p>It is a very important question.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Yes&#x2014;in a small way. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> (it was understood)</from>
+
+<p>replied: (1) No; (2) passengers could have cabs to take their luggage and hotel &#x2019;buses could take that of patrons; (3) passengers missing the morning train could go by the evening train; (4) (a) yes; (b) no; (5) passengers who did not go in the morning went in the evening&#x2014;(laughter); (6) several passengers held tickets for the night train, and those who did not were allowed to go by that train; (7) no: (8) no; (9) the reply to the first and second points was yes; (10) no. He added that he could say a good deal as to why the difficulty had been brought about, but he would rather not.</p>
+
+<p>The hon. Minister was at times quite inaudible in the Press Gallery.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#cape_surveyor-generals_assistant">
+
+<heading>CAPE SURVEYOR-GENERAL&#x2019;S ASSISTANT.</heading>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>asked the Minister of Lands: (1) Whether it is true that Mr. Vos, the first professional assistant to the Surveyor-General of the Cape Province, is to be retrenched; and (2) if so, whether, in view of the high qualifications and special knowledge of land legislation possessed by this official, it is not possible to reconsider the matter?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied: (1) It is true that Mr. Vos is to be retired, consequent on re-organisation, in giving effect to the recommendations of the Public Service Commission, which entailed a reduction of the professional staff of the Surveyor-General&#x2019;s office, Cape. (2) The Government appreciates the services that have been rendered by this officer, and in view thereof, and of his professional attainments, endeavoured to provide for his retention. Mr. Vos was offered another position in the Service which would have meant promotion for him, but for private reasons he declined the offer, whereby the intention of the Government could not be carried into effect.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#home_rule_for_ireland">
+
+<heading>HOME RULE FOR IRELAND.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>asked the Prime Minister: (1) Whether the statement appearing in the London &#x201C;Daily Chronicle&#x201D; of the 10th inst, to the effect that the Right Hon. the Prime Minister of this Union and several of his colleagues have endeavoured to influence public opinion in the United Kingdom on the question of Home Rule for Ireland by contributing letters favouring Home Rule to that, paper, is correct; and if so, (2) whether the public of South Africa are to understand that such action indicates that the Government of the Union will, in future, favour the intervention of members of the Imperial Government in the domestic and native policies of South Africa?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied: (1) Such a statement has not been brought to my notice; (2) the second part of the question therefore falls away.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#black_peril_agitation">
+
+<heading><span class="col_2131-2132" refersTo="page_1072"/>&#x201C;BLACK PERIL&#x201D; AGITATION.</heading>
+
+<speech by="#mentz">
+
+<from>Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from>
+
+<p>asked the Minister of Native Affairs: (1)</p>
+
+<p>Whether his attention had been drawn to the proceedings and resolution passed at a public meeting held in Durban on Wednesday last on the &#x201C;Black Peril&#x201D;; (2) whether he is also aware that at least 40,000 male natives are employed on the Witwatersrand between Krugersdorp and Boksburg as cooks, nurses, houseboys and coachmen; and (3) whether he is prepared to make a statement on such a serious state of affairs, indicating what steps the Government intend taking in the matter?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>replied: (1) Not officially, but I have read reports of such proceedings in the newspaper press. (2) I am aware that a large number of male natives&#x2014;the actual figure is believed to be slightly under 35,000&#x2014;are so employed. (3) The Government is fully alive to the seriousness of the occurrence of such cases, especially in a country like South Africa, and its attention has been, and will continue to be, actively directed to the matter in all its aspects, with a view to such action as may appear to be necessary. With the object of arriving at an approximation to accurate information, a complete return has been prepared for the Union of assaults upon females for the ten years from January 1, 1901, to December 31. 1910, with the result that, especially bearing in mind the large increase of the native male population which has been brought into contact with the European community during that period, no material increase in the number of these offences is found to have taken place in recent years. It has been suggested that special methods of punishment should be devised to meet such cases, but the Government, while deeply sharing the public detestation and horror of these crimes, and the desire that they should be adequately punished, believes that no good purpose would be served by adding to the penalties at present in the power of the judiciary to impose. Then, the inadequacy of police protection has been complained of, and, of course, wherever it appears that an increase of police is necessary, the Government will take steps to provide it. But it should be borne in mind that to a large extent no reasonable increase of police can really be expected to have any appreciable effect, under the circumstances. A considerable proportion, probably the majority, of these cases occur in and about private houses, and are more or less traceable to the highly unsatisfactory system referred to by my questioner, whereby native males are employed as house-boys in constant and close contact with European women, with results which are not unnatural, and the risk of which no amount of convenience and economy can justify. We cannot be expected to station policemen at every private house where these house-boys are employed. Again, these deplorable incidents are not unconnected with the presence of large numbers of male natives in industrial centres where, for European convenience, they are separated for long periods from their own women folk. In these matters the force of public opinion, and not any drastic measures by the Government, should be expected to create a better state of things. The white man is not blameless, either in these respects or in his own treatment of native women. I desire, in conclusion, to express the regret and concern of the Government at some of the expressions used at the meeting referred to by persons in responsible positions&#x2014;expressions whose only effect can be to inflame the public mind against the preservation of law and order, and to introduce into this country a state of lawlessness by which its annals have hitherto been happily unstained.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#home_rule_for_ireland">
+
+<heading>HOME RULE FOR IRELAND.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>said that he begged to point out that in regard to question No. 6, the Prime Minister had not given a categorical answer to a categorical question&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is past now.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_service_commission">
+
+<heading>PUBLIC SERVICE COMMISSION.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked the Minister of Justice whether he will lay on the table of the House all the evidence taken by the Public Service Commission upon which it has based its findings and statements, as set out in paragraph 30, page 17, of its seventh report, and if so, when?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>replied: I am informed that no evidence was recorded by the Public Service Re-organisation Commission, and consequently I am unable to lay on the table of the House the evidence upon which the Public Service Re-organisation Commission based its findings and statement as set out in paragraph 30, page 17, of its seventh report. For the information of the honourable member, however, I may state that the evidence given on this point was by the Acting Chief Commissioner of Police. The need for a Central Department where the criminal investigation work of the Union could be co-ordinated was greatly felt, and the services of the present head of the Criminal Investigation Department, Johannesberg, is being used in connection with the above. The Criminal Investigation Department, which was superimposed upon the Police establishment on the Reef, has now been placed under the direct orders of the Divisional Officers of the Police along the Reef, and the work will go on as heretofore, with, it is hoped, increased efficiency, more co-operation, and less overlapping than has hitherto been the case. This course follows the universal practice which obtains in England and America. At the present time only the head of the Criminal Investigation Department and a few men who formed the staff of the <span class="col_2133-2134" refersTo="page_1073"/>Criminal Statistical Bureau will be transferred to Pretoria with the object of co-ordinating the system of criminal investigation within the Union, and to form a Central Finger Print Bureau for peripatetic criminals, otherwise the activites in regard to criminal investigation on the Reef I have been left absolutely unimpaired.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#cape_education_commissions_report">
+
+<heading>CAPE EDUCATION COMMISSION&#x2019;S REPORT.</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (uitenhage)</from>
+
+<p>asked the Minister of Education: (1) Whether the printed report of the Education Commission of the Cape was presented to him on February 23 last; (2) whether the report deals inter alia with the training of teachers who have passed the standard of Matriculation, and with such training as under the arrangement recently effected between the Union and Provincial authorities falls within the province of the Minister; (3) whether he proposes to lay the report on the table; and (4) when he expects to be able to do so?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said the report was presented on February 23. It dealt principally with primary and secondary education. The answer to No. 3 was in the affirmative. A number of copies were being printed, and would be laid on the table when ready.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_officials_loan">
+
+<heading>RAILWAY OFFICIAL&#x2019;S LOAN.</heading>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>asked the Minister of Railways and Harbours whether a sum of &#x00A3;2,000 has been lent by the Administration to one of its engineers to build or buy a house, and whether the same facilities are given to all grades of the service to acquire their own homes?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied: The answer to the first part of the question is in the affirmative, but the actual amount involved is &#x00A3;1,800, which was advanced to the Engineer-in-chief against a first mortgage bond upon a freehold property. In regard to the second part of the question, the Administration owns certain houses which are let to officers, but transactions similar to that already recorded of advancing money for the purchase of property are not at present contemplated. Mr. Tippett pays 4 per cent. per annum on bond, redemption and interest to be repaid (on rentpurchase basis calculated quarterly) by monthly instalments of &#x00A3;18 10s., or &#x00A3;222 per annum. The bond contains the general clause and other usual clauses protecting the mortgage, and Mr. Tippett bears all the legal expenses in connection with the transaction. The question was considered and approved by the Railway Board, vide minute No. C 957 of the meeting of Commissioners on November 24, and minute No. M 381 recording Minister&#x2019;s decision, given on March 22 last.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_grievances_commissions_report">
+
+<heading>RAILWAY GRIEVANCES COMMISSION&#x2019;S REPORT.</heading>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>asked the Minister of Railways and Harbours when he will lay on the table the first report of the Railway Grievances Commission?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that he hoped to lay the report on the table on the following day or the day after.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#non-resident_pensioners">
+
+<heading>NON-RESIDENT PENSIONERS.</heading>
+
+<speech by="#smuts">
+
+<from>General <person refersTo="hansard_za">T. SMUTS</person> (Ermelo)</from>
+
+<p>asked the Minister of Finance for a return showing (a) the number of persons who draw pensions from the Union Government but who reside outside the Union; and (b) the amount annually paid to such persons by way of pension?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said the information was being obtained and would be laid on the table when ready.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#east_coast_fever">
+
+<heading>EAST COAST FEVER.</heading>
+
+<speech by="#king">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KING</person> (Griqualand)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether he is aware that 260 head of cattle have been introduced into the Mount Currie district from the East Coast fever infected area of Mount Ayliff and that the inhabitants of Mount Currie district strongly object to such introduction; (2) whether this introduction was by permission of the Agricultural Department; and (3) if so, what were the reasons for granting such permission?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>replied: (1) Two hundred and sixty head of cattle nave been introduced into the Mount Currie district from the Mount Ayliff district, not from an infected farm, but from the Insizwa Mountain in close proximity to the border of Mount Currie, where the animals have been running for months past. No known centre of infection exists within twelve miles of the locality where the animals have been kept. (2) The permit for the movement was issued by the a authority of the Agricultural Department, subject to the conditions that the animals to be moved were to be first temperatured, dipped, branded and then quarantined for one month on the border farm Boschfontein, which is leased by the owner of the cattle. The R.M. was consulted and approved of the movement. (3) The reason for issuing the permit was that detention of the cattle on the mountain during the winter months would lead to heavy loss on the part of the owner, who would then be compelled to keep the cattle in an area in which the grazing was insufficient or move them down the mountain towards the infected portion of the district.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reorganisation_in_the_post_office">
+
+<heading>REORGANISATION IN THE POST OFFICE.</heading>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>asked the Minster of Posts and Telegraphs whether <span class="col_2135-2136" refersTo="page_1074"/>he can state when the decision of the Government will be taken on the report of the Public Service Commission in regard to the Department of Posts and Telegraphs?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (on behalf of the Minister of Posts and Telegraphs)</from>
+
+<p>replied: I am unable to say definitely when a decision will be taken by the Government upon all the matters dealt with in this report, but it should be observed that, in several important respects, the estimates of the Department now before the House give effect to the Commission&#x2019;s recommendations.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#standerton_creamery">
+
+<heading>STANDERTON CREAMERY.</heading>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>asked the Minister of Agriculture what are the names of the persons who tendered for the Standerton Creamery and what were the prices tendered?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>said information was being ascertained and would be laid on the table as soon as possible.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sheep_inspectors_and_pensions">
+
+<heading>SHEEP INSPECTORS AND PENSIONS.</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether sheep inspectors are qualified for pensions; and, if not (2) whether it is proposed to allow them to qualify for pensions on the same terms as Civil Servants?</p>
+
+</speech>
+
+<speech by="#minister_of_agriculture">
+
+<from>The <person refersTo="hansard_za">MINISTER OF AGRICULTURE</person></from>
+
+<p>replied: (1) Sheep inspectors are not at present qualified for pensions. (2) Under the Public Service Bill, which is at present before the House, they will be graded as &#x2018;General Service&#x201D; officers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#safety_of_life_on_mail_steamers">
+
+<heading>SAFETY OF LIFE ON MAIL STEAMERS.</heading>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether the Government will avail itself of the opportunity afforded by the new mail contract to secure adequate provision for the safety of human life on all vessels under the control of the contractors?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (on behalf of the Minister of Posts and Telegraphs)</from>
+
+<p>replied: The Government will not fail to see that this point is kept prominently in view in connection with any contract that may be arranged. With a view to reassuring the House, I may mention that the contractors under the existing ocean mail contract give particular attention to the question of boat accommodation for passengers and crew, and it has been ascertained, for example, that tomorrow&#x2019;s packet, the R.M.S. Walmer Castle, which is carrying under 500 passengers, and has a crew of 272, has boat accommodation for 1,050. persons.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_service_and_pensions_bill_select_committee">
+
+<heading>PUBLIC SERVICE AND PENSIONS BILL.<br/>SELECT COMMITTEE.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved: That Messrs. Brain. Currey, Dun can, Henderson, Long, Stockenstrom, Sir Thomas Watt, Colonel Crewe and the mover be the members of the Select Committee on Public Service and Pensions Bill.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg)</from>
+
+<p>seconded. The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners_phthisis_bill_select_committee">
+
+<heading>MINERS&#x2019; PHTHISIS BILL.<br/>SELECT COMMITTEE.</heading>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>moved that the Select Committee on the Miners&#x2019; Phthisis Bill consist of ten members, and that Sir David Harris and Mr. H. S. Theron be members of the committee. The mover said he added the names to strengthen the committee. He thought that they would be of great service.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>moved that the committee consist of eleven members, and that Mr. Andrews be a member of the committee, not because of any arrangement that had been arrived at but simply because he thought that the hon. member for Georgetown was one of the best men they could get to serve. The committee should be of a non-party character and should consist of practical men.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>said he wished to know the position which the Government took up on this matter before he proceeded with the amendment which stood on the paper in his name. He went on to refer to negotiations which took place between the two parties with regard to the constitution of the committee. He had been informed on good authority that since then an understanding had been come to between the right hon. member for Victoria West and the Minister with regard to an increase in the number.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>That is not the case.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock):</from>
+
+<p>If that is so&#x2014;</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>That is not the case.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock):</from>
+
+<p>I had it on the best of authority.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>May I rise to make a personal explanation?</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock):</from>
+
+<p>I accept. Will the Minister accept the name I submit? Dr. Hewat moved that the committee consist of 1.2 members, and that Sir E. Walton be a member of the committee.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from><span class="col_2137-2138" refersTo="page_1075"/>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>moved that the committee consist of 13 members, and that Dr. Macaulay be a member of the committee.</p>
+
+</speech>
+
+<speech by="#rockey">
+
+<from>Mr. <person refersTo="hansard_za">W. ROCKEY</person> (Langlaagte)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#clayton">
+
+<from>Mr. <person refersTo="hansard_za">W. F. CLAYTON</person> (Zululand)</from>
+
+<p>moved that the members of the committee be selected by ballot.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It&#x2019;s too late now.</p>
+
+</speech>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person> (Mr. Merriman)</from>
+
+<p>said he would confirm the statement by the hon. member for Woodstock that an arrangement was come to as to the number of members who should serve on the committee. The decision then was that the committee should consist of eight members. It was agreed that the Government should nominate four members, the Opposition three, and the Labour party one. That was agreed to. The hon. member had accepted the denial of the hon. member for Victoria West (Mr. Merriman) that there had been no further arrangement. The House was within its rights in adding to the number of the committee. On behalf of the Government he did not intend to accept any amendment. The arrangement that was come to between the parties had clearly broken down; additional names had been moved on both sides of the House, and the best thing to do would be to leave the matter to the good sense of the House.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he hoped the House would agree to that. He had a conversation with the Minister of Mines, who told him the arrangement that had been come to with regard to the appointment of the committee. He (Mr. Merriman) thought that was a very paltry way of dealing with the matter, and he told the Minister that he did not at all think that the names of those mentioned by the Minister were those he should choose for the purpose. He (Mr. Merriman) went home and the matter preyed on his mind so much that he wrote to the Minister on the matter. He (Mr. Merriman) wanted to do all he could to strengthen the committee so that it might bring up a Bill of which the House might not be ashamed. It was a very poor business to appoint a committee on a party basis.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said it was a most invidious thing to have to discuss the question after an arrangement had been arrived at. He had taken the rather unusual course of asking the Minister to increase the committee to ten, as the committee was a very important one, and several important financial considerations would come up, and he was desirous of adding the name of the hon. member for Port Elizabeth (Sir Edgar Walton). The Minister discussed the matter in a very friendly way, and said he was determined not to increase the number. Now, it appeared the matter was to be left to the House. What attitude was Government going to adopt, because naturally that would weigh a great deal with hon. members? They wanted to see a committee of that sort representative of all sections of the House. If the committee were increased, the Opposition felt it ought to be given the same consideration that was accorded it in the first place.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>asked whether the hon. member would accept the amendment moved by the right hon. member for Victoria West.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>replied in the negative.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>asked the right hon. member for Victoria West (Mr. Merriman) to withdraw his amendment so as to avoid exciting controversial feelings on so important a subject.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that in the interests of the House and the Government itself, he could not consent to withdraw his amendment, because he felt that the committee as originally proposed was not strong enough to deal with the question. (Hear, hear.) If it were required to have only eight members he would be quite pleased to withdraw. Even if it were decided to have thirteen members he did not see that that would be an undue size for a committee to deal with a question like that. Anxious as he was to meet the Prime Minister in almost everything, he felt that he would not be doing his duty to the country if he withdrew his amendment.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that when the Minister spoke to him on the subject, he (Mr. Creswell) said the Labour party was fairly entitled to ask for two members on the committee. They came more directly in contact with miners&#x2019; phthisis than almost any other similar group of the same size in the House. There were many committees on which members of the Labour party found no place, and it was very probable that his hon. friend (Mr. Andrews) would be able to contribute to the discussions of the committee more first-hand knowledge of the conditions under which the miners worked than any other member of the House. (Hear, hear.) As the right hon. member for Victoria West was not going to withdraw his amendment, he (Mr. Creswell) would not withdraw his.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MACNEILLIE</person> (Boksburg)</from>
+
+<p>suggested that the hon. member for Denver (Dr. Macaulay) was far and away the best member of the House to serve on the committee. The hon. member had given up his time to the study of the disease and its prevention, and was awarded a medal by the Chamber of Mines as some recognition of his work in this matter.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>suggested the hon. member for Paarl <span class="col_2139-2140" refersTo="page_1076"/>(Dr. De Jager) as a member of the committee. He moved that the committee consist of fourteen members.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that if they sat on until six o&#x2019;clock they would have 121 members on the committee. (Laughter.) It would look more like business to vote on the eight and have done with it.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said that some four or five weeks ago, before their late leader, Sir Starr Jameson, went away, he was requested to join this committee, and, although he was opposed to it, it was pointed out that there were some important financial questions to come before the committee, and he eventually consented. After Sir Starr had gone, he did not mention his name to the hon. member for Fort Beaufort, hence the misunderstanding. But he wished to say that he certainly would not allow his name to go to the House in face of the opposition of the Minister. If that were the attitude of the Government, he would ask that his name should be withdrawn.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the question that &#x201C;eight&#x201D; proposed to be omitted stand part of the motion, and declared that the &#x201C;Ayes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>called for a division, which was taken with the following result:</p>
+
+</speech>
+
+<p>Ayes&#x2014;77.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Alexander, Morris</p>
+
+<p>Becker, Heinrich Christian</p>
+
+<p>Berry, William Bisset</p>
+
+<p>Beyers, Christiaan Frederik</p>
+
+<p>Blaine, George</p>
+
+<p>Bosman. Hendrik Johannes.</p>
+
+<p>Botha, Christian Lourens</p>
+
+<p>Botha, Louis</p>
+
+<p>Brain, Thomas Phillip</p>
+
+<p>Burton, Henry</p>
+
+<p>Chaplin, Francis Drummond Percy</p>
+
+<p>Clayton, Walter Frederick</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Cronje, Frederik Reinhardt</p>
+
+<p>Cullinan, Thomas Major</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>De Jager, Andries Lourens</p>
+
+<p>Duncan, Patrick</p>
+
+<p>Du Toit, Gert Johan Wilhelm</p>
+
+<p>Fichardt, Charles Gustav</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Fitzpatrick, James Percy</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Hen wood, Charlie</p>
+
+<p>Hewat, John</p>
+
+<p>Hull, Henry Charles</p>
+
+<p>Jagger, John William</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p>Juta, Henry Hubert</p>
+
+<p>Keyter, Jan Gerhard</p>
+
+<p>King, John Gavin</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Long, Basil Kellett</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Mentz, Hendrik</p>
+
+<p>Meyer, Izaak Johannes</p>
+
+<p>Meyler, Hugh Mowbray</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Oliver, Henry Alfred</p>
+
+<p>Orr, Thomas</p>
+
+<p>Phillips, Lionel</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Reynolds, Frank Umhlali</p>
+
+<p>Runciman, William</p>
+
+<p>Sauer, Jacobus Wilhelmus</p>
+
+<p>Schoeman, Johannes Hendrik</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Smartt, Thomas William</p>
+
+<p>Smuts, Jan Christiaan</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Steytler, George Louis</p>
+
+<p>Stockenstrom, Andries</p>
+
+<p>Struben, Charles Frederick William</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van Eeden, Jacobus Willem</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Watt, Thomas</p>
+
+<p>Whitaker, George</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Wyndham, Hugh Archibald</p>
+
+<p>C. Joel Krige and C. T. M. Wilcocks tellers.</p>
+
+<p>Noes&#x2014;25.</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Currey, Henry Latham</p>
+
+<p>Fawcus, Alfred</p>
+
+<p>Fremantle, Henry Eardley Stephen</p>
+
+<p>Haggar, Charles Henry</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Ruhn, Pieter Gysbert</p>
+
+<p>Maasdorp, Gysbert Henry</p>
+
+<p>Macaulay, Donald</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Merriman, John Xavier</p>
+
+<p>Nathan, Emile</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Schreiner, Theophilus Lynd all</p>
+
+<p>Searle, James</p>
+
+<p>Silburn, Percy Arthur</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p><span class="col_2141-2142" refersTo="page_1077"/>Watermeyer, Egidius Benedictus</p>
+
+<p>Wessels, Daniel Hendrick Willem</p>
+
+<p>J. C. MacNeillie and W. H. Griffin, tellers.</p>
+
+<p>The question was accordingly affirmed, and all the amendments dropped.</p>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he would like his name to be withdrawn in favour of somebody else.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I think the hon. member had better make that request tomorrow, not now.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Very well.</p>
+
+</speech>
+
+<speech by="#stockenstrom">
+
+<from>Mr. <person refersTo="hansard_za">A. STOCKENSTROM</person> (Heidelberg)</from>
+
+<p>asked whether it was in order to divide upon the question that the number of members be eight, seeing that the House yesterday affirmed that the number should be eight.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It has been the practice in the past to allow further names to be moved. Although the House yesterday decided that the committee should be eight, it has been the practice in the past to allow an extension of the names. Consequently, the division is in order.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#randfontein_springs_railway_employees">
+
+<heading>RANDFONTEIN&#x2014;SPRINGS RAILWAY EMPLOYEES.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved for a return showing: (1) The number of employees who have been engaged or transferred for duty on the Randfontein-Springs section of the railway; and (2) the number who have been dismissed from the service on that section or transferred from that section, and the reasons of such dismissal or transference.</p>
+
+</speech>
+
+<speech by="#andrews">
+
+<from>Mr. <person refersTo="hansard_za">W. H. ANDREWS</person> (Georgetown)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#closing_of_gaols">
+
+<heading>CLOSING OF GAOLS.</heading>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>moved for a return showing: (1) A list of the gaols and prisons in the Union which have been or are being closed; (2) the names of gaolers and gaol matrons who have been retired from the service since last session of Parliament, and the age and number of years&#x2019; service of each; and (3) the names, ages and the number of years&#x2019; service of each of the persons appointed in place of the retired gaolers and matrons.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#traffic_returns">
+
+<heading>TRAFFIC RETURNS.</heading>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg)</from>
+
+<p>moved for a return showing the tonnage handled during each of the months of November and December, 1911, and January and February 1912, at the following sidings: &#x201C;Riet,&#x201D; &#x201C;Burger Ville Road,&#x201D; &#x201C;Taaibosch,&#x201D; &#x201C;Dwaal,&#x201D; &#x201C;Wildfontein,&#x201D; and &#x201C;Carolus,&#x201D; respectively; also showing what part of the &#x201C;Riot&#x201D; and &#x201C;Taaibosch&#x201D; traffic was destined for or emanated from the village of Burger Ville.</p>
+
+</speech>
+
+<speech by="#van_eeden">
+
+<from>Mr. <person refersTo="hansard_za">J. W. VAN EEDEN</person> (Swellendam)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transkei_civil_servants">
+
+<heading>TRANSKEI CIVIL SERVANTS.</heading>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>moved that in the opinion of this House the Government should consider the desirability of including the Civil Servants of the Transkei in any scheme for the provision of local allowances which it is intended to bring into operation in the Union. The mover stated it was understood that the salaries were going to be based upon the cost of living in the cheapest parts, and that Civil Servants would be granted allowances for the increased cost of living in places where such increased cost obtains. The Civil Servants in the Transkei claim that they should be included in one at least of the divisions of Civil Servants who are to receive those allowances. Government proposed to give allowances to Civil Servants in Johannesburg, Pretoria, and Bloemfontein as follows: 25 per cent. on the first &#x00A3;100 of salary, 20 per cent. on the second &#x00A3;100, 15 per cent. on the third &#x00A3;100, 10 per cent. on the fourth &#x00A3;100, and 5 per cent. on anything over &#x00A3;400. In the second division, which included the remainder of the Transvaal and Free State, Griqualand West, Kimberley, Bechuanaland. Northern Zululand, Namaqualand, Calvinia, Kenhardt, and one or two more places, it was proposed to allow 20 per cent. on the first &#x00A3;100; 15 per cent. on the second &#x00A3;100. 10 per cent, on the third &#x00A3;100, and 5 per cent. on the fourth &#x00A3;100 and anything over &#x00A3;400, with a minimum of &#x00A3;24 and a maximum of &#x00A3;75. The people in the Transkei claimed that if they could not receive the allowances mentioned in the first division they were at least entitled to those mentioned in the second. The schedule that he held was laid upon the table the other day, and was drawn up by a committee of Civil Servants in Umtata, and indicated the cost of articles in Umtata as compared with those in Pretoria, Johannesburg, and Kimberley. With regard to groceries and provisions, the comparison was made before East Coast fever had increased the cost very much. In the list he found that 22 of the items cost the same as in Johannesburg and Pretoria, in 13 of the items the cost was higher by 10 to 20 per cent., and in six of the items it was somewhat less; but in almost every case East Coast fever had sent the prices up very much higher than in Johannesburg and Pretoria. The only item in which the people in Umtata had the advantage was in oranges, which were 50 per cent. cheaper. But they could not expect people to live on oranges. (Laughter.) He would point out that the rents in Umtata were <span class="col_2143-2144" refersTo="page_1078"/>about the same as those in Kimberley, which enjoyed the benefits of the second division. When the schedule which he had referred to was put before the bank managers in Umtata they decided upon granting a substantial increase to their employees in the Transkei. He was not asking Parliament to say that the Civil Servants in the Transkei should receive these allowances&#x2014;he simply asked the House to recommend the Government to consider, or rather re-consider, the question.</p>
+
+</speech>
+
+<speech by="#king">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KING</person> (Griqualand)</from>
+
+<p>seconded the motion.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queen&#x2019;s Town)</from>
+
+<p>said his hon. friend was a perfect model of assiduity, and no one deserved higher praise from his constituents. He would not follow his hon. friend, however, through his domestic budget. He was not quite sure whether the Native Affairs Department had in every manner considered its Civil Servants with that thoroughness which the importance of that department warranted. The Civil Servants of the Transkei, although they governed natives, did not belong to that community. They were all Europeans, and deserved the treatment which Europeans should receive from that House. There were no railways worth considering in the Transkei, and the only means of transport was by bullock wagon, and for the person who lived up there was the greatest difficulty in getting up household goods and the like. In the second place, the labour supply had migrated to the gold fields, and in order to meet other requirements of the country 100,000 natives had gone to the gold fields. As far as he knew, if the Government had allowed the Civil Servants local allowances, as they were called, on account of the high prices and high cost of living in certain parts of the Union, it was equally fair to give such local allowances in the Transkei.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King William&#x2019;s Town)</from>
+
+<p>said that since East Coast fever had ravaged the Transkei, prices had gone up very much, and the Civil Servants, unless they were very much overpaid, which he did not think they were, must have found that their expenses had very greatly increased. If there were railways in that part of the country the condition of affairs would be remedied to a great extent, and it would be possible to get things up there.</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that he was not going to say a word against the motion, which might fairly be accepted. The position, however, was this: the case of these Civil Servants in the Transkei Territories had already been considered, repeatedly so, by the Advisory Board, and they had not thought that any difference in regard to these officers was justified. Of course, they had to compare i the case of the Transkei to other cases: like the case of Zululand, for example, and; when they talked of other cases it assumed a somewhat different complexion. The question would have to be dealt with later on again, and it was just one of those questions which the Public Services Board, created under the Bill that was now before the House, would have to consider; and therefore, he thought that the proper course was to accept the motion, and later on that question could be considered by the Board, which took the place of the Advisory Board, and possibly they might come to a different conclusion.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Fauresmith),</from>
+
+<p>having replied,</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_scab_act">
+
+<heading>THE SCAB ACT.</heading>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>moved: That the petition from D. J. Steyn and 26 others, inhabitants of the division of Mier in Gordonia, praying to be relieved of the provisions of the Scab Act with regard to the building of dipping tanks and dipping their sheep; and the petition from M. H. Kennedy and 28 others, inhabitants of the district of Gordonia, praying for telegraphic communication, or other relief, presented to the House on the 16th April, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>This was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#political_prisoners_petition">
+
+<heading>POLITICAL PRISONER&#x2019;S PETITION.</heading>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>moved: That the petition from Mhlangazo Faku, a late Kafir chief, of Bizana, Eastern Pondoland, praying that he be placed on the land inherited by him from the Paramount Chief Faku, and that he be no longer considered a political prisoner, but recognised as a Pondo Chief under the Union Government, presented to the House on the loth April, 1912, be referred to the Government for consideration.</p>
+
+<p>The mover gave a brief history of the case, and said that the old man was now living at Bizana, and had always been a loyal subject since the time of Mr. Rhodes, and had always since assisted the Government in every way.</p>
+
+</speech>
+
+<speech by="#griffin">
+
+<from>Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Pietermaritzburg, South)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#technical_and_industrial_training">
+
+<heading>TECHNICAL AND INDUSTRIAL TRAINING.</heading>
+
+<speech by="#hewat">
+
+<from>*Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>moved: That in the opinion of this House the time has arrived when the Government should take into consideration the advisability of giving greater encouragement to technical and industrial training.</p>
+
+<p>The mover said it was necessary to define what he meant by technical training, which was the imparting of special knowledge in order to qualify for a profession or trade, but he wished to exclude the profession as the medical and the <span class="col_2145-2146" refersTo="page_1079"/>like, and deal with technical education only as far as it referred to trades. In the old days it was the custom when a boy had to learn a trade to apprentice him to a certain workshop, and there show him how to do the work, and then give him certain work to do. To-day that was entirely altered, and a boy started with a theoretical and technical education&#x2014;he was told why a certain work was done, and the reason for it being done. The rest of the world was advancing very rapidly in the teaching of technical matters, but South Africa was doing very little at the present moment; and it was with that view that he brought forward that motion. He hoped that when he had finished he should have brought ample proof to convince the Minister in charge of that department and the House that South Africa must be &#x201C;up and doing,&#x201D; in justice to the generation which was coming forward. To help them to compete with those who came from oversea more attention must be given to technical education.</p>
+
+<p>Having quoted a letter from Professor Roenle on the subject, the speaker drew the attention of the House to the case of Germany, where one-fifth of the population went through a course of technical education, and said that when he was in that country he found that technical education went hand in hand with general education. The lad of fifteen had to devote a certain number of hours every day to technical education. The result was that every boy and girl who left school went out into the world not only with a sound general education, but with the sound foundation he or she required for their future life. In Austria there was an even stricter condition of affairs, for boys and girls at the age of fourteen gave up eight to ten hours a week to technical classes. In Denmark they had compulsory technical education, especially in regard to agriculture. In Switzerland there was compulsory technical education; but in America they found a most interesting state of affairs. The Moseley Commission which left England in 1903, reported: &#x201C;The Americans realise that their children are the assets of the nation, and they believe in giving them a sound technical education.&#x201D; England spent a large sum of money in this direction, and he was surprised when he last paid a visit at the number of technical classes to be found in the towns and villages. In Scotland much money was spent on technical classes, while in Ireland a special rate was levied. In Canada some of the Provinces had taken action, while the Dominion Parliament had sent a Commission on a European tour of inspection. In Australia the results of technical education had been eminently satisfactory. Having quoted a letter from Prof. Bohle as to the small amount of work done in this direction in South Africa, the speaker referred to a speech by the Minister of Education at the Conference at Pretoria, when the Minister announced that he was in favour of technical education being undertaken by the Union. At the Conference the Minister made a number of sound statements which, unfortunately, he had not carried into effect. As the result of that Conference distinct recommendations were made. The first recommendation was that more attention should be given to the teaching of practical education in all its branches. Summing up the remainder of the recommendations they found that the Conference agreed that technical education should be undertaken by the Union Government, and that a National Advisory Board should be appointed, and should place this class of education throughout the country on a uniform basis. After the Conference the Minister wrote to the Administrators of the Provinces and asked their opinions on the subject&#x2014;as to whether it was advisable that this class of education should be under the Union Government. The Administrators had replied generally that though technical education came under the Provincial Council they had no objection to the appointment of the Advisory Beard to secure uniformity throughout the country. The Minister had, therefore, withdrawn from the position that technical education should be controlled by the Union administration. The Financial Relations Commission also dealt with the matter, and Sir Perceval Laurence, in the course of a minority report, suggested that technical education should come under the Provincial administration. The result had been that the question had been bandied between the Union Government and the Provincial administrations.</p>
+
+<p>There were nine centres in South Africa giving technical education, and six examining centres, but there was a great deal of confusion. Pretoria, with about 650 students, received an annual grant of &#x00A3;2,000; Maritzburg, with 351 students, received a similar grant but Cape Town, with 528 students, received only &#x00A3;190. He did not say, however, that as Cape Town was not getting an adequate grant that those given to other places should be reduced. Cape Town does not begrudge them their grant. Continuing, the hon. member said they must push home to poor whites and others that work was no disgrace, and that the most independent man was the skilled worker. Purely bookish education must be done away with, and alongside it must be put practical education. Girls also required technical education in such things as dressmaking, typewriting. etc. The growing manhood and womanhood must be put in a position to hold their own against those who came from oversea. One got tired of finding that when anything special was to be done, a special industry was to be started, or a special kind of building erected, that men had to be imported for the purpose from other parts of the world. The only way to start industries was to teach the young how to work them. Many young people had to leave the country in order to obtain the technical education they required. Every town <span class="col_2147-2148" refersTo="page_1080"/>in South Africa should have its technical education centre. Considering the vast importance of the subject, technical education should be regarded as a matter for the Union administration, which should see it carried on in a uniform manner. If the subject were handed over to the Provincial authorities, Cape Town would be left without a proper building for technical education, while Durban had a fully equipped polytechnic costing &#x00A3;28,000, and Maritzburg was also well served in this matter. Should it be decided that technical education was to be transferred to the Provincial authorities, provision should be made from Union funds for putting the Cape Province on the same footing as the other Provinces in regard to buildings. He hoped, however, that the Minister would not hand technical education over to the Provinces.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>seconded the motion.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>welcomed the motion, one reason being that it gave him an opportunity of removing a misunderstanding in connection with technical education. Shortly after Union was established, the necessity of doing something for technical education was brought very clearly home to him, and the mover was one of those who urged the importance of the matter. (Hear, hear.) He (Mr. Malan) called a conference, which was held at Pretoria in November, 1911. It was made perfectly plain that there was no intention on the part of the Union to interfere with the work of the Provincial Councils.</p>
+
+<p>A resolution was passed, No. 26, &#x201C;that vocational schools (i.e., technical industrial schools) should be directly under the control of the Union Government.&#x201D; But when this resolution was under discussion, he made it perfectly plain that the Government took no part in the matter. So far as it was a Provincial matter, they did not desire to interfere, and he went further, and he said that, as far as the four Directors of Education were concerned, they did not want to express an opinion upon this matter, as they could safely reserve their votes, which three of them did. The Director of Education of the Transvaal voted against this motion. &#x201C;Dr. Muir requested it to be minuted that, for reasons quite impersonal and bearing on the duties of the Provincial administration, he desired not to record his vote on this resolution. Mr. Mudie and Dr. Viljoen made similar requests.&#x201D; In the Transvaal, more was done for technical education than in any other Province. (Hear, hear.) Perhaps he ought to qualify this, as far as Natal was concerned, because just before Union, and since Union, he must give Natal credit for having devoted a great deal of attention and money towards the founding of two technical schools, one at Durban and the other at Maritzburg. Resolution No. 26 was not carried unanimously, but there was a strong feeling at the Conference in favour of centralising technical education&#x2014;(hear, hear)&#x2014;very much on the lines urged that afternoon by the hon. member for Woodstock. The report was published, and judging by the reception it had, and more particularly this clause, he came to the conclusion that it would be unwise at the present moment to attempt or even to give colour to the idea that they wanted to interfere with the Provinces. (Hear, hear.) Whether that were desirable or not, he thought that, in the general interests of the harmonious working of the Union of South Africa they should not interfere now with their functions. It was possible a particular Province or a particular town might suffer, but he was afraid these sacrifices would have to be put up with for the present. In order that the Conference might have some practical result he communicated with the Administrators. The following resolution (No. 28) was unanimously adopted by the Conference: &#x201C;That a National Advisory Board for technical education be formed to deal generally with syllabuses, examinations, and the award of certificates.&#x201D; It would be seen that in this resolution there was not a word about the administration of particular institutions in any of the Provinces. They came to the conclusion that it would be unwise to interfere with the Provinces, but he did propose to the Provinces this Advisory Board. When the Conference of the Government with the Administrators and the Executive Committees met some weeks ago in Cape Town he took occasion to discuss this matter fully with them. It was not right to say, after that Conference, that there was any doubt as to what the position now was, because it was definitely arranged at that Conference that technical schools, pure and simple, as they had been in the past part of the school systems of the Provinces, would be and would remain with the Provinces.</p>
+
+<p>As regarded the extra schools, the School of Mines, the schools of the Prisons Department, which were incidental to Union departments, they would remain with the Union Government. That applied also as regarded agricultural education. Agricultural schools would remain under the Union Government. It was definitely decided that for the present technical schools, industrial schools, commercial schools, evening classes in connection with the railways and workshops would all remain with the Provinces. It was also arranged that they should proceed with this Advisory Board. He thought that a satisfactory solution and a clear line of demarcation had been drawn. The only question now was whether this House would consent to the appointment of such an Advisory Board. The Government had placed on the Estimates a sum of &#x00A3;500, and it was intended that this committee, after the money had been voted should devote itself for the remainder of <span class="col_2149-2150" refersTo="page_1081"/>this financial year very largely to inquiries to find out what could be done to give effect to some of the resolutions, at all events, of this Conference at Pretoria. He saw that the Public Accounts Committee had advised against the appointment of the Board. If the House adopted their view he should have little more to say, except, that an attempt had been made to get a little co-ordination out of the chaotic condition at the present time, and that the House in its wisdom had not accepted it. This matter was not before the House now, and therefore he did not propose to go into it. He might say that, as far as the Cape Colony was concerned, they had got a special Act of Parliament dealing with the erection of industrial institutions, that was the Labour Colonies and Industrial Institutions Act. Under that Act an industrial school had been established at Oudtshoorn, and another one was in contemplation at Cradock, but the Government had delegated the power to deal with the establishment and erection of industrial institutions under this Labour Colonies Act definitely to the Province, and the Administrator and Executive Committee administered that part of the Act. He hoped that the hon. member for Woodstock would perhaps, after a little discussion, see his way to withdraw the motion.</p>
+
+</speech>
+
+<speech by="#cover">
+
+<from>Mr. <person refersTo="hansard_za">H. A. COVER</person> (Kimberley)</from>
+
+<p>said that the explanation given by the Minister would, he was sure, clear up matters a great deal in regard to the administration of education. He spoke of the great value and importance of technical training for the youths growing up in the country, so that they would not be forced into the already overcrowded professions. He felt that if they were to compete with other countries and to fit and prepare their young men for work in this country, they must open these technical schools. At the present time if they wanted a man with special knowledge, they had to import him from other countries, because they were unable to avail themselves of their own men. He hoped to see in the Cape Province as good a system of technical education as they had in the Transvaal and Natal.</p>
+
+</speech>
+
+<speech by="#griffin">
+
+<from>Mr. <person refersTo="hansard_za">W. H. GRIFFIN</person> (Pietermaritzburg, South)</from>
+
+<p>said he had been astonished at the immense value of technical education in Natal, and he would strongly impress upon the Minister of Education the necessity of dealing with this matter most liberally. He was somewhat sorry, however, that technical education had been relegated to the Provincial Councils, because he thought that technical education should remain under the control of the Union Government. The whole question should be consolidated, and then it could be dealt with by an Advisory Board. It was essential that the youth of the country should learn some means of making a living, and he hoped the Government would take the whole question into their serious consideration.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>said he was sorry that the Minister did not propose to give the House an opportunity of deciding as to whether this question should be dealt with by the Union or Provincial Governments, because he believed the House would decide that it should be under the Union Government. Still, if it were decided that technical education was to be under Provincial Councils, then they must accept it, but he hoped that the Government would do their very best to assist it in every way.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. W. GROBLER</person> (Rustenburg)</from>
+
+<p>said that as the matter was one for decision by the Provincial Councils he would move &#x201C;the previous question.&#x201D;</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>put the previous question, namely, that the question be now put, and declared that the &#x201C;Noes&#x201D; had it.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">HEWAT</person> (Woodstock)</from>
+
+<p>called for a division, but afterwards withdrew.</p>
+
+<p>The amendment was accordingly negatived, whereupon the motion dropped.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#communication_to_witzieshoek">
+
+<heading>COMMUNICATION TO WITZIESHOEK.</heading>
+
+<speech by="#meyer">
+
+<from>Mr. <person refersTo="hansard_za">I. J. MEYER</person> (Harrismith)</from>
+
+<p>moved that the petition from A. Ross and 70 others, inhabitants of Witzieshoek and its neighbourhood, in the district of Harrismith, Orange Free State, praying for telegraphic or telephonic communication, presented to the House on the 21st March, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">P. J. G. THERON</person> (Heilbron)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#wolvehoek_heilbron_railway">
+
+<heading>WOLVEHOEK&#x2014;HEILBRON RAILWAY.</heading>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">P. J. G. THERON</person> (Heilbron)</from>
+
+<p>moved that the petitions from M. J. de Beer and 26 others, J. J. Els and 71 others, P. J. Els and 33 others, J. A. Joubert and 36 others, and J. D. Claasen and 17 others, presented to the House on the 15th March, 1912; the petitions from C. P. J. Prinsloo and 131 others, J. W. Wessels and 47 others, presented to the House on the 22nd March, 1912; the petitions from J. M. Els and 16 others, and J. F. Engelbrecht and 90 others, presented to the House on the 25th March, 1912; all of whom are registered voters in the electoral division of Heilbron, Orange Free State, praying that the Wolvehoek&#x2014;Heilbron railway may be extended to Lindley and thence to a point on the Harrismith&#x2014;Kroonstad line, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#meyer">
+
+<from>Mr. <person refersTo="hansard_za">I. J. MEYER</person> (Harrismith)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#magistrate_for_brandfort">
+
+<heading>MAGISTRATE FOR BRANDFORT.</heading>
+
+<speech by="#steyl">
+
+<from>Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>moved that the petition from J. Vlotman and 370 other inhabitants of Ward <span class="col_2151-2152" refersTo="page_1082"/>Midden, Modder River, Winburg, praying the House to consider the advisability of creating the area now under the jurisdiction of the Detached Assistant Resident Magistrate of Brandfort, a separate district with Brandfort as the district town, presented to the House on the 11th April, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#cronje">
+
+<from>Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reduction_of_quitrents">
+
+<heading>REDUCTION OF QUITRENTS.</heading>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>moved that the petitions from John Landrey and 157 others and A. F. Engelbrecht and 61 others, holders of quitrent farms in the districts of Cathcart, Queen&#x2019;s Town, Stutterheim, and Komgha, praying for a reduction of the quitrents payable by them, or for other relief, presented to the House on the 21st March, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#baxter">
+
+<from>Mr. <person refersTo="hansard_za">W. D. BAXTER</person> (Cape Town, Gardens)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#zandrivier_railway_facilities">
+
+<heading>ZANDRIVIER RAILWAY FACILITIES.</heading>
+
+<speech by="#theron">
+
+<from>Mr. <person refersTo="hansard_za">H. S. THERON</person> (Hoopstad)</from>
+
+<p>moved that the petition from H. Conroy and 71 others, inhabitants of the district of Winburg, Orange Free State, requesting that the necessary facilities may be provided on the railway to the north of Zandrivier for loading and unloading cattle, produce and other goods, or for other relief, presented to this House on the 22nd February, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#cronje">
+
+<from>Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sale_of_liquor_to_natives">
+
+<heading>SALE OF LIQUOR TO NATIVES.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>moved for Sir Henry Juta (Gape Town. Harbour) that the petitions from W. H. Richards and 248 other adult residents of Green and Sea Point, praying for legislation prohibiting the sale of intoxicating liquor to natives throughout the Union, and from W. H. Richards and 236 other adult residents of Green and Sea Point, praying for legislation providing for the direct popular veto, whereby men and women may decide by ballot on the continuance, reduction or non-issue of liquor licences presented to the House on the 13th March. 1912 be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#direct_popular_veto">
+
+<heading>DIRECT POPULAR VETO.</heading>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>moved for Mr. G. H. Maasdorp (Graaff-Reinet) that the petition of J. P. Haarhoff and 196 other residents of Graaff-Reinet, praying for legislation providing for the direct popular veto, whereby men and women may decide by ballot on the continuance, reduction, or non-issue of liquor licences, presented to this House on the 12th March, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#proposed_railway_from_brandfort">
+
+<heading>PROPOSED RAILWAY FROM BRANDFORT.</heading>
+
+<speech by="#steyl">
+
+<from>Mr. <person refersTo="hansard_za">J. P. G. STEYL</person> (Bloemfontein District)</from>
+
+<p>moved that the petition from J. Vlotman and 345 others, praying for the construction of a line of railway from Brandfort, via the Zoutpannen and Warm-bad, in the north-west of the Bloemfontein district, to the north-western districts of the Orange Free State, presented to the House on February 23, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#cronje">
+
+<from>Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#asiatics_in_the_orange_free_state">
+
+<heading>ASIATICS IN THE ORANGE FREE STATE.</heading>
+
+<speech by="#fichardt">
+
+<from>Mr. <person refersTo="hansard_za">C. G. FICHARDT</person> (Ladybrand)</from>
+
+<p>moved that the petitions from J. A. Stofberg and 55 others; G. Laesch and 16 others; S. Joubert and 26 others; Robert Dickie and 28 others; J. D. Marais and 30 others; W. van der Merwe and 20 others; J. J. Kotze and 29 others; W. A. Crass and 13 others; J. J. Diedericks and 33 others; A. P. du Plessis and 69 others; E. A. Martin and 6 others; M. Harvey and 4 others; and K. Wimmer and 59 others; presented to the House on February 19,1912, against the immigration of Asiatics into the Orange Free State, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#amendment_of_general_dealers_act">
+
+<heading>AMENDMENT OF GENERAL DEALERS&#x2019; ACT.</heading>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>moved for Mr. G. H. Maasdorp (Graaff-Reinet) that the petition from the Mayor and Town Clerk, representing the Town Council of Graaff-Reinet, praying for the amendment of the General Dealers and other Licences Amendment Act, 1906 (Cape), presented to the House on February 28, 1912, be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_fair_wage_clause">
+
+<heading>THE FAIR WAGE CLAUSE.</heading>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>moved That in the opinion of this House, it is desirable that, on and after the 1st day of January, 1913, all contracts entered into between the Government of the Union of South Africa, and any other person, persons, corporation or company, shall contain <span class="col_2153-2154" refersTo="page_1083"/>what is known as a &#x201C;Fair Wage Clause,&#x201D; and, amongst other conditions, the following, viz.: (1) The contractor agrees with the Government that all skilled workers employed by the said contractor in and about the work aforesaid, shall be paid not less than the minimum standard wage paid within the district to persons employed in like work; and further, that such workers shall not be required to work for a greater number of hours per day than may be recognised in the trade as a fair day&#x2019;s work within the district; (2) the contractor agrees with the Government that in and about the execution of the contract aforesaid, he will not employ other than regular and duly qualified or competent persons to do such work as is usually done by skilled workers in contracts of the like nature; (5) the contractor undertakes and agrees that he will not sublet, cede, or assign the said contract, or any part or portion thereof, without the consent in writing of the Government, the conditions of this clause to apply to any work so sublet, ceded, or assigned; (4) it shall be competent for the Government, by its agents or servants, at all reasonable times, during the continuance of the said contract, to inspect all work done by the contractor, firm, person or persons performing the contract, and to examine the books of the said contractor to ascertain the rate of wages paid by him or them to the workers in and about the said contract; (5) nothing in this clause shall be taken to prohibit any person who, by reasons of any incapacity, is unable to earn the minimum wage from working for such remuneration as may be agreed upon by himself and his employer, or by any persons competent to make such an agreement; (6) provision shall be made in all Government contracts giving the Government an absolute right of cancellation of any contract in all of the provisions of paragraphs (1), (2), (3) and (4); and (7) on and after the 1st day of January, 1913, the Government in calling for tenders for contracts shall advertise that the same will only be granted conditionally upon the contractors agreeing to the insertion in the contract of paragraphs (1), (2), (3) and (4) aforesaid, or paragraphs of a like nature. The hon. member said that a few days ago the hon. member for George (Mr. Currey), when discussing the unrest in the Civil Service, had said that a sense of insecurity had a great deal to do with it: and wherever they looked in the industrial world a sense of insecurity worked havoc on both sides. He knew that in advancing that proposition to-day he was speaking the thoughts and feelings of all the artisan class, whether they were employers or employed, in South Africa to-day. The sense of security was always important, and became particularly so where one side invested its capital, and the other side depended on its daily labour for its work. There were two classes in the Union who ought to know exactly what was going on&#x2014;members of Parliament and the public press&#x2014;and many of the criticisms passed on that motion and many of the remarks he had heard showed him that many of them had not studied the question. It had been said that the motion was the longest which had been tabled. It was not. The hon. member for Umbilo (Mr. Robinson) was the author of the motion, and several years ago had drawn it up, and it had been discussed in the Natal Parliament, and received a great deal of support. The Master Builders&#x2019; Federation of South Africa was strongly in favour of it, as was any trades union they could invoke, and they considered lit to be to their own advantage as Well as to that of the artisan. The hon. member went on to touch upon the several clauses of the motion, and said that because security was established, the man who tendered was able to draw up his contract knowing that for some years to come there would be no dispute, and that he could rely upon a regular supply of first-class labour, on his calculations working out properly, and harmony existing all along. Sometimes, under Government contracts, undesirable things took place, and he alluded to a case where such a contractor had sub-let his contract and left the country with the money in his pocket, while the artisans had no redress. There were in South Africa certain philanthropic institutions which taught the natives certain trades and paid them nothing, so that they were able to take contracts at a low figure, the result being that business people were unable to compete. The late Sir C. O&#x2019;Grady Gubbins had introduced something to the same effect as that motion in Natal, persons having Government contracts to pay standard wages&#x2014;by which he meant the recognised wages in the district where the work was done. Proceeding, he said that it was urged against the trades unions that they only allowed a certain class of man to work, and shut out the rest. That was not true. They maintained that there should be a standard wage, and that the men should be paid for the quality of the work done. In substance, although not all of it, that motion had been adopted in the civilised world, including also Cape Town, East London, Durban, the Public Works Department in the Transvaal anl the like. Some years ago he had the honour of introducing that matter in the Durban Corporation. In the contract for the new Durban Town Hall the fair-wage clause had not been inserted, and the contractor had imported men at a low rate of wage from oversea, so that the men of Durban had to stand idle while those other men worked on their own town hall, at low rates of pay. A deputation had waited on the Town Council, but they were powerless, because there was not a fair-wage clause inserted in the contract. Without the fair wage clause, men would never gain that security which would encourage them to go forward in life. There <span class="col_2155-2156" refersTo="page_1084"/>were supposed to be difficulties, but they were never raised by men on both sides who had gone into the question. A great many people did not understand what was asked. What was asked was that the rate of wages agreed upon by a trade in each district should be paid by those taking up contracts. Let him take the clothing contracts. He was sorry to see that large contracts for clothing went out of the country. They knew that a great deal of this clothing was made under sweating conditions, and cost a great deal more than if it were made here. Now 21s was paid for a postman&#x2019;s uniform.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort):</from>
+
+<p>21s.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>They could not get a pair of trousers for that.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort):</from>
+
+<p>My right hon. friend must have been extravagant when he had charge of the money. Continuing, he said that when the clothing, which was not made under proper supervision, reached this country, it cost 5s per suit for alterations. At any rate he wanted this question discussed on its merits. He thought that men who said they would work for what they could get should not be encouraged, for such a state of affairs did harm to other workers. He appealed to hon. members who wished to see just and Christian principles carried out to support him. Most of the municipalities had adopted the fair wage clause, and now he wanted that attitude taken up by the Union Government. When he talked of a district wage he meant the wages agreed upon in a certain district for a certain trade. It might be said that they had no right to tamper with the contracts, but he would point out that that principle was not acknowledged. He hoped that the motion would be accepted in the spirit in which it was offered. The standard wage he felt sure was the solution of the black versus white worker agitation which had been going on throughout the country. In order to get rid of these caprices of employer and employee, in order to give a sense of security, in order to prevent the possibility of disastrous disputes, he asked the House to consider this question fully and fairly.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner street),</from>
+
+<p>in seconding the motion, said he thought that the motion in its present form was hedged round by difficulties which the hon. mover had not ventured to explain in full. He would not like to see the terms of the motion in its present form embodied in a contract, for the reason that he did not think these terms would be upheld in any court of law. He referred more particularly to the term standard minimum wage, and said he preferred the wording of the clause which obtained in the &#x2018;Public Works Department contracts in the Transvaal.</p>
+
+<p>It was very difficult in outlying districts to find out what was the minimum standard wage, but as the labour was generally drawn from the nearest industrial centre, he suggested that the wages prevailing there should be taken as the standard. Many private people and firms insisted that a fair wage should be paid by their contractors. In Cape Town quite a large number of artisans employed on Government work were earning wages which had greatly been reduced, by the competition of coloured people, and the wages were so low that they would not allow of the men being able to maintain a white wife. As a result in some of the poor districts of Cape Town, one could see a white man with a coloured wife and a number of nondescript children. The same sort of thing was also happening in some of the other coast towns.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said he was sorry that the last speaker had talked about the difficulty of getting at the meaning of a minimum standard wage. In practise he (Mr. Botha) did not think it would be difficult to find that out. At Bloemfontein all the municipal contracts had a fair wage clause. It was perfectly easy in any particular area to find out what was the minimum standard wage, the adoption of which prevented people taking work at a starvation wage.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>*Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Csatle)</from>
+
+<p>said the Cape Town Council had accepted the principle of a fair wage clause, but unfortunately it had not been able to carry it into practice, as in order to do that its Municipal Act would have to be amended. The matter was one which affected not only the workman, but also the State and the employer. Employers of repute throughput South Africa were in favour of a fair wage clause&#x2014;(hear, hear)&#x2014;which was not a pistol held at the employer&#x2019;s head. In Victoria there were Fair Wages Boards, and if there were a dispute as to the standard wage it was submitted to these Boards. Unfortunately this method broke down sometimes, but because strikes had not been done away with that did not show that the Boards had not done a great deal of good in the cause of industrial peace. The subject was considered by a Select Committee of the Cape Legislative Council in 1905, and the committee arrived at the opinion that a fair wage clause similar to the one adopted by the Cape Town Council should be adopted in all Government contracts. So far from the question of colour rendering the clause difficult to operate, the men who gave evidence showed that there was no difficulty in regard to colour, for a man was paid, not according to the colour of his skin, but according to his skill. (Labour cheers.) A majority of the Select Committee of the Cape House of Assembly, which <span class="col_2157-2158" refersTo="page_1085"/>also sat in 1906, to consider the Factory Act, arrived at the conclusion that it was necessary to provide for the recognition of the fair wage clause. Mr. Alexander went on to refer to the Select Committee appointed by the Cape House of Assembly in 1908 in reference to imported contract labour and the fair wage clause in Government contracts. He pointed out that the fair wage clause could be quite easily brought into force by the Government in regard to Government contracts. He said that this motion was only reiterating what had been repeatedly passed not only by other Parliaments but by the Parliament of the Cape Colony preceding Union. He submitted that an unanswerable case had been made out, in favour of the insertion of the fair wage clause in Government contracts. The Government had received a good lead from the master builders, and one which they ought without unnecessary delay to follow.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>moved, as an amendment, to omit all the words in line 4 after &#x201C;clause&#x201D; to the end. He remarked that very little had been said about the conditions, and he thought the motion would be more likely to meet with acceptance if they omitted that portion.</p>
+
+</speech>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that he would withdraw his motion in favour of the amendment just moved.</p>
+
+</speech>
+
+<speech by="#minister_of_commerce_and_industries">
+
+<from>The <person refersTo="hansard_za">MINISTER OF COMMERCE AND INDUSTRIES</person></from>
+
+<p>said that the reason why this minimum wage was not inserted in the Cape, while it was inserted in the Transvaal and other Provinces, was that they had in the Cape many coloured workmen, and it was felt that it would be impossible to fix a minimum wage that would suit the white man and at the same time would meet the case of the black man. He was rather inclined to think that it would have been wise for the mover to have left well alone. As these conditions they wished for already existed in the other Provinces and there was a colour bar in those Provinces, it followed that if a minimum wage was enforced in the Cape Province the colour bar would have to be removed from the other Provinces. He ventured to think that the men whom the hon. member professed to represent would resent anything of the kind. He felt that this proposal would not improve the conditions of the white workmen throughout the Union. The member for the Castle suggested that the minimum wage should apply to all white men, and he presumed therefore that the minimum wage would be acceptable to all white men. In the Cape Province not only the building industry, but other industries were carried on by coloured labour, and if the price of coloured labour was raised throughout this Province the manufacturers would not thank the member for the Castle Division for endeavouring to level up the wages of the coloured man to those of the white. For these reasons the Government were unable to accept either the motion or the amendment, and he hoped they would be withdrawn.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said that the Minister had put the case very clearly. The Government refused this motion because under the present system, either the white man would have to reduce his standard of living to the standard of living of the coloured man or quit the country. A more serious statement he had never heard expressed in that House before. Between the two alternatives of the coloured men receiving a wage sufficient to maintain himself and family according to the civilised standard, or the white man having to reduce his standard of living, then he would say that they ought to choose the former alternative.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I move the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said he could see no great desire on the part of the Government benches to discuss this motion.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I did not move the adjournment of the debate, because I did not want to discuss it. I would like to speak upon this matter myself, but there is no time.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person></from>
+
+<p>desired to know if the Minister was prepared to afford the time for discussing the question.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I withdraw my motion for the adjournment.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>said the House would be accepting a very great responsibility if they were to accept this motion. Who was to decide the minimum wage? If the hon. members on the crossbenches were to decide what should be the minimum wage, what was to become of the coloured man? The coloured worker had certainly more right to lay down what should be the minimum wage, and if he did that, what was to become of the white man? If they were to take the coloured basis, the white man would be unable to live. This question had to be approached with a good deal of caution, and he thought that it would be best to take the advice of the Minister. Farmers might with an equal amount of justice, come forward and ask that a minimum price should be fixed upon their produce. He would be inclined to vote for the motion if a minimum wage was fixed not only for the workers, but for the farmers as well. He moved that the debate be adjourned.</p>
+
+</speech>
+
+<speech by="#van_niekerk">
+
+<from>Mr. <person refersTo="hansard_za">C. A. VAN NIEKERK</person> (Boshof)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said they could easily see that the last speech was for the purpose of keeping the debate <span class="col_2159-2160" refersTo="page_1086"/>going to 6 o&#x2019;clock. If they adjourned the debate now, they would never reach it again, and he could not understand why the Government did not wish to come to a vote upon the subject.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>said if the Minister would give them the assurance that they would have further opportunity of voting upon this matter, then he thought they might agree to the adjournment.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers)</from>
+
+<p>said that the hon. member for Worcester, had advanced no argument to meet the oase, and simply had been put up to talk out the debate.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>hoped that the debate would not be adjourned.</p>
+
+<p>The motion was put, Mr. SPEAKER declaring that the &#x201C;Ayes&#x201D; had it.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#division">
+
+<heading>DIVISION.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>called for a division, which was taken with the following result:</p>
+
+</speech>
+
+<p>Ayes&#x2014;49.</p>
+
+<p>Alberts, Johannes Joachim</p>
+
+<p>Beyers, Christiaan Frederik</p>
+
+<p>Bosman, Hendrik Johannes</p>
+
+<p>Burton, Henry</p>
+
+<p>Cronje, Frederik Reinhardt</p>
+
+<p>Cullinan, Thomas Major</p>
+
+<p>De Beer, Michiel Johannes</p>
+
+<p>Fawcus, Alfred.</p>
+
+<p>Fischer, Abraham</p>
+
+<p>Geldenhuys, Lourens</p>
+
+<p>Griffin, William Henry</p>
+
+<p>Grobler, Evert Nicolaas</p>
+
+<p>Grobler, Pieter Gert Wessel</p>
+
+<p>Heatlie, Charles Beeton</p>
+
+<p>Joubert, Christiaan Johannes Jacobus</p>
+
+<p>Joubert, Jozua Adriaan</p>
+
+<p>Kuhn, Pieter Gysbert</p>
+
+<p>Lemmer, Lodewyk Arnoldus Slabbert</p>
+
+<p>Leuchars, George</p>
+
+<p>Louw, George Albertyn</p>
+
+<p>Malan, Francois Stephanus</p>
+
+<p>Marais, Johannes Henoch</p>
+
+<p>Marais, Pieter Gerhardus</p>
+
+<p>Mentz, Hendrik</p>
+
+<p>Myburgh, Marthinus Wilhelmus</p>
+
+<p>Neethling, Andrew Murray</p>
+
+<p>Neser Johannes Adriaan</p>
+
+<p>Oosthuisen, Ockert Almero</p>
+
+<p>Rademeyer, Jacobus Michael</p>
+
+<p>Sauer, Jacobus Wilhelmus</p>
+
+<p>Serfontein, Hendrik Philippus</p>
+
+<p>Smuts Jan Christiaan</p>
+
+<p>Smuts, Tobias</p>
+
+<p>Steyl, Johannes Petrus Gerhardus</p>
+
+<p>Stockenstrom, Andries</p>
+
+<p>Theron, Hendrick Schalk</p>
+
+<p>Theron, Petrus Jacobus George</p>
+
+<p>Van der Merwe, Johannes Adolph P.</p>
+
+<p>Van Heerden, Hercules Christian</p>
+
+<p>Van Niekerk, Christian Andries</p>
+
+<p>Venter, Jan Abraham</p>
+
+<p>Vermaas, Hendrik Cornelius Wilhelmus</p>
+
+<p>Vintcent, Alwyn Ignatius</p>
+
+<p>Vosloo, Johannes Arnoldus</p>
+
+<p>Watermeyer, Egidius Benedictus</p>
+
+<p>Watt, Thomas</p>
+
+<p>Wessels, Daniel Hendrik Willem</p>
+
+<p>C. Joel Krige and C. T. M. Wilcocks, tellers.</p>
+
+<p>Noes&#x2014;23.</p>
+
+<p>Andrews, William Henry</p>
+
+<p>Botha, Christian Lourens</p>
+
+<p>Brown, Daniel Maclaren</p>
+
+<p>Chaplin, Francis Drummond Percy</p>
+
+<p>Creswell, Frederic Hugh Page</p>
+
+<p>Crewe, Charles Preston</p>
+
+<p>Haggar, Charles Henry.</p>
+
+<p>Harris, David</p>
+
+<p>Henderson, James</p>
+
+<p>Long, Basil Kellett</p>
+
+<p>MacNeillie, James Campbell</p>
+
+<p>Madeley, Walter Bayley</p>
+
+<p>Nathan, Emile</p>
+
+<p>Orr, Thomas</p>
+
+<p>Sampson, Henry William</p>
+
+<p>Schreiner, Theophilus Lyndall</p>
+
+<p>Smartt, Thomas William</p>
+
+<p>Struben, Charles Frederick William</p>
+
+<p>Walton, Edgar Harris</p>
+
+<p>Watkins, Arnold Hirst</p>
+
+<p>Wiltshire, Henry</p>
+
+<p>Morris Alexander and J. Hewat, tellers</p>
+
+<p>The motion to adjourn the debate was, therefore, agreed to.</p>
+
+<p>The debate was adjourned until Wednesday 1st May.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-04-23T18:09:00">6.9 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

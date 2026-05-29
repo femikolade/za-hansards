@@ -1,0 +1,1247 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY NOVEMBER 29 1910'
+layout: debate
+year: 1910
+month: NOVEMBER
+month_slug: Nov
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, November 29 1910</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1910-11-29T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska),</from>
+
+<p>from occupants of the farm Leeuwkop, Kenhardt, Cape Colony, praying the House to allot, it to the Dutch Reformed Church Mission, Kenhardt.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from T. H. Dawe, a fitter, Salt River Railway Works,</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from R. J. Paynter, turner, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from T. Chance, chargeman, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from T. H. Morgan, clerk in the South African Railways.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from J. N. Schietekat, assistant fitter, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from S. J. Learey, machinist, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clan william),</from>
+
+<p>from J. C. Faure, widow of the late J. C. Faure, Resident Magistrate for Cape Town.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West),</from>
+
+<p>from C. L. Gantz, teacher in the Coloured Mission School, Beaufort West.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King Williams Town),</from>
+
+<p>from P. Tyanzashe, a retired native schoolmaster, King William&#x2019;s Town.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl),</from>
+
+<p>from J. V. Howat, postmaster, Paarl.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from J. C. Niddrie, a chargeman, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from S. S. Ponder, accounting clerk, Forest Department, Cape Town.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from J. C. Cawcutt, Chief Messenger, Deeds Registry, Cape Town.</p>
+
+</speech>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jonsenville),</from>
+
+<p>railway between Jansenville and Klipplaat Junction.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein),</from>
+
+<p>for repeal of Ordinance No. 10 of 1903 (Free State), imposing annual licences on advocates.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland),</from>
+
+<p>to consider the advisability of acquiring 250 morgen of land at Kuruman, belonging to the London Mission Society, for the purpose of establishing a land settlement (two petitions).</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland),</from>
+
+<p>railway from Taungs Siding, via Rietfontein diamond mines, to Kuruman.</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula),</from>
+
+<p>from Richard Tanfield, Public Service, Cape.</p>
+
+</speech>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland),</from>
+
+<p>Taungs, reduction of quitrent.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#hansard">
+
+<heading>HANSARD.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>,</from>
+
+<p> as chairman, brought up a special report of the Select Committee on production of an official Hansard, asking for leave to confer with a similar committee of the Senate.</p>
+
+<p>On the motion of the Minister of the Interior, leave was granted.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_laid_on_table">
+
+<heading>REPORTS LAID ON TABLE.</heading>
+
+<speech by="#minister_of_the_interior">
+
+<from><span class="col_381-382" refersTo="page_0200"/>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>Copies of Proclamations and Government notices published by the Colonial Secretary&#x2019;s Department, September 24, 1909&#x2014;May 30, 1910, Cape.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Copies of Proclamations and Government notices, covering regulations published, under various School Board Acts, September 24, 1909, to May 30, 1910.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#waste_lands_committee">
+
+<heading>WASTE LANDS COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>as chairman, brought up the first report of the Select Committee on Waste Lands as follows: First report of the Select Committee on Waste Lands, appointed by Orders of the House of Assembly, dated the 7th and 8th November, 1910, to consider and report upon all recommendations for the disposal of Crown lands, or of servitudes thereon, or conditions connected therewith, as may be submitted by the Government under the provisions of any Act or law requiring Parliamentary approval; the committee to have power to take evidence and call for papers, to consist of nine members, and that the following be members of the committee, viz.: the Minister of Education, Colonel Crewe, Mr. Vosloo, the Minister of Landis, Messrs. Becker, King, Oliver, Wessels, and Dr. Watkins.</p>
+
+<p>Your committee beg to report that they have had under consideration the papers and correspondence referred to them, and beg to recommend the grants, etc., of land, as set forth in the accompanying schedule, viz.: (1) Grant, for school purposes, at Bodiam, Peddle; (2) grant, for church purposes, at Douglas; (3) grant, for church purposes, at Berlin, King William&#x2019;s Town; (4) grant, for church purposes, at Kuruman; (5) grant of garden lot, Knappe Hope Mission Station, King William&#x2019;s Town; (6) transfer, for church purposes, at Griquatown; (7) grant, for church purposes, at Campbell; (8) grant, for church purposes, at Hlobo, Nqamakwe; (9) grant, for church and school purposes, at Zangokwe, Queen&#x2019;s Town; (10) grant, for parsonage, at Kehardt; (11) grant, for trading site, at Mhlahlane, Nqamakwe; (12) grant, for public cemetery, at Bizana; (13) grants, for church and school purposes, at Ludondolo and Esingumeni, Idutywa; (14) grant, for church and school purposes, at Ceguana; (15) grant, for public cemetery, at Nqamakwe (16) sales, near King&#x2019;s Cross Township, King William&#x2019;s Town; (17) grant, for church purposes, on farm Uitkyk, Wode-House; (18) grant, for public cemetery, at Hoedjes Bay, Malmesbury; (19) grant, as fishing site, at Gericke Point, George; (20) grant, for public library, at Port St. John&#x2019;s; (21) leasee, to squatters, on Middelvlei, Caledon; (22) grant, for agricultural show-ground, at Worcester.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved, as an unopposed motion, seconded by My. J.H. SCHOEMAN (Oudtshoorn) that the schedule be printed, and that the report be considered in committee on Monday.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#central_agency_for_co-operative_societies">
+
+<heading>CENTRAL AGENCY FOR CO-OPERATIVE SOCIETIES.</heading>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffontein)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether the Government will publish the accounts of the first year&#x2019;s working of the Central Agency for Co-operative Societies; (2) whether it is a fact that the salaries of the manager and saff during the first year&#x2019;s working were paid by the Agricultural Department, and, if so, whether the amount so expended has been refunded; (3) what rent the Central Agency pays to the South African Railways for the storage of maize at railway stations; (4) to what extent is the credit of the Land Bank involved in any contracts at present being carried out by the agency; and (5) whether the Central Agency at the present time as indebted to (a) the Land Bank, and (b) the Government, and, if so, for how much?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>The accounts for the first year&#x2019;s working of the Central Agency for Co-operative Societies will be published in the report of the Controller and Auditor-General on the Transvaal accounts. (2) The salaries of the manager and the staff of the Central Agency during the first year&#x2019;s working were paid by the Agricultural Department. Part of the amount so expended has been refunded. (3) Co-operative Societies erect their own stores, for the sites of which they pay the South African Railways 10s. per month. (4) The credit of the Land Bank is involved to the extent of &#x00A3;53,533 in respect of guarantees for the due performance of certain contracts entered into by the Central Agency acting on behalf of Co-operative Societies. Portion of the contracts has already been executed, and the quantities of mealies required to complete the contracts are actually in the possession of societies. (5) The Central Agency is not at the present time indebted to the Land Bank. It owes the Government &#x00A3;995 on account of the first year&#x2019;s working expenses.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#telegraphs_and_telephones">
+
+<heading>TELEGRAPHS AND TELEPHONES.</heading>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether it is a fact that many branch telegraph and telephone lines are now not constructed on account of applying the expensive method of using iron instead of South African grown eucalyptus, or gum poles, and, if so, whether he will give this matter his careful consideration with a view to avoiding any further delays?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that wooden poles were used where they were easily obtainable, but where they were not, it came out cheaper to use iron poles.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#goods_stolen_in_transit">
+
+<heading>GOODS STOLEN IN TRANSIT.</heading>
+
+<speech by="#smuts">
+
+<from><span class="col_383-384" refersTo="page_0201"/>General <person refersTo="hansard_za">T. SMUTS</person> (Enmelo)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether he is aware that goods carried by rail from Lourenoo Marques to Enmelo have remained on the road for more than 14 days, and that many of the goods have been stolen in transit, causing much inconvenience and loss to the public (2) whether he will cause an inquiry to be instituted with a view of having this state of affairs remedied; and (3) whether measures will be taken to improve the conditions of traffic on the line between Machadodorp and Ermelo, especially with regard to the accommodation of first-class passengers.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> said:</from>
+
+<p>(1) He had made an investigation, and could give the hon. member the assurance that goods had not been in transit longer than 14 days, although there had been one case in which the goods had been on the road for 14 days, which was long enough or too long. The time generally taken was seven days, and sometimes four. (2) Instructions had been given that the matter should be looked into. (3) The attention of the Government had been drawn to the matter, to see whether anything could be done.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#belmont-douglas_railway">
+
+<heading>BELMONT-DOUGLAS RAILWAY.</heading>
+
+<speech by="#aucamp">
+
+<from>Mr. <person refersTo="hansard_za">H. L. AUCAMP</person> (Hope Town)</from>
+
+<p>asked the Minister of Railways and Harbours when the Government intend to proceed With the construction of the railway between Belmont and Douglas, sanctioned by Act No. 34 of 1906 (Cape)?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>My hon. friend has already asked me that question before, and I am afraid that I must give him the same answer. (Laughter.) The Government will take into consideration whether it will ask the authority of Parliament for the further construction of railways, and the matter the hon. member is inquiring about will receive due consideration when the subject comes under discussion; therefore I ask my hon. friend to wait a little longer. I hope he won&#x2019;t be disappointed. (Laughter.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#coal_supplies_for_railways">
+
+<heading>COAL SUPPLIES FOR RAILWAYS.</heading>
+
+<speech by="#robinson">
+
+<from>Mr. <person refersTo="hansard_za">C. P. ROBINSON</person> (Durban, Umbilo)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether it is a fact that the contracts for next year&#x2019;s supplies of coal for working the Union Railways have been let, and, if so, what tenders were sent in, and were they approved by the Railway Board; (2) whether it is the intention of Government to take the railway supplies of coal for 1911 from the Transvaal and Cape Collieries to the exclusion of the Natal coal mines, except in one instance in which a contract arranged by the late Natal Government for the first six months in next year was already in existence, and in what manner and for what reasons has the latter been varied; and (3) what is the most favourable and what the highest price which has been quoted by the Cape collieries for next year&#x2019;s railway contract, and is ne prepared to explain in what respect the Government are prepared to justify the placing of orders for coal for railway use with the Cape collieries in view of the criticism against Cape coal contained in the report of the late General Manager of the Cape Government Railways, Mr. T. S. McEwen, for the year 1900, at page 11?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>(1) No. (2) The question of coal contracts is now under consideration. (3) The Railway Board is in favour of giving 12s. a ton for Cape coal for a certain amount, and the question will arise in connection with that, whether it is exactly in accordance with &#x201C;business principles.&#x201D; I see the hon. member for Cape Town (Mr. Jagger) shaking his head, and if it is not on business principles, the Board will probably make a recommendation to this Parliament as to the future. I hope that it will be done during the present session, and the question will then arise as to what can be done to foster Colonial industry, but I am afraid that if it is dome as a general principle it will not be on &#x201C;business principles,&#x201D; but &#x201C;otherwise.&#x201D; (Laughter.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#moving_of_small_stook">
+
+<heading>MOVING OF SMALL STOOK.</heading>
+
+<speech by="#alberts">
+
+<from>Mr. <person refersTo="hansard_za">J. J. ALBERTS</person> (Standerton)</from>
+
+<p>asked the Minister of Agriculture: (1) Whether he is aware of the difficulties attending the moving of small stock across the borders of the Transvaal and the Orange Free State, and that clean animals are dipped at the ports of entry; and, if so (2), whether he is talking measures to ensure that clean sheep and goats may, on the certificate of an inspector, be freely moved across the borders?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>(1) (a) The hon. member&#x2019;s question is not clear as to what particular conditions in Government Notice No. 305 of 1910 he refers. Presumably he alludes to the prohibition on the movement of cattle for slaughter purposes. The Government Notice in question allowed the movement of cattle required for immediate slaughter for the supply of meat for consumption in Natal only. It was brought to the notice of the Government that not permitting the slaughter of cattle for consumption in any other Province was seriously affecting the meat supply of Johannesburg, and traders proposed to import meat unless the prohibition on consumption outside Natal was withdrawn. To show that this was no idle threat is evidenced by the fact that frozen meat from Australia is now being imported for the Johannesburg mines. It was because of these representations that the Government amended Notice 305, by allowing the movement of cattle for the supply of meat outside of Natal as well. (to) It is not the intention of the Government to again issue regulations in terms of the notice mentioned. (2) It has already been announced <span class="col_385-386" refersTo="page_0202"/>in the Governor&#x2019;s Speech that the Government intends introducing legislation to deal with diseases of stack. In the Bill in question provision is made for the immediate reporting of deaths of cattle and the taking and forwarding of blood smears.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#prospecting_in_the_north-west">
+
+<heading>PROSPECTING IN THE NORTH-WEST.</heading>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg)</from>
+
+<p>asked the Minister of Lands: Whether it is a fact that the Government has forbidden prospecting for minerals in certain of the North-western districts of the Province of the Cape of Good Hope, and, if so, why?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>The Government has prohibited prospecting on certain farms advertised for disposal by sale, lease, or selection, and on certain areas such as the Game Reserves in Namaqualand and Bechuanaland. The reason for the prohibition in the case of farms advertised for disposal is that on former occasions the Government was obliged to withdraw farms from sale at the last moment, owing to their having been pegged just before sale under prospecting licence; such withdrawal caused dissatisfaction and expense to intending purchasers. This prohibition does not, of course, affect the rights of persons who may have pegged out prospecting areas prior to the date of the prohibition, if they can substantiate their claim. The prohibition in the Game Reserves is necessary if the object and intention of the Reserves is to be attained.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_adulteration_laws">
+
+<heading>THE ADULTERATION LAWS.</heading>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>asked the Prime Minister whether the attention of the Government has been directed to the confusion in, and consequent hampering of, trade that exists in the Union, owing to the non-uniformity of the adulteration laws in the Union, and whether it is the intention of the Government to introduce legislation during the present session, for the purpose of consolidating the adulteration laws?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said it was understood that the Government bad the matter of introducing such uniform legislation under consideration, but it, would not be possible to introduce legislation on the subject during the present session.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#uniform_medical_legislation">
+
+<heading>UNIFORM MEDICAL LEGISLATION.</heading>
+
+<speech by="#cronje">
+
+<from>Mr. <person refersTo="hansard_za">F. R. CRONJE</person> (Winburg)</from>
+
+<p>asked the Minister of the Interior: (1) Whether he has received a petition from the Medical Council requesting uniform medical legislation for the whole of the Union; (2) whether he intends to introduce such a measure during the present session; and, if so, (3) whether the Bill will be published in time for the public to make itself acquainted with its contents?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>The Medical Councils of the late colonies held a Conference in order to discuss a uniform Medical Act for the Union. A draft Bill was subsequently prepared by a committee of this Conference, and sent to the Government for its consideration. It is not yet possible to say definitely whether such a Bill will be introduced into the House this session, but if it is decided to do so, every effort will be made to publish it for general information before it is introduced into the House.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#free_passes_to_ex-m.l.a.&#x2019;s">
+
+<heading>FREE PASSES TO EX-M.L.A.&#x2019;S.</heading>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) was the issue of the Parliamentary free passes to ex-members of Parliament submitted to and sanctioned by the present Railway Board, if so, was the Board unanimous, and, if not, what members objected; and (2) were free passes for life or otherwise issued to members of the late Natal Ministry, and, if so, upon whose instructions, recommendation, or authority?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I must say &#x201C;Yes&#x201D; to the first part of the first question; and as to the second part, well, that. I think, is curiosity I cannot satisfy. (Laughter.) In regard to the second question, I may say that in all colonies, except Natal, the members of the Executive received free passes for life. After April 11, 1910, the Natal Government only issued fret passes to certain members of the Executive, and not to other members; and when the matter came before the Railway Board, we believed in equal rights being extended to all members of the Executive. (Laughter.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#quarters_for_transvaal_police">
+
+<heading>QUARTERS FOR TRANSVAAL POLICE.</heading>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Yon Brandis)</from>
+
+<p>asked the Minister of Finance whether he will place on the Estimates of Expenditure for the year 1911-12 a sufficient sum for the purpose of providing better, more suitable, and more comfortable quarters for the Transvaal Police in the Von Brandis Division?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that it was hoped that some provision would be made in the 1911-1912 Estimates.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railwaymen&#x2019;s_long_hours">
+
+<heading>RAILWAYMEN&#x2019;S LONG HOURS.</heading>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>asked the Minister of Railways and Harbours whether he will cause inquiries to be made into the long hours of work required to be done by gangers and sub-gangers and ticket collectors on the suburban line and main line south of Bellville, and whether, should he consider that their hours are excessive, he will grant them relief?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said the question was rather curious. The hon. member did not state the hours, and it was purely a matter of opinion as to whether they were excessive or not. The railway authorities did not admit that the hours were excessive. They were more or less uniform over the whole service. If people had a grievance about excessive hours, it would be inquired into.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#steam_ploughs_in_natal">
+
+<heading>STEAM PLOUGHS IN NATAL.</heading>
+
+<speech by="#meyler">
+
+<from><span class="col_387-388" refersTo="page_0203"/>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked the Minister of Lands: (1) Whether the Union Government has purchased for use in Natal steam ploughs and other agricultural implements for use with mechanical traction and also plant for mechanical traction and transport; and, if so, (2) by whom were these articles ordered, on what authority, and from what firms: (3) what was the cost of the various implements, machines, and plant landed in Natal; and (4) in what district and for the benefit of what individuals have the various implements, machines, and plant been utilised so far?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that the plant referred to by the hon. member was purchased by the late Natal Government, not by the Union Government. The articles were ordered by the late Minister of Agriculture of Natal. The further particulars asked for had not yet been obtained, but would be supplied at an early date.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#surveys_of_the_gamtoos_river">
+
+<heading>SURVEYS OF THE GAMTOOS RIVER.</heading>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>asked the Minister of Lands whether the irrigation surveys made by the Government surveyors of the Gamtoos River will be printed and distributed among the inhabitants of that locality, and, if so, when?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that the Acting Director of Irrigation was at present engaged in formulating certain proposals for the Irrigation of the Gamtoos Valley, and these proposals would in due Course be laid before the inhabitants of the valley, and explained to them, with a view to the carrying out of the whole or portoin of the proposed scheme by co-operative enterprise. It was not for the present intended to print the survey plans and reports.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#port_nolloth-o&#x2019;okiep_railway">
+
+<heading>PORT NOLLOTH-O&#x2019;OKIEP RAILWAY.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked the Minister for Railways and Harbours whether it is the intention of the Government to expropriate and acquire the line of railway from Port Nolloth to O&#x2019;okiep.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that he wished he could satisfy the curiosity of his hen friend, but all he could say was that, when the further construction of railways was under consideration&#x2014;and he hoped that that would be very soon&#x2014;this matter would also be considered, but he could hold out no hope that anything would be done immediately. The matter had engaged his attention off and on for some years, and he thought it would be to the advantage of the State if this line were expropriated. As his hon. friend (Mr. Jagger) knew, this question had been the subject of discussion in the old Cape Parliament, and it was recognised that it was a line which should be acquired.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#ocean_mails">
+
+<heading>OCEAN MAILS.</heading>
+
+<speech by="#myburgh">
+
+<from>Mr. <person refersTo="hansard_za">M. W. MYBURGH</person> (Vryheid)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether the Government will, before finally concluding a new contract for the conveyance of ocean mails, submit the same io this House for ratification?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that no contract would be entered into for the conveyance of ocean mails without it first being laid on the table of the House for ratification; That practice had been observed in the past, and the intention of the Government was to follow that practice.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#telegraph_to_brandvlei">
+
+<heading>TELEGRAPH TO BRANDVLEI.</heading>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether the Government will take into favourable consideration the extension of the line of telegraph to Brandvlei, via Loeriesfontein, in the district of Calvinia, at an early date?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that the cost of extending the telegraph to Brandvlet was estimated roughly at between &#x00A3;6,000 and &#x00A3;7,000. No actual survey of the route had been made, and until such had been carried out at was not possible to state more definitely what the line would cost. The matter, however, was being looked into further, with a view to its receiving full consideration.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#writing_and_printing_paper_tenders">
+
+<heading>WRITING AND PRINTING PAPER TENDERS</heading>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>asked the Minister of Railways and Harbours: (a) Whether tenders have recently been invited for the supply of writing and printing paper to the South African Railways, and whether samples may be inspected and forms of tender obtained at the various railway stores throughout the Union; (b) whether oversea tenderers are being encouraged to compete by also allowing samples to be inspected and forms of tender to be obtained at the offices of the High Commissioner for the Union of South Africa in London; (c) whether the requirements of the railways cannot be adequately met by South African firms; and (d) whether, in the event of both South African and oversea tenders being received, the Government will take into consideration the desirability of according a preference to South African firms?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said that the answers to (a) and (b) were in the affirmative. Oversea tenderers were being invited to tender, samples to be inspected, and forms of tender to be obtained at the offices of the High Commissioner for the Union in London. The answer to (c) was in the negative; and as regarded (d) he <span class="col_389-390" refersTo="page_0204"/>said that South African manufacturers were not able to supply what was wanted, and it was not intended to give any preference. The Government wanted to conduct things on business lines. (Laughter.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#new_professorships">
+
+<heading>NEW PROFESSORSHIPS.</heading>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>asked the Minister of Education: (1) What amounts have been placed on the Estimates for the South African College, the Victoria College, the Rhodes University College, and the Huguenot College respectively, for the establishment of new professorships; (2) what are these new professorships, and at what College is each to be established; (3) in which of the new professorships has the agreement been made to band such sum over to the proposed National Teaching University at Groot Schuur, should Parliament agree to the establishment of the latter; and (4) which, if any, of the new chairs, which have been agreed to since May 31, 1910, were a commitment from the late Government of the Colony of the Cape of Good Hope?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>replied as follows: (1) At the South African College provisions had been made for two professorships at &#x00A3;250 per annum, two at &#x00A3;300, and one at &#x00A3;350; at the Victoria College, three at &#x00A3;25C; at the Rhodes University College, one at &#x00A3;250; at the Huguenot College nil. It might also be noted that, in addition to the above, provision had been made in the estimates for four assistants at &#x00A3;150 per annum each for the South African College; one at &#x00A3;150 for the Victoria College; and three at &#x00A3;150 for the Rhodes University College. As regarded question (2), the professorships at the South African College were: One in anatomy one in physiology, one in modern languages, one in pure mathematics, and one in classics; at the Victoria College, one in education, one in philosophy, and one in chemistry; and at the Rhodes University College one in Greek. He might say that the new ones were anatomy and physiology for the South African College; education for the Victoria College; and Greek for the Rhodes University College. The other three for the South African College, and two at the Victoria College were additional; they were not new chairs. With regard to (3) the chairs of anatomy and physiology at the South African College were granted on condition that if the National Teaching University were found, the Council would have no objection to them being transferred to that University.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#caledon_public_buildings">
+
+<heading>CALEDON PUBLIC BUILDINGS.</heading>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>asked the Minister of Public Works: (1) Whether his attention has been drawn to the report of the Inspector of Public Works on the state of the public buildings at Caledon as the result of an inspection made about a month ago, and if so. (2) whether the Government intend to provide a sum on the Estimates for new buildings?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that his attention had been drawn to the report referred to. The Law Department was at the present time investigating the urgency of this case in comparison with other similar services, so that the most pressing requirements might be undertaken first. It it were decided that Caledon did not rank as a first importance in this respect and new buildings were not erected in the immediate future, steps would be taken to effect some necessary repairs to the existing building which it was hoped would meet the ease for the time being. In any case, however, certain urgent repairs to the present building would be put in hand at once.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#drilling_for_water">
+
+<heading>DRILLING FOR WATER.</heading>
+
+<speech by="#kuhn">
+
+<from>Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>asked whether the Government will consider the advisability of again making provision, as was done in the (&#x2019;ape Province in 1907, for assisting farmers in the North-western districts to drill and sink wells for water?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that it was the intention of the Government, to make drills available for the purpose of boring for water in Bechuanaland and later, perhaps, also in the North-western Districts of the Cape Province. It was not, however intended that the system of granting subsidies for water-boring or well-sinking should be re-established. All Government drills would in these districts work on an actual cost basis.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#winterton-bergville_railway">
+
+<heading>WINTERTON-BERGVILLE RAILWAY.</heading>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>asked the Minister of Railways and Harbours whether it is the intention of the Government to proceed with the construction of the branch line from Winterton to Bergville in Natal, which was authorised by the late Natal Government?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that the greater part of this line was included in a sort of general construction programme of the Natal Government, but there was one material factor wanting, namely, the want of cash. (Laughter.) Although the construction of the line was approved of, no money was provided for it, and, therefore, he was not able to proceed with this line. He could only say that the line would receive consideration when the question of further construction came up.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#electrical_engineering">
+
+<heading>ELECTRICAL ENGINEERING.</heading>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>asked the Prime Minister whether he is aware that instructions have been issued that electrical engineering work at Bloemfontein will in future be carried out department ally instead of by contract as heretofore, and whether in view of his promise to the Bloemfontein public he will take steps to have these instructions cancelled?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from><span class="col_391-392" refersTo="page_0205"/>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that the Government were aware that electrical engineering work at Bloemfontein was now being carried out departmentally. This was the present practice in other Provinces, and as there were advantages ih following this course, it was not proposed to discontinue it. The Prime Minister was not aware that he ever made any promise to the contrary.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#movement_of_cattle_in_natal">
+
+<heading>MOVEMENT OF CATTLE IN NATAL.</heading>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>asked, the Minister of Agriculture: (1) (a) Why, and under whose authority, Government Notice No. 305, 1910, restricting the movement of cattle within the Province of Natal under certain conditions was not enforced when the regulations it contained came into force on September 1 last; (b) whether it is the intention of the Government to again issue similar regulations; and (2) whether it is the intention of the Government to introduce during this session legislation to enforce the immediate reporting in Natal of all deaths of cattle from any cause whatsoever, and the taking and forwarding of blood smears to the Bacteriological Laboratory, as stated in Government Notice No. 125, 1910?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said that the hon. member&#x2019;s question was not clear as to what particular conditions in Government Notice 305 of 1910 he referred. Presumably he alluded to the prohibition on the movement of cattle for slaughter purposes. The Government Notice in question allowed the movement of cattle required for immediate slaughter for the supply of meat, for consumption in Natal only. It was brought to the notice of the Government that not permitting the slaughter of cattle for consumption in any other Province was seriously affecting the meat supply of Johannesburg, and traders proposed to import meat unless the prohibition on consumption outside Natal was withdrawn. To show that this was no idle threat is evidenced by the fact that frozen meat is now being imparted for the Johannesburg mines. It was because of these representations that the Government amended Notice No. 305 by allowing the movements of cattle for the supply of meat outside of Natal as well. It was not the intention of the Government to again issue regulations in terms of the notice mentioned. It had already been announced in the Governor&#x2019;s Speech that the Government intended introducing legislation to deal with diseases of stock. In the Bill in question provision was made for the immediate reporting of deaths of cattle and the taking and forwarding of blood smears.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#destruction_of_vermin">
+
+<heading>DESTRUCTION OF VERMIN.</heading>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>asked the, Minister of Agriculture: (1) Whether it has been brought to his notice that Wild carnivora, and more particularly the jackal, has enormously increased since payments for proof of destruction by the Government has been stopped, and that in consequence serious loss has been caused to stock-farmers; and (2) whether the Government is prepared when introducing in future legislation dealing with scab to at the same time deal with the destruction of vermin?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p> replied that it had not been brought to the notice of Government that wild carnivora had enormously increased in numbers, but by reason of the increased application for poison the conclusion was drawn that vermin was on the increase. The Government, however, did not intend, when introducing legislation in connection with scab, which they proposed to bring forward, to make provision for the extermination of vermin.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#liliefontein_township_committee">
+
+<heading>LILIEFONTEIN TOWNSHIP COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved that Dr. Smartt and Mr. Currey be members of the Select Committee on Liliefontein Township.</p>
+
+</speech>
+
+<speech by="#van_beden">
+
+<from>Mr. <person refersTo="hansard_za">J. W. VAN BEDEN</person> (Swellendam)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_employees&#x2014;daily_paid">
+
+<heading>RAILWAY EMPLOYEES&#x2014;DAILY PAID.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>moved: &#x201C;That the Government be requested to take into consideration the advisability of appointing a Commission on which the men concerned shall be represented, to inquire into the conditions of service of the daily-paid employees of the Government Railways, the Commission to be instructed to report to the Government before the next session of Parliament.&#x201D; The hon. member said, that many grievances had been brought before individual hon. members regarding railway matters. On the first day of the session a question was put to the Minister for Railways and Harbours regarding a certain report about which they had heard so much, but the Minister had been unable to give the information. He (Mr. Creswell) and other hon. members would like to know what had been done, if anything, in connection with the grievances of the daily-paid employees of the South African Railways. One matter into which they would like inquiry to be made was with regard to the payment of men engaged in the loading and off-loading of goods. There was a system of payment in vogue by which men, in addition to their daily pay for ten hours&#x2019; work, were given a bonus upon so many thousand pounds shifted after a certain amount had been handled, but that system led at times&#x2019; to an extraordinary manipulation, by which a man told off to work overtime on some class of work different from that on which he was usually engaged, lost more than he &#x2018;gained. It had been brought to his notice, too, that in the workshops there was an inclination to keep a man on for a more or less indefinite period as an improver after he had completed&#x2018; his period of apprenticeship. <span class="col_393-394" refersTo="page_0206"/>That was really done with the object of trying to save money to the department, and was not justifiable. The system of piece-work prevailing in the railway workshops was also unsatisfactory. That system gave rise to serious trouble in Natal some time ago, and the question was then settled for the time being, but there was still a great objection to the piece-work system in the minds of a large number of railway employees. The real standard rate of pay was apt to be lost sight of. They asked for a commission on which the men themselves should be represented. It was necessary that the daily-paid men should give their evidence freely and frankly, but they would not do so if the Commission was merely one representing their official superiors. Those men would give their evidence much more freely if they felt that the Commission was composed to a very large extent of men who would receive their complaints sympathetically, and that would convince the men of the bona fides of the Commission, and convince them that the Government had a genuine desire to inquire into their grievances. Reference was made the previous day to the large railway surplus. He did not think they had any right to that revenue without being assured that the men who earned it were being properly remunerated, and that their terms of service were just and fair. (Hear, hear.) There were a large number of men employed at 3s. 4d. a day. In its inception that scheme of employment, he believed, was dictated by the desire to save men from absolute starvation, but he submitted that the fact that Government could, get such men was a proof of the rotten labour policy pursued by that Government. It was not sound economy to establish such a low wage in this country, and he held that a man employed in any branch of the Government service should be paid a wage upon which he could live in comfort and content. In Queensland men doing the same work were paid 8s. 6d. a day. An answer was given in another place last week to a question asked of the Minister for Railways and Harbours, in which the mover was told that the supply of poor whites in the Pretoria district was not equal to the demand. He contended that they must have come to a very sorry State of affairs if there was a demand for poor whites. He hoped the Government would see their way clear to give the Commission, so that the whole of the conditions of the daily-paid men in the employ of the South African Railways might he investigated.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">E. N. GROBLER</person> (Edenburg),</from>
+
+<p>in seconding the motion, said he thought it provided the only solution of the poor whites&#x2019; problem. The Free State Government had for the past two years replaced all coloured labourers on railway construction by poor whites&#x2014;that was the first step. It had the effect of concentrating these unfortunate people in certain parts of the country, thus bringing their children within reach of Government schools. Education would enable them to enter upon the struggle for life better equipped than their parents were, especially as competing with coloured children, whose educational interests were, as a rule, excellently looked after. Efficient education was of prime importance when dealing with poor whites. To give them work meant that they were taught not to look on manual labour as a disgrace. The natives who formerly worked on railway construction would, at the same time, become available for underground work in the mines. In view of the enormous railway profits, it was superfluous to argue that the Administration could well afford to employ a number of whites at reasonable wages, especially since it had been proved that a white man could do the work of two natives; as the motion would tend in that direction he cordially supported it.</p>
+
+</speech>
+
+<speech by="#geldenhuys">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">L. GELDENHUYS</person> (Vrededorp)</from>
+
+<p>supported the motion. Owing to there being no opportunity of discussing the Truter report, it was necessary to deal with the questions at issue by means of a commission. All Transvaal members had pledged themselves to raise the question of 3s. 4d. a day and to remedy the grievances of the poor whites. The answers to questions, given by the Minister of Railways, had not all been of a satisfactory nature. The-fate of 38,000 workers was involved. Three shillings and fourpence was not a proper wage for a fair day&#x2019;s work, though he recognised that the Transvaal Government had acted rightly in taking the people concerned off the streets, and giving them at all events something to do. With its huge profits, the railway could now afford to pay them a higher wage. The motion should stipulate for a report during the present session. The Commission need not be a large one.</p>
+
+</speech>
+
+<speech by="#hunter">
+
+<from>Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban, Central)</from>
+
+<p>said he could not follow the Dutch speakers, but followed the hon. member for Jeppes (Mr. Creswell), and thought it would be a, greet advantage if hon. members spoke a little bit louder. (Laughter, and cries of &#x201C;Speak up!&#x201D;) The motion which he understood the hon. member would submit to the House was: that the Government should move to appoint a committee to inquire into certain grievances on the part of men employed! in the Railway Department. It was a proper resolution to move if, beforehand, there had been some clear case or grievance laid before the House, and if it was proved to the House that the authority appointed to deal with such matters had been given some idea of the nature of the complaint. He understood from the Act of Union that the control and management of the railways was vested in a Board of three Commissioners. What he would like to ask was: whether the hon. member for Jeppes (Mr. Creswell), was prepared to show to the House that the grievances he had set out in somewhat vague terms were real, whether they <span class="col_395-396" refersTo="page_0207"/>had been represented to the Commissioners, and whether they refused to deal with the matter? It seemed to him that this matter should &#x2019;be dealt with in a more orderly &#x2019;manner, because there were constitutional provision for such matters. It was quite possible that he (Sir David) was not sufficiently informed, on this subject.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>&#x201C;Hear, hear.&#x201D;</p>
+
+</speech>
+
+<speech by="#hunter">
+
+<from>Sir <person refersTo="hansard_za">D. HUNTER</person> (Durban Central)</from>
+
+<p>thought the hon. member for Jeppe (Mr. Creswell) should give them more clearer information. As far as he (Sir David) was concerned, there did not seem to be any cause for the Commission.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said he differed with the hon. member for Durban (Sir David Hunter), in thinking there was not sufficient cause for an investigation. It seemed to him, from all they had heard during the last few months, that there was indeed cause for an investigation. He believed there were perpetual complaints and if these were well founded, then it was necessary to investigate them; and if they were not well founded, then it was just as well that they should be exposed. However, he thought that in many cases the complaints were well founded, and there was ample justification for them. But he was not quite sure whether the hon. member for Jeppe (Mr. Creswell) was going the right way about it to achieve his object. He had a great deal of sympathy with the view expressed by the hon. member for Vrededorp (Mr. Geldenhuys), who he understood, said he was in favour of an inquiry, but was not in favour of a commission, that would take a long time. They in the Transvaal had had considerable experience of the workings of these commissions. Commissions in the Transvaal had grown to be something in the nature of an industry. (Laughter.) It was shown last year that the commissions appointed between July 1. 1907, and September 31, 1909, had cost &#x00A3;36,900. Some of them had shown excellent results, but some of the work could have been done with the expenditure of much less time and much less money. One commission had dost &#x00A3;14,000, another &#x00A3;3,000 and the Repatriation and Live-stock Commission cost &#x00A3;7,088. That Commission was said to be a permanent inquiry, and one hon. member drew over &#x00A3;1,200 from it. In fact, his salary appeared as being &#x00A3;1,200 a year owing to that. On the grounds of economy both of money and time it would be better if the railwaymen&#x2019;s complaints were investigated by a Select Committee instead of, a commission. In the past there had been a, suspicion that if working-men were not represented on commissions they did not receive fair treatment. A Select Committee would see that justice was done, and if there were any ground of suspicion as to the appointment of a commission that would not be removed because one or two working-men were put on the commission. He moved, as an amendment, the omission of the words &#x201C;on which the men concerned shall be represented,&#x201D; and also all words after &#x201C;railways.&#x201D;</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#mentz">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">H. MENTZ</person> (Zoutpansberg)</from>
+
+<p>regretted the fact that the hon. member for Germiston had once more attempted an attack on the late Transvaal Government in connection with the Commissions it had appointed and the expense involved. Such attacks came with a bad grace from late members of an Opposition which had always pleaded for referring matters of the slightest importance to committees. The hon. member for Georgetown, then leader of the Opposition in the Transvaal, had even urged such a course in connection with the labour question, though a commission had enquired into that same question but a short while previously, and at no small expense. He (the speaker) did not care greatly whether, in the present instance, a commission were appointed or not. In view of the large profits made by the railways it did not, however, appear to be necessary for numerous grievances to exist among the staff. This applied particularly to piece work, and he moved, as an amendment, that this question be included among the terms of reference. A good deal had been said, from time to time, about poor whites being too lazy to work. Yet, as soon as the late Transvaal Government gave white unskilled labour a chance, many respectable people left their farms in order to take up the work. Unfortunately the conditions of labour were by no means what they ought to be, and a commission of enquiry would be able to right that. Engineers had maintained that railway; construction could be done more cheaply with white labour than by employing natives. If this was correct, why should they try to cheapen construction still further by reducing white wages to a minimum?</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>pointed out to the hon. member for Germiston that Government did not appoint Select Committees, this duty devolving on the House</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>accordingly altered his amendment by further proposing to substitute &#x201C;House&#x201D; for &#x201C;Government.&#x201D;</p>
+
+</speech>
+
+<speech by="#henwood">
+
+<from>Mr. <person refersTo="hansard_za">C. HENWOOD</person> (Victoria County),</from>
+
+<p>in supporting the motion, maintained that it was essential that there should be a commission. It would be far better for the Government itself to have such a commission. As to expense they did not know how much money these commissions saved the country. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that these grievances of railwaymen were in themselves small, but in the aggregate they did not amount to a small matter. A Select Committee could not go into all these grievances, but <span class="col_397-398" refersTo="page_0208"/>a commission should be appointed. He hoped that the hon. member who had moved the motion would keep to his original motion, and he hoped that the Minister would see that a proper inquiry would be instituted. The hon. member mentioned the grievance felt by a number of the railwaymen at the Cape, at any rate, in regard to the unsatisfactory way in which the increases were made. A good deal of discrimination had been made with regard to these increases, and that matter ought to be gone into. This had given rise to a good deal of dissatisfaction, and he hoped the Minister would see to it. Some of the men were paid at an unsatisfactory rate, and he did not think that 5s. a day was at all exorbitant for a white man in this country. The hon. member went on to speak of another serious grievance which was being felt by the railwaymen, with reference to the question of fixed establishment. He was glad that the hon. members for Port Elizabeth (Central) (Mr. Walton) and for Fort Beaufort (Dr. Smart) were in the House, who, in regard to that matter, so far as he could make out, had broken the law when they were in office, and were now very sympathetic with the men who had suffered while the hon. member (Dr. Smartt) was in office. Several &#x201C;instructions&#x201D; had been sent round in 1904-1907 by the right hon. member for Albany (Dr. Jameson), and the hon. member for Fort Beaufort (Dr. Smartt), which, in the hon. member&#x2019;s opinion, were clearly illegal. As a result of that a large number of men had lost their position on the fixed establishment, to which they had a legal right. Some of these men, however, had been taken on again at reduced payment. He could not see why it should be a proper thing to deprive a poor man of his legal rights, and not a rich man. The Minister of Railways and Harbours (Mr. Sauer) had done his best for these people, and he would like to know from him whether he was prepared to reinstate all these men who had been so unjustly treated. If there was an impression of injustice amongst these men, they became very dissatisfied, and if they knew they would be justly treated, they were easily satisfied. He advocated something in the way of a Standing Commission being appointed, or a Board on which the men could be represented. There were very difficult problems in connection with these trades, and very few of them were able to deal adequately with them, as technical knowledge was required. As to what the hon. member for Georgetown (Sir Geo. Farrar) had said about the expense of the committee, he had not said anything about that with regard to the Committee on Mine Labour in the Transvaal.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>said that he could set the mind of the hon. member for Uitenhage (Mr. Fremantle) at rest, as they did not intend to accept the amendment being of opinion that the grievances of the railway men should be fully inquired into. The hon. member for Durban had asked for more definite instances. Well, he had a whole sheet, with which, however, he did not propose to worry the House. He would like to State, however, that a deputation of guards, in May, 1906, met the then Prime Minister and Commissioner of Railways for the Cape, the present-members for Albany and Fort Beaufort, and they were told that when the depression had passed, their pay would be raised to the maximum of 10s. 5d. per diem. No guard, however, had in the five years that had elapsed received the maximum. Increases had been granted, in some cases, to the extent of the large sum of 2d. per day, bringing the men&#x2019;s pay up to 9s. 7d., or 10d. less than the maximum which was promised. Others had received 9s. 11d., but those who were in receipt of 9s. 11d. had received no increase. This was a matter which might well be investigated by the Commission which was proposed. There was another grievance, and that was in regard to fines. Fines were imposed, which, in themselves, meant a reduction of pay, in some cases of 6d. per day. There was nothing definite as to the period for which these fines should be imposed. The men had requested the General Manager for Railways to give them some definite period, and he promised, but they had not got it. There was a case at the present time of a man who had been fined 6d. a day to such an extent that be had now paid &#x00A3;50 to the Government in fines. (Cries of &#x201C;Shame.&#x201D;) Surely that was a genuine grievance which might also be considered by the Commission. The hon. member for Durban had said that no concrete case had been placed before Parliament, but what opportunity had these men of placing their grievances before the House? He considered that a Commission was absolutely the best method of investigating the men&#x2019;s grievances, because if they had a Select Committee of the House they would have to bring men from the Transvaal, Orange Free State, Natal, and all over the Cape, and that would be decidedly inconvenient not only from the men&#x2019;s point of view, but also from the point of view of the Railway Department. A commission, on the other hand, could wander all over the country and collect evidence at the State&#x2019;s expense. (Laughter.) With regard to the question of hours, he pointed out that in the case of a guard who worked 11&#x00BD; hours a day, he only received payment for 10 hours. There were other days when he might work fewer than 10 hours, and what the Railway Department did was that, at the end of the month, if he was short of his 26 days of 10 hours each, all the items of overtime were added together, and counted before he received any overtime pay.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>&#x2020;Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West)</from>
+
+<p>said that railwaymen often poured their woes into the ears of members of Parliament. If the latter went to the Minister <span class="col_399-400" refersTo="page_0209"/>or to the General Manager they were received very kindly, but there the matter ended. Usually a letter was sent, stating that nothing could be done. Complaints were so rife that a large number of genuine grievances were bound to exist, and if the commission set to work with a will it could do a great amount of good. Whereas, in the Transvaal and the Free State, one saw whites along the railway line, the Cape was housing coloured people very comfortably. All the time, poor whites, had to live in tents and could not find work. The coloured people had an opportunity of sending their children to school; the whites had not. He cordially supported the motion.</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town. Castle)</from>
+
+<p>said he heartily supported the motion, but suggested a slight amendment to include harbours and to request the Commission to furnish an interim report during the present session. He regretted that the hon. member for Uitenhage (Mr. Fremantle) could not speak without indulging in a fulsome eulogy of the Government. The hon. member had condemned gentlemen on his (the speaker&#x2019;s) side of the House, in connection with the grievances of the railway men, but what had he done during the three years his friends had been in power to rectify the grievances which he had been detailing to the House that afternoon? Why had he been wasting his time by not getting these grievances remedied, because they could hardly suppose that if a gentleman who had always been raising his eloquent voice on behalf of the Government on every conceivable subject, and had always found them in the right, had brought the matter up to the attention of his friends in the Ministry the grievances would not have been remedied? He was glad the hon. member for Uitenhage no longer took up the view that the Civil Servant who brought his grievance to Parliament was like the horseleech&#x2019;s daughter, but now admitted that he had a right to be heard. The case brought forward by the hon. member for Jeppe was a perfectly plain one, and he (Mr. Alexander) thought the speeches made on both sides of the House showed clearly that, the motion commended itself to hon. members. The question of cost might be urged against the Commission, but he could not see any other way of dealing with the matter. A Select Committee would hardly be able, however willing the members might be, to deal with it. They could scarcely expect men to be brought to the Select Committee-room from all quarters of the Union to give their evidence, and, besides that a Select Committee would only sit while Parliament was in session. Although a commission would mean the expenditure of money, still that was the best method of dealing with the matter, and the subject was one which deserved inquiry by a commission. He could not speak about the condition of the daily-paid men in other parts of the Union, but the fundamental principle held good that the workman was worthy of his hire. Whether a man was white or coloured, he should be paid according to the work he did. He was sorry an attempt had been made to introduce the question of white versus coloured labour into the debate. The Government, if they employed coloured labour, did so because that labour was necessary, and because the work was done well by those men. He did not, think anybody could take exception to attention being confined to the value of the work rather than to the colour of a man&#x2019;s skin. With regard to his own constituency, he knew of grievances. Many daily-paid men had suffered deductions from their pay quite irrespective of the retrenchment deductions. There had been a spasmodic increase here and there, without there being apparently any system: and men had the grievance that they found certain people were having their pay increased, whereas they themselves were still in the position in which they had been for the last three years and more. Many of those, men had been in the service for twenty years. Under the Act of Union there was a Harbours and Railway Board, but it was impossible for that Board to attend to every detail in the nature of a grievance brought forward. The Board would not suffer from the appointment of such a commission The Commission would report to the Government, and the Government would have to decide whether to carry out the recommendations made or not. He knew the present Minister for Railways and Harbours was at all times ready to listen to the grievances of the men, but the Minister was surrounded by a vigilant bodyguard, and it was very difficult for a man with a grievance to get a hearing, and an interview was very seldom granted The Commission would take evidence in the ordinary way; that evidence would be recorded and subsequently submitted to hon. members, and the House would then be in a better position to judge if the grievances were well-founded than it was now. There was no doubt that in certain portions of the Union the hours worked were not only detrimental to the men, but detrimental to the service as well. He was sure one of the matters the Commission would go into and remedy was the long hours which railway men had to work at the present time. In a Union with one railway system throughout the length and breadth of South Africa, there should be one rate of pay, except, of course, in the North, where living expenses were higher than elsewhere. The Commission would also have to go into the question of deductions, and he still hoped that as a result of the investigations of the Commission a portion of the &#x00A3;170,000 handed) over by the Cape Colony to the Union Government would be utilised to restore railway ser-servants in the Cape Province part of the <span class="col_401-402" refersTo="page_0210"/>deductions they suffered from since 1907. The harbours came under the Railway Administration, but the reference proposed in the resolution before the House was so worded that daily-paid men engaged in harbour work would not be able to bring their grievances before the Commission unless the words he proposed to insert were added.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#du_toit">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">G. J. W. DU TOIT</person> (Middelburg)</from>
+
+<p>supported the motion. There were one or two points in connection with the daily-paid men on the railways which had not yet been mentioned. Stokers, for instance, were very &#x2019; poorly paid, and they had to work very long hours, in some cases as much as 18 hours a day. Men with grievances were unable to go to the Minister for Railways personally, and when they got their Parliamentary representative to intercede for them nice promises were made, but there the matter ended, and the men got no satisfaction or redress</p>
+
+</speech>
+
+<speech by="#quinn">
+
+<from>Mr. <person refersTo="hansard_za">J. W. QUINN</person> (Troveville)</from>
+
+<p>said the strongest evidence that an inquiry was desirable came to them a number of weeks ago from the Minister for Railways and Harbours. He made a speech at Johannesburg, in which he made it perfectly clear that he had already discovered a number of grievances of a, very serious nature. He went beyond that and promised that these grievances should have his attention as soon as possible. It was unusually frank on his part, or at least on the part of a Minister, to admit that such widespread and genuine grievances did exist. His remarks applied more particularly, though not entirely, to the Transvaal, and to what extent the same remarks could have been applied to the railway servants in Natal and the Cape he did not know, but this he did-know, that that emphatic and clear speech of his impressed the people in the Transvaal more deeply than-all the complaints of the men. Therefore, he was very glad this motion had been brought forward. He thought the inquiry should be the fullest possible. The grievances were long-standing, and the report should be made to the House as soon as possible.</p>
+
+</speech>
+
+<speech by="#keyter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>supported the motion. The Minister of Finance had described the men&#x2019;s complaints as &#x201C;election grievances,&#x201D; but in his (the speaker&#x2019;s) constituency, grievances existed to-day though they had never been mention on election platforms. He would support any motion having for its object a searching enquiry.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said the tone of the debate to-day and on the Police Rill showed that the House was prepared to take these matters into their most careful consideration, and do what was right. The trouble in Natal some 18 months ago arose entirely from the fact that for some three years the Government absolutely refused to listen to the men. A Board was eventually constituted to deal with complaints, and since then there had been more contentment on the Natal railways than for many years previously.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that one thing that struck him as being rather remarkable was that the trouble occurred for the most part in the northern sections of the railways&#x2014;the did C.S.A.R. He wanted to point out that the whole basis of what had been said was that this House and the Minister for Railways was really responsible for the railways. If hon. members would just look at section 136 of the South Africa Act they would read that &#x201C;subject to the authority of the Governor-General-in-Council the control and management of the railways, ports, and harbours shall be exercised through a Board.&#x201D; Well, he took it that all these complaints bad been mentioned to that Board, and the matter was now really one for the Management Board. It did not concern the House, and certainly not the Minister, who was not responsible except as the chairman of the Board. He wanted to point out that if this Commission or committee was appointed the report would have to go before the Railway Board, and it rested with that Board. Suppose, certain recommendations were made, the Railway Board might refuse to carry them out, and as a matter of fact the House could not do it, for the Board was constituted for a period of seven years. They were going on the assumption that their railways were in absolutely the same state as when new, but that was not so. The Board could just please themselves whether they carried out their recommendations or not.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek)</from>
+
+<p>said he no longer represented any number of railway men, but happened to know a good deal of the grievances which had been mentioned. He agreed with the hon. member for Jeppe (Mr. Creswell) that there should be a commission appointed, but did not agree with the hon. member for Germiston (Mr. Chaplin) that a Select Committee of this House could adequately deal with the grievances which existed in the railway service. His objection had largely been the expensiveness of a commission, but he would suggest to the hon. member and the Government that they should appoint a sufficient number of members of the House to constitute a commission, seeing that the South Africa Act laid down that no member should receive payment for service on a commission. There was an opportunity for obtaining the valuable services of the hon. members for Jeppe (Mr. Creswell) and Uitenhage (Mr. Fremantle). (Laughter and applause.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>I am already on a commission.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from><span class="col_403-404" refersTo="page_0211"/>Mr. <person refersTo="hansard_za">B. K. LONG</person> (proceeding)</from>
+
+<p>said he would like also to join his protest with that of the hon. member for Cape Town (Mr. Alexander) at the tone of the speech made by the hon. member for Uitenhage (Mr. Fremantle). They were getting used to having speeches from him in which he made very violent attacks, and which were the subject for very laudatory comment in the columns of a Cape Town morning paper. (Laughter.) He would take on himself the duty of reminding his hon. friend (Mr. Fremantle) that it did not really help the cause of those for whom he was appealing, when he made calculated misrepresentations of the actions of the late Cape Progressive Ministers with regard to railway affairs. He knew it was a deliberate perversion of the action taken.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>I rise to a point of order.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must not use such terms.</p>
+
+</speech>
+
+<speech by="#long">
+
+<from>Mr. <person refersTo="hansard_za">B. K. LONG</person> (Liesbeek):</from>
+
+<p>If the hon. member objects to that, I am perfectly willing to withdraw it. All I can say is, the lion, member knows very well that the action taken by that Ministry with regard to railway men was taken on a perfectly reasonable interpretation of that Act, which was only afterwards declared to be a Wrong interpretation by the courts of this colony. Continuing, he said, therefore, whether the hon. member intended it or not, it was a little unfortunate that, he should give the House the impression that hon. members who now sat on the front benches of the House were, in the action taken, inspired by any motive other than the good of the finances for which they were responsible. He agreed with the hon. member that there were grievances, and that it was a fact that there had been a circular issued by the Department which had laid down that increases were to be granted to such men as were recommended by the heads of departments. He had brought that matter to the attention of the Minister for Railways, and hoped he would take it into consideration. He (Mr. Long) could inform five hon. member that that matter was brought to the attention of the Minister for Railways some time ago, and he, with that courtesy which distinguished his conduct with regard to railway administration in this Colony had agreed to look into it. He thought it would be well for the Commission which might be appointed as the result of this motion to take into consideration the question as to whether that was a good system on which increases should be granted. If increases were to be granted to such men as the heads of departments recommended, then they would get the very undesirable fact that practical recommendations were made by the foremen in the shops, and particularly with regard to construction work. That, certainly was a grievance among certain of the railway men, who said that the recommendations for increases depended on whether they were in favour with their foremen or not. But that was not the only grievance. Primarily their grievance was fundamental, and rested on the fact that they were ignorant of the conditions under which they were employed; further, hundreds of men did not know how to bring their grievances to the notice of the proper authorities. What was required was a vehicle of communication between the men and those under whose control they were. There should be a sub-commission, on which representatives of the men should sit, to investigate minor grievances, the sub-commission to report to the Railway Board. On the whole there was no doubt that there was a genuine case for the appointment of a commission as suggested in the motion, and the Railway Board should be the first to welcome it. He could not see that there was any real conflict between the fact that the railways were now under a Board and the motion. If the men were not given redress, they would be driven into combinations which would be prejudicial to the public interest. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>supported the motion, and suggested the withdrawal of the amendment of the hon. member for Germiston. The men on the C.G.R. numbered 20,000, and in order to ascertain the total employed on the Union, Railways they safely might double that number. Whenever he interviewed railway men he found them full of grievances. At the last election it was suggested that the best way of dealing with these grievances was to have a Board as indicated by the hon. member for Uitenhage, and the Commissioner had thrown out the suggestion that some such Board should be originated. The reflection that the railway service was riddled with grievances could not be a comfortable one to members. As to the remark of the hon. member for Cape Town (Central) that the motion was out of order, surely if Parliament could take the railway surplus it could appoint a commission to inquire into the railway service. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>said that there were still grievances amongst the railwaymen of Natal, which might, if not seen to, grow to grave discontent. Railway mien had difficult duties to carry out, and they needed the respect and the sympathy of the public. Was it not just that Parliament should give attention to their requests? They had been very reasonable. They had not had strikes, except one in Natal, and he felt convinced that they would not even have had that strike if the Government of the day had listened to their grievances. The hon. member advocated that all the railway men&#x2019;s grievances should be thoroughly sifted, and he thought, that that could not be done by a Select Committee, but only by a Commission, which he hoped would be appointed.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from><span class="col_405-406" refersTo="page_0212"/>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>said that he felt rather nervous about speaking on that question, because he was afraid that the Minister of Railways would give one of those sarcastic replies, and dealing with what had been said on election platforms. (Laughter.) There was no doubt that there were a number of grievances amongst railway men, and the redressing of these should not be left to the hands of individual members of the House. If the Minister had given an early expression of opinion on the matter, it would have stopped all that discussion.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>who also spoke in favour of the appointment of a Commission, complained of the slighting way in which the Minister of Railways had referred to the matter of the hours of certain employees on the railway. He could inform the Minister that a deputation of gangers had waited upon him that morning, and had told him that their hours of work were from 6 a.m. to 6 p.m., and that some of them had to leave their homes at 5 o&#x2019;clock, only getting back at 7 o&#x2019;clock in the evening. Then, again, there was the case of the guards, who were paid per hour on duty, which caused much discontent. There was the case of the guard of the Malmesbury train, for example, which matter had been brought to his notice, although he did not know the guard personally. The train left Malmesbury at 6.30 a.m., and arrived at Cape Town shortly before 9 o&#x2019;clock, while the train left Cape Town again at 4.58 in the afternoon, reaching Malmesbury at 7.35. The guard was only paid for the six hours he was in charge of the train, and he could walk the streets of Cape Town during the day, while he was not allowed to do any other work. There were many other cases. There was the case of a guard on a train to Kraaifontein, who only got paid for two hours per day. There were many cases of genuine grievance amongst railway men. Although some people thought that they had a grievance until it was pointed out that what was done was only according to the regulations. He hoped that the cases of real grievance would be seen to, and that could only be done by the appointment of a Commission. He had been informed that many of the Cape railway men had been sent up North, to lower the rate of wages there. An excellent Bill had been introduced in the last session of the Cape Parliament, dealing with the Superannuation Fund; but he had heard that all sorts of difficulties were now being raised, against men joining that fund; why he did not know, and he could not personally find out. There ought to be a Railway Complaints Board, before which the men could lay their legitimate grievances. With such a big service, the only way to have contentment was to have machinery whereby every single man who had a just grievance could be heard, and have his grievance rectified.</p>
+
+</speech>
+
+<speech by="#searle">
+
+<from>Mr. <person refersTo="hansard_za">J. SEARLE</person> (Port Elizabeth, South-West)</from>
+
+<p>said he heartily supported the appointment of a Commission, which would do a great deal of good. He referred to the grievance of the men on the Midland line in regard to overtime, and said that if Commissions were appointed in connection with other bodies of men, such as the police, he saw no reason why a Commission should not be appointed to consider the grievances of railway men.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said it would be well to remember that what he might call the official side of the case had not been placed before the House. Now, he did not wish it to be understood that he had no sympathy with the people in the railway service, or elsewhere, because all the grievances which had been brought to his notice since he became Minister of Railways he had endeavoured to rectify. There was more cause or complaint in the Transvaal than in the Cape. They had heard a good deal of the Truter report, and it had been mentioned again that afternoon. Now, he would like to say&#x2014;he omitted to say it on a previous occasion&#x2014;-that as soon as the report came into his possession, he summoned the members of the Railway Board, handed them the report, and said that it was their business to redress all the grievances that were real, and that could be redressed. Two members of that Board specially took the matter in hand, and the main grievances were redressed, and he could assure hon. members that the grievances which remained were comparatively small. He had also informed the General Manager of Railways what these grievances were, with a view to having them redressed as far as possible. Now, what could reasonably have been done was done. Somebody had said&#x2014;Why not redress all the grievances at once? Well, that would be impossible. One of the grievances, and one which he thought should be attended to, was in regard to the proper housing of railway people. Of course, that could not be done immediately; but he was asking Parliament for a very considerable sum to redress those grievances. Very many of those people had no housing at all. He thought it was essential that the State should provide proper housing accommodation for them, anti he was at the present time endeavouring to do that. It had been said that there were 2,000 men drawing pay amounting to only 3s. 4d. a day. Some men, it was true, were paid that wage, but considerably over 1,900 men drew an average 4s. 2d. He had asked the House in the Estimates to vote another &#x00A3;20,000 for increasing Wages. That might not be a purely constitutional way of doing it, but they were doing that with all the Estimates during the present session. When he placed that sum on the Estimates, he felt sure the House would be satisfied, and that if there was any complaint at all it would be that the sum was not sufficient. <span class="col_407-408" refersTo="page_0213"/>To establish a state of affairs under which every railway man would be satisfied was impossible. There was a good deal of human nature about railway men, too. There were grievances, no doubt, but many of those grievances were such that it would be very difficult to remedy them under the existing state of things. He had noticed that very often the lower down a man was who was in a position of authority, the harsher he exercised that authority, and that was to be found in the railway service as well. A good deal more sympathy might be expected to be shown than was sometimes shown by men placed above others in the same class as themselves. Those who were responsible for the railway administration must see that they were not led a way by the cry that grievances existed to the extent that remedies drastic in their nature were necessary. After all, the first duty of a railway administration, whilst aiming for contentment as far as possible on the part of its staff, was to make the railway a paying concern, and to run it as economically as possible. (Opposition cries of dissent.) He was prepared to go as far as to say that should be the aim, subject to paying its employees a living wage. The question was, how were the grievances which existed to be remedied? He was sorry to say there was not that universal feeling of contentment that was so desirable in a service, and he would go so far as to say that there existed a feeling of suspicion in certain classes of the railway service which was detrimental to the service, and which it was desirable should be removed as soon as possible. The question was, how were they to do that? It was suggested that a Commission should be appointed. He would point out that at the present time there was a Commission sitting which was dealing with regrading, pay, and assimilation of pay&#x2014;because the pay differed in the various colonies. It would, no doubt, be said that that was a Commission consisting entirely of officials, and that the working man, the mechanic, was not represented on it. He would be quite prepared to put a couple of men on the Commission who were elected by the other men or by the members of the Sick Fund Board, or elected in any other way that might be chosen, but he thought, even if he did that, there would still be the objection raised that it was a Commission of officials, and, as they had heard that afternoon, the men would not consider such a Commission sufficiently impartial to do them justice. That, he took it, was the attitude of his hon. friend, the member for Jeppe (Mr. Creswell). Some time ago, in the Transvaal, he (Mr. Sauer) said the only way of dealing with this question was with a Commission constituted permanently, and something similar to that constituted in the South Africa Act in regard to Civil Servants, and the reason was that, supposing they appointed a Commission now as was suggested. That Commission might be able to inquire into existing grievances. The report would come before the Railway Board and before the Minister?, but the relief they would get would be only temporary. Grievances which existed today might arise tomorrow, and if the Commission did good for a time he was not sure it would do anything like the good a permanent Commission, something like that referred to by the hon. member for Queenstown (Sir Bisset Berry), Would do. The question, for instance, of the rules under which they should select members was a very important one, and the question of promotion was a very large one. He continually received complaints which it was almost impossible to deal with. They could not go into each man&#x2019;s case; but if they had a permanent Commission, they would be able to regulate matters of discipline, promotion, and so on. Of course, it was a very drastic step, but in view of the necessity for having an efficient and contented service, it seemed to him it was a subject which should receive very serious consideration. The hon. member for Cape Town (Mr. Jagger) said this whole discussion invaded the rights which the South Africa Act gave to the Railway Board. He (Mr. Sauer) did not know that he was quite right in the view he took. He quite agreed with him that the Board had very important statutory functions, and it was not right to interfere with them, but it was very different from the Board which existed when the Transvaal and Free State railways were one. In that the whole management of the railway was left to the Board, but here it was qualified. The Act said, &#x201C;Subject to the Governor-General-in-Council,&#x201D; and, therefore, because of that he did not think it could be said that they could interfere with the powers given to the Board here. Of course, he thought that if they had a Commission, as the hon. member for Jeppe (Mr. Creswell) suggested, any recommendations should go to the Railway Board, and then on to Parliament. But it had been suggested by some that the Board itself should constitute itself into a sort of Commission of Inquiry. Well, it would be very difficult. (Hear, hear.) In the first place, the Board had very onerous duties already, and he did not think it could afford the time. Also, its members could not very well be absent for any length of time. Therefore, he did not think the Board was able to deal with matters of appeal. The hon. member for Jeppe (Mr. Creswell) asked that the Government be requested to take into consideration the advisability of appointing a Commission. He (Mr. Sauer) would say to him that, having considered the matter very carefully, and seeing the good that could be done by inquiring into the grievances at least, and when the inquiry had been made&#x2014;if the grievances were genuine &#x2014;to redress them, the Government was prepared to accept the motion moved by him. (Hear, hear.) He noticed that it <span class="col_409-410" refersTo="page_0214"/>was wide in its language, and he was very glad it was, for if it had been narrowed down he would not have been able to accept it. The question of appointing a permanent Commission would be taken into account, and it may be so arranged that a permanent Commission would be substituted for the one first suggested. (Hear, hear.) He would not like to call it a Complaint Beard, as he did not want to encourage men to come to it with complaints. But he wanted them to think that all reasonable complaints would be redressed by it. That being so, he would only say that he could not accept the amendment moved by the hon. member for Cape Town, Castle (Mr. Alexander). If he had to deal with the matter, he would do so in the spirit in which he had spoken and acted that afternoon. (Hear, hear.) He hoped he had made himself clear, and wished to say that real grievances would be redressed, for he was anxious to see the service satisfied and contented, and the railway managed with economy and efficiency, and wanted to see all the workers getting a living wage. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#farrar">
+
+<from>Sir <person refersTo="hansard_za">G. FARRAR</person> (Georgetown)</from>
+
+<p>said he would like the Minister for Railways and Harbours (Mr. Sauer) to make it perfectly clear to those on his side of the House what his exact intentions were. He (Sir George) understood that he did not agree to the appointment of what they knew was an ordinary temporary appointment, but was prepared to consider a Board in the wider sense of the word&#x2014;a permanent Board taking into consideration all questions which might arise. If the Hon. Minister would agree to the appointment of such a Board it would be excellent, because the special grievances which he referred to as existing in the railway service did exist. They existed because there was no Board of Appeal to which a worker could appeal. The unrest among the railway workers did not exist in the Cape Colony and Natal, but only on the C.S.A. Railways, and that should be the last place where such unrest should exist in view of the very strong financial position the railways have been in during the last few years. A Commission which was appointed in 1908 laid down the rate of wages and all conditions of service. But that agreement, although sanctioned by the Government, had never been adhered to in regard to wages, and had been whittled away until the men had no security of tenure. In Australia, in addition to Railway Commissioners, there was a permanent Board on which the employees were represented. He thought if we had a Board like that in South Africa it would do a great deal of good. On the other hand, a roving Commission would do no good at all Wherever there were grievances they should be redressed. (Cheers.) There were grave grievances in the Northern State of the Union which an ordinary employer of labour would have redressed long since. The Opposition, concluded the hon. member, desired to bring peace and contentment amongst the railway men. (Cheers.).</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said they were all extremely anxious that the legitimate grievances of the men should be settled. The Cape recognised the admirable service rendered to the Colony by its railway administration. If the just and legitimate grievances of the railway staff were to be settled to their satisfaction, that could be done only by the appointment of a permanent Board. The men would never be satisfied with am investigation in which none of their own people took part. Many of the grievances might be of an imaginary kind, but it was impossible to believe that in such a huge service as the Union Railways there were no grievances, and it was only by halving a contented service that the railway system could do that which the State expected it to do. Proceeding, Dr. Smart said that the hon. member for Uitenhage (Mr. Fremantle) had made a direct charge against one of the late Government administrations. For electioneering purposes, the hon. member made that, charge at Uitenhage during the late General Election. The hon. member made a charge of gross injustice against the late Cape Government, because he (Dr. Smartt) imagined that the hon. member thought at that time it would further his electioneering interests. He (Dr. Smartt) was going to mention a telegram sent him from Port Elizabeth, and the name of the gentleman who sent it, that telegram being the only source through which he (Dr. Smartt) knew that charges had been made against the late Administration by the hon. member for Uitenhage when the hon. member thought there was no chance of their being refuted. Mr. Steytler, of Part Elizabeth, was kind enough to wire him stating that at Uitenhage on the previous night the hon. member (Mr. Fremantle) had publicly stated at one of his meetings that he (Dr. Smartt) had refused to give the railway men their just dues by not, allowing them to come on the fixed establishment, and it was the Minister of Railways who created the injustice when he (Mr. Sauer) came into office. He should have thought that the hon. member for Uitenhage (Mr. Fremantle), who said that the (Minister of Railways had corrected all these regulations, would have been the last to say that afternoon that there was a necessity for appointing that Commission. Because here were certain grievances demanding redress, because if that were so, how could the hon. member have informed the people of Uitenhage during the elections that these grievances had been redressed by the Minister of Railways?</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>The Minister of Railways repeated the circular.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from><span class="col_411-412" refersTo="page_0215"/>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>What I say is, that if the hon. member is going to pick up the pieces, he must pick up the pieces to make a case; and not go on the hustings and make a statement for which there is no foundation in fact. Continuing, the hon. member said that the hon. member for Uitenhage Mr. Fremantle) had said at the hustings that the previous Government of the Cape Colony had taken away rights from the railway men to which they were entitled under the law of the Colony. When the Administration presided over by the right hon. member for Albany (Dr. Jameson) took office in 1904, the country was passing through a very serious financial depression, of such a character that on the railways alone, during a couple of years, the railway revenue had fallen by almost two millions, and that had necessitated the utmost economy and a certain amount, of regrettable retrenchment. There was a time when the hon. member for Uitenhage (Mr. Fremantle) was a defender of the right hon. member for Victoria West (Mr. Merriman) &#x2014;when he was in power, as Prime Minister &#x2014;and who was now a defender of the present Prime Minister who was in power. (Laughter.) The hon. member went on to speak of the hon. member for Uitenhage&#x2019;s fondness for taking a seat in the Ministerial seats while the Ministers were absent, and said that the hon. member would be as greatly disappointed in the direction of being appointed to the present vacancy in the Cabinet as he had been in the last Cape Parliament, when he had so strongly urged the appointment of a Minister of Education. (Laughter.) Continuing, the hon. member said that in the period of depression of 1904 the Government had found it necessary to issue instructions that there should be, as far as possible, no more Government positions filled up, and that&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I am sorry to interrupt the hon. member&#x2019;s eloquence, but I think that it has nothing to do with the debate.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that the hon. member was in order.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that the hon. member for Uitenhage had made certain charges, and he thought it was only right that he should reply to them, and he would not have had to deal with them, if they had not been raised by the hon. member. What had taken place was that in that period of retrenchment the Government was very anxious that the least possible amount of injustice should be done, and that no more appointments should be made on the fixed establishment. The circular had been issued on April 19, 1904, and it did not only refer to the railway servants, but to the whole Civil Service <i>of</i> the Cape Colony. They had stopped the whole Civil Service examinations and ceased appointing people on probation. They had not thought it fair that while here was that retrenchment they should have opened the door to other Civil Servants to come into the service. If the Government of that day had erred at all, it was on the light side of retrenchment, because it was the right hon. member for Victoria West (Mr. Merriman), assisted by the hon. member for Uitenhage (Mr. Fremantle), who had levelled the most violent charges against that Government and against him the speaker) for keeping on too many men and for &#x201C;keeping on three-men where one would do.&#x201D; They (that Government) had said that they were not going to put all these people on the streets. Because the time would come when they would need the services of these trained men, and had not events proved that they were right, because at the present time they had not sufficient trained men for the railways, and to carry on the work there?</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>Why did you break the law?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>I have all the facts, not a few of them like the hon. member opposite, who has grumped them up from some quarter or other. (Laughter.) Continuing, he said that on June 2nd a circular had been issued from the Prime Minister&#x2019;s Office, to the affect that he (Dr. Jameson) had been pleased to relax the instructions of his circular letter of April 19th, which dealt with probationers who had a legal claim, or who were probationers before those regulations had been issued. Now, was there any stronger proof that the statements made by the hon. member for Uitenhage (Mr. Fremantle) on the hustings and in the House were, to say the least, incorrect statements, statements which should not have been made without the fullest investigation? If the hon. member for Uitenhage consulted the railway employees of the country he would find that they recognised that during the period his (the speaker&#x2019;s) right hon. friend (Dr. Jameson) was in power, they were as justly and as fairly treated as they were by the hon. member for Uitenhage&#x2019;s friends. He welcomed the proposal that the grievances of the railway men should be inquired into. He also welcomed the proposal that a permanent Board upon which the men should be represented should be appointed, but he regretted that the Minister of Railways would not accept the amendment proposed by the hon. member for Cape Town, Castle (Mr. Alexander). If grievances existed there was no difficulty whatever in a properly-constituted Commission reporting before the end of the session. If that were done the House would, before it broke up, have sufficient information upon which to appoint the permanent Board.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>said that the hon. member for Fort Beaufort, now pleaded for a new body to inquire into railway-men&#x2019;s grievances, though a Railway Board already existed. The hon. member had at one time moved for a <span class="col_413-414" refersTo="page_0216"/>Board of Railway Management. He was seconded by the right hon. member for Victoria West. The argument then was to keep railway servants outside the arena of party politics. The real motive Underlying the motion, however, was to remove the control of the railways from the purview of Parliament. At present, the hon. member was asking for a Commission in order to drag the railway men back into the political arena. His (the speaker&#x2019;s) experience as a politician had taught him that the hon. member was not by any means the least capable minister, but he certainly was the most awkward administrator to get anything out of. Grievances had no more effect on him than water had on a duck&#x2019;s back. One was always referred to subordinates, and once more to subordinates. He moved the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said he would appeal to the House to come to a vote on the matter that afternoon.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>then withdrew his motion for the adjournment of the debate.</p>
+
+<p>The hon. member for Germiston (Mr. Chaplin), with leave, withdrew his amendment.</p>
+
+<p>The amendment of the hon. member for Zoutpansberg (Mr. Moritz) to insert after the words &#x201C;daily paid&#x201D; the words &#x201C;and piece work&#x201D; was agreed to.</p>
+
+<p>The amendment of the hon. member for Cape Town, Castle (Mr. Alexander), to insert after the word &#x201C;Railways&#x201D; the words? &#x201C;and Harbours&#x201D; was agreed to.</p>
+
+<p>The amendment of the hon. member for Cape Town, Castle (Mr. Alexander), to add to the motion &#x201C;and to furnish an interim report during the present session&#x201D; was negatived.</p>
+
+<p>The motion as amended was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#liliefontein_township_committee">
+
+<heading>LILIEFONTEIN TOWNSHIP COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: That the report of the Commission on the application to establish a township at Liliefontein, Orange Free State, laid on the Table of the House on the 22nd instant, be referred to the Select Committee on Liliefontein Township.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-11-29T18:00:00">6 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
