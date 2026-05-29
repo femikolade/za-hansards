@@ -1,0 +1,2037 @@
+---
+title: 'House of Assembly: Vol1 - MONDAY APRIL 22 1912'
+layout: debate
+year: 1912
+month: APRIL
+month_slug: Apr
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>MONDAY, April 22nd, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers, at <recordedTime time="1912-04-22T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#vintcent">
+
+<from>Mr. <person refersTo="hansard_za">A. I. VINTCENT</person> (Fauresmith),</from>
+
+<p>from R. N. Hammond, late gaoler, Riversdale.</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District, North),</from>
+
+<p>for amendments to the South Africa Defence Bill, including the omission of the clauses dealing with Cadets. (Two petitions.)</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Fauresmith),</from>
+
+<p>from inhabitants of Lichtenburg, for reduction of hire of water-drills from &#x00A3;4 to &#x00A3;2 per day.</p>
+
+</speech>
+
+<speech by="#lemmer">
+
+<from>General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico),</from>
+
+<p>against the inclusion of Cadets in the proposed system of defence and for other amendments in the South Africa Defence Bill. (Two petitions.)</p>
+
+</speech>
+
+<speech by="#de_beer">
+
+<from>Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Fauresmith),</from>
+
+<p>from D. R. van Alphen, teacher, that break in service may be condoned, or other relief.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Papers relating to retirement on pension of L. A. Munn, ex-Port Captain, Buffalo Harbour.</p>
+
+<p>These papers were referred to the Select Committee on Pensions, Grants, and Gratuities.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Report, Director of Irrigation, 1910.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Estimates of expenditure capital and betterment works, S.A. Railways and Harbours, year ending 31st March, 1913.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_service_bill">
+
+<heading>RAILWAYS AND HARBOURS SERVICE BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I wish to call attention to certain amendments made by the Select Committee on the Railways and Harbours Service Bill. I refer to the proposed amendments in clauses 8, 10, 27, 31, and 76, and to the proposed new clauses 55 and 56. Strictly speaking, these provisions should not have been inserted in the Bill by the Select Committee without an instruction from the House, as their adoption would involve increased expenditure. In view of the fact, however, that the measure contains considerable monetary provisions, and is of a somewhat technical character, it would have led to inconvenience and delay if, on every occasion an amendment involving expenditure was considered necessary, a special report had to be made to the House. I would therefore recommend that in this instance the action of the committee be condoned, provided that before the provisions concerned are considered in committee of the whole House on the Bill, the recommendation of the Governor-General to them is announced in the House.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#miners_phthisis_select_committee">
+
+<heading>MINERS&#x2019; PHTHISIS.<br/>SELECT COMMITTEE.</heading>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person></from>
+
+<p>moved, that Messrs. Merriman, Chaplin, Geldenhuys, Oliver, Creswell, Wilcocks, Runciman, and the mover be members of the Select Committee on Miners&#x2019; Phthisis Bill.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>asked whether he could move concerning the number of the committee?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That was decided last Friday.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person>:</from>
+
+<p>Can I move now for the addition of two names?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from><span class="col_2081-2082" refersTo="page_1047"/>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The right hon. member cannot do that. The House has already decided that the committee should consist of eight members, and until that is rescinded it cannot be altered.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person>:</from>
+
+<p>I beg to give notice that I shall move to-morrow that the committee should consist of ten members, and that Sir David Harris and Mr. Theron be added to the committee. It is not necessary, perhaps, to state the reasons now, but it is very important to have a strong practical committee.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The right hon. member can only give notice.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis):</from>
+
+<p>Would I be in order in moving that Dr. Macaulay&#x2019;s name be substituted for one of the others?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member must first negative a name, or he can do it now on one of these names.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>gave notice that to-morrow he would move that the committee consist of eleven members, and that the name of Mr. Andrews be added.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>gave notice to move that Sir Edgar Walton&#x2019;s name be added to the committee.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#loan_funds">
+
+<heading>LOAN FUNDS.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved: That the Estimates of Expenditure from Loan Funds to be defrayed during the year ending 31st March, 1913, presented to the House on the 22nd March, 1912, be referred to Committee of Supply on the Estimates of Expenditure from the Consolidated Revenue and Railways and Harbours&#x2019; Funds, respectively.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded,</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth)</from>
+
+<p>said that it was very strange that the Minister of Finance should rise and move this motion. It was really asking the House to consider the expenditure of some millions of pounds of loan money, because he was really asking the House to go into Committee of Supply on the estimates of loan expenditure. If that motion were passed it would mean that these estimates would be placed before a committee of the whole House without a word of explanation from the Minister and without the details that were most necessary. It was very strange to move that these Estimates, which had not come before the House in detail, should be considered in committee. He did not know whether such a course was in order. He did not think that the committee should deal with these Estimates until the main Estimates had been passed.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said he was rather surprised that his hon. friend should require a long speech. If his hon. friend would refer to the papers which had been on the table for some three weeks he would find the fullest details of the expenditure in connection with loan proposals, with the exception of the blank sheet, the details of which would be supplied by the Minister of Railways and Harbours. He did not, however, wish to rush any of his hon. friends, and if it would suit their convenience better he would withdraw the motion which stood in his name.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said he would like to draw the Minister&#x2019;s attention to the details. This was one of the items: New lines, &#x00A3;2,000,000. He did not suppose they would get those details until the eleventh hour, when they would be told that if opposition were offered the thing would go by the board.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Who moves the adjournment of the debate?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that, in the circumstances, he would move the adjournment of the debate until Monday, 27th inst.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he wished to point out that the business of the House was being carried on in an extremely unsatisfactory manner, and said that owing to the way things were being done hon. members were unable to get a grip on the business. Business was brought forward and then dropped down the paper, and they did not know where they were. Some members that afternoon had come prepared to speak on the proposals of the Minister of Lands, while other hon. members had come expecting the House to go into Committee of Supply. There was the case of Judges&#x2019; pensions. It was the third order on Friday, and he (the speaker) expected that the House would reach it that same evening. It was now seventh on the list. Take the Public Health Bill. The Minister told the House at one time that it was a matter of great urgency. It had been read a first and second time and had been committed twice. Now it had dropped away. Members came down, after studying Bills, prepared to speak on this measure, only to find that the paper had been changed. It was extremely unsatisfactory. It was the same with the death duties, and they could only assume that the proposals had met with opposition on the other side. The business had been carried on in a scandalous fashion. They had been sitting for three months, and beyond&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I don&#x2019;t think that arises out of this motion.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>The House has good cause for complaint.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That may be, but it does not arise now. The question is the adjournment of the debate.</p>
+
+<p>The debate was adjourned until this day week.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_accounts">
+
+<heading>PUBLIC ACCOUNTS.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved <span class="col_2083-2084" refersTo="page_1048"/>that paragraphs (4), (7), (10), (11), (15) and (20) of the First Report of the Select Committee on Public Accounts be referred to Committee of Supply on the Estimates.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railways_and_harbours_service_bill">
+
+<heading>RAILWAYS AND HARBOURS SERVICE BILL.</heading>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved: That on the consideration of the Railways and Harbours Service Bill in committee of the whole House, Standing Order No. 403, having reference to the amendments made in private Bills by Select Committees, shall apply.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said it was very difficult for those at his end of the House to hear what was going on. (Hear, hear, and laughter.) They wanted to know what had become of No. 2.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>No. 2 was moved off for consideration later on.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#land_settlement_bill_committees_amendments">
+
+<heading>LAND SETTLEMENT BILL.<br/>COMMITTEE&#x2019;S AMENDMENTS.</heading>
+
+<p>On clause 3,</p>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved, in lines 9 to 11, of new sub-section (1), to omit &#x201C;no member of which shall be a member of either House of Parliament or a member of any Provincial Council,&#x201D; and to add at the end of the sub-section: &#x201C;Provided further that no member of either House of Parliament or of a Provincial Council shall be a member of a land board.&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>In new clause 5,</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved to add at the end: &#x201C;or if he be removed by the Governor-General under the last preceding section.&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>In clause 8,</p>
+
+</speech>
+
+<speech by="#meyler">
+
+<from>Mr. <person refersTo="hansard_za">H. M. MEYLER</person> (Weenen)</from>
+
+<p>moved in line 34, before &#x201C;section,&#x201D; to insert &#x201C;and the next succeeding.&#x2019;</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>seconded.</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>In clause 11 (Dutch version),</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>moved, in line 13, to delete the word &#x201C;staat,&#x201D; and insert &#x201C;kroon.&#x201D;</p>
+
+<p>The amendment was agreed to</p>
+
+<p>In clause 14 (savings),</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved, in line 47, to omit &#x201C;existing&#x201D;; in line 48, after &#x201C;law,&#x201D; to omit &#x201C;or laws,&#x201D; and to substitute &#x201C;in force&#x201D;; in the same line, after &#x201C;Province,&#x201D; to insert &#x201C;prior to the commencement of this Act&#x201D;; in line 50, to omit &#x201C;power,&#x201D; and to substitute &#x201C;right&#x201D;; and to add at the end &#x201C;in that Province.&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>What does the side-note mean? It really looks as if you are going to effect an economy; but it means a saving clause. (Laughter.)</p>
+
+<p>The amendment was agreed to.</p>
+
+<p>New clause 23,</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved, as an amendment, in line 16, after &#x201C;applications,&#x201D; to insert &#x201C;for allotment of holdings&#x201D;; in line 17, to omit &#x201C;for allotment,&#x201D; and to substitute &#x201C;under this chapter&#x201D;; and in line 18, to omit &#x201C;who have been accepted and rejected respectively,&#x201D; and to substitute &#x201C;to whom holdings have been allotted and the situation of those holdings and of the applicants who have been refused any allotment whatever.&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+<p>On clause 22,</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved as an amendment to the amendment made in sub-section (3): in line 38 to omit &#x201C;an amount&#x201D;; in line 39 to omit &#x201C;in which case,&#x201D; and to substitute &#x201C;provided further that if any sum be so paid on account of balance&#x201D;; in the same line, to omit &#x201C;deduction,&#x201D; and to substitute &#x201C;reduction&#x201D;; in line 41 to omit &#x201C;further,&#x201D; and to substitute &#x201C;also&#x201D;; and in line 42, after &#x201C;thereof,&#x201D; to insert &#x201C;(other than any such sum aforesaid on account of balance).&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>This was agreed to.</p>
+
+<p>On clause 25,</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved in lines 48 and 49 to omit &#x201C;cancelling the remaining period of,&#x201D; and to substitute &#x201C;surrendering.&#x201D;</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>This was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved to add the following new sub-section, viz.: (3) Anything to the contrary notwithstanding in section 10 of the Natal Mines Act, 1899, Crown land allotted or reserved under this Act for settlement purposes shall not, while so allotted or reserved, be subject to such <span class="col_2085-2086" refersTo="page_1049"/>right on the part of the public to prospect or search for minerals, as is in that section described.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+<p>On clause 40,</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>moved to omit the clause In doing so he said that, as a member of the House who looked upon himself as responsible for the interests of a certain section of the taxpayers of the Union, he thought it was the duty of the House to see that there was adequate security given for the money which was advanced, because in that clause they were dealing with a proposal which involved the spending of Lange sums of money. It was not by any means to be considered as making provision for the distribution of doles by the Minister. The hon. member alluded to the previous discussion on the matter in committee, and regretted that the Minister had not accepted the proposal to allow the Land Bank, which had the necessary machinery, to deal with the matter. If that proposal had been agreed to the matter of advancing money, he said, would have been given closer scrutiny than by the Minister, who had stated that if they had accepted the amendment it would complicate the machinery, while the Minister of the Interior had stated that they did not want &#x201C;business principles&#x201D; in regard to land settlement. The Minister would not accept the amendment which had been moved, and as he had not moved an amendment himself, the only course left was for him to move that the clause be omitted. Reliance upon their own exertions taught people self-reliance, resource, and independence, whereas spoon-feeding was, he thought, the most demoralising process that they could possibly use in land settlement.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he did not know whether hon. members were aware what was going to be done. He was sure of this, that if they understood what was going to be done, and if they voted on their own judgment, and were not led into the kraal by their party Whips, they would oppose this clause as it stood. (Hear, hear, and &#x201C;Question?&#x201D;) They were to have certain of their officers who were going round to buy land. Then they were going to look after settlers. They had no machinery whatever at present for dealing with money. In addition to that, his hon. friend was going to get powers for this House to borrow money. He would come presently and ask for a lump sum. He hoped the right hon. gentleman would keep himself above party temptations. He was also going to create a new department&#x2014;a sort of banking arrangement, in his own office, to do the lending and collecting of the money. What he would suggest to him was that if he were going to make advances, obviously, since the Government had already its Treasury, it had a number of officers employed whose duty it was to collect money. His right hon. friend said he would have a new lot of men, and that he would employ them only to look after this particular job of ladling out money to settlers. Was it not common-sense, since the State already had a department for collecting its money, that that department should have the job of looking after these amounts? They were doubling their machinery without any possible object whatever, all because his right hon. friend somehow or other distrusted the Treasury.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he thought it was a most ungenerous remark, and a very injudicious remark, that his hon. friend (Sir E. H. Walton) had made when he attempted to put the details of an important measure like this on a party basis. Parties in that House were rather ludicrous, because they did not know what their principles were upon one side or the other, but he thought it was not fair on the part of his hon. friend to talk about hon. members being herded into the kraal. (&#x201C;Hear, hear,&#x201D; and laughter.) Hon. members would not pay out their own money on an object of this kind, but they would take the money from the poor, from the taxpayers, and, generous fellows! they would dole it out in this sort of fashion! There were, to his certain knowledge, hundreds of farmers in this country who were struggling to make a living and face their bills. They were going about matters in the wrong way. Let them become insolvent, and let them be put on the land as settlers, and then his hon. friend would advance them money free, without any security. Why should that be done? Was there any magic in the words &#x201C;Fischer settler&#x201D;? He never saw a madder scheme, one more likely to defeat the object with which it was put forward. In the clause as it stood there was no security laid down. They were going blindly to work. Their principle in regard to security, as said by his hon. friend the other day, was &#x201C;Trust the Minister of Lands.&#x201D;</p>
+
+<p>He would not trust him with &#x00A3;5 to lavish about in that way, and he was not prepared to trust him with public money to be lavished about in that way. Hitherto they had always been very careful with regard to security, except in one unfortunate instance, and that was the famous co-operative loan. There was no provision that the man provided with stock would not sell out and skip to East Africa, and then they would have difficulty in extracting the &#x00A3;495 out of him. Hitherto the party to which he had the honour to belong had been the landed party, and they had been careful with the expenditure of public money, because they knew they would have to pay the piper, but they seemed to have thrown their caution to the winds at the magic of the Minister. (Laughter.) He would <span class="col_2087-2088" refersTo="page_1050"/>vote for the expulsion of this clause, because he did not think it was necessary.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>pointed out that it would be unjust to take all a man&#x2019;s capital out of his pocket. As far as security was concerned, they had security in the work a man put into the ground and the improvements effected. They would not plunge so deeply that the House would not have ample opportunity of checking them before they went too far, but they wanted to give the scheme a trial so as to do away with the charge that they were doing nothing at all to settle the land</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort),</from>
+
+<p>referring to the amendment moved by the Minister of Lands to insert new sub-section (3) in clause 25, said it was due to the House that an important clause like that should be put on the paper so that hon. members could study it before it came before the House. It would facilitate business if business were done in a business-like way.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said he would plead guilty on that occasion, but in extenuation he would urge that he had been kept very busy. However, he would promise amendment in the future. (Laughter.)</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>It is never too late to mend. (Laughter.)</p>
+
+<p>Mr. Blaine&#x2019;s amendment was negatived.</p>
+
+<p>The remaining amendments made in committee were agreed to.</p>
+
+<p>The Bill was set down for third reading on Friday next.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#waste_lands_in_committee">
+
+<heading>WASTE LANDS.<br/>IN COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants of land, viz.: (1) Grant, for school purposes, at Hanover, King William&#x2019;s Town Division; (2) Grant, to W. J. Sinclair, at Umtamvuna River Mouth, Bizana; (3) Grant, for Public Library, at Ngqeleni.</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. 4, Lease of Whaling Station at Buffalo Bay, Kynsna, was put.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved to add a new paragraph (12): (12) &#x201C;That should it be found necessary in the interests of the revenue to station a Customs guard at Buffalo Bay in connection with the said jetty and landing and shipping appliances, the lessee shall be bound to pay into the Public Treasury a sum in the discretion of the Government not exceeding &#x00A3;150 per annum.&#x201D;</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (4), as amended, was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants, etc., of land, viz.: (5) Reservation, for church and school purposes, at Gwili Gwili Location, King William&#x2019;s Town; (6) Grant, for parsonage and school purposes, at Upington; (7) Grant for Jewish Cemetery at Kimberley; (8) Grant, for church and school purposes, at Mount Ayliff; (9) Lease of fishing sites at MacDougall&#x2019;s Bay, Namaqualand.</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (10), extension of whaling station sites on Mossel Bay foreshore, was put.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved the addition of the following clause to the conditions decided upon by the House in April, 1911, viz.: &#x201C;That should it be found necessary in the interests of the revenue to station a Customs guard at Mossel Bay in connection with the said jetty and landing and shipping appliances, the lessee shall be bound to pay into the Public Treasury a sum in the discretion of the Government not exceeding &#x00A3;150 per annum.&#x201D;</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (10), as amended, was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants, etc., of land, viz.: (11) Grant, for addition to Kakamas Labour Colony, of &#x201C;Vaalgras,&#x201D; Kenhardt Division; (12) Grant of garden lots, district of Idutywa; (13) Grant, for school purposes, at Mount Ayliff; (14) Grant, for native cemetery, at Lady Frere; (15) Grant, for site for monument, in Toleni Location, Butterworth; (16) Grant, for show ground, at Somerset East; (17) Exchange of forest land, at Readsdale, Stockenstrom Division; (18) Reservation, as a racecourse, at Barkly West; (19) Grant, for school purposes, at Klipplaat; (20) Grant, for school purposes, at Longlands, Barkly West Division; (21) Grant, for church purposes, at Herschel; (22) Grant to R. C. Bridger at Nputi, Idutywa district; (23) Lease of portions of &#x201C;Cradock Place&#x201D; and &#x201C;Deal Party,&#x201D; Port Elizabeth; (24) Grant, for public cemetery, Kuruman Division; (.25) Grant, for church purposes, at Bolotwa, Idutywa district; (26) Grant, for Church purposes, in Zangqingqis Location, Idutywa district; (27) rescission of grant at Mangwevu, Idutywa district; (28) mort gaging of Roman Catholic property, in Cape Town.</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (29), Lease of whaling station at Kogel Bay, Caledon, was put.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved to add a new paragraph (12): (12) &#x201C;That should it be found necessary in the interests of the revenue to station a Customs guard at Kogel Bay in connection with the said jetty and landing and shipping appliances, the lessees shall be bound to pay into the Public Treasury a sum in the discretion of the Government not exceeding &#x00A3;150 per annum.&#x201D;</p>
+
+<p>Agreed to.</p>
+
+<p><span class="col_2089-2090" refersTo="page_1051"/>Recommendation No. (29), as amended, was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants of land, viz.: (30) Grant, for school purposes, at Cathcartvale, Stockenstrom Division; (31) Grant, for church and school purposes, at Bell, Peddie Division.&#x201D;</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (32), Lease with option of purchase, at Wellington, was put.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved, in lines 5 and 6, after &#x201C;buildings,&#x201D; to omit &#x201C;plant and machinery&#x201D;; and in line 9, after &#x201C;&#x00A3;1,000,&#x201D; to omit &#x201C;and the refrigerating plant, boiler and steam engine for &#x00A3;300.&#x201D;</p>
+
+<p>Agreed to.</p>
+
+<p>Recommendation No. (32), as amended, was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants, etc., of land, viz. (33) Amendment of grant of recreation ground, near Bellville; (34) Lease of residence site at Prince Albert; (35) Lease, as fishing site, at Hoedjes Bay: (36) Disposal of unsold agricultural erven, at Douglas; (37) Grant, for school purposes, at Oliphant&#x2019;s Hoek; (38) Grant, for church and school purposes, at Nqabane, Idutywa district.</p>
+
+<p>Agreed to.</p>
+
+<p>On No. (36),</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked the Minister of Lands whether he would be able to forestall the information promised by the Minister of Railways in regard to the development of the settlement at Douglas.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that he had no intention of forestalling the Minister&#x2019;s remarks. The additional purchase of ground at Douglas might be an inducement to the Minister of Railways to deal with the settlers liberally.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I hope the Minister is going to make provision that there will be occupation.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Absolutely. The idea will be to get approved applicants.</p>
+
+<p>Recommendation No. (39), sale of Assistant Resident Magistrate&#x2019;s house, was put.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that since the recommendation was made the Forestry Department had secured the ground they required elsewhere. He moved that the recommendation be omitted.</p>
+
+<p>The recommendation was negatived.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants, etc., of land, viz.: (40) Transfer of St. George&#x2019;s Church Cemetery, Cape Town, from Church to Diocesan Trustees; (41) Lease to J. J. Matthews, at Mzilatya River, Elliotdale district; (42) Grant of fishing sites, at Hoedjes Bay: (43) Renewal of lease of portion of Port Elizabeth Harbour Wool Warehouse; (44) Grant, for church purposes, at Van Wyk&#x2019;s Vlei, Carnarvon Division; (45) Grant of extension of Bizana Public Cemetery.</p>
+
+<p>Agreed to.</p>
+
+<p>On recommendation (42),</p>
+
+</speech>
+
+<speech by="#runciman">
+
+<from>Mr. <person refersTo="hansard_za">W. RUNCIMAN</person> (South Peninsula)</from>
+
+<p>said he did not want to oppose the grant, but whilst they were discussing the Supplementary Estimates he raised the question of the fishing industry, and it seemed to have afforded much amusement to the Minister of Finance and the Minister of Railways. They were granting land for the benefit of the industry, and yet they had refused to give the Provincial Councils the necessary money in order to control them. A few proper inspectors were required to prevent over-fishing. There had been over-fishing in regard to crayfish, and in a short time he feared there would be none left.</p>
+
+</speech>
+
+<speech by="#chairman">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN</person></from>
+
+<p>read the schedule to the Select Committee&#x2019;s Second Report.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following grants, etc., of land, viz.: (1) Grant, for public cemetery, at Hawston, Caledon; (2) Grant, for school purposes, at Hawston, Caledon; (3) Lease of Bedford Creamery, at Bedford; i(4) Disposal of Buchuberg irrigation scheme farms, Prieska Division; (5) Grant, for school purposes, of portion of &#x201C;Kruispad Outspan,&#x201D; Malmesbury Division; (6) Grant of Krantz Drift outspan, Albany Division: (7) Lease of Cape Police site at Riebeek East; (8) Sale of part of &#x201C;Roodewal,&#x201D; at Cookhouse; (9) Grant, for library purposes and reservation of tennis court site at Nqamakwe: (10) Lease of residence site at mouth of Mgwegwane Stream, Lusikisiki Division; (11) Letting of remainder of &#x201C;Chepstowe,&#x201D; at Maclear.</p>
+
+<p>On No. (3),</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>asked how this land came to be described as waste land, seeing that a building costing some thousands of pounds had been erected.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that, according to the Cape Act, these matters had to be discussed by Parliament, and were generally referred to this committee.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>asked for particulars with regard to the concern.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that the property was liquidated. The Cape Government, as the bondholder, had to take the property back, and it was now let to the highest bidder.</p>
+
+<p>Agreed to</p>
+
+<p>On disposal of Buchuberg Irrigation Scheme Farms, Prieska Division,</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from><span class="col_2091-2092" refersTo="page_1052"/>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>asked the intention of the Government with regard to this irrigation scheme? He mentioned that some time ago &#x00A3;20,000 was spent on these works for the purpose of turning out the Orange River and irrigating tracts of country that would prove capable of much development.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that after investigation it was found that the scheme would prove far too expensive, and it was thought that private holdings would not be taken up. A resolution had been passed stating that the ground should be sold, but Government came to the House because it was not considered advisable to sell it as waste land.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>asked for details of the scheme?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that the question had been asked in the past. Power was asked by the Government now for the purpose of dealing with the ground to better advantage.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>said the Government had devoted &#x00A3;7,500 to irrigation work. The ground was temporarily abandoned, and then the Dutch Reformed Church had applied for it. That application had not been agreed to. The Government had kept back the good land and now wanted to sell the outside ground. It was better to sell the whole lot together with the irrigation works.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>&#x2020;The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that if the hon. member would vote for the motion, his desires would be realised.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person></from>
+
+<p>said he was satisfied with the answer received.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said he thought that the money spent on it was considerably more than the hon. member for Prieska (Mr. Kuhn) had said, and it was in a portion of the country where it was impossible to carry on such development unless irrigation could be carried on. If the Government was not prepared to carry out a scheme, he hoped that somebody else would be found to do so, and he hoped that if anything were done to open up the Kalihari, the Government would give certain of these allotments at reasonable prices.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said that the committee was asked to make a recommendation upon something on which it had little information. When that scheme originated, undoubtedly the Government for the time being had gone into it fully, and authorised it. Now, evidently, there must have been a failure, and therefore it had been abandoned. Would the Minister place all the papers on the table in connection with that scheme, so that they might benefit by the mistakes of the past?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>The hon. gentleman will find that these papers were placed on the table either last year or the year before. (Mr. KUHN: Last year.)</p>
+
+<p>The recommendations were agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>moved: This committee recommends the following extension of lease, viz.: (12) Extension of lease of &#x201C;Sandfontein,&#x201D; Uitenhage Division, and lease of &#x201C;Sterkwater,&#x201D; Somerset East.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>moved that this recommendation be referred back to the Select Committee for further consideration. He said that that matter had been before the Waste Lands Committee last year, when he had been a member, and they had passed a resolution that these places should be put up to public auction. What were the conditions under which these two farms were now leased?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that they were leased to the sons of the late lessee, owing to the resolution of last year. That year they had the evidence of the General Manager of Railways and other members of that department, who had explained the course of action, and favoured that letting, because they had ascertained that it was the most favourable lease that could be got under the circumstances, and they could not have got the same amount by putting it up to tender again.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>said that last year an engineer of the Railway Department had given evidence before the Waste Lands Committee, and the recommendation was then made either to put it up to public auction or to tender.</p>
+
+<p>The amendment was negatived.</p>
+
+<p>The recommendations, as amended, were thereupon reported, and leave given to bring up a report to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pensions_grants_and_gratuities_in_committee">
+
+<heading>PENSIONS, GRANTS, AND GRATUITIES.<br/>IN COMMITTEE.</heading>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>moved: This committee recommends: (1) The award to W. D. van Alphen, teacher, on his retirement, of a pension calculated in accordance with the schedule to Proclamation No. 286 of 1896, Cape of Good Hope. (2) That, subject to repayment by G. H. White, within a period of three months, of the gratuity of &#x00A3;116 7s. 3d. already received by him, the period of his service, in respect of which that gratuity was awarded, be allowed to count for pension purposes on his ultimate retirement. (3) That the break in the service of C. W. Profitt, gaoler, from 1st January, 1903, to 20th November, 1903, be condoned, being regarded as special leave without pay. (4) That the break in the service of J. C. Blyth, teacher, from 1st January, 1909, to 30th June, 1910, be condoned, being regarded as special leave, not counting as service, but preserving for petitioner the benefit of her previous service. (5) That the break in the service <span class="col_2093-2094" refersTo="page_1053"/>of E. M. Wahl, teacher, from 1st January to 30th June, 1908, be condoned, being regarded as special leave, not counting as service, but preserving for petitioner the benefit of her previous service. (6) That the break in the service of M. N. Krynauw, teacher, from 1st January, 1904, to 31st March, 1906, be condoned, being regarded as special leave, not counting as service, but preserving for petitioner the benefit of his previous service. (7) That the break in the service of D. J. Orffer, teacher, from 1st January, 1896, to 31st December, 1902, be condoned, being regarded as special leave, not counting as service, but preserving for petitioner the benefit of his previous service. (8) That the petition of M. du Toit, teacher, be referred to the Government with a view to the condonation of the break in petitioner&#x2019;s service by the Education Department.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>moved that Petition No. 13 &#x201C;J. L. van der Walt,&#x201D; be referred back to the Select Committee for further consideration.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>briefly explained the circumstances of the case.</p>
+
+<p>The amendment was negatived.</p>
+
+</speech>
+
+<speech by="#currey">
+
+<from>Mr. <person refersTo="hansard_za">H. L. CURREY</person> (George)</from>
+
+<p>moved: This committee recommends: (20) With reference to the petitions of S. Herzberger and A. M. Harris, your committee is of opinion that the application for relief should be deferred until such time as petitioners retire. He explained that the words &#x201C;on pension&#x201D; had been inserted by mistake. He moved that the recommendation be referred back to the committee.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>said that the committee had gone carefully into the matter, and reconsideration would only result in bringing up the same report again.</p>
+
+<p>Agreed to.</p>
+
+<p>The resolutions were thereupon reported, and leave given to bring up the report to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#oliphants_river_van_rhynsdorp_canal_bill_second_reading">
+
+<heading>OLIPHANTS RIVER (VAN RHYNSDORP) CANAL BILL.<br/>SECOND READING.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>in moving the second reading of the Oliphants River (Van Rhynsdorp) Canal Bill, said, as most members knew, the Oliphants River drained a very large area in Ceres, Clanwilliam, Calvinia and Van Rhynsdorp districts. In 1907 the Cape Legislative Council passed a resolution favouring the consideration of a scheme along the Oliphants River, with the result that the Director of Irrigation in Cape Colony instituted a searching inquiry and the result of these inquiries was laid before the Cape House of Parliament in 1909. There was a chart attached to the report showing the whole extent of the country which would be benefited by this scheme. There were several proposals submitted, but the one that was finally decided upon was that in favour of the construction of a large weir across the river about 20 miles below Clanwilliam. The weir would serve the double purpose of distributing the water over a large area on both sides of the river, and also of permitting the storage of large quantities of water. The amount of land brought under irrigation by the scheme would be about 9,000 morgen, but to be on the safe side, only 7,000 morgen would be scheduled at present for the purpose of rating. The object of the Bill was permissive, and only authorised the Government to grant a loan under the special conditions mentioned in the Bill. With regard to the rating of the ground, that would be upon a different principle from that which pertained to the Cape Act as at present, namely, that the producing value of the ground would be taken into consideration, and rates assessed accordingly. The Oliphants River valley contains two kinds of soil. One kind, the natural soil of the country, was very productive, but not so productive as the alluvial soil. Therefore it was proposed to rate the ground in the proportion of two for the natural soil to three for the alluvial soil. Another provision was that work should be undertaken by the department, and for a period not exceeding 15 years Government would have certain control of the works so far as the upkeep and general maintenance were concerned. There was a danger in a work of this kind that if the matter were left, entirely to the Irrigation Board that it might not see the necessity for a thorough upkeep of the work which might be damaged. So, for a certain number of years, Government, in conjunction with the Board, would have the supervision of the works. It was proposed to depart from the ordinary term of thirty years, and to have the repayment of the loan extended over sixty years, interest to be charged at the rate of four per cent.</p>
+
+<p>There was every probability of working in, not only a highly satisfactory closer settlement scheme along the river, but also a labour colony scheme under the Dutch Reformed Church, which already had some ground in the vicinity. He trusted the Dutch Reformed Church would be able to repeat the success it already had achieved at Kakamas, and also to help to a solution of the poor white question on strictly business lines. The railway was being extended from Graafwater, which would cut this irrigation project somewhere about the centre. As to the people, they were able and willing and accustomed to work.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said he had great pleasure in giving his support to the Bill. It was more years than he liked to recollect since he sent Mr. Gamble to the Orange River to make investigations regarding irrigation. The present scheme he (Mr. Merriman) thought was a practicable one, and <span class="col_2095-2096" refersTo="page_1054"/>the country was admirably suited for opening up by irrigation. It was very fertile, and was in communication with. Cape Town by means of a railway. However, the Bill would require to be very carefully scrutinised in committee. This was how these matters should be brought forward: take a concrete case, bring it down to Parliament, and carry it through after careful investigation. He objected to wild schemes about which they were in the dark, but here they were not in the dark.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said the matter had been under consideration for many years, and Mr. Kanthack had furnished a valuable report upon it. Unfortunately, owing to the configuration of the country, the canal would have to be exceedingly long, but he did not think there was any doubt whatever as to fruitfulness of the soil along the river, especially towards its mouth. The Opposition would give every support to a legitimate scheme of that sort. He took it that the principle of giving people extended payments was that they should not be crippled by having to make high payments at the start.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn)</from>
+
+<p>congratulated the Minister on his attempts to develop the district in question. There was a great need of water in many districts. For many years it had been a difficult matter in Oudtshoorn to get water, but the Government had never helped them. Flood water was not at present required in Oudtshoorn; if the Government would make them a present of a million pounds, he gave the assurance that the country would become a veritable Canaan. At present they paid 7s. 6d. and 15s. for ground there, but if the Government would give them money help, he felt assured that a price of &#x00A3;2 per morgen could be obtained.</p>
+
+</speech>
+
+<speech by="#watermeyer">
+
+<from>Mr. <person refersTo="hansard_za">E. B. WATERMEYER</person> (Clanwilliam)</from>
+
+<p>said that this was a Bill that affected his constituency very intimately. They had been looking forward for the scheme for some time. What pleased him most was the foresight of the Minister in allowing a considerable period for the repayment of loans. That part of the country had been neglected, and the people there were not acquainted with advanced principles of agriculture. The result was that a glorious stream of water had been running to waste year after year. The Bill would enable the farmers there to find their feet before they had to repay the loans. He was pleased with the kindly reception the Bill had obtained from all quarters of the House, and hoped that it would have some tangible result.</p>
+
+</speech>
+
+<speech by="#de_beer">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">M. J. DE BEER</person> (Piquetberg)</from>
+
+<p>also expressed his thanks to the Minister, and said that for many years past he had recommended that use be made of the Oliphants River. He trusted that they would not rest on their oars after the work had been done, but would also carry out other works.</p>
+
+</speech>
+
+<speech by="#cullinan">
+
+<from>Sir <person refersTo="hansard_za">T. M. CULLINAN</person> (Pretoria District, North)</from>
+
+<p>congratulated the Minister on the scheme. It was of small use building railways unless they were accompanied by schemes of this nature. He hoped that the next session they would have a substantial national scheme.</p>
+
+<p>The motion was agreed to, the Bill was read a second time, and the committee stage set down for Wednesday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_accounts_committee">
+
+<heading>PUBLIC ACCOUNTS COMMITTEE.</heading>
+
+<p>The House proceeded to consider the first, second and third reports of the Select Committee on Public Accounts.</p>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>moved that the First Report (with the exception of paragraphs (4), (7), (10), (11), (15), and (20), which have been referred to Committee of Supply on the Estimates and the Second and Third Reports be referred to the Government for consideration.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg North)</from>
+
+<p>moved that the remaining paragraphs of the first report, and paragraphs 1 to 10 inclusive of the third report be referred to the Government for consideration, and that the second report and paragraph 1 of the third report stand over for consideration with the fourth report.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that if he had been in his place he would have moved in exactly the same direction. In terms of the motion the House would dispose of paragraphs 1, 2, 3, 5, 6, 8, 9, 12, 13, 14, 16, 17, 18, 19 of the first report, which would be referred to the Government for consideration. Paragraphs 4, 7, 10, 11, 15 and 20 were dealt with by the House earlier in the afternoon and referred to the Committee of the whole House. Paragraph 11 of the third report would stand over until the fourth report was considered; paragraphs 1 to 10 would be referred to the Government.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that these reports disclosed an extraordinary position so far as the business of the country was concerned and he hoped before the debate closed the Minister of Railways and Harbours would take the opportunity of explaining how he had allowed business to get into such a position, and why Bills brought in earlier in the session had been allowed to drop down the paper without being dealt with. The committee had called attention to this extraordinary matter. He referred to the sum of &#x00A3;331,615 mentioned in a Bill&#x2014;money spent on rail ways without the sanction of Parliament&#x2014;which went before the committee. They <span class="col_2097-2098" refersTo="page_1055"/>instructed that the amount to be asked for was &#x00A3;1,258,919 and not &#x00A3;331,515.</p>
+
+<p>The position in which the House found itself was that not alone had this money been spent without the authority of Parliament, but this amount had been spent in total disregard of the Exchequer and Audit Act of last year, which the Government and his hon. friend, the Minister of Finance, introduced, and absolutely in disregard of the Railway Construction Bill the Minister of Railways and Harbours introduced last session. And he would like to read the clauses to the House, so that his hon. friend could see what position he had placed the House in. He remembered in the Cape House a few years ago, when his hon. friend, the Minister of Railways and Harbours, depending upon his docile majority, altered the gauge of a railway line which had been sanctioned by Parliament, and came to the House to get that violation of an Act of Parliament condoned by his majority. He dared say that, acting under such circumstances his hon. friend under such circumstances, his hon. friend to break any statute he thought necessary, relying on his majority to condone his act. His hon. friend asked for a considerable amount of money, and he wanted to make it clear that in asking for that money, not only in the Bill introduced by him, but in the Bill introduced by the Minister of Finance, he had broken three clauses of the Exchequer and Audit Act which was passed last session. These were clauses 43, 47 and 49. He wanted to make clear that the necessary warrants were not upon the table of the House, and if they were they had only been put there within the last few days&#x2014;</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>rose to a point of order. He had, he said, proposed an amendment asking them to defer the consideration of the second report.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>What is the point of order?</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">ORR</person></from>
+
+<p>was understood to say that the second report could not be the subject matter of a discussion now.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>No. I must point out to the hon. member that the motion before the House is that the report, with the exception of paragraphs 4, 7, 10, 11, 15 and 20, which have been referred to the Committee of Supply on the Estimates, is before the House, and therefore the whole question is before the House.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>I hope the hon. member will take a lesson and not rise to points of order which he has not studied, and which, it is obvious to the ordinary man, there was no possibility of. He should not thus unnecessarily rush to the assistance of the Government, rising to points of order which he does not understand. My hon. friend must understand that his proposals have not, as yet, the effect of proclamations of this House. (Opposition cheers.)</p>
+
+<p>Proceeding, the hon. member said that after this slight digression he would not depart from the Hon. the Minister of Railways and Harbours. His point was that he had absolutely flouted Parliament; that he had expended money&#x2014;he maintained it was a most serious thing&#x2014;that he had expended hundreds of thousands of pounds, not alone hundreds of thousands of pounds that had not been authorised by Parliament; but he had spent these hundreds of thousands of pounds without even taking the precaution of getting the necessary warrants from His Excellency the Governor-General; and how he had laid his hands on that money without pursuing the regulations laid down by Parliament, it was utterly impossible for him to understand. He noticed that the right hon. member for Victoria West (Mr. J. X. Merriman) was smiling. He thought he would recognise that when they introduced this clause into the Bill they did it for the purpose of keeping a check upon expenditure, and when the Government got an amount not authorised by Parliament they had to get the Governor-General&#x2019;s sanction to it. They had to put the warrants upon the table of Parliament if it was sitting, and if it was not sitting to place them upon the table of the House as soon as it sat. He did not care whether members sat on his side of the House or the other, he would ask them if there was any good in passing an Exchequer and Audit Act if the clauses of that Act were to be flouted by the Minister&#x2014;taken no notice of whatsoever and a sum of almost a million and a half spent by the Minister without his having secured a single warrant, and not a single warrant having been laid on the table of the House&#x2014;spent absolutely and entirely in an illegal manner, and he hoped the House and the country would take note of it. His right hon. friend the member for Victoria West (Mr. J. X. Merriman) was again smiling. He would like his right hon. friend (Mr. Merriman) to tell them whether, after spending hundreds of thousands of pounds, under any other circumstances, he would not have made the House ring with his eloquence; and if the Government could do what they had done, there was nothing to prevent them spending millions without authority, and the House only finding it out after being three months in session? The Minister had not only broken three of the clauses of the Exchequer and Audit Act, but had proceeded deliberately to break one of the clauses of his own Railway Construction Bill. If hon. members would look at the schedule in the Bill as presented to the House, they would find that on the &#x201C;construction of new lines&#x201D; there had been a saving of &#x00A3;927,404, and if they looked at &#x201C;completion of new lines,&#x201D; they would find that &#x00A3;904,308 in excess of the amount authorised by Parliament had been spent. Hon. members might say&#x2014;and he dared say a very good case might be made out of the fact that there had been a saving&#x2014;but what had Parliament said when that amount had been passed <span class="col_2099-2100" refersTo="page_1056"/>last year? That the saving on one vote should not be used towards another vote, on certain conditions. He was not going into the question whether it was an economical thing to do what had been done, or not, but what security had that House when the Minister and the Government could break three clauses of the Exchequer and Audit Act, and vote the money to services which Parliament had never intended they should be devoted? He said that, except the House expressed its entire want of concurrence in illegal transactions of that sort, there was no knowing where it was going to lead to. He was not speaking in a party spirit at all&#x2014;(Ministerial laughter)&#x2014;but when these laws were passed by Parliament, they were passed not only for the general body of the people, but also for the Ministers who sat on those benches. He would almost have liked to have Mr. Speaker&#x2019;s ruling as to whether the Minister should not be impeached for what he had done? (Ministerial laughter.)</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>said that he did not rise to take his hon. friend (Mr. Sauer) under his wing&#x2014;he was well able to take care of himself&#x2014;but perhaps he was a little shy. (Laughter.) Really it was exquisite to hear his hon. friend (Sir T. W. Smartt) in his new position, which they were all so pleased to see him in, lay down these lofty doctrines&#x2014;(laughter)&#x2014;about spending money; and he wanted to know why he had not done so some years ago? (Laughter.) Talk about impeaching&#x2014;there were many gentlemen whom he would have liked to see impeached. (Laughter.) Were they not making a mountain of a molehill?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>Without a Governor-General&#x2019;s warrant.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Shocking! Proceeding, he said that he wanted to point out how the whole thing appeared to have arisen. The fact was that they had been working during the last year, ever since Parliament rose, on what had been so dear to the heart of the hon. member for Pretoria East (Sir J. P. Fitzpatrick)&#x2014;&#x201C;a new start.&#x201D; (Laughter.) They had made a new start in that matter. In the old Cape House they voted an amount for the construction of a railway, and proceeded to do the work, and the Minister drew on the amount from time to time. Now it had been laid down by his hon. friend&#x2014;against his (the right hon. member&#x2019;s) wishes&#x2014;that they must come to Parliament with estimates for what they intended to spend during the year. He saw that the very first year they were going to get in a mess, for you underestimated in one and overestimated in another. If it came to that, where were the Railway Board? (Opposition cheers.) The whole thing arose in the first instance from this &#x201C;new start.&#x201D; They were not accustomed to &#x201C;new starts&#x201D; on that side of the House, and they wanted to get into working order and now, with the example before them, they would be a little more careful in the future. To go into heroics about the Minister having spent untold millions, he had not done so. He had operated on his old lines construction, and the new lines construction had not been operated on.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>He has done a lot of other things besides.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West):</from>
+
+<p>Oh, he is full of iniquity, like most of us. (A laugh.) To talk about scattering untold millions, he has not done anything of the sort, but he has certainly not paid any attention to the provisions of the Act, which said that they should not apply one vote to the other. Money has not been spent that has not been authorised by Parliament to be spent. The money was there, no estimate is formed and voted for the year, and they made a mistake in that. Again, in the matter of the warrants, I think that is a distinct oversight. It is a most unfortunate oversight. Who is to be blamed for that, I am not prepared to say, though I am afraid my hon. friend must come in for a little blame in the matter for not having looked into things before. Proceeding, he said that no illegal thing was done except in form, but they must be very careful that they observed the form. What was the Public Accounts Committee for but to draw attention to these matters? If the course adopted in former years had been followed in this case, and these lines had been allowed to go through the House, he was bound to say that no inquiry would have been made.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)</from>
+
+<p>said he hoped the House would not be led by the right hon. gentleman into believing that they were making a mountain out of a molehill. It seemed to him that this was a very serious matter. He would have liked to have heard what the right hon. gentleman would have said if the offence had been committed by some member on that side of the House. This was a deliberate flouting of the authority of Parliament by the Minister of Railways and Harbours.</p>
+
+<p>Why had the mistake arisen at all? It had arisen because an estimate was put before them last session for the construction of railways which was altogether wrong and which those who put it forward must have known was wrong. It was an estimate practically for new works for railways which was divided into two parts, the first part providing for the finishing of railways then under construction, and the second for work on new railways authorised during last session. Now, the railways which were under construction, or a considerable number of them, were railways on which money had been spent without any Parliamentary authority, not by vote of Parliament, but under the Governor-General&#x2019;s warrants under the South Africa Act. When the Minister came to Parliament he asked for money to build these railways; he asked for &#x00A3;1,200,000 to finish <span class="col_2101-2102" refersTo="page_1057"/>the railways which were then under construction. At that time he must have known, or ought to have known, that nearly the whole of that amount had already been spent on those railways. He (Mr. Duncan) asked the House to consider whether that was a sort of estimate that ought to be put before that House. The Railway Board knew nothing about this. What came from them was an estimate to cover both in one lump sum. Somebody divided this amount of &#x00A3;2,400,000 into two equal sums of &#x00A3;1,200,000 each and put it before Parliament in that form. The omission which occurred was not discovered by the Assistant Auditor-General as soon as it ought to have been. It was discovered towards the end of last year, and the attention of the Department and the Minister was called to it.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>When?</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>In January of this year. Proceeding, he said that, notwithstanding that, the Minister came to the House with a Bill put forward on the basis of these (amounts of &#x00A3;1,200,000, being not separate sums, but sums in one lump. The Minister had come forward with a Bill based upon the assumption that he could apply this money to make good other expenditure, without reference to the fact that he had already been told that under the Jaw he could not do so. Long before the Bill came into Parliament the Minister knew that the Bill was constructed on a wrong basis. Necessary reports had been kept over and legislative measures designed for the furtherance of Government business were absolutely set aside. It was not a mere technical omission or mistake. It was an attempt to cover up and rectify an estimate that never should have been brought up.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said he was astonished at the attitude taken up by the right hon. gentleman, the member for Victoria West. He remembered his attitude towards the Exchequer and Audit Act, which prevented the Government taking money from one vote and devoting it to another. If that was the method of Government, what was the use of passing legislation at all? Proceeding, the hon. member said he would like to call attention to a recommendation of the Public Accounts Committee that the members of the Prisons Board should be asked to give their services free. This was not a right principle, and they should not rely upon gratuitous services.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>*Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said on February 27 a motion was tabled by the Minister for leave to introduce a Bill applying a certain sum of money for services in 1910-11. Leave was granted, and the second reading took place on March 1. It was decided, after discussion, that the order be discharged, and the matter sent to the Public Accounts Committee, with leave to bring up an amended Bill. This no doubt led largely to the debate now before the House. Before the Minister had, however, pleaded guilty or not guilty, his &#x201C;fidus achates,&#x201D; the right hon. member for Victoria West, got up and made an apology for him. He (Mr. Nathan) simply wanted to reduce the matter to a simple issue, and that was to bring to the notice of the House that the Minister had deliberately gone behind the law. By Act 8 of 1910, they placed, with other moneys, in the Minister&#x2019;s hands a sum of &#x00A3;59,147.for the purchase of real estate, and a further sum of &#x00A3;10,542 for a similar purpose. Section 2 of the Bill definitely laid down that these moneys were not to be used for any other services except those specially granted by the Act. The money was to be spent simply for acquiring real estate, but none had been acquired. He had charged the Minister before with diverting sums of money from the purpose for which they had been voted. An opportunity still lay before the Minister of explaining what he did with this money, and how he had used it. As far as he could make out, the Minister had taken this money and diverted it for railway purposes, of course, but not for the purpose voted by Parliament. He hoped the Minister would explain how he went outside the law in this, because the least one could expect from the Minister was that they should scrupulously conform with the Acts of Parliament.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said he had been charged with building a broad-gauge line when only a narrow-gauge one had been authorised by the Cape Parliament. That was an old story, but very much worse crimes had been committed by his hon. friend opposite. As to going behind the law, that was not a thing he would deliberately do. He was very sorry that he should be the Minister in whose department there should have been a large expenditure of money without Parliamentary authority. He rather prided himself on insisting that they should have Parliamentary authority before money was spent. He had practised that ever since he had been a Minister. He had been very strict on that point, and would never incur expenditure unless it was authorised by Parliament, except that it was so very urgent that it was necessary to do so in the public interest&#x2014;say, in the case of a bridge becoming unsafe. Except in such circumstances, he would not incur expenditure not authorised by Parliament. He would go into the details of the expenditure beyond what was authorised, because there were other persons connected with the railway administration, and he did not want to shield himself, but never did he authorise the expenditure of money either as chairman or as a member of the Railway Board, or as Minister, unless he believed or often asked whether there was Parliamentary authority for it. He had given definite instructions that no money was to be spent unless <span class="col_2103-2104" refersTo="page_1058"/>there was Parliamentary authority, except under such circumstances as he had mentioned. As was apparently known&#x2014;not from any information given by himself&#x2014;this information came to his knowledge only in January. The reason that the great bulk of the amount was spent in excess of Parliament authority arose from one simple cause. Parliament authorised a certain sum of money for the construction of railways commenced before Union, and another amount for the building of railways commenced since Union, these amounts to be kept separate. Now, previously, at the Cape and everywhere else in the Union, they never separated the accounts as they did now. If was found so inconvenient to continue the rule put in force last session that the Railway Board had written a minute to the Public Accounts Committee on the subject.</p>
+
+<p>It would be obvious that it was an impossible position. However, the mistake arose when the two matters he had mentioned were lumped together, and from that they proceeded as if the sums could be used for either set of lines. On one vote there would have been no excess. When the matter came to his notice, he took what steps he could. What the hon. member for Fordsburg (Mr. Duncan) had said on this point was quite true. When the Estimates were made up, a considerable amount had been spent, and he (Mr. Sauer) regretted it very much, but the people who, perhaps, were more primarily responsible than himself, did not know that. He made the most stringent inquiries, and communicated with the Assistant Auditor-General; those people who ought to have advised the Board had not done so, taking the view that the amount voted for the two separate lines could be spent on either of them. With the change from the four colonies to Union, it was impossible to get accounts from the different departments, owing to the men being in different places, and sometimes there was a want of authority. At length, in sheer desperation, the Board appointed a financial secretary. It was a fact that the Railway Board could not get returns showing the expenditure, owing to the circumstance of Union. In the next place, he regretted that the hon. member for Fordsburg should have said that he (Mr. Sauer) had flouted Parliament. There was no intention to slight Parliament. He had seen all those who were responsible, and they regretted it exceedingly, but they had explained the reasons. And there was a great difference between doing a thing intentionally and unintentionally, and when, owing to circumstances, it was only a technical error. The railway and the financial persons could not get all the information they wanted: but there was never any intention to slight Parliament. Hon. members should bear in mind that, after all, this money was only spent on works already authorised by Parliament.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>By which Parliament?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>By this Parliament. All these works were approved.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>You included some and left out the others.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>All these works were authorised by Parliament. I do not say we proceeded with all the lines authorised before Union. Continuing, he said that they had only spent a little more than was authorised on one of them. He still said that in a large measure it was a technical error. They had spent more than Parliament authorised for the financial year on lines authorised. He had never concealed that. The moment he heard of it he came down to Parliament with a Bill. The hon. member said that the manner in which he approached Parliament then was an offence. If Parliament had wished they could have repealed the section in the Act of last year.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>It would not have known that it was doing so.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I would have explained it. (Laughter.) How could the hon. member say that? Surely every hon. member knew what the Act of last year contained. If the hon. member had read the schedule to the Bill he would have seen the explanation. So there was no attempt at concealment. He was rather surprised that the hon. member for Fordsburg should take exception to this. He could quite understand that his hon. friends opposite were both to miss an opportunity for an attack, and he would be the very last to complain on that score. Still, on an occasion like this, where there was no intention to go behind Parliament, where the public interest had not suffered in the slightest, where&#x2014;he would not repeat what the hon. member for Cape Town had said to him&#x2014;there had been no intention to invade the rights of Parliament, and considering the special circumstances under which Parliament worked, at the highest possible pressure, he thought there was much to be said for them. They were not immediately made aware of the fact that they were spending more money than Parliament authorised. He would not flout Parliament if he could. He had too great a respect and affection for Parliament. He did not go behind the back of Parliament, and would not go behind its back, and he had never spent anything without coming to Parliament and asking for it. That was the best policy and the proper policy for a Minister to follow.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he did not hold that the Minister had intentionally and deliberately flouted Parliament. That was not what his hon. friend had intended to convey. Of course it was the effect of what had happened. The Minister was not right in saying that the <span class="col_2105-2106" refersTo="page_1059"/>wishes of Parliament had not been set aside because they had absolutely been set aside, and he was astounded at the manner in which the right hon. member for Victoria West had tried to smooth things down for the Minister. There had been a direct breach of the law. It was almost incredible, but it was a fact that at the time the Bill was introduced nearly the whole of the money had been spent.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>We are all guilty.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (continuing)</from>
+
+<p>said that no accounts had been published, and the Minister and his officials were the responsible parties. When the Minister brought in the Bill last year it was ridiculous on the face of it. The Government must have known that they were not going to spend over a million on new railways.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>It would have been spent if the orders had been executed.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person></from>
+
+<p>said that was not the information that had been conveyed to them in the committee. It had been conveyed to them that there had been an error in calculation. The Minister really made provision for only &#x00A3;200,000 on the whole year. Parliament had sanctioned the expenditure of moneys on a certain purpose. They were spent on quite a different purpose. There was very little difference between what had happened and the Railway Department picking out any line authorised by any Act in the old colonies and proceeding with its construction. The attitude of the Minister when he introduced the Bill was not that of asking the House to condone an offence. He simply rose and said, &#x201C;I move.&#x201D; (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>He made a speech.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person>:</from>
+
+<p>I don&#x2019;t think he made a speech beyond that. Continuing, he said there had been no reference to this particular matter.</p>
+
+<p>Continuing, he said that the House would do well to consider some of the paragraphs of the report of the Select Committee, and referred to one paragraph in which the committee stated: &#x201C;It did not appear to the committee from the evidence that any close scrutiny had been carried out by or on behalf of the Board.&#x201D;</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>They were passed.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>*Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said it seemed that a large portion of the Estimates had not been seen at all; they seemed to have been cursorily examined and then shot at the committee. It seemed that the Board offered little assistance to the House, and as &#x00A3;15,000 or &#x00A3;20,000 a year was spent on the Board, the House should consider whether it was receiving value for that money. They in that House received no reports and hardly knew of the existence of the Board. They had anticipated that the Board would consider the whole railway position in South Africa, and that estimates would be accompanied by memoranda. But they had received nothing of the sort. For all the aid Parliament received from it the Board might as well not be in existence. Its duties should have been defined by legislation, but the Minister had failed to introduce any measure.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he had always held the opinion that there had been a certain amount of slackness in the financial control. The Minister, they knew, controlled a large department, but on the other hand he had a large staff. It had struck him in the course of the debate that the man to control these things was the financial secretary, and the pity was that that official&#x2019;s duties had not been properly defined. If that official&#x2019;s duties had been defined he would prove extremely useful to the Minister, and he urged his hon. friend the Minister to take steps in that direction as soon as possible. He opposed the amendment of the hon. member for Maritzburg North, because he took it that it was a distinct reflection on the committee. That, to his mind, was simply shelving the report. His hon. friend knew very well that they had spent days and days examining witnesses and so forth, and they hoped that the report, unless serious objections were raised, would be adopted by the House. If the report were referred to the Government for consideration, the Government could do exactly as it liked. That was what they had always understood in the past. If the House adopted the recommendations of the report, they became orders upon the Government to carry out during the next twelve months.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Is that not the motion?</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I draft edit myself.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that he would move, as a further amendment, that the words &#x201C;referred to the Government for consideration&#x201D; be deleted, for the purpose of inserting &#x201C;adopted.&#x201D; The hon. member said that if the House adopted the report, something could be done within the next year; but if it went to the Government, they could simply put it on one side and do nothing.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#vosloo">
+
+<from>*Mr. <person refersTo="hansard_za">J. A. VOSLOO</person> (Somerset)</from>
+
+<p>said that he must say that he was most surprised that the hon. member for Port Elizabeth, Central (Sir E. H. Walton), had taken up that attitude, and he thought that before he had finished with him, the hon. member would agree that he was the last hon. member who ought ever to have spoken on that subject. (Laughter.) If there was one member <span class="col_2107-2108" refersTo="page_1060"/>in that House who was strongly against money being spent on purposes for which it had not been intended, it was himself; but, in that instance, the Minister had come to the House and had explained the position, and had the authority of Parliament to spend the money. There was no intention to go behind the back of Parliament, and the Minister had come with an open case. What had happened, however, during the time when the hon. member for Port Elizabeth, Central, was in power? He used to spend money right and left without asking Parliament, or giving them an explanation in any shape or form. A sum of &#x00A3;400,000 had been voted in the Cape Parliament for agricultural purposes, and in 1905 it was found that &#x00A3;170,000 had been lent for irrigation purposes, but of the other &#x00A3;230,000 the hon. member could give no account. (Ministerial laughter.) He had never done so. Farmers had applied for loans for irrigation purposes, and his reply had been, &#x201C;There is no money.&#x201D; (Laughter.) They had 107 hon. members in the House at that time, and even they could not control the hon. member for Port Elizabeth, Central. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>said that last session they had only one report of the Public Accounts Committee, and they adopted it; and he could not understand why it was now moved that the report should simply be referred to the Government. He was in agreement with the hon. member for Cape Town, Central (Mr. Jagger), on that point. He hoped that his amendment would be carried. He drew attention to recommendations 5 and 14 of the report, and thought these matters should receive attention, so that the paralysis which had fallen on the country with regard to education should be remedied.</p>
+
+<p>Business was suspended at 6 p.m.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#evening_sitting">
+
+<heading>EVENING SITTING.</heading>
+
+<p>Business was resumed at 8 p.m.</p>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage),</from>
+
+<p>continuing his speech, said that when business was suspended he was pointing out the difficulties which arose in practice in consequence of the uncertainty as to the position of education. That difficulty was being felt very much in the country, and he thought it behaved that House and the country to study paragraph 14 of the first report of the Select Committee. That paragraph meant that they were altogether breaking the Act of Union as far as this was concerned, or, at any rate, assuming to themselves functions which the Act of Union enabled the Provincial Councils to deal with. It did appear to him that it was most unsatisfactory and very desirable that it should be put upon a proper basis. This matter was being felt as a serious matter by those who were concerned with the work of education outside the House. He would suggest that it would be an excellent thing if the Minister of Education would give some assurance in this matter, either that it was being accepted by the Provincial Councils as well as by the Government, or else that legislation was going to be introduced so as to put the matter on a legal basis.</p>
+
+<p>With regard to the Railway Bill, he (Mr. Fremantle) was not an out-and-out defender of his hon. friend (Mr. Sauer), who, as the right hon. gentleman (Mr. Merriman) had said, was well able to take care of himself. The Act was perfectly plain. That the Act had been broken was beyond doubt. It appeared to him quite clear that the leader of the Opposition had not read the Act yet, because he did not seem to know that what the Minister of Railways said was correct, viz., that all the purposes for which this money had been spent had been authorised by Parliament.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands):</from>
+
+<p>That is not the point.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>I venture to say that it is a good part of the point, that my hon. friend, at any rate, did not devote the money to any objects which had not been authorised by the House, and, what is more, the objects to which my hon. friend devoted the money were not only authorised by the House, but were authorised by this very Act. Proceeding, he said that the difficulty that had arisen was certainly due to this &#x201C;new start&#x201D; which had been made by the Minister of Finance and the Government generally, as to which he was not able to agree with the right hon. the member for Victoria West, who said that he thought it was a great mistake; but, whether it was a mistake or not, at any rate, a change was made which was in the direction of giving this House a larger and firmer control over the finances of the country. The charge made was that, whereas in the Cape, Parliament merely sanctioned borrowing, and left it to the Government to decide what loan works to proceed with, now Parliament not only sanctioned the works but prescribed each year what work was to be done, so that they could not have what they had at the Cape&#x2014;large sums authorised for irrigation, and yet no money available for the purpose.</p>
+
+<p>Another point was that this Bill was a peculiar Bill. He did not think that attention had been drawn to the fact that it covered a period of two years, 1910-1912. Although his remarks had been received with some derision, he still ventured to say that the House shared some responsibility with the Government. The House ought to know the meaning of the Bills that it passed, and it ought to have ascertained how much money had been spent already, and how much it was authorising for <span class="col_2109-2110" refersTo="page_1061"/>the future. If the House did not seek to know the meaning of the Bills, then it was its own fault, and especially the fault of the Opposition. (Laughter.) Hon. members opposite laughed in an indulgent way at their own sins, but how often did they make a great ado about the peccadilloes of hon. members on his side of the House. Certainly the House ought to have shown more interest in Bills of this kind, and it was a warning to the House that it ought not to allow a proportion of the Bills to go through without diligent scrutiny. There was another point, which was a much more serious matter. It was a very lamentable point that this matter had for a long time escaped the attention of the Auditor-General and the Assistant Auditor-General. However severely they might blame the Government for not having attended to this matter, it was a matter which should have been brought out by the Auditor-General or the Assistant Auditor-General. The Assistant Auditor-General reported in January this year, and there was a covering report from the Auditor-General, but no attention had been drawn to the matter at all. It was an unfortunate thing that these officers did not call attention to it. Yet everyone admitted that they were most competent officers. It was only fair to regard the case of the Government in the same light. Proceeding, the hon. member said he wished to return to the point at which he began. He wanted to support his hon. friend opposite, and he hoped the Government would say that this report would be carefully considered, and a decision taken by the House. He had voted for all the items.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>So did the Minister of Finance.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>*Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>(continuing) said he was unable to trust his memory upon that point. One of the reports was signed by the Minister of Finance, but his signature did not signify. (Laughter.) Were hon. members so ignorant that they did not know that the signature of the chairman did not matter, because it had nothing to do with whether he agreed with the report or not? If the Government wished to dissent from the committee upon one of these points, he would be glad to hear what they had to say. He would like to say also that the bulk of the recommendations they were asked to sanction at the present time simply amounted to this: that they called for further information, so that the House might know what exactly was being done in regard to the financing of the country&#x2019;s work. Ten or fifteen of the recommendations merely called for information. A mandate should be given by the House so that Government should know what the desire of Parliament was. He hoped Government would, without delay, say exactly what it desired in this matter. Unless further light was thrown on the matter by Government he would consider it his duty as a member of Parliament to vote for the amendment of the hon. member for Cane Town (Mr. Jagger). (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>*Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville)</from>
+
+<p>said the hon. member for Uitenhage (Mr. Fremantle) had told them that it did not signify in the least whether the chairman signed the report or not. He (Sir Lionel) could quite understand that because the hon. member was accustomed to signing more than one report. (Laughter.)</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage):</from>
+
+<p>Don&#x2019;t you understand the rules?</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>*Sir <person refersTo="hansard_za">L. PHILLIPS</person> (proceeding)</from>
+
+<p>said the hon. member for Uitenhage had also told them that they were inquisitive at the wrong moment, but would they ever be inquisitive at the moment he thought they ought to be? He (Sir Lionel) had a good deal of sympathy with the Minister of Railways that afternoon&#x2014;the champion of Parliamentary practices&#x2014;who had acknowledged with fitting humility that a grave fault had been committed by the Department under his control. Last year, when the question of appointing an auditor for the railways was before the House, the Opposition opposed that appointment, and he believed that if the Opposition&#x2019;s recommendations had been accepted and the control of railway accounts had been left under the Auditor-General, they would not have had the mess the Minister had to acknowledge that afternoon. It was an astounding thing that the special auditor appointed for the railways should have allowed this expenditure without drawing attention to the fact. They had an acknowledgment that money had been spent in excess of the Estimates. What a lurid picture would have been drawn if there had been an investigation by Government into the working of a private company, and it had been found that large sums of money had been spent for purposes different from what they had been voted for. Last year, when me Opposition suggested that the control of the railway accounts should be left to the Auditor-General they had the right hon. member for Victoria West (Mr. Merriman) with them, but he (Sir Lionel) could not help thinking that the right hon. gentleman had since become a convert to managing the affairs in an entirely different way. Proceeding, Sir Lionel said the Railway Board should be made a real living force. At present it was nothing but a dummy, and the Minister kept it so, because it would be more convenient to have the control in his own hands. It was only on occasions like that that the Minister was found out. He (Sir Lionel) hoped the House would take it to heart, because it was simply another argument in favour of having a strong Railway Board which would report direct to Parliament on all important matters. If they had access to the minutes of the Board he had no doubt that light would be thrown on the subject before the House.</p>
+
+<p>He would draw attention to one or two points in connection with the report. The <span class="col_2111-2112" refersTo="page_1062"/>committee recommended that in future the departmental reports on agricultural education should be issued in the month of September. It was evident that a great deal of information that the Public Accounts Committee ought to have at its disposal was not available. Reverting to the Board, he said the committee pointed out that various Commissioners were receiving not only pay but allowances. He understood that it was within the power of those who granted allowances to take them away. They had these allowances at the will of the Governor-General, as expressed by the Minister of Railways</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Parliament.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>*Sir <person refersTo="hansard_za">L. PHILLIPS</person>:</from>
+
+<p>Parliament does not settle allowances.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>It votes them.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>*Sir <person refersTo="hansard_za">L. PHILLIPS</person>:</from>
+
+<p>When the Estimates come up next year we may have something to say. In the meantime there was nothing to prevent the Minister depriving the Commissioners of the allowances. Then the committee seemed to question whether a financial secretary was required. They said: &#x201C;If such an official is required, his position should be clearly defined, and he should be able to exercise a close control on the finances of the administration.&#x201D; It was obvious that hitherto he had not exercised the control one expected of such an official. The railway administration was a gigantic concern, and extremely difficult to control. It would tax the energies and resources of the most capable person in the world. Even such a person, unless he was supported by able officials, would not be able to do what was required. He thought that the Minister would realise that it was absolutely necessary to have an independent body as between himself and the actual work which was undertaken by the controlling body. It certainly would be more satisfactory to Parliament and to the country at large. In regard to the Renewals Fund, he noticed that no estimates of expenditure had been given to the committee. Surely, as the committee said, this was opening the door to the most terrific extravagance. It was quite obvious, from the amount of attention which the Select Committee had found it necessary to devote to the railway service, that things were by no means right in that connection. When the Minister of Railways, who was the champion of Parliamentary control, had to acknowledge such grave faults as he had pleaded guilty to, what might not be going on in regard to the other Ministers who were not so imbued with that regard for Parliamentary control. He asked the Minister to place before the committee particulars of his railway construction programme. He questioned whether they would have a Bill until the Last day of the session, and the more light that was thrown on the subject before then the better. He associated himself with the proposals of the hon. member for Cape Town, Central, and hoped that the House would accept his suggestions.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>*Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>regretted that his hon. friend the Minister of Railways had occupied what was for him the unusual position of the boy being birched. (Laughter.) He would say no more on that subject except to reiterate what he said before, that a great distinction ought to be drawn between spending money not authorised by Parliament, not contemplated by Parliament, and spending money in a way not provided in the Act. Technically, he admitted, the money had been wrongly spent. A culpable mistake was made in seeing that the money was not properly divided. The point he wished to make was that there was no Treasurer in his acquaintance, including himself, who had ever given the House an opportunity of discussing, as they were doing, the reports of the Public Accounts Committee. (Hear, hear.) That discussion would show the utility of this procedure, if it were only in awakening interest in the administration of the country. That was their great duty, not to pass laws. Heaven knew they had laws enough on the Statute-book! He hoped that the Treasurer would agree to the amendment of the hon. member for Cape Town, Central. It was the usual course adopted in these matters. A new start, of which he thoroughly approved, was that the Financial Secretary to the Treasury presented to the Public Accounts Committee, on the first day they met, a list of the resolutions taken by the committee, and the action taken by the Government on them. That was a most useful and most fruitful thing. He did not think that anyone could say that the Public Accounts Committee had deliberated in at all a party spirit.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that he rose to say a few words with regard to the amendments before the House, but before he did so he would like to say that he had never listened to a more ridiculous proposal than the proposal made by the hon. member for Yeoville. He had listened to many proposals in that House as to how the railways should be run, but he never heard of a more ridiculous suggestion than that the railways should be run by the Controller and Auditor-General. Did the hon. member know the functions and duties of the Controller and Auditor-General? He would recommend his hon. friend to study without loss of time the Act dealing with the functions and duties of that official.</p>
+
+</speech>
+
+<speech by="#phillips">
+
+<from>Sir <person refersTo="hansard_za">L. PHILLIPS</person> (Yeoville):</from>
+
+<p>I never said anything of the sort.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (continuing)</from>
+
+<p>said that there were two amendments <span class="col_2113-2114" refersTo="page_1063"/>before the House, and he thought that the House should consider this matter with great deliberation before it came to a decision on the point. He was glad that his right hon. friend the member for Victoria West had referred to the new practice that had been started&#x2014;the memorandum that was placed before the Public Accounts Committee by the Secretary of the Treasury. Last year the committee made some very valuable suggestions to the House. It was impossible for the House to deal effectively with these recommendations, so what happened was this: Following the practice of the United Kingdom this House decided to refer those things of a technical or administrative character to the Government for consideration. During the recess the Government considered these very important recommendations with the result that at the beginning of this session the Secretary of the Treasury placed before the Select Committee on Public Accounts the views of the Government upon the recommendations that were made. He would not be revealing any secret when he said that the committee considered this an excellent form of procedure, and thought so highly of it that it decided to publish the memorandum with its report. What he would like the House to do was to follow the practice that was started last year. Instead of binding itself down to these recommendations he would ask the House to accept the amendment of the hon. member for Pietermaritzburg North and refer those matters of a technical or administrative character to the Government for consideration. During the recess the Government would give these matters its consideration and next year, at the beginning of the session, follow the practice that was adopted this year. He did not think that the House should come to a final settlement on the first portion of the amendment. He read clause 8 of the report and said that when the House adopted a resolution it should be able to say &#x201C;Aye&#x201D; or &#x201C;No&#x201D; definitely.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Why not? I have a much higher conception of the dignity of this House. It shows you how necessary is a resolution of this kind, and I should like to see a sound principle laid down, and sorry to see the House take a resolution which did not go in that direction. Recommendation No. 8, he continued, was essentially a recommendation which should go to the Government for consideration. He happened to know, in regard to that, that there was a great deal to be said on the other side. It was a case of give and take, and it was a thing on which the Government would prepare a memorandum which would go through the Treasury to the Public Accounts Committee, which would say whether it would stand by it or not. He knew that the Railway Department did render certain services to the Forestry Department, and the whole story was not reflected in that recommendation. That was why the committee was cautious, and said that &#x201C;it was only reasonable.&#x201D; Take recommendation No. 9, which was one which the hon. member for Cape Town. Central (Mr. Jagger), wanted the House to adopt, when without making any specific recommendation, the committee were of opinion that the attention of the Department of Justice should be drawn to that item with regard to the judges&#x2019; travelling expenses. The House should say that such an allowance should be made, on such and such conditions. The committee themselves were not clear as to what the specific recommendations should be, and therefore that matter was of so important a nature that the attention of the House should be directed to it, and through the House the attention of the Government&#x2014;and in the recess the latter would consider whether some specific recommendation could be made, so that the matter could be placed on a proper footing. Having dealt with Recommendation No. 12. the Hon. the Minister said that the acceptance of No. 19 would involve the country in a very considerable sum of money&#x2014;&#x201C;provision, the recommendation stared, &#x201C;should be made for the embossing of cheques at the chief commercial centres.&#x201D; What were the chief commercial centres? Surely the House, before it accepted the recommendations&#x2014;some of the serious economists&#x2014;were going to ask what it would cost. Suppose they established one at Durban. East London, Port Elizabeth, or Ladybrand, each of which was no doubt considered a commercial centre, it would be unconstitutional. Because they wanted a message from the Governor-General first. A number of these recommendations he was in favour of, and a number could have a great deal said against their adoption. He only wished the House rather to agree with the amendment&#x2014;that these particular points should be referred to the Government for consideration, and next year they could be dealt with in the manner so highly approved of by the right hon. member for Victoria West (Mr. Merriman).</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that he must say that the multitude of reasons given by the Minister of Finance for the rejection of his own report must be overwhelming, and the final one seemed the most conclusive&#x2014;a sporting chance to his colleague, the Minister of Railways and Harbours. He (Mr. Hull) had really behaved in a most sporting manner to the Minister. He was a year ahead of the Minister of Railways, and the procedure adopted by the Minister had not been adopted by the Railway Department, and there was not a shadow of approach to it.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>That&#x2019;s been standing over.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>went on to say that that day the Minister of <span class="col_2115-2116" refersTo="page_1064"/>Railways and Harbours had for the second time put on the garb of the penitent. In his first explanation the other day, the Minister had said that he would not flout Parliament, and now he had been charged again with flouting Parliament. When his hon. friend had asked the Minister to be present when they were discussing the Railway and Harbour Estimates&#x2014;it was because he had been told that he had twice to be sent for, and would not come. They had pressed consistently and insistently for the recommendation of the status of the Board and some business-like statement before the House, to enable them to understand what the proposals were in connection with the railways. They only got these Estimates last year, as &#x201C;Hansard&#x201D; showed, on April 22, and the session was over on the 25th.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person> (interposing)</from>
+
+<p>pointed out that they were not dealing with the Estimates for new railways now, but the third report of the Select Committee on Public Accounts.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>quoted as follows from the report: &#x201C;It was put in evidence by the financial secretary of the Board that the Estimates presented were those approved by the Board. It did not appear to your committee, however, from the evidence of that official, that any close scrutiny of those Estimates in detail had been carried out by or on behalf of the Board.&#x201D;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said that they were not now dealing with expenditure on new railways.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that he wished to refer to the manner in which the Estimates had been submitted, as criticised by the Public Accounts Committee. He did not think that the occurrences of last session upon this particular matter were what could be called old history, and he would like to remind the Minister of Finance, the right hon. the member for Victoria West, and the Minister of Railways of what took place in connection with another matter, viz., in regard to the Union Buildings. He would commend to hon. members a study of column 923 of &#x201C;Hansard&#x201D; for last session, to find out the principle underlying this. The principle then upheld by the right hon. the member for Victoria West was the principle they believed in, and which some of them supported to their cost last session. They had been asked why they did not find out these things last year, but he would point in reply that they did refer to them. He asked the Minister of Railways where he got this money to build these lines? He asked why the Minister of Railways revived old Cape authorisations, and acted upon them?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>was understood to say that he did not begin a single line which had not been authorised by the Cape Government, so that the hon. member was quite wrong.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>As it happens, the Minister, if, instead of pretending to be bored, will listen to me, he will find out that that is exactly what I said: that the old Cape Government authorised a certain number of lines, and did not provide the money, and where they raised the money they spent it, as they had a right to do, upon other matters, under the Cape Act. It is not so under Union.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I did not revive any Acts.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>*Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>said that a liability of over a million had been incurred, when they had only about &#x00A3;300,000 available. In the Act which authorised the expenditure of &#x00A3;2,500,000, one and a quarter million was set down for one purpose, and one and a quarter million for another, and it was laid down there clearly that the money voted for one was not to be devoted to the other, and it was so devoted in defiance of the law. What defence was there for the position? If it were a venial offence to have diverted, not to have spent more money than was authorised, but to have diverted from one head to another, would the Minister tell them why under two heads at all? He thought that if the Minister would concentrate his attention upon these points, and let them have his answer now, instead of merely giving chaffing comments, that would be a common-sense proceeding. What was the policy; what was the machinery? They had asked for these repeatedly. It was idle to tell them there was no report. There ought to have been a report. It was promised at the end of last session in a moment of repentance&#x2014;no, he would not say repentance&#x2014;in a moment of discretion. (Laughter, and &#x201C;Hear, hear.&#x201D;) He did not know how this was being settled. Nobody knew how the Estimates were being determined. They had it laid upon the table only a very short time before they were asked to vote for millions. Here they had a capital account of &#x00A3;80,000,000 and a revenue of &#x00A3;12,000,000. and not a soul in the country besides the Minister knew where they were going, why they were going, and what was to be the end of it.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. JUTA</person> (Cape Town, Harbour)</from>
+
+<p>said he thought it would be best if the Minister of Finance had listened to what his colleague had said before setting up a ridiculous dummy, merely to have the pleasure of knocking it down. Last year they tried to get the audit of the railways under the control of the Auditor-General, now the Minister claimed that if there had been one audit, this would never have happened. The Minister of Finance had pointed out four reasons why they should send the report back for further consideration. The first he took was number 8. This recommendation stated simply that the Forest Department was in charge of <span class="col_2117-2118" refersTo="page_1065"/>the railway sleeper plantations and did the clerical work free of charge, and the committee said it would seem only reasonable that the expenses which the Forestry Department were put to for the Railway Department should be charged to the latter; but that was no reason why they should not adopt the report. Another reason was the clause with reference to the expenses of Judges on circuit. Now, it was quite a usual thing for the House to express its opinion. They could always see that the attention of the Department of Justice was directed to this, and they could say that these matters would be taken into consideration with a view to co-ordination and reduction, but he could not understand the Minister when he stated that they should lay down something definite. They could not lay down how much one judge should spend and how much another, but that again was no reason why they should not adopt the report. Then they came to Number 3, which recommended that persons invited to serve on the Prisons Board should give their services free. That was a matter of opinion and the House could express an opinion upon the point, but that was no reason why the whole of the report should be sent back because they did not agree with one item. The last reason given was the recommendation with regard to embossing That was a matter f or the Ministry.</p>
+
+<p>There was one matter in which he would like to follow the hon. member for Uitenhage (Mr. Fremantle)&#x2014;although it did not often happen&#x2014;but on the meaning of higher education he was entirely at one with the hon. member. As far as he (Sir Henry) could gather the term higher education was not known in the Transvaal, or certainly was not known there when the Act of Union was passed; it was not known in Natal, and he believed that it was not known in the Free State. But it was a term which was very well known in the Cape. Therefore there was every reason for holding that the expression as taken from the Cape. There was no doubt that the Minister was trespassing entirely on the province of the Provincial Councils as laid down in the Act of Union. The term &#x201C;higher education&#x201D; was to be found in Act No. 13 of 1865 of the Cape, under which schools of the first class were deemed to be those in which they had higher education. The Cape Act No. 24 of 1874&#x2014;by which date the Cape University had been established&#x2014;referred to &#x201C;sums of money granted by Parliament for the purpose of higher and professional education.&#x201D; It was quite clear from that Act that what was aimed at then by higher education was studies in literature, science, law, and medicine, with a view to passing examinations prescribed by the University. (Hear, hear.) He knew of only one meaning of the expression higher education, and it certainly did not include what the Committee on Public Accounts pointed out Government wished to include. By higher education they never meant ordinary school education&#x2014;(hear, hear)&#x2014;but education which led to examinations prescribed by the University. Evidently with a view to depriving the Provincial Councils of a good deal of what the Act of Union gave them, the Union Government not only took higher education, but mining education, and agricultural education, and education provided by any department administered by a Minister of the Union. An understanding on this question was of much more importance than many of the consolidating Bills brought before the House. At present there was hopeless confusion and chaos. It had the effect of hampering education, and no one wanted that.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that the hon. member for Uitenhage had rightly remarked that there was no definition of &#x201C;higher education,&#x201D; and the hon. member for Cape Town, Harbour, had quoted old Cape statutes to get a definition. He did not understand how he could wish to apply the Cape definition to the Union when, as he had said, there was little or no higher education in the other colonies. Further, the meaning of the term &#x201C;higher education&#x201D; had undergone a considerable change even in the Cape. Matriculation classes had been relegated to the high school only within the last twelve years. There were two ways of arriving at some idea as to what the meaning was. The one was the introduction of a Bill to define the term, and the other an agreement with the Provincial Councils. The latter means had been adopted. There was no question about agricultural education. If the report of the Civil Service Commission was to be carried out and the agricultural schools to be used as the eyes of the Agricultural Department, it went without saying that it was impossible to divorce them from the Union administration. It was the same in regard to technical education carried on in connection with the different departments. Two subjects had not been quite clear up to recently. One was where to draw the line in regard to the training of teachers, and what had to be done in regard to technical schools, but on both these points the Government had come to an agreement at the conference with the administrators and executive committees. The technical schools, pure and simple, would go to the Provinces. The Union Government would be asked to appoint an Advisory Board, on which there would be the four Directors of Education, and representatives of industry, commerce, and the manufacturers. He did not think it would serve the purpose better to bring in a Bill now to define higher education when they had settled the matter by arrangement.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>asked whether it would be in order for the House <span class="col_2119-2120" refersTo="page_1066"/>to adopt a report that recommended the expenditure of public money?</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is quite in order.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person></from>
+
+<p>said that there was then no force in the arguments used by the Minister of Finance. He was unable to support recommendation No. 12: &#x201C;Your committee recommend that persons invited to serve on prison boards should render their services gratuitously.&#x201D; He thought he detected the economic finger of the hon. member for Cape Town, Central. He could not agree to the principle that men should be asked to give up their time to perform public service gratuitously.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>*Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said that they were never quite sure whether the hon. member for Uitenhage was representing the Government or not, and he was not quite sure of his capacity that evening. At any irate, he made a charge against his (the speaker&#x2019;s) side of the House that they were jointly responsible with the Government for things that happened at the end of last session. That was the gage which was thrown down, and one which he did not understand. Continuing, he proceeded to refer to measures that were brought before the House towards the end of last session, and which were rushed through the House, and said that it was ridiculous to throw the responsibility for that procedure upon the Opposition. He went on to say that he was one of those who had looked upon the right hon. the member for Victoria West and the Minister of Railways and Harbours as defenders of Parliamentary traditions. Referring to the attitude of the right hon. member for Victoria West last year when a question concerning the unauthorised expenditure of money was brought before the House, he said that to his (the speaker&#x2019;s) utter surprise, the right hon. gentleman took a totally different view that afternoon, and said that of course the Minister acted without intent and, of course, it was just a little thing. He might say that his (the speaker&#x2019;s) Parliamentary education, which he had been receiving at the hands of the right hon. gentleman, had received a set-back. The hon. member alluded to the booking fee which had sometimes to be paid by railway passengers, and said that on that occasion the Minister could not complain if he, too, had to pay a &#x201C;booking fee&#x201D; for what he had done&#x2014;flouting Parliament.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>expressed regret to the hon. member for Fort Beaufort (Sir T. W. Smartt) for having risen to a point of order while the hon. member was speaking, but he had thought that the amendment should be disposed of before they considered any of the clauses. He seconded the appeal of the Minister of Finance not to take a step that year which would perhaps bind them for all time in the House. What they ought to do was to find some machinery for considering such reports clause by clause in committee of the whole House, which would then bring up a report to the whole House. He would earnestly appeal to the hon. member for Cape Town, Central (Mr. Jagger), in the best interests of the work of Parliament, and in the best interests of the consideration of matters brought forward in the House by the Public Accounts Committee, to withdraw his amendment. (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person> (Dr. Watkins)</from>
+
+<p>had said that the matter had been discovered by the Public Accounts Committee, and that on that account the Minister deserved to pay the booking fee.&#x201D; The hon. member was entirely wrong. The Bill which he introduced had been referred to the Public Accounts Committee. The hon. member for Pretoria East (Sir J. P. Fitzpatrick) had been good enough to tell him that the method in which he addressed the House was not satisfactory, and he gathered that the way in which he should address the House was in the hon. member&#x2019;s manner&#x2014;but he thought he would fail in that. (A laugh.) Proceeding, he said that no line of railway constructed since Union or since he had become a Minister of the Union Government had not been authorised by the Union Parliament or by one or other of the Colonial Parliaments prior to Union. It was said that he appeared in a white sheet&#x2014;he did not care whether that was said or not&#x2014;but he wanted to draw the attention of the House to one matter: whatever blame there was must be shared by both the Board and himself; and he had not heard a single word said about the Board&#x2019;s position in the matter. That brought to his mind that there was one of two alternatives&#x2014;either it was a purely party matter, or otherwise it showed that however large the Board&#x2019;s powers might be, the Minister would eventually have to bear the brunt. (Ministerial cheers.) The Board had just as much to do with the matter as he had.</p>
+
+</speech>
+
+<speech by="#duncan">
+
+<from>Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg):</from>
+
+<p>Did they make the estimate?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Well, they made the estimate as much as I did. The question was not the estimate. The question was the excessive expenditure, and in that the Board is just as responsible as myself. I only want to point out that this debate has shown that with a Board, whatever powers and authority you give it, the responsibility will eventually rest with the Minister.</p>
+
+<p>Proceeding, he said that, as to the amendment of the hon. member for Cape Town, he had always been in favour of the Public Accounts Committee, and he thought it was a very useful committee, but he should be sorry if Parliament were to take a step at the instance of the Public Accounts Committee which would be prejudicial to the public interest, and react upon the Public Accounts Committee itself. He had looked up the practice in England <span class="col_2121-2122" refersTo="page_1067"/>in the text-books, and, as far as he could find, it was perfectly clear that in England they did not do more than report. The House of Commons, he thought, had always held that they must separate administration from the Parliament. Here, if they adopted this report, Parliament made itself responsible, and directly approved of certain Executive actions.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>We have gone a step further than that.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>I am talking of what they do in the House of Commons. In the House of Commons they do not go as far as we do. We have gone a step further.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>They never had a Budget Committee.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>But whether it be a Budget Committee or a Public Accounts Committee, the encroachments upon the functions of the Executive remains exactly the same. Proceeding, he said that they asked that Parliament should pass these recommendations of the committee. He cited the following recommendation: &#x201C;The whole question of the duties of the Board and of the highly-paid staff attached to them is one which should be defined by legislation.&#x201D; Such a resolution to be given effect to, Mr. Speaker ordinarily appoints a committee to bring up a Bill. They were thus asking that Parliament should become part of the Executive. In the report were many matters which were of an executive character, and which they were now asked to give effect to. He thought if they did that, they would be encroaching upon the prerogatives of the Executive and upon matters in regard to which the committee could not have all the information which was required. He thought the proper course was to refer the reports to the Government for consideration. He would, therefore, ask the hon. member for Cape Town, Central, in the interests of all concerned, whether he would not consider the advisability of withdrawing the amendment, and leave the matter in the form moved by the hon. member for Pietermaritzburg?</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>*Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>said they felt that some of these matters should have had attention before this time, and they were just as much in the dark as they were a year or so ago. It was that feeling that something should be done that caused them to think that they should adopt these recommendations, and not wait for another year. With regard to the recommendation on the Agricultural Department, there they found that it was recommended that in future departmental reports for each financial year should be issued not later than the end of the following September. Here they were going on to the end of the session and they did not know how this Department was being run. They had no reports from the head of the Department dealing with the matter except the general statement from the Prime Minister dealing with the Department, although it was perhaps the most important department in the country. The hon. member for Uitenhage stated that the Auditor-General and the Assistant Auditor-General were guilty of a breach of duty in not having brought this matter to the notice of the Government. He had always found the Minister of Railways fair in this respect, and he said that the responsibility did not lie with these officers, but with himself and the Board. The real responsibility, of course, rested with the Minister, and not with the Auditor-General, but he could not see how he should blame the Board as well as himself, when apparently the Board did not know what their duties were. They had pressed the Government upon this point. If the Government did not organise their departments properly and did not give their officers time to do their work, that was the Government&#x2019;s fault. If the Minister wished the Board to share the responsibility with him, he ought to bring in a Bill defining the duties of the Board. There was another matter. The Minister had accused the hon. member for Pretoria East of stating that he was reviving old lines. What the hon. member said was that he had revived the authority to do certain works, and that was what the Minister actually did. The Minister declared that he had explained the whole matter, but if the Minister had something to explain, he should do it more fully than in simply saying: &#x201C;I move, Mr. Speaker.&#x201D; Owing to the course of events during the last year, they were quite entitled to ask the House to adopt the recommendations and to see that they were carried out. He felt he was quite within his rights in supporting the motion of the hon. member for Cape Town.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>*Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said he was greatly disappointed over the attitude taken up by the right hon. member for Victoria West (Mr. Merriman) in regard to the railway accounts. They all knew that the right hon. gentleman had a great personal regard for the Minister of Railways, but this was not a personal matter, but one of public interest. The right hon. member for Victoria West had lowered himself by defending a position which was indefensible. But the Minister&#x2019;s defence was infinitely better than that which had been put up by his friends. He pleaded guilty practically to misappropriating these funds, but his repentance was rather a death-bed one. He (Mr. Botha) had come there to learn how to carry on the business of the country, but if they were treated in that way by a responsible Minister, and if the Minister were backed up by another Minister of long Parliamentary experience, it must make all the younger members look with some suspicion on the conduct and methods of these old Parliamentary hands. In future, he could not accept everything he heard from these <span class="col_2123-2124" refersTo="page_1068"/>hon. gentlemen without question. He agreed with the Minister that it was not right that the Select Committee should tell Government what it should do. He did not believe in the principle of the Opposition doing work for which the Government were responsible. A committee, in making suggestions as to what Government should do went beyond its scope. He hoped that the House would reserve the right freely to criticise these reports. It was difficult to understand all the questions discussed in the report. For instance, the point in regard to the railways was not made clear. More of the evidence on which the committee based its report should be given. It was an important committee, and should therefore give more information than was now done.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that the argument in the special pleading of the Minister of Finance was that Parliament could only adopt specific instructions. Then the Minister of Railways went back to constitutional history to show the irregularity of adopting these reports. He (the speaker) had taken the trouble to look up what the past practice had been. He found that under a Government of which the Minister of Railways was a member, the hon. member for George as chairman of the Public Accounts Committee moved the adoption of its report. The report continued to say that Mr. Merriman thanked his hon. friend for the manner in which he had carried out his duties on the committee. The report was an interesting one, and dealt with various matters, many recommendations being made. So much for the extraordinary special pleading of the Minister of Railways and Harbours. Coming back to the Minister of Finance, he found that only last session they had an interesting report by the Public Accounts Committee, and it dealt with many things. Important resolutions were adopted. Notwithstanding that the Minister now told the House that it was unconstituional to accept that report&#x2014;</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Nonsense.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (continuing)</from>
+
+<p>said that if he had said there were certain resolutions which he had agreed to in the calm, judicial atmosphere of the committee room, but which he could not accept now, he could understand his argument.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Which resolutions?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person></from>
+
+<p>said that amongst other things the Minister did not wish to adopt now was that regarding the embossing of cheques. On that point the Minister would not give a direct answer to the hon. member for Cape Town, Central. Finally, he recognised that he was in the wrong. Another resolution which he did not want to accept now was that in which the committee drew attention to the absence of any well-considered scheme in regard to the co-ordination teaching, and the system whereby in one part the whole cost was borne by the Government, while in other parts a considerable part of it was derived from other sources. The Minister wanted to go back on that.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>You have no right to say that.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I can only draw my own conclusions. What other conclusion can I come to?</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>You have no right to say it.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>asked what other reasons there were? He thought the Minister was better in the calm judicial atmosphere of the committee-room than on the floor of the House. In the committee he did not fear to criticise in the strongest manner possible the action of his colleague the Minister of Railways and Harbours.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>What right have you to say that?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person>:</from>
+
+<p>I am only reading the report, nothing but their report.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>No.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (continuing)</from>
+
+<p>said that the Minister said &#x201C;No.&#x201D; He (Mr. Hull) was not in the House the whole afternoon when they were discussing the grave irregularities in his hon. friend&#x2019;s administration. If his right hon. friend did not know it, then he would learn it before the session came to a close. The Prime Minister was responsible for the acts of the Government, and if one member of his Cabinet chose to depart from what was laid down in Acts of Parliament, then he (the Prime Minister) was equally responsible as head of the Cabinet. Continuing, the hon. member pointed out that the committee regretted it was unable to make a thorough examination of the votes of the Agricultural Department, for there were no reports after the consummation of Union. In the future Parliament would not tolerate being treated in this way, and he thought the Minister of Finance would do well to accept the amendment of the hon. member for Cape Town, Central.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>said he had sat on Public Accounts Committees for fourteen years, but never before had he known of a Government refusing to accept a report. The Minister had not explained why he objected to the adoption of the report.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I gave reasons.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central):</from>
+
+<p>Well, my hon. friend was not convincing. In conclusion, he said he hoped that the Minister would reconsider his attitude.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said the hon. member for Fort Beaufort had made a remark which must not pass without notice. <span class="col_2125-2126" refersTo="page_1069"/>The speaker bore full responsibility for the acts of his Government, and would not allow himself to be disturbed by speeches such as that just delivered. He, however, objected to the words used by the Leader of the Opposition, in which the Minister of Finance was said to have attacked in Select Committee the Minister of Railways and Harbours. The hon. member for Fort Beaufort was not a member of the Select Committee, and the speaker would like to know where he got his information from.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Sir <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that it appeared out of paragraph 3 of the second report of the Select Committee.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said the hon. member had no right to make such an attack on the Minister of Finance. The leader of a party ought not to do such a thing. The Government could only agree to the amendment of the hon. member for Pietermaritzburg, North, and the speaker hoped that the hon. member for Cape Town, Central, would withdraw his amendment.</p>
+
+<p>With leave of the House, the amendment moved by Mr. Orr was put on the main question.</p>
+
+<p>Mr. Jagger&#x2019;s amendment was negatived.</p>
+
+<p>The motion was thereupon agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-04-22T22:51:00">10.51 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

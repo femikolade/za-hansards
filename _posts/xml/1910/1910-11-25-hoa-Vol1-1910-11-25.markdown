@@ -1,0 +1,821 @@
+---
+title: 'House of Assembly: Vol1 - FRIDAY NOVEMBER 25 1910'
+layout: debate
+year: 1910
+month: NOVEMBER
+month_slug: Nov
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, November 25 1910</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair and read Prayers at <recordedTime time="1910-11-25T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS</heading>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from G. Jones, a brass finisher, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from F. G. D. Ohlsson, blacksmith, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from W. Terry, brass finisher, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from G. E. Ellis, driller, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from H. A. de Melker, machinist, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from F. J. C. Schultz, labourer, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from W. G. Reed, labourer, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from J. Crawley, labourer, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from T. Foley, messenger at Government House.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from F. K. Donaldson, widow of the late D. Donaldson, Cape Town Highlanders.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from Henry Collop, late skilled labourer, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>from W. H. Dymond, carpenter, Gape Government Railways.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from W. Philipps, labourer, Cape Government Railways.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from D. P. Bromfield, engine driver, South African Railways.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from George Kenniford, fitter, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstook),</from>
+
+<p>from Charles Cave, chargeman, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from David Paterson, chargeman, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from W. W. Souter, fitter, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from G. E. Bridges, driller, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from John Walker, brass finisher, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville),</from>
+
+<p>from W. H. Taylor, teacher, Education Department.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central),</from>
+
+<p>from Maria Smuts, teacher, Education Department.</p>
+
+</speech>
+
+<speech by="#becker">
+
+<from>Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismith),</from>
+
+<p>from R. L. Williams, Gape Government Railways.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central),</from>
+
+<p>from John McGregor, late employee of the Table Bay Harbour Board.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from><span class="col_301-302" refersTo="page_0160"/>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers),</from>
+
+<p>from Lucy Spears, widow of the late J. Spears&#x2019; a pensioner.</p>
+
+</speech>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands),</from>
+
+<p>from George McGrath, late locomotive superintendent, Cape Government Railways.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#internal_arrangements_committee_the_king&#x2019;s_gifts">
+
+<heading>INTERNAL ARRANGEMENTS COMMITTEE THE KING&#x2019;S GIFTS</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>,</from>
+
+<p> as Chairman, brought up the First Report of the Select Committee on Internal Arrangements and Superintendence of Refreshment Rooms, as follows:</p>
+
+<p>First Report of the Select Committee, appointed by Orders of the House of Assembly, dated the 8th and 10th November, 1910, on Internal Arrangements and Superintendence of Refreshment Rooms, with power to confer with a Committee of the Senate, and to consist of Mr. Speaker, Messrs. Wessels, Fichardt, Neser, Colonel Crewe, Dr. Smartt, Messrs. Meyler, Quinn, The Minister of Public Works, Messrs. Krige and H. W. Sampson. Your Committee, having conferred with a Committee of the Senate, beg to report as follows: (1) With reference to the correspondence referred to them concerning the proposed presentation of a dock to the Parliament of the Union of South Africa by Mr. J. H. Overton, of Woodstock, England, your Committee regret that they are unable to recommend its acceptance; (2) with reference to the gifts graciously made to the Parliament of the Union of South Africa by His late Majesty King Edward VII, your Committee recommend that these be placed in a glass cabinet in the Houses of Parliament building in a place to be selected by Mr. President and Mr. Speaker.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>stated that unless notice of objection to the report was given at the next sitting of the House the report would be considered as adopted.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_accounts_committee">
+
+<heading>PUBLIC ACCOUNTS COMMITTEE</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>moved, seconded by Mr. VAN EERDEN: That the Select Committee on Public Accounts consist of thirteen members, and that Mr. Merriman and Dr. Smartt be members of the Committee.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#evening_sittings">
+
+<heading>EVENING SITTINGS</heading>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>moved, seconded by Mr. VAN BEDEN: That from and after Monday, the 28th instant, the House suspend business at 6 o&#x2019;clock p.m., and resume at 8 o&#x2019;clock p.m., on Mondays and Wednesdays. He moved this because the House had been sitting for three weeks without making substantial progress. If the present mode of procedure were to continue it would take a very long time before anything had been accomplished. The Government, however, was bound to submit a large number of urgent measures.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#thursdays_order_days">
+
+<heading>THURSDAYS ORDER DAYS</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>moved, seconded by Mr. VAN EEDEN: That from and after Thursday, the first proximo, Thursday be an Order Day, Government business to have precedence, such precedence, however, for the first proximo, to have effect only after notices of question and motion, already placed on the Order Paper for that day, have been disposed of.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#education_orange_free_state_laws">
+
+<heading>EDUCATION ORANGE FREE STATE LAWS</heading>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>rose amid Ministerial cheers, to continue the debate. &#x201C;Before proceeding this afternoon with the subject directly under discussion, namely, the Act of 1908,&#x201D; said the speaker, &#x201C;I just want to refer back to an incident in yesterday&#x2019;s debate, as far as I am personally concerned in my reference to a certain gentleman of previous high standing in South Africa. I wish to say this, that if there is any man desirous of keeping the tone of the debate free from any personal element, it is myself; but the hon. gentleman opposite must understand that when a point is raised, which is a serious personal imputation upon me, and in the second place a means of thereby furnishing a basis of justification for the motion before the House, I cannot do otherwise but defend myself here. (Ministerial cheers.) They certainly cannot expect me to go outside of this House to refute the statements. I want to say this, sir, whatever I said yesterday&#x2014;and unfortunately I shall have to allude to that subject, and that gentleman, this afternoon&#x2014;it must be Well understood I am prepared to say out of the House to Mr. Gunn or any man representing him.&#x201D; Continuing, the hon. member said that he wished, in going over the School Act of 1908&#x2014;after having shown the history of things which led up to the passing of that Act&#x2014;to go over the provisions of that Act as contained in the three sections 14, 15, and 16. In the first place, section 14 did not really come into the matter, but it would be necessary for him to quote it so as to show the real intention of the Legislature at the time the Act was adopted, and to see whether or not it was intended to carry out what had been suggested by hon. members on the other side. It said: &#x201C;It shall be the duty of the principal teacher of each primary or secondary public school to provide for and enforce the equal treatment as much as possible of the English and Dutch language in such school in order to ensure the proficiency of the children in each of these languages.&#x201D; He repeated &#x201C;In order to ensure the proficiency of the children in each of these languages.&#x201D; With regard to this section, he might just say that the words &#x201C;as far as possible&#x201D; were introduced for this reason. It was futile at the time, and even at this moment, to expect that this could be done at any <span class="col_303-304" refersTo="page_0161"/>school in South Africa, with the exception of very few, for the simple reason that the majority of the teachers in the schools were not competent to teach or even to speak in any degree both languages; and he might say this that in the whole of the Orange Free State there were not twelve teachers who spoke Dutch and could not speak English. But there were hundreds, and he might say this, that in every school a half, and more than a half, would be found were teachers who spoke nothing but English, and knew not a word of Dutch. It was for that reason that it was necessary that such words as &#x201C;as far as possible&#x201D; should be introduced. He now came to section 15 in the Act. This section dealt with all classes under and including Standard IV.&#x2014;from the Kindergarten to the end of Standard IV.&#x2014;and he might say that this was the section against which all the attacks had been levelled. What did that section say? It first said: &#x201C;Save and except in the teaching of any foreign language, English and Dutch shall be the sole and equal medium of instruction in every public school.&#x201D; That was in order to give the opportunity of having a foreign language like French or German taught, if the teacher could, through the medium of that language. But, then, it established the equality of the two languages. It laid down: &#x201C;Every child up to and including Standard IV. shall be instructed in every subject through the language best spoken and understood by such child.&#x201D; That was the principle of the whole law: that the English child shall be taught in English up to and including Standard IV., and the Dutch child shall be instructed in Dutch up to and including Standard IV. But now came another point: &#x201C;And the language which is not the principal medium of instruction for such child shall by gradual increase, and as much as is consistent with the age and intelligence of such child, be used and resorted to as a subsidiary medium.&#x201D; He had asked this House to remember three facts, and one was that in the whole of the Orange Free State of to-day there was not, and is not at this moment, a single unilingual-speaking class. This clause and this proviso dealt with unilingual classes, and the second dealt with mixed classes. Why was this section inserted in the clause? As stated by him the day previous there were 500 and more classes in the Free State where they bad nothing but purely Dutch-speaking children. (Ministerial applause.) The final compulsory stage for education in the Free State was at the end of the Fourth Standard. Now, from all of those children at school 70 per cent, were children who never went further than Standard IV. or V.; but an exceedingly large percentage, certainly not under 30 per cent., left school immediately the compulsory standard had been reached, and when he sat down to draft this law the first question that arose was: Are these children expected to know some English when they leave school, or not? And, in that, he might say that he agreed with his friend the hon. member for Pretoria East (Sir Percy Fitzpatrick) that it certainly was necessary, and everyone in the Free State had held to that principle that every child should know the English language. But he felt that to compel a child to learn the English language for one year only would certainly leave him at the end of the Fourth Standard not very well equipped. But they felt it was a sound principle that by gradually using either language as a medium and increasing its use to apply it in the schools, so that by beginning the child with English as a medium he would be in a position at the end of Standard IV. to learn a great deal more than it would under other circumstances. Certainly no hon. member on the other side of the House could find fault with the Dutch child. They maintained it to be an exceedingly healthy principle, and sound educationally. He bad no doubt they would. The hon. member for Germiston (Mr. Chaplin), for instance&#x2014;he was one who had held up the Transvaal Act as a model law&#x2014;must admit that the same principle he found laid down in the Transvaal law held good. In the Transvaal law the English language must be used exactly as provided in his (General Hertzog&#x2019;s) law; but with this difference, that in the Free State Act it applied equally both to English and Dutch; in the Transvaal law it applied only to English. (Hear, hear.) The principle was sound, and it had been hailed with welcome by members. He thought his hon. friend for Pretoria East (Sir Percy Fitzpatrick) had likewise expressed himself as charmed with it. (Laughter.) He (Sir Percy) asked: What about compulsion?</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>No; I said, remove the compulsion.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Right. I assure the hon. members that if they are prepared to do likewise in the other Provinces I shall use my best endeavours to please them. (Ministerial laughter and hear, hear.) Continuing, he said he was pleased, but he wished to draw the attention of the House to it. In the meanwhile, where English was not the native language it was used as the medium of instruction, and would be gradually introduced, and beyond that course prescribed up to the Fourth Standard, it would be used as the medium. But the hon. member for Pretoria East (Sir Percy Fitzpatrick) asked, what about compulsion? Not one English child in the Free State had ever been subjected to this compulsion, because no such child had existed. (Hear, hear.) There had never been a single unilingual class in the Free State, and to maintain this compulsion was simply using words without giving any basis. As he had already pointed out, the clause was included because he felt that those children should be assisted in the second language as much as possible, and the only thing that was compulsory so <span class="col_305-306" refersTo="page_0162"/>far as the English child was concerned was equality. The Free State Act enforced no compulsion on the English child. (Hear, bear.) He now came to the second section. &#x201C;Where and whenever any class is composed partly of English and partly of Dutch-speaking children, both English and Dutch are, as far as possible, to be equal mediums of instruction for such schools.&#x201D; A great deal of thunder had been levelled at that section. That which was called in the motion the compulsion of being taught through both languages, and was what the hon. member, the mover of the motion, complained of. He would ask the hon. member whether, apart from any theoretical principle that he might hold as to compulsion or no compulsion, he had for one moment considered the practical impossibility of doing without a mixed class in South Africa? He now came to the second fact which he asked to be remembered yesterday. It was this: He asked the House to remember that whereas there were over 400 schools in the Free State there were not five where the English-speaking children predominated. Let him say this before he went further, that according to the Act there was nothing to prevent the English child or the Dutch child being educated apart in different schools or in different classes, but at the time when the Act was drawn up it was never contemplated that that should be done. He had always held that no greater injury could be done to South Africa than to put the two sections of children in different camps&#x2014;(hear, hear) &#x2014;and by so doing, if not intensify, at any rate retain, the prejudices and antipathies of those children to one another. From a social point of view he had always been strongly against it, and he must say that he would always be strongly against it. He did not wish to thrust it down the throats of his English fellow South Africans, but he contended that he had the right, even when he made concessions to prejudice and sentiment, to uphold and maintain what he considered to be sound principles, and he would always hold that it would be extremely wrong to put the Dutch and English-speaking children in different camps. There was another fact to be considered. If they wanted different schools they must have different buildings, and if they wanted different classes they must have increased staff. As a Government they had to take things as they were. They had to take over the existing schools and those classes&#x2014;mixed classes&#x2014;and the question was to see that the Dutch child should have equal opportunities to learn his language, and to learn through his language, with the result that the section was laid down that, where and wherever any class was composed partly of English and partly of Dutch-speaking children, both English and Dutch should, as far as possible, be equal mediums of instruction for such schools. What did that mean? It meant that the teacher, when he taught a class, should use the English language, and should use the Dutch language according as to whether he was addressing the English or the Dutch-speaking children of the class. (Heat, hear.) The time and the method for the teacher, doing that had not been regulated by the law, but was left to the discretion of the teacher himself, and of the department. The hon. member for East London told the House yesterday that he happened to go into a school in Bloemfontein, where 40 minutes were used for the purpose of instruction through the medium of English, and 50 minutes Through the medium of Dutch. That was one method of teaching, but only one. There were other methods being applied as well. And what was the cause very often of a teacher following a certain method? It was the prejudice and the sentiment of the community amongst which he found himself. (Hear, hear.) The school to which the hon. member for East London had referred us was one of the best primary schools in the Free State. He (General Hertzog) had had the opportunity of having one of his boys educated there, and was, therefore, in a very good position to judge as to the standing of the school, and he could tell the House that although the school put the law into practice 14 days after it came into force, there had never been a single complaint from it about the Act and its working. (Cheers.) Why? How could that be so in the heart of Bloemfontein? It was because of the loyalty and the sense of the Englishmen at the head of the school. (Hear, hear.) He wished the House to understand that the mixed class was a thing they could not get away from. And let him inform the House of what occurred, when 52 of the most prominent citizens representing the English-speaking section of the Free State, met him on the very question. They wanted the very thing which, as he understood from the speeches made yesterday, hon. members sitting opposite desired, namely, that the question should be left to the discretion of the parent. He was glad to see the hon. member for East London saying, &#x201C;That is so.&#x201D; He was positive that the hon. member would admit that he had never properly regarded that side of the question. Naturally, the first question he put to the deputation&#x2014;and he now put it to the hon. member&#x2014;was, &#x201C;You want to leave it to the discretion of the parents. How many parents are to decide whether both mediums shall be used or not, or which medium shall be used?&#x201D; They naturally said, &#x201C;The majority.&#x201D; (Laughter, and cries of &#x201C;No, no.&#x201D;) Well, he wanted to point out that his answer was very simple. He said that they had five schools in the Free State where English predominated, and they had 50 or 60 other town schools where they were in the minority. Were they prepared to take the responsibility if, in those other 50 schools, the Dutch-speaking parents said that they wanted nothing but the Dutch <span class="col_307-308" refersTo="page_0163"/>medium, and one of the gentlemen jumped up, and said: &#x201C;No, I don&#x2019;t want that. I am satisfied with the law as it is.&#x201D;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>No, no.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>was understood to say that he hoped the hon. member for East London (Colonel Crewe) would, in view of what he had said, be a little more satisfied with the law.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London):</from>
+
+<p>Not one bit.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Well, sir, it only shows how strongly a prejudice becomes when once it takes root and grows into conviction. Proceeding, he said that they had to face facts. They had numbers of mixed schools all over the country. They could not get away from it. They could not establish in a small village a school for five English children, and they could not in a big English centre have a school for five Dutch-speaking children. Then what were they to do? Surely the only alternative was to have one medium. Well, taking for granted that the hon. members opposite were correct in saying that they could do away in time with the mixed, classes, and that it was advisable to get away from it, that might be a very good idea according to others to strive after, but in the Free State, when this law was introduced, it was not attained, and would not be attained until and unless Parliament voted another half-million pounds necessary for schools and buildings and to give the necessary start. Under these circumstances he submitted that there was nothing in this law to which the slightest objection could be taken. But he submitted more. He submitted that this was the only law which made the least attempt at giving equality and freedom. But the hon. member for East London (Colonel Crewe) yesterday raised what he thought to be a very serious accusation against him that he (the speaker) had said: &#x201C;Let the English children stop up their ears if they were not prepared to listen to Dutch. Yes, he did say that, and he was now going to state the circumstances under which he said it, and he might say that under the same circumstances there would be no other course for him but to say it again. What did they do? The position was this. When they had English and Dutch children sitting next to one another they objected, and said that while they spoke to the Dutch child they forced the English child to listen. (Ministerial laughter.) That was compulsory medium. (Renewed Ministerial laughter.) He asked when people reached that stage of unreasonableness, when they had before them a class composed of 12 English and 12 Dutch children, and they said they could not allow Dutch to be spoken to the Dutch children&#x2014;(Opposition cries of &#x201C;No, no,&#x201D; and Ministerial cheers)&#x2014;and they knew that there was no provision for having the English Children apart, then surely there were only two courses. The one was to send the English children out of the room whilst Dutch was being spoken, or follow the other alternative of stopping the children&#x2019;s ears. Gentlemen complained in a tone that made one believe that the effect on the English child whilst Dutch was being Spoken would vitiate their intelligence. The hon. member for Pretoria East said that that was nonsense.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Excuse me, sir, I did not say so.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I thank you. I misunderstood the hon. member. Proceeding, he said they must understand the position in the Free State as it was to-day. They had these mixed classes, and he wished to ask the hon. member for Pretoria East when he had a class consisting of two sections of English and Dutch children what was he to do?</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>Behave like a responsible Minister</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I am very sorry that hon. members get out of their tampers, and I shall leave them very severely alone. Proceeding, he said he regretted exceedingly that there were some men who at the moment that argument began to tell&#x2014; (Ministerial cheers.)</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>You asked me a question, and I answered it.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said that he would now go on to refer to that model law which was so appreciated by the hon. member for Germiston (Mr. Chaplin) and others. Let him say here that he did not wish to say anything with regard to that Act&#x2014;as a Transvaal Act. He had nothing against that. He thought that every colony had taken the best law under the circumstances. But they were dealing with the future, and with the Act under Union, and from the Union point of view; and yet they came and singled out the Orange Free State Act because of that compulsion; and he really wished to point out the inconsistency of that position. Let him take the Transvaal Act. Section 50 of that stated that the medium of instruction of the lower standards of any school, should&#x2014;and he impressed upon the &#x201C;should&#x201D;&#x2014;fee the native language of the pupil. That was undoubtedly educationally sound, but it was followed by something else: &#x201C;it shall be continued to be used for such time as may he required for the educational progress and development of the pupil &#x2026;&#x201D; A great educational authority had lately been got out from England, supported by the money of the hon. member for Pretoria East (Sir Percy Fitzpatrick), and he, who was the organiser of the private schools in the Free State, had declared that&#x2014;</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>I do not even know him.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from><span class="col_309-310" refersTo="page_0164"/>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I did not say he did.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>I never spent a penny in my life in supporting anyone&#x2014;((Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I may only say this: that I see the hon. member has promised, or given, &#x00A3;50 to support a private school in Pretoria.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>In Harrismith.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Then I am right after all, because that gentleman was the organiser of the private schools in the Free State. It does seem as if some people do not like their own actions. I am very sorry. (Laughter.) Continuing, the hon. member said that that authority had stated that his opinion was that after the third grade, or after leaving the kindergarten, the child could easily be educated in the other language. Of course, a great many did not relish that expression of opinion, and that authority had been a rather uncomfortable one for them; but he (the hon. member) quoted that there to show that that line might mean that according to the Transvaal Act the Director of Education could say in Grade 2 or Grade 3 to a child: &#x201C;You are quite sufficiently advanced now to be taught through the medium of English.&#x201D; Not through the medium of Dutch. Oh no, no! The hon. member proceeded to quote further from the Act in question as follows: &#x201C;When English is not the native language, its use as the medium of instruction shall be gradually introduced, and on the completion of the course (the Third Standard), it shall be used.&#x201D; Might foe ask the hon. member for East London (Colonel Crewe) why he had not included the Transvaal Act? That question might be rather unfair, so he would rather put it so: he would rather ask him why had he not left the Free State Act out of his motion, and introduced the Transvaal, the Cape, and the Natal Acts? Let them take the Cape law. The hon. member was understood to quote from clause (a) of the 1865 Act, to the effect that the instruction during the Ordinary school hours should be given through the medium of the English language. Clause 3 stated that the instruction during the ordinary school hours should be given through the medium of the English language.</p>
+
+</speech>
+
+<speech by="#brown">
+
+<from>Mr. <person refersTo="hansard_za">D. M. BROWN</person> (Three Rivers):</from>
+
+<p>That&#x2019;s the 1865 Act, half a century ago.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>,</from>
+
+<p>continuing, quoted from the Act in so far as it dealt with the farming population. It set forth: &#x201C;That the instruction during the school hours shall, as far as practicable, be given through the medium of the English language.&#x201D; Now he came to a later Proclamation &#x2014; in 1:882: &#x201C;So much of the school regulations contained in the schedule of the Education Act of 1865 as provides that the instruction during the ordinary school hours shall be given through the English language only, is hereby repealed.&#x201D; What was the fact? Would hon. members from the Cape Parliament for a moment consider how many subjects were given, and had ever been given, through the medium of Dutch? (Ministerial cheers.) He almost thought that the hon. member for East London (Colonel Crewe) drew that section. (Laughter.) Another sub-section of this section 15 of the Free State Act, against which all the artillery of the press and the platform had been directed, was the following: &#x201C;After Standard III., both English and Dutch shall be taught as languages to every child Now, the hon. member (Colonel Crewe) complained in his motion of the medium, he complained that the Act was in conflict with the principles of freedom and equality of opportunity, inasmuch as it compelled children to be taught through both mediums; but the hon. member did not say anything of the compulsion &#x2014;the compulsion of having to learn the other language. He (General Hertzog) could very well see what the reason was. The hon. member&#x2019;s attention had been drawn, no doubt, to a provision of an Act in the neighbouring Province, which read: &#x201C;No pupil in a public school shall be promoted from any standard to a higher standard unless he shall have acquired such a knowledge of the English language as may be reasonably expected of him, and is making satisfactory progress in a knowledge of that language.&#x201D; That section, he heard, was approved of by the hon. members opposite.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>It is approved of by the Prime Minister.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>And so do I approve of it; but have it extended to both sections of the children. (Ministerial cheers.) Proceeding, General Hertzog said that if there was any law which was against the very fundamental principles of sound education, it was a law which compelled a child to learn a foreign language in Standard I. and in the Kindergarten. There was certainly not a single educational authority of repute who would support that. Here they had it laid down that the poor Dutch child must begin in the lowest stage&#x2014;in the Kindergarten. And then it was said there was no compulsion, and the hon. member for Germiston (Mr. Chaplin) declared it was a model law for the Union.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Who introduced it? (Opposition cheers.)</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>; Who passed it (Ministerial cheers.) I have nothing to do with either the passing or the use of it. This is a law of a Province, and under the circumstances of that Province, it may have been as well justified as our law in the Free State or any other law. The question was, he continued, whether this was to be held up as a model law for the Union by earnest men trying <span class="col_311-312" refersTo="page_0165"/>for a solution. Thon there was another provision which read: &#x201C;Adequate provision for the teaching of the Dutch language shall be made in every public school, and that language shall be taught to every child in such school unless the parent of such child otherwise desires; provided that in the case of any child whose native language is not Dutch, the teaching of the Dutch language shall be taken at such time as is considered by the Director to be, on educational grounds, convenient.&#x201D; An excellent provision indeed; but according to this law there were educational principles only for the English child; the Dutch child could be taught irrespective of educational grounds. A Dutch child must learn English and pass his examination in English in the kindergarten; but the English child may not learn Dutch until he had arrived at such a stage as the Director thought suitable. And this was equality. This was the law which upheld the principles of sound education for the Union. Reverting to the Free State Act, General Hertzog said it was unanimously adopted by the English as well as the Dutch representatives in the Councils of the Free State. And not only was it adopted unanimously, but those representatives protected that they would have it so, that is, was right that it should be so; and still this was being used and was really the starting point of the agitation against the Free State Act by a few and it was gradually taken to Johannesburg, where it caught fire and was retransplanted, and then supported in the Free State. Now, the hon. member for East London (Colonel Crewe) had quoted from a speech made by Mr. Barlow. He wished to point out to the hon. member that in the Lower House of the Free State the Opposition was at one with the Government on the medium&#x2014;Mr. Barlow included. Mr. Barlow called out, &#x201C;You are giving an open door; we are at one with you.&#x201D; But Mr. Barlow&#x2019;s objection was against the English child being compelled to learn Dutch. The hon. member in his motion had made no complaint against compulsion as such. He (General Hertzog) thought that what he had done in discrediting and laying aside these evil prognostications, he only did what the hon. member for East London (Colonel Crewe) would have done bad he been in his (the speaker&#x2019;s) place. Exceptions were made to the provisions, which said that English and Dutch should be taught to every child. It had been said that the interpretation given to the exception clause by the Director of Education was against the law. He (General Hertzog) certainly did not consider that interpretation was against the law. It might be a little strained. (Opposition laughter and Ministerial cheers.) But by what right would that House have a protest entered on its records against an Act of the Free State, accepted by the unanimous consent of the British and Dutch speaking people in the Free State House? There was something more. This Act had been so interpreted, or had been put into force upon the interpretation of the Director of Education, for a considerable time past. What grievances had these hon. members? By what right did they come to that House and say, because they bad a certain interpretation of an Act, and although that Act was being interpreted in a different way and a reasonable way, they asked that House for a judgment of that Act? (Ministerial cheers.) He had never heard of anything more ridiculous. Let him say this&#x2014;he knew that there were a great many people in this country who were trying constantly to force interpretations for no other reason than to get grievances. It was easy from the first day that the Act was put into operation. He thought, as far as these Acts were concerned, so far as the Free State Act was concerned, it would be very clearly seen that the provisions therein contained were of such a nature that they certainly observed equality. There was no one provision in that Act to which any man could point which had not observed equality to the utmost. (Ministerial cheers.) Consequently, where came in the charge of it being in conflict with section 137 of the Act of Union? As far as compulsion was concerned, let him say this to hon. members, that they might speak very glibly of being against compulsion from the platform and off the platform; but they could as little do without compulsion, as they could do without education. (Ministerial cheers.) Hon. members opposite had tried to make a great deal out of what the Premier had said, but they had already begun by interpreting his words as being against compulsion to mean that there must not be, and that there never would be, compulsion&#x2014;as he (General Hertzog) had pointed out that afternoon&#x2014;in the mixed classes, and so on. It was very clear that such an interpretation could only lead to one thing and that was the greatest absurdity. They would not have compulsion! Why, they compelled the child to: go to school; they compelled him to learn arithmetic and Latin. (Ministerial cheers.) All this he could understand outside, where the majority of people usually spoke through cent; but in that House, where they were trying to come to remarkable conclusions, they were not to use those shibboleths. (Ministerial cheers.) He had now done with the Act of 1908, and came to a different one&#x2014;that was the Act of 1910, the School Act. Now, be wished to point out that the Teachers&#x2019; School and Classification Act undoubtedly was, in many respects, the logical sequence of the Act of 1908, complementing that Act. In the first place, it was felt that it was necessary that the teachers in the Free State should be better remunerated than they had been in the past. With that object in view, provisions were taken up in that Act to see that in future the teaching profession should be treated with consideration, and paid accordingly. It was the principle then, and he was only too sorry to say that it was a principle which <span class="col_313-314" refersTo="page_0166"/>obtained, he believed, in the majority of the other Provinces, that the teacher was not paid and remunerated according to his competency, and the work he did as a teacher; but he was remunerated in an arbitrary manner, according to the affection or esteem in which he was held by his inspector&#x2014;(hear, hear)&#x2014;or his Director of Education&#x2014;(Voices: &#x201C;Quite right&#x201D;) &#x2014;and in many instances according to the position or the place where he taught. (Hear, hear.) Now, in the first place, that Act tried to do away with all that favouritism; it was decided to try and do away with that gross injustice which meant that a teacher out on a farm with 40 children to teach&#x2014;four classes&#x2014;teaching five and twenty hours, got &#x00A3;120, while a teacher teaching for the same time, the same number of children at the institute at Grey College got &#x00A3;300 and more. It was a gross injustice perpetrated on the teacher and on the people outside in the country, who get only the refuse so far as teachers were concerned. But it also provided for the training of teachers. It was found necessary, undoubtedly, that if they wanted to instruct children properly in South Africa, in a satisfactory manner, the only thing they could do was to get bilingual teachers, properly equipped, and in order to do that certain provisions were inserted in that law. Other provisions were inserted, and he might here mention that a Commission, that the hon. member for East London would find very interesting, went into the question of paying the teachers according to competency. The most competent teacher for the mixed class was the bilingual teacher. Whatever men might say, they had all seen the calumny which had been heaped upon them, upon the bilingual teacher, and the South African teacher, and he would say that all these were gross falsehoods, that bilingual teachers did not deserve them, and that certainly so far as examinations were concerned, these had gone to show that they were equal, if not superior to any others in the colony. (Hear, hear.) In the first place, it was decided that teachers&#x2019; salaries should be increased. The first provision was that no teacher in the service should have his salary adversely affected by any provision of the law. (Hear, hear.) The second was that every teacher was to be graded, and that if he came into a grade which carried with it a larger salary than the one he was enjoying at the time, he was to get that salary. But there was another provision, and it was this: That the bilingual teacher, who knew both English and Dutch should have above that extra remuneration of 20 per cent., with the result that no teacher was affected so far as salary was concerned. Many, he hoped, would be beneficially affected. It was thus open to the unilingual teacher, for the moment, to learn the other language, English or Dutch So that he would be able to get the highest that was provided under the law. They had had the hon. member for East (London referring to the &#x201C;Teachers&#x2019; Gazette,&#x201D; wherein a lot had been mode about the grading of teachers. Let him say that the grading of teachers had nothing to do with the law. By that law the Board of Examiners was bound, and had to grade the teachers according to the grading provided. If this Board acted unwisely it still stood to be corrected by the Director of Education. But the Act had nothing to do with it&#x2014; nothing. But let them tell the hon. gentleman that the provision of that law, before that law was published was printed, and a copy was sent to every member of the Teachers&#x2019; Association in the Free State, and they were asked to make recommendations. And those were accepted. They even went so far as to interview him, and were most pleased with the result of the interview, and what was more, were most pleased with the Act itself. (Hear, hear.) And it also happened&#x2014;he did not know whether the hon. member for East London knew&#x2014;that they presented him with an address. (Laughter.) He had it in his hand. (An HON. MEMBER: &#x201C;We have heard all about it,&#x201D; and laughter.) He said this so that people would not be misled, and say that they did not know. (Laughter.) It so happened, he might say, that the Act as it stood met with the unanimous approval of the teaching profession of the Free State&#x2014;(hear, hear)&#x2014;and they even went so far as to ask him to allow them to thank him personally. That was what he had got for having given them that Act. (Hear, hear.) Would the hon. member for East London tell him by what right he framed an indictment against the law which the people had approved of, and Still approved of? By what right did he speak in the name of the teachers? By what right did he presume to speak in their name? (Hear, hear.) Some champions were sometimes repudiated, and he should not be surprised to see the hon. member for East London, repudiated by the teachers. The hon. member referred to this Act as being in conflict with the Constitution. Why? Because, although he kept it carefully out of his motion that one of the reasons for it was because the Act of 1908 compelled the teaching of the other language. Yesterday he (Colonel Crewe), in order to support and prop up his weak arguments, referred to it, and said that on page 5 it was said that Dutch shall be one of the subjects on the curriculum. He would ask the hon. member whether, really, after what he had pointed out with regard to the Act of 1908, that was any argument, in view of course of the Transvaal Model Act. But there was one argument which the hon. member for East London (Colonel Crewe) used that was really worth listening to It was when he said: &#x201C;See, you actually ask that a teacher, in order to receive a professional certificate, shall know Dutch.&#x201D; Well, perhaps it might be that the unilingual teacher of English was best. Let it be. But in what way did the provision of this <span class="col_315-316" refersTo="page_0167"/>law say that in order that a teacher might be taken into the service of this country, he must know Dutch; and in what way did it came in conflict with Article 137 of the Act of Union? For that reason, to say that a person was to know English to come into the service of the country was in conflict with Article 137 of the Act of Union. These were the arguments which had been held up against this law. He had put the provisions of this law before the House. With regard to the Teachers Act, it had no provisions in conflict with Article 137. He need not go further than that. But now he would come more directly to the motion. It would be noted that the motion before the House first laid down the charge and then tried to substantiate it by six different reasons. He would deal with them one by one. It was said that the provisions of the Act were in conflict with the principles of freedom, and with the principles of equality of opportunity as embodied in the South Africa Act, inasmuch as they compelled children to receive instruction through the medium of both English and Dutch. He had, he hoped, finally disposed of that fallacy. If he had to repeat it again&#x2014;(cries of &#x201C;No&#x201D;)&#x2014;according to this Act, if the English parent did not want his child to sit by while the Dutch was being taught Dutch, there was the door. Absolute freedom&#x2014;there was the door.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>Where&#x2019;s the education?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The hon. member asks: &#x201C;Where&#x2019;s the education?&#x201D; You want the subject to be given in that mixed class through the medium of English, and through the medium of English alone. (Cries of &#x201C;No&#x201D; and Ministerial applause.) Where is the education for the Dutch child. I hope that the unilingual attitude which was taken up by 22 representatives who met me in Bloemfontein is not going to be taken up in the House. When, eventually, they could not get out of it, and had to face their difficulties, they got up and cried, &#x201C;We are here, and we don&#x2019;t care what becomes of the Dutch; we are here to represent the English child only.&#x201D; (Government applause.) Proceeding, he said he hoped the House was going to look facts in the face, and take count of them. They had in the Free State, as they had in the other Provinces, their mixed classes. They could not get away from them, The teacher could not speak two languages simultaneously, so he had to take one at a time, either English or Dutch. If they chose to have English, then they must give them a separate teacher or not send them to school at all, for if they did they would be subjected to the medium of English alone. The only alternative was to address first one child and then the other, and he did not see what good that could do.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>You can&#x2019;t have another teacher, I suppose. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Really, if I had to do with people outside this House I could understand it, because there are many men whose comprehension is so exceedingly small; but when I have to do with the hon. member for Pretoria East, when I have been saying time after time unless you have different teachers and different schools you cannot do it&#x2014;these are the conditions on which I argue; that if you have mixed teachers and different schools it can be done; but we have today that fact in this country. And this law is to do with an established system and facts. You do not have two teachers. Proceeding, he asked, did the hon. members mean that the Dutch children should have to remain at home? What other alternative had they but to follow what had been followed and laid down in the law&#x2014;to use the two languages as of equal value, leaving it to the teacher to say whether he would address a mixed class for five minutes in English end 50 minutes in Dutch, or five in Dutch and 50 in English. It was left absolutely to his discretion. He did not know whether all the hon. members were, but some of them must have been educated in the Cape, and some of them must have been educated by teachers who were bilingual, and in classes where there were Dutch-speaking children. (Hear, hear.) Had not that been the method which had been adopted all through in South Africa&#x2014;that when they had a bilingual class and the teacher knew both languages, he used those languages as mediums alternatively in order to bring up both classes abreast? And what this law laid down was nothing but what had been adopted by all competent teachers. Let him assure hon. members that when this discussion was at its height he received letters from the very best English teachers in the Free State who knew both languages, saying that they could not understand what all the hubbub was about, because it was the system they adopted, and they found they could not put in practise any other system in the mixed classes, with the best results. Those were facte, and one could not get away from them. As he had already said, he hoped the fallacy had now been sufficiently disposed of that both mediums were comp4ulsory in any school. They were compulsory in so far that the English-speaking child in the class must sit there while the Dutch child was being addressed: but, according to the law, there was nothing to compel him to listen, and it was for that reason he had said that, if necessary, he could stop up his ears with wax. The second ground of the charge was that it constituted an infringement on the rights of the parents. What were those rights? The hon. member for East London had unfortunately not taken the trouble to tell him what those rights were. Where they had a compulsory education system, where were the rights of the parents? Why did any State make compulsory education? Was it not because, in the first place, it was to the interests of the State that <span class="col_317-318" refersTo="page_0168"/>its citizens should be educated? (Hear, hear.) Education was not for the parent, but for the child. When the State said that the child or the citizen should have a certain mental and moral development in the form of education, the child must in consequence be sent to school, and surely it was for the State to say how that child was to be developed and educated. The hon. member for Cape Town (Mr. Jagrarer) shook he head. That was a discovery the hon. member had made only since the Free State Act was introduced. Would the hon. member for Cape Town point out to him any law or any country in the world where the syllabus, the curriculum, was laid down by the parent? Even in his native Scotland&#x2014;no, he begged the hon. member&#x2019;s pardon&#x2014;(laughter)&#x2014;even in his native England, he was never asked whether he would learn arithmetic, or reading, or geography, or history, nor was his father asked. Why, the moment they came to South Africa, should that be an essential right of the parent, which could not be violated without violating the Constitution? He had always thought that England was a free country, but now hon. members came and told him no, that was not freedom. Well, it was domestic slavery, he supposed. They said, like all good Englishmen who came out to South Africa, good democrats as they were, that they were desirous of having a free country&#x2014;an absolutely free country. Could anybody tell him what right the parent had to insist upon anything except through Parliament? What right had the parent to insist upon the medium of education to take the question as an example? He had already pointed out to hon. members that if that principle was introduced, and if the selection of the medium was left to the parents, they would very soon find a state of affairs in South Africa which they would be very sorry they had ever introduced. He found the grounds of the charge improved as they went on. The motion next said that the Acts operate unfairly against certain sections of the teaching staff. Now, he would ask, what had any of the provisions affecting the teaching staff to do either with the principles of freedom or with the principles of equality or opportunity for South Africa? Every State had the right, and every State laid down, what qualifications its teachers should possess, and in a bilingual country, where bilingual teachers were required, it was necessary that the qualifications of the teachers should be consistent with that requirement. The motion next said the provisions of the Act made it impossible to obtain an adequate number of efficient teachers. The hon. member for East London yesterday said that about 50 per cent, of the Transvaal or Free State teachers were inefficient&#x2014;</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London)</from>
+
+<p>dissented.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said the bon, member quoted figures presumably in support of his arguments, and as his arguments were concerned with the Free State, he (General Hertzog) presumed he employed Free State figures.</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London)</from>
+
+<p>said the hon. member knew perfectly well that he quoted from the report of the Director of Education of the Transvaal when quoting those figures, and he was particularly careful to say so. He would be glad if the hon. member would argue from what he (Colonel Crewe) had said, and not from what he had not said.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>I stand corrected. Continuing, the hon. member said the charge, or the ground for the charge, was that the provisions of the law or laws of the Free State made it impossible to obtain an adequate number of efficient teachers. The hon. member for East London yesterday referred to the number of matriculated teachers as really being inadequate. Let him point out to the hon. member the number of adequate teachers in the Cape Colony would, according to that assumption, be 12&#x00BD; per cent. There were 12&#x00BD; per cent. of teachers in the Cape Colony who had matriculated. Out of a total number of over 6,000 teachers there were hardly 600 who had matriculated, and yet the hon. member for East London, belonging to the Cape Province, was throwing stones at them. In spite of the Laws of the Free State he was positive that the average of efficient teachers in that Province would at least double that in the Cape Province. The hon. member for East London went on to say that the provisions were in conflict with the principles of freedom in so much as they tended to accentuate racial divisions. Really, he thought the hon. member ought to have brought in a motion against the law governing Parliamentary elections in the Transvaal, because if the education law was against the principles of freedom and equality because it tended to accentuate racial divisions, he was positive that nobody would deny that something should be done in regard to the election laws. But let him come to the racial divisions. What were the racial divisions which had been caused by the Free State Acts? The extent of that racial division to-day could be judged by this, that, in spite of the Transvaal support, in spite of the whole agitation the hon. member for Pretoria East (Sir Percy Fitzpatrick) said, and prided himself upon it, that he was one of the first to start the propaganda in the Free State on this question&#x2014;in spite of his (Sir Percy&#x2019;s) propaganda, and in spite of the comments in the press, they found that there were only four or five private schools in which there were no more than 500 children. That was the extent to which this&#x2014;be could not call it patriotic&#x2014;this beautiful movement had progressed. Well, it might, be considered to be patriotic by those who supported it, so be might say that it was a patriotic movement. This <span class="col_319-320" refersTo="page_0169"/>was the extent to which it was being sympathised with in the Free State. And he was told by somebody who ought to know that those who sat on the committees had never yet thought it their duty to send their children to these schools. The poor ignorant were being duped, and he maintained again that the parent had no right to interfere on the question of medium, or claim that he had a right to interfere on the question of medium.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town Central):</from>
+
+<p>Who has the right?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It is the State. It is for the State to say which is the beet way of educating the child. Proceeding, he said it was a recognised principle that the soundest and best way of educating a young child was through the medium of his mother tongue, and once that was admitted then he said a parent should not be allowed, either through prejudice or ignorance, to deprive his child of the right of being educated through his mother-tongue. But these racial divisions consisted in the Free State of a very, very few who from the very first moment were against this law, not on any educational grounds so much as because of the prejudice that a great many people had against the Dutch language. (Opposition cries of &#x201C;(No, no,&#x201D; and Ministerial cheers.) Let that be admitted. It was so. These prejudices would have been overcome. They were natural. There were many people today who still thought that because the place was a British colony it was against the British Constitution that Article 137 should ever be put into force. They were prejudiced, and would be prejudiced for a long time, and if the matter had not been taken up, he was very sorry to say, from outside by people who had no business to interfere, no doubt well meaning, like his friend, the hon. member for Pretoria East (Sir Percy Fitzpatrick)&#x2014;</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>I happen to live in the Free State.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>The hon. member says he must live&#x2014;</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person>:</from>
+
+<p>I do live in the Free State.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort) (to Sir Percy):</from>
+
+<p>He says you must not live there. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Well, the hon. member save he lives there. Well, it is like some of us who call ourselves farmers. (Laughter.) Proceeding, he said that the last reason given by the hon. member for East London (Colonel Crewe) to substantiate his charge was that the Acts inflicted a great injury upon the education of the country. What did the hon. member mean by the education of the country? He agreed (with the opinion expressed by the member for Pretoria East (Sir Percy Fitzpatrick) that education through the medium of two languages was more effective than through the medium of one. They in the Free State had had that system in vogue since 1860. The schools where that was practised had given men to South Africa who could hold their own to any unilingual man. He wished to say again: &#x201C;Place yourselves in the Position in which we, the fathers of the Dutch-Speaking children, are in the Free State, and let us also get bur share in the education of the country. Do not ask all for yourselves.&#x201D; They protested against bilingual classes in the normal practice in the school where his boy was sitting. Were, then, English children solely to have a medium of English, and he, a Dutch child, their English?</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort):</from>
+
+<p>Dutch, if he likes.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>Another <person refersTo="hansard_za">HON. MEMBER</person></from>
+
+<p> said something about liberty.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Liberty? Liberty to do what? That was the liberty they were prepared to extend to the Dutch-speaking child; but when he pointed out to them that either the Dutch or English-speaking child&#x2014;</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central):</from>
+
+<p>Parallel classes.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>They don&#x2019;t want them, but it is the inevitable consequence. (Voices: &#x201C;No, no.&#x201D;) Well, if I cannot make hon. members understand that, I&#x2019;m very sorry for them.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East):</from>
+
+<p>We can never understand that. (Laughter.)</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>went on to say that under those circumstances he now asked: By what right could the hon. member for East London (Colonel Crewe) move that motion against the Free State Act? In the first place, in the provisions thereof, there was nothing contained which was against the first principle&#x2014;that of equality of opportunity. They had equal opportunity: every child had. In what way did it clash with freedom? The language? Well, he was prepared after that to have removed from section 15 any provision which might look like, or might be, compulsion, in the first place, of the medium. He was prepared to say that in the place thereof there should be substituted that when an English parent had fully guaranteed that his child should not be made to sit next a Dutch-speaking child, when that child was being taught through the medium of Dutch, that child should not be taught through the medium of Dutch, provided&#x2014;(an HON. MEMBER: &#x201C;Provided!&#x201D;)&#x2014;that that Parliament would vote the necessary moneys to give the necessary facilities for accommodation&#x2014;(hear, hear)&#x2014;and provided that hon. members from the other Provinces would, as far as their laws were concerned, go and do likewise. (Hear, hear.) He was prepared to use his utmost endeavour to have the Free <span class="col_321-322" refersTo="page_0170"/>State Act, even though it had been passed with the unanimous consent of the country (An HON. MEMBER: &#x201C;Not unanimous &#x201D;)&#x2014;altered by having the clause, making the other language compulsory, optional, so that the English child need not learn Dutch if he did not want to. Again, under the same conditions as before, were the hon. members prepared to do so? He said that that motion had been introduced with the object of obtaining an expression of disapproval of the Free State Act as an unjust one, or had been moved in a manner which was unjust even against the Free State, or the Free State Act, and that of all the Acts of the various Provinces in South Africa it, least of all, deserved the disapprobation of anybody. They could not, that House could not, pass a law for one Province. It had equally little right to give an expression of opinion affecting one Province on a subject affecting the various Provinces,; if it were to do its duty. Let it do its duty as against all the Provinces of South Africa. That House was not a Provincial Council; it was a Parliament of Union, and it had to legislate for the Union. Every expression of approval or disapproval should be an expression of approval or disapproval for the Union, as a whole. He thought that he had said enough to convince any reasonable man that that motion should not obtain the consent of Parliament. (Ministerial cheers.) He hoped that what he had further said would do one great thing, and for that he was glad, and indebted to the hon. member for East London (Colonel Crewe); and he hoped that the discussion which had taken place in the House would go to show the public of South Africa that all the raging accusations which had been made during the last 18 months against that Act, and that feeling which had been stirred up in South Africa&#x2014;and the men who had constantly prated of the provisions of that Act as though they knew everything and actually knew very little about it&#x2014;that all that had not been justified, and that a better feeling would prevail in South Africa in the future. Proceeding to deal with some of the remarks of the hon. member for East London (Colonel Crewe) on the previous day, the hon. member said that the hon. member had said that the time might come when they would arise in rebellion against the Free State Act. Let him say that the Act had been in operation for the last 18 months or two years, and never yet had the Dutch in the Free State been so unanimous on that point as they were upon that Free State Act. (A VOICE: &#x201C;That&#x2019;s it.&#x201D;) Every member of that Province sent to Parliament&#x2014;with one exception&#x2014;(laughter)&#x2014;had been elected on that Act, and not a single member would dare to go against that Act, and face his constituents. (Ministerial cheers.) For the hon. member for East London to say that the Dutch would one day rise in rebellion was a fear he (General Hertzog) did not share with the hon. member, but he did share with the hon. member this: That the Dutch people were as anxious to have good and sound education for their children as any unilinguai English-speaking person in South Africa was. And let him assure the hon. member that he could certainly not be more anxious to have his children well educated than he (General Hertzog) was and he protested against his children being taught through a medium which was not the language spoken by them, because he knew from experience that they were beet taught through the medium of their own language. The education of the Dutch-speaking child had been sadly neglected in South Africa. He came now to a somewhat more unpleasant point. That was with regard to the report of the Director of Education in the Free State, which the hon. member for East London (Colonel Crewe) had used to endeavour to substantiate his charges against the Free State Act. The Free State Act had nothing to do with that. The hon. member no doubt had &#x201C;read the pamphlet on the language question in the Free State written by Mr. Gunn, and he thought that after that, and having read the letter written by Mr. Gunn contemporaneously with his resignation, the hon. member should have abstained from making Mr. Gunn&#x2019;s retirement a charge against the Education Act of the Free State. The hon. member must know very well that what led up to Mr. Gunn&#x2019;s resignation was Mr. Gunn&#x2019;s own fault. He (General Hertzog) had said that afternoon that he was prepared to repeat anywhere outside that House what he said in that House. There were certain statements in that pamphlet which he did not think it would serve any good purpose to criticise in that House that afternoon, but he was prepared on the request of Mr. Gunn, or of any man acting on his behalf outside that House, to tell Mr. Gunn, with regard to certain allegations made by him, such words as would give him the right, if he was a man, to go into a court of law. If there was any man who would take that up on behalf of Mr. Gunn, then he would ask such person to let him know, and he (General Hertzog) would make such statements as would give Mr. Gunn the opportunity of going into a court of law to prove the malicious statements made in his book.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why didn&#x2019;t you deny this before?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person></from>
+
+<p>said that he only read the book on the Friday night before the elections, and then had no further opportunity. And he thought it was better that he didn&#x2019;t, because he thought violent things enough were said during the elections. But he gave this opportunity to Mr. Gunn or to any man acting on his behalf to take him to a court of law. The hon. member (Colonel Crewe) had referred in the same connection, and for the same purpose to the inspectors Well, as the case was sub judice at present he did not wish to say a single word either one way or the other. The hon. member had further <span class="col_323-324" refersTo="page_0171"/>said that he (General Hertzog) had succeeded in driving out of the Free State some of the best teachers. Well, of course, loose statements were easily made, but it was not always easy to substantiate charges. As the hon. member (Colonel Crewe) had exalted some of his prejudices into principles as to the rights of parents and so forth, so, here again, he made a statement without any proof. Teachers had left the Free State, but what must be the state of education in the Cape Colony, what must be the Education Acts in the Cape Colony if they were to be judged by the number of school teachers who had left the Colony for the Free State or the Transvaal? When a teacher got &#x00A3;600 or &#x00A3;800 where formely he or she got &#x00A3;400, certainly he or she would go. The hon. member had asked him to go to the Free State, and said that if he (General Hertzog) went there he could get that matter settled. He hoped the hon. member would be satisfied with what he had said. He did not know that there was anything else in the speech of the hon. member for East London to which he need refer. So far as the hon. member for Pretoria East (Sir Percy Fitzpatrick) was concerned, there was only one point he wished to reply to. Yesterday the hon. member said there was a suspicion that everything was subordinated to the desire for the making of a propaganda for the teaching of the language. He (General Hertzog) had not the least doubt that that suspicion was there, but on the other hand he denied that education in the Free State, at any rate, had been based upon that desire on the part of the Dutch. He certainly did want his child to know Dutch well, as the hon. member opposite desired to have his child know English well. That was what they desired in South Africa. &#x201C;I fully appreciate,&#x201D; said General Hertzog, in conclusion, &#x201C;every word the hon. member (Sir P. Fitzpatrick) said yesterday, and I can assure him that if we are to proceed in the spirit, and on the lines indicated by him and other speakers yesterday, if we are prepared to look facts in the face, and when we have faced them, to act and put things straight in South Africa, we shall very soon put South Africa in a different mood, as far as the two races are concerned, than what they are to-day. (Cheers.) I am very sorry that I should have given offence now and again. I can assure the hon. members that in no single instance was it my desire to do so. I have this difficulty which the hon. member for Pretoria East and others have not, and that is, that I have had to speak through the medium of a language which is not my own. I hope the hon. member for Pretoria East will remember that if perhaps, a word has fallen from me which may have sounded strong, I give the assurance that never was it intended that anything I said should have a personal sting, or a sting to any member of this House. Hard words, or rather hard facts, had to be said at times. It is only by doing that &#x2014;-as the hon. member for Pretoria East knows&#x2014;it is only really by giving hard knocks&#x2014;I think it is his belief, and it is my belief, too&#x2014;by giving hard knocks that we come to shake hands. (Cheers.) I can assure the hon. member for Pretoria East I used the sjambok during the war. (Laughter.) I do not know a single person whom I have sjamboked&#x2014;the day after I forgot it, with the exception of one man who was a very great friend of mine (Laughter.) I remember, and remember him well. (Laughter.) I hope that my discursion here this afternoon and yesterday, if it has left anything which is unpleasant&#x2014;will be looked at as that it has been done not to satisfy any resentment on my part, but in order that we may arrive eventually at something in this Parliament which may be for the eternal good of South Africa, and not for one Province only but for all the Provinces. (Loud cheers. )</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Well done.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein)</from>
+
+<p>said that they had listened to the defence of the hon. member (General Hertzog). Before he (Mr. Botha) came to the main argument, it would be necessary to clear the ship somewhat of the superfluous matter with which the hon. gentleman had loaded it. In the course of his speech, the hon. member had dealt in a somewhat vitriolic manner with the Education Acts of the other Provinces, particularly the Transvaal. Those remarks should have been addressed not to the members of the Opposition in that House, but in the first instance to the Minister of the Interior, in the second to the right hon. gentleman who led that House, and in the third to the Minister of Finance, for there were no hon. members present who were more responsible in that respect than, the three hon. gentlemen who had received such a castigation from the Minister of Justice. That portion of the address was not necessary that afternoon, if it was intended to persuade the Opposition that the Transvaal law was not in accordance with the South Africa Act. He (Mr. Botha) cordially agreed with the hon. member that that Act was not in accordance with the Act of Union. The hon. member had put up certain arguments which he attributed to the Opposition, and which he then proceeded to demolish with great satisfaction to himself. In the Free State there never was any discussion as to whether Dutch should be taught as a language compulsorily. That was agreed upon in the case of both Dutch and English. What they were concerned with that afternoon principally was the question in the motion. Continuing, he said that he would take the Act clause by clause, as his hon. friend had done, and he would like the House to understand clearly that what they understood by compulsion was depriving the parents of the right to decide upon the medium in which their children should be instructed. Once that right was debarred, it was compulsion. He was going to prove by the <span class="col_325-326" refersTo="page_0172"/>hon. gentleman himself that there was compulsion in the Act, and that that was deliberately put in the Act. He would first refer to a pledge given by the hon. member before the election of 1907. He then said that if he were returned to Parliament, he would introduce an Education Act, and in chat Act there would be ample provision made to give parents the right to choose the medium of instruction for their children. His hon. friend did not deny that. That was how he obtained the votes of the electors in the 1907 election. He then introduced his Bill, and in doing so he denied that parents were the competent authority to say that their children should be taught in one language or the other, contending that this should be decided by competent people with experience in these matters. That was the language used by the Minister, who gave a pledge that he would see that the parents would have the right to decide the medium of instruction. He told the House that day that the minority in the Free State House never brought up the question of medium. When he heard what the hon. member had to say that day he was astounded. It seemed to him inconceivable that any man, more especially one occupying such a high position as the Minister for Justice did, should be guilty of such a reckless statement, one so devoid of any support, and one which he (the hon. member) had the power to refute. Hid not the Hon. the Minister for Justice remember the amendment given in by Mr. Barlow on clause 15? That gentleman moved that the following words be added to the clause: &#x201C;That the medium of instruction would be either English or Dutch, as the parents desired&#x201D;&#x2014;(hear, hear)&#x2014;and &#x201C;that English and Dutch should he taught as languages through the medium of such languages.&#x201D; That was on July 13th, 1908. (Hear, hear.) Was it possible that the House, having heard the reckless and unjustifiable statement of the hon. gentleman that the members of the Opposition in the lower House agreed with that policy, that that House which he was then addressing would blindly accept all the other statements made! He submitted that if any man occupying such a position was capable of making such a mistake&#x2014;and he (the hon. member) honestly believed that the Hon. the Minister had not deliberately made the statement&#x2014;it showed the peculiar character of the hon. gentleman who would make a reckless statement without making due inquiry as to whether it was correct or not. He would also prove through the interpretation of Dr. Viljoen that the law was intended to contain compulsion, and did contain compulsion. His hon. friend said it was strange: he would prove that it was intended to go in, and was contained in the law. Section 15 said &#x201C;shall by gradual use&#x201D; be introduced, while Dr. Viljoen&#x2019;s interpretation read, &#x201C;which is not the medium of instruction may be gradually introduced.&#x201D; (Hear, hear.) They had heard &#x201C;both&#x201D; and &#x201C;either&#x201D; in that House, but he did not think anybody in that or any other Parliament would ever argue that &#x201C;shall&#x201D; and &#x201C;may&#x201D; meant the same thing. He submitted that the Director&#x2019;s words showed perfectly clearly that in interpreting the clause he deliberately violated the law. To show that the Director knew he was violating the Act, he found, on page 18, the Director stating that he intended to have his reading confirmed by the Legislature. He submitted that Dr. Viljoen altered the word &#x201C;shall&#x201D; into &#x201C;may,&#x201D; because it would be impossible to carry out as it stood. He knew he was violating the law, and therefore safeguarded himself by saying that the time must come when he would have to go to the Legislature to have this ratified. Dr. Viljoen violated the law for a definite reason, and he asked the House why he violated this Act? He submitted that he altered the word &#x201C;shall&#x201D; into &#x201C;may,&#x201D; because he found the objections in the Free State well founded, because he found that the Act as it stood was impossible of execution, because he found that it would be against education efficiency, and for other reasons he found he must strain it in order to get it properly carried out, and thereby further the cause of education in the Orange Free State. (Hear, hear.) In saying that the rights he was prepared to give every English child he would demand the equal for the Dutch child, he believed he was right when he said he would have the support of the Opposition, and that they would support the Minister of Education in giving every child equal rights. Also, they would support him to a man in any effort to carry out the necessary arrangements to carry out the provisions in the South; Africa Act. (Hear, hear.) The Minister for Justice had twitted them by saying that there were few who had read the Education Act until a week or so ago. He Mr. Botha) was prepared to go further, and say that there were few of the members opposite who had ever read the Act at all to this day. There was one member on the Government side of the House, from the Free State, who was heckled on the Act at a public meeting, and, in the course of the heckling, had to get up and ask one of the audience to come up on the platform and help him to explain the Act, because he did not understand it&#x2014;(laughter) &#x2014;and this was one of those who helped the Minister for Justice while Minister for Education in the Free State to pass that Act. He was one of those who would not go back to his constituency and say he had voted against the Hertzog Act, and that was because the people in the Free State had got into that state that they were bound to follow what General Hertzog said. They did not realise what the Act was. The interpretation that had been adopted caused great dissatisfaction, and the remedy the Minister found, was to dismiss his officers who interpreted it differently. There was another proof that the hon. gentleman <span class="col_327-328" refersTo="page_0173"/>intended to introduce compulsory bilingualism, and that was to be found in the Teachers&#x2019; Act. The School Act of 1908 would have been a hopeless failure, unless it was supplemented by the Teachers&#x2019; Grading Act of 1908. They could not carry out the first Act unless they had bilingual teachers, and that was why it said, in section 52 of the Teachers&#x2019; Act: &#x201C;No person shall thereafter be appointed as a teacher who shall not be proficient in and conversant with both languages.&#x201D; It showed perfectly clearly that there was the intention of the Minister for Justice to introduce an Act, containing as its element and essence compulsory bilingualism. He had attempted to explain away some remarks made by him, regarding the stopping up of children&#x2019;s ears with mud. He (Mr. Botha) did not think the Minister intended to be offensive to the British section, but it only showed the state of his mind. But it showed the difficulties they had to contend with, and the difficulties in the way of a compromise on that question. What the Minister no doubt meant was that if the children did not like to stay, they could leave the schools. But did not he realise that&#x2014;say, they had a geography class. They started with the Dutch medium, and after they had finished half-an-hour, the Dutch children went out. They could not have the whole hour for one medium, they must divide it, so that each child only got half the lesson it should. That was why it seemed to him so utterly hopeless from an educational point of view. The hon. member said: &#x201C;Yes, but the English child can stop up its ears.&#x201D; Yes, but that English child paid for its education. They did not get 20s. in the &#x00A3;, but only 10s. in the &#x00A3;. That was a phase of the question which did not seem to have struck the hon. gentleman. Then he said it would be necessary to supply separate buildings. That was quite unnecessary. Surely the Minister for Justice could have parallel classes. That was a suggestion made to the hon. gentleman time after time, but he bad a majority, and insisted on carrying every bit of legislation put forward, without reference to the Opposition at all. The Hon. Minister for Education, the previous day, made use of an expression which he would like to impress upon every member of the House. He said in any dispute about the languages in South Africa, they must be very careful not to touch upon sentiment, sympathies, or even the prejudices of race, because the language question so easily became a race question. That was a phase that he would like to impress upon all those who so heartily cheered the Minister for Justice yesterday. He (Mr. Botha) belonged to the same race as did General Hertzog. In the Act the Minister for Justice passed in the Free State, he never touched his (Mr. Botha&#x2019;s) race, and never interfered with his prejudices. He had always tried to place himself in the position of the minority in the Free State. The Minister for Justice had quoted figures that showed the minority the English children were in in the Free State. He accepted those figures, but they made the matter all the more serious, in that where there was so little risk, General Hertzog had not the greatness of spirit to risk it. Throughout he had tried to look on it from the point of view of the English-speaking child and the English-speaking parent; He had always said that if there had been more concession, and a spirit of conciliation shown on the part of the Minister for Justice, the feeling of racialism and bitter animosity that had been awakened over the matter would never have been caused. Another evil consequence of the Act was that it tended to deprive English-speaking children from being taught by men who spoke their own language. He believed it was possible to get teachers who could speak both languages perfectly and fluently, but such cases were rare, and there would never be any number of such teachers until Parliament was prepared to lay down an adequate scale of salaries, a scale which would be sufficient to induce men to devote themselves to the profession of teaching in South Africa. He was not referring to the big schools and Colleges, but to the little schools throughout the country, where it was vitally important the best class of teachers should be engaged. In the Free State the&#x2019; qualifications of teachers were being tested under the Act, and as a result they found the people holding degrees of Master of Arts, Doctor of Laws, Doctor of Science, and others possessing the highest teaching qualifications were only getting third-class provisional certificates. When 90 per cent, of teachers were declared unfit for their duties by a Board of Examiners&#x2014; a Board, &#x2019; the members of which were appointed by the Minister for Justice&#x2014;then he had no hesitation in saying there must be something inherently wrong with an Act which enabled that to be said. The Hon. the Minister for Justice had seen fit to be rather caustic in his remarks about the agitation against the Act, and he (Mr. Botha) was sorry that the hon. member had spoilt an otherwise excellent contribution to the debate by the manner in which he referred to the agitation. A man occupying the position of Minister for Education&#x2014; a position formerly held by the present Minister for Justice&#x2014;should have his fingers upon every pulse of education, he should be able to see any little ripple upon the surface, and he should be particularly careful at no time to do the slightest thing which might make either race think slightingly of the other. That was why he (the speaker) was sorry the hon. member in referring to the agitation against the Act should have done so in the bantering tone he adopted. He would refer the House to the debates in the late Free State Parliament, and he would especially ask hon. members sitting on the opposite side of the House to take the trouble to read the speeches then made, especially during the first period of the debates, They would <span class="col_329-330" refersTo="page_0174"/>find that the most earnest desire prevailed on the part of the Opposition to get the Minister for Education to give way. When they found that the Minister for Education would not budge, they tried by deputation and they tried by personal interviews to make him realise that the opposition was not merely a factious opposition, but that they were actuated by an earnest desire to get a reasonable settlement of what seemed to be a most undesirable and dangerous position. When they found that it was impossible to carry their way in Parliament, owing to the bovine minority against them, and when they found they could not get satisfaction in any other way, they proceeded to have mass meetings. Mass meetings were held all over the Free State. There were meetings held in Bloemfontein, Kroonstad, Harrismith, and in other towns. The Hon. the Minister for Justice said those meetings were held where the opposition was strongest. Naturally they held meetings where the opposition was strong, as at was necessary to show the hon. gentleman that there was a real opposition. Ultimately these different public meetings formed committees, and he now came to something personal. The hon. gentleman yesterday was guilty of another statement which was not a fact. He made the statement that a member of this House proceeded to England for the purpose of obtaining Imperial intervention If the Minister for Justice had taken the slightest trouble to make inquiries he would have known that that statement was entirely beside the mark. When the committees found that the Convention leaders were going to England, and that the leaders of the Free State Parliament were included, they thought it would be an excellent opportunity of endeavouring to obtain a round table conference between the parties most concerned. These parties were the Free State, South Africa., and England, and he could give the hon. member (General Hertzog) the assurance that in approaching the members of the Imperial Government they laid most careful stress upon the fact that under no circumstances did they ask them to interfere; all they asked them for was their good offices. He would be sorry to say what the representatives of the British Ministry had said with regard to the difficulties which the Minister of Justice put in the way. He thought he had better not say anything further about that subject. When the hon. gentleman came back from England and found that the agitation had not ceased, he summoned a conference deliberately of English parents. He wished that the Minister of Justice would in future be more careful in attributing sentiments to others. That afternoon he referred to the unworthy conduct of those to the conference in telling him that they would have nothing to do with the Dutch parents. He (the speaker) was sorry that the Minister of Justice was not in his seat, because he was prepared to ask him to his face: Was it not a fact that he deliberately summoned the English parents? He was also prepared to ask him if it was not a fact that he deliberately told those gentlemen: &#x201C;Please do not speak on behalf of the Dutch parents; I am here to represent them?&#x201D; Now, in view of the fact that he told them that, by what justification had he for coming to the House and referring to the unworthy conduct of those gentlemen? Proceeding, the speaker said that those in opposition to the Education Act tried first in Parliament and then outside of Parliament to obtain a solution, and it was not until they were absolutely pushed against the wall that they decided to establish private schools. He thought the minority in the Free State had a right to look to the Government for assistance; they had a right to ask Government to intervene on their behalf, and it was only when Government refused to help them that they decided they must help themselves. He did not think it, was right that the Minister of Education should jeer at the movement.</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that he wished to say that what he intended to convey in his speech the other day was that during the elections, not in the Free State, there was too much agitation and too little education.</p>
+
+</speech>
+
+<speech by="#botha">
+
+<from>Mr. <person refersTo="hansard_za">C. L. BOTHA</person> (Bloemfontein):</from>
+
+<p>I am glad of the explanation. Proceeding, he asked was there any member opposite who objected to them asking the Government for assistance. Surely, the Prime Minister would be the last to take up that attitude. The right hon. gentleman, when he was under Grown Colony Government took the very same steps when he found that the Government would not help them in the matter of schools. General Botha and his friends started private schools, and they were successful afterwards in getting assistance. Continuing, the speaker said that the hon. gentleman (General Hertzog) became furious yesterday at the mere mention of Lord Milner&#x2019;s name. Now he (Mr. Botha) was not concerned with Lord Milner or with his Government, but he wished to say that if Lord Milner endeavoured to break the Afrikander nation by making it learn English did that give the Minister of Justice a right to retaliate or to revenge by endeavouring to break the English people in the Free State by compelling them to team Dutch? Would it not have been more generous, in view of the manner in which Great Britain treated the two Republics after the war, would it not have been more generous and more broad-minded instead of referring to the Milner regime for him to have said, &#x201C;I will forget it&#x201D;? He would remind hon. members opposite of the words spoken by a man whom they respected, as he did. He referred to Lord De Villiers, who had said that the language question was one that would settle itself, and that the <span class="col_331-332" refersTo="page_0175"/>greatest would survive. The hon. member, referring to what the Minister of Justice had said about Mr. Gunn&#x2019;s statements in his pamphlet, said that, notwithstanding that Mr. Gunn had felt that he was suffering from an injustice at the hands of the Hon. Minister, there was not a single Word of abuse in that pamphlet against the Minister. The hon. member said that he regretted that a Minister of the Crown should be the first to set them, ordinary members of the House, an example of conduct of that description. One of the first who had signed the petition upon which the concordat had been framed had been himself the hon. member), and he had tried to get from the Government of the day a recognition of the rights of the Dutch language. The Minister of Justice had said that he had reserved the right of repudiating that concordat immediately. He (the hon. member) had, however, the assurance of two men who had been present at the Conference, who said that that was not the case, and who denied what the Minister had said. He fully admitted that the Minister had the right the moment Responsible Government was introduced to alter it, but no right while there was still the Crown Colony Government. He wished to refer to the matter to show the reckless way in which the Minister of Justice went about conducting the affairs of the country. Continuing, the hon. member said that he thought, in view of the attitude which had now finally been taken up by the Minister of Justice, that there was some hope of a settlement of that question. (Hear, hear.) He had at last admitted that, as far as he (General Hertzog) was concerned, he was prepared to grant to the parents of the Orange Free State the right to choose the medium of language through which their children should be educated. True, it had been coupled with a condition, but it was the first time in which they had been able to obtain a concession so great, and so enormous from the Minister of Justice; and it had taken them three years of solid hard work in Parliament to do so. The condition that the other Provinces should agree to it was one which he (Mr. C. L. Botha) for one could not see carried out, because he represented only a minority in the Free State. If the members who represented the other Provinces took his advice they would consent to the proposal of the Minister of Justice. He thought that it had been proved to the other side of the House that the provisions of the Education Act in the Free State with regard to the medium were so bad that they required the remedy of that House. He thought the Opposition had proved its bona fides, and had made out a clear case. He believed that if this question were left to a few people to deal with independently of party polities it would be possible to obtain a satisfactory settlement. (Cheers.)</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>who was received with cheers, said that he would not enter into the merits of the respective South African Education Acts. He had risen only to assist in finding a solution of the difficulty to which the motion of the hon. member for East London had led. It was not a particularly difficult matter to find fault with Provincial legislation. Probably there was not a law in South Africa with which no fault could be found. Parliament was above all Provincial laws, and should maintain the dignity of that position. It should recognise that some matters had been left to the Provinces to deal with, and they must recognise that, or they would come into collision with some of the Provinces. The first thing they must take into consideration was to give that freedom and equality of opportunity which the Constitution gave to South Africa. He was very thankful that the House had debated the matter&#x2014;which was of a most delicate and difficult nature &#x2014;with calmness, and he was of opinion that there was a solution, if they only set about to work in the right way. It was true that his friends the Opposition had made that cry the loudest in their election campaign, and that medium question the strongest in their platform. They had &#x201C;hunted the hare,&#x201D; and not only that, but thousands and tens of thousands of people had followed. (Laughter.) Many people at the present day were still following it. He thought no one could blame them very much for it, because it had proved advantageous to some of them on the Opposition benches. (Laughter.) He had always felt that as soon as one came to the language, or the educational, question in South Africa, one was on very dangerous ground, and they had to be extremely careful; and to a certain extent that election cry of the Opposition had caused damage n South Africa, because it had driven the people into the racial camps to a certain extent. The question must not be considered from the party standpoint, the elections&#x2014;where that matter had been treated in a party manner&#x2014;were past; and to-day they had the Union Parliament, which must keep up its dignity in dealing with that matter, and keep the peace in South Africa. (Hear, hear.) There was no doubt that every Englishman had a great love for his language. He did not &#x2018;blame them for that; on the contrary, he thought all the more of them&#x2014;(applause)&#x2014;because they did so, but, on the other hand, the Dutch had as great a love for their language; and he, as the leader of a large portion of the Dutch-speaking community in South Africa, must say that he loved his language as much as an Englishman loved his&#x2014;(applause)&#x2014;and what he desired to see was co-operation throughout the whole of South Africa, when both languages should be on an equal footing, without compulsion and with co-operation he felt sure they could come to a solution. He desired to say to his English-speaking friends that the Dutch-speaking population had also made great sacrifices, which he hoped would be appreciated, because these people <span class="col_333-334" refersTo="page_0176"/>had laid down all they held dear, thinking that they would get the same rights for their language as the English desired for theirs. They now had the Union Parliament, and they might practically consider themselves the conquerors of the dissensions of the past in South Africa. If it had not been that they had come to an agreement on that delicate and difficult matter, and that they had regulated it in the Constitution, they would not have had that Parliament, and they would not have set there as conquerors of those past dissensions. Let them, therefore, go on in the same spirit of give and take as regards the language and educational questions in South Africa. He had hoped, and he still hoped, that the House would not do anything which would divide the people of South Africa on racial lines. That House, in fact, had a splendid opportunity of solving those questions satisfactorily, which he hoped it would take full advantage of, so as to uphold its dignity. (Applause.) Continuing, he said that he hoped the motion before the House would not be agreed to. Why he did not like it was because it gave them no solution of the difficulty at all. If it were carried, he was very much afraid that it would add fuel to the fire, and make matters worse. Instead of giving them a solution to that most difficult problem of language, it would deal with it in piecemeal fashion, and it would be a most fatal step for them to take. If they agreed to the motion, as it stood, it would only bring about more bitterness in South Africa., He believed that everyone had that matter at heart, yet their responsibility was great, and the slightest mistake which might be made would have the most calamitous consequences as far as South Africa was concerned. Therefore, as men of intelligence, he hoped that they would make use of that intelligence, in order to do away with divisions in. South Africa, and in the direction of co-operation. If it had not been for that intelligence and the patriotism of the members of the National Convention, there would have been no Union. From his knowledge of members of that House, he confidently expected that they would co-operate and solve that difficult in a brilliant fashion. They must not try to find a solution by going only in one direction, but they must do so in such a manner that both sections of the population felt satisfied. (Hear, hear.) Even if further sacrinces were called for, the House could not shirk its enormous responsibility in the matter. The welfare of South Africa depended on it. They had thousands of children growing up, and did they not want them to become good South Africans, who knew each other and loved their country? They had the opportunity, and let them grasp it, so that people of both races could work together, animated with but one aim. (Cheers.) The hon. member for East London (Colonel Crewe) had referred (to the speech which he (General Botha) had made at Johannesburg, in which he had declared in favour of equal opportunity for all, mother tongue medium, and no compulsion. As a matter of fact, as soon as the Cabinet assembled, they agreed that if anything could be done in the Provincial Councils, members of the Cabinet would use their influence in order to have those principles embodied in the several Education Laws. He was very sorry that hon. members opposite had not stood up then, and spoken with that earnestness on that question with which they had spoken the previous day, for had his hon. friends on the other side at once declared, after the declaration of policy which he had laid down, that they were satisfied, that they would work together, and bring into practical effect what he had outlined in his speech, they would not have had that motion in the House, or that discussion. There would not have been that agitation going on in the country, and there would have been more satisfaction in South Africa. That agitation had been worked up, however, for another purpose, and no attempt had been made by the other side to get the matter settled. During the elections hon. members opposite had told him that they were satisfied, except for some of the provisions in the O.F.S. Act, which he (the speaker) was expected to have withdrawn. He did not consider that it was within the power of that House to bring that about (by ordering the Orange Free State to amend their Act. The impression which he had got from the speeches of this hon. friends opposite was that they were not quite sincere about that matter. If the matter of education had been wholly in the hands of the Union Government, it would have carried out the declaration of policy which he had made at Johannesburg, but, under the provisions of the Act of Union, primary and secondary education was left in the hands of the Provincial Councils for five years after Union, and they must conform to that. The aim of the amendment which he would move was not to intimidate the Provincial Councils or to tamper with their powers, but that there should be a proper understanding between them in that House. The House had an influence over the Union, as a whole, and if they came to an understanding on that question, they could try to get the Provinces to adopt that agreement, but they could not force them to do so. In war it was always a mistake first to Storm a position and then to run away&#x2014;(laughter)&#x2014; but they were not able to run away from the question before them, difficult as it was, for it had to be faced, and they could not escape it. They must all do their best to solve it. The purpose of the Government was to make an end of the agitation which had been going on, which they considered unnecessary in South Africa. (Hear, hear.) The policy which they must adopt in South Africa was one of co-operation, and not of compulsion, and therefore he hoped he would have the assistance of <span class="col_335-336" refersTo="page_0177"/>the Opposition in that matter, so that they could arrive at a satisfactory solution. They must cry &#x201C;Halt,&#x201D; as far as that agitation was concerned. The resolution did not intend to infringe the rights of any of the Provinces, and he thought he could call on the co-operation of the right hon. the leader of the Opposition, just as he had assisted them in regard to clause 137 of the Act of Union. (Applause.) They should not quarrel about that question, which had caused so much trouble and sorrow in the past in South Africa, and he was confident that, with the assistance of all his hon. friends opposite, they could and would arrive at a solution. (Cheers.) He moved as an amendment: To omit all the words after &#x201C;that,&#x201D; for the purpose of inserting the following: &#x201C;With a view to ensuring in regard to the system of public education throughout the Union the due application of the principles of freedom, and equality laid down in Article 137 of the South Africa Act, a Select Committee be appointed to examine the educational systems of the four Provinces of South Africa, with a view to ascertaining: (1) Whether they are in harmony with Article 137 of the South Africa-Act; (2) whether they involve any compulsion in respect of the teaching or use as a medium of either the English or the Dutch language, and in case in any particular they are not in harmony with Article 137 of the said Act, or do involve compulsion in regard to language, to make recommendations as to the best means of bringing them into harmony with the principles enunciated in Article 137 of the said Act, due regard being had to the rights assigned to the Provincial authorities under the South Africa Act&#x201D;&#x2014;the committee to have power to take evidence and ask for papers. (Loud applause.)</p>
+
+</speech>
+
+<speech by="#van_eeden">
+
+<from>Mr. <person refersTo="hansard_za">J. W. VAN EEDEN</person> (Swellendam)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>rose, amid cheers. He said he felt sure that both sides of the House would fall in with the appeal of the Right Hon. the Prime Minister. (Cheers.) It seemed to be the usual function of the Prime Minister nowadays to throw oil on troubled waters, and surely the speech which his right hon. friend had just made was no exception. But had that speech been delivered immediately after the speech of his hon. friend the member for East London, who had brought forward the motion, he felt that it would have been his place to have got up at once and accepted, if not the amendment, at least the principle enunciated in the amendment, by his hon. friend the Prime Minister. But there had been speeches. (Laughter.) And he felt at a slight disadvantage in following the right hon. gentleman. He must acknowledge a very imperfect knowledge of Dutch. That was what had put him at a disadvantage, and he would say, especially to the Minister for Justice, that if he would remember the very forcible words enunciated by President Steyn, and also his hon. friend the Minister of Lands on certain occasions that the Dutch language, in which he was so imperfect, should not be forced down the throats of the children, if he would remember that, he felt sure that hon. members sitting on that side of the House in the future would not suffer from, the same disadvantage that he (the speaker) suffered. He thought that there was no doubt that, given freedom and equality of opportunity, as quoted by his hon. friend the member for East London and others, that there was no doubt but that there was a desire that children throughout the country should know both languages. (Cheers.) But that could only be achieved by freedom, equality of opportunity, and not by compulsion. And when the Hon. the Minister for Justice recalled that phrase to his mind; if he would concentrate his mind on those words, he thought he would find that he would bring up in front of himself a picture of what actually took place at the Convention when this subject of the language clause was under debate: and if he filled in that picture completely, he (Dr. Jameson) felt certain we would understand a great deal of what his hon. friend the hon. member for Bloemfontein (Mr. Botha) said that afternoon regarding the attitude of the minority in the Free State, and the Unionists&#x2019; attitude during the election, and the attitude of the hon. member for East London (Colonel Crewe) in moving that motion. (Hear, hear.) They were quite aware of what they had been reminded by the Minister of Education of the close relationship between the questions of language and race. They also did not forget the bitter controversies which had taken place on both of these subjects; but, at the same time, they had full confidence, as was expressed by the hon. member for Pretoria East&#x2014;(bear, bear)&#x2014;that, in this larger and wider atmosphere of Union, the subject could be discussed with toleration and confidence, and he thought the House would agree that they were justified in their confidence. So strongly did they feel on this subject that, even at the risk of acrimonious discussion as they had bad in the past, so strongly did they feel that the continued enforcement of these Acts must mean putting back of the progress of this country for at least a generation, and far worse than this, that it was their justification for the motion which was before the House that day. He did not agree with the Prime Minister that the motion led nowhere. He believed it led to an acknowledgment, which, optimistic as be usually was, he never expected to get from the Minister of Justice. He alluded to the amendment which he believed would be the first step to an amicable adjustment, (Cheers.) The Minister for Education had recalled the minds of hon. members of the House to certain speeches delivered by Mr. Steyn and himself, and did so to show that they were not always of the same mind, as they were now, on this question of equality of language. <span class="col_337-338" refersTo="page_0178"/>He was perfectly right. He (Dr. Jameson) had confessed it before, and did so now that on that occasion he was a convert; that he required to be converted, and that he did not understand the question until Mr. Steyn spoke in the Convention. He acknowledged, further, that they went to the Convention with the idea of bringing about as perfect a Union, as ideal a Union as possible. In that ideal Union, certainly in their minds, unilingualism and not bilingualism was the ideal when they went to the Convention. At the same time, even then, and before then, they could fully sympathise with the sentimental views of the Dutch language; but they recognised that for business the language of commerce was English; and though certainly there should be no penalising of Dutch, their feelings were that only English Would be the official language of the Union. It was only when sentiment was laid on the fact; when that feeling speech of Mr. Steyn&#x2019;s was made, when he said that it was not merely sentiment, but the symbol of the equality of their race&#x2014;(hear, hear)&#x2014;that it was understood fully, not only by himself, but the whole of his party, and he did not think there had been a dissentient from that view ever since, and it was in that view that his hon. friend&#x2019;s, the member for East London (Colonel Crewe), motion was brought forward. The Minister of Education had done his best to defend his brother, the Minister for Justice. He admired him when he skirted round the speech, and still more the way in which he avoided saying that the Free State Act was a violation of the Convention; in fact, when the hon. member for Pretoria East (Sir Percy Fitzpatrick) tackled him, the Minister for Education gave exactly the same answer as he (Dr. Jameson) would have given. He said, &#x201C;If there are any contradictions to the views laid down on this clause 137 by the Prime (Minister, then I say they are against Article 137 of the Act of Union. That is my view.&#x201D; (Laughter.) When the Prime Minister laid down in Pretoria&#x2014;the first time he spoke after the formation of the Cabinet &#x2014;mother medium, equality of opportunity and freedom; that was the interpretation of Article 137. Freedom meant no compulsion. Then the Minister for Education said, &#x201C;We must give some view,&#x201D; so they got that interesting paper which they could not criticise when it was read the previous night. But now they had had time to examine it, and his friend the hon. member for Bloemfontein had pointed out two portions of this report of the Director, under the Minister of Justice, who said, absolutely, that in order to carry out the Orange Free State Education Act of 1908 he had to break the law. (Hear, hear.) He was very glad to see the Hon. the Minister of Justice smile. Because he did not shake his head he knew it was true; he felt that it was an easy way out of it for him. The Minister of Education commented on their attitude on the Act. He seemed to anticipate and even answer the first line of defence of the Minister for Justice; unconsciously, no doubt. What was his line? The line that had been alluded to that afternoon practically meant, &#x201C;Somebody did wrong in the past; I make it right now.&#x201D; With regard to the letter to Lord Milner, quoted by the Minister of Justice yesterday, that was a letter for which Lord Milner was not responsible. It was a letter from Mr. Sergeant, Director of Education at the time. Was there not the excuse for Mr. Sergeant, when he wanted to Anglicise the country, that he did not understand the country? They could not expect him (after his few years&#x2019; residence in South Africa to understand the country and the position as those of them who had been here for many years understood it. What he (Dr. Jameson) quarrelled with was the emphasis laid by the Minister of Justice upon the idea of imbuing the Free State with British ideals. He himself saw no difference between British and Dutch ideals. British ideals were freedom and justice, and surely the Dutch people were not going to say that those were not their ideals also? He claimed to agree with every pronouncement made by the Prime Minister on those larger subjects from the time the Convention sat up to and including the speech he had made that afternoon. (Hear, hear.) The Minister of Justice had given in historical retrospect three facts: The numbers of children in the Free State schools, the numbers that were Dutch, and the numbers that were English. The hon. member pointed out that the latter figures were as 95 per cent. to 5 per cent. It did not matter if the percentage of English children was only 1 per cent.; but in taking the line of argument of percentage, the hon. member was surely acknowledging the charge brought against him by the hon. member for East London, that the idea was government by the majority, and let the minority go hang. Then the hon. the Minister of Justice, in his defence, spoke of his own infallibility. He dwelt on his own absolute knowledge and the absolute ignorance of members on his (the speaker&#x2019;s) side of the House. What were they talking about? He said that hon. members on that side of the House got their information from the late Director of Education of the Free State, and that they had got hold of a tissue of falsehoods in the memorandum of the official. The hon. member for Bloemfontein had already alluded to that pamphlet, but as he (Dr. Jameson) knew Mr. Gunn fairly intimately, he would like to say in his absence that they only had the statement of the Minister of Justice, and not the reply of Mr. Gunn. He could tell the Minister of Justice that after the pamphlet was issued. Mr. Gunn stayed for some weeks in this country, to the detriment of his health, so as to give time to the Minister of Justice to voice any objection he might have to the statements in the pamphlet. If the Minister of Justice would only take the trouble to out his pen in his hand and write to his late Director of Education explaining where he thought he <span class="col_339-340" refersTo="page_0179"/>was misrepresented, he (Dr. Jameson) guaranteed he would get a satisfactory reply from the gentlemen. If the House accepted the amendment of the right hon. the Prime Minister, he (Dr. Jameson) had personally not the slightest doubt that they would be able to mutually agree upon conditions which would be acceptable to both sides of the House. He could assure the Government that they would have the cordial co-operation of his side of the House in seeking a solution of the difficulty and a remedy of the grievance that existed to-day. The appointment of the committee would be an admirable step, and when the committee had reported he felt sure the Minister of Justice would have no difficulty in accepting their finding, and that he would then go, backed up by his late Prime Minister, the present Minister of Lands, and tour the Orange Free State, and with his influence bring about a happier and satisfactory state of affairs. Then he (Dr. Jameson) was sure there would be no necessity to interfere with any specific rights of the Provincial Councils, and they would have one law on education satisfactory to every member of both races throughout the Union. (Cheers.)</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">CREWE</person> (East London)</from>
+
+<p>said he would withdraw his motion if he could do so under the Rules of the House. He would merely say, in reply to the debate, that he endorsed every word uttered by the leader of that side of the House, If the committee was appointed, he was sure that every member on his side of the House would do his best to bring about a satisfactory solution of the question.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Will the hon. member accept the amendment now as the original motion?</p>
+
+</speech>
+
+<speech by="#crewe">
+
+<from>Colonel <person refersTo="hansard_za">C. P. CREWE</person> (East London):</from>
+
+<p>Yes.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p> then put the amendment as the original motion, and declared that it was carried.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_laid_on_table">
+
+<heading>REPORTS LAID ON TABLE</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>An amendment to the Estimates of Expenditure, viz.: to omit all the items under Vote No. 27 &#x201C;Public Debts&#x201D; on pages 159 to 161 of the Estimates, and to substitute others (as printed on pages 164-6 of the Votes and Proceedings).</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Memorandum by the Cape Superintendent-General of Education on the teaching of the English and Dutch languages in the Cape Province.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-11-25T18:10:00">6.10 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

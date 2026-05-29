@@ -1,0 +1,413 @@
+---
+title: 'House of Assembly: Vol1 - WEDNESDAY MARCH 20 1912'
+layout: debate
+year: 1912
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, March 20th, 1912.</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1912-03-20T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#wessels">
+
+<from>Air. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland),</from>
+
+<p>from G. D. Smith, re his claims in connection with public service rendered when secretary and agent to the Chief Mankoroane and in Stellaland and elsewhere.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King William&#x2019;s Town),</from>
+
+<p>for legislation prohibiting the sale of intoxicating liquor to natives.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock),</from>
+
+<p>from L. Jander, South African Railways.</p>
+
+</speech>
+
+<speech by="#serfontein">
+
+<from>Mr. <person refersTo="hansard_za">H. P. SERFONTEIN</person> (Kroonstad),</from>
+
+<p>from J. A. Bester, wounded during the late war.</p>
+
+</speech>
+
+<speech by="#neethling">
+
+<from>Dr. <person refersTo="hansard_za">A. M. NEETHLING</person> (Beaufort West),</from>
+
+<p>from C. Winnicott, gaoler, Beaufort, West.</p>
+
+</speech>
+
+<speech by="#fichardt">
+
+<from>Mr. <person refersTo="hansard_za">C. G. FICHARDT</person> (Ladybrand),</from>
+
+<p>in opposition to the South Africa Defence Bill.</p>
+
+</speech>
+
+<speech by="#whitaker">
+
+<from>Mr. <person refersTo="hansard_za">G. WHITAKER</person> (King William&#x2019;s Town),</from>
+
+<p>for legislation providing for the Direct Popular Veto.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#land_settlement_bill">
+
+<heading>LAND SETTLEMENT BILL.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>as Chairman, brought up the Report of the Select Committee on the Land Settlement Bill, reporting the Bill with amendments. He moved that the report be printed, and that the House go into committee on the Bill on Wednesday, the 27th inst.</p>
+
+</speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">G. A. LOUW</person> (Colesberg)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#public_accounts_committee">
+
+<heading>PUBLIC ACCOUNTS COMMITTEE.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>,</from>
+
+<p>as Chairman, brought up the Second Report of the Select Committee on Public Accounts, as follows :&#x2014;</p>
+
+<ol>
+
+<li>1. Your committee, having considered the Railways and Harbours Additional Appropriation (1911-12) Bill, referred to them, beg to report the same without amendment.</li>
+
+<li><span class="col_1239-1240" refersTo="page_0626"/>2. Your committee have also considered the Railways and Harbours Capital and Betterment Works Additional Appropriation (1910-12) Bill, referred to them, and, in accordance with the leave granted by the House on the 19th instant, have amended the title of the Bill by omitting the amount of &#x00A3;531,515 and substituting &#x00A3;1,258,919. Your committee have also made certain amendments in the Bill, consequent on the amendment of the title, which they recommend to the consideration of the House.</li>
+
+<li>3. With regard to both the above Bills, your committee feel bound to draw the attention of the House to the irregularity which, according to the evidence, has prevailed in respect to the issue of moneys in disregard of sections 43 and 48 of the Exchequer and Audit Act. They are further investigating the matter.</li>
+
+</ol>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>moved that the House go into committee on the Railways and Harbours Additional Appropriation (1911-12) Bill, and the Rail ways and Harbours Capital and Betterment Works Additional Appropriation (1910-12) Bill, to-morrow.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+<p>It was agreed that the report be considered to-morrow.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Report on Kakamas Labour Colony, 1911.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#scrap_iron_contract">
+
+<heading>SCRAP IRON CONTRACT.</heading>
+
+<speech by="#minister_of_mines">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MINES</person>:</from>
+
+<p>In accordance with the undertaking given by me yesterday, I beg to lay on the table the following papers: (1) Memorandum re iron and steel industry, by the Government Mining Engineer, 1909; (2) report on the manufacture of iron and steel, by F. W. Harbord, 1910; (3) draft agreement proposed between the C.S.A.R., and the Transvaal Government, 1909 ; (4) notes on coking tests of Transvaal coal, 1911 ; (5) Government Notice No. 127 of 1910, calling for tenders; (6) list of tenderers; (7) Government Notice No, 72 of 1910, accepting tender ; (8) copy of draft agreement with Messrs. Campbell and Walker, as proposed to be signed; (9) average prices obtained for scrap; (10) copy of agreement with H. H. Wright. I don&#x2019;t know whether this is quite complete (added the Minister), but in the time at my disposal these have been put together, and I think form a fair summary.</p>
+
+</speech>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>gave notice that he would move, on Tuesday, April 9, that a Select Committee be appointed to inquire into the contract.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#white_labour_policy_debate_resumed">
+
+<heading>WHITE LABOUR POLICY.<br/>DEBATE RESUMED.</heading>
+
+<speech by="#duncan">
+
+<from>*Mr. <person refersTo="hansard_za">P. DUNCAN</person> (Fordsburg)(resuming)</from>
+
+<p>said that in the course of his speech the Minister of Native Affairs had said that there was more in the motion than met the eye, and it tried to drive coloured labour from the field of labour altogether. If that was sought to be obtained by that motion it would not have got very much support, and would practically have gone to the extreme of segregation. He pleaded being entirely guiltless of that charge brought against them by the Minister. What the motion aimed and directed at was not against the employment of coloured labour as such, or against the coloured man making the most of those faculties he had got, or being assisted by the State to make the most of those faculties; but it was directed against the idea that the State must be founded on a basis of unskilled coloured labour. (Hear, hear.) Some hon. members had said that the farming industry could not exist without cheap coloured labour, and some of the advocates of the mines said the same thing. It was against that principle&#x2014;that they must look to coloured labour because it was cheaper, and because coloured people were content with a lower scale of civilisation or standard of living than the white man&#x2014;it was against that theory that the motion was directed. It seemed to them that those who advocated the restriction of the importation of coloured labour must do so on the ground that the European must look to his own efforts, his own civilisation, to maintain his place in South Africa. The Minister of Native Affairs had said that he was confident that the white man could depend on his own superior attainments, man for man; and he agreed with him; but, as they were in South Africa to-day: the white man was not &#x201C;man for man,&#x201D; but in a large minority. Public opinion went very far to assist him to maintain that position, because it had said that Asiatics were not allowed to come into that country, because it was recognised that that influx would make the odds against the white man&#x2014;great as they were already&#x2014;even greater ; and everybody, with a few exceptions, agreed with that principle, not because the Asiatics were not good workers or law abiding inhabitants, but because if they were here they lessened the chance of the white man holding his own. (Hear, hear.) Exactly the same principle on which they relied for the exclusion of Asiatics justified the principle of saying: &#x201C;Do not make the odds against the white man heavier than they are, by going outside the Union for your unskilled labour.&#x201D; They were told that however excellent that idea of white unskilled labour might be, it was useless to think about it in practice, because they were told that almost from time immemorial, or, at any rate, since the white man had come into South Africa, the coloured <span class="col_1241-1242" refersTo="page_0627"/>races had been working for him, and the whole industrial system had been built up on coloured unskilled labour; and so it must remain. They were also told that if they wanted to get a Larger white population in South Africa they must get a larger number of coloured people to do the unskilled work. He said that that principle, in his opinion and in the opinion of those supporting that motion, was a wrong one, and not only wrong in principle, but one which was breaking down in practice. The principle was wrong because, in the first place, it meant that their industrial system was limited to the number of coloured people that could be found to do their work for them. It was no use saying that the white man would not do unskilled work; under present conditions it was impossible to expect a white man to fill the gaps&#x2014;because the whole industrial system was organised on meeting the needs of the coloured man ; there was supervision by overseers and foremen who were used to working with coloured men. There was no market for the white man, and where he found unskilled labour it was like charity ; the Railway Department, for example, gave a certain amount of unskilled work, because they thought it was the right thing to do, or from economic reasons ; but they gave a man just what he could live upon and nothing else. Was there anything in that to attract a white man who could get anything else? Was there any prospect of a rise, or was he to keep on working at unskilled labour and nothing else? To say that the white man would not work was entirely prejudicing the issue, and overlooking the fact that the white man did not get a chance of doing unskilled work. It was not a final answer to say that white labour cost too much. The system of basing their whole industrial fabric upon coloured unskilled labour was a bad one, because they made themselves dependent&#x2014;hopelessly so&#x2014;upon the supply of coloured labour, and they knew that these supplies were very nearly practically done, and they had heard complaints in that House and outside to that effect. Supposing that they were going to stick to that theory of theirs that they must get coloured labour to do their unskilled work, what was to be done? Some had advocated going elsewhere, to Asia, for it, but they had tried that experiment already, and they did not like it (Hear, hear.) What was to become of them, then? It seemed to him that at the present time they were suffering under the disadvantage of falling between two stools. Public opinion would not allow them to go outside South Africa&#x2014;and very rightly too &#x2014;and they had not even the advantage of getting the labour inside it which they might otherwise get.</p>
+
+<p>Another result was that it tended towards a feeling of insecurity and uncertainty among the industrial population of South Africa. While the industrial system was dependent upon this supply of native unskilled labour there would always be this feeling of instability. People got thrown out of work, employers did not know whether they could count on the necessary labour to carry out their schemes, and everything was in a condition of uncertainty. He pointed out that in other countries when a man was thrown out of work there was always something for him to do, but here the case was very different. South Africa was not on the same plane as other countries. A period of prosperity did not have the effect it otherwise would have. If their system were based on the people of their own race, those who were attracted here, when a period of prosperity came, would look out for some other calling in life, in which, perhaps, they could do better. These people would make their homes in the country more certain and more permanent. But at the basis of the whole thing, at the present time, there was this sense of insecurity. It was a most serious thing that the industrial system of the country depended on the coloured races of the country for their unskilled labour. If they depended on the native peoples for their unskilled labour they would sooner or later come into the sphere of skilled labour. It was the general feeling in the country that Providence had ordained that the coloured man should be a hewer of wood and a drawer of water. That view of things was not tenable. No customs or laws would be able to keep the coloured man out of skilled occupations. At the present time the white man was the overseer, and the coloured man did the work. As the Minister had said, they could not build up a nation of overseers. They could not have a nation of overseers. He might say too that they could not build up a nation by making unskilled men owners of land. They could never make a white nation unless the unskilled labour on the land and in the industries of the country were open to the white man. This system which was being pursued at the present time kept the white man out of this training ground. It left him the post of overseer or supervisor waiting the time when those whom he had been supervising would do all the work themselves, and would not require his services. He was not in favour of the coloured man receiving this training while the white man was kept out of the field. As far as the principle was concerned, every argument fell away when it was admitted that it was not to the advantage of the people of the country that the industries must necessarily be based on the unskilled labour of the coloured races. It was no alleviation of what was taking place to argue that the unskilled man went back. It was true that they did not make their home permanently in this country, but they were replaced by others. No opportunity was given to the white man to take part in the work. The fact remained that the competition with the white man was just as great, although these men <span class="col_1243-1244" refersTo="page_0628"/>did not stay in the country. He had tried to prove that the system was wrong. The unskilled labour was not here. Public opinion Would not allow them to go outside South Africa. He would ask those who were more intimately concerned with the industrial world what outlook they saw for the future. Did they hope that public opinion would change and sanction recourse to other races outside present limitations? If they did not take the view that public opinion would change on the matter what was their outlook for the future, if the recruiting of natives was to be confined to the Union of South Africa or the present limits of recruiting. Did they think that the population within those limits was going to be increased in some miraculous fashion? He pointed out the restrictions with which the Minister of Native Affairs had hedged these recruiting licences for the reason that there was a shortage of farm labourers. That was convincing proof that there was a shortage of labour at the present time. Nothing was going to prevent these coloured people from selling their labour in the best paid of the markets. If this labour supply was short now, and was going to be shorter in the future, what was the outlook for the future unless they drew upon populations outside South Africa and got men who would be good citizens, who would make their homes in this country instead of men who would come here for a period and then go away again. Both in practice and theory the present system was bad for the country and for the future of the industries concerned. Instead of squeezing these parts of South Africa of labour, they should turn their eyes to some other principle. He would be asked:: &#x201C;Give us an alternative. If you won&#x2019;t let us use this coloured labour, give us an alternative.&#x201D; Well, that was a very attractive argument. It was a very plausible view. But they could not expect that there would be an army of men ready. They surely did not expect to find a ready-made army of workers waiting for the time when this importation of labour would stop. The only thing that was going to attract these men was the ordinary economic attraction of work at reasonable rates of pay. No other attraction was possible. The men would be there when the attraction was there. They were told that it would send up working costs. To substitute this labour by white men would undoubtedly send up working costs and would, perhaps, permanently increase working costs. He did not say that it would necessarily mean that working costs would be increased when the system had been perfected. Even if certain grades of ore which were now workable by this class of labour should for a time be difficult to work by a new class of labour, even that was no answer. They must first consider what was the gain on the other side. Before saying that the sacrifice was too great, they must see what the sacrifice was to be. Let them consider that before they said a thing was impracticable. And he thought the man would be a very bold man who said that the ingenuity of man to make an economic profit out of these gold deposits which existed here was not going to equal the task of getting rid of this contingent of outside labour. Men who had been asked twenty and fifteen years ago to prophesy what conditions of working were to exist now, would be just as far from the truth as the man who said now that working without this complement of unskilled labour from outside was impracticable. A man need not be pessimistic, because the time would arrive when they would not have to import this labour from outside; but when they would be able to utilise their own people and the people of their own race. (Hear, hear.) He knew he might be called a visionary. Well, there were two kinds of practical things in this world. Some people thought, a thing was not practical that did not return a profit, and some people thought a thing was not practical if they did not get some immediate return. He would ask the House not to condemn a thing as impractical simply if it could not be shown by figures and balance-sheets that it would pay this year, next year, or the year after. They were sent here to face the issues of the country, not of to-day or to-morrow, but the issues of a country that was going to take its place among the nations of the world. They were thinking of considerations that affected this country, beyond the lives of those who were living now, or even those who would come after, and he would say: &#x201C;Let us look at this matter from that point of view before they condemned anything.&#x201D; (Cheers.)</p>
+
+</speech>
+
+<speech by="#olayton">
+
+<from>*Mr. <person refersTo="hansard_za">W. F. OLAYTON</person> (Zululand)</from>
+
+<p>said the hon. member for Fordsburg had dealt very largely and very theoretically with this question of labour, white v. black ; but he would venture to bring forward a few practical reasons why this motion was not in the interests of the Union as a whole. The hon. member had theorised very sensibly from his point of view, and it might be well for a country where there were not, as here, two races to work side by side. The hon. member had gone very carefully through the economic position, and he (the speaker) had come to the conclusion that he had left no place for the natives. He started by saying he did not agree with the Minister of Native Affairs when he said that the object of the motion was deeper than it seemed, and that the real object was to shut out native labour. Yet the hon. member himself had left no place for native labour. He would not have them in opposition or competition with white men because they were cheap, and he would not have them brought up to a full standard of equality with the Europeans except by natural process, and he said that the European worker would only prevail in the market because of his superiority. The <span class="col_1245-1246" refersTo="page_0629"/>hon. member had argued, it seemed to him, almost entirely in relation to this question as it affected the gold mining industry. He seemed to have forgotten the older industries. They had to face this position, that there were industries in this country which were built up in the past and must remain in the future dependent entirely upon coloured labour of the cheap kind ; and many of their industries were placed in competition in the market with others who had cheap native Labour. Cheap outside labour was not unique in South Africa. In Ceylon they imported Indians to do the cheap work and in Fiji ; and in India they had to take their labour from one extremity of the country to the other. That being so, he would say it was unfair to ask them to abandon all their industries in order to employ white labour and that only. When one looked at the motion as it was brought forward&#x2014;was it due to a desire to increase the white population in this country? Was it only a desire to benefit those who were already working on the gold mines? Was it a desire to benefit the natives? As far as he could see, there was no room left for the natives, or was it due to a desire to get a largely increased population which in time would dominate politics in this country? (Ministerial cheers.) That was how it presented itself to him, because he was unable to see how, in any other way, it would benefit them. They were told sometimes, by the way, that it was not at all a question of colour, but of cheapness. Well, he would like to say, that if a white man and a black man were employed at the same work and the same wages, they would soon hear all about it. He believed the object of the motion was to squeeze out the native in this direction, and subsequently squeeze him out in every other direction. He would like the mover to say that he only intended it to apply to mining areas, and to industrial and railway communities, and not to agricultural areas. The hon. member for Jeppe (Mr. Creswell) had pointed out that the number of whites in Natal showed a decrease at the last census. That census was taken 18 months after the late war, while there was still a certain floating population ; but if it had been taken a couple of yeans ago, it would have shown an increase since then. And on the Rand there were more whites to-day than there were in 1904. The hon. member for Jeppe had appealed to the Natal members, and asked them how they would like to see their trade going to Delagoa Bay, as the price of outside labour. As a matter of fact, since the Mozambique Treaty was entered into, Natal had had a larger share of the carrying trade than it had before, especially since the present Union Government had taken the matter in hand. The complaint the Natal planters bad was as to the preferential treatment being given to the mines in the matter of labour as against the farmers. The sugar planters of Natal had been very severely hit under the Mozambique Treaty, for Portuguese and Mozambique sugar was admitted to the Transvaal duty free. In the first year of the Treaty Mozambique sent only 600 tons of sugar to the Transvaal ; in the second year the quantity was 2,400 tons, and in January of the present year the quantity was 2,270 tons. At the same time, the Minister would not allow the Natal planters to share in the labour which might be obtained outside the Union. The hon. member for Jeppe had appealed to the farmers, for whom he felt very deeply at the present time. Let him (Mr. Clayton) assure the farmers that when the hon. member had done with mines, he would try to wipe out the farmers&#x2019; labour also. (Ministerial cheers.) It was bad enough now for the farmers to have all their labour enticed away to the goldfields, but when the time came when the 100,000 natives ceased to come from outside the Union, the deficiency, so far as the mines were concerned, would be made up from within the Union, and the farmers would suffer as a result. As labour grew scarcer, higher prices would be paid for it, and so the rate of charges would go up to such an extent that eventually there would be very few natives left for any but the mining industry. Some consideration should be paid to the interests of those who had been longer in the country than the miners had been. Continuing, the hon. member said that during a recent visit to the Rand he inspected certain premises on one of the mines, and every praise should be given to those who had done what they could to minimise the evils that prevailed. There was a peculiar feature with regard to the native, and that was, that the higher wage one paid him, the less he worked. The native had certain needs, and when he had obtained the means of satisfying those needs, he returned to his kraal, so that, if the native could get enough to supply his wants in two months, he would not work for four months. Of the natives, throughout the Union, if allowance were made for the large number of children, aged, and infirm, probably not more than half-a-million were available for work. Natives only worked for about six months in every year, and so the half-a-million had to be divided into two so that there were very few natives left after the mines had been supplied. The fact was that there was not a sufficient supply of native labour. It was all very well for the hon. member for Fordsburg (Mr. Duncan) to say that we must not depend on them. If they wiped away the native labour, they wiped away the industries which employed them. (Cheers.) Then they were told that they must stop, the importation of native labour. But there were many industries which could not be carried on by white labour. He recognised that there was a great public opinion, against Asiatic labour. The prejudice that existed was prejudice that was based entirely upon ignorance, and the time would come, he firmly believed, when <span class="col_1247-1248" refersTo="page_0630"/>that prejudice would be removed. The situation at present in Natal was very acute. They had also evidence that it was acute in other parts of the Union. And it is at such a critical period that it was proposed to diminish the labour supply by closing external sources. No wonder such a proposal was received with dismay.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said that two arguments were brought against a motion of this kind. The first was that they wanted to squeeze out the native. As a matter of fact, even if they wanted to squeeze out the native, it would be an absolute impossibility. Those of them who supported this motion&#x2014;and he intended to vote for it&#x2014;(hear, hear)&#x2014;took this view, that there was plenty of room in South Africa for the natives that were here to-day, but they did say that, no more coloured men should be imported in order to supply the shortage of labour. They did not desire for one moment to force the position by importing indentured white labourers on a large scale. That should be left to natural economic forces. Another point that was brought up was that they could not produce as cheaply with white labour as they could with coloured labour. He would take a thing like cotton, which, it might be said, was essentially a thing that could be produced by coloured labour. If the employment of white labour on such a thing had been suggested in the Southern States of America prior to the war of 1864 it would have led to ridicule, but to-day one-half the cotton crop in the Southern States was grown by white labour. Then there was talk of &#x201C;wiping&#x201D; out industries. Why was it that this country, with its cheap coloured labour, was calling for protection against the products of purely white labour elsewhere? Take the grain industry. Against whom was further protection demanded by the farmer of this country? Largely against Australian-grown wheat, wheat grown under absolutely white conditions. Take butter, for instance, which was imported largely from Australia and was produced under purely white labour. What would be the attitude of a lot of their friends on both sides of the House if the Government thought of taking off the duty to-morrow? Again in the leather trade, where the tanning here was done largely by coloured labour, they found that the tanners wanted increased protection against the tanners of the United States, or the tanners of Australia, who employed white labour entirely. The real truth was that, broadly speaking, the coloured labour in this country was extremely inefficient. How could it be otherwise, especially with native labour in any case, which only worked for a certain time each year and then returned to the kraals? Then, furthermore, this cheapness of coloured labour tended to make employers extravagant in regard to the employment of labour. Where labour was on a purely white basis, they employed far more machinery than was done in this country. They never found people employing machinery if they could get cheap labour. The industries we had in this country had to be protected notwithstanding the fact that in many cases the products against which our industries had to compete were produced by purely white labour. He thought the question of the labour supply in this country was rapidly coming to a crisis. To-day every branch of industry was calling for more labour. He did not think he exaggerated much when he said he thought that, with the development that was going ahead, this country could absorb probably something like 100,000 more unskilled labourers. If that were so, where were they going to get these labourers? The only place here where they could get coloured labour to-day besides Portuguese East Africa, where it was now got, was Portuguese West Africa. He doubted whether much could be got from there. Even so, the available supply was bound to be a decreasing quantity, in view of the developments that were taking place in various parts of Africa. He believed that this country was on the eve of great developments in industry. To-day we were dependent upon coloured labour. There were to-day some seven million natives and coloured people who could be drawn upon for a supply of labour. To his mind, that was nothing at all compared to the possibilities for development in this country. Look, for instance, at Canada, Australia, and the United States. Canada had been built up on a white basis and had the populations of Europe to draw upon, yet she was unable to get a sufficient supply of labour. Australia was in just the same position. In the United States of America, although they had a population of 80 millions, they were drawing largely from Europe for their labour; and how could they expect development in this country to go on, for which they needed labour, when they had only about seven millions to draw upon, compared with the development of Australia and the United States of America, which had the whole of Europe to draw upon? How could there be any industrial development here, when they did not have sufficient labour for their primary industries? There was no labour to spare for industrial development. If South Africa was to develop land to progress, she would have to look elsewhere, and would have to look either to Europe or to Asia. The time had come when South Africa must make its choice. If they were to maintain the present economic basis, they had two alternatives before them: firstly, Asiatic labour; or, secondly, to stand still &#x2014;if they wanted to maintain the basis of coloured labour. He admitted at once that if you got Asiatics they would contribute to the development and the prosperity of the country&#x2014;he did not deny that for one minute&#x2014;but the evils they brought in their train were so serious and especially in the distant future of the country, that he, for one, strongly opposed the importation of Asiatics into the country under any conditions&#x2014;(cheers)&#x2014;and <span class="col_1249-1250" refersTo="page_0631"/>he would rather restrict development than introduce Asiatic labour. If they took the other alternative, they had the whole of Europe to draw upon. He recognised that it was going to be an extremely difficult job to transfer the basis from coloured to European unskilled labour, because it would mean that the white man would do the labour which at present was called, unfortunately he thought, &#x201C;Kafir labour&#x201D;; and it would have to be introduced in a very gradual fashion. Let it be known that no more coloured labour was going to be imported into South Africa&#x2014;which was an essential thing&#x2014;and when that had been laid down, employers of labour would begin to look elsewhere. (Hear, hear.) There need be no forcing; but they simply left it to natural forces. That process had already started to some extent; and if they took the Railway Department they would see that it was already employing white men for such labour, and there were also farmers who were employing white labour, because they could not get a sufficient supply of coloured labour. The process had already started; and what they asked was that it should not be retarded. (Hear, hear.) There was no getting away from the fact that employers preferred coloured labour because it was apparently cheaper, and for other reasons ; but if the supply of coloured labour was limited, they were bound, in their own interests, to take white labour. That transfer of labour from a coloured to a white basis had been done before; and the hon. member instanced the Southern States of the United States of America, where, after the Civil War, white men had begun to come in, and although the negroes had been employed, the great development which took place after 1870 had been the result of white labour. Prior to 1864, they had, he said, had to depend practically upon one&#x2014;the cotton&#x2014;industry ; and now there was not the slightest comparison between them. He believed that if the same policy were followed here, they would have the same results. They might have a set-back at first, but he had not the slightest doubt that they would get accustomed to white labour as in other countries; and if they had this country on a white labour basis, he believed that they would not have the poor whites. He believed that the greatest drawback that the poor whites&#x2014;who were unskilled&#x2014;had to contend with was the unwillingness of employers to employ white labour compared to coloured labour. If they stuck to their dependence on coloured labour in this country, they would always, he thought, have a comparatively small white population in South Africa. The United States of America had been founded in 1620, or 32 years before Van Riebeek landed here, and in the United States of America they had a population of 80 millions, while Australia, which had been settled 137 years after this country, had a population of 4&#x00BD; millions, against a miserable 1&#x00BC; millions of Europeans in South Africa. In those countries, however, they had a large white population doing the unskilled work&#x2014;and the great bulk of the population in any part of the world was made up of the unskilled labourers. If they could not get a sufficient supply of coloured labour here, they must restrict white labour, as the hon. member for Fordsburg (Mr. Duncan) had pointed out, because the white men were the artisans, supervisors, foremen, and the like. Only a limited supply of these was required, and the White population was, therefore, to a large extent, limited by the number of the coloured population. What was going to foe the future of the children of the white artisan in this country? He pointed out that these children did not get the same training as the children of artisans across the seas. To a large extent that same thorough training could not foe given to the children of white artisans in this country, because the white man got the coloured man to do odd jobs for him. He quite agreed with what had been said as to the eventual result of the coloured man encroaching on the skilled branches of industry. That must be so, &#x2018;because the&#x2019; coloured man in this country was improving himself every day. He alluded to the fact that there were a hundred thousand coloured children in the schools of the Cape Province at the present time. He pointed out that when the coloured youngster went to work he worked with a skilled white man. By and by he picked up all that was going, and was soon able to do a job as well as the white man himself. It was absurd to try and keep the coloured man down permanently, because the eventual result would be that competition would become so keen that tinman who would do the work the cheapest would get the jobs that were going. The coloured man had a better chance of learning his trade in this country than the Colonial-born white man. At the present time the coloured man was doing the whole of the unskilled labour which formed the basis of skilled labour, and the coloured man must eventually beat him in the labour market. They had reached the parting of the ways. Never in the history of the country had they a better opportunity of making this a white man&#x2019;s country. Never in the history of South Africa had they been so short of labour as they were at the present time. He did not think they could have better circumstances for introducing into this country a number of white men to do what unskilled labour there was to do. They did not want a revolutionary change. They wanted to lay down that no more coloured labour must come into the country, and then employers would have to look around and take up white labour. If they did not do that they would restrict the white population of this country. If they did not adopt such a course it was hard to say what would he the future of the white race in South Africa.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from><span class="col_1251-1252" refersTo="page_0632"/>*Mr. <person refersTo="hansard_za">H. W. SAMPSON</person> (Commissioner-street)</from>
+
+<p>said that he rose to support the motion that had been tabled by his hon. friend the member for Jeppe (Mr. Creswell). He wished to endorse all that had been said by that hon. gentleman, and in the main, the hon. member for Fordsburg (Mr. Duncan), and the hon. member for Cape Town (Mr. Jagger). He would not traverse all the arguments that had been used by those hon. gentlemen, but he would like to reply to some of the arguments that had been advanced against the acceptance of the motion that was before the House at the present time. It had been stated that there were no large numbers of people in this country who would endorse the policy that had been outlined in the motion. He wished to state that this policy had, for many years, been endorsed by the organised industrial bodies of that country. This had been the policy of the Labour party since its inception, in spite of misrepresentation; and he was convinced that if there were fewer employers of labour in that House they would have obtained better support for the motion brought forward by his hon. friend the member for Jeppe (Mr. Creswell). One hon. member who had spoken against the motion said that if this policy were carried out the farmers of the country would be obliged to employ white labour, and this they could not afford to do. He (the speaker) contended that in that one argument the hon. member had destroyed the whole of the case put forward by hon. members opposite for the protection of the farmer. They were constantly asking for protective tariffs against countries which employed white labour only. He felt sure that the hon. member for Bechuanaland could not have read the motion, else he would not have said that the policy proposed was to legislate against the employment of coloured people in the country. There was nothing in the motion which led anyone to suppose that they aimed at stopping the employment of the coloured man. They had no desire to see the coloured people starve. They wanted these people to work for a decent wage. They wanted to civilise these people and make them better than they were and not leave them in the condition that they were at the present time. He considered that the hon. member for Bechuanaland had put forward very weak arguments against the adoption of the motion. He considered that hon. members on the opposite side paid too much attention to the one industry of the country. They were apt to make a similar mistake to that made by the industrial population on the Rand a few years ago in believing that the prosperity of the mine owners foreshadowed, their own prosperity. He went on to refer to a statement which had appeared in an English paper to the effect that there was much jubilation on the Rand for the reason that owing to drought a large number of natives who would otherwise have been employed on farms would be able to come to the mines. He thought that that was hypocrisy. The mine owners while pretending to be their friends rejoiced at the distress caused by drought among farmers, because they would get their supply of native labour increased. They contended that if the motion were carried it would have this effect: It would be recognised by large employers of labour in South Africa that it would be impossible to go on with development work with a restricted supply of labour, and that the time would sooner or later arrive when employers would be forced to consider some other basis than the black basis of supplying their labour wants. He submitted that if that motion were carried the mine owners on the Witwatersrand would be the first people to give this matter their earnest consideration. They knew that it was impossible to employ the two races&#x2014;white and black&#x2014;together at the same kind of work, and knowing that the supply of natives would be diminished considerably by competition among employers, mortality and accidents, they would recognise that in the future they would have to depend more and more upon white labour. When that was put in practice the natives would gradually go back and become agriculturists on their own account, or work for the farmers at, he hoped, a higher wage than they were being paid at the present time. If they now desired to give employers cheap labour they were guilty, apart from colour, of the most monstrous racialism. It was a system of living on the black man, and it had set up a state of racialism of which both sides were guilty and for which neither could take any credit. The native would receive greater consideration if he was not regarded as a chattel&#x2014;something to be exploited, and it was because of that that he was now in such a low state of civilisation. It had already been pointed out that by this means they were depriving themselves of a large amount of trade in this country to which they were entitled, and this simply to secure for the large employers in this country a large supply of cheap labour. They were stifling the field of employment for whites simply for that object, and, at the same time, there were shiploads of their own race passing their doors every week for Australia.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>They are not welcomed there.</p>
+
+</speech>
+
+<speech by="#sampson">
+
+<from>*Mr. <person refersTo="hansard_za">SAMPSON</person>:</from>
+
+<p>They are. They are welcomed by the Labour party, and work is found for them before they get there at a decent wage. Proceeding, he said he would refer to the important point raised by the hon. member for Umbilo. He accepted the first part of the motion ; but when they came to the question of doing something they seemed to fall out. He desired to delete the only two clauses containing any practical method of giving <span class="col_1253-1254" refersTo="page_0633"/>effect to his own desire, and said, that one of the most important factors in solving the white labour problem was the establishment of a Labour Board, which would determine the minimum rate of wages. Surely he knew that there must be some basis on which to determine the minimum rate. Some standard of living&#x2014;either that of the white or the black&#x2014;must be taken as the basis of a minimum wage. Should the minimum rate then be that of the white man or the coloured man? Well, it simply came to this, that if that suggestion were adopted, if the white man&#x2019;s minimum wage were adopted, then it would mean the elimination of the black man, and if the black man&#x2019;s minimum were adopted, it would mean the elimination of the white man. One or the other would have to go, and looking at the composition of that Parliament, he was afraid it would be the white man. The hon. member concluded by moving to delete paragraphs 2 and 3. The hon. member for Umbilo said he had made up his mind that they had arrived at that crisis where they could no longer burke the question, but he proposed nothing further. In short, he was afraid of his own suggestion. He hoped he was prepared to define a minimum wage. The hon. Minister of Native Affairs gave them some sympathy. He went part of the way, but not all the way. It seemed as if the high mortality among the natives on the mines had pricked his conscience, but he did not think it was so much a question of black or white labour. Then the Minister had said that they&#x2014;the Labour party&#x2014;desired artificial restrictions to keep the natives in place. No one on those benches had said they should be kept in their place by a number of restrictions. And the Minister said that no artificial restrictions would succeed, because the white men would always win. That was what they asked for; that there should be equality of opportunity for the work of the country, that there should be equal pay for equal work, on a basis which would allow all men to live in decency. That could not happen while whites could only obtain work at the black man&#x2019;s present wage. No one had persisted more than the Labour members against artificial restrictions. Then the Minister used the argument that the whole trouble in South Africa was that the white man would not work. What evidence had he to prove that? Had any serious attempt been made to use white labour in this country? Where the attempt had been made it had succeeded. He admitted that white labour often performing that kind of work had been put to a tremendous disadvantage ; but there was no reason why they should continue to expect that whites should live at a lower standard of living in this country because they performed that class of work. They said that even the coloured men in this country were not living at a fair standard of civilisation. They wanted to see even their condition improved, and consequently there must be some bettering of the wages and conditions of labour even in regard to the natives. Well, there was no doubt about it that all industries in this country had a white basis, irrespective of what hon. members had said that all industries had a black basis ; for all industries here were started by the whites. They had a purely white basis in this sense, that white speculators who found some industry here to exploit for profit, first of all had to import whites to start the industry, on account of the backwardness of the natives. The next step was that the native was put into the workshop to cheapen the price of production, and the next state was that the white man was teaching and continued to teach to the natives the knowledge he had gained in some other country ; and at the end of that time, when he had taught those natives all he knew, the white man could get out or was merely retained as a superintendent. Even in that limited field his position, was not permanent. This country had been simply a big native school, and here they found the pupils&#x2014;the blacks&#x2014;rising and taking the places of the teachers&#x2014;the whites. He had heard it pointed out that what they wanted to do was to raise the white man so that he could compete with the black man. They wanted to teach him to be a superintendent of blacks. Well, he had shown by the tendency in this country it was no use making the whites the superintendents when they had a body of blacks that would one day be as good as or better superintendents of the black race than the whites. What would remain would be the white investor and he alone. Then they had the gibe at Trades Unionism by the hon. Minister. He said on what terms would the white man work, and on whose terms? The terms of the Trades Unions of this country. It seemed to him to be coming from the wrong quarter for lawyers to gibe them with being Trade Unionists. Only the other day there was introduced into that House the Incorporated Law Societies Bill, and it was well known that lawyers were the cream of Trade Unionists. Did the hon. Minister infer that he was not going to support Trades Unionism and vote against the Bill. Continuing, Mr. Sampson assured the Minister that the natives too believed in the principles of Trades Unionism. Dr. Rubusana, addressing a meeting of natives at a Kafir location on the Rand, stated that labour agents deceived the natives, that the whole of the labour question rested with the natives, and recommended the natives to start a labour association. (Cheers.) So they would see that the natives were following in the footsteps of the Trades Unionists. That meant that the present low rate of wages paid to the blacks was but a temporary one. The Labour party was glad to hear that the <span class="col_1255-1256" refersTo="page_0634"/>Government had decided to set its face against any further importation of coloured alien labour. They hoped the Minister would be prompted in the future by the same desire for the welfare of the whites as, he had for the welfare of the natives. He (Mr. Sampson) now came to the important argument which had been advanced by the hon. member for Fordsburg, who had drifted into deeper water. He understood the hon. member for Fordsburg to say that the solution of the native difficulty was to be found in the gradual assimilation of the higher civilisation by those who were lower in the scale. The hon. member also said that segregation was impossible in South Africa. However, in his (Mr. Sampson&#x2019;s) opinion, not only was that possible, but he thought that it was the natural solution of the native problem&#x2014;it was going back to where Nature found us. It was the natural tendency of the white and black races to drift apart. Mr. Booker Washington, in a recent article in the &#x201C;North American Review,&#x201D; stated, and proved from comparisons of statistics taken from census returns that there was a tendency towards segregation among the blacks in the Southern States of America. The black man (stated Mr. Washington) was retreating from the factories and taking refuge on the soil; the tendency towards segregation was observable. He (Mr. Sampson) submitted that the same thing would happen here if the natives were left alone. If their laws had an opposite tendency to what they had to-day the process would be hastened. He submitted that if there were no desire to use black labour, if it became dear, of if it became impossible by reason of the supply being limited it would naturally drift away from white, communities. They would then be called upon to make provision for them in defined native areas. Those who were looking for a solution of the problem in assimilation were absolutely doomed to disappointment. All captains of labour knew that it was practically impossible to work a mixed gang. The tendency was for every gang to become either all white or all black. We found that in this country there was a tendency for blacks and whites to separate. It had been asked why were not coloured people admitted to Trades Unions. He (Mr. Sampson) was one of the founders of the oldest Trades Union in South Africa. They started without any colour bar, nor had they ever had a colour bar. All men who were prepared to maintain the white minimum wage were admitted. But the natives had never shown a desire to come into the Unions&#x2014;(hear, hear)&#x2014;they had preferred to hold aloof. But there was a distinct desire on the part of the natives to form their own Trades Unions, apart from the whites. In conclusion, Mr. Sampson said it would be a long day before they would achieve a white nationality for South Africa, but that was their ideal, and by striving to obtain it, they would be accomplishing something for posterity besides money-making. The motion was a start in that direction. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>*Sir <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield)</from>
+
+<p>said they had heard so much theorising that perhaps he might be excused if he gave his views from a practical point of view&#x2014;(hear, hear)&#x2014;founded on long experience. The mine owners, in his opinion, employed as many white men as they required, and in a great many instances they employed many more white men than were necessary for the work. They would employ more white men if they could do the work, but the white man was physically unfitted to do the work the natives were performing. The climate of South Africa was against the white unskilled labourer. It was impossible for a white man to work on the floors of a mine, using pick and shovel, during the summer months. He would collapse, and it would be impossible for him to survive work of that kind. They heard considerable criticism, and, rightly, many appeals on behalf of the men who were suffering from miners&#x2019; phthisis. But the death-rate from that would considerably be added to if white men were put to do the work that natives were undertaking at the present time.</p>
+
+<p>There were two factors which to his mind interfered with the employment of white labourers on a large scale in this country. They were the high cost of living and the rate of wages existing in this country. If they abolished their Customs duties they would have cheaper white labour, and they could afford to employ more white men in places where white men could do the work. South Africa was a paradise for a skilled workman. He got higher wages from the mining companies than in any other part of the world. An unmarried mechanic in this country could save more in a fortnight, live well, clothe himself have recreation and amusement than he could earn in four weeks in England. There was another great cause for the decrease of employment of white men in this country, and that was the action of the leaders of the white workers themselves. They were continually criticising and denouncing the conduct of the employers of labour in this country. He heard the other day with pain and astonishment a speech delivered by a hon. member in that House in which he said it did not matter to the magnate if a man fell down a hole or got hurt or killed, there were many more men left. Yet, after making such a charge against the magnates, as if they were inhuman and unfitted to employ labour, they saw on those benches the utmost anxiety to have more white men employed by these terrible monsters. They heard the cry of &#x201C;Bust the magnates.&#x201D; He would like to know who would employ these men if the magnate did not?</p>
+
+</speech>
+
+<speech by="#labour_member">
+
+<from><span class="col_1257-1258" refersTo="page_0635"/>A <person refersTo="hansard_za">LABOUR MEMBER</person>:</from>
+
+<p>We ourselves.</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>*Sir <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield):</from>
+
+<p>Well, you have an opportunity now ; why don&#x2019;t you do it? The necessities of the working men themselves create the necessity for the magnate or the combination of capital. To my mind an argument of that nature is as ridiculous as advising a man to destroy the roots of a tree to preserve its branches. I would advise my hon. friends here to drop this constant denunciation of employers of labour I know some of the leading men in the mining houses in Johannesburg, and I am connected with some of the concerns, and against some of the vile accusations which have been made I can say this&#x2014;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>On a personal explanation, would the hon. member specify the &#x201C;vile accusations&#x201D;?</p>
+
+</speech>
+
+<speech by="#harris">
+
+<from>*Sir <person refersTo="hansard_za">D. HARRIS</person> (Beaconsfield):</from>
+
+<p>The vile accusation is of being indifferent to the lives and limbs of white men in their employ, as expressed, I think, the other day by the hon. member for Georgetown. I can say this, in the long course of my experience among a large number of employers in Johannesburg, they are men of public spirit, and I believe they are as anxious as the company with which I am connected to preserve human life and limb as much as possible. I think if hon. members on these benches would give mine owners or those who are associated with them credit for having a little humanity they would be doing far more good and benefiting those who follow them, and that their statements in this House would be treated with far more respect than they are now. (Cheers.)</p>
+
+</speech>
+
+<speech by="#alexander">
+
+<from>*Mr. <person refersTo="hansard_za">M. ALEXANDER</person> (Cape Town, Castle)</from>
+
+<p>said that he wished to protest against the wild statements that had been made by the hon. member for Commissioner-street and at the policy he had advocated. This motion was a dig at the mining industry, and an attempt to get that House to prevent the coloured people from coming into competition with those gentlemen for whom hon. members on the cross benches had been speaking. The hon. member had said "Segregate them.&#x201D; (VOICES: &#x201C;No.&#x201D;) The hon. member spoke of the native, and they knew that these gentlemen drew no distinction between the native and the coloured man. (Dissent.) There was no question that these gentlemen had ever considered themselves the natural enemy of the native in this country. They were obsessed with the idea that the nation consisted of the white people. The nation consisted of the white people, the coloured people and the natives. He (Mr. Alexander) thought they were greatly indebted to the Minister of Native Affairs for the fine statesmanlike speech he had made, on this motion, a speech that required a great deal of courage and which stated in plain terms what was behind the motion and how they should solve the labour problem. He agreed that they did not want to import alien coloured labourers. Proceeding, he pointed out that a red herring had been drawn across the trail in regard to the law as to the treatment of natives, etc., who deserted their master&#x2019;s service as between mines and the farmers, and stated that they were both on the same footing, inasmuch as the Free State, the Transvaal, Natal and the Cape had all got their stringent Master and Servants&#x2019; Acts. He had been brought up on Cape lines, and looked at these matters in a different manner from the hon. members for Jeppe and Commissioner-street ; and he thought that the natives, who had been in this country for centuries before the white man came there, were entitled to greater consideration than the segregation proposed by the hon. members. If they had raised themselves, surely it was all the more credit to them. If a native, with all his disabilities, was able to compete successfully with a European, the hon. members on the cross benches were going to give the Europeans artificial stilts. The white labourer should) rely on the skill of his arms, and not on the colour of his skin. He had never been in favour of the unrestricted importation of Asiatics, but when they were dealing with the coloured men of this country, it was surely courting disaster to say that, in considering that labour problem, they must not take the coloured people or the natives into consideration. The hon. member for Jeppe (Mr. Creswell) simply ignored them. He thought that the hon. member had looked through the wrong end of the telescope; and while they ought to widen the scope for all workers in this country, whether they were white or coloured, they should not lay down a principle that the ordinary law of natural development should not take effect. If the law of economics was going to take its course, the best man was the man who was going to win in the end. There was no spoon-feeding necessary, as the hon. members on the cross-benches wanted in regard to the white labourers. He supposed that what they wanted was that once they had got all the natives into the kraal, they could demand what wages they wanted for the white man. They were against the law of competition. In conclusion, he moved, as a further amendment, in sub-section (1), after &#x201C;for the,&#x201D; to omit &#x201C;white&#x201D;; after &#x201C;population&#x201D; to insert, &#x201C;of South Africa&#x201D; ; and in sub-section (2), to omit &#x201C;in that it tends to narrow the field of white employment.&#x201D; The motion would then read: That in the opinion of this House (1) The widening of the field of employment for the population of South Africa is essential to the well-being of this Union; (2) the continued importation of alien native labourers from territories beyond its borders is undesirable; and (3) a commencement should at once be made to, curtail, such importation by prohibiting the entry <span class="col_1259-1260" refersTo="page_0636"/>into the Union of natives recruited in territories situated north of the 22nd degree of south latitude.</p>
+
+</speech>
+
+<speech by="#berry">
+
+<from>Sir <person refersTo="hansard_za">W. B. BERRY</person> (Queenstown)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>*Mr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said that the found he had made a mistake ; he thought that the hon. member for Cape Town, Castle (Mr. Alexander) was an educated man, and could read. History showed that the best man did not always win. As to what the hon. member for Beaconsfield (Sir D. Harris) had said, about white men being employed if they could be employed, but that the climate was against them, all he could say was that he knew of an instance (in Australia) where white men were employed on mining operations, timber getting, and agriculture, where the temperature often reached 98 degrees in the shade, and it had been found that these men were the healthiest in the world. What was the case here was that white men did not get an opportunity ; or a sufficient inducement was not offered to them. Throughout South Africa the policy had been shutting out the white man, and degrading the black man ; and he regretted it. A sugar planter in Natal told the Indian Commission that he was doing all he could to get rid of the natives. The thing which had impressed him when he was on the Commission was the strong aversion expressed to the natives. It was said that white men could not do the work on the sugar fields, but it had been proved in Queensland that white labour could prove a splendid success; and the Kanaka labour had been done away with.</p>
+
+<p>Continuing, he asked what they found m Natal? In 1908 the unemployment question was acute. Certain members of Parliament suggested that the sugar planters should be approached, and asked to employ white men to cut cane. Would they agree? Not they. He proceeded to quote the experience of other colonies where all the work was done by white labour. Hon. gentlemen in Natal told the Commission that if they were given Australian conditions they could grow sugar with white labour. The Labour party (wanted to see equal opportunities under equal conditions for white and black men, irrespective of their colour. They maintained that the labour of the country should have the first opportunity in the market. He considered that industries&#x2013;&#x2013;as they were told was the case with agriculture and sugar planting&#x2014;that could not pay a living wage were not worth maintaining. The hon. member for Zululand referred to the increase in price. What did that mean? At one time Indians were paid 16s. a month; now they were paid 24s. They were told that 16s. a month was too high a wage to pay these people. It should be laid down once and for all that the work of the country should go to the people of the country as far as they were able to do it. They had not had that. They had been exploiting the labour of the country to the detriment of the country for the benefit of a few foreign speculators. The country had suffered. But that condition of affairs would be changed by-and-bye. He would say one word to the Minister. He was surprised to find that hon. gentleman hanging himself with a fallacy. He talked about economic law. He said that all was under the absolute control of economic law. That was nonsense. (Laughter.) What was law? Laws were made there and were a prescribed course of conduct. But economic law was a tendency always modified by human action. The Minister said that under the present system it could not be altered. It was just the present system that they maintained was wrong. The system was wrong, and though the Minister was endeared to the system Ministerially, it was not really his conviction. He (the speaker) was sorry for him, because he took up that attitude owing to the pressure brought upon him. He (the speaker) wanted to see the field widened. The white man was not wanted. Why? Because for the moment black labour was cheap. But that would not be for long. There was one point about native labour he did not agree with. He did not believe in cutting down a man because of his colour. He knew of a large place where natives were engaged in making harness, and they turned out as good work as the whites ; but the buyer did not get it cheaper because it was made by a native. The Kafir was paid Kafir wages, and the employer, got double profit. That was the evil. They wanted the field of white labour extended, and the proper field of the coloured man extended, and his field was agriculture and cattle raising. (Hear, hear.)</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said that so far as he was concerned he did not propose to deal at length with the main question before the House, as he saw nothing new in the arguments that had been brought forward. They from the Transvaal were well acquainted with them. Surely it was a curious proposal, first of all to admit there was a very great scarcity of labour in the country, and then propose that that scarcity should be made good by taking away a large proportion of the labour that they had. The logical conclusion of the policy of the hon. members on the cross-benches would be the elimination of the coloured man. There was no real distinction between a native living half-a-mile inside the Portuguese border and a native living half-a-mile inside the Transvaal border. It seemed to him that the result of this motion would not merely be that slight dislocation which all the supporters agreed would ensue, but a very serious upheaval of conditions. In regard to what the Minister of Native Affairs had said the other day in connection with the mortality of tropical natives in the mines, he thought they were in the main agreed on that point. In fact, if he remembered <span class="col_1261-1262" refersTo="page_0637"/>rightly, he said last session that, so far as he was concerned, if it appeared after a reasonable time that there was no probability of the high death-rate being reduced, he, for one, would not be prepared to defend their further employment on the mines. The Minister said he went up to Johannesburg, and made some investigation himself, and he found a state of affairs, that seemed almost incredible, and he said that state of affairs could only have existed because of a cynical disregard for human life and ordinary common humanity. He acquitted the Minister at once of any intention to mislead the House, but he did not think he considered what were the actual facts. Now, would any one, haying heard the Minister say that, have realised that these natives received in every case, without exception, as good treatment as all other natives, including the Cape Colony natives, whose death-rate and treatment the Minister said were satisfactory, and that in 99 cases out of 100 they received better and special treatment, and he thought the Minister would admit that, perhaps, in this respect his words required some qualification. Regarding the Minister&#x2019;s figures, he did not think he meant to mislead, but in effect, that was just what he did. That was to say, unconsciously, no doubt, he made the worst of them. His (the hon. member&#x2019;s) reason for saying so was that in some cases the returns referred to the employment of a very small number of natives on mines. It was perfectly obvious where they had five natives employed, and two or three died, the death-rate would be very high. If hon. members took the trouble to look at the returns laid on the table by the Minister, they would find that they were divided into five periods&#x2014;the first from October, 1910, to June, 1911 (nine months) ; the second from July, 1911, to October, 1911 (four months) ; the third from October, 1910, to October, 1911 (thirteen months) ; the fourth the months of November and December, 1911 ; and the fifth from October, 1910, to December, 1911 (fifteen months). He thought it would be agreed that for the purpose of comparing the death-rate, the fairer period to take would be the last&#x2014;namely, the fifteen months ending December 31 last. He found that of the figures quoted by the Minister, 14 referred to the first period, 11 to the second, 5 to the third, and none at all were taken from the last period. He thought it would have been fairer if the Minister had taken the figures from the last period, for the whole basis of their contention was that the employment of these natives was justifiable, because there was a distinct tendency for the death-rate to go down, and he thought it was a further proof of the justice of his contention, that so far as he was able to see, from a rough compilation, if the Minister had taken the averages from that longer period in the case of every one of these groups whom he had mentioned, the average death-rate would have been lower than the average of the figures that he gave to the House.</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person>:</from>
+
+<p>That is so; but they are still bad enough.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>continuing, said undoubtedly there was a very considerable difficulty in coping with the death-rate among these people, but what they bad to see was whether they could get the death-rate down to such a figure as to justify the continuance of their employment. He was going to give figures which, he thought, showed there was every justification for their retention. He found on investigation that if they took the first six months of 1911 the average death-rate was 76.83 per thousand; in the second six months the average dropped, to 54 44 per thousand; in January, 1912, the figures had come down to 48; and in February they dropped still further to 38.9. He contended that that showed very conclusively that the steps that bad been taken, partly, he admitted, on the initiative of the Minister and his department, were having actual effect, and the death-rate was going down. Of course, it was impossible to say that that reduction would be reflected from month to month. They might have an epidemic, but he thought that it would be continued. The reasons for the reduction were, first of all, there was a greater care being exercised by the recruiters in selecting these tropical recruits, and, secondly, there was an increased supervision of these people. A good many members of that House had seen for themselves that the conditions of affairs on the mines was by no means as bad as was sometimes said. He quoted from the regulations as regarded the treatment of native labourers in the compounds, and asked whether that looked as if there were cynical disregard of life? (Hear, hear.) There was, he said, another point, viz., that the mining industry had at great expense obtained the services of an eminent expert from England, and a competent staff of assistants, in reference to the deaths among natives from pneumonia. It was obvious that, if these experiments were successful, there would be a very much greater fall in the mortality. He believed that that would be the case. The death-rate was coming down. No reasonable precaution that was suggested by any competent authority was neglected. He believed as time went on that the death-rate among native labourers would come down still further. (Cheers.)</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>*Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>said that the hon. member for Jeppe had spoken about the great mortality that existed amongst the tropical natives employed at the mines. He did not know whether the hon. member was moved by any feeling of compassion when he spoke as he did in regard to those natives. If he did, he (Dr. MacNeillie) could only express, his regret that he was not seized with <span class="col_1263-1264" refersTo="page_0638"/>similar feelings of compassion at a much earlier period in his career, when he had under his charge a number of workers on the mines. The Minister had referred to the high mortality rates in mines employing tropical natives, and had said that recruiting must be stopped in regard to those mines for tropical natives. He thought the time had come when they should have an experiment tried of an all-white mine. Under the present economic conditions the mining industry on the Rand had grown up, and he believed they were not justified in calling upon that industry to make this (great experiment, but he thought that, owing to the importance of the subject, they were amply justified in starting an all-white mine, in order to demonstrate whether it was practicable or not, and that such mine should be run by the State. He, therefore, moved as a further amendment, to omit sub-sections (2) and (3) and to substitute the following new sub-section, yiz.: &#x201C;(2) The State, having valuable mining properties, should consider the advisability of starting an " all-white mine,&#x2019; in order to demonstrate the practicability of the further employment of white men in the mines of the country.&#x201D;</p>
+
+</speech>
+
+<speech by="#macaulay">
+
+<from>Dr. <person refersTo="hansard_za">D. MACAULAY</person> (Denver)</from>
+
+<p>seconded the amendment.</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>*Mr. <person refersTo="hansard_za">A. FAWCUS</person> (Umlazi)</from>
+
+<p>said that the prevention of free access to the field of labour would have a tendency to decrease the field of white labour. The only thing they could do on this motion was to increase the wages paid to the workman for &#x201C;unskilled&#x201D; labour, as it was called, but in many respects very highly skilled in deed. Long before they reached the cost at which the white man was prepared to do the work in this country they reached the point at which the coloured and black man was prepared to do it and undersell him. The white man was neither anxious nor willing to do the hard work which was done by the Kafir and coloured man to-day. There was very little &#x201C;dignity,&#x201D; but plenty of discomfort connected with such work. They could not extend the field of white labour by keeping out the black labourer. The white man who did not qualify himself above doing unskilled labour would always have coloured labour to compete with him. Sir Percy Girouard had caused a thousand white men to be imported into the Transvaal for railway construction work, but it had been found that it took six or seven white men practically to do the work which had been done by one native man. They had had to be sent back again.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>What is the case now?</p>
+
+</speech>
+
+<speech by="#fawcus">
+
+<from>*Mr. <person refersTo="hansard_za">FAWCUS</person></from>
+
+<p>said that as to what the hon. member for Roodepoort (Mr. Haggar) had said as to the sugar industry in Queensland, the sugar there came from Java, where there was coloured labour. There were sugar refineries in Queensland. Dealing with the question of the minimum wage, he asked what the minimum wage must be. One man who had been asked that question had replied &#x00A3;1 a day. (Laughter.) In the old country they saw that there was a strike which was paralysing the whole trade of the country, and the men demanded a minimum wage, but the employers could not discharge the men if the men did not do a certain amount of work, because if they discharged a man the Trades Unions would call a strike. They must be careful with legislation, because it sometimes had the opposite effect which they desired. The effect of the anti-Chinese legislation had been that the coolies in Natal did not care to leave the country owing to the high wages. He moved the adjournment of the debate until Monday 27th inst.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#incorporated_law_societies_bill">
+
+<heading>INCORPORATED LAW SOCIETIES BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that the Standing Rules and Orders Committee, having received representations that it will be impossible for the Minister of Justice to attend the sittings of the Select Committee on the Bill, recommend that he be discharged from further service thereon, and that Mr. Fawcus be appointed in his stead.</p>
+
+<p>This was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#gill_college_corporation_bill">
+
+<heading>GILL COLLEGE CORPORATION BILL.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>reported that the committee had appointed Mr. Louw to be a member of the Select Committee on the Bill, in the place of Mr. Vintcent, who was discharged from further service thereon.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1912-03-20T17:55:00">5.55 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
