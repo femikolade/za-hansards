@@ -1,0 +1,823 @@
+---
+title: 'House of Assembly: Vol14 - FRIDAY JANUARY 30 1914'
+layout: debate
+year: 1914
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>FRIDAY, January 30th, 1914.</heading>
+
+<prayers>
+
+<narrative>Mr. Speaker and the members met in the Assembly Chamber of the House of Assembly at <recordedTime time="1914-01-30T11:40:00">11.40 a.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#the_proclamation">
+
+<heading>THE PROCLAMATION.</heading>
+
+<p>By direction of Mr. SPEAKER,</p>
+
+<p>The CLERK read the proclamation of His Excellency the Governor-General, dated December 2, 1913, summoning Parliament to meet on this day for the despatch of business as follows:</p>
+
+<block name="quote">PROCLAMATION by His Excellency the Right Honourable Viscount Gladstone, a Member of His Majesty&#x2019;s Most Honourable Privy Council, Knight Grand Cross of the Most Distinguished Order of St. Michael and St. George, High Commissioner for South Africa, Governor-General and Commander-in-Chief in and over the Union of South Africa.</block>
+
+<p>Whereas by section twenty of the South Africa Act, 1909, it is provided that the Governor-General may appoint such times for holding the sessions of Parliament as no thinks fit, and may also from time to time, by Proclamation or otherwise prorogue the said Parliament; And where as by Proclamation No. 230, 1913 the said Parliament was prorogued until Friday, the Nineteenth day of December, 1913;</p>
+
+<p>And whereas it is expedient that Parliament should be prorogued for a further period;</p>
+
+<p>Now therefore under and by virtue of the power and authority in me vested I do by this my Proclamation further prorogue the Parliament of the Union until Friday the Thirtieth day of January, 1914, and do hereby declare, proclaim and make known that the Fourth Session of the First Parliament of the Union of South Africa constituted as provided by the said South Africa Act, 1909, will be held at Cape Town at twelve o&#x2019;clock noon on the said Thirtieth day of January, 1914, for the dispatch of business.</p>
+
+</debateSection>
+
+<debateSection name="#god_save_the_king">
+
+<heading>GOD SAVE THE KING.</heading>
+
+<p>Given under my hand and the Great Seal of the Union of South Africa at Pretoria this Second day of December, One Thousand Nine Hundred and Thirteen.</p>
+
+<p>GLADSTONE, Governor-General.</p>
+
+<p>By Command of His Excellency the Governor-General-in-Council.</p>
+
+<p>LOUIS BOTHA. Prime Minister.</p>
+
+</debateSection>
+
+<debateSection name="#opening_ceremony">
+
+<heading>OPENING CEREMONY.</heading>
+
+<p>By direction of Mr. SPEAKER,</p>
+
+<p>The CLERK read a letter from the Secretary to the Prime Minister, dated 8th December, 1913, stating that His Excellency the Governor-General had signified his intention of opening Parliament at noon to-day, with the usual ceremony.</p>
+
+<p>At a few minutes before 12 o&#x2019;clock Mr. Speaker and members proceeded to the <span class="col_3-4" refersTo="page_0008"/>Senate House to attend the ceremony of the opening of Parliament, and on their return,</p>
+
+<p>Mr. SPEAKER took the chair and read prayers.</p>
+
+</debateSection>
+
+<debateSection name="#roll_call">
+
+<heading>ROLL CALL.</heading>
+
+<p>The CLERK then read the List of Members, when the following answered to their names:</p>
+
+<p>Mr. Johannes Joachim Alberts.</p>
+
+<p>Mr. Morris Alexander.</p>
+
+<p>Mr. William Henry Andrews.</p>
+
+<p>Mr. William Duncan Baxter.</p>
+
+<p>Mr. Heinrich Christian Becker.</p>
+
+<p>Hon. Sir William Bisset Berry, Kt.</p>
+
+<p>Mr. Willem Wouter Jacobus Johannes Bezuidenhout.</p>
+
+<p>Mr. Hendrik Johannes Bosnian.</p>
+
+<p>Gen. the Right Hon. Louis Botha, P.C.</p>
+
+<p>Mr. Thomas Boydell.</p>
+
+<p>Hon. Henry Burton, K.C.</p>
+
+<p>Hon. Walter Frederick Clayton.</p>
+
+<p>Mr. Frederic Hugh Pago Creswell.</p>
+
+<p>Col. the Hon. Charles Preston Crewe, C.B.</p>
+
+<p>Mr. Frederic Reinhardt Cronje</p>
+
+<p>Sir Thomas Major Cullinan, Kt.</p>
+
+<p>Hon. Henry Latham Currey.</p>
+
+<p>Mr. Michael Johannes de Beer.</p>
+
+<p>Dr. Andries Lourens de Jager.</p>
+
+<p>Mr. Hendrik de Waal.</p>
+
+<p>Mr. Patrick Duncan. C.M.G.</p>
+
+<p>Mr. Gert Johan Wilhelm du Toit.</p>
+
+<p>Mr. Lourens Geldenhuys.</p>
+
+<p>Hon. Sir David Pieter de Villiers Graaff, Bart.</p>
+
+<p>Mr. William Henry Griffin.</p>
+
+<p>Mr. Evert Nicolaas Grobler.</p>
+
+<p>Mr. Pieter Gert Wessel Grobler.</p>
+
+<p>Mr. Charles Henry Haggar.</p>
+
+<p>Col. Sir David Harris, K.C.M.G.</p>
+
+<p>Mr. James Henderson.</p>
+
+<p>Gen. the Hon. James Barry Munnik Hertzog.</p>
+
+<p>Dr. John Hewat.</p>
+
+<p>Sir David Hunter, K.C.M.G.</p>
+
+<p>Mr. John William Jagger.</p>
+
+<p>Mr. Christiaan Johannes Jacobus Joubert.</p>
+
+<p>Mr. Jan Gerhard Keyter.</p>
+
+<p>Mr. John Gavin King</p>
+
+<p>Mr. Christman Joel Krige.</p>
+
+<p>Mr. Pieter Gysbert Kuhn.</p>
+
+<p>Sir Jan Willem Stuckeris Langerman, Kt.</p>
+
+<p>Gen. Lodewyk Arnoldus Slabbert Lemmer.</p>
+
+<p>Mr. George Albertyn Louw.</p>
+
+<p>Mr. Gysbert Henry Maasdorp.</p>
+
+<p>Dr. Donald Macaulay.</p>
+
+<p>Dr. James Campbell MacNeillie.</p>
+
+<p>Mr. Walter Bayley Madeley.</p>
+
+<p>Hon. Francois Stephanus Malan.</p>
+
+<p>Mr. Johannes Henoch Marais.</p>
+
+<p>Rt. Hon. John Xavier Merriman, P.C.</p>
+
+<p>Mr. Izaak Johannes Meyer.</p>
+
+<p>Mr. Hugh Mowbray Meyler.</p>
+
+<p>Mr. Marthinus Wilhelmus Myburgh.</p>
+
+<p>Mr. Emile Nathan.</p>
+
+<p>Dr. Andrew Murray Neethling.</p>
+
+<p>Mr. Richard Granville Nicholson</p>
+
+<p>Mr. Henry Alfred Oliver, C.M.G.</p>
+
+<p>Mr. Ockert Almero Oosthuisen</p>
+
+<p>Mr. Thomas Orr, C.M.G.</p>
+
+<p>Mr. John William Quinn.</p>
+
+<p>Mr. Jacobus Michael Rademeyer.</p>
+
+<p>Mr. Charles Phineas Robinson</p>
+
+<p>Mr. William Runciman.</p>
+
+<p>Mr. Henry William Sampson.</p>
+
+<p>Mr. Johannes Hendrik Schoeman</p>
+
+<p>Mr. Theophilus Lyndall Schriener.</p>
+
+<p>Mr. James Searle.</p>
+
+<p>Mr. Hendrik Philippus Serfontein.</p>
+
+<p>Mr. Percy Arthur Silburn. D.S.O.</p>
+
+<p>Hon. Sir Thomas William Smartt, K.C.M.G</p>
+
+<p>Gen. the Hon. Jan Christiaan Smuts, K.C.</p>
+
+<p>Gen. Tobias Smuts.</p>
+
+<p>Mr. George Louis Steytler.</p>
+
+<p>Mr. Charles Frederick William Struben.</p>
+
+<p>Hon. Hendrik Schalk Theron.</p>
+
+<p>Mr. Petrus Jacobus George Theron.</p>
+
+<p>Mr. Johannes Adolph Philippus van der Merwe.</p>
+
+<p>Mr. Jacobus van der Walt.</p>
+
+<p>Mr. Jacobus Willem van Eeden.</p>
+
+<p>Hon. Hercules Christian van Heerden.</p>
+
+<p>Mr. Christian Andries van Niekerk.</p>
+
+<p>Mr. Jan Abraham Venter.</p>
+
+<p>Mr. Hendrik Cornelius Wilhelmus Vermaas.</p>
+
+<p>Mr. Alwyn Ignatius Vintcent.</p>
+
+<p>Mr. Johannes Arnoldus Vosloo.</p>
+
+<p>Hon. Sir Edgar Harris Walton, K.C.M.G.</p>
+
+<p>Mr. Egidius Benedictus Watermeyer.</p>
+
+<p>Dr. Arnold Hirst Watkins.</p>
+
+<p>Hon. Sir Thomas Watt. K.C.M.G.</p>
+
+<p>Mr. Daniel Hendrik Willem Wessels.</p>
+
+<p>Mr. George Whitaker.</p>
+
+<p>Mr. Carl Theodorus Muller Wilcocks.</p>
+
+<p>Mr. Henry Wiltshire.</p>
+
+</debateSection>
+
+<debateSection name="#new_members">
+
+<heading>NEW MEMBERS.</heading>
+
+<p>By direction of Mr. SPEAKER,</p>
+
+<p>The CLERK read letters from the Secretary to the Prime Minister, dated the 6th August, 1913, 8th November, 1913, and 26th November, 1913, respectively, reporting the election of the following members for the representation of the Electoral Divisions stated, viz.:</p>
+
+<p>(1) The Honourable Henry Charles Hull, for the Electoral Division of Barberton (re-elected);</p>
+
+<p>(2) The Honourable Nicolaas Jacobus de Wet, K.C., for the Electoral Division of Wakkerstroom, in the room of Jozua Adriaan Joubert, Esquire, resigned: and</p>
+
+<p>(3) Stephanus Bekker, Esquire, for the Electoral Division of Aliwal, in the room of the Honourable Jacobus Wilhelmus Sauer, deceased.</p>
+
+<p>Mr. Hull, introduced by Mr. Merriman and Mr. P. G. W. Grobler, subscribed to the oath and took his seat.</p>
+
+<p>Mr. De Wet. introduced by the Prime Minister and Mr. Krige, subscribed to the oath and took his seat.</p>
+
+<p>Mr. S. Bekker, introduced by the Minister of Railways and Harbours and Mr. Louw, subscribed to the oath and took his seat.</p>
+
+</debateSection>
+
+<debateSection name="#printing_committee">
+
+<heading>PRINTING COMMITTEE.</heading>
+
+<p><span class="col_5-6" refersTo="page_0009"/>Mr. SPEAKER appointed the Minister of Finance and Sir T. W. Smartt (Fort Beaufort) a committee to assist him in regard to the printing of the House, in accordance with Standing Order No. 268.</p>
+
+</debateSection>
+
+<debateSection name="#governor-generals_speech">
+
+<heading>GOVERNOR-GENERAL&#x2019;S SPEECH.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>reported that the House had this day attended the ceremony of the opening of Parliament, and that His Excellency the Governor-General was pleased to deliver an Opening Speech to both Houses of Parliament, of which, for greater accuracy, he had received a copy, as follows:</p>
+
+<p>Mr. President and Gentlemen of the Senate;</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly:</p>
+
+<p>I am glad to welcome you upon your return to the discharge of the high duties confided to your care.</p>
+
+<p>Since your last session South Africa has been deprived of three of her most prominent and valued statesmen by the death of Mr. Sauer, Mr. Fischer, and Sir Richard Solomon. We deeply lament their loss. Their places in our public life it will be difficult to fill. Their ripe experience and sound judgment would have been of high value in the solution of many urgent problems which confront us.</p>
+
+<p>During the recess South Africa has passed through a period of great industrial, social, and economic unrest which culminated in a series of strikes on the Witwatersrand, in Natal, and again among the railway workers of the Union, with a final extension of the movement to the gold mines and other industries on the Witwatersrand and in other parts of the Union.</p>
+
+<p>The nature, extent, and danger of these strikes rendered it necessary to call out a portion of the Citizen Forces and Reserves to preserve order and to prevent the recurrence of the regrettable state of lawlessness which prevailed in Johannesburg on the 4th and 5th days of last July. The extension of the strike movement to all industrial trades and occupations throughout the country on January 13th finally convinced my Ministers that the safety and well-being of the whole Union made the declaration of Martial Law in certain districts imperative. On January 14th, the necessary Proclamation was issued.</p>
+
+<p>The readiness of the response to the call which was made on the 9th and 10th days of January and the rapidity with which the forces were mobilised and concentrated were most gratifying. The thanks of the country are due to those men who, at the call of duty left their ordinary avocations at a moment&#x2019;s notice to obey the summons.</p>
+
+<p>The measures taken and the effective display of force by the citizens of the Union happily succeeded in preventing any serious disturbance and in restoring order without bloodshed.</p>
+
+<p>Certain measures will be submitted to you in connection with the action taken by my Ministers during the exceptional conditions to which I have referred.</p>
+
+<p>Shortly after the disturbances on the Witwatersrand area in July, upon the advice of my Ministers, I appointed two Judges of the Supreme Court as a Commission to hold a public judicial enquiry into, and to report upon the proximate causes which gave rise to those disturbances and other matters connected with the employment of His Majesty&#x2019;s Military Forces and the use of forcible measures to suppress the disturbances. A copy of the report of that Commission and of the evidence taken will be at once laid before you.</p>
+
+<p>In order to allay the unrest prevalent among certain classes of the railway servants of the Union during the period immediately succeeding those disturbances, I also appointed a statutory Commission under section 21 of the Railways and Harbours Service Act. 1912, to enquire into the grievances which were alleged to have given rise to that unrest. One member of the Commission was nominated by the railway servants themselves. The report of the Commission will, I hope, be laid before you during the forthcoming session.</p>
+
+<p>A further Commission was appointed as the outcome of a conference between my Ministers and the representatives of the wage-earners, to inquire into questions of wages and other economic and industrial matters in the Union. That Commission has completed its labours, and its report will be laid before you with all expedition.</p>
+
+<p>In the month of October last a strike occurred amongst the Indian workers employed on the Natal coal mines, and this shortly afterwards extended to the sugar estates on the Natal coast. The strike, unfortunately, led to disturbances, accompanied by grave breaches of the law and some loss of life. A Commission has been appointed by me to inquire into the causes and circumstances which led to that strike and those disturbances, and into certain allegations of ill-treatment of persons sentenced to imprisonment in connection with the strike. I hope that the report of this Commission will come before Parliament in time to enable its recommendations to be fully considered, and a lasting settlement to be reached.</p>
+
+<p>In view of the succession of exceptional occurrences within the Union during the past few months, my Ministers deem it inadvisable to submit to Parliament in the present session a large number of legislative proposals. The country has been profoundly stirred by the recent disorders, and the feelings which have been aroused must be allowed to subside before the problems which have presented themselves as the outcome of those events can be calmly reviewed and wisely dealt with. You will therefore be asked to consider legislative measures of a pressing character only.</p>
+
+<p><span class="col_7-8" refersTo="page_0010"/>It is a matter for congratulation that, despite the severe drought which has been experienced in various parts of the country, substantial progress has been made with the agricultural development of the Union, and there is every indication that this progress will continue. The revenue returns have, up to the present, been satisfactory, and notwithstanding the disturbing influences to which I have alluded, my Ministers are hopeful that a continuous improvement will be maintained:</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly:</p>
+
+<p>Estimates of Revenue and Expenditure will be laid before you.</p>
+
+<p>Mr. President and Gentlemen of the Senate:</p>
+
+<p>Mr. Speaker and Gentlemen of the House of Assembly:</p>
+
+<p>I now, in His Majesty&#x2019;s name, declare this session open, and I pray that under the Divine guidance an ever-growing measure of public welfare and prosperity may result from your labours.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#letter_from_the_late_chairman_of_committees">
+
+<heading>LETTER FROM THE LATE CHAIRMAN OF COMMITTEES.</heading>
+
+<p>By direction of Mr. SPEAKER,</p>
+
+<p>The CLERK read a letter from Mr. H. C. van Heerden informing Mr. Speaker that he had accepted the position of Minister of Agriculture, which had been offered him by the Prime Minister, in consequence of which he tendered his resignation as Chairman of Committees of the House of Assembly, and asking that the attention of the House might be drawn to the matter.</p>
+
+</debateSection>
+
+<debateSection name="#portraits_of_the_king_and_queen">
+
+<heading>PORTRAITS OF THE KING AND QUEEN.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>stated that the copies of the portraits of their Majesties the King and Queen, which were graciously presented by His Majesty to the people of the Union of South Africa, were handed over to him through the courtesy of the Government, with the wish that they should be housed in this Chamber. The portraits, which were made by Harry Allan from the State portraits painted by William Llewellyn, A.R.A., in 1911-12, had been hung behind Mr. Speaker&#x2019;s chair.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#appointment_of_committee_clerk">
+
+<heading>APPOINTMENT OF COMMITTEE CLERK.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>further stated that during the recess one of the Committee Clerks, Mr. J. B. Rabie, was offered and accepted the post of Private Secretary to the Minister of Agriculture, and that the vacancy thus caused had been filled by the appointment of Mr. Charles Wyndham, formerly Clerk-Assistant of the Provincial Council on the Staff of the Administrator of the Cape Province.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_the_table">
+
+<heading>LAID ON THE TABLE.</heading>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>placed on the Table the annual report of the Parliamentary Library, report of the House of Assembly and the Joint Parliamentary. Establishment, and the list of charges which Parliamentary agents might make, framed by Mr. President and Mr. Speaker under the Private Bill Procedure Act of 1912.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Estimates of Expenditure from Revenue funds for year ending 31st March, 1915.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS laid upon the Table</person>:</from>
+
+<p>Estimates of Expenditure of the South African Railways and Harbours for year ending 31st March, 1915.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Finance Accounts, Appropriation Accounts, Loan Funds and Miscellaneous Funds (exclusive of Railways and Harbours) for the financial year, 1912-13, with the Report of the Controller and Auditor-General; Annual Accounts, 1912-13 (Cape), with Report of Provincial Auditor; Finance Accounts Appropriation Account (Transvaal) for financial year 1912-13 with Report of Auditor of Accounts; Third Report of Public Debt Commissioners with Appendices for year ended 31st March, 1913; Schedule of Pensions (Awards during period 1st October, 1912, and 30th September, 1913, and Cessations during the same period, excluding pensions payable by the Railways and Harbours Administration); return of special warrants issued 24th May, 1913, to 30th January, 1914; Report upon the Returns for 1912 submitted by Life Assurance Companies.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Proclamations and Government notices; as follows:&#x2014;Regulations as to rebates of Excise Duty on Spirits to be used in any art or manufacture; Regulations governing the removal of Spirits produced in Natal from the products or by-products of the Sugar-Cane; Regulations under Customs Management Act, 1913; Regulations under Excise and Customs Tariffs Amendment Act: Regulations governing rebate of Customs duties originally paid on goods subsequently removed to places in the Belgian Congo or German South West Africa; Regulations under Excise and Customs Tariffs Amendment Act; Regulations under Excise and Customs Tariffs Amendment Act, and Excise Beer Duty Act (Cape); Protocols to Customs Agreement between Union of South Africa and Administrations of Southern and North-Western Rhodesia; Protocol to Customs Agreement between Union of South Africa and Territories of Basutoland, Swaziland and Bechuanaland Protectorate; Amendment of Regulations under Customs Management Act, 1913; Regulations in terms of Natal Act No. 2 of 1910 to secure pension rights of contributors to Superannuation Funds on transfer; Regulations in terms of Natal Act No. 2 of 1910 for payment of superannuation allowances to natives employed in the Public Service on 30th May, 1910 (excluding Natal Police <span class="col_9-10" refersTo="page_0011"/>Force and Railway and Harbour Administration); Tender Board Regulations (Increased preference to South African Manufacturers); Regulations for withdrawal from circulation of Adhesive Revenue Stamps of the Cape, Natal, Transvaal and Orange River Colony; Regulations for issue of Local Stock; Revised By-Laws Natal Society of Accountants (Incorporated); Regulations under Excise and Customs Tariffs Amendment Act, 1913; Return of all Surcharges remitted by the Minister of Finance, 14th December, 1912, to the 14th October, 1913.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (for the Minister of the Interior),</from>
+
+<p>Proclamations and Government Notices, as follows: Amendment's of Public Service Promotion Examination Regulations; Regulations under Immigrants Regulation Act No. 22, 1913; Amendment of Births and Deaths Registration Regulations (Cape and Orange Free State); Resolutions by Colonial Medical Council (Cape), amending Division II. of Third Schedule of Act No. 7, 1899; Further amendments of Public Service Promotion Examination Regulations; Resolution by Colonial Medical Council (Cape), amending Regulations for Medical Practitioners and Dentists: Regulations under Marriage Laws Amendment Act No. 20, 1913; Regulations under Act No. 11 of 1903 (Natal) to regulate the conduct of the business of Board of Trustees of Natal Museum, Pietermaritzburg; Regulation defining Foreign Additional Diplomas or Certificates entertained by the Medical and Pharmacy Council (Orange Free State); Amendment of Births and Deaths Registration Regulation No. 231 (Orange Free State); Cancellation of Regulations relative to Public Service Promotion Examination; Amendment of Regulation No 18 under the Medical and Pharmacy Act No. 34 of 1891 (Cape); Regulations for Trained Nurses framed by the Transvaal Medical Council.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person> (for the Minister of the Interior),</from>
+
+<p>Returns under Immigrants Regulation Act No. 22 of 1913, August to December, 1913, inclusive; Report for 1912 on trade of Consular District of German South-West Africa; Report and Audited Accounts Indian Immigration Trust Board of Natal for 18 months ended 31st December, 1912.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Report of General Manager on the working of the South African Railways and Harbours, year ended 31st December. 1912; Regulations under Railways and Harbours Service Act (28 of 1912) relative to establishment and working of a Railway and Harbour Sick Fund; Regulations under Cane Act 19 of 1861. Transvaal Act 13 of 1908. Orange Free State Act 29 of 1908 and Natal Act 22 of 1910, relative to the working of trains.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>Report and Minutes of Evidence of Witwatersrand Disturbances Commission, appointed on 17th July, 1913.</p>
+
+</speech>
+
+<speech by="#minister_of_posts_and_telegraphs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF POSTS AND TELEGRAPHS</person>:</from>
+
+<p>Amendments to Regulations under Post Office Act in regard to acceptance of Parcels for Conveyance at Agricultural Parcel Post rates; Agreement between Union of South Africa and Province of Mozambique for transfer or amounts deposited in the Savings Bank, with an amendment of the Regulations under the Post Office Act.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#motion_to_adjourn">
+
+<heading>MOTION TO ADJOURN.</heading>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe):</from>
+
+<p>Mr. Speaker&#x2014;(Labour cheers)&#x2014;I desire to move the adjournment of the House to discuss a definite matter of urgent public importance&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Will the honourable member bring it up&#x003F;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Will I state what it is, sir&#x003F; I beg to move the adjournment of the House to discuss the surreptitious deportation, without trial, of citizens of the Union, some of whom were incarcerated prior to and some subsequent to the declaration of Martial Law in the portion of the Union in which they resided; the oppressive measures taken by the Government to prevent these citizens from invoking the protection of the Courts and to obstruct and to prevent their friends from invoking the said protection on their behalf; and the imminent danger to other citizens of being similarly deported without trial and without being able to appeal for protection to the Courts of the Union. To the best of my knowledge and belief &#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Oh, no! The hon. member must merely state the matter and bring it up.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Cannot I state (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member wishes to avail himself of Standing Order No. 29 and to move the adjournment of the House for the reasons stated. Under the new rule passed last year by the House, Mr. Speaker has a wide discretion in allowing motions of this nature. On this occasion there is no need for Mr. Speaker to exercise any discretion, because the rule provides that this motion cannot be moved upon a subject already under notice for discussion. The Minister of Defence has just given notice of his intention to ask for leave to introduce the Indemnity and Undesirables Special Deportation Bill, and as upon a consideration of that Bill the whole of the subject matter of the motion submitted by the hon. member for Jeppe for the adjournment of the House can be discussed, I cannot accept the same.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>May I move the adjournment of the House to discuss a definite matter of public importance&#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p><span class="col_11-12" refersTo="page_0012"/>No; the hon. member has received my ruling. (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>This is another matter&#x2014;the danger between now and the time we meet again of the Government again committing the crime of kidnapping citizens of the Union. (Labour cheers.) That is not included in the motion. (Labour cheers, and Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>That is a purely hypothetical case. (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>May I state that at the time I left Johannesburg&#x2014;(Government cries of &#x201C;Order&#x201D; and Labour cheers)&#x2014; for this house&#x2014;(Government cries of &#x201C;Order, order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member asked for my ruling on the motion for the adjournment, and I</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Might I ask your opinion as the representative of this House&#x003F; (Labour cheers and Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>No, the hon. member (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>As the representative of the Parliament of South Africa (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I must point out to the hon. member that under rule 30, &#x201C;no second motion under the preceding standing order shall be made on the same day.&#x201D; (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I bow to your ruling, sir. I ask for your guidance on a (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The matter is now closed.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>moved that the House do now adjourn.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>.</from>
+
+<p>Those in favour will say&#x2014;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Mr. Speaker&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Aye.</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Mr. Speaker, I&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>What does the hon. member require&#x003F;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Mr. Speaker, may I address this House&#x2014; (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>On what subject&#x003F;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>On the adjournment of the House.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It is not a matter that can be&#x2014;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Is it not according to the rules of the House&#x003F;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>It depends on what the hon. member wishes to say. (Laughter.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I want to ask this House not to accept the motion for the adjournment. (Government cries of &#x201C;Order.&#x201D;) I want the members of this House to realise their responsibilities. We have met here after a long recess. The country is looking to this House to take the duties which devolve upon it seriously, and the country is looking to this House for protection. The words that you, Mr. Speaker, used in the prayers, if they are uttered&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member cannot raise a general debate on the motion that the House adjourn. (Government cheers.) The hon. member should have taken another course. This is not the proper course to take. (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>I am trying to ask&#x2014; (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I must point out to the hon. member&#x2014;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person>:</from>
+
+<p>Very well, sir.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>The hon. member is trying to get over the ruling that has just been given. I must call upon him to resume his seat. (Government cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">CRESWELL</person> (resuming his seat):</from>
+
+<p>The country will know.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>I will now put the motion for the adjournment of the House.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs):</from>
+
+<p>Mr. Speaker&#x2014;</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Those in favour&#x2014;</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Mr. Speaker, I&#x2014; (Government cries of &#x201C;Order.&#x201D;)</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Those in favour will say Aye. Those against&#x003F; The Ayes have it. The House stands adjourned.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">MADELEY</person>:</from>
+
+<p>Mr. Speaker, I&#x2014;</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1914-01-30T13:00:00">1 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

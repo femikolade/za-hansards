@@ -1,0 +1,823 @@
+---
+title: 'House of Assembly: Vol1 - TUESDAY DECEMBER 6 1910'
+layout: debate
+year: 1910
+month: DECEMBER
+month_slug: Dec
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, December 6 1910</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the Chair and read Prayers at <recordedTime time="1910-12-06T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. Jameson</person> (Albany),</from>
+
+<p>from Arthur Matthews, Education Department.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. Jameson</person> (Albany),</from>
+
+<p>from G. van R. Philpott Civil Commissioner, Bathurst.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. Hewat</person> (Woodstock),</from>
+
+<p>from G. R. Godfrey, carpenter, Salt River Railway Works.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. Juta</person> (Cape Town, Harbour),</from>
+
+<p>from J. T. G. Carr, Railway Department and Table Bay Harbour Board.</p>
+
+</speech>
+
+<speech by="#juta">
+
+<from>Sir <person refersTo="hansard_za">H. H. Juta</person> (Cape Town, Harbour),</from>
+
+<p>from S. J. Hansen (wife of C. M. Hansen), at present an inmate of the Valkenberg Asylum, who served in the Table Bay Harbour Board.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">H. C. van Heerden</person> (Cradock),</from>
+
+<p>re the erection of public buildings in Cradock.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#liliefontein_township_committee">
+
+<heading>LILIEFONTEIN TOWNSHIP COMMITTEE.</heading>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>,</from>
+
+<p>as Chairman, brought up the report of the Select Committee on Liliebloom Township, and moved, seconded by Mr. Keyter:</p>
+
+<p>That the report be printed and considered on Monday.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#indian_teacher">
+
+<heading>INDIAN TEACHER.</heading>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>asked the Minister of Education: (1) Whether it is a fact that in Natal, in August, 1910, a certificate was granted to an Indian teacher without examination, although similar certificates are refused to white teachers, whose work has been graded as &#x201C;excellent,&#x201D; and who have in examination gained a high average in marks, but have failed in one subject only; (2) what are the special regulations under which certificates are (granted to anyone without examination; and (3) when and by whom were these regulations framed?</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from><span class="col_543-544" refersTo="page_0281"/>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person></from>
+
+<p>said that this was one of those questions which dealt altogether with Provincial matters, and although he had no objection to giving the information, it seemed to him that it was not in the public interest that questions of this kind should be asked. The Provincial Councils would meet in a very short time, and questions of this kind should be discussed by them. The reply to the first question was in the negative, and as to the second and third questions, there were no such regulations.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#port_elizabeth-avontuur_railway">
+
+<heading>PORT ELIZABETH-AVONTUUR RAILWAY.</heading>
+
+<speech by="#rademeyer">
+
+<from>Mr. <person refersTo="hansard_za">J. M. RADEMEYER</person> (Humansdorp)</from>
+
+<p>asked the Minister of Railways and Harbours whether he is aware of the fact that owing to the want of second-class carriages on the Port Elizabeth-Avontuur railway, Europeans are obliged to travel third class, to their great discomfort and inconvenience, and, if so, whether it is his intention to give instructions for the supply of second-class carriages on that line?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said there were only two classes of carriage provided&#x2014;first and second. That was the case also on the narrow-gauge railway from Kalabas Kraal to Hopefield, and the same principle was followed on the narrow-gauge railways in Natal. The line mentioned in the question was not paying; when it paid sufficiently to justify the Government in incurring the additional expense of providing second-class carriages, the Government would do so.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#votes_and_proceedings">
+
+<heading>VOTES AND PROCEEDINGS.</heading>
+
+<speech by="#myburgh">
+
+<from>Mr. <person refersTo="hansard_za">M. W. MYBURGH</person> (Vryheid)</from>
+
+<p>asked the Minister of the Interior whether the Government will take into consideration the question of making the necessary provision to enable registered voters within the Union to obtain, on application, copies of the Votes and Proceedings of Parliament free?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person></from>
+
+<p>said that, in view of the great cost involved, the Government did not propose to make any such provision.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#telephones_in_the_vrede_district">
+
+<heading>TELEPHONES IN THE VREDE DISTRICT.</heading>
+
+<speech by="#meyer">
+
+<from>Mr. <person refersTo="hansard_za">I. J. MEYER</person> (Harrismith)</from>
+
+<p>asked the Minister of Public Works whether the Government intend to take into consideration the question of establishing telegraphic and telephonic communication between Harrismith and Memel, in the Vrede district?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that &#x00A3;1,000 had been provided for Memel to be connected with Botha&#x2019;s Pass, the nearest office in the telegraph system. The line would very shortly be constructed, and telephone facilities would also be available over it. To connect Memel with Harrismith would mean an expenditure of between &#x00A3;3,000 and &#x00A3;4,000, for which there was no provision.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mission_reserve_in_natal">
+
+<heading>MISSION RESERVE IN NATAL.</heading>
+
+<speech by="#wiltshire">
+
+<from>Mr. <person refersTo="hansard_za">H. WILTSHIRE</person> (Klip River)</from>
+
+<p>asked the Minister of Native Affairs whether the Government will take into consideration the position of the Church of England missionaries and their congregations on mission reserves in Natal, which reserves were originally granted to the Church of England professing and teaching the Protestant Reformed religion, as distinguished from the Church of South Africa, and to take steps to prevent such missionaries from being served with notices to quit the scenes of their labour?</p>
+
+</speech>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>said there was only one mission reserve in Natal. That was originally granted to Church of England missionaries, but by a Natal Act, passed last year, it was transferred to and vested in the Church of the Province of South Africa. The reserve was administered by the Natal Native Trust. Notice had been given in terms of a certain Act by the local Magistrate to a native catechist, requiring Kim to remove from the said reserve, owing to his not having the consent of the Native Trust to be there. The Government had been advised that no missionary bodies other than the Church of the Province of South Africa could carry on missionary work there under the existing laws, but it was not the intention, nor would it be legal, to cause such persons as did not accept the doctrines of the Church of the Province to be removed.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_imperial_conference">
+
+<heading>THE IMPERIAL CONFERENCE.</heading>
+
+<speech by="#chaplin">
+
+<from>Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>asked the Prime Minister whether he will inform the House of the nature of the subjects which he proposes to bring before the Imperial Conference, to be held in London next year, and whether he will give the House an opportunity of expressing its opinion thereon?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>said the Government had not vet formulated any proposals to bring before the Conference. It would be more convenient if the hon. member (Mr. Chaplin) raised the matter later in the session, before the vacation.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#telephones_in_the_langeberg">
+
+<heading>TELEPHONES IN THE LANGEBERG.</heading>
+
+<speech by="#wessels">
+
+<from>Mr. <person refersTo="hansard_za">D. H. W. WESSELS</person> (Bechuanaland)</from>
+
+<p>asked the Minister of Posts and Telegraphs whether the Government will take into favourable consideration the establishment of telephonic communication between Kuru-man and Oliphants Hoek, in the Langeberg?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>said there were no funds available at present for the construction of a telegraph line to Oliphant&#x2019;s Hoek, which would be worked by telephone; but the question was engaging the attention of the Government, and at present a survey was being made. If the line were built via Postmasburg, the cost would be about &#x00A3;2,500; if via Kuruman, &#x00A3;4,000.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#piet_retief_railway_station">
+
+<heading>PIET RETIEF RAILWAY STATION.</heading>
+
+<speech by="#joubert">
+
+<from><span class="col_545-546" refersTo="page_0282"/>Mr. <person refersTo="hansard_za">J. A. JOUBERT</person> (Wakkerstroom)</from>
+
+<p>asked the Minister of Railways and Harbours whether it is a fact that the Government intends to build the Piet Retief Railway Station on private ground outside the village, and, if not, whether the station will be built on Municipal property near to the village?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>said the station would be built on private ground. Government was not prepared to pay for the cost. The Municipality would pay part. Be had been informed that the site was about a quarter of a mile outside the village.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#klip_river_commission">
+
+<heading>KLIP RIVER COMMISSION.</heading>
+
+<speech by="#wyndham">
+
+<from>Mr. <person refersTo="hansard_za">H. A. WYNDHAM</person> (Turffont ein)</from>
+
+<p>asked the Minister of Lands what action the Government propose to take in regard to the Klip River Commission report?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that the report was receiving the serious consideration of the Government, which recognised the importance of the matter dealt with by the Commission. He was however, unable as yet to say what action would be taken by Government in connection therewith.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#donkeys_for_marico">
+
+<heading>DONKEYS FOR MARICO.</heading>
+
+<speech by="#lemmer">
+
+<from>General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>asked the Minister of Lands whether the Land Board has already distributed donkeys, applied for by inhabitants of the district of Marico, whose cattle were totally destroyed under the regulations to combat the tick fever, and, if not, whether this can be done as soon as possible?</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person></from>
+
+<p>replied that no donkeys had been issued to the persons mentioned, and no funds at the disposal of the Land Department were available for the purpose.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_rolling-stock">
+
+<heading>RAILWAY ROLLING-STOCK.</heading>
+
+<speech by="#henderson">
+
+<from>Mr. <person refersTo="hansard_za">J. HENDERSON</person> (Durban, Berea)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) What rolling-stock, required for the South African Railways, is on order at present in countries outside of South Africa; and (2) whether it is the intention of the Government to place further orders for railway rolling-stock outside of South Africa, or whether the Government will, in future, arrange for further requirements being manufactured, as far as possible, within the Union?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>detailed the rolling-stock which is on order, and for which quotations have been asked. In reference to the second question the policy of the Government was, as far as possible, to have done locally what could be done locally. He always had some regard, he would not say due regard, to the cost, because he did not think that should be the least side of it, but it was a very material consideration. At present the railway shops of the Union were full up, and had as much as they could do; and even if they were so disposed, they could not do all the work.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#sale_of_disused_rails">
+
+<heading>SALE OF DISUSED RAILS.</heading>
+
+<speech by="#becker">
+
+<from>Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismiith)</from>
+
+<p>asked the Minister of Railways and Harbours whether the Government would take into favourable consideration the sale, for fencing purposes, of old and disused railway rails, at present lying along the different lines of railway, at a reduced price?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that disused railway rails had been sold at very reasonable prices, and he would very much like to sell them to farmers at reduced prices, but it was rather difficult to sell the rails to one class of people at one price and to another class at a different price. After puzzling a good deal over the matter, be had decided to sell the rails to those who paid them best.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#registration_of_voters">
+
+<heading>REGISTRATION OF VOTERS.</heading>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>asked the Minister of the Interior whether he would during the present session introduce a measure to secure continuous registration of voters?</p>
+
+</speech>
+
+<speech by="#minister_of_the_interior">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE INTERIOR</person>:</from>
+
+<p>The matter of a uniform Registration Law for South Africa is still under the consideration of the Government, and no information as to the provisions the Government intend to include in such legislation can be given at the present stage.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#klipplaat_to_jansenville">
+
+<heading>KLIPPLAAT TO JANSENVILLE.</heading>
+
+<speech by="#oosthuisen">
+
+<from>Mr. <person refersTo="hansard_za">O. A. OOSTHUISEN</person> (Jansenville)</from>
+
+<p>asked the Minister of Railways and Harbours whether, as one of the proposals for railway extension in the near future, a line from Klipplaat to Jansenville would receive consideration?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that the matter would receive consideration when the Government dealt with the matter of railway construction; but at present he could not give any more definite answer.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_rates_on_maize">
+
+<heading>RAILWAY RATES ON MAIZE.</heading>
+
+<speech by="#maasdorp">
+
+<from>Mr. <person refersTo="hansard_za">G. H. MAASDORP</person> (Graaff-Reinet)</from>
+
+<p>asked the Minister of Railways and Harbours whether, seeing that maize was coming largely into use in the midland and eastern portions of the Cape Province for Stock-feeding purposes, the Government would consider the desirability of reducing the railway rates on maize to those parts from the northern producing areas, to the same level as the rates obtaining on maize intended for export?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied that the rates on maize were very reasonable, although nothing like so low as those on maize intended for export, which was done to encourage that export tirade. He thought that they carried the latter at an absolute loss, <span class="col_547-548" refersTo="page_0283"/>and they could not afford to carry other maize at a loss too, because that would be a very serious thing&#x2019; for the country.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#increased_pay_for_railway_servants">
+
+<heading>INCREASED PAY FOR RAILWAY SERVANTS</heading>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person> (Uitenhage)</from>
+
+<p>asked the Minister of Railways and Harbours whether increases in pay had recently been or were now being given to the employees on the Cape section of the railways, who were recommended by the heads of their departments; if so, whether heads of departments were recommending all who were in their opinion underpaid, or were confining their recommendations within limits prescribed by other considerations; and, in the latter case, whether Government intended giving to all such employees who, in the opinion of the heads of their departments, were still underpaid, such increases as would raise their rate of pay to the standard rate?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>was understood to reply that such increases had, with a few exceptions, been paid since July 1. The amount paid in increases amounted to &#x00A3;50,000 per annum.</p>
+
+</speech>
+
+<speech by="#fremantle">
+
+<from>Mr. <person refersTo="hansard_za">H. E. S. FREMANTLE</person>:</from>
+
+<p>Arising out of the question, may I ask the Minister whether that committee will continue in operation, as well as the Commission?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p> reply could not be heard.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#pilgrims&#x2019;_rest_railway">
+
+<heading>PILGRIMS&#x2019; REST RAILWAY.</heading>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>asked the Minister of Railways and Harbours: (1) Whether the survey of the Pilgrims&#x2019; Rest Railway routes had been completed; (2) which route had been adopted; and (3) when the work would be commenced?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>(1) Yes; (2) from Nelspruit; (3) almost immediately.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#free_state_fencing_laws">
+
+<heading>FREE STATE FENCING LAWS.</heading>
+
+<speech by="#wilcocks">
+
+<from>Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>asked the Minister of Agriculture whether he was aware that the present fencing law of the Orange Free State made no provision for compelling owners of farms, having river boundaries, to fence their farms, with the result that owners of such farms who desired to fence their farms were forced in some cases to sacrifice their river frontage; and, if so, whether it was his intention to introduce the necessary amending legislation to remedy this defect?</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>replied that the matter would be taken into consideration, with a view to getting uniformity in every Province; but the Government would not be able to introduce legislation dealing with the matter during the present session.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#mine_directors&#x2019;_commission">
+
+<heading>MINE DIRECTORS&#x2019; COMMISSION.</heading>
+
+<speech by="#fichardt">
+
+<from>Mr. <person refersTo="hansard_za">C. G. FICHARDT</person> (Ladybrand)</from>
+
+<p>asked the Minister of Justice: (1) Whether his attention had been directed to a proposal recently put forward by the Board of Directors of the East Rand Proprietary Mines, Ltd., under which certain favoured individuals, including the directors and the firms or financial corporations with which they are associated, are to be paid a commission of &#x00A3;75,000 in connection; with a contemplated debenture issue by the company; (2) whether the directors, before arranging to pay themselves this commission, sought or invited competitive offers from, bankers or other financiers, with a view to paying a less exorbitant rate of commission; and (3) whether, in view of the methods pursued in the present case, and also in other cases, he will introduce legislation to amend the Company Law, so as to prevent directors from using their fiduciary position for their own individual advantage, and to protect the interests of foreign investors?</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>;</from>
+
+<p>said that at present he was making an investigation, and he hoped that the hon. member would allow the matter to stand over.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#railway_to_dordrecht">
+
+<heading>RAILWAY TO DORDRECHT.</heading>
+
+<speech by="#venter">
+
+<from>Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>asked the Minister of Railways and Harbours whether the Government intend to build the deviation of the railway line to the village of Dordrecht; and, if so, when wild the work be commenced?</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person></from>
+
+<p>replied in the negative; the cost would be too great, while the line would be lengthened.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#postal_relieving_officers">
+
+<heading>POSTAL RELIEVING OFFICERS.</heading>
+
+<speech by="#struben">
+
+<from>Mr. <person refersTo="hansard_za">C. F. W. STRUBEN</person> (Newlands)</from>
+
+<p>asked the Minister for Posts and Telegraphs: (1) What are the allowances payable to relieving officers in the Post and Telegraph Department of the Cape Province, and what is the maximum; (2) what were such allowances prior to 1906; (3) is it correct that a relieving officer travelling to his post pays 8s. 9d. a day for tariff-charge meals on the State railways, and that an officer of proper standing sent to Graaff-Reinet, Graham&#x2019;s Town, Kimberley, or Uitenhage has to pay from 7s. 6d. to 12s. 6d. per diem living expenses; and (4) does the Government intend to establish these allowances on the basis of a fixed allowance per diem, and in some conformity with allowances to officers in similar positions in other departments, such as magisterial clerks, stationmasters, and foremen, who receive 15s., 10s., 6d., and 6s. 6d. per diem?</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER OF PUBLIC WORKS</person></from>
+
+<p>replied that when absent from headquarters officers were paid) their board and lodging, but the amount was not expected to exceed &#x00A3;7 10s.; when it was shown that it was insufficient other arrangements were made. Continuing, he said that 8s. per diem was paid for relief for one month, and 6s. per day for a longer period. He added that the 10s. or 12s. allowed&#x2014;this <span class="col_549-550" refersTo="page_0284"/>in reply to the other queries&#x2014;when travelling was found sufficient to meet reasonable tariff charges. No change was contemplated. The present rates were considered as sufficient, and these appointments were much sought after.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_laid_on_table">
+
+<heading>REPORTS LAID ON TABLE.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Estimates of Expenditure of the Province of Natal for the ten months ending 31st March, 1911.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#order_of_precedence">
+
+<heading>ORDER OF PRECEDENCE.</heading>
+
+<p>With regard to the order for the Budget debate, Colonel C. P. CREWE (East London) objected to an unopposed resolution giving the Budget precedence and being allowed to pass at a late hour of the night, when most members were out of their places. Hon. members should at least know of any such change so as to allow them to make arrangements.</p>
+
+<speech by="#macneillie">
+
+<from>Dr. <person refersTo="hansard_za">J. C. MacNEILLIE</person> (Boksburg)</from>
+
+<p>said he would like to associate himself with what had been said by the hon. member for East London. He had had a motion on the paper for some days.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>said he regretted that the hon. members for East London and Boksburg were not in their places, because if they had been and had had reason to object to this motion being taken, the motion would not have been so taken. After all, the Speaker was merely the voice of the House. The proper practice was to obtain, before such a course was taken, the consent of private members, but on Thursday last in the House, on both sides of the House, upon a statement of the Minister of Railways it was agreed that private members would give way in order to facilitate the passage of the Estimates, and on the previous night when the unopposed motion was moved by the Hon. the Minister of Finance, and no objection was taken, he felt he would be giving expression to the general views of the House in allowing this motion to take precedence of other motions, and become the first order of the day.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that it was only after a consultation with prominent members on the other side of the House that he moved such a motion.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said the point was that private members would object were this treated as a precedent.</p>
+
+</speech>
+
+<speech by="#smartt">
+
+<from>Dr. <person refersTo="hansard_za">T. W. SMARTT</person> (Fort Beaufort)</from>
+
+<p>said that the Minister of Finance had consulted certain members on his side of the House, and they had agreed to the motion having precedence on the understanding that it was the general feeling of the House that every opportunity should be given for the fullest discussion of the Estimates. The point raised by the hon. member for East London (Col. Crewe), and the hon. member for Cape Town (Mr. Jagger) was that this should not establish a precedent. (Hear, hear.)</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_budget_motion_to_commit">
+
+<heading>THE BUDGET MOTION TO COMMIT.</heading>
+
+<speech by="#neser">
+
+<from>Mr. <person refersTo="hansard_za">J. A. NESER</person> (Potchefstroom)</from>
+
+<p>then resumed the debate on the motion for Committee of Supply on the Estimates for the ten months ending March 31, 1911. He said he wished to draw the attention of the House to the statement of the right hon. (gentleman for Victoria West (Mr. Merriman), that there was a large army of Civil Servants and railway and harbour employees, land that the people of the country were over-judged, there being 31 Judges for 1,250,000 white persons. Now, he (the speaker) had always thought that the right hon. gentleman for Victoria West (Mr. Merriman) had a supreme regard for the welfare of the natives and coloured people, but he seemed to have ignored them. He only referred to 1,250,000 white people, and he wished to remind him that the Civil Servants and railway and harbour officials performed considerable service on behalf of the coloured population. He considered that the coloured and native population should be taken into account, and if that were done, the proportion of Civil Servants to the white and coloured population would be one per cent., which he thought was not by any means excessive. Furthermore, the Union Government could not be accused of having established such a large staff, because all of the Civil Servants, or nearly all of them, were appointed before Union. As regards the references to retrenchment, they had had the experience of the Transvaal where fresh appointments had had to be made. It was now hoped that with Union all the Civil Servants would be absorbed, and that there would be no necessity for retrenchment. If hon. members looked at the Customs and railways returns for the last five months, he thought they would agree that the Government was amply justified in not going in for retrenchment. As regards the number of Judges, he hoped the Government would not reduce the judicial staff of the country. The Judges performed very considerable duties towards the native population A good part of their time was taken up in adjudicating upon native affairs and interests. As regards the salaries of Ministers, he said he favoured the payment of salaries which would enable the Ministers to live decently and respectably. (Laughter.) He pointed out that some mine managers were paid more than the Ministers who controlled the affairs of the State. He thought it would be a niggardly policy if they cut a single penny off the salaries. They were worth the money. (Laughter.) He thought the amount for encouraging tobacco culture was too little altogether, while the sum for horticulture should considerably be increased. Then the grants to agricultural societies had been reduced. The hon. member advised <span class="col_551-552" refersTo="page_0285"/>very great caution in the matter of ostrich farming, for if the market collapsed, the position of the ostrich farmers and the Cape would be very serious indeed. He was of opinion that more should have been set aside for hydrographic surveying and dry farming. He hoped that the sum for the latter next year would be &#x00A3;20,000, and not only &#x00A3;2,100. The North had given the lead in this matter, and he trusted that the Cape would follow its example. People should be encouraged to go on to the soil &#x2014;(cheers)&#x2014;and persons who suffered from miners&#x2019; phthisis should go in for farming. In Natal the Government spent over &#x00A3;4,000 on prospecting. It was quite right that the Government should develop the mineral wealth of the country, although he would not go so far as to say they should prospect. They were spending a considerable amount on gaols and prisons, and a much larger sum than they did on reformatories and industrial schools. It should be the reverse. If they increased the latter two votes, the number of criminals would be reduced. At present they created criminals by sending men to gaol. Regarding the capitation grant for Cadets, he considered it to be too small. They should encourage the movement by every possible means. It was very wrong to reduce it. (Applause.)</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>said he Would like to enter his protest against what seemed to be an arrangement between the two parties. He did not say that the Speaker could have his eyes on every member, but he noticed that until certain men had spoken, no others were allowed to speak. (Cries of &#x201C;Order.&#x201D;) They desired to speak, not in their own name, and not merely to utter their own sentiments, but in the interests of those they represented. It seemed to him that they had two distinct parties in the House, or, in any case, two distinct policies. On the one hand, hon. members struck in the dark, wasting time and hitting nothing. On the other, they had hon. members who saw very bright prospects, but were timid. They had enthusiasm without prudence, and prudence without enthusiasm. This seemed to him no time for party pressure, or the manifestation of the party spirit, but the time for laying a broad foundation. What they wanted was a body of men who would be progressive constructionists. He had been astonished at the statements made by the hon. member for Victoria West (Mr. Merri-main). Until recently, he had looked upon him as a magnificent political mountain. He was like Moses, who led the tribes to the Promised Land, and then left them. (Laughter.) The hon. member for Victoria West (Mr. Merriman) had told them he knew where there were untaxed resources. Well, he asked the hon. member to tell the House where they were, and not to let them remain in the dark. Then the hon. member suggested that in some departments there were excessive employees. Well, he agreed with the hon. member in one respect. There were high officials, who had little else to do than to draw their cheques; it was the little man who had to do the work. But, in certain education departments, they were understaffed. In certain places in Natal there was only one-third of the requisite staff, and education was suffering in consequence. On the railways and in the Education Department, so far from having too many employees, they had too few. Proceeding, Dr. Haggar said that what the country wanted was a bold, forward policy. They wanted the Prime Minister to take the initiative in that policy; they did not want him to be held back by those behind him. They had as good a country as Australia, and if they would only go determinedly to work, they could make South Africa politically and materially the diamond of the Empire. He spoke of what, could be done by afforestation and irrigation. [Proceeding, he said that the Government proposed to tax the mines. He wished the Government would tax the uncut diamonds which went out of the country. By that means, he believed, they would be able to establish a diamond-cutting industry in this country. The Minister had said that he was going to tax the mines; and, so far, he agreed with him, but he did not like the proposal as it stood. It savoured of class legislation. They found large amounts of capital invested, and there ought to be no quarrel between the capitalists and the industrial portion. They wanted capital, ability, and labour. If they had three legs of a stool, which was the strongest? He did not know. But by investing capital and engaging laour, risks were taken, which was not the case in regard to large areas of land which were locked up. He would like to see the Prime Minister appoint a Commission to inquire into: firstly, who held that land; secondly, how had they got it from the Crown; and, thirdly, what use were they? He did not believe, however, that the Prime Minister, brave man as he was, had the moral courage to appoint such a Commission for such a purpose. (Laughter.) They wanted these immense areas of land opened up, and developed by the people, for the good of the country at large. If he borrowed &#x00A3;10 from the Minister of Finance, no matter how many millions the hon. gentleman might have, he (Dr. Haggar) would be under an obligation to him. &#x201C;Taxes were motleys paid for benefits conferred, and should always be in proportion to benefits received.&#x201D; The hon. member for Yeoville (Mr. Phillips) had said that a man should contribute to the revenue according to his means, and the hon. member for Waterberg (Mr. Nicholson) had said that a man should be taxed according to his ability&#x2014;there had never been a more rotten policy in the world. (Laughter.)</p>
+
+</speech>
+
+<speech by="#nicholson">
+
+<from>Mr. <person refersTo="hansard_za">R. G. NICHOLSON</person> (Waterberg):</from>
+
+<p>What I said was, that an individual should be taxed according to his ability to pay.</p>
+
+</speech>
+
+<speech by="#haggar">
+
+<from><span class="col_553-554" refersTo="page_0286"/>Dr. <person refersTo="hansard_za">C. H. HAGGAR</person> (Roodepoort)</from>
+
+<p>went on to say that the effect was the same. Were hon. members prepared to carry out that principle in life? He was sure they were not? A man&#x2019;s income was no indication at all of what benefits a man received from the State. If they taxed incomes at all, they must tax unearned incomes. Continuing, he said that if they wanted the highest skill, they needed to pay the highest wage that could be paid. He congratulated the Minister on this conversion to the fundamental principle of Trades Unionism&#x2014;that every man should be paid according to the quality of his work; but he asked the Minister for Railways whether he knew that while there were Kafirs working at Johannesburg for 5s. 3d. a day, white men were only being paid 3s. a day. If that was all their work was worth, it was not worth very much. Ministers only required to take one more step, and then they would turn out as full-blown Socialists. He hoped the hon. members would put their hearts into their work, and try to realise the ideal of the Prime Minister&#x2014;a successful Union of South Africa. The hon. member for Yeoville had addressed the House with regard to native labour, and he would have liked to have asked him if he was dealing with the skilled missionary taught labourers from Katanga, who came down to, and were ousting, the white man. Proceeding, the hon. member referred to the scourge which attacked the workers on the mines, and said that a feeling had sprung up that something must be done. It was apparent that they must do what had to be done, and he was pleased to hear the remarks that had fallen from the hon. member for Germiston (Mr. Chaplin). He would say that he would treat the remarks of these gentlemen with hope and faith, and he hoped that something tangible would have been done by the time they returned in twelve months. If that something were done, he thought that throughout South Africa many a tear of gratitude would be shed. He wished to say, in conclusion, that he would give his support to whichever party was in power, so long as it brought forward measures which would advance the common good of the country.</p>
+
+</speech>
+
+<speech by="#quinn">
+
+<from>Mr. <person refersTo="hansard_za">J. W. QUINN</person> (Troyeville)</from>
+
+<p>said that he desired to deal with two matters which had not been touched! upon by any speaker. He did not propose to join in the search for &#x201C;these missing balances,&#x201D; neither did he propose to question Ministers&#x2019; salaries. In regard to the latter question, he thought that some of the Ministers were worth all they got, some deserved more than they had got, and there were others, he could imagine, who would be dear at any price, and should not appear on the pay-sheet at all. (Laughter.) The two points he wished to raise were in the votes of the Minister of Justice and the Minister of the Interior, and related to expenditure in regard to crime and education. Now, with regard to the first, he was sorry, as a man who lived in the Transvaal, and loved the Transvaal with all its faults, to have to be willing to admit that the records of crime there might be much worse, more shocking if they liked, than in other parts of South Africa. He would, of course, rather have it there alone than find that it existed to the same degree elsewhere. He had no figures, and had no reason to believe that things were very much better. He hoped they were, but he was afraid they were not. The Secretary of the Law Department justified these strong words by figures. He said that one out of every 245 persons in the Transvaal was in gaol on a given day, but allowance must be made for those who were awaiting trial, and others who were detained as witnesses. Compared with this the proportion in New South Wales was one in 1,070, and in England one in 1,600. Unfortunately the proportion in the Transvaal was increasing, and one of the worst features was the spread of juvenile crime. Fifty per cent. more was spent on crime than on education. Every child cost about &#x00A3;12 a year for education, while every criminal cost more than &#x00A3;100. Crime in South Africa was increasing, and crime in its worst form, because it was crime amongst the young. If he were asked how he was going to stop this he was in a difficulty at once, but there were some things which could be done. For the whole of South Africa it was proposed to spend &#x00A3;2,145,000 on the administration of justice; police, prisons, and reformatories being responsible for &#x00A3;1,553,000.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>For ten months only.</p>
+
+</speech>
+
+<speech by="#quinn">
+
+<from>Mr. <person refersTo="hansard_za">J. W. QUINN</person> (Troyeville):</from>
+
+<p>Yes. Proceeding, he said these figures disclosed a terrible state of affairs. It was no use sitting down, sadly shaking our heads, and hoping that there would be a change for the better. We had to try and deal with the problem. Education in its broadest possible sense was one remedy. The material here was as good as that in any part of the world, and infinitely better than in most parts. Mentally and physically South African children had no superiors, but they did not get a chance. (Hear, hear.) This did not apply to the children of the well-to-do, but to those of the poorer classes. Did it ever occur to hon. members why it was that nearly all the best workmen in the country were imported? The men who were born here had not the opportunity that those who came from oversea had. There was no objection to the imported man&#x2014;he was one himself&#x2014;(laughter)&#x2014;but he wanted to see our own boys occupying good positions. There were 200,000 white children at school in South Africa. What was to become of them? Newspapers would not be numerous enough to find all the children jobs selling the papers on the streets. (Laughter.) They wanted, as the hon. member for Potchefstroom (Mr. Neser) <span class="col_555-556" refersTo="page_0287"/>said, more money spent on the youth of the country in the way of industrial training. (Hear, hear.) It seemed to him that they wanted some organised national effort, run on business like lines, and, in so far as science agreed with business like lines, on scientific lines. They wanted an organised effort to train the youth of the country, so that they would be able to take their places alongside the very best imported men, and win on their merits. (Applause.) They did not want to bolster up the youths of this country, but wanted them to stand on their own feet and win on their merit, and they would do it if they gave them the opportunity. (Applause.) He was, he knew, backward in proposing this, but he thought it was so important, that the Government must consider it, and even then they would be at a disadvantage for a long time, because they had not the manufactories here they required. They must make a start to do something. Any man acquainted with the industrial efficiency of the people of America and Germany would know what he meant. He was in those countries some time ago, and it was amazing what they were doing. When, they found Old England, at one time ahead of any other country industrially, establishing industrial schools, even in Lancashire, not so much to teach boys to work as to work better, it showed how important it was. Here they had done nothing. They had to make the best of the present conditions, although they were not ideal. First, they should give their boys a thorough education; make them learn, and then some sort of an industrial education, which could be defined later on. They should establish that kind of thing, increase it, and then, in addition, there were other things they could do&#x2014;better education all round, starting of these industries, and night schools. (Hear, hear.) In America and Germany, where industrial efficiency is so great, the men did not work long hours, but they worked a great deal more. (Hear, hear.) Eight hours a day was the time they worked, but there was more work turned out in that time than here, where a man started at sunrise and stopped at sunset. He wanted to press the point home. See to the boys, and if they saw to the boys they would see to the girls. If the boys were brought up first, they would look after the girls. (Applause.)</p>
+
+</speech>
+
+<speech by="#lemmer">
+
+<from>General <person refersTo="hansard_za">L. A. S. LEMMER</person> (Marico)</from>
+
+<p>said that hon. members bad been too severe in their criticisms of the information supplied by the Minister of Finance. He pointed out that the financial policy of the Government could not be looked for in the Estimates, as these had been framed in special circumstances. Critics, therefore, would have done better by waiting for the next Estimates. In the Transvaal, the Minister had always expected a deficit, but as a matter of fact a surplus had invariably resulted; hence, he was not inclined to be so pessimistic as some hon. members were. The trade returns quoted showed that there was an increase both in local production and in imports. At the same time, South African industries should be encouraged to a greater extent. The country should be made entirely independent of imports. The hon. member for Port Elizabeth Central had stated that the minister had spent money without knowing how much and on what objects. Accusations of this nature were apt to create an erroneous impression on people outside. He agreed that there should be a land bank for the whole of the Union, but the fact that it was impossible to carry out that scheme at present was no reason why the Transvaal Land Bank should be abolished. The right hon. member for Victoria West had voiced the disappointment felt by some because the economy in administration, which was expected to be the result of the Union, had not yet come about It was unreasonable, however, to look for any such economy within the first five years, during which period the Government would have to get things into shipshape. Extravagance was reprehensible, but they had to pay adequate salaries for good work. Retrenchment should be carried out with the utmost circumspection lest it should lead to destructive work. The auditor for co-operative societies, whose appointment had been taken exception to by the hon. member for Cape Town Central, had to be appointed according to the Act dealing with those societies. The same Hon. Member had maintained that the Cape and Natal were now making sacrifices for the benefit of the Transvaal, but from a material point of view there could be no doubt that the Transvaal had sacrificed most. Matters such as those ought to be looked at from a South African point of view. The Transvaal consented to Union because it wanted lasting peace. Provincialism would lead to disruption. Representatives of the people should practise generosity above everything else. Criticism of expenditure on education in the Transvaal was unfounded, because the South Africa Act had left education to the Provincial Councils for five years to come. He trusted that arrangement would be respected, as also the decisions of the Transvaal Parliament concerning money to be spent on railway construction. He was in favour of closer settlement, but opposed to immigration, until such time as conditions were more favourable. The Transvaal contained many people whose proper place was on the land, but who were landless. Those inhabitants should be looked after first. Unless steps were taken at once in order to stop Asiatic immigration, the matter would assume such dimensions as to defy any attempts to arrive at a settlement. In many districts all business was passing into the hands of Asiatics, and it was useless Shutting one&#x2019;s eyes to the dangers involved. He supposed the hon. member for George&#x2019;s statement to the effect that the Estimates were not worth the paper the were printed on was not to be taken seriously.</p>
+
+</speech>
+
+<speech by="#watkins">
+
+<from>Dr. <person refersTo="hansard_za">A. H. WATKINS</person> (Barkly)</from>
+
+<p>said that the Minister of Finance had not given them <span class="col_557-558" refersTo="page_0288"/>any indication of what he intended to do with regard to education, and he hoped that he would do so. In the Cape Province it appeared that 82,000 white children were being educated, and that a sum of &#x00A3;577,000 was put on the Estimates, while in the Transvaal the figures were 47,000 and &#x00A3;511,000 respectively. But that did not fill the Bill with regard to what was being done for education in the Transvaal, for under roads and local works one was surprised to find a sum of &#x00A3;287,000, which was to be spent on education, and which was not to be spent in the Cape. There were other items, including nearly a quarter of a million for school buildings, in course of erection. He proceeded to refer to the systems which prevailed in the Transvaal and the Cape Provinces in regard to the provision of money for school buildings. In the Transvaal it had been the custom to pay for these buildings out of current revenue; in the Cape it had been customary to borrow the necessary amounts, and sinking funds had been established for the repayment of this money. But no grants had been made for school buildings for about twenty years. Without going into the relative merits of the two systems concerned, he thought that the Cape Colonial system was the wisest, because they should always have money available for school buildings wherever these were necessary. If the money was taken out of general revenue and they came to a lean year, the Treasurer would say that there was no money, and that it would be better if they waited until the following year. That was an unsatisfactory state of affairs, because he thought, that when it was shown that buildings were necessary, and when plane had been drawn up and passed, and sanction obtained, the money should be available without delay. At the present time, though the system was in operation in the Cape, it was not possible to go to the Treasurer and get money. They had waited four or five years for money to erect buildings for children who were waiting to be housed. They had been told year after year that no money was available, and that the country could not go to the market and borrow that which was required. Lastly, they had been put off by the story that when Union came all would be well, and that they would be able to get the money. But Union was here&#x2014;Union had been made since May 31&#x2014;and still the same reply was being made. He asked the responsible Minister to make some definite statement on the subject. He did not grumble at the amount placed on the Estimates for he Transvaal, hut he thought that some provision should be made for the people of the Cape getting what money they required for school buddings on the old lines. They did not want money for decorations or celebrations; they wanted to house children who were unhoused at the present time. He might be accused of provincialism or parochialism, but he said that these children were not the children of the Province or of the town, but of the Union. What they wanted was some definite statement from the Treasurer as to what he was going to do in regard to education in the Cape. He hoped they would be able to get the desired information.</p>
+
+</speech>
+
+<speech by="#keyter">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg)</from>
+
+<p>said he could not understand why hon. members had been flogging a dead horse. He called these Estimates la dead 1 horse, because they had been told over and over again that this money had been spent, and spent under proper authority. But he thought that the amount set down for salaries and pensions were extraordinarily large. He was against these high salaries, because he believed that they bred danger; if they went on increasing, one would be unable to say where it would end. So far as remarks concerning brandy were concerned, he would say that if the hon. member for Paarl expected that the country would be thrown open to the liquor traffic, he would be vastly mistaken. They were not going to return to the old days, when every store, both in the towns and outside of the towns, was nothing but a canteen, and he was going to stand by the hon. member for Potchefstroom (Mr. Neser), and resist that to the last ditch. (Opposition: Hear, hear.) He did not think that the hon. member for Paarl (Mr. De Jager) was to be taken seriously, because in his speech on the previous evening he had made mistakes. He had complained that an hon. gentleman opposite (Mr. Walton) had bought brandy at the rate of &#x00A3;30 per leaguer, and then sold it at &#x00A3;21 per leaguer, thus losing &#x00A3;9. But, in the same breath, he stated that the same hon. gentleman immediately afterwards bought more brandy at &#x00A3;11 per leaguer. Now, if it were worth &#x00A3;21 per leaguer, and he sold it, then he made good his loss, and had a surplus. (Opposition cheers.) He hoped that, whenever the brandy question was touched upon again, they would make up their minds that they in the Free State were going to resist their liquor laws being tampered with. If anything, they wanted more stringent laws, and not a return to the old days.</p>
+
+</speech>
+
+<speech by="#rockey">
+
+<from>Mr. <person refersTo="hansard_za">W. ROCKEY</person> (Langlaagte),</from>
+
+<p>referring to miners&#x2019; phthisis, said that to him it was not only a question of compensation, or whether those who suffered from miners&#x2019; phthisis should be brought under the Workmans Compensation Act, or whether legislation should be retrospective, but a question as to what legislation the Government would be prepared to introduce, and what sums of money they would be prepared to give for the purpose of combating the disease, and trying to wipe it out. They would only be touching the fringe of the matter if they only thought of compensation. The first thing the Government should do was to provide substantial sums to wipe out the disease. He wished that the hon. member for Jeppe (Mr. Creswell) did not speak with so much bitterness when referring to hon. members on his (the speaker&#x2019;s) side of the House. If the mine <span class="col_559-560" refersTo="page_0289"/>owners had been negligent, with regard to the spread of the disease, he would ask what the Transvaal Government had done in the matter. They were partners in the mining industry. They reaped nearly a million of money out of the profits tax, and what had they done to combat the disease? He said, absolutely nothing He was sure that to whatever legislation the Government might introduce, and to whatever sums of money they might be prepared to spend on miners&#x2019; phthisis, hon. members on his side of the House would give their unqualified approval and support.</p>
+
+</speech>
+
+<speech by="#kuhn">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">P. G. KUHN</person> (Prieska)</from>
+
+<p>said that the Estimates did not appear to be resting on a solid foundation, at any rate, as far as agriculture was concerned. The Minister of the Interior had pleaded for development of parts of the country such as the one he, the speaker, represented. It was often called &#x201C;Kalahari,&#x201D; but there was no better soil in the whole of South Africa. It had become fashionable to talk of developing the interior, but little was actually being done. He was not in favour of immigration. The towns were full of a certain class of immigrants, who swelled the ranks of the unemployed, hut whose fitness for agriculture was nil. Government should assist the people who were now settled on the land. He was greatly disappointed at the Minister of Lands&#x2019; explicit refusal to subsidise the boring for water. Water was the one thing necessary to develop the North-west. At present, settlers there who had come in under the Act of 1908 had to sell their cattle in order to obtain money with which to bore. Government should make advances, to be redeemed in he same manner as the purchase price of the land itself. The right hon. member for Victoria West bad agreed long ago that instead of paying money to the Treasurer for being allowed to settle in the Kalahari, the people concerned should receive a certain sum by way of encouragement. Postal communication had been provided for a number of isolated outposts of civilisation, but one spot, where 10 whites lived and where there was a Government school, had been refused a postal service for the sake of a paltry &#x00A3;15 a year. It had often been said that people in the North-West were not co-operating in the war against scab, simply because farms were not fenced there. A truckload of fencing material, however, cost &#x00A3;30 to bring up from Part Elizabeth to Prieska, without counting further transport. Such prohibitive rates retarded fencing. He was surprised to hear that a bridge costing &#x00A3;70,000 was to be built at Prieska, because, if a suitable spot were selected, a good bride might be constructed for &#x00A3;20,000.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (Von Brandis)</from>
+
+<p>said the other day the hon. member for Victoria West (Mr. Merriman) said they had 31 lodges, and were considerably over-judged. He found the expenditure of the country on judges amounted to &#x00A3;62,711 for the ten months. He had no quarrel to pick with that expenditure, hut his quarrel was with the form of trial in this country. In that Connection they were spending a sum of &#x00A3;33,000 for witnesses&#x2019; expenses, the summoning of jurors, and trial by jury. A few days ago he asked if it was the intention of the Minister of Justice to do away with trial by jury and have it by three judges. If they did they would have no need for the complaint that they had too many judges, because they would have enough for them all. A large sum of money was spent on the framing of the jury list In the Transvaal only 200 to 300 were called for duty annually. That, he suggested, was a needless expense. If the list was framed once every five years it would serve the purposes of the country. He hoped the Government would take these matters into consideration, because it seemed to be the desire of members to reduce expenditure. If they had trial by three judges, cases that sometimes lasted for two and three days would only last one, and there alone a considerable saving would be effected. The ends of justice would be served better. Under the jury system only 40 per cent. of convictions were obtained, because a prisoner bad nine men to appeal to. A guilty man preferred to be tried by a jury, but an innocent man preferred to be tried by a judge. In the Transvaal the Jaw had been altered, and they now had the majority system, a man being convicted by a majority of the jury. He hoped the Government would see fit to introduce the system he had advocated, a system that would result in the purity of the administration of justice and the prisoners getting their due. Trial by judges would result in added efficiency and economy.</p>
+
+</speech>
+
+<speech by="#venter">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. A. VENTER</person> (Wodehouse)</from>
+
+<p>asked what the policy of the Government was in connection with the vote for East Coast fever. The disease had appeared in part of his constituency. It would never be extirpated unless more efficient border guards were appointed. As a rule the officials in question were townsmen who knew nothing about the disease. Country people should be appointed. A deputation had asked the Minister of Agriculture for a wire fence. The Minister had agreed, but, although the material had arrived, no fence had been erected. A fence would be most valuable, not only as a precaution against the spread of disease but as a protection against stock theft.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>said he thought the people of South Africa, quite regardless of parties, considered the salaries of Ministers too high, having regard to the revenue and the population of the country. He certainly looked upon the salaries as too high for the country. He had not expected that in the first Estimates the policy of the Government would be shown, but he did expect that that would be the case in regard to the next Estimates, and so he desired to bring one or two matters to the notice of the Government. The first was the question of agricultural <span class="col_561-562" refersTo="page_0290"/>development. In the Transkei they had one of the best assets that the country possessed. The Transkeian Territories produced one-third of the cattle of the Cape Province, one-fifth of the horses, mules, and donkeys, one-fourth of the sheep, one fifth of the wool, and one-quarter of the hides, one-half of the mealies and maize, and one-fourth of the tobacco produced in the Cape Province. Tittle had been done for these Territories in the way of agricultural development, and he must say that in this respect the present Government had only been following in the footsteps of the preceding Governments. He hoped that with the advent of Union, and that with the advent of the Prime Minister as Minister of Agriculture, there would be an improvement. No one in the Transvaal 25 years ago would have thought there would be that large trade in maize, which had been the result of improved methods, such as they in the Territories also wanted. If there was any part of the country which ought to be helped by the Government, because the people had put their shoulders to the wheel, it was the Territories, It might be news to the House to know that half of the ploughs in the Cape Province belonged to the natives of the Territories. The hon. member went on to deal with the Native Council of the Transkei, and how the natives were doing all they could to help themselves. He did not agree with the hon. member for Cape Town (Mr. Jagger) that all agricultural matters should be left &#x2019;to the Provincial Councils, but what should be done was that the Union Government provide the necessary machinery. It was not true to say that natives were net making use of improved methods, for he had seen many improved methods in use in his travels through the Transkeian Territories. If the Government did assist them, these Territories would be amongst the richest in the country They also formed one of the great resources for labour, and many thousands of natives from there went to the mines. Hon. members who had spoken of education had dealt only with the education of Europeans, and he would like to deal with the education of coloured people and natives. It was their duty to see that some provision was made for the higher education of the natives, and he hoped that next year some provision for it would be made on the Estimates. If they did not educate the natives, it would never benefit this country. If the natives were not levelled up, the Europeans would level down. Proceeding, he said he hoped no hon. member would think that because they gave this education they were hurting themselves. They were deriving from the natives of the Cape in direct taxation about &#x00A3;100,000, and they gave back in education &#x2014;in one form or another&#x2014;about &#x00A3;87,000, or about four-fifths. He said that the Cape was doing its duty in regard to the native. He went on to contrast these figures with those of the other Provinces. He thought they would find the policy of the Cape&#x2014;to give back a fair proportion of the revenue which they received in education&#x2014;would be followed more and more by the whole of South Africa.</p>
+
+</speech>
+
+<speech by="#oliver">
+
+<from>Mr. <person refersTo="hansard_za">H. A. OLIVER</person> (Kimberley)</from>
+
+<p>said that the Minister of the Interior had tried to defend the Estimates by saying that they had to take things as they found them. There were increases with regard to education and agriculture, and while the country could afford to increase in that direction he for one would not raise his voice in protest. But in regard to Ministers&#x2019; salaries, he could not say that he agreed that the dost of living had increased to such a tremendous extent as had been indicated by the Minister. He would ask the Minister if he was willing to apply the principle he applied to Ministerial salaries to the men in the employ of the Government, who were receiving from 5s. to 10s. a day, because if living had increased for Ministers it would have increased for these men. Another point was in regard to the establishment of Provincial Councils. Provincial Councils, he admitted, were an absolute necessity for the other Provinces, but in the Cape Province he did not think that such an institution was necessary. Already they had the machinery wherewith to carry on the work. They had Divisional Councils, and the establishment of a Provincial Council was simply duplicating things. He pointed out that larger amounts were being devoted to the other Provinces than to the Cape, because down here the Divisional Council undertook the upkeep of roads and bridges which in the other Provinces were dealt with by the Provincial Councils. That state of things could not go on indefinitely, and the question he would ask was, was the Central Government going to pay for these things out of the general revenue, or whether they were going to have taxation in the various Provinces. There was the question of education. In the Cape Province the parents paid the school fees of their children, but in the other Provinces they had very much larger votes, and he maintained that as one country they should have one system of taxation. He also wanted to point out to the Minister of Finance that if his present Estimates were to be the basis of their future operations, then one part of the country would suffer as compared with another part. He had no hesitation in saying that the Treasurer&#x2019;s estimate of expenditure would be fully realised, and he would ask the House to consider whether the estimated revenue was likely to be realised. He referred to the estimated revenue from Customs, and pointed out that the very large increase in trade during the last two months was due to merchants replenishing their stocks after the depression. He did not think that in the next five months the imports would be as large as they had been, and if that was the case the estimate made by the Minister of Finance for Customs dues would not be realised. They were all anxious that the products of this country <span class="col_563-564" refersTo="page_0291"/>should be increased, and the people should use them more; but at the same time he had to point put that that fact would reduce his revenue from Customs dues. There was another matter. Sending imported good over the railway cost more than Colonial produce. If they sent more of Colonial produce over the railway, the receipts would decrease, and they would have to have another form of taxation. So fas as the white scourge was concerned, he agreed with what had been said by the hon. member for Jeppes, and thought that steps should be taken to fight this terrible disease. He was glad to hear that those in charge were doing their best, but they would also have to have the co-operation of the men who were concerned. He believed that machines, which minimised the effect of the disease, meant that work was curtailed, and that the men were, therefore, not anxious to use them, because it meant less money. He wanted to urge the Government to appoint a Commission to go into the question. If they had a scourge, whether among cattle or human beings, they were always ready to spend money to combat it. This they should combat, for it affected their working classes.</p>
+
+</speech>
+
+<speech by="#fitzpatrick">
+
+<from>Sir <person refersTo="hansard_za">J. P. FITZPATRICK</person> (Pretoria East)</from>
+
+<p>moved the adjournment of the debate.</p>
+
+</speech>
+
+<speech by="#blaine">
+
+<from>Mr. <person refersTo="hansard_za">G. BLAINE</person> (Border)</from>
+
+<p>seconded.</p>
+
+<p>The debate was adjourned until the following day.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#night_sittings">
+
+<heading>NIGHT SITTINGS.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>moved that, from and after Thursday, the 8th inst., the House suspend business at 6 o&#x2019;clock p.m., and resumis at 8 o&#x2019;clock p.m. on Thursdays and Fridays.</p>
+
+</speech>
+
+<speech by="#krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J. KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to,</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#agricultural_pests_bill_first_reading">
+
+<heading>AGRICULTURAL PESTS BILL.<br/>FIRST READING.</heading>
+
+<p>The Bill, was read a first time, and the second reading set down for Monday.</p>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-12-06T18:00:00">6 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
