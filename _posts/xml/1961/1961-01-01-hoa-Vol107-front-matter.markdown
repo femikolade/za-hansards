@@ -57,233 +57,81 @@ categories: hoa debates
 
 <notes source="#hansard_za">
 
-<note eId="note01_p7" marker="*">
+<note eId="note01_p4" marker="*"><p>Acted as Prime Minister as from the 3rd March 1961, during absence from Union of Dr. the Hon. H. F. Verwoerd, M.P.</p></note>
 
-<p>Acted as Prime Minister as from the 3rd March 1961, during absence from Union of Dr. the Hon. H. F. Verwoerd, M.P.</p>
+<note eId="note02_p4" marker="&#x2020;"><p>Acted as Minister of External Affairs as from the 3rd March 1961, during absence from the Union of the Hon. E. H. Louw, M.P.</p></note>
 
-</note>
+<note eId="note03_p4" marker="&#x2021;"><p>As from the 21st January, 1961.</p></note>
 
-<note eId="note02_p7" marker="&#x2020;">
+<note eId="note01_p6" marker="*"><p>Elected under provisions of South-West Africa Affairs Amendment Act, 1949 (Act No. 23 of 1949)</p></note>
 
-<p>Acted as Minister of External Affairs as from the 3rd March 1961, during absence from the Union of the Hon. E. H. Louw, M.P.</p>
+<note eId="note02_p6" marker="&#x2020;"><p>Elected 3rd April, 1958, under provisions of Separate Representation of Voters Act, 1951 (Act No. 46 of 1951).</p></note>
 
-</note>
+<note eId="note03_p6" marker="(1)"><p>Elected 25th July, 1960, <i>vice</i> J. H. Abraham, resigned 10th June, 1960.</p></note>
 
-<note eId="note03_p7" marker="&#x2021;">
+<note eId="note04_p6" marker="(2)"><p>Elected 11th January, 1960, <i>vice</i> A. I. D. Brown, resigned 12th November, 1959.</p></note>
 
-<p>As from the 21st January, 1961.</p>
+<note eId="note05_p6" marker="(3)"><p>Elected 11th January, 1960, <i>vice</i> J. W. J. C. du Plessis, resigned 7th December, 1959.</p></note>
 
-</note>
+<note eId="note06_p6" marker="(4)"><p>Elected 4th May, 1961, <i>vice Dr</i>. B. Wilson, resigned 30th January, 1961.</p></note>
 
-<note eId="note01_p9" marker="*">
+<note eId="note07_p6" marker="(5)"><p>Elected 3rd June, 1958, <i>vice Col</i>. R. D. P. Jordan, resigned 25th April, 1958.</p></note>
 
-<p>Elected under provisions of South-West Africa Affairs Amendment Act, 1949 (Act No. 23 cf 1949)</p>
+<note eId="note08_p6" marker="(6)"><p>Elected 3rd December, 1958, <i>vice</i> the Hon. J. G. Strydom, deceased 24th August, 1958.</p></note>
 
-</note>
+<note eId="note09_p6" marker="(7)"><p>Elected 17th March, 1961, <i>vice</i> the Hon. J. H. Conradie, resigned 31st December, 1960.</p></note>
 
-<note eId="note02_p9" marker="&#x2020;">
+<note eId="note10_p6" marker="(8)"><p>Elected 10th September, 1958, <i>vice</i> the <i>Rev</i>. P. N. V. de Lange, decessed 5th June, 1958.</p></note>
 
-<p>Elected 3rd April, 1958, under provisions of Separate Representation of Voters Act, 1951 (Act No. 46 of 1951).</p>
+<note eId="note11_p6" marker="(9)"><p>Elected 16th January, 1961, <i>vice</i> P. J. H. Luttig, elected Senator with effect from 25th November, 1960.</p></note>
 
-</note>
+<note eId="note12_p6" marker="(10)"><p>Elected 17th March, 1961, <i>vice</i> the Hon. J. F. T. Naud&#x00FB;, nominated Senator with effect from 6th, December, 1960.</p></note>
 
-<note eId="note03_p9" marker="(1)">
+<note eId="note13_p6" marker="(11)"><p>Elected 17th March, 1961, <i>vice Dr</i>. H. Muller, resigned 10th January, 1961.</p></note>
 
-<p>Elected 25th July, 1960, <i>vice</i> J. H. Abraham, resigned 10th June, 1960.</p>
+<note eId="note14_p6" marker="(12)"><p>Elected 24th August, 1960, <i>vice</i> S. F. Papenfus, resigned 10th June, 1960.</p></note>
 
-</note>
+<note eId="note15_p6" marker="(13)"><p>Elected 19th April, 1961, <i>vice</i> J. T. Bezuidenhout, deceased 8th November, 1960.</p></note>
 
-<note eId="note04_p9" marker="(2)">
+<note eId="note16_p6" marker="(14)"><p>Elected 11th January, 1960, <i>vice</i> the Hon. C. R. Swart, resigned 7th December, 1959.</p></note>
 
-<p>Elected 11th January, 1960, <i>vice</i> A. I. D. Brown, resigned 12th November, 1959.</p>
+<note eId="note17_p6" marker="(15)"><p>Elected 16th January, 1961, <i>vice</i> P. J. C. du Plessis, resigned 31st October, 1960.</p></note>
 
-</note>
+<note eId="note18_p6" marker="(16)"><p>Elected 10th June, 1958, <i>vice Dr</i>. J. H. O. du Plessis, resigned 12th May, 1958.</p></note>
 
-<note eId="note05_p9" marker="(3)">
+<note eId="note19_p6" marker="(17)"><p>Elected 3rd June, 1958, <i>vice</i> A. L. Kowarsky, resigned 25th April, 1958.</p></note>
 
-<p>Elected 11th January, 1960, <i>vice</i> J. W. J. C. du Plessis, resigned 7th December, 1959.</p>
+<note eId="note20_p6" marker="(18)"><p>Elected 11th May, 1959, <i>vice</i> S. J. Tighy, deceased 28th February, 1959.</p></note>
 
-</note>
+<note eId="note21_p6" marker="(19)"><p>Elected 25th April, 1961, <i>vice</i> H. A. Rust, resigned 16th March, 1961.</p></note>
 
-<note eId="note06_p9" marker="(4)">
+<note eId="note22_p6" marker="(20)"><p>Elected 15th April, 1959, <i>vice Dr</i>. the Hon. A. J. R. van Rhyn, resigned 1st December, 1958.</p></note>
 
-<p>Elected 4th May, 1961, <i>vice Dr.</i> B. Wilson, resigned 30th January, 1961.</p>
+<note eId="note23_p6" marker="(21)"><p>Elected 3rd May, 1961, <i>vice</i> I. W. J. van der Vyver, deceased 3rd February, 1961.</p></note>
 
-</note>
+<note eId="note01_p10" marker="(a)"><p>Dropped in Assembly.</p></note>
 
-<note eId="note07_p9" marker="(5)">
+<note eId="note02_p10" marker="(w)"><p>Withdrawn.</p></note>
 
-<p>Elected 3rd June, 1958, <i>vice Col.</i> R. D. P. Jordan, resigned 25th April, 1958.</p>
+<note eId="note03_p10" marker="(S.C.)"><p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p></note>
 
-</note>
+<note eId="note04_p10" marker="*"><p>English version was signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p></note>
 
-<note eId="note08_p9" marker="(6)">
+<note eId="note05_p10" marker="&#x2020;"><p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act 1961.</p></note>
 
-<p>Elected 3rd December, 1958, <i>vice</i> the Hon. J. G. Strydom, deceased 24th August, 1958.</p>
+<note eId="note01_p12" marker="(S.C.)"><p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p></note>
 
-</note>
+<note eId="note02_p12" marker="*"><p>English version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p></note>
 
-<note eId="note09_p9" marker="(7)">
+<note eId="note03_p12" marker="&#x2020;"><p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p></note>
 
-<p>Elected 17th March, 1961, <i>vice</i> the Hon. J. H. Conradie, resigned 31st December, 1960.</p>
+<note eId="note01_p14" marker="(S.C.)"><p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p></note>
 
-</note>
+<note eId="note02_p14" marker="*"><p>English version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p></note>
 
-<note eId="note10_p9" marker="(8)">
+<note eId="note03_p14" marker="&#x2020;"><p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p></note>
 
-<p>Elected 10th September, 1958, <i>vice</i> the <i>Rev.</i> P. N. V. de Lange, decessed 5th June, 1958.</p>
-
-</note>
-
-<note eId="note11_p9" marker="(9)">
-
-<p>Elected 16th January, 1961, <i>vice</i> P. J. H. Luttig, elected Senator with effect from 25th November, 1960.</p>
-
-</note>
-
-<note eId="note12_p9" marker="(10)">
-
-<p>Elected 17th March, 1961, <i>vice</i> the Hon. J. F. T. Naudu, nominated Senator with effect from 6th, December, 1960.</p>
-
-</note>
-
-<note eId="note13_p9" marker="(11)">
-
-<p>Elected 17th March, 1961, <i>vice Dr.</i> H. Muller, resigned 10th January, 1961.</p>
-
-</note>
-
-<note eId="note14_p9" marker="(12)">
-
-<p>Elected 24th August, 1960, <i>vice</i> S. F. Papenfus, resigned 10th June, 1960.</p>
-
-</note>
-
-<note eId="note15_p9" marker="(13)">
-
-<p>Elected 19th April, 1961, <i>vice</i> J. T. Bezuidenhout, deceased 8th November, 1960.</p>
-
-</note>
-
-<note eId="note16_p9" marker="(14)">
-
-<p>Elected 11th January, 1960, <i>vice</i> the Hon. C. R. Swart, resigned 7th December, 1959.</p>
-
-</note>
-
-<note eId="note17_p9" marker="(15)">
-
-<p>Elected 16th January, 1961, <i>vice</i> P. J. C. du Plessis, resigned 31st October, 1960.</p>
-
-</note>
-
-<note eId="note18_p9" marker="(16)">
-
-<p>Elected 10th June, 1958, <i>vice Dr.</i> J. H. O. du Plessis, resigned 12th May, 1958.</p>
-
-</note>
-
-<note eId="note19_p9" marker="(17)">
-
-<p>Elected 3rd June, 1958, <i>vice</i> A. L. Kowarsky, resigned 25th April, 1958.</p>
-
-</note>
-
-<note eId="note20_p9" marker="(18)">
-
-<p>Elected 11th May, 1959, <i>vice</i> S. J. Tighy, deceased 28th February, 1959.</p>
-
-</note>
-
-<note eId="note21_p9" marker="(19)">
-
-<p>Elected 25th April, 1961, <i>vice</i> H. A. Rust, resigned 16th March, 1961.</p>
-
-</note>
-
-<note eId="note22_p9" marker="(20)">
-
-<p>Elected 15th April, 1959, <i>vice Dr.</i> the Hon. A. J. R. van Rhyn, resigned 1st December, 1958.</p>
-
-</note>
-
-<note eId="note23_p9" marker="(21)">
-
-<p>Elected 3rd May, 1961, <i>vice</i> I. W. J. van der Vyver, deceased 3rd February, 1961.</p>
-
-</note>
-
-<note eId="note01_p13" marker="(a)">
-
-<p>Dropped in Assembly.</p>
-
-</note>
-
-<note eId="note02_p13" marker="(w)">
-
-<p>Withdrawn.</p>
-
-</note>
-
-<note eId="note03_p13" marker="(S.C.)">
-
-<p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p>
-
-</note>
-
-<note eId="note04_p13" marker="*">
-
-<p>English version was signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p>
-
-</note>
-
-<note eId="note05_p13" marker="&#x2020;">
-
-<p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act 1961.</p>
-
-</note>
-
-<note eId="note01_p15" marker="(S.C.)">
-
-<p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p>
-
-</note>
-
-<note eId="note02_p15" marker="*">
-
-<p>English version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p>
-
-</note>
-
-<note eId="note03_p15" marker="&#x2020;">
-
-<p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p>
-
-</note>
-
-<note eId="note01_p17" marker="(S.C.)">
-
-<p>&#x2014;Numbers indicate the number of the Printed Report of the Select Committee to which the Bill was referred.</p>
-
-</note>
-
-<note eId="note02_p17" marker="*">
-
-<p>English version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p>
-
-</note>
-
-<note eId="note03_p17" marker="&#x2020;">
-
-<p>Afrikaans version signed by His Excellency the Governor-General or His Excellency the Officer Administering the Government, under section <i>sixty-seven</i> of the South Africa Act, 1909, or the State President, under section <i>sixty-five</i> of the Republic of South Africa Constitution Act, 1961.</p>
-
-</note>
-
-<note eId="note04_p18" marker="*">
-
-<p>Denotes Consolidation Bill.</p>
-
-</note>
+<note eId="note01_p15" marker="*"><p>Denotes Consolidation Bill.</p></note>
 
 </notes>
 
@@ -291,27 +139,23 @@ categories: hoa debates
 
 <coverPage>
 
-<p class="heading"><span class="col_ii" refersTo="page_0001"/>DEBATES OF THE HOUSE OF ASSEMBLY (HANSARD)</p>
+<p class="heading"><span class="col_i" refersTo="page_0001"/>DEBATES OF THE HOUSE OF ASSEMBLY (HANSARD)</p>
 
-<p><session value="fourth">FOURTH SESSION</session>&#x2014;<legislature value="twelfth">TWELFTH PARLIAMENT</legislature></p>
+<p><session value="fourth">FOURTH SESSION</session>&#x2014;<legislature value="twelfth">TWELFTH PARLIAMENT (UNION OF SOUTH AFRICA)</legislature></p>
 
 <p><date date="1961-01-20">20th January</date> to <date date="1961-05-26">26th May, 1961</date></p>
 
-<p class="#volume">106, 107 and 108</p>
+<p class="#volume">(Vols. 106, 107 &#x0026; 108)</p>
 
-<p>and</p>
+<p>AND</p>
 
-<p class="heading">REPUBLIC OF SOUTH AFRICA</p>
-
-<p class="heading">DEBATES OF THE HOUSE OF ASSEMBLY (HANSARD)</p>
-
-<p><session value="first">FIRST SESSION</session>&#x2014;<legislature value="first">FIRST PARLIAMENT</legislature></p>
+<p><session value="first">FIRST SESSION</session>&#x2014;<legislature value="first">FIRST PARLIAMENT (REPUBLIC OF SOUTH AFRICA)</legislature></p>
 
 <p><date date="1961-06-05">5th June</date> to <date date="1961-06-27">27th June, 1961</date></p>
 
-<p class="#volume">1</p>
+<p class="#volume">(Vol. 1)</p>
 
-<p class="heading"><span class="col_iii" refersTo="page_0002"/>Contents</p>
+<p class="heading"><span class="col_iii" refersTo="page_0002"/>CONTENTS</p>
 
 <p>Pages</p>
 
@@ -331,7 +175,7 @@ categories: hoa debates
 
 <tocItem href="#t07" level="1">Select and Sessional Committees xvi</tocItem>
 
-<tocItem href="#t08" level="1">The Debates:</tocItem>
+<tocItem href="#t08" level="1">The Debates: Col. Nos.</tocItem>
 
 <tocItem href="#t09" level="2">Vol. 106 (Union of South Africa) 1&#x2014;2840</tocItem>
 
@@ -367,7 +211,7 @@ categories: hoa debates
 
 <p>Col. 2602: Read lines 38 to 48 after line 9.</p>
 
-<p>Col. 3153, line 21: For &#x201C;69c&#x201D;, read &#x201C;69c&#x201D;.</p>
+<p>Col. 3153, line 21: For &#x201C;69c&#x201D;, read &#x201C;.69c&#x201D;.</p>
 
 <p>Col. 3153, line 28: For &#x201C;5c&#x201D;, read &#x201C;.5c&#x201D;.</p>
 
@@ -451,7 +295,7 @@ categories: hoa debates
 
 <td><p>Minister of Lands, of Forestry and of Public Works</p></td>
 
-<td><p><noteRef href="#note01_p7" marker="*"/>The Hon. P. O. SAUER, M.P.</p></td>
+<td><p><noteRef href="#note01_p4" marker="*"/>The Hon. P. O. SAUER, M.P.</p></td>
 
 </tr>
 
@@ -475,7 +319,7 @@ categories: hoa debates
 
 <td><p>Minister of Justice</p></td>
 
-<td><p><noteRef href="#note02_p7" marker="&#x2020;"/>The Hon. F. C. ERASMUS, M.P.</p></td>
+<td><p><noteRef href="#note02_p4" marker="&#x2020;"/>The Hon. F. C. ERASMUS, M.P.</p></td>
 
 </tr>
 
@@ -497,7 +341,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>Minister of the Interior <noteRef href="#note03_p7" marker="&#x2021;"/>, of Labour and of Mines</p></td>
+<td><p>Minister of the Interior(<noteRef href="#note03_p4" marker="&#x2021;"/>), of Labour and of Mines</p></td>
 
 <td><p>The Hon. Senator J. DE KLERK.</p></td>
 
@@ -561,7 +405,7 @@ categories: hoa debates
 
 </table>
 
-<p>DEPUTY MINISTERS</p>
+<p class="heading">DEPUTY MINISTERS</p>
 
 <table>
 
@@ -599,7 +443,9 @@ categories: hoa debates
 
 </table>
 
-<p class="heading"><span class="col_vi" refersTo="page_0005"/>MEMBERS OF THE HOUSE OF ASSEMBLY AND THE ELECTORAL DIVISIONS OR CIRCLES REPRESENTED BY THEM.</p>
+<p class="heading"><span class="col_vi" refersTo="page_0005"/>MEMBERS OF THE HOUSE OF ASSEMBLY</p>
+
+<p>AND THE ELECTORAL DIVISIONS OR CIRCLES REPRESENTED BY THEM.</p>
 
 <p>SPEAKER: The Hon. H. J. Klopper, M.P.</p>
 
@@ -613,19 +459,19 @@ categories: hoa debates
 
 <li>Badenhorst, F. H.&#x2014;Uitenhage.</li>
 
-<li><noteRef href="#note02_p8" marker="&#x2020;"/>Barnett, C.&#x2014;Boland.</li>
+<li><noteRef href="#note02_p6" marker="&#x2020;"/>Barnett, C.&#x2014;Boland.</li>
 
 <li>Basson, J. A. L.&#x2014;Sea Point.</li>
 
-<li><noteRef href="#note01_p8" marker="*"/>Basson, J. D. du P.&#x2014;Namib.</li>
+<li><noteRef href="#note01_p6" marker="*"/>Basson, J. D. du P.&#x2014;Namib.</li>
 
 <li>Bekker, G. F. H.&#x2014;Cradock.</li>
 
 <li>Bekker, H. T. van G.&#x2014;Kimberley-North.</li>
 
-<li><noteRef href="#note03_p8" marker="1"/>Bekker, M. J. H.&#x2014;Groblersdal.</li>
+<li><noteRef href="#note03_p6" marker="(1)"/>Bekker, M. J. H.&#x2014;Groblersdal.</li>
 
-<li><noteRef href="#note02_p8" marker="&#x2020;"/>Bloomberg, A.&#x2014;Peninsula.</li>
+<li><noteRef href="#note02_p6" marker="&#x2020;"/>Bloomberg, A.&#x2014;Peninsula.</li>
 
 <li>Bootha, L. J. C.&#x2014;Rustenburg.</li>
 
@@ -637,7 +483,7 @@ categories: hoa debates
 
 <li>Bowker, T. B.&#x2014;Albany.</li>
 
-<li><noteRef href="#note04_p9" marker="2"/>Bronkhorst, Brig. H. J.&#x2014;North-East Rand.</li>
+<li><noteRef href="#note04_p6" marker="(2)"/>Bronkhorst, Brig. H. J.&#x2014;North-East Rand.</li>
 
 <li>Butcher, R. R.&#x2014;Durban-Berea.</li>
 
@@ -683,7 +529,7 @@ categories: hoa debates
 
 <li>Du Plessis, P. W.&#x2014;Brakpan.</li>
 
-<li>Durrant, R. B.&#x2014;Tuiffontein.</li>
+<li>Durrant, R. B.&#x2014;Turffontein.</li>
 
 </ul>
 
@@ -703,7 +549,7 @@ categories: hoa debates
 
 <li>Fisher, Dr. E. L.&#x2014;Rosettenville.</li>
 
-<li><noteRef href="#note05_p9" marker="3"/>Fouch&#x00E9;, Hon. J. J.&#x2014;Bloemfontein-West.</li>
+<li><noteRef href="#note05_p6" marker="(3)"/>Fouch&#x00E9;, Hon. J. J.&#x2014;Bloemfontein-West.</li>
 
 <li>Fouch&#x00E9;, J. J.&#x2014;Smithfield.</li>
 
@@ -719,9 +565,9 @@ categories: hoa debates
 
 <li>Gay, L. C.&#x2014;Simonstown.</li>
 
-<li><noteRef href="#note06_p9" marker="4"/>Gorshel, A.&#x2014;Hospital.</li>
+<li><noteRef href="#note06_p6" marker="(4)"/>Gorshel, A.&#x2014;Hospital.</li>
 
-<li><noteRef href="#note07_p9" marker="5"/>Graaff, Sir de V.&#x2014;Rondebosch.</li>
+<li><noteRef href="#note07_p6" marker="(5)"/>Graaff, Sir de V.&#x2014;Rondebosch.</li>
 
 <li>Greyling, J. C.&#x2014;Ventersdorp.</li>
 
@@ -737,13 +583,13 @@ categories: hoa debates
 
 <li>Hertzog, Dr. the Hon. A.&#x2014;Ermelo.</li>
 
-<li><noteRef href="#note08_p9" marker="6"/>Heystek, J.&#x2014;Waterberg.</li>
+<li><noteRef href="#note08_p6" marker="(6)"/>Heystek, J.&#x2014;Waterberg.</li>
 
 <li>Hiemstra, E. C. A.&#x2014;Lydenburg-Barberton.</li>
 
 <li>Higgerty, J. W.&#x2014;Von Brandis.</li>
 
-<li><noteRef href="#note02_p9" marker="&#x2020;"/>Holland, M. W.&#x2014;Outeniqua.</li>
+<li><noteRef href="#note02_p6" marker="&#x2020;"/>Holland, M. W.&#x2014;Outeniqua.</li>
 
 <li>Hopewell, A.&#x2014;Pinetown.</li>
 
@@ -769,7 +615,7 @@ categories: hoa debates
 
 <li>Knobel, G. J.&#x2014;Bethlehem.</li>
 
-<li><noteRef href="#note09_p9" marker="7"/>Kotze, G. P.&#x2014;Gordonia.</li>
+<li><noteRef href="#note09_p6" marker="(7)"/>Kotze, G. P.&#x2014;Gordonia.</li>
 
 <li>Kotz&#x00E9;, S. F.&#x2014;Parow.</li>
 
@@ -781,9 +627,9 @@ categories: hoa debates
 
 <li>Lawrence, Hon. H. G., S.A.&#x2014;Salt River.</li>
 
-<li><noteRef href="#note01_p9" marker="*"/>Le Riche, R.&#x2014;Omaruru.</li>
+<li><noteRef href="#note01_p6" marker="*"/>Le Riche, R.&#x2014;Omaruru.</li>
 
-<li><noteRef href="#note02_p9" marker="&#x2020;"/>Le Roux, G. S. P.&#x2014;Karoo.</li>
+<li><noteRef href="#note02_p6" marker="&#x2020;"/>Le Roux, G. S. P.&#x2014;Karoo.</li>
 
 <li>Le Roux, Hon. P. M. K.&#x2014;Oudtshoorn.</li>
 
@@ -805,7 +651,7 @@ categories: hoa debates
 
 <li>Malan, W. C.&#x2014;Paarl.</li>
 
-<li><noteRef href="#note10_p9" marker="8"/>Marais, J. A.&#x2014;Innesdale.</li>
+<li><noteRef href="#note10_p6" marker="(8)"/>Marais, J. A.&#x2014;Innesdale.</li>
 
 <li>Maree, Hon. W. A.&#x2014;Newcastle.</li>
 
@@ -825,7 +671,7 @@ categories: hoa debates
 
 <li>Mulder, Dr. C. P.&#x2014;Randfontein.</li>
 
-<li><noteRef href="#note11_p9" marker="9"/>Muller, S. L.&#x2014;Ceres.</li>
+<li><noteRef href="#note11_p6" marker="(9)"/>Muller, S. L.&#x2014;Ceres.</li>
 
 </ul>
 
@@ -835,7 +681,7 @@ categories: hoa debates
 
 <li>Nel, Hon. M. D. C de W.&#x2014;Wonderboom.</li>
 
-<li><noteRef href="#note12_p9" marker="10"/>Niemand, F. J.&#x2014;Pietersburg.</li>
+<li><noteRef href="#note12_p6" marker="(10)"/>Niemand, F. J.&#x2014;Pietersburg.</li>
 
 </ul>
 
@@ -843,7 +689,7 @@ categories: hoa debates
 
 <li>Oldfield, G. N.&#x2014;Durban-Umbilo.</li>
 
-<li><noteRef href="#note13_p9" marker="11"/>Otto, Dr. J. C.&#x2014;Pretoria-East.</li>
+<li><noteRef href="#note13_p6" marker="(11)"/>Otto, Dr. J. C.&#x2014;Pretoria-East.</li>
 
 </ul>
 
@@ -863,9 +709,9 @@ categories: hoa debates
 
 <li>Radford, Dr. A., M.C.&#x2014;Durban-Central.</li>
 
-<li><noteRef href="#note14_p9" marker="12"/>Rall, J. J.&#x2014;Harrismith.</li>
+<li><noteRef href="#note14_p6" marker="(12)"/>Rall, J. J.&#x2014;Harrismith.</li>
 
-<li><noteRef href="#note15_p9" marker="13"/>Rall, J. W.&#x2014;Bethal-Middelburg.</li>
+<li><noteRef href="#note15_p6" marker="(13)"/>Rall, J. W.&#x2014;Bethal-Middelburg.</li>
 
 <li>Raw, W. V.&#x2014;Durban-Point.</li>
 
@@ -877,11 +723,11 @@ categories: hoa debates
 
 <ul>
 
-<li><span class="col_vii" refersTo="page_0006"/><noteRef href="#note16_p9" marker="14"/>Sadie, N. C. van R.&#x2014;Winburg.</li>
+<li><span class="col_vii" refersTo="page_0006"/><noteRef href="#note16_p6" marker="(14)"/>Sadie, N. C. van R.&#x2014;Winburg.</li>
 
 <li>Sauer, Hon. P. O.&#x2014;Humansdorp.</li>
 
-<li><noteRef href="#note17_p9" marker="15"/>Schlebusch, J. A &#x2014;Bloemfontein-District.</li>
+<li><noteRef href="#note17_p6" marker="(15)"/>Schlebusch, J. A&#x2014;Bloemfontein-District.</li>
 
 <li>Schoeman, Hon. B. J.&#x2014;Maraisburg.</li>
 
@@ -897,7 +743,7 @@ categories: hoa debates
 
 <li>Smit, Dr. D. L.&#x2014;East London-City.</li>
 
-<li><noteRef href="#note18_p9" marker="16"/>Smit, H. H.&#x2014;Stellenbosch.</li>
+<li><noteRef href="#note18_p6" marker="(16)"/>Smit, H. H.&#x2014;Stellenbosch.</li>
 
 <li>Stander, A. H.&#x2014;Prieska.</li>
 
@@ -907,7 +753,7 @@ categories: hoa debates
 
 <li>Steyn, Dr. J. H.&#x2014;Potchefstroom.</li>
 
-<li><noteRef href="#note19_p9" marker="17"/>Steyn, S. J. M.&#x2014;Yeoville.</li>
+<li><noteRef href="#note19_p6" marker="(17)"/>Steyn, S. J. M.&#x2014;Yeoville.</li>
 
 <li>Steytler, Dr. J. van A.&#x2014;Queenstown.</li>
 
@@ -917,7 +763,7 @@ categories: hoa debates
 
 <li>Suzman, H.&#x2014;Houghton.</li>
 
-<li><noteRef href="#note20_p9" marker="18"/>Swart, H. G.&#x2014;Florida.</li>
+<li><noteRef href="#note20_p6" marker="(18)"/>Swart, H. G.&#x2014;Florida.</li>
 
 <li>Swart, R. A. F.&#x2014;Zululand.</li>
 
@@ -925,7 +771,7 @@ categories: hoa debates
 
 <ul>
 
-<li><noteRef href="#note21_p9" marker="19"/>Treurnicht, N. F.&#x2014;Piketberg.</li>
+<li><noteRef href="#note21_p6" marker="(19)"/>Treurnicht, N. F.&#x2014;Piketberg.</li>
 
 <li>Tucker, H.&#x2014;Springs.</li>
 
@@ -951,13 +797,13 @@ categories: hoa debates
 
 <li>Van der Merwe, J. A.&#x2014;Kroonstad.</li>
 
-<li><noteRef href="#note01_p9" marker="*"/>Van der Merwe, P. S.&#x2014;Middelland.</li>
+<li><noteRef href="#note01_p6" marker="*"/>Van der Merwe, P. S.&#x2014;Middelland.</li>
 
 <li>Van der Walt, B. J.&#x2014;Pretoria-West.</li>
 
-<li><noteRef href="#note22_p9" marker="20"/><noteRef href="#note01_p9" marker="*"/>Van der Wath, J. G. H.&#x2014;Windhoek.</li>
+<li><noteRef href="#note22_p6" marker="(20)"/><noteRef href="#note01_p6" marker="*"/>Van der Wath, J. G. H.&#x2014;Windhoek.</li>
 
-<li><noteRef href="#note23_p9" marker="21"/>Van Eeden, F. J.&#x2014;Swellendam.</li>
+<li><noteRef href="#note23_p6" marker="(21)"/>Van Eeden, F. J.&#x2014;Swellendam.</li>
 
 <li>Van Niekerk, G. L. H.&#x2014;Boksburg.</li>
 
@@ -987,7 +833,7 @@ categories: hoa debates
 
 <li>Visse, J. H.&#x2014;Prinshof.</li>
 
-<li><noteRef href="#note01_p9" marker="*"/>Von Moltke, J. von S.&#x2014;Karas.</li>
+<li><noteRef href="#note01_p6" marker="*"/>Von Moltke, J. von S.&#x2014;Karas.</li>
 
 <li>Vorster, Hon. B. J.&#x2014;Nigel.</li>
 
@@ -1001,7 +847,7 @@ categories: hoa debates
 
 <li>Waterson, Hon. S. F.&#x2014;Constantia.</li>
 
-<li><noteRef href="#note01_p9" marker="*"/>Webster, A.&#x2014;Etosha.</li>
+<li><noteRef href="#note01_p6" marker="*"/>Webster, A.&#x2014;Etosha.</li>
 
 <li>Wentzel, J. J.&#x2014;Christiana.</li>
 
@@ -1009,9 +855,7 @@ categories: hoa debates
 
 </ul>
 
-<p><span class="col_viii" refersTo="page_0007"/>ALPHABETICAL LIST OF ELECTORAL DIVISIONS AND CIRCLES</p>
-
-<p>AND THEIR REPRESENTATIVES IN THE HOUSE OF ASSEMBLY.</p>
+<p class="heading"><span class="col_viii" refersTo="page_0007"/>ALPHABETICAL LIST OF ELECTORAL DIVISIONS AND CIRCLES AND THEIR REPRESENTATIVES IN THE HOUSE OF ASSEMBLY.</p>
 
 <table>
 
@@ -1033,7 +877,7 @@ categories: hoa debates
 
 <td><p>Aliwal</p></td>
 
-<td><p>Strydom, <i>Capt.</i> G. H. F.</p></td>
+<td><p>Strydom, <i>Capt</i>. G. H. F.</p></td>
 
 </tr>
 
@@ -1041,7 +885,7 @@ categories: hoa debates
 
 <td><p>Beaufort West</p></td>
 
-<td><p>Louw, <i>Hon.</i> E. H.</p></td>
+<td><p>Louw, <i>Hon</i>. E. H.</p></td>
 
 </tr>
 
@@ -1073,7 +917,7 @@ categories: hoa debates
 
 <td><p>Constantia</p></td>
 
-<td><p>Waterson, <i>Hon.</i> S. F.</p></td>
+<td><p>Waterson, <i>Hon</i>. S. F.</p></td>
 
 </tr>
 
@@ -1097,7 +941,7 @@ categories: hoa debates
 
 <td><p>East London-City</p></td>
 
-<td><p>Smit, <i>Dr.</i> D. L.</p></td>
+<td><p>Smit, <i>Dr</i>. D. L.</p></td>
 
 </tr>
 
@@ -1113,7 +957,7 @@ categories: hoa debates
 
 <td><p>False Bay</p></td>
 
-<td><p>Uys, <i>Hon.</i> D. C. H.</p></td>
+<td><p>Uys, <i>Hon</i>. D. C. H.</p></td>
 
 </tr>
 
@@ -1121,7 +965,7 @@ categories: hoa debates
 
 <td><p>Fort Beaufort</p></td>
 
-<td><p>Jonker, <i>Dr.</i> A. H.</p></td>
+<td><p>Jonker, <i>Dr</i>. A. H.</p></td>
 
 </tr>
 
@@ -1129,7 +973,7 @@ categories: hoa debates
 
 <td><p>George</p></td>
 
-<td><p>Botha, <i>Hon.</i> P. W.</p></td>
+<td><p>Botha, <i>Hon</i>. P. W.</p></td>
 
 </tr>
 
@@ -1153,7 +997,7 @@ categories: hoa debates
 
 <td><p>Green Point</p></td>
 
-<td><p>Van der Byl, <i>Maj. the Hon.</i> Piet, <i>M.C.</i></p></td>
+<td><p>Van der Byl, <i>Maj. the Hon</i>. Piet, M.C.</p></td>
 
 </tr>
 
@@ -1169,7 +1013,7 @@ categories: hoa debates
 
 <td><p>Humansdorp</p></td>
 
-<td><p>Sauer, <i>Hon.</i> P. O.</p></td>
+<td><p>Sauer, <i>Hon</i>. P. O.</p></td>
 
 </tr>
 
@@ -1185,7 +1029,7 @@ categories: hoa debates
 
 <td><p>Kimberley-South</p></td>
 
-<td><p>Venter, <i>Dr.</i> W. L. D. M.</p></td>
+<td><p>Venter, <i>Dr</i>. W. L. D. M.</p></td>
 
 </tr>
 
@@ -1209,7 +1053,7 @@ categories: hoa debates
 
 <td><p>Maitland</p></td>
 
-<td><p>De Beer, <i>Dr.</i> Z. J.</p></td>
+<td><p>De Beer, <i>Dr</i>. Z. J.</p></td>
 
 </tr>
 
@@ -1233,7 +1077,7 @@ categories: hoa debates
 
 <td><p>Mossel Bay</p></td>
 
-<td><p>Van Nierop, <i>Dr.</i> P. J.</p></td>
+<td><p>Van Nierop, <i>Dr</i>. P. J.</p></td>
 
 </tr>
 
@@ -1249,7 +1093,7 @@ categories: hoa debates
 
 <td><p>Oudtshoorn</p></td>
 
-<td><p>Le Roux, <i>Hon.</i> P. M. K.</p></td>
+<td><p>Le Roux, <i>Hon</i>. P. M. K.</p></td>
 
 </tr>
 
@@ -1329,7 +1173,7 @@ categories: hoa debates
 
 <td><p>Queenstown</p></td>
 
-<td><p>Steytler, <i>Dr.</i> J. van A.</p></td>
+<td><p>Steytler, <i>Dr</i>. J. van A.</p></td>
 
 </tr>
 
@@ -1345,7 +1189,7 @@ categories: hoa debates
 
 <td><p>Salt River</p></td>
 
-<td><p>Lawrence, <i>Hon.</i> H. G., <i>S.A.</i></p></td>
+<td><p>Lawrence, <i>Hon</i>. H. G., <i>S.A</i>.</p></td>
 
 </tr>
 
@@ -1425,7 +1269,7 @@ categories: hoa debates
 
 <td><p>Worcester</p></td>
 
-<td><p>D&#x00F6;nges, <i>Dr. the Hon.</i> T. E., <i>S.A.</i></p></td>
+<td><p>D&#x00F6;nges, <i>Dr. the Hon</i>. T.E., S.A.</p></td>
 
 </tr>
 
@@ -1437,13 +1281,9 @@ categories: hoa debates
 
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 
-<th colspan="2"><p>NATAL</p></th>
+<td colspan="2"><p>NATAL</p></td>
 
 </tr>
 
@@ -1467,7 +1307,7 @@ categories: hoa debates
 
 <td><p>Durban-Central</p></td>
 
-<td><p>Radford, <i>Dr.</i> A., <i>M.C.</i></p></td>
+<td><p>Radford, <i>Dr</i>. A., <i>M.C</i>.</p></td>
 
 </tr>
 
@@ -1523,7 +1363,7 @@ categories: hoa debates
 
 <td><p>Newcastle</p></td>
 
-<td><p>Maree, <i>Hon.</i> W. A.</p></td>
+<td><p>Maree, <i>Hon</i>. W. A.</p></td>
 
 </tr>
 
@@ -1531,7 +1371,7 @@ categories: hoa debates
 
 <td><p>Pietermaritzburg-City</p></td>
 
-<td><p>Shearer, <i>Col.</i> O. L., <i>C.B.E., E.D.</i></p></td>
+<td><p>Shearer, <i>Col</i>. O. L., <i>C.B.E., E.D.</i></p></td>
 
 </tr>
 
@@ -1539,7 +1379,7 @@ categories: hoa debates
 
 <td><p>Pietermaritzburg-District</p></td>
 
-<td><p>Henwood, <i>Capt.</i> B. H.</p></td>
+<td><p>Henwood, <i>Capt</i>. B. H.</p></td>
 
 </tr>
 
@@ -1575,13 +1415,9 @@ categories: hoa debates
 
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 
-<th colspan="2"><p>ORANGE FREE STATE.</p></th>
+<td colspan="2"><p>ORANGE FREE STATE</p></td>
 
 </tr>
 
@@ -1613,7 +1449,7 @@ categories: hoa debates
 
 <td><p>Bloemfontein-West</p></td>
 
-<td><p>Fouch&#x00E9;, <i>Hon.</i> J. J.</p></td>
+<td><p>Fouch&#x00E9;, <i>Hon</i>. J. J.</p></td>
 
 </tr>
 
@@ -1621,7 +1457,7 @@ categories: hoa debates
 
 <td><p>Fauresmith-Boshof</p></td>
 
-<td><p>Serfontein, <i>Hon.</i> J. J.</p></td>
+<td><p>Serfontein, <i>Hon</i>. J. J.</p></td>
 
 </tr>
 
@@ -1661,7 +1497,7 @@ categories: hoa debates
 
 <td><p>Odendaalsrus</p></td>
 
-<td><p>Meyer, <i>Dr.</i> T.</p></td>
+<td><p>Meyer, <i>Dr</i>. T.</p></td>
 
 </tr>
 
@@ -1677,7 +1513,7 @@ categories: hoa debates
 
 <td><p>Vredefort</p></td>
 
-<td><p>Klopper, <i>Hon.</i> H. J.</p></td>
+<td><p>Klopper, <i>Hon</i>. H. J.</p></td>
 
 </tr>
 
@@ -1697,13 +1533,9 @@ categories: hoa debates
 
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 
-<th colspan="2"><p>TRANSVAAL.</p></th>
+<td colspan="2"><p>TRANSVAAL.</p></td>
 
 </tr>
 
@@ -1711,7 +1543,7 @@ categories: hoa debates
 
 <td><p>Alberton</p></td>
 
-<td><p>Viljoen, <i>Hon.</i> M.</p></td>
+<td><p>Viljoen, <i>Hon</i>. M.</p></td>
 
 </tr>
 
@@ -1783,7 +1615,7 @@ categories: hoa debates
 
 <td><p>Ermelo</p></td>
 
-<td><p>Hertzog, <i>Dr. the Hon.</i> A.</p></td>
+<td><p>Hertzog, <i>Dr. the Hon</i>. A.</p></td>
 
 </tr>
 
@@ -1799,7 +1631,7 @@ categories: hoa debates
 
 <td><p>Geduld</p></td>
 
-<td><p>Jurgens, <i>Dr.</i> J. C.</p></td>
+<td><p>Jurgens, <i>Dr</i>. J. C.</p></td>
 
 </tr>
 
@@ -1815,7 +1647,7 @@ categories: hoa debates
 
 <td><p>Germiston-District</p></td>
 
-<td><p>Fourie, <i>Prof.</i> I. S.</p></td>
+<td><p>Fourie, <i>Prof</i>. I. S.</p></td>
 
 </tr>
 
@@ -1831,7 +1663,7 @@ categories: hoa debates
 
 <td><p>Heidelberg</p></td>
 
-<td><p>Verwoerd, <i>Dr. the Hon.</i> H. F.</p></td>
+<td><p>Verwoerd, <i>Dr. the Hon</i>. H. F.</p></td>
 
 </tr>
 
@@ -1839,7 +1671,7 @@ categories: hoa debates
 
 <td><p>Hercules</p></td>
 
-<td><p>Malan, <i>Dr.</i> A. I.</p></td>
+<td><p>Malan, <i>Dr</i>. A. I.</p></td>
 
 </tr>
 
@@ -1847,7 +1679,7 @@ categories: hoa debates
 
 <td><p>Hillbrow</p></td>
 
-<td><p>Steenkamp, <i>Dr.</i> L. S.</p></td>
+<td><p>Steenkamp, <i>Dr</i>. L. S.</p></td>
 
 </tr>
 
@@ -1879,7 +1711,7 @@ categories: hoa debates
 
 <td><p>Jeppes</p></td>
 
-<td><p>Cronje, <i>Dr.</i> F. J. C.</p></td>
+<td><p>Cronje, <i>Dr</i>. F. J. C.</p></td>
 
 </tr>
 
@@ -1943,7 +1775,7 @@ categories: hoa debates
 
 <td><p>Losberg</p></td>
 
-<td><p>Diederichs, <i>Dr. the Hon.</i> N.</p></td>
+<td><p>Diederichs, <i>Dr. the Hon</i>. N.</p></td>
 
 </tr>
 
@@ -1959,7 +1791,7 @@ categories: hoa debates
 
 <td><p>Maraisburg</p></td>
 
-<td><p>Schoeman, <i>Hon.</i> B. J.</p></td>
+<td><p>Schoeman, <i>Hon</i>. B. J.</p></td>
 
 </tr>
 
@@ -1975,7 +1807,7 @@ categories: hoa debates
 
 <td><p>Mayfair</p></td>
 
-<td><p>Luttig, <i>Dr.</i> H. G.</p></td>
+<td><p>Luttig, <i>Dr</i>. H. G.</p></td>
 
 </tr>
 
@@ -1991,7 +1823,7 @@ categories: hoa debates
 
 <td><p>Nigel</p></td>
 
-<td><p>Vorster, <i>Hon.</i> B. J.</p></td>
+<td><p>Vorster, <i>Hon</i>. B. J.</p></td>
 
 </tr>
 
@@ -1999,7 +1831,7 @@ categories: hoa debates
 
 <td><p>Nigel</p></td>
 
-<td><p>Vorster, <i>Hon.</i> B. J.</p></td>
+<td><p>Vorster, <i>Hon</i>. B. J.</p></td>
 
 </tr>
 
@@ -2007,7 +1839,7 @@ categories: hoa debates
 
 <td><p>North-East Rand</p></td>
 
-<td><p>Bronkhorst, <i>Brig.</i> H. J.</p></td>
+<td><p>Bronkhorst, <i>Brig</i>. H. J.</p></td>
 
 </tr>
 
@@ -2047,7 +1879,7 @@ categories: hoa debates
 
 <td><p>Potchefstroom</p></td>
 
-<td><p>Steyn, <i>Dr.</i> J. H.</p></td>
+<td><p>Steyn, <i>Dr</i>. J. H.</p></td>
 
 </tr>
 
@@ -2071,7 +1903,7 @@ categories: hoa debates
 
 <td><p>Pretoria-East</p></td>
 
-<td><p>Otto, <i>Dr.</i> J. C.</p></td>
+<td><p>Otto, <i>Dr</i>. J. C.</p></td>
 
 </tr>
 
@@ -2111,7 +1943,7 @@ categories: hoa debates
 
 <td><p>Randfontein</p></td>
 
-<td><p>Mulder, <i>Dr.</i> C. P.</p></td>
+<td><p>Mulder, <i>Dr</i>. C. P.</p></td>
 
 </tr>
 
@@ -2119,7 +1951,7 @@ categories: hoa debates
 
 <td><p>Roodepoort</p></td>
 
-<td><p>Botha, <i>Hon.</i> M. C.</p></td>
+<td><p>Botha, <i>Hon</i>. M. C.</p></td>
 
 </tr>
 
@@ -2127,7 +1959,7 @@ categories: hoa debates
 
 <td><p>Rosettenville</p></td>
 
-<td><p>Fisher, <i>Dr.</i> E. L.</p></td>
+<td><p>Fisher, <i>Dr</i>. E. L.</p></td>
 
 </tr>
 
@@ -2159,7 +1991,7 @@ categories: hoa debates
 
 <td><p>Standerton</p></td>
 
-<td><p>Coertze, <i>Dr.</i> L. I.</p></td>
+<td><p>Coertze, <i>Dr</i>. L. I.</p></td>
 
 </tr>
 
@@ -2175,7 +2007,7 @@ categories: hoa debates
 
 <td><p>Vanderbijlpark</p></td>
 
-<td><p>De Wet, <i>Dr.</i> C.</p></td>
+<td><p>De Wet, <i>Dr</i>. C.</p></td>
 
 </tr>
 
@@ -2223,7 +2055,7 @@ categories: hoa debates
 
 <td><p>Westdene</p></td>
 
-<td><p>Mentz, <i>Hon.</i> F. E.</p></td>
+<td><p>Mentz, <i>Hon</i>. F. E.</p></td>
 
 </tr>
 
@@ -2247,7 +2079,7 @@ categories: hoa debates
 
 <td><p>Wonderboom</p></td>
 
-<td><p>Nel, <i>Hon.</i> M. D. C. de W.</p></td>
+<td><p>Nel, <i>Hon</i>. M. D. C. de W.</p></td>
 
 </tr>
 
@@ -2259,13 +2091,9 @@ categories: hoa debates
 
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 
-<th colspan="2"><p>SOUTH-WEST AFRICA</p></th>
+<td colspan="2"><p>SOUTH-WEST AFRICA</p></td>
 
 </tr>
 
@@ -2317,13 +2145,9 @@ categories: hoa debates
 
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 
-<th colspan="2"><p>COLOURED REPRESENTATIVES</p></th>
+<td colspan="2"><p>COLOURED REPRESENTATIVES</p></td>
 
 </tr>
 
@@ -2389,7 +2213,7 @@ categories: hoa debates
 
 <td><p>1&#x2014;&#x2019;61</p></td>
 
-<td><p>32&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>32&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Republic of South Africa Constitution. [J.C. 1&#x2014;&#x2019;61.]</p></td>
 
@@ -2399,7 +2223,7 @@ categories: hoa debates
 
 <td><p>2&#x2014;&#x2019;61</p></td>
 
-<td><p>4&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>4&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Part Appropriation.</p></td>
 
@@ -2409,7 +2233,7 @@ categories: hoa debates
 
 <td><p>3&#x2014;&#x2019;61</p></td>
 
-<td><p>13&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>13&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Unemployment Insurance Amendment.</p></td>
 
@@ -2419,7 +2243,7 @@ categories: hoa debates
 
 <td><p>4&#x2014;&#x2019;61</p></td>
 
-<td><p>7&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>7&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Workmen&#x2019;s Compensation Amendment.</p></td>
 
@@ -2429,7 +2253,7 @@ categories: hoa debates
 
 <td><p>5&#x2014;&#x2019;61</p></td>
 
-<td><p>5&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>5&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>South African Reserve Bank Amendment.</p></td>
 
@@ -2439,7 +2263,7 @@ categories: hoa debates
 
 <td><p>6&#x2014;&#x2019;61</p></td>
 
-<td><p>6&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>6&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Banking Amendment.</p></td>
 
@@ -2449,7 +2273,7 @@ categories: hoa debates
 
 <td><p>7&#x2014;&#x2019;61</p></td>
 
-<td><p>38&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>38&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Diplomatic Mission in United Kingdom Service.</p></td>
 
@@ -2459,7 +2283,7 @@ categories: hoa debates
 
 <td><p>8&#x2014;&#x2019;61</p></td>
 
-<td><p>2&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>2&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Perishable Agricultural Produce Sales.</p></td>
 
@@ -2469,7 +2293,7 @@ categories: hoa debates
 
 <td><p>9&#x2014;&#x2019;61</p></td>
 
-<td><p>12&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>12&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Amendment.</p></td>
 
@@ -2479,9 +2303,9 @@ categories: hoa debates
 
 <td><p>10&#x2014;&#x2019;61</p></td>
 
-<td><p>16&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>16&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
-<td><p>General Loans. [<noteRef href="#note03_p13" marker="S.C."/> 6&#x2014;&#x2019;61.]</p></td>
+<td><p>General Loans. [<noteRef href="#note03_p10" marker="(S.C.)"/> 6&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2489,7 +2313,7 @@ categories: hoa debates
 
 <td><p>11&#x2014;&#x2019;61</p></td>
 
-<td><p>14&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>14&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Mental Disorders Amendment.</p></td>
 
@@ -2499,9 +2323,9 @@ categories: hoa debates
 
 <td><p>12&#x2014;&#x2019;61</p></td>
 
-<td><p>22&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>22&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
-<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note03_p13" marker="S.C."/> 5&#x2014;&#x2019;61.]</p></td>
+<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note03_p10" marker="(S.C.)"/> 5&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2511,7 +2335,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>University of the Orange Free State (Private) Act Amendment (Private). [<noteRef href="#note03_p13" marker="S.C."/> 3&#x2014;&#x2019;61.] (Proceedings suspended).</p></td>
+<td><p>University of the Orange Free State (Private) Act Amendment (Private). [<noteRef href="#note03_p10" marker="(S.C.)"/> 3&#x2014;&#x2019;61.] (Proceedings suspended).</p></td>
 
 </tr>
 
@@ -2519,7 +2343,7 @@ categories: hoa debates
 
 <td><p>14&#x2014;&#x2019;61</p></td>
 
-<td><p>31&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>31&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Preservation of Coloured Areas.</p></td>
 
@@ -2529,7 +2353,7 @@ categories: hoa debates
 
 <td><p>15&#x2014;&#x2019;61</p></td>
 
-<td><p>25&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>25&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Marriage (A.B. 42&#x2014;&#x2019;60)&#x2014;revived.</p></td>
 
@@ -2539,7 +2363,7 @@ categories: hoa debates
 
 <td><p>16&#x2014;&#x2019;61</p></td>
 
-<td><p>1&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>1&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Vyfhoek Management Amendment.</p></td>
 
@@ -2549,7 +2373,7 @@ categories: hoa debates
 
 <td><p>17&#x2014;&#x2019;61</p></td>
 
-<td><p>3&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>3&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Coloured Persons Communal Reserves.</p></td>
 
@@ -2559,7 +2383,7 @@ categories: hoa debates
 
 <td><p>18&#x2014;&#x2019;61</p></td>
 
-<td><p>8&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>8&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Census Amendment.</p></td>
 
@@ -2569,9 +2393,9 @@ categories: hoa debates
 
 <td><p>19&#x2014;&#x2019;61</p></td>
 
-<td><p>24&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>24&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
-<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note03_p13" marker="S.C."/> 4&#x2014;&#x2019;61.]</p></td>
+<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note03_p10" marker="(S.C.)"/> 4&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2579,7 +2403,7 @@ categories: hoa debates
 
 <td><p>20&#x2014;&#x2019;61</p></td>
 
-<td><p>18&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>18&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Industrial Conciliation Amendment.</p></td>
 
@@ -2589,7 +2413,7 @@ categories: hoa debates
 
 <td><p>21&#x2014;&#x2019;61</p></td>
 
-<td><p>33&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>33&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Public Health Amendment.</p></td>
 
@@ -2601,7 +2425,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Bantu Education Amendment <noteRef href="#note02_p13" marker="(w)"/>. [<i>See</i> A.B. 56&#x2014;&#x2019;61.]</p></td>
+<td><p>Bantu Education Amendment <noteRef href="#note02_p10" marker="(w)"/>. [<i>See</i> A.B. 56&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2609,7 +2433,7 @@ categories: hoa debates
 
 <td><p>23&#x2014;&#x2019;61</p></td>
 
-<td><p>23&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>23&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Group Areas Amendment.</p></td>
 
@@ -2619,7 +2443,7 @@ categories: hoa debates
 
 <td><p>24&#x2014;&#x2019;61</p></td>
 
-<td><p>27&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>27&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Anatomy Amendment.</p></td>
 
@@ -2629,7 +2453,7 @@ categories: hoa debates
 
 <td><p>25&#x2014;&#x2019;61</p></td>
 
-<td><p>20&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>20&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Vocational Education Amendment.</p></td>
 
@@ -2639,7 +2463,7 @@ categories: hoa debates
 
 <td><p>26&#x2014;&#x2019;61</p></td>
 
-<td><p>19&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>19&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Special Education Amendment.</p></td>
 
@@ -2649,7 +2473,7 @@ categories: hoa debates
 
 <td><p>27&#x2014;&#x2019;61</p></td>
 
-<td><p>29&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>29&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Foundation Seed.</p></td>
 
@@ -2659,7 +2483,7 @@ categories: hoa debates
 
 <td><p>28&#x2014;&#x2019;61</p></td>
 
-<td><p>9&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>9&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Public Service Amendment.</p></td>
 
@@ -2671,7 +2495,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Atmospheric Pollution Prevention. [<noteRef href="#note03_p13" marker="S.C."/> 7&#x2014;&#x2019;61] <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Atmospheric Pollution Prevention. [<noteRef href="#note03_p10" marker="(S.C.)"/> 7&#x2014;&#x2019;61] <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -2679,7 +2503,7 @@ categories: hoa debates
 
 <td><p>30&#x2014;&#x2019;61</p></td>
 
-<td><p>28&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>28&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Seeds.</p></td>
 
@@ -2691,7 +2515,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Broadcasting Amendment <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Broadcasting Amendment <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -2701,7 +2525,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Telephonic Communications Interception <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Telephonic Communications Interception <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -2711,7 +2535,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Extension of University Education Amendment <noteRef href="#note02_p13" marker="(w)"/>.</p></td>
+<td><p>Extension of University Education Amendment <noteRef href="#note02_p10" marker="(w)"/>.</p></td>
 
 </tr>
 
@@ -2719,7 +2543,7 @@ categories: hoa debates
 
 <td><p>34&#x2014;&#x2019;61</p></td>
 
-<td><p>10&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>10&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Additional Appropriation.</p></td>
 
@@ -2729,7 +2553,7 @@ categories: hoa debates
 
 <td><p>35&#x2014;&#x2019;61</p></td>
 
-<td><p>11&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>11&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Unauthorized Expenditure.</p></td>
 
@@ -2739,7 +2563,7 @@ categories: hoa debates
 
 <td><p>36&#x2014;&#x2019;61</p></td>
 
-<td><p>15&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>15&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Unauthorized Expenditure (1959-&#x2019;60).</p></td>
 
@@ -2749,7 +2573,7 @@ categories: hoa debates
 
 <td><p>37&#x2014;&#x2019;61</p></td>
 
-<td><p>17&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>17&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Additional Appropriation.</p></td>
 
@@ -2759,7 +2583,7 @@ categories: hoa debates
 
 <td><p>38&#x2014;&#x2019;61</p></td>
 
-<td><p>26&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>26&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Precious and Base Metals Amendment.</p></td>
 
@@ -2771,7 +2595,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Chiropractors&#x2019; <noteRef href="#note02_p13" marker="(w)"/>.</p></td>
+<td><p>Chiropractors&#x2019; <noteRef href="#note02_p10" marker="(w)"/>.</p></td>
 
 </tr>
 
@@ -2779,7 +2603,7 @@ categories: hoa debates
 
 <td><p>40&#x2014;&#x2019;61</p></td>
 
-<td><p>40&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>40&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Kimberley Leasehold Conversion to Freehold.</p></td>
 
@@ -2789,7 +2613,7 @@ categories: hoa debates
 
 <td><p>41&#x2014;&#x2019;61</p></td>
 
-<td><p>30&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>30&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Dairy Industry.</p></td>
 
@@ -2799,7 +2623,7 @@ categories: hoa debates
 
 <td><p>42&#x2014;&#x2019;61</p></td>
 
-<td><p>21&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>21&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Appropriation.</p></td>
 
@@ -2809,7 +2633,7 @@ categories: hoa debates
 
 <td><p>43&#x2014;&#x2019;61</p></td>
 
-<td><p>56&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>56&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Water Amendment.</p></td>
 
@@ -2819,7 +2643,7 @@ categories: hoa debates
 
 <td><p>44&#x2014;&#x2019;61</p></td>
 
-<td><p>34&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>34&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Marketing Amendment.</p></td>
 
@@ -2831,7 +2655,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Interpretation Amendment. <noteRef href="#note02_p13" marker="(w)"/> [<i>See</i> A.B. 55&#x2014;&#x2019;61.]</p></td>
+<td><p>Interpretation Amendment, <noteRef href="#note02_p10" marker="(w)"/> [<i>See</i> A.B. 55&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2839,7 +2663,7 @@ categories: hoa debates
 
 <td><p>46&#x2014;&#x2019;61</p></td>
 
-<td><p>61&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>61&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Indemnity.</p></td>
 
@@ -2851,7 +2675,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Magistrates&#x2019; Courts Amendment <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Magistrates&#x2019; Courts Amendment <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -2859,7 +2683,7 @@ categories: hoa debates
 
 <td><p>48&#x2014;&#x2019;61</p></td>
 
-<td><p>44&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>44&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Atomic Energy Amendment.</p></td>
 
@@ -2871,7 +2695,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Electoral Laws Amendment <noteRef href="#note01_p13" marker="(a)"/>. [For report of Select Committee <i>see</i> V. &#x0026; P. 808]. [<i>See</i> A.B. 90&#x2014;&#x2019;61.]</p></td>
+<td><p>Electoral Laws Amendment <noteRef href="#note01_p10" marker="(a)"/>. [For report of Select Committee <i>see</i> V. &#x0026; P. 808]. [<i>See</i> A.B. 90&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
@@ -2879,7 +2703,7 @@ categories: hoa debates
 
 <td><p>50&#x2014;&#x2019;61</p></td>
 
-<td><p>42&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>42&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Further Amendment.</p></td>
 
@@ -2889,7 +2713,7 @@ categories: hoa debates
 
 <td><p>51&#x2014;&#x2019;61</p></td>
 
-<td><p>35&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>35&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Land Bank Amendment.</p></td>
 
@@ -2899,7 +2723,7 @@ categories: hoa debates
 
 <td><p>52&#x2014;&#x2019;61</p></td>
 
-<td><p>37&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>37&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Unauthorized Use of Emblems.</p></td>
 
@@ -2909,7 +2733,7 @@ categories: hoa debates
 
 <td><p>53&#x2014;&#x2019;61</p></td>
 
-<td><p>36&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>36&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Companies Amendment.</p></td>
 
@@ -2919,7 +2743,7 @@ categories: hoa debates
 
 <td><p>54&#x2014;&#x2019;61</p></td>
 
-<td><p>53&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>53&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Police Amendment.</p></td>
 
@@ -2929,7 +2753,7 @@ categories: hoa debates
 
 <td><p><span class="col_xi" refersTo="page_0010"/>55&#x2014;&#x2019;61</p></td>
 
-<td><p>45&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>45&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Interpretation Amendment.</p></td>
 
@@ -2939,7 +2763,7 @@ categories: hoa debates
 
 <td><p>56&#x2014;&#x2019;61</p></td>
 
-<td><p>55&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>55&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Bantu Education Amendment.</p></td>
 
@@ -2951,7 +2775,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Union Education Advisory Council [<noteRef href="#note03_p13" marker="S.C."/> 8&#x2014;&#x2019;61] <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Union Education Advisory Council [<noteRef href="#note03_p10" marker="(S.C.)"/> 8&#x2014;&#x2019;61] <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -2959,7 +2783,7 @@ categories: hoa debates
 
 <td><p>58&#x2014;&#x2019;61</p></td>
 
-<td><p>39&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>39&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>General Law Amendment.</p></td>
 
@@ -2969,7 +2793,7 @@ categories: hoa debates
 
 <td><p>59&#x2014;&#x2019;61</p></td>
 
-<td><p>46&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>46&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Universities Amendment.</p></td>
 
@@ -2979,7 +2803,7 @@ categories: hoa debates
 
 <td><p>60&#x2014;&#x2019;61</p></td>
 
-<td><p>52&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>52&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>National Parks Amendment.</p></td>
 
@@ -2989,7 +2813,7 @@ categories: hoa debates
 
 <td><p>61&#x2014;&#x2019;61</p></td>
 
-<td><p>64&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>64&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>South African Citizenship Amendment.</p></td>
 
@@ -2999,7 +2823,7 @@ categories: hoa debates
 
 <td><p>62&#x2014;&#x2019;61</p></td>
 
-<td><p>60&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>60&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Admission of Persons to the Union Regulation Amendment.</p></td>
 
@@ -3009,7 +2833,7 @@ categories: hoa debates
 
 <td><p>63&#x2014;&#x2019;61</p></td>
 
-<td><p>41&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>41&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Commonwealth Relations (Temporary Provision).</p></td>
 
@@ -3019,7 +2843,7 @@ categories: hoa debates
 
 <td><p>64&#x2014;&#x2019;61</p></td>
 
-<td><p>43&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>43&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Iron and Steel Industry Amendment.</p></td>
 
@@ -3029,7 +2853,7 @@ categories: hoa debates
 
 <td><p>65&#x2014;&#x2019;61</p></td>
 
-<td><p>47&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>47&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Diamond Export Duty Amendment.</p></td>
 
@@ -3039,7 +2863,7 @@ categories: hoa debates
 
 <td><p>66&#x2014;&#x2019;61</p></td>
 
-<td><p>48&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>48&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>State Land Disposal.</p></td>
 
@@ -3049,7 +2873,7 @@ categories: hoa debates
 
 <td><p>67&#x2014;&#x2019;61</p></td>
 
-<td><p>59&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>59&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Aliens Amendment.</p></td>
 
@@ -3059,7 +2883,7 @@ categories: hoa debates
 
 <td><p>68&#x2014;&#x2019;61</p></td>
 
-<td><p>68&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>68&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Public Holidays Amendment.</p></td>
 
@@ -3069,9 +2893,9 @@ categories: hoa debates
 
 <td><p>69&#x2014;&#x2019;61</p></td>
 
-<td><p>49&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>49&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
-<td><p>Post Mortem Examinations and Removal of Human Tissues Amendment.</p></td>
+<td><p>Post Mortem Examinations and Removal of Human Tissues Amend ment.</p></td>
 
 </tr>
 
@@ -3079,7 +2903,7 @@ categories: hoa debates
 
 <td><p>70&#x2014;&#x2019;61</p></td>
 
-<td><p>75&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>75&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Welfare Organizations Amendment.</p></td>
 
@@ -3089,7 +2913,7 @@ categories: hoa debates
 
 <td><p>71&#x2014;&#x2019;61</p></td>
 
-<td><p>54&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>54&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>War Special Pensions Amendment.</p></td>
 
@@ -3099,7 +2923,7 @@ categories: hoa debates
 
 <td><p>72&#x2014;&#x2019;61</p></td>
 
-<td><p>58&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>58&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Payment of Members of Parliament.</p></td>
 
@@ -3109,7 +2933,7 @@ categories: hoa debates
 
 <td><p>73&#x2014;&#x2019;61</p></td>
 
-<td><p>51&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>51&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Customs Amendment.</p></td>
 
@@ -3119,7 +2943,7 @@ categories: hoa debates
 
 <td><p>74&#x2014;&#x2019;61</p></td>
 
-<td><p>50&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>50&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Excise Amendment.</p></td>
 
@@ -3129,7 +2953,7 @@ categories: hoa debates
 
 <td><p>75&#x2014;&#x2019;61</p></td>
 
-<td><p>79&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>79&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Urban Bantu Councils.</p></td>
 
@@ -3139,7 +2963,7 @@ categories: hoa debates
 
 <td><p>76&#x2014;&#x2019;61</p></td>
 
-<td><p>72&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>72&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Liquor Amendment.</p></td>
 
@@ -3151,7 +2975,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Undesirable Publications <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Undesirable Publications <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -3159,7 +2983,7 @@ categories: hoa debates
 
 <td><p>78&#x2014;&#x2019;61</p></td>
 
-<td><p>57&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>57&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Railway Construction.</p></td>
 
@@ -3169,7 +2993,7 @@ categories: hoa debates
 
 <td><p>79&#x2014;&#x2019;61</p></td>
 
-<td><p>62&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>62&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Acts Amendment.</p></td>
 
@@ -3179,7 +3003,7 @@ categories: hoa debates
 
 <td><p>80&#x2014;&#x2019;61</p></td>
 
-<td><p>67&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>67&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Industrial Development Amendment.</p></td>
 
@@ -3189,7 +3013,7 @@ categories: hoa debates
 
 <td><p>81&#x2014;&#x2019;61</p></td>
 
-<td><p>66&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>66&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Export Credit Re-insurance Amendment.</p></td>
 
@@ -3199,7 +3023,7 @@ categories: hoa debates
 
 <td><p>82&#x2014;&#x2019;61</p></td>
 
-<td><p>78&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>78&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Pension Laws Amendment.</p></td>
 
@@ -3209,7 +3033,7 @@ categories: hoa debates
 
 <td><p>83&#x2014;&#x2019;61</p></td>
 
-<td><p>77&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>77&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Building Societies Amendment.</p></td>
 
@@ -3219,7 +3043,7 @@ categories: hoa debates
 
 <td><p>84&#x2014;&#x2019;61</p></td>
 
-<td><p>73&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>73&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Appropriation.</p></td>
 
@@ -3229,7 +3053,7 @@ categories: hoa debates
 
 <td><p>85&#x2014;&#x2019;61</p></td>
 
-<td><p>69&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>69&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Medical, Dental and Pharmacy Amendment.</p></td>
 
@@ -3239,7 +3063,7 @@ categories: hoa debates
 
 <td><p>86&#x2014;&#x2019;61</p></td>
 
-<td><p>63&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>63&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Second Additional Appropriation.</p></td>
 
@@ -3249,7 +3073,7 @@ categories: hoa debates
 
 <td><p>87&#x2014;&#x2019;61</p></td>
 
-<td><p>71&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>71&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Revenue Laws Amendment.</p></td>
 
@@ -3259,7 +3083,7 @@ categories: hoa debates
 
 <td><p>88&#x2014;&#x2019;61</p></td>
 
-<td><p>74&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>74&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Prohibition of Sports Pools Amendment.</p></td>
 
@@ -3269,7 +3093,7 @@ categories: hoa debates
 
 <td><p>89&#x2014;&#x2019;61</p></td>
 
-<td><p>70&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>70&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Parliamentary Service and Administrators&#x2019; Pensions Amendment.</p></td>
 
@@ -3279,7 +3103,7 @@ categories: hoa debates
 
 <td><p>90&#x2014;&#x2019;61</p></td>
 
-<td><p>81&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>81&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Electoral Laws Amendment.</p></td>
 
@@ -3289,7 +3113,7 @@ categories: hoa debates
 
 <td><p>91&#x2014;&#x2019;61</p></td>
 
-<td><p>80&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>80&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Income Tax.</p></td>
 
@@ -3299,7 +3123,7 @@ categories: hoa debates
 
 <td><p>92&#x2014;&#x2019;61</p></td>
 
-<td><p>76&#x2014;&#x2019;61<noteRef href="#note05_p13" marker="&#x2020;"/></p></td>
+<td><p>76&#x2014;&#x2019;61<noteRef href="#note05_p10" marker="&#x2020;"/></p></td>
 
 <td><p>Finance.</p></td>
 
@@ -3311,7 +3135,7 @@ categories: hoa debates
 
 <td><p>&#x2014;</p></td>
 
-<td><p>Unit Trusts Control Amendment <noteRef href="#note01_p13" marker="(a)"/>.</p></td>
+<td><p>Unit Trusts Control Amendment <noteRef href="#note01_p10" marker="(a)"/>.</p></td>
 
 </tr>
 
@@ -3319,7 +3143,7 @@ categories: hoa debates
 
 <td><p>94&#x2014;&#x2019;61</p></td>
 
-<td><p>65&#x2014;&#x2019;61<noteRef href="#note04_p13" marker="*"/></p></td>
+<td><p>65&#x2014;&#x2019;61<noteRef href="#note04_p10" marker="*"/></p></td>
 
 <td><p>Pensions (Supplementary).</p></td>
 
@@ -3335,7 +3159,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>17&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>17&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Additional Appropriation.</p></td>
 
@@ -3343,7 +3167,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>60&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>60&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Admission of Persons to the Union Regulation Amendment.</p></td>
 
@@ -3351,7 +3175,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>59&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>59&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Aliens Amendment.</p></td>
 
@@ -3359,7 +3183,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>27&#x2014;&#x2019;61 <noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>27&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Anatomy Amendment.</p></td>
 
@@ -3367,15 +3191,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>24&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>24&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
-<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note01_p15" marker="S.C."/>4&#x2014;&#x2019;61.]</p></td>
+<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note01_p12" marker="(S.C.)"/> 4&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>73&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>73&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Appropriation.</p></td>
 
@@ -3383,7 +3207,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Appropriation, Part.</p></td>
 
@@ -3391,7 +3215,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>44&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>44&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Atomic Energy Amendment.</p></td>
 
@@ -3399,7 +3223,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>6&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>6&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Banking Amendment.</p></td>
 
@@ -3407,7 +3231,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>55&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>55&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Bantu Education Amendment.</p></td>
 
@@ -3415,7 +3239,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>77&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>77&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Building Societies Amendment.</p></td>
 
@@ -3423,7 +3247,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>8&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>8&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Census Amendment.</p></td>
 
@@ -3431,7 +3255,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>31&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>31&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Coloured Areas, Preservation of.</p></td>
 
@@ -3439,7 +3263,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>3&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>3&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Coloured Persons Communal Reserves.</p></td>
 
@@ -3447,7 +3271,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>41&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>41&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Commonwealth Relations (Temporary Provision).</p></td>
 
@@ -3455,7 +3279,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>36&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>36&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Companies Amendment.</p></td>
 
@@ -3463,7 +3287,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>51&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>51&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Customs Amendment.</p></td>
 
@@ -3471,7 +3295,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>30&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>30&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Dairy Industry.</p></td>
 
@@ -3479,7 +3303,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>12&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>12&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Amendment.</p></td>
 
@@ -3487,7 +3311,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>42&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>42&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Further Amendment.</p></td>
 
@@ -3495,7 +3319,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>47&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>47&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Diamond Export Duty Amendment.</p></td>
 
@@ -3503,7 +3327,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>38&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>38&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Diplomatic Mission in United Kingdom Service.</p></td>
 
@@ -3511,15 +3335,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>22&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>22&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
-<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note01_p15" marker="S.C."/>5&#x2014;&#x2019;61.]</p></td>
+<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note01_p12" marker="(S.C.)"/> 5&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>81&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>81&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Electoral Laws Amendment.</p></td>
 
@@ -3527,7 +3351,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Emblems, Unauthorized Use of.</p></td>
 
@@ -3535,7 +3359,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>66&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>66&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Export Credit Re-Insurance Amendment.</p></td>
 
@@ -3543,7 +3367,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>50&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>50&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Excise Amendment.</p></td>
 
@@ -3551,7 +3375,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>76&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>76&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Finance.</p></td>
 
@@ -3559,7 +3383,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>29&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>29&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Foundation Seed.</p></td>
 
@@ -3567,7 +3391,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>39&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>39&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>General Law Amendment.</p></td>
 
@@ -3575,15 +3399,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
-<td><p>General Loans. [<noteRef href="#note01_p15" marker="S.C."/>6-&#x2014;&#x2019;61.]</p></td>
+<td><p>General Loans. [<noteRef href="#note01_p12" marker="(S.C.)"/> 6&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>23&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>23&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Group Areas Amendment.</p></td>
 
@@ -3591,7 +3415,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>80&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>80&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Income Tax.</p></td>
 
@@ -3599,7 +3423,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>61&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>61&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Indemnity.</p></td>
 
@@ -3607,7 +3431,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>18&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>18&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Industrial Conciliation Amendment.</p></td>
 
@@ -3615,7 +3439,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>67&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>67&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Industrial Development Amendment.</p></td>
 
@@ -3623,7 +3447,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>45&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>45&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Interpretation Amendment.</p></td>
 
@@ -3631,7 +3455,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>43&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>43&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Iron and Steel Industry Amendment.</p></td>
 
@@ -3639,7 +3463,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>40&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>40&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Kimberley Leasehold Conversion to Freehold.</p></td>
 
@@ -3647,7 +3471,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>35&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>35&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Land Bank Amendment.</p></td>
 
@@ -3655,7 +3479,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>72&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>72&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Liquor Amendment.</p></td>
 
@@ -3663,15 +3487,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
-<td><p>Loans, General. [<noteRef href="#note01_p15" marker="S.C."/>6&#x2014;&#x2019;61.]</p></td>
+<td><p>Loans, General. [<noteRef href="#note01_p12" marker="(S.C.)"/> 6&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>34&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>34&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Marketing Amendment.</p></td>
 
@@ -3679,7 +3503,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>25&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>25&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Marriage [A.B. 42&#x2014;&#x2019;60]&#x2014;revived.</p></td>
 
@@ -3687,7 +3511,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>69&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>69&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Medical, Dental and Pharmacy Amendment.</p></td>
 
@@ -3695,7 +3519,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Members of Parliament, Payment of.</p></td>
 
@@ -3703,7 +3527,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>14&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>14&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Mental Disorders Amendment.</p></td>
 
@@ -3711,7 +3535,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>52&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>52&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>National Parks Amendment.</p></td>
 
@@ -3719,7 +3543,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>70&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>70&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Parliamentary Service and Administrators&#x2019; Pensions Amendment.</p></td>
 
@@ -3727,7 +3551,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Part Appropriation.</p></td>
 
@@ -3735,7 +3559,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Payment of Members of Parliament.</p></td>
 
@@ -3743,7 +3567,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>78&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>78&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Pension Laws Amendment.</p></td>
 
@@ -3751,7 +3575,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>65&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>65&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Pensions (Supplementary).</p></td>
 
@@ -3759,7 +3583,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>2&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>2&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Perishable Agricultural Produce Sales.</p></td>
 
@@ -3767,7 +3591,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>53&#x2014;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>53&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Police Amendment.</p></td>
 
@@ -3775,7 +3599,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>49&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>49&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Post Mortem Examinations and Removal of Human Tissues Amendment.</p></td>
 
@@ -3783,7 +3607,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>26&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>26&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Precious and Base Metals Amendment.</p></td>
 
@@ -3791,7 +3615,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>31&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>31&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Preservation of Coloured Areas.</p></td>
 
@@ -3799,7 +3623,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Prohibition of Sports Pools Amendment.</p></td>
 
@@ -3807,7 +3631,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>33&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>33&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Public Health Amendment.</p></td>
 
@@ -3815,7 +3639,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p><span class="col_xiii" refersTo="page_0012"/>68&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p><span class="col_xiii" refersTo="page_0012"/>68&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Public Holidays Amendment.</p></td>
 
@@ -3823,7 +3647,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>9&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>9&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Public Service Amendment.</p></td>
 
@@ -3831,7 +3655,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>57&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>57&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Railway Construction.</p></td>
 
@@ -3839,7 +3663,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>62&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>62&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Acts Amendment.</p></td>
 
@@ -3847,7 +3671,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>10&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>10&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Additional Appropriation.</p></td>
 
@@ -3855,7 +3679,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>21&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>21&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Appropriation.</p></td>
 
@@ -3863,7 +3687,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>63&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>63&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Second Additional Appropriation.</p></td>
 
@@ -3871,7 +3695,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>11&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>11&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Unauthorized Expenditure.</p></td>
 
@@ -3879,7 +3703,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>32&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>32&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Republic of South Africa Constitution. [J.C. 1&#x2014;&#x2019;61.]</p></td>
 
@@ -3887,7 +3711,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>71&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>71&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Revenue Laws Amendment.</p></td>
 
@@ -3895,7 +3719,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>28&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>28&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Seeds.</p></td>
 
@@ -3903,7 +3727,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>64&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>64&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>South African Citizenship Amendment.</p></td>
 
@@ -3911,7 +3735,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>5&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>5&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>South African Reserve Bank Amendment.</p></td>
 
@@ -3919,7 +3743,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>19&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>19&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Special Education Amendment.</p></td>
 
@@ -3927,7 +3751,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Sports Pools, Prohibition of (Amendment).</p></td>
 
@@ -3935,7 +3759,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>48&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>48&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>State Land Disposal.</p></td>
 
@@ -3943,7 +3767,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>15&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>15&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Unauthorized Expenditure (1959-&#x2019;60).</p></td>
 
@@ -3951,7 +3775,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Unauthorized Use of Emblems.</p></td>
 
@@ -3959,7 +3783,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>13&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>13&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Unemployment Insurance Amendment.</p></td>
 
@@ -3967,7 +3791,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>46&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>46&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Universities Amendment.</p></td>
 
@@ -3975,7 +3799,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>79&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>79&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Urban Bantu Councils.</p></td>
 
@@ -3983,7 +3807,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>20&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>20&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Vocational Education Amendment.</p></td>
 
@@ -3991,7 +3815,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>1&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>1&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Vyfhoek Management Amendment.</p></td>
 
@@ -3999,7 +3823,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>54&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>54&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>War Special Pensions Amendment.</p></td>
 
@@ -4007,7 +3831,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>56&#x2014;&#x2019;61<noteRef href="#note03_p15" marker="&#x2020;"/></p></td>
+<td><p>56&#x2014;&#x2019;61<noteRef href="#note03_p12" marker="&#x2020;"/></p></td>
 
 <td><p>Water Amendment.</p></td>
 
@@ -4015,7 +3839,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>75&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>75&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Welfare Organizations Amendment.</p></td>
 
@@ -4023,7 +3847,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>7&#x2014;&#x2019;61<noteRef href="#note02_p15" marker="*"/></p></td>
+<td><p>7&#x2014;&#x2019;61<noteRef href="#note02_p12" marker="*"/></p></td>
 
 <td><p>Workmen&#x2019;s Compensation Amendment.</p></td>
 
@@ -4039,7 +3863,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>1&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>1&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Vyfhoek Management Amendment.</p></td>
 
@@ -4047,7 +3871,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>2&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>2&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Perishable Agricultural Produce Sales.</p></td>
 
@@ -4055,7 +3879,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>3&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>3&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Coloured Persons Communal Reserves.</p></td>
 
@@ -4063,7 +3887,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>4&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Part Appropriation.</p></td>
 
@@ -4071,7 +3895,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>5&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>5&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>South African Reserve Bank Amendment.</p></td>
 
@@ -4079,7 +3903,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>6&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>6&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Banking Amendment.</p></td>
 
@@ -4087,7 +3911,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>7&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>7&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Workmen&#x2019;s Compensation Amendment.</p></td>
 
@@ -4095,7 +3919,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>8&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>8&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Census Amendment.</p></td>
 
@@ -4103,7 +3927,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>9&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>9&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Public Service Amendment.</p></td>
 
@@ -4111,7 +3935,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>10&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>10&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Additional Appropriation.</p></td>
 
@@ -4119,7 +3943,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>11&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>11&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Unauthorized Expenditure.</p></td>
 
@@ -4127,7 +3951,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>12&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>12&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Amendment.</p></td>
 
@@ -4135,7 +3959,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>13&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>13&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Unemployment Insurance Amendment.</p></td>
 
@@ -4143,7 +3967,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>14&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>14&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Mental Disorders Amendment.</p></td>
 
@@ -4151,7 +3975,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>15&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>15&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Unauthorized Expenditure [1959&#x2014;&#x2019;60]</p></td>
 
@@ -4159,15 +3983,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>16&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
-<td><p>General Loans. [<noteRef href="#note01_p17" marker="S.C."/>6&#x2014;&#x2019;61.]</p></td>
+<td><p>General Loans. [<noteRef href="#note01_p14" marker="(S.C.)"/> 6&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>17&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>17&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Additional Appropriations.</p></td>
 
@@ -4175,7 +3999,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>18&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>18&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Industrial Conciliation Amendment.</p></td>
 
@@ -4183,7 +4007,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>19&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>19&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Special Education Amendment.</p></td>
 
@@ -4191,7 +4015,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>20&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>20&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Vocational Education Amendment.</p></td>
 
@@ -4199,7 +4023,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>21&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>21&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Appropriation.</p></td>
 
@@ -4207,15 +4031,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>22&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>22&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
-<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note01_p17" marker="S.C."/>5&#x2014;&#x2019;61.]</p></td>
+<td><p>Dutch Reformed Church in South Africa (Repeal of Laws) (Private). [<noteRef href="#note01_p14" marker="(S.C.)"/> 5&#x2014;&#x2019;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>23&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>23&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Group Areas Amendment.</p></td>
 
@@ -4223,23 +4047,23 @@ categories: hoa debates
 
 <tr>
 
-<td><p>24&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>24&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
-<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note01_p17" marker="S.C."/>4&#x2014;&#x2019;61.]</p></td>
-
-</tr>
-
-<tr>
-
-<td><p>25&#x2014; 61<noteRef href="#note02_p17" marker="*"/></p></td>
-
-<td><p>Marriage [A.B. 42&#x2014; 60]&#x2014;revived.</p></td>
+<td><p>Apostolic Faith Mission of South Africa (Private). [<noteRef href="#note01_p14" marker="(S.C.)"/> 4&#x2014;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>26&#x2014; 61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>25&#x2014;61<noteRef href="#note02_p14" marker="*"/></p></td>
+
+<td><p>Marriage [A.B. 42&#x2014;60]&#x2014;revived.</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>26&#x2014;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Precious and Base Metals Amendment.</p></td>
 
@@ -4247,7 +4071,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>27&#x2014; 61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>27&#x2014;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Anatomy Amendment.</p></td>
 
@@ -4255,7 +4079,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>28&#x2014; 61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>28&#x2014;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Seeds.</p></td>
 
@@ -4263,7 +4087,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>29&#x2014; 61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>29&#x2014;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Foundation Seed.</p></td>
 
@@ -4271,7 +4095,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>30&#x2014; 61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>30&#x2014;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Dairy Industry.</p></td>
 
@@ -4279,7 +4103,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>31&#x2014; 61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>31&#x2014;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Preservation of Coloured Areas.</p></td>
 
@@ -4287,15 +4111,15 @@ categories: hoa debates
 
 <tr>
 
-<td><p>32&#x2014; 61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>32&#x2014;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
-<td><p>Republic of South Africa Constitution. [J.C. 1&#x2014; 61.]</p></td>
+<td><p>Republic of South Africa Constitution. [J.C. 1&#x2014;61.]</p></td>
 
 </tr>
 
 <tr>
 
-<td><p>33&#x2014; 61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>33&#x2014;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Public Health Amendment.</p></td>
 
@@ -4303,7 +4127,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>34&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>34&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Marketing Amendment.</p></td>
 
@@ -4311,7 +4135,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>35&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>35&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Land Bank Amendment.</p></td>
 
@@ -4319,7 +4143,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>36&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>36&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Companies Amendment.</p></td>
 
@@ -4327,7 +4151,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>37&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Unauthorized Use of Emblems.</p></td>
 
@@ -4335,7 +4159,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>38&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>38&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Diplomatic Mission in United Kingdom Service.</p></td>
 
@@ -4343,7 +4167,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>39&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>39&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>General Law Amendment.</p></td>
 
@@ -4351,7 +4175,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>40&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>40&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Kimberley Leasehold Conversion to Freehold.</p></td>
 
@@ -4359,7 +4183,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>41&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>41&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Commonwealth Relations (Temporary Provision).</p></td>
 
@@ -4367,7 +4191,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>42&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>42&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Defence Further Amendment.</p></td>
 
@@ -4375,7 +4199,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>43&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>43&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Iron and Steel Industry Amendment.</p></td>
 
@@ -4383,7 +4207,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>44&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>44&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Atomic Energy Amendment.</p></td>
 
@@ -4391,7 +4215,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>45&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>45&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Interpretation Amendment.</p></td>
 
@@ -4399,7 +4223,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>46&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>46&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Universities Amendment.</p></td>
 
@@ -4407,7 +4231,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>47&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>47&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Diamond Export Duty Amendment.</p></td>
 
@@ -4415,7 +4239,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>48&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>48&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>State Land Disposal.</p></td>
 
@@ -4423,7 +4247,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>49&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>49&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Post Mortem Examinations and Removal of Human Tissues Amendment.</p></td>
 
@@ -4431,7 +4255,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>50&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>50&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Excise Amendment.</p></td>
 
@@ -4439,7 +4263,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>51&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>51&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Customs Amendment.</p></td>
 
@@ -4447,7 +4271,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>52&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>52&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>National Parks Amendment.</p></td>
 
@@ -4455,7 +4279,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>53&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>53&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Police Amendment.</p></td>
 
@@ -4463,7 +4287,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>54&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>54&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>War Special Pensions Amendment.</p></td>
 
@@ -4471,7 +4295,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>55&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>55&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Bantu Education Amendment.</p></td>
 
@@ -4479,7 +4303,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>56&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>56&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Water Amendment.</p></td>
 
@@ -4487,7 +4311,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>57&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>57&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Railway Construction.</p></td>
 
@@ -4495,7 +4319,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>58&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Payment of Members of Parliament.</p></td>
 
@@ -4503,7 +4327,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>59&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>59&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Aliens Amendment.</p></td>
 
@@ -4511,7 +4335,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>60&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>60&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Admission of Persons to the Union Regulation Amendment.</p></td>
 
@@ -4519,7 +4343,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p><span class="col_xv" refersTo="page_0014"/>61&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p><span class="col_xv" refersTo="page_0014"/>61&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Indemnity.</p></td>
 
@@ -4527,7 +4351,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>62&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>62&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Railways and Harbours Acts Amendment.</p></td>
 
@@ -4535,7 +4359,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>63&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>63&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Railways and Harbours Second Additional Appropriation.</p></td>
 
@@ -4543,7 +4367,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>64&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>64&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>South African Citizenship Amendment.</p></td>
 
@@ -4551,7 +4375,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>65&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>65&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Pensions (Supplementary).</p></td>
 
@@ -4559,7 +4383,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>66&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>66&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Export Credit Re-Insurance Amendment.</p></td>
 
@@ -4567,7 +4391,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>67&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>67&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Industrial Development Amendment.</p></td>
 
@@ -4575,7 +4399,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>68&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>68&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Public Holidays Amendment.</p></td>
 
@@ -4583,7 +4407,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>69&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>69&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Medical, Dental and Pharmacy Amendment.</p></td>
 
@@ -4591,7 +4415,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>70&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>70&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Parliamentary Service and Administrators&#x2019; Pensions Amendment.</p></td>
 
@@ -4599,7 +4423,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>71&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>71&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Revenue Laws Amendment.</p></td>
 
@@ -4607,7 +4431,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>72&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>72&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Liquor Amendment.</p></td>
 
@@ -4615,7 +4439,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>73&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>73&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Appropriation.</p></td>
 
@@ -4623,7 +4447,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>74&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Prohibition of Sports Pools Amendment.</p></td>
 
@@ -4631,7 +4455,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>75&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>75&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Welfare Organizations Amendment.</p></td>
 
@@ -4639,7 +4463,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>76&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>76&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Finance.</p></td>
 
@@ -4647,7 +4471,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>77&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>77&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Building Societies Amendment.</p></td>
 
@@ -4655,7 +4479,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>78&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>78&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Pension Laws Amendment.</p></td>
 
@@ -4663,7 +4487,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>79&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>79&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Urban Bantu Councils.</p></td>
 
@@ -4671,7 +4495,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>80&#x2014;&#x2019;61<noteRef href="#note03_p17" marker="&#x2020;"/></p></td>
+<td><p>80&#x2014;&#x2019;61<noteRef href="#note03_p14" marker="&#x2020;"/></p></td>
 
 <td><p>Income Tax.</p></td>
 
@@ -4679,7 +4503,7 @@ categories: hoa debates
 
 <tr>
 
-<td><p>81&#x2014;&#x2019;61<noteRef href="#note02_p17" marker="*"/></p></td>
+<td><p>81&#x2014;&#x2019;61<noteRef href="#note02_p14" marker="*"/></p></td>
 
 <td><p>Electoral Laws Amendment.</p></td>
 
@@ -4689,19 +4513,17 @@ categories: hoa debates
 
 <p class="heading"><span class="col_xvi" refersTo="page_0015"/>Reports of Select and Sessional Committees.</p>
 
-<p><i>Fourth Session, Twelfth Parliament</i> (Union of South Africa),</p>
-
-<p>and</p>
-
-<p><i>First Session, First Parliament</i> (Republic of South Africa).</p>
-
 <table>
 
 <tr>
 
-<th><p>Printed No. of Report.</p></th>
+<td><p>Printed No. of Report.</p></td>
 
-<th><p></p></th>
+<td><p><i>Fourth Session, Twelfth Parliament</i> (Union of South Africa),</p>
+
+<p>and</p>
+
+<p><i>First Session, First Parliament</i> (Republic of South Africa).</p></td>
 
 </tr>
 
@@ -4709,7 +4531,7 @@ categories: hoa debates
 
 <td><p>S.C. 1a&#x2014;&#x2019;61.</p></td>
 
-<td><p>Public Accounts [First&#x2014;<i>On Unauthorized Expenditure,</i> 1959-60].</p></td>
+<td><p>Public Accounts [First&#x2014;<i>On Unauthorized Expenditure</i>, 1959-60].</p></td>
 
 </tr>
 
@@ -4733,7 +4555,7 @@ categories: hoa debates
 
 <td><p>S.C. 2&#x2014;&#x2019;61.</p></td>
 
-<td><p>Railways and Harbours [First&#x2014;<i>On Unauthorized Expenditure,</i> 1959-&#x2019;60; Second&#x2014;<i>On Accounts, etc., for</i> 1959-&#x2019;60].</p></td>
+<td><p>Railways and Harbours [First&#x2014;<i>On Unauthorized Expenditure</i>, 1959-&#x2019;60; Second&#x2014;<i>On Accounts, etc., for</i> 1959-&#x2019;60].</p></td>
 
 </tr>
 
@@ -4765,7 +4587,7 @@ categories: hoa debates
 
 <td><p>S.C. 6&#x2014;&#x2019;61.</p></td>
 
-<td><p><noteRef href="#note01_p18" marker="*"/><i>General Loans Bill</i>.</p></td>
+<td><p><noteRef href="#note01_p15" marker="*"/><i>General Loans Bill</i>.</p></td>
 
 </tr>
 
@@ -4854,6 +4676,18 @@ categories: hoa debates
 </preface>
 
 <debateBody>
+
+<debateSection name="#union_of_south_africa">
+
+<heading><span class="col_1-2" refersTo="page_0016"/>UNION OF SOUTH AFRICA</heading>
+
+<p><b>HOUSE OF ASSEMBLY DEBATES</b></p>
+
+<p>(HANSARD)</p>
+
+<p>FOURTH SESSION &#x2014; TWELFTH PARLIAMENT</p>
+
+<p>The sign * indicates that the speech was delivered in Afrikaans and then translated.</p>
 
 <debateSection name="#opening">
 
