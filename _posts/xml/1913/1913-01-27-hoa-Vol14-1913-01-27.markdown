@@ -1,0 +1,173 @@
+---
+title: 'House of Assembly: Vol14 - MONDAY JANUARY 27 1913'
+layout: debate
+year: 1913
+month: JANUARY
+month_slug: Jan
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>MONDAY, January 27th, 1913</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1913-01-27T14:00:00">2 p.m.</recordedTime></narrative></prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS</heading>
+
+<speech by="#keyter">
+
+<from>Mr. <person refersTo="hansard_za">J. G. KEYTER</person> (Ficksburg):</from>
+
+<p>For railway extension from the Lindley Road-Senekal line to Ficksburg, through the Senekal, Witkop, Rooikrans, Moolmanshoek, Grootnek, Hammonia, Wonderkop Basin (seven petitions).</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_table">
+
+<heading>LAID ON TABLE</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Return prepared in terms of Exchequer and Audit Act, 1911, of all surcharges remitted by the Minister of Finance, 27th May, 1912, to 13th December, 1912.</p>
+
+</speech>
+
+<speech by="#minister_of_railways_and_harbours">
+
+<from>The <person refersTo="hansard_za">MINISTER OF RAILWAYS AND HARBOURS</person>:</from>
+
+<p>Report of General Manager on working of South African Railways and Harbours for 1911; Proclamations and Government Notices relating to Department of Railways and Harbours, 30th May, 1912, to 23 rd December, 1912.</p>
+
+</speech>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Principal Government Notices issued by Department of Agriculture, 25th January, 1912, to 24th January, 1913; Proclamations issued by Department of Agriculture, 26th January, 1912, to 24th January, 1913; and Report of Department of Agriculture, with appendices, for 1910.</p>
+
+</speech>
+
+<speech by="#minister_of_lands">
+
+<from>The <person refersTo="hansard_za">MINISTER OF LANDS</person>:</from>
+
+<p>Regulations framed under Land Settlement Act, 1912; Regulations framed under Irrigation, and Conservation of Waters Act, 1912, relative to Water Courts, River and Irrigation Districts and Boards; Proclamations and Government Notices issued by Department of Lands, 20th June, 1912, to 13th November, 1912; Returns of land resumed in terms of section 21 of Act No. 40 of 1895 (Cape), and church and school sites granted in the Transkeian Territories, in terms of section 1 of Proclamation No. 126 of 1905 (Cape).</p>
+
+</speech>
+
+<speech by="#minister_of_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF EDUCATION</person>:</from>
+
+<p>Government Notices issued by Department of Education, 13th September, 1912, to 29th October, 1912.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>said he would like to ask the <span class="col_9-10" refersTo="page_0011"/>Minister of Finance when he would lay on the table the report of the Auditor-General.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>I may say that the translation of the report is not quite complete, but it will be possible for me to lay it on the table next week.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_estimates">
+
+<heading>THE ESTIMATES</heading>
+
+<speech by="#walton">
+
+<from>Sir <person refersTo="hansard_za">E. H. WALTON</person> (Port Elizabeth, Central)</from>
+
+<p>asked a similar question in regard to the Estimates.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>replied that he thought it would be possible to lay the Estimates on the table next Monday.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#customs_management_bill">
+
+<heading>CUSTOMS MANAGEMENT BILL</heading>
+
+<summary>First Reading</summary>
+
+<p>The Bill was read a first time, and set down for second reading on Wednesday.</p>
+
+</debateSection>
+
+<debateSection name="#financial_relations_bill">
+
+<heading>FINANCIAL RELATIONS BILL</heading>
+
+<summary>First Reading</summary>
+
+<p>The Bill was read a first time, and set down for second reading on Monday, 3rd February.</p>
+
+</debateSection>
+
+<debateSection name="#pensions_committee">
+
+<heading>PENSIONS COMMITTEE</heading>
+
+<p>The MINISTER OF JUSTICE, with leave, amended Notice of Motion No. 3, and moved: That a Select Committee be appointed to which shall be referred all minutes recommending special pensions and all applications for pensions, grants and gratuities not authorised by law; the Committee to have power to take evidence and call for papers, and to consist of ten members.</p>
+
+<speech by="#j_krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+<p>The MINISTER OF JUSTICE then moved: That Messrs. Currey, Clayton, Keyter, General T. Smuts, Messrs. Whitaker, and Runciman be members of the Committee.</p>
+
+</speech>
+
+<speech by="#j_krige">
+
+<from>Mr. <person refersTo="hansard_za">C. J KRIGE</person> (Caledon)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1913-01-27T14:27:00">2.27 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

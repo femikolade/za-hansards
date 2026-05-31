@@ -1,0 +1,77 @@
+---
+title: 'House of Assembly: Vol1 - WEDNESDAY NOVEMBER 9 1910'
+layout: debate
+year: 1910
+month: NOVEMBER
+month_slug: Nov
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, November 9 1910</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair and read prayers at <recordedTime time="1910-11-09T14:00:00">2 p.m.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#german_south-west_africa">
+
+<heading>GERMAN SOUTH-WEST AFRICA.</heading>
+
+<speech by="#prime_minister">
+
+<from>The <person refersTo="hansard_za">PRIME MINISTER</person></from>
+
+<p>laid on the table a copy of a message from the Governor of German South-west Africa conveying congratulations to the Union.</p>
+
+</speech>
+
+<speech by="#minister_of_public_works">
+
+<from>The <person refersTo="hansard_za">MINISTER of PUBLIC WORKS</person></from>
+
+<p>laid upon the table copies of correspondence concerning an offer made by Mr. J. H. Averton, to present an &#x201C;Empire Clock&#x201D; to the Union Parliament.</p>
+
+<p>On the motion of the MINISTER OF PUBLIC WORKS, seconded by Mr. SCHOEMAN:</p>
+
+<p>These papers were referred to the Select Committee on internal arrangements.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#the_late_king_adjournment_of_the_house">
+
+<heading>THE LATE KING ADJOURNMENT OF THE HOUSE.</heading>
+
+<speech by="#prime_minister">
+
+<from>&#x2020;The <person refersTo="hansard_za">PRIME MINISTER</person>:</from>
+
+<p>Mr. Speaker, on the first day of the meeting of this House a unanimous resolution was adopted, requesting His Excellency the Governor-General to convey to His Majesty the King an assurance of the profound sympathy of the people of the Union in the death of our late beloved Sovereign King Edward VII. As you are aware, sir, today, the 9th day of November, is the birthday of His late Majesty, and I feel, and am sure, that this House will agree with me, that it would be an appropriate manner of making our deep respect for the memory of His late Majesty if this House were not to continue its sitting to-day. I therefore beg to move, as an unopposed motion, that as a mark of respect for the memory of His late Majesty King Edward VII., the House do now adjourn.</p>
+
+</speech>
+
+<speech by="#jameson">
+
+<from>Dr. <person refersTo="hansard_za">L. S. JAMESON</person> (Albany)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1910-11-09T14:15:00">2.15 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

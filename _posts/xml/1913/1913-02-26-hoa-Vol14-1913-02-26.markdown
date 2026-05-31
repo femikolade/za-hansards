@@ -1,0 +1,493 @@
+---
+title: 'House of Assembly: Vol14 - WEDNESDAY FEBRUARY 26 1913'
+layout: debate
+year: 1913
+month: FEBRUARY
+month_slug: Feb
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, February 26th, 1913</heading>
+
+<prayers>
+
+<narrative>Mr. SPEAKER took the chair at <recordedTime time="1913-02-26T14:00:00">2 p.m.</recordedTime>and read prayers.</narrative>
+
+</prayers>
+
+<debateSection name="#petitions">
+
+<heading>PETITIONS.</heading>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl)</from>
+
+<p>from Ann M. Taylor, a teacher in the Rochelle Girls&#x2019; High School, Paarl, praying for the condonation of a break in her service, or for other relief.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>from J. Ndlazilwana, of Cala, formerly a teacher under the Cape Education Department, praying for the condonation of a break in his services and for a pension, or for other relief.</p>
+
+</speech>
+
+<speech by="#de_jager">
+
+<from>Dr. <person refersTo="hansard_za">A. L. DE JAGER</person> (Paarl)</from>
+
+<p>from Margaretha M. van Blerk, a teacher in the La Rochelle Girls&#x2019; High School, Paarl, who from 1900 to 1904 received her salary in full from the local funds instead of receiving the usual half grant from the Government, praying that this period of five years may be added to her Government service, or for other relief.</p>
+
+</speech>
+
+<speech by="#vermaas">
+
+<from>Mr. <person refersTo="hansard_za">H. C. W. VERMAAS</person> (Lichtenburg)</from>
+
+<p>from W. J. de Wet and 48 others, teachers, in the district of Lichtenburg, Transvaal, praying the House to take into consideration during the present session the desirability of introducing a Bill, more suitable than Act No. 19 of 1908 (Transvaal), providing for pensions to teachers, their widows and children.</p>
+
+</speech>
+
+<speech by="#becker">
+
+<from>Mr. <person refersTo="hansard_za">H. C. BECKER</person> (Ladismith)</from>
+
+<p>from B. G. Geldenhuys, and others, inhabitants of the districts of Montagu, Laingsburg, and Ladismith, praying for the construction of a line of railway from Touws River Station to Oudtshoorn via Ladismith and Calitzdorp, or for other relief.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>from C. Hafele, Principal of the Durbanville Public School, praying for the condonation of a break in his service or for other relief.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>from T. Kenyon, of Umtata, captain in, and instructor of, the Cape Light Horse, praying for an increase of pension, or tor other relief.</p>
+
+</speech>
+
+<speech by="#silburn">
+
+<from>Mr. <person refersTo="hansard_za">P. A. SILBURN</person> (Durban, Point)</from>
+
+<p>from H. R. Tregarthen, of Johannesburg, who joined the service of the Natal Government Railways in 1900 as a clerk in the Maintenance Department, praying that he may be allowed to contribute to the Superannuation Fund on the higher emoluments which he formerly received, or for other relief.</p>
+
+</speech>
+
+<speech by="#van_heerden">
+
+<from>Mr. <person refersTo="hansard_za">H. C. VAN HEERDEN</person> (Cradock)</from>
+
+<p>from H. T. Hansen, of Tarkastad, a member of the Corporation of Accountants, praying that the said corporation may be included in the Accountants&#x2019; Registration (Private) Bill among the societies whose members are eligible to practise under the Bill in the Union of South Africa.</p>
+
+</speech>
+
+<speech by="#jagger">
+
+<from>Mr. <person refersTo="hansard_za">J. W. JAGGER</person> (Cape Town, Central)</from>
+
+<p>, a similar petition from M. Pickard, of the Elsenberg Agricultural College, a member of the Corporation of Accountants.</p>
+
+</speech>
+
+<speech by="#heatlie">
+
+<from>Mr. <person refersTo="hansard_za">C. B. HEATLIE</person> (Worcester)</from>
+
+<p>, from Constance O. Wiggins, a teacher under the Education Department, praying for the condonation of certain breaks in her service, or for other relief.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (for Mr. C. F. W. Struben, Newlands) (Von Brandis)</from>
+
+<p>from J. W. Goldsworthy, who entered the Cape Civil Service in 1876 and has served as a lieutenant in the 86th Regiment, as adjutant of the Cape Mounted Rifles, and as major of the Cape Infantry, praying for a pension or for other relief.</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>from Jessie A. Schiff, of Umtata, widow of T. Schiff, late sergeant of the Cape Mounted Riflemen, praying for a pension, or for other relief.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (for Mr. C. F. W. Struben, Newlands) (Von Brandis)</from>
+
+<p>from V. Begley, of Claremont, who served in the Railway Department for forty-one years, praying for an increase of pension or for other relief.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>from H. Sundstrom, of Woodstock, who served as a warder in the Valkenberg Prison Outstation for twenty-two years and was retrenched in 1912, praying for consideration of his case and for relief.</p>
+
+</speech>
+
+<speech by="#nathan">
+
+<from>Mr. <person refersTo="hansard_za">E. NATHAN</person> (for Mr. C. F. W. Struben, Newlands) (Von Brandis)</from>
+
+<p>from D. Sullivan, formerly a first-class constable, Breakwater Station, Cape Town, who, after nearly twenty years&#x2019; service, was compulsorily retired, praying that the House may take his case into consideration with a view <span class="col_509-510" refersTo="page_0261"/>to granting him a pension or gratuity, or for other relief.</p>
+
+</speech>
+
+<speech by="#hewat">
+
+<from>Dr. <person refersTo="hansard_za">J. HEWAT</person> (Woodstock)</from>
+
+<p>from Elizabeth Parker, of Woodstock, whose son, H. B. Parker, formerly a ticket collector on the South African Railways, was injured whilst on duty, praying for consideration of her circumstances and for relief.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#laid_on_the_table">
+
+<heading>LAID ON THE TABLE.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>Papers relating to retirement of Charles Currie from the Public Service of the Union.</p>
+
+<p>These were referred to the Select Committee on Pensions, Grants, and Gratuities.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#select_committee_on_public_accounts">
+
+<heading>SELECT COMMITTEE ON PUBLIC ACCOUNTS.</heading>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>brought up the first and second reports of the Select Committee on Public Accounts, as follows:</p>
+
+<p>Your committee, having considered the matter referred to it on the 18th instant, viz,, the question of the deduction of anticipated savings from the total of Votes in the Estimates of Expenditure, and having taken evidence thereon, recommends that the gross savings, as estimated, should be deducted from specific items in the subheads to which they refer.</p>
+
+<p>In the Second Report the committee stated: Your committee, having considered Votes Nos. 15, 21-24. 28, 36-39 of the Estimates of Expenditure for the ensuing financial year, and having had in attendance the heads of departments concerned and others, begs to report as follows:</p>
+
+<p>Vote 21, Lands Department: Your committee recommends the reduction of the item &#x201C;Inspector of Lands Settlement&#x201D; by £200; your committee recommends that the Government should arrange to hand over the Warm baths in the Waterberg district to the Provincial Council of the Transvaal; with regard to the item &#x201C;Inspectors of Lands&#x201D; on page 148, your committee notes that it is proposed to make an addition of four to the staff of inspectors, and recommends that, in view of the somewhat tentative character of the duties that will fall on these inspectors, they should not be placed on the fixed establishment meantime, but should merely be employed under contract.</p>
+
+<p>Vote 28, Customs and Excise Department: Your committee would recommend that during the coming financial year Government should make some investigation as to the expenditure of the &#x201C;Grant to South African National Union, £500,&#x201D; appearing on page 175 of the Estimates, with a view to ascertaining the desirability of its being continued or otherwise.</p>
+
+<p>Vote 36, Higher Education: Your committee directs attention to the very large difference in the cost to the State of higher education in the various University Colleges, as disclosed in these Estimates. As, however, legislation in reference to this matter is now before Parliament, your committee makes no recommendation.</p>
+
+<p>Vote 37, Posts, Telegraphs, and Telephones: Your committee directs attention to the item &#x201C;Contingent increases to salaries and provision for new offices&#x201D; on page 224, and recommends that in future Estimates any provision for increases of salaries should appear under the proper heads and not in a lump sum; the attention of your committee has been directed to the fact that the Agricultural Post is largely made use of for the transmission of articles which can scarcely be brought under the heading of agricultural products, for which presumably the post was first instituted. For instance, boots and other similar industrial products, locally manufactured, are sent by Agricultural Post. Your committee recommends that a strict supervision be exercised by the department with a view to limiting the articles transmitted through this post to those for which it was originally intended.</p>
+
+<p>Vote 39, Buildings and Bridges: Your committee recommends the reduction of the amount of the Vote by £1,400, being the item &#x201C;Warmbaths&#x2014;alterations and improvements to Government baths &#x201D; on page 236.</p>
+
+<p>J. C. SMUTS, Chairman.</p></speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person>:</from>
+
+<p>moved, as an unopposed motion, that the First Report be now considered.</p></speech>
+
+<speech by="#brain">
+
+<from>Mr. <person refersTo="hansard_za">T. P. BRAIN</person> (Frankfort)</from>
+
+<p>seconded.</p>
+
+<p>Agreed to.</p></speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>read the report, and put the question: That the report be adopted.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+<speech by="#minister_of_finance">
+
+<from>The <person refersTo="hansard_za">MINISTER OF FINANCE</person></from>
+
+<p>said that he desired the second report to stand over until the House went into Committee on the Estimates.</p>
+
+<p>This course was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#purchase_of_land_by_natives">
+
+<heading>PURCHASE OF LAND BY NATIVES.</heading>
+
+<speech by="#minister_of_native_affairs">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIVE AFFAIRS</person></from>
+
+<p>moved as an unopposed motion: That the petitions from J. Howard Brebner and 8 others, J. A. Retief and 29 others, D. C. Odendaal and 22 others, D. C. de Villiers and 10 others, J. T. Pienaar and 17 others, A. A. Cilliers and 3 others, P. du Plessis and 25 others, Arthur J. S. Wales and 17 others, G. J. Pretorius and 23 others, J. A. de la Rouviere and 31 others, B. du P. Papenfus and 24 others, P. G. Cilliers and 31 others, and J. H. Labuschagne and 51 others, inhabitants of Harrismith, praying for the introduction of legislation whereby it will be made illegal for Europeans to farm in so-called company with natives or to let ground to natives, presented to the House on the 31st January, <span class="col_511-512" refersTo="page_0262"/>1913, be referred to the Select Committee on Native Affairs for consideration and report.</p></speech>
+
+<speech by="#louw">
+
+<from>Mr. <person refersTo="hansard_za">J. A. LOUW</person> (Colesberg)</from>
+
+<p>seconded.</p>
+
+<p>The motion was agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#field_of_european_employment">
+
+<heading>FIELD OF EUROPEAN EMPLOYMENT.</heading>
+
+<p>The debate was resumed on the following motion by Sir J. P. Fitzpatrick (Pretoria, East): That in the opinion of this House the Government should take into consideration the desirability of appointing a Commission to inquire in what direction and spheres of labour, and by what means the field of employment for Europeans can be extended throughout the Union.</p>
+
+<p>Upon which the following amendments had been moved, viz.:</p>
+
+<p>By Mr. Creswell: To omit all the words after &#x201C;this House," and substitute the following: &#x201C;(1) the importation of native labourers from outside the Union greatly diminishes the opportunities of employment for Europeans, lowers the rate of wages obtainable by large numbers of the European population, obstructs the extension of the field of the European employment, and is detrimental to the interests of the Union; and (2) the Government should take immediate steps to curtail such importation and to arrange for its ultimate abolition.&#x201D;</p>
+
+<p>By Mr. Merriman: To omit all the words after &#x201C; that,&#x201D; and to substitute &#x201C; the question of the extension throughout the Union of the field of employment for Europeans, and the circumstances surrounding labour conditions in South Africa, be referred to a Select Committee for inquiry and report, the committee to have power to take evidence and call for papers.&#x201D;</p>
+
+<p>By Mr. Haggar (as an amendment to the amendment proposed by Mr. Creswell): To add at the end, &#x201C;(3) the Government be requested to take into consideration, at an early date, the advisability of establishing agricultural co-operative village settlements under Government supervision and control.&#x201D;</p>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person> (Germiston)</from>
+
+<p>said he thought it would be generally agreed that the hon. member for Pretoria, East, had done good service in bringing forward this motion. He was somewhat surprised to see that objection was offered in various quarters to the appointment of such a Commission as was proposed. He was surprised at the somewhat acid tone adopted by the Minister of Native Affairs when he spoke. He was at a loss to account for it. He had found, so far, no good reason put forward against the appointment of the suggested Commission. It was impossible that such a question could be dealt with by a Select Committee of the House, which could only sit for a few weeks. That there was need for something to be done was, he thought, self-evident. A considerable portion of the country population showed a tendency to gravitate into the towns without obtaining regular work. What he thought they wanted to do was to find some suitable employment for white, men and more openings for white men. He thought it was agreed that it was no use finding employment which did not command, at any rate, a living wage. The railways were to-day employing a considerable number of unskilled white labourers. They had it that the employment of these people cost a large sum of money in excess of the amount which would be involved if the same work were done by native labour. He did not think there was any objection to the spending of a certain amount of money in this way on the employment of unskilled white labour. But that was an extra burden placed upon the taxpayers, and it seemed to him that they ought, when the Railway Estimates were brought forward, to have a statement showing the extra amount which was thus spent and a special vote of this House showing exactly what was to be done. (Hear, hear.) That money, instead of coming out of the working costs of the railways, should be definitely voted by the House to be paid out of the Consolidated Revenue Fund.</p>
+
+<p>Then they had a certain amount of white labour employed by the different Town Councils, but there must come a time when the limit was reached. There must be a point beyond which the representatives of the ratepayers were not entitled to go, and it was difficult to say when that limit was reached. It had been said with regard to Johannesburg that the Town Council was a competent body in dealing with a matter of this kind, and the Treasurer of the Johannesburg Town Council had informed that body that the Council was committing itself to heavy expenditure in this way. Following upon that there was a proposal to increase the wages of white unskilled labourers up to a maximum of 7s. 6d. a day. The next thing was the speech made by a member of that Council, who was connected with the party which sat on the cross benches, who asked how it could be expected that men could live on 6s. a day. That gentleman said that he accepted the increase as a first instalment, and that he and his colleagues would go on fighting for a living wage. There must be a limit to the employment of men in this way. He supposed that the representatives of the ratepayers would be within their rights to pay what the hon. member would call a living wage&#x2014;he suggested £1 a day, but when it came to the case of private employers there was a difficulty in getting the people employment at a wage which an industry could not bear. In some industries increased wages meant increased cost of production, and it was not possible in regard to industries of this country. In the mining industry it was impossible, because they could not raise the price of their products. The land question was one which he thought a Commission could investigate. The right hon. member for Victoria West, the Prime Minister, and others <span class="col_513-514" refersTo="page_0263"/>had told them that many of the poor whites of the country could be profitably employed on the farms. He alluded to the fact that the Magistrate of Heidelberg addressed the field-cornets of these districts as to whether more white labour could be employed on the farms, and was agreeably surprised to learn that this could be done. On the other hand, practical farmers said that they could not pay higher wages for unskilled workmen than they were paying to Kafirs at the present time. Surely that was a question which a Commission could investigate. There was also the question of finding openings for people on the land, and in this respect he thought they could usefully refer to the report of the Select Committee of the Senate which dealt with land settlement. He did not know whether the finding of that committee was warranted by facts, but he knew very well that it was based upon the evidence of most competent witnesses. If that view was not considered satisfactory by the Government, then he did not think that anything better could be done than to allow a Commission to go into the whole matter. Then he would come to the mines, and he hoped he would be excused if he referred to this phase of the question at some length. Much of the prosperity of the country depended on the success of the mines, and anything that tended to cripple the industry must have a most deleterious effect. The case put forward more than once by the hon. member for Jeppe, and in a measure the hon. member for Fordsburg, was this: Let us create a scarcity of native labour on the mines. Let us begin by making it impossible to import native labour from Portuguese territory. They had said that it might cripple the industry, but they were not sure that it would. There had only been at one period a practical test. The hon. member for Jeppe and other people made practical tests, and all these proved failures, and Sir Richard Solomon, speaking in the Legislative Council of the Transvaal, said that white labour, it had been proved, could not be profitably employed on the mines. That statement was now disputed by the hon. member for Jeppe. The suggestion had been made that the people of the mines treated this question of the employment of white labour as a matter of politics. It had been said that the opinion of experts on the matter had been contaminated by political considerations, but he would say that if the people in control of the mines had been informed by practical tests that the mines could be worked in this way and yield a satisfactory profit, it would have been done long ago, and would have been in force at the present time. The hon. member for Jeppe always&#x2014;and wrongly&#x2014; assumed that the mine owners were set against white labour, but he had never heard his hon. friend tell the House what had been done in the way of the encouragement of white labour. Anything that the mines could do to employ white labour profitably, obviously, they would do. But they could not, it seemed to him, employ white labour in this way on a wage that was sufficient to keep them on a decent standard of civilisation unless the occupation they gave the men called for the exercise of some intelligence and ability.</p>
+
+<p>When they came to mere unskilled labour, a sheer matter of muscle, he did not think there was anything like the natives of this country. His hon. friend (Mr. Duncan), in the course of his speech two days ago, said that, naturally, the employers would be against any experiment of this kind, and he indicated that the employers of every generation were hide-bound and beyond advice, and went back to 1846 to prove it. He did not think there was any necessity to go as far back as that. The fact of the matter was that the mining people were not against the employment of white labour if they could do it consistently with the legitimate interests of the mines. But the fact of the matter was that up to the present there had been no evidence to show that this labour could be satisfactorily employed. There was no getting away from the fact, which had already been alluded to in the course of this debate, that they had got a feeling in this country that certain work could only be done by black men. (Hear, hear.) There was no doubt that certain labour in this country had always been done by black labourers, and, somehow or other, they never got white labour to do that work satisfactorily. Whatever might be the motive of the people on the mines, the argument did not apply to the independent contractors. They had endless cases on the mines of contractors bringing on their own labour, and in all his experience he had never known a case where the contractors engaged in such work brought on white labour and not black. What he had known them to do was to attempt to do what was called white man&#x2019;s work with coloured labour, and whenever that had been done there had been an immediate complaint on the Rand, and the matter had been promptly attended to. That went to show that, obviously, black labour was cheaper and more efficient, and was considered to be the proper labour to use for that class of work.</p>
+
+<p>The argument of the hon. member for Jeppe and the hon. member for Fordsburg was that they should begin by getting rid of the Portuguese labour. What was the logic of that? The motion of the hon. member referred to all the natives who came from outside the Union. Well, that would exclude the Basutos. (Hear, hear.) He did not think the hon. member wanted to do that. It would also exclude the Swazis and the people from the North-West. Well, logically, why not exclude the Basuto? They were told that the Portuguese native was a foreigner; but what was the difference between a native living half-a-mile on one side of the border and <span class="col_515-516" refersTo="page_0264"/>another living half-a-mile on the other side. (Hear, hear.) Then his hon. friend said that the Portuguese people were going to use their own men; that this labour was not going to last, and that the mine-owners would have to make up their minds that they would not have this labour soon. His argument was that if the hon. member was going to get what he wanted by the effluxion of time, why stir up trouble now? (Hear, hear.) The hon. member for Jeppe and the hon. member for Fordsburg differed in this respect, that the hon. member for Fordsburg wanted to get rid of the Portuguese native so as to employ white labour, and the hon. member for Jeppe merely wanted to get rid of black labour. What his object was he did not know. Well, it could only be brought about gradually, and if it could only be brought about gradually it must be done over a number of years, as was done in the matter of the importation of Chinese labourers. So he thought they were logically entitled, in considering this question, to look at the position as it would be if the whole of these labourers were gone. On the 31st of December last the Rand employed 228,000 native labourers, and of these 96,000 came from Portuguese territory, so, practically, the hon. member would get rid of 96,000 labourers. That was very nearly half the normal supply of the natives on the Rand. Of course, the first thing that would happen would be a scarcity of labour. (Hear, hear.) His hon. friends opposite would find it very difficult to find labour for their farms. Some people, he believed, held that it would be quite a good thing if all native labourers were driven from the farms.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Hear, hear.</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person>:</from>
+
+<p>My hon. friend wants the farms to be without labour, while the hon. member for Jeppe wants the mines to be without labour. The effect would be the Same. Proceeding, he said they started with the assumption that if they were going to employ white labour they would have to find employment for them, and it must he employment which would enable them to have a living wage.</p>
+
+<p>At the present time each native on the mines cost on an average about £4 4s. a month, which included his wages, food, medical attendance, and everything else.</p>
+
+</speech>
+
+<speech by="#merriman">
+
+<from>Mr. <person refersTo="hansard_za">J. X. MERRIMAN</person> (Victoria West)</from>
+
+<p>: What does he get?</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">F. D. P. CHAPLIN</person>:</from>
+
+<p>Well, the wages vary. Continuing, he said he believed that for ordinary unskilled work that demanded muscle and nothing else white men would not do more than the native; but he was quite willing to concede, for the sake of argument, that two white men would do the work of three natives. Very well, let them get rid, therefore, of all those natives. That would work out at a wage of £6 6s. per month for each white man. He would ask hon. members on the cross benches if they would be content to have white men working for that. (Cheers.) That was the point. As regarded the effect on the mines he would give one or two concrete cases. When hon. members said that the mines were making millions they did not discriminate between the different mines, some of which were low-grade and others high-grade. Taking the average figure for the three months ending December 31 on a given mine, the average amount spent in working cost was £42,000, the average monthly profit was £3,000, the total wages of the white employees per month was £13,800, and the average wage of the white man per month was £25 15s. 6d. The average number of natives employed was 3,215, and the total native wages and compound expenses was 13,424. Now, apply the test. Get rid of all those natives, and say that two white men could do the work of three natives. Take instead of 3,200 natives, 2,400 whites, and they saved all the money they spent on the natives in every other way in addition to wages. If they had a profit of £3,000 per month, the average wage for the white man would be £5 11s. per month. But let them assume that the mines were working at no profit at all, and they paid a total of £16,500 as wages to the white labourers. The average wage would work out at 5s. 4d. per day, or £6 8s. 4d, per month.</p>
+
+<p>Where were the white people to come from, proceeded Mr. Chaplin. Had we them in the country? If so, why don&#x2019;t they work on the farms? There was such a demand for unskilled labour that they found the labourers in Southern Europe went to the Argentine and Canada, where they could earn higher wages at agricultural work. There was not the remotest chance of these people coming here to work on the mines. Thus we were driven back on contract labour. Three or four years ago an Italian gentleman at Johannesburg proposed to import contract labour for the mines, and called on him to discuss the matter, but he (Mr. Chaplin) advised the gentleman not to proceed with his scheme. Then his hon. friends here (the Labour members) denounced the mines for ever thinking of entering into an agreement for importing Italian labour. If people were introduced under contract the hon. member for Jeppe would be provided with a subject to keep him going for ten years. (Hear, hear.) The Commission might consider, went on Mr. Chaplin, whether it would not be advisable to help the farmer by getting out labour. But would the people thus introduced be a credit to the country? Was a Southern European earning £5 or £6 a month going to be a good citizen and make his home here? He had very grave doubts about it. <span class="col_517-518" refersTo="page_0265"/></p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON. MEMBER</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#chaplin">
+
+<from>*Mr. <person refersTo="hansard_za">CHAPLIN</person>:</from>
+
+<p>There would be no possibility of them keeping their families on the Rand in any state of decency, and it would be a most disastrous experiment. Then what would the men on the mines say? (Cheers.) It was inconceivable, proceeded Mr. Chaplin, that there would not be among the imported labourers a number who would be good tradesmen, and some might be engine-drivers. The result would be immediate competition and reduction of wages. He did not believe that that reduction would compensate the mines for the utter confusion which would result. There would be two classes of white men, and the black man as well, and thus they would have men working on the mines in three distinct stages of civilisation. Any employer would think twice before he encouraged a change of that kind.</p>
+
+<p>There was another point&#x2014;what would be the effect on the native? Was this change going to ensure a larger employment of whites, because, if not, it would be useless to go through all the turmoil, discontent, and industrial disturbance which the change would cause. The hon. member for Fordsburg (Mr. Duncan) told them that this proposal would be in the interest of the natives. The natives of the Union could not be excluded from work on the mines. That was not suggested, but the hon. member for Fordsburg told them that they must get rid of artificial barriers. Now, what did he mean by artificial barriers? The hon. member meant, he supposed, the pass law. It was true that pass law put the natives in a semi-servile position. Was it possible in the interest of law and order to remove that barrier? There were other artificial barriers. For example, the native who worked for a Transvaal farmer paid only half the tax which a native who worked for any other employer did. Then they heard complaints from the farmers all over the country that they wanted more black labour. The hon. member for Fordsburg approached the matter in a perfectly honest spirit, and faced the obvious conclusions, but the hon. members on the cross-benches were not prepared to do that. Indeed, they exclaimed against the hon. member for Queen&#x2019;s Town (Sir W. B. Berry) when he said it was a good thing that the natives should acquire more skill. If they went on the Rand mines they would find that the distinctions between the white and black men were justly observed. They were recognised by custom and by law. The mining regulations provided that a coloured man&#x2014;on the ground of colour only&#x2014;might not hold a blasting certificate or be the driver of an engine. He (Mr. Chaplin) had never heard any suggestion from the Labour members that they would like these distinctions broken down. (Hear, hear.) If they were, and the native was allowed to compete freely, as advocated by Mr. Duncan in his pamphlet, there would be the gravest discontent at once. He thought he had said enough to show that any change in the present system would be a very dangerous one, and should be embarked on only after very serious consideration. He hoped the Minister of Native Affairs would think very carefully before doing anything drastic. Let the Minister take warning from a speech by the Prime Minister, who said if they got rid of Portuguese labour they would cause some of the mines to shut down. That was a fact, and it would cause a loss of revenue from pass fees and reduction of dividends. In his opinion there would be every prospect of very grave industrial disturbance. He asked whether it was better to make the best of the present system and do what they could to enable the mines to develop their resources quickly, or was it better, without investigation, at the bidding of the hon. members there who were more animated, he thought, by motives of hostility to the mining people than anything else, or at the bidding of his hon. friend the member for Fordsburg, who would permit him to say that he had no practical experience of mining operations, to take other courses for the sake of encouraging a theory, or was it better to do as his hon. friend the member for Pretoria, East, proposed, and appoint a Commission to go thoroughly into the matter? (Cheers.)</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person> (Barberton)</from>
+
+<p>said he thought this was one of the most important questions which that Parliament would be called upon to discuss, and solve, if possible. The question affected not only our social and economic position, but it vitally affected the national position of South Africa. (Hear, hear.) These discussions were, he thought, to be welcomed. At each discussion which they had had on this subject something new had been gathered and some new light had been thrown on it. Some of them felt that enough had not been done by employers in South Africa to widen the field for European labour, but surely that did not entitle them, if they wanted to see any progress made in this great cause, to doubt the bona fides of the people who held other views. (Hear, hear.) He did not think the cause was to be furthered by personal recriminations. The present discussion had, to his mind, advanced this question very considerably. He would like to pay a tribute to the hon. gentlemen who sat on the cross-benches. There was no doubt that most of the credit which was to be derived from the advanced position in which they found themselves to-day on this question was due to those gentlemen. (Hear, hear.) The opinion had been affirmed that they could not allow this question to drift any longer. He thought that two fundamental points had been made clear during the course of the present discussion. In the first place, the one essential advance which had been established was that the vast majority of <span class="col_519-520" refersTo="page_0266"/>hon. members in that House were to-day firmly of opinion that the field for the employment of white labour in South Africa could, and ought to be increased. (Hear, hear.) That was one reason why the motion of the hon. member for Pretoria, East, did not commend itself to him (Mr. Hull). He thought that the House to-day was in a position to go very much further than the hon. member&#x2019;s motion. That motion did not lay down that the field for white labour should be increased, but the hon. member wanted to bring it to the Government to take into consideration whether it was desirable to appoint a Commission, and he left it to the discretion of the Government to take into consideration the question or not, and after they had done that to appoint a Commission or not. He (Mr. Hull) said that this House should now place upon record that, in their opinion, the field for white labour should be extended. The other point which this discussion had established, to his mind, was almost more far-reaching in its effects than the point to which he had just referred, and that was the announcement made a few days ago in that House, on behalf of the Government, by the Minister of Justice, with regard to the continued importation of native labourers from places outside the Union. As the result of this discussion, the Government had announced that they were prepared to go very much further than they announced last year, and they said in so many words that they recognised the undesirability of continuing for an indefinite period the importation of native labourers from outside the Union. He thought it was the duty of this House to place on record whether it approved of that pronouncement of the Government or not. He thought the House was prepared to say that it approved of the declaration of policy made by the Minister of Justice a few days ago. As to the amendment of the hon. member for Jeppe, it was his belief that the House would be well advised if it resolved to accept something less drastic than that, and confined itself, so far as the continued importation of native labour from outside the Union was concerned, to a resolution based more or less on the lines of the declaration made by the Minister of Justice the other day. He therefore proposed to place before the House a further amendment.</p>
+
+<p>He suggested that this amendment, which he was going to move, was a compromise, and a compromise that might be accepted by the House. He would move to omit all the words after &#x201C;that,&#x201D; for the purpose of substituting the following: &#x201C; (1) The field of employment for Europeans should be extended throughout the Union and that in order to ascertain in what directions and spheres and by what means such employment can be extended a Select Committee be appointed to collate the evidence and reports of the various Commissions which have from time to time inquired into the labour question in South Africa and to report thereon, the committee to have power to take evidence and call for papers; and (2) the Government should take into consideration what steps should be taken to curtail the importation of native labourers from outside the Union with a view to its ultimate abolition.&#x201D;</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>: Hear, hear.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person>:</from>
+
+<p>I am glad to hear that.</p>
+
+</speech>
+
+<speech by="#madeley">
+
+<from>Mr. <person refersTo="hansard_za">W. B. MADELEY</person> (Springs)</from>
+
+<p>: We are always willing to get a little bit.</p>
+
+</speech>
+
+<speech by="#hull">
+
+<from>Mr. <person refersTo="hansard_za">H. C. HULL</person>:</from>
+
+<p>That is an unkind remark. Continuing, he said he ventured to think that this amendment was, in the first place, an improvement on the original motion, because in his amendment he definitely declared that the field of employment for white labour should be extended throughout the Union. He thought that the majority of members of that House had come to that conclusion, and the original motion did not go as far as his amendment. His hon. friend did not enunciate the principle, but he left it to the Government to take into consideration the desirability of appointing the Commission. The only one who did not agree with that was the hon. member for Germiston, who had always been opposed to the employment of white labour. He (the hon. member for Germiston) thought that the only way in which the Mines could be worked was by cheap labour, whether Kafir or Chinese labour. He thought he preferred Chinese labour. In another respect the amendment was an improvement, and that was as to the form this inquiry should take. If they collected this evidence and brought it together into some concentrated form they would get enough information to enable the Government, that House, and the people of South Africa, to make up their minds as to the way in which the field of employment might be extended. He thought the hon. member for Germiston had misunderstood the motion. It was never suggested for one moment by the mover of the motion or the hon. member for Jeppe that all the natives employed on the mines should be got rid of, and that the whole of the mining industry should be carried out by white labour. The object was to ascertain the means of widening the field of white labour. The hon. member for Germiston had tried to show what would happen if all the natives were taken away. (Cries of No, no.&#x201D;) Then he must have misunderstood the speech of the hon. gentleman. If the personnel of the Select Committee was properly chosen they would have sufficient data before them to frame a report in the immediate future. Another advantage of a Select Committee was that it would be able to frame its report during the session. If hon. members opposite were sincerely desirous of seeing the field widened they <span class="col_521-522" refersTo="page_0267"/>would vote for the Select Committee, for it would be able to get to work at once, and speedily report. His amendment should be preferred to that of the hon. member for Jeppe, for that hon. gentleman ignored the question of widening the field of white labour, and another objection on the part of some members of the House was that it was far too drastic. The personnel of the committee should be carefully thought out, and he threw it out as a suggestion that the number and personnel of that committee should be agreed to between the Prime Minister, the leader of the Opposition, and the hon. member for Jeppe. There was one phase of the question which had been referred to, and upon which he would like to throw some light. He referred to the policy of the Government in employing white labour on the railways. It was curious how short memories were in South Africa, and it was curious how prominent politicians, who were supposed to take a keen and intelligent interest in public affairs, had conveniently short memories. He thought that the truth of the matter should be known. His right hon. friend the hon. member for Victoria West, in referring to this question, said that the credit for instituting this policy was due to his hon. friend the Minister for Justice. He said the Minister of Justice was most violently attacked for having initiated this policy. He was sorry his right hon. friend was not in his place, because it would be useful to refresh his memory on this point.</p>
+
+<p>He remembered quite well, almost immediately after self-government was granted in the Transvaal, what the condition of labour was there. They had over 60,000 Chinese on the Rand employed on the mines, and in spite of this the mine-owners were still declaring they were short of unskilled labour. They required more Chinese to come from overseas. That was the position of affairs that existed in the Transvaal. There were many thousands of white men walking about the streets of Johannesburg and Pretoria looking for work and unable to get it. These white men sent deputations and made representations to the Government, of which his right hon. friend the Prime Minister was Prime Minister, and demanded that the condition of affairs be looked into. At that time, he (the hon. member) happened to be the chairman of the Joint Railway Board of the Transvaal and the Orange Free State.</p>
+
+<p>The Minister of Finance was also a member; also the Minister of Lands and the late Minister of Justice (the hon. member for Smithfield). Well, the Free State was, of course, not so much affected by this question of the unemployment of white men as the Transvaal, but in consequence of the state of Affairs in the Transvaal the Government of the Transvaal adopted as their deliberate policy a scheme by which they would gradually replace on the railway, the unskilled natives employed upon maintenance, with white men. The rate of pay that was fixed for these men was 3s. 4d. per day to start with. In addition to that the Government agreed to provide them with medicine and medical attendance free, to supply them with coal and accommodation. Of course, at the start of a policy of that kind, naturally, there was no adequate accommodation for housing these men, and he thought that during the first year or two year a sum of about £25,000 was spent by the Railway Administration for the purpose of putting these men into decent quarters. This policy of the Transvaal and the Free State Governments was reported to the Transvaal Legislature, and it was a curious thing that only once in the Transvaal House of Assembly was exception taken to the policy, or the rate of pay or the housing of the men. Exception was only taken by one hon. member, the same hon. member who had taken exception to it in this House, the hon. member for Germiston. He took exception to it not on the ground that they were paying these men too small a wage, or that they were not properly housed, but on the ground that the extra cost of employing these men was considerable, and he went on to show that the extra cost was 1s. 4d. per man per day. Naturally, the policy was most difficult to carry out. Some of the permanent railway officials did not like it because they found great difficulty in teaching these men to work and to keep them at their work; but eventually the policy succeeded fairly well. Shortly before Union, in consequence of this policy of the Transvaal, the number of white men employed on the railway was about 2,000. A large number of them were receiving more than 3s. 4d. per day, and a number of them had been promoted to more responsible positions. That was the position at the time of Union.</p>
+
+<p>Then Union came, and the Minister of Justice became the Minister of Railways and Harbours. Well, he was bound to say that he (the Minister referred to) had scruples and grave doubts as to the wisdom of the policy of the Transvaal. (Opposition cries of &#x201C;No, never.&#x201D;) His scruples were so strong that one of his first acts of railway administration after Union was to get rid of several hundred of these white men. (Opposition laughter.) Of course, he could quite understand that it occurred to the other side, &#x201C; what about the natives of the Cape Colony?&#x201D; However, although a few hundreds of these white men Were retrenched and the policy reversed, thanks to the influence of the Prime Minister, the then Minister of Railways and Harbours was converted, and, like most converts, he became an enthusiastic reformer. And be it said he pushed this white labour policy for all he was worth. It was only right to show his attitude before Union and after. The next phase of the question arose shortly after Union when the general election took place. Then, for the first time, anybody <span class="col_523-524" refersTo="page_0268"/>who stood in a Labour constituency was pursued by the members of the Labour party and some of his hon. friends opposite with the cry of &#x201C;3s. 4d. per day.&#x201D; The present Minister of Justice indulged in it at Braamfontein. (Laughter.) He remembered quite well the hon. member for Troyeville, the late hon. member for Georgetown (Sir George Farrar), the hon. member for Germiston, and several others all indulging in the cry of 3s. 4d. per day. He only mentioned this to show what was the position on this white labour question before. It was said by the Minister of Justice the other day that the hon. member for Pretoria, East, was also one of those who joined in the cry of 3s. 4d. per day. Well, so far as he could recollect, his hon. friend never referred to the cry, in fact it struck him at the time that he was particularly astute in not referring to it. But though he did not refer to it he stood by and allowed his political comrades to make the most of it, and he wanted to put it to him whether he was not aiding and abetting. (Laughter.) But he had long since forgiven them for their attitude, and with the greater pleasure to-day because of their evident repentance and conversion. There was only one other matter that he wished to draw the attention of the House to. It showed also how by enquiry the field of white labour could be extended. Some most interesting figures were laid upon the Table of the House the other day by the Minister of Mines dealing with the relative merits of white and black men in the manufacture of dynamite. As the House probably knew, dynamite was manufactured under precisely the same conditions in three factories in South Africa. The figures showed that in the one factory the ratio of white and black was l½ black to 1 white. That was in the best factory, the factory at Somerset West. At Modderfontein, in the Transvaal, 2½ blacks were employed to 1 white, and at Kynoch&#x2019;s Factory, in Natal, 3½ blacks were employed to 1 white. (Cries of &#x201C;Shame.&#x201D;) The Government could very easily, by pressure&#x2014;(cheers)&#x2014;and through the railway rates, see if one factory could employ such a large proportion of white men, why the other factory could not do the same. (Cheers.) In conclusion, Mr. Hull said he thought his amendment met substantially the views of the hon. member for Pretoria, East, except so far as the method of inquiry was concerned.</p>
+
+</speech>
+
+<speech by="#orr">
+
+<from>Mr. <person refersTo="hansard_za">T. ORR</person> (Pietermaritzburg, North)</from>
+
+<p>seconded.</p>
+
+</speech>
+
+<speech by="#minister_of_justice">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF JUSTICE</person>:</from>
+
+<p>It would not be very edifying to engage in a wordy warfare, but I want to refer to a few statements of fact. It was said I got rid of a couple of hundred white men employed on the railway. It is not true. Secondly, it was said that I became a convert to this policy. That is not true either. From the very first day I became a Minister I did all I could, but I never attempted to draw a comparison with the good work done by my predecessors in the matter.</p></speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">T. L. SCHREINER</person> (Tembuland)</from>
+
+<p>supposed that everybody in the House wished for the increased use of white labour wherever possible, if it could be done with justice to all existing sections of the population. But that was a point which seemed to be forgotten. He was not in favour of the importation of white labour if that were to do an injustice to any section of the population already here. Rhodesia, Basutoland, Swaziland, and the Protectorate were outside the Union, and he would not support a motion to prevent natives from those parts coming into Union to work. That would be a bad policy, and it would also be unjust. The aim of the Labour Party was the substitution of white for native labour, and that would be the essence of injustice. It was a God-given right to every man and woman to earn their living. (Labour cheers.) It was impossible for him to support the amendment of the hon. member for Jeppe, for it was unjust. It would also lead to the shutting down of the low-grade mines, which would be a misfortune to the country. The hon. member for Jeppe did not tell them where they were to get the labour to replace the 96,000 natives on the mines. But if they were replaced by whites, the latter would have to do the work done by the natives. The result would be a great increase in the number of cases of miners&#x2019; phthisis, which the natives avoided now by going home after a year&#x2019;s work underground. He would turn to some of the arguments of the hon. member for Barberton.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>Mr. <person refersTo="hansard_za">SPEAKER</person> (interposing)</from>
+
+<p>: The hon. member will resume his seat until a quorum is formed.</p>
+
+<p>A quorum having been constituted,</p>
+
+</speech>
+
+<speech by="#schreiner">
+
+<from>*Mr. <person refersTo="hansard_za">SCHREINER</person> (resuming)</from>
+
+<p>said he supposed that everyone in the House was in favour of extending the sphere of white labour wherever it was possible, but it should not be by inflicting any injustice upon any other section of the population.</p>
+
+<p>In his opinion, the way to increase the white population was not by importing unskilled labour, but by settling on the agricultural land a small peasant or farming population. What had been done in regard to that was very little up to the present. Nothing advanced by the hon. member for Barberton had convinced him that his amendment in favour of a Select Committee was preferable to the original motion for the appointment of a Commission. Mr. Schreiner went on to refer to several of the recommendations of the Transvaal Indigency Commission, remarking that some of those recommendations appealed to him as sound common-sense. He did not want to enter into the controversy between the hon. member for Barberton <span class="col_525-526" refersTo="page_0269"/>and the Minister of Native Affairs, but from his personal knowledge, this he could say, that the Minister of Justice had always endeavoured, as far as he was concerned, to employ white labour on anything that he had to do with. He thought the hon. member was hardly fair to the Minister when he represented him as having been converted to the view. It was quite patent to him (Mr. Schreiner) that the arguments which had been advanced in favour of prohibiting further importation of native labour could only be successful if they carried them to their absolute and final conclusion, which was to do away with native labour altogether. It was quire impossible, as had been argued, to go in for elevating the native and encouraging him to go forward in his education as far as he could, if they were going to close this avenue of employment to him. The hon. member for Smithfield had pointed out that such a policy was no good, except they swept away the native altogether. By that he supposed the hon. member meant segregation. But even he in some of his speeches had indicated that at the present time it was impossible to do this. This policy could only be successful if they applied it right through and swept away the native. That was an impossibility. If they adopted the policy proposed by the hon. member for Jeppe and supported by the hon. member for Barberton, they must know that in the long run it meant the absolute throwing out of the native from all participation in labour amongst us. It was a very different thing allowing Chinese to come in and complicate our existing colour problems from allowing natives to be imported from Portuguese territory or Rhodesia, or even from Nyasaland, who did not complicate the problems in this country.</p>
+
+<p>He did not believe that natives should be debarred because of these artificial boundaries. He believed that the natives of Africa had some claim on them so far as labour was concerned at a fair rate of pay. As to the poor whites of the country, he agreed with the hon. member for Smithfield that in its origin their dislike to manual labour arose from an unwillingness to lower themselves socially to the level of the native, but this unwillingness had now become stereotyped into a habit, and that was the difficulty. He considered that this question did involve the great native question, and though he did not for one moment minimise the position taken up, he would be wanting in his duty, as he conceived it, if he allowed the motion to go to a vote without saying something. It affected one million subjects of the Union in the Cape Province, and something like four millions in the whole of the Union, and surely they ought to consider what was to become of these people in the future. At the present time the segregation suggestion was visionary and in the clouds, and it would be unjust to extend the area of white labour at the cost of the coloured people and the natives of this country. The hon. member for Cape Town, Central, had quoted a lot of figures in the House with reference to the advance of coloured labourers in the Cape Province, but the hon. member had forgotten to take the change of circumstances into consideration. When there was no work for white people they left the country, but the coloured people always remained. If they turned to the figures for the Transvaal they found a different state of affairs. The right hon. the member for Pretoria, East, suggested the other day that the Commission might go into the question of extending the field of labour for white women, and if they could show the many poor white women in the Cape Province that it was dignified to labour, then such a Commission would have done good work. He thought they should leave the Government just where it was with regard to the importation of coloured labour from outside the Union. Turning to the mines, the hon. member said that while he had never had one share in a gold-mining company, he had investigated the condition of affairs on the Rand, and he would say that he knew of no industry that took as much care or spent as much money in looking after the material interests of the workmen engaged, as the mining industry on the Rand. He was glad to pay a tribute to that industry in the House, because it seemed to have very few friends there. What they wanted in this country was a class of small farmers with some little capital to settle on the land and help to build up the country.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. VAN DER WALT</person> (Pretoria District, South)</from>
+
+<p>said that the object of the motion of the hon. member for Pretoria, East, was to assist immigration. No mention was made of the unhappy poor people of the country itself. Others said that the Government had done nothing for the poor whites, though it was a fact that in the Transvaal a good deal had been done. It was their first duty to look after their own poor whites. He urged that the best way to assist the white people in the country was by opening up the unoccupied Crown lands, and allocating them to poor people, making them independent, as had been done at Stompiesfontein. He thought the motion proposed by the hon. member for Pretoria, East, was the driving in of the thin end of the wedge&#x2014;it simply aimed at immigration from oversea. They wanted to import people from oversea in order to win more votes. (Hear, hear.) The time for that had not come, as the people in the country should be helped first of all. Immigration would simply increase the number of poor whites. South Africa belonged in the first place to its whites and then to its natives, and he thought that every progressive farmer should, as far as possible, exchange his native labour for white men.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">J. H. SCHOEMAN</person> (Oudtshoorn)</from>
+
+<p>thought the motion dealt with a most important <span class="col_527-528" refersTo="page_0270"/>question, and he heartily welcomed the discussion. However, he had been surprised to notice how practically every member, in discussing the question shirked the issue. The speaker sympathised with the position of the poor whites, and thought it unwise therefore to follow the policy of the Labour Party. The policy advocated by members on the cross-benches, he urged, was a detrimental one, and if their suggestions were followed up the country would suffer. The people now in the country would suffer through their contact with a lower class of people, and the development of the country would be hindered. The only result of such people as advocated by the Labour members coming in would be that this sub-continent would see strikes and would suffer in the same manner as older countries had suffered. There was a large portion of the people here, he held, who considered manual labour below their dignity. What they should do in the first place, therefore, was to make the people realise that there was no disgrace in honest labour. It was better to work for six days a week at 3s. per day than for one day a week at 10s. Mr. Schoeman went on to urge the necessity of thrift, and emphasised the necessity of men as well as women being educated, and of industrial schools being established. It was true that it was difficult to get anyone to go to these institutions, but with patience they would succeed. There were quite enough labourers in South Africa, both black and white, but the difficulty was to get the natives on the farms to go to work. (Hear, hear.) Proceeding, the hon. member dealt with the question of locations, and pointed out that under the location system one man worked and seven stopped at home. This should be altered, if they wanted to achieve anything. They should establish labour bureaux and abolish the location altogether.</p>
+
+</speech>
+
+<speech by="#macneillie">
+
+<from>*Dr. <person refersTo="hansard_za">J. C. MACNEILLIE</person> (Boksburg)</from>
+
+<p>said it was generally conceded that there was a strong prejudice existing amongst the white men of this country performing a certain class of work, looking upon it as work for Kafirs, nor is this prejudice confined to the white people of this country, but extends to other classes of society. It seemed almost hopeless to build up a great nation with such deep-rooted convictions in the minds of the different people of this country. Nor is it confined only to those who had been in the country for some time. He thought one of the most displeasing features of people coming into this country was the rapidity with which they imbibed the customs of their new environment. The hon. member for Smithfield said it was not a prejudice against doing a certain class of work, but a prejudice against working side by side with Kafirs. He said, further, that all the white men wanted was a clear field, and he (Dr. MacNeillie) thought there was a good deal in that. The solution of the problem lay in the closer settlement of the land, which would not only serve the useful purpose of giving a clear field to the employment of white men, but would also form a nucleus from which workers could, in the future, be drawn for industrial purposes. In this country they had spent enormous sums in the development of their railways, and he did not grudge anything that had been spent in this way. He believed there was no instrument that exerted a more civilising influence, or a greater influence that tended to the development of the country, than the railways. They had abundant Crown land in this country, and they could go in for a system of land purchase, and so open up large tracts of this country to the markets of this country and the countries beyond. In regard to land purchase, he would ask them to look at the position in Ireland to-day. Practically the whole country was in bond to Britain, and the first debt would not be redeemed for another fifty years. That was what they should do in some smaller measure in this country. To the motion of the hon. member for Pretoria, East, there had been one or two amendments moved. In regard to the amendment moved by the hon. member for Jeppe, it seemed to him that the chief feature of his remarks was the amount of abuse he managed to get into them. Last year, when the hon. member for Jeppe introduced a motion couched in similar terms to his present amendment, he (the hon. member) introduced an amendment that the Government should start the experiment of an all-white mine, but he had departed from his attitude since, because of the apathy of the Government in dealing with this matter. It seemed to him the Government of this country was dominated by the doctrine of laissez faire. This was a big question, and the hon. member for Pretoria, East, had brought forward a motion in regard to the appointment of a Commission, for which he would have no hesitation in voting. They wanted all the possible information on this point, so that, though there might be a delay of a year or even two, they would be able to do something. Of course, there were points to be considered on both sides, but he hoped that they would arrive at some definite conclusion, and so put an end to this interminable discussion year after year. (Cheers.)</p>
+
+</speech>
+
+<speech by="#creswell">
+
+<from>Mr. <person refersTo="hansard_za">F. H. P. CRESWELL</person> (Jeppe)</from>
+
+<p>said the hon. member for Germiston had given the House a few facts to show what the other side of the question was with regard to the proposal that was the basis of his whole argument. The hon. member for Germiston had been a protagonist of the nonwhite labour policy for the last ten years, and during something like ten or eleven years he had frequently heard from his lips precisely the same arguments he used this afternoon. The whole basis of the hon. member&#x2019;s argument was, and it was a view <span class="col_529-530" refersTo="page_0271"/>essentially calculated to appeal to those unacquainted with the real circumstances of the case, that they could arrive at a conclusion on the economic effect of such a change as they advocated by the simple mathematical process of taking the working accounts and substituting one white man at a given wage for one and a half natives. Some hon. members who were acquainted with natives might say that they could produce a native who could shovel as much earth as any white man, but the question went very much deeper than that. Everything depended on the co-operation of the different influences in an industrial organisation. In England the organisation of industry was entirely incomparable with the organisation of labour on the Rand. In order to counteract the statement of the hon. member for Germiston (Mr. Chaplin) he would quote from the report of the Commission of 1907, which had the most authoritative of statements given to it. At the time it was proposed to introduce the Chinese, exactly the same argument was brought forward in regard to their employment as was made use of now. It was assumed that one white man would do twice as much work as a native. Mr. Creswell then quoted from evidence given before the 1907 Commission by Mr. Hanau to show that the latter was not in favour of the arguments used by the hon. member for Germiston, and the Commission agreed with Mr. Hanau. Then Mr. Ross Brown and Mr. C. J. Price told the Commission that if we had the same kind of white men working on the Rand mines as were engaged in the mines in California, only a quarter of the number of individuals would be necessary on the Rand mines, as compared with the number at present employed. The hon. member quoted further authorities to prove that the hon. member for Germiston was clearly wrong. Proceeding, he said that where they had cheap indentured labour as a basis it would involve a great waste of labour and it was an uneconomical system. He thought he had shown hon. members sufficient grounds for dismissing the whole of the arguments put forward by the hon. member for Germiston. They might be dismissed as mere arguments of a very unpractical theorist, a person who worked merely from the rule of three without any practical experience of which to give to the House the benefit, or any deep insight into the real root of the problem. Turning to the hon. member for Victoria West, he said that hon. members appeared to think they had free licence to find fault with their manner of advocating these things, and particularly with reference to some remarks of his (Mr. Creswell). The hon. member should find out what was the real truth in the matter instead of referring to them as wild and random statements. Those on the cross benches could afford to ignore such remarks, and in reference to the assertions made all round the House, he would repeat that that question was one of the most important that that House could possibly decide. He believed that the people would know that it was owing to the strenuous advocacy of the Labour Party for an entire change in the labour system which had produced this very sudden and quick realisation of the importance of that question. In regard to the proposal of the hon. member for Barberton, he did not see that there was any great virtue in a Select Committee. He did not know what the hon. members on both sides of the House thought about the matter, but their view of the reason for the existence of political parties was to deal with the most important subjects on definite lines. The Labour Party had clear-cut views on that question, and where they separated from members on both sides of the House was that tradition that cheap and civilised labour was really beneficial to a country. As to the amendment, which would commit the House entirely to the abolition of imported indentured labour, one could not help remembering that the hon. the Minister of Justice told the House that he had been converted to that for 20 years, but if the amendment was going to be accepted in a similar spirit to that of the Minister of Justice, then they would be 20 years without them doing anything at all, that would not satisfy them on the cross-benches. He hoped that this discussion would lead to speedy action on the part of the Government. He asked the hon. member for Cape Town, Central, what had changed his opinion since last year. His hon. friend seemed to consider this a revolutionary change since the Unionist Congress at Johannesburg.</p>
+
+</speech>
+
+<speech by="#wilcocks">
+
+<from>&#x2020;Mr. <person refersTo="hansard_za">C. T. M. WILCOCKS</person> (Fauresmith)</from>
+
+<p>said if hon. members on the cross-benches were so much concerned with the fate of the poor whites, they should not keep on saying this so continually. Apparently they wanted the people to think that the members on the cross-benches were the only six angels in this House who would help the poor whites. He could assure hon. members that there were other members who felt just as warmly for the poor whites, and the working men began to see it too. The Labour Party compared South Africa to other countries, but there was really no comparison between them. Personally, he welcomed the discussion, although he thought that the field of employment for whites was a very large one; everywhere they saw opening for white labourers&#x2014; on the mines, on the railways, and on the farms. The labour colonies also afforded opportunities, though on the farms the chances were but poor for white working men. As regarded the employment of whites on the railways, he deprecated the criticism which had been levelled against the Government for paying such small wages. The Government had been so concerned <span class="col_531-532" refersTo="page_0272"/>with these people that they had done the best they could, and although the poor whites could not make a fortune on the railways, they could make a living, and there were good opportunities to rise to higher positions. It could not be said that the £60,000 which was paid for white labour on the railways was money wasted. If they only knew how to use the labour, he held that there would be no shortage for the mines. But they must show their respect and appreciation of that labour, and pay every man what he was worth, and then if one earned more than the others it would act as an encouragement to those others. He denied the allegation that white workers were slow and useless, and referred to the agricultural industry to disprove that contention. As regarded the employment of white labourers on the railway, all the reports of the inspectors showed that they were giving great satisfaction. He went on to condemn the location system, which, he contended caused a shortage of labour and was responsible for many of the crimes amongst natives. The Free State law should be applied to prevent it. He urged that the old regulations forbidding natives from roaming about idle should again be enforced. It was the duty of the Government to get hold of land so as to bring into operation the provisions of the Land Settlement Act. They had not acted with sufficient energy. The Government should buy the available land and open it up to the poor whites who wished and were able to work it. In that way, and by encouraging them to work on the railways, it was in their power to do a good deal in this direction, especially if they paid the men a reasonable wage. But, anyway, they ought to begin with their poor whites.</p>
+
+</speech>
+
+<speech by="#van_der_riet">
+
+<from>Mr. <person refersTo="hansard_za">F. J. W. VAN DER RIET</person> (Albany)</from>
+
+<p>moved the adjournment of the debate.</p>
+
+<p>The motion was agreed to, and the debate was adjourned till Wednesday next, March 5.</p></speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1913-02-26T17:53:00">5.53 p.m.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
