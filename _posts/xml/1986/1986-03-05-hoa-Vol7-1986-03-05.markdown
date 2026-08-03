@@ -1,0 +1,2225 @@
+---
+title: 'House of Assembly: Vol7 - WEDNESDAY 5 MARCH 1986'
+layout: debate
+year: 1986
+month: MARCH
+month_slug: Mar
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>WEDNESDAY, 5 MARCH 1986</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1986-03-05T15:30:00">15h30.</recordedTime></narrative>
+
+</prayers>
+
+<debateSection name="#report_of_standing_select_committee">
+
+<heading>REPORT OF STANDING SELECT COMMITTEE</heading>
+
+<speech by="#botha">
+
+<from>Mr <person refersTo="hansard_za">C J VAN R BOTHA</person>:</from>
+
+<p>as Chairman, presented the Fifth Report of the Standing Select Committee on Communications and Public Works, dated 5 March 1986, as follows:</p>
+
+<block name="quote"><span class="col_1515-1516" refersTo="page_0795"/>The Standing Committee on Communications and Public Works having considered the subject of the Post Office Appropriation Bill [B 64&#x2014;86 (GA)], referred to it, your Committee begs to report that it has concluded its deliberations on the Bill.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#leave_of_absence">
+
+<heading>LEAVE OF ABSENCE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move without notice:</p>
+
+<block name="quote">That leave of absence from Committee meetings be granted to the following members for the periods indicated:</block>
+
+<table border="1">
+
+<tr>
+
+<td><p>Barnard, S P</p></td>
+
+<td><p>14 and 15 October 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Bartlett, GS</p></td>
+
+<td><p>29,30 and 31 July 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Eglin, CW</p></td>
+
+<td><p>4 November 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Malcomess, D J N</p></td>
+
+<td><p>27 and 28 November 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Marais, P G</p></td>
+
+<td><p>4 to 8 November 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Mentz, J W H</p></td>
+
+<td><p>21 to 25 October 1985</p></td>
+
+</tr>
+
+<tr>
+
+<td><p>Swart, RAF</p></td>
+
+<td><p>22 August 1985 and 23 and 24 September 1985</p></td>
+
+</tr>
+
+</table>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#transport_services_appropriation_bill">
+
+<heading>TRANSPORT SERVICES APPROPRIATION BILL</heading>
+
+<summary>(Committee Stage resumed)</summary>
+
+<p>Schedules (contd):</p>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Mr Chairman, I wish first of all to leap to the defence of the hon member for Bezuidenhout by pointing out to the hon the Minister that the meeting at which the bugging device was in the &#x201C;blompot&#x201D; was in fact a private meeting. It was not a public meeting. There were two meetings. One was held at the sports club, and was a public meeting. The other was a private branch meeting of the Staff Association of Trade Unions, as the hon the Minister likes to call them. It was the latter meeting which was bugged. The Press was not represented at that meeting, and I believe therefore that the hon the Minister indeed owes an apology to the hon member for Bezuidenhout. [Interjections.]</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>And to the hon member for Langlaagte too! [Interjections.]</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Mr Chairman, the SA Transport Services undertake the catering for us here in this Parliament. During the last week we have suddenly received from the SA Transport Services a document informing us that we now have to make out our cheques not to the SA Transport Services but to the Secretary to Parliament or to the Catering Manager of Parliament. Now, Mr Chairman, I happen to be a member of the Standing Committee on Parliamentary Catering, of which the hon the Minister is the chairman. I happen to know nothing about this change. I have not been consulted in connection with this step. Whenever this particular committee meets&#x2014;which is sometimes once a year&#x2014;we are furnished with a full statement of the finances of the parliamentary catering department, and we are asked to approve any increases etc. I would imagine therefore that that committee ought to be consulted before this sort of change occurs.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I have to draw the attention of the hon member to the fact that the parliamentary catering department is not under discussion now.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Mr Chairman, I must point out to you that catering does in fact concern one vote of R39 million in the estimates relating to this Budget.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The decision as to the use by hon members of the catering facilities of this building does not fall under this Vote. It is &#x2026; [Interjections.] Order! I am not prepared to be shouted down while I am giving a ruling! I rule that that matter is not under discussion now. That should be raised under the Vote of Parliament, and not under the Transport Affairs Vote.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Mr Chairman, may I address you?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The hon member may address me, but I am not likely to change my ruling. [Interjections.]</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from><span class="col_1517-1518" refersTo="page_0796"/>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Mr Chairman, are you indicating that there is no point in my addressing you?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>I am giving the hon member the opportunity to address the Chair on the point, but I have indicated that I am convinced that my ruling is correct. However, the hon member may address me on the point.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Mr Chairman, may I respectfully point out that the hon member for Pietermaritzburg North is not discussing the question of who uses what catering facilities at all. He is talking about the quality of the catering facilities and the decisions taken by the SATS in regard to the method in which catering is conducted in Parliament. This has nothing to do with who uses what facilities but it has everything to do with the quality of the service.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>That was not the impression that I gained. If the hon member for Pietermaritzburg North wishes to continue I will listen very carefully and, provided he confines himself to the area of the quality of service, I will allow it but not if he transgresses that area.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Mr Chairman, I want to thank you. What I want to know from the hon the Minister is whether he was consulted, as the Minister responsible for the SATS, about this change-over. Does it mean that the SATS is relinquishing its service to Parliament in terms of catering?</p>
+
+<p>Last year we looked at the question of the costs that the SATS was incurring in supplying a catering service to this House. From 1983 the labour costs alone escalated by 340% from R125 000 to R426 000. The suggestion was then made that if it was too much of a burden for the SATS getting outside contractors to tender to do the catering for Parliament as they do in the provincial council. The SATS acknowledged their historical link and their service is excellent. We have no complaints about the service we receive as it is excellent. The question was the matter of security. I understand that outside catering services do all the catering for Armscor, for example, which needs more security than we do. I therefore do not find the argument of security a convincing one.</p>
+
+<p>I believe the hon the Minister should tell us what is going on. I am a member of the Standing Committee on Parliamentary Catering and I do not know what is going on. I want to tell the hon the Minister that it is that kind of frustration which leads to the resignation of people such as the former Leader of the Official Opposition from this House. [Interjections.] We are not being consulted on a matter of parliamentary interest. [Interjections.] Of course it is a trivial matter; the Standing Committee on Parliamentary Catering has no importance. It is the principle involved.</p>
+
+<p>I believe the hon the Minister should take us into his confidence as to what is going on. With whom does he make these arrangements if he does not make them with the Standing Committee on Parliamentary Catering?</p>
+
+<p>I also want to suggest to the hon the Minister that he considers bringing in a qualified restaurateur. At the Blue Room on the Johannesburg station the hon the Minister acknowledged that he had to bring in an outsider who is an expert in running a high quality restaurant. The hon the Minister did that. He will agree with me that the Blue Room at Johannesburg station has again become one of the top restaurants in the country as a result. I believe the hon the Minister should consider doing the same thing at Parliamant. After all, the SATS catering service does the catering at Parliament as well. I believe we should also take into account the fact that people have become much more diet-conscious and slimming-conscious, as well as the fact that there has been a growing improvement in the standard and quality of the food served at South African restaurants generally.</p>
+
+<p>I also want to raise a question in respect of the Brown Book&#x2014;that is, the list of projects included in the capital budget for 1986-87&#x2014;which has become much thinner. My question relates to item 111 which concerns improved facilities for third class passengers at Pietermaritzburg station. I had occasion a few weeks ago to make a careful inspection of the passenger facilities at Pietermartizburg station, and I must say that I have not seen any signs of these improvements. This is now the second successive year that I have seen this item in the Brown Book and I <span class="col_1519-1520" refersTo="page_0797"/>should like to know what is being planned. I am sure something is being planned. There is no sign of it yet, however&#x2014;unless the matter is still with the architects. I think the hon the Minister should tell us what is happening.</p>
+
+<p>The other item of expenditure I have noticed in regard to Pietermaritzburg is the replacement of the electrical supply to the mechanical workshops. I have previously raised the question of the mechanical workshops in Pietermaritzburg and I should now like an assurance from the hon the Minister that those workshops are going to be retained as far as possible. I should like to make the plea that they become, if necessary, speciality workshops with the artisan training school attached and where specialised work such as brass castings could be done. If necessary, the workshops should also be able to service the specialised requirements of the SATS throughout the Republic.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Mr Chairman, in consequence of my limited time I shall be unable to respond to that hon member&#x2019;s speech. I should nevertheless very much like to make a few very important comments as regards an extremely difficult situation in which SATS finds itself at present. In this respect I am referring to the uneconomic utilisation of certain SATS property within some of its infrastructures in towns, cities, along track, etc.</p>
+
+<p>Before getting to this, I wish to refer to a remark by the hon member for Jeppe during the Second Reading debate on this very Bill last week. That hon member claimed at the time, that I was a falsifier. The Chairman of the House then ordered him to withdraw from the Chamber &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Rissik may put a point of order.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, on a point of order: Is the hon member for Brits permitted to say another hon member made a false statement?</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Mr Chairman, I am prepared to withdraw that.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Is the hon member for Brits withdrawing that?</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Yes, Sir. I merely want the fact on record that the hon member for Jeppe said I was a falsifier. He had to withdraw his allegation and, when he refused to do so, he was ordered to withdraw from the Chamber.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, on a point of order: Is the hon member speaking on the Transport Services Appropriation Bill or not? [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Brits may proceed.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Thank you very much, Mr Chairman. Hon members should know one may make any allegation in this House providing one is able to qualify it. Now the hon member for Waterberg is walking out because this involves him; it deals with his actions when he was the Deputy Minister of Plural Relations regarding Mr Matanzima&#x2019;s son.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I permitted the hon member for Brits to proceed but he should not digress too far.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Thank you very much, Mr Chairman. I undertake to return. [Interjections.] I wish to say that there is no truth in the hon member for Jeppe&#x2019;s allegation that I am a falsifier. This concerned a brief article in <i>Die Nationalis</i> which was used for more than a year without those hon members having raised any objection. [Interjections.] It was only when we republished it in 1984 under the title &#x201C;The CP Exposed&#x201D; that hon members reacted. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! A point of order is being put.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, on a point of order: I wish to request that, arising from the present debate, a <span class="col_1521-1522" refersTo="page_0798"/>select committee be appointed to inquire into allegations the hon member for Brits has just made. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Brits may proceed.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Thank you very much, Mr Chairman. It has now been recorded &#x2026;</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>Keep on talking nonsense.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>My nonsense is a confirmation of what the hon member for Langlaagte&#x2019;s leader did in 1979 when he permitted a Black student to &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! No, I shall not permit this. The hon member must either revert to the Bill or resume his seat.</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Thank you, Mr Chairman. I then request your protection so that hon CP members may grant me the opportunity of making my speech. [Interjections.]</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">J H VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, may I put a question to the hon member?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Is the hon member prepared to reply to a question?</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Mr Chairman, unfortunately I do not have any time for it. The hon member may put a question to me during the next debate.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member is not prepared to reply to a question. The hon member may proceed with his speech on the Transport Services Appropriation Bill. [Interjections.]</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Throughout South Africa SATS has large areas of land at its disposal which are being uneconomically utilised. The hon the Minister has the problem of having to accept the first offer made if he puts them up for sale; this is uneconomical. On the other hand, if the hon the Minister creates a new infrastructure such as new track or if extensive new main roads are constructed, parcels of land are left unutilised.</p>
+
+<p>I now call upon the hon the Minister to save the Treasury money and to take a very positive decision which will be to public advantage. I appeal for transfer of those parcels of unutilised land bordering railway track and main roads. The value of the land will increase enormously bringing compensation to those involved and the creation of a new category in housing possibilities in South Africa. In 1966 the hon the Minister tabled the Subdivision of Agricultural Land Act in this House and I believe he will be capable of effecting a small amendment to the Act to make my request to him possible. I request this in all seriousness.</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>Mr Chairman, the hon member for Brits must certainly have made one of the most blatant efforts in this House to circumvent your decision on what should be discussed in this debate.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>He is a nervous member.</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>He is nervous and he has many fears on the brain. The fact of the matter is that he spoke about a document which was falsified by the information service of the party to which he belongs. In a private members&#x2019; debate in this House that was declared a falsified document. I think we should leave it at that but I wish to tell him the hon member for Jeppe invites and challenges him to a debate on the subject on a public platform in his constituency.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">J H VAN DER MERWE</person>:</from>
+
+<p>Will you do it?</p>
+
+</speech>
+
+<speech by="#grobler">
+
+<from>*Dr <person refersTo="hansard_za">J P GROBLER</person>:</from>
+
+<p>Yes, but without AWBs! [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>I wish to raise a few specific matters with the hon the Minister but before that I have a message for him from railwaymen. They said to me: &#x201C;Tell <span class="col_1523-1524" refersTo="page_0799"/>Hendrik Schoeman we are finished with him; we do not want him any longer.&#x201D; [Interjections.]</p>
+
+<p>SATS&#x2019; financial problems are not news&#x2014;we have been hearing about them for ages. At this stage one expected imaginative steps to reverse the position in which his department finds itself from a man who cultivated pumpkins and maize in the back yard of his hostel to great advantage. Unfortunately we receive only solutions with a specific refrain from him: Rate increases, rate increases and rate increases <i>ad infinitum</i>&#x2014;whether direct or through the reclassification of merchandise from one rate to a higher. This process of price increases is fatal to the SA Transport Services; he is pricing the industry completely out of the market! A first class single ticket from Waterpoort to Pretoria, for instance, now costs R59 and a first class return R118. That is the train by which I travel. It can no longer even compete with petrol costs for a light car.</p>
+
+<p>Another way in which the hon the Minister attempts combating his problems is by curtailing services. As regards SAA, for example, one can hardly obtain a reservation at a specific time any longer&#x2014;there is either a waiting list or the flight is fully booked. When one arrives at the airport there are long queues of people waiting at the standby counter with a consequential loss of business to the SA Transport Services. While discussing the Airways, I wish to say I think SAA food the worst it has ever been. A cold croissant is served for breakfast while the thawed corned beef cut served for lunch tastes of blood. [Interjections.]</p>
+
+<p>A further way in which the hon the Minister solves his problems is by retrenching personnel whom he also treats very harshly. In these times of depression&#x2014;as an hon colleague of mine has already said&#x2014;SATS should be a supplier of and not a depriver of employment. Another problem facing the SA Transport Services is the evasion and embezzlement of fares which assumes epidemic proportions on certain routes. I think it could run into millions of rands annually. What is being done in this regard? It naturally relates to the tendency one observes in Government which is that no discipline is exercised, that there is lawlessness and that an inability to curb offenders in this regard is the order of the day.</p>
+
+<p>If a White ticket examiner pays in R7 000 after a fixed period of work on a specific route and his Black colleague follows&#x2014;under exactly the same circumstances&#x2014;and pays in something in the region of R1 200, one should surely know that something is drastically awry. Such a matter calls for action but no action is taken as they are afraid to intervene&#x2014;that is what it amounts to.</p>
+
+<p>I now get to agricultural affairs. In these times in which farmers are feeling the pinch there is an increase in rates to boot. According to information at my disposal, goods rates payable by farmers from 1 April 1985 to 1 January 1986 on essentials such as herbicides, insecticides, etc, increased by 24% on consignments of less than a wagonload and by 17,5% per wagonload; by 29% for less than a wagonload of manure and fertiliser and by 14% for a full load. These prices are therefore passed on to the farmer and the consumer, that is to those who are already suffering because of poor conditions in this country and this aggravates the situation in the agricultural sphere.</p>
+
+<p>While we are discussing farmers&#x2014;the hon the Minister knows how they are struggling&#x2014;I wish to refer to a certain category of hauliers capable of conveying agricultural products at approximately 50% less to the producer if they can obtain exemption as regards certain categories of commodities they are permitted to transport. I am thinking of steel, cement, maize meal, liquor and ordinary lime as examples. In effect he will be able to transport a bag of potatoes for a farmer from the Northern Transvaal to Johannesburg or Pretoria for 40 cents per pocket but now the farmer has to pay 75 cents because the haulier is not permitted to convey the type of load I have mentioned on the return journey. The hon the Minister should know that in times like the present one looks for business not by increasing rates, pushing one&#x2019;s workers and furnishing poorer service; on the contrary, by providing service, low rates and imaginative presentations of one&#x2019;s product.</p>
+
+<p>I wish to refer to the further aspect of client accounts. Under the new system of settlement which became operative last year SATS levied 0,03%&#x2014;therefore 30 cents per R1 000&#x2014;in order to insure against non-payers.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from><span class="col_1525-1526" refersTo="page_0800"/>*An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Fanie Botha took that alone.</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>I now have to pay for other people unable to pay up to approximately R200 000. I wish to refer to a minimum of R5 per month to be levied on that account now because it seems to be inadequate. In other words, I have to convey goods for which rates amount to R16 667 monthly to utilise my R5 insurance premium. The effect of this is going to be that hundreds of the hon the Minister&#x2019;s SA Transport Services&#x2019; small clients, of which I am probably one, will simply close our accounts at great inconvenience to ourselves because of this trifling levy of R5 per month on an account. The account is not used every month but one has to pay R5 on it. [Interjections.] If one omits to settle that R5 account, it is closed. I do not consider this sound business and I cannot understand a man who is known for his business acumen managing his undertaking in this way.</p>
+
+</speech>
+
+<speech by="#van_der_walt">
+
+<from>*Mr <person refersTo="hansard_za">A T VAN DER WALT</person>:</from>
+
+<p>Mr Chairman, I wish to refer to a few matters in my constituency and state the fact that Bellville station forms one of the most important links in the entire transport network in the Western Cape&#x2014;in fact, I should say in the Republic. I wish to furnish the following information to give hon members an indication of the importance of the activities and the volume of traffic through Bellville station.</p>
+
+<p>In travelling from Cape Town, one changes at Bellville for Wellington, Wellington-Stellenbosch and Strand; all main line trains stop at Bellville; all road motor services to Caledon, Bredasdorp, Oudtshoorn and Montagu leave from Bellville station. The income from ticket sales amounts to the impressive sum of approximately R4 million per annum and 150 000 passengers are dealt with monthly. From Monday to Friday suburban train services on an up-and-down commuter basis amount to 323 journeys a week.</p>
+
+<p>From these limited statistics hon members can see that activities centring on Bellville station as regards transport are not negligible and the case I wish to put to the hon the Minister and through him to general management is the fact that facilities at Bellville station are totally inadequate for this volume of traffic.</p>
+
+<p>As I was there this morning, I wish to refer to the utterly dreadful circumstances under which the staff work. The rain literally penetrates the roof during wet weather. The new computer equipment is frequently out of order owing to damp and because they cannot work except under thermostatically controlled conditions.</p>
+
+<p>I now come to the passengers. There is no shelter whatsoever on the 11 platforms at Bellville station and the passengers&#x2014;as I have said there are 30 000 commuters per day&#x2014;have to pass through a single subway to and from trains. At peak periods there is an enormous logjam of commuters and this creates friction. When one waits for the train, one does so in the rain.</p>
+
+<p>The request I am putting is modest but serious. I am aware of capital conditions but provision was made on the capital account for R5,5 million five years ago. The amount was later scaled down to R1,2 million to effect certain improvements which have now obviously been scrapped.</p>
+
+<p>I request the hon the Minister in the interest of the Bellville electorate, many of whom are employed by SATS, to accord the highest priority to facilities at Bellville station. If the hon the Minister can provide for finance on the capital programme even at this late stage to improve these facilities, it would be very highly appreciated.</p>
+
+</speech>
+
+<speech by="#minister_of_transport_affairs">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF TRANSPORT AFFAIRS</person>:</from>
+
+<p>Mr Chairman, I shall reply to a number of the questions concerning constituencies by letter.</p>
+
+<p>I want to tell the hon member for Bellville I am pleased he is still so calm because even five years ago we had an amount for his station in the Brown Book. The economy is experiencing so many problems, but we shall consider the hon member&#x2019;s representations very sympathetically, because a station that has 30 000 commuters per day is a station that must be looked after.</p>
+
+<p>By coincidence, the request of the hon member for Brits in respect of land was discussed in the Cabinet this morning. Last year I put forward the idea of utilisating land of the SA Transport Services according to a different system from that used in the past, so that it can become serviceable [Interjections.] <span class="col_1527-1528" refersTo="page_0801"/>That matter will receive consideration. I am pleased the hon member drew it to my attention. I shall discuss it with him again later.</p>
+
+<p>According to the hon member for Soutpansberg, the men of the SA Transport Services said they were done with me. He said it cost R59 to fly from Waterpoort to Pretoria and then the available flights are fully booked at certain times. Some flights are only half-full, however, whereas some people specifically want to take a certain flight. When people book early, however, or suggest a certain itinerary, we move flights readily. We do that from time to time because we are showing a loss of R70 million again and for that very reason we have to plan the flights in such a way that they can be better utilised than the present average utilisation of 65% on our domestic flights.</p>
+
+<p>We do pay attention to the flight times, however, and sometimes use a Boeing 737, an Airbus or even a very large aeroplane, depending on the passenger flow. In addition, the hon member claims the food served to him is normally only a bloody piece of meat. Naturally one will never be able to satisfy everyone. One hon member even suggested that the serving of meals on flights be stopped completely. The hon member for Soutpansberg also requested that the agricultural departments make good the terrible losses we have to suffer in transporting agricultural products&#x2014;losses of up to R25 million. The SA Transport Services lose R14 million annually on the transport of fertiliser alone. Must the SA Transport Services sustain those losses alone? I should like to remind the hon member that a year ago I made an announcement on the radio that every agricultural product was exempt from any form of permit. The potatoes to which the hon member referred can be conveyed without a permit. I myself convey potatoes from the Transvaal down to the Cape Town market. I convey them by road.</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>Yes, and what about the conveyance of steel and cement?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member referred specifically to the conveyance of potatoes. [Interjections.] The hon member argued that potatoes should be conveyed by private carriers. That was exactly what he was arguing for. I now announce, Sir, that next year we shall propose an amendment in the legislation to abolish the permit system completely. We shall do so on certain conditions. The man who uses the road will have to pay for the road, since the train has to pay for its own road. I have only half an hour and have to reply to a whole number of speeches.</p>
+
+<p>&#x2020;The hon member for Pietermaritzburg North talked of &#x201C;frustration&#x201D;. A young little boy talking of frustration. It is unbelievable! [Interjections.] Why is he frustrated? We did not decide to have a meeting to decide that cheques should be made out to Parliament instead of to SATS. Why should we call a meeting for that?</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Because we have a catering committee.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>One must pay in any case. I did not realise it because I pay cash. Hon members must not take the chance of accepting this chap&#x2019;s cheque! [Interjections.] That is too much of a gamble. Why should we call a meeting if the Secretary decided that cheques must be made out to Parliament instead of the SATS? One must pay in any case. It is not necessary to make a fuss about it. That is the reason why the hon member is frustrated. He gets upset about nothing. He has to pay in any case.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>That is not the point. I am upset because you have no respect for your parliamentary committee.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>We must have a parliamentary committee meeting one of these days. However, is it necessary to call a meeting if we do not have anything on our agenda? Must we call a meeting to decide whether we must make out our cheques to A or to B?</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Why did you call a meeting and then postpone it?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>There was nothing on the agenda.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Then why call a meeting?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from><span class="col_1529-1530" refersTo="page_0802"/>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, this little man is &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon the Minister must refer to hon members as hon members.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member must not come and tell me &#x2026; we must appoint a restaurateur. He said he is satisfied with the food.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>I did not say that.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>What did we do with the Blue Room? We privatised the Blue Room. Now he is complaining. These are a lot of loose&#x2026;</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>I did not complain. You did not pay any attention.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I paid attention. I wrote down everything you said.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>You did not write down everything I said.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Pietermaritzburg North must now refrain from making any further interjections.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>He has merely made my hackles rise. I cannot bear it for someone to tell me he is frustrated about something like this. What is frustrating the hon member in South Africa?</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>*Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>I am not frustrated about South Africa. I am frustrated about the people who are running the country.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member referred yesterday to what had happened in connection with the travel bureau.</p>
+
+<p>&#x2020;He referred to what had happened to him in connection with the travel bureau. The whole matter is privatised and we have our own travel bureau. I telephoned those people. The point is how the hon member addressed them. Why does he address people in the way in which he sometimes addresses me? That is why he gets so frustrated sometimes. We are investigating the whole matter and I will return with a written reply on the treatment he received from the travel bureau that he complained about last night. I will give the hon member everything in writing so that he can see it for himself.</p>
+
+<p>One finds that people at the airport speak to the girls there in a very offhand way. All people want to be treated well. Why cannot we be civilised when we address people? [Interjections.]</p>
+
+<p>*Never in my whole life have I been insulted by anyone in any country in the world, because I address everyone in a friendly way. Just listen to the way in which the hon member for Pietermaritzburg North is speaking to me.</p>
+
+</speech>
+
+<speech by="#mcintosh">
+
+<from>*Mr <person refersTo="hansard_za">G B D McINTOSH</person>:</from>
+
+<p>Do not start your nonsense now!</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I appeal to the hon member again. We cannot conduct the debate in this fashion.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Mr Chairman, may I ask the hon the Minister if he is actually alleging that the hon member for Pietermaritzburg North addressed any employees of the tourist bureau in an improper way?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I will reply to this matter fully at a later stage. We do not have to take it further now. I will give a written reply to the hon member later. The hon member asked questions about our travel bureaux last night and said how bad they were.</p>
+
+<p>The hon member for Port Elizabeth Central referred to a saving of R106 million on fuel. The total saving on fuel is R40 million.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>For the whole of SATS?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The saving on fuel for Transport Services and the exchange rate savings together total R106 million. The reduction that was announced last week means a saving of R40 million for Transport Services.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>What?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from><span class="col_1531-1532" refersTo="page_0803"/>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>That is what we are saving on fuel because of the reduction of last week.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>In one month?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>With an accumulated loss of R630 million, we cannot at this stage reduce tariffs after such a small reduction in the fuel price. If, however, the exchange rate remains at the present level we can review the tariffs later on in the year. At this stage, however, we cannot reduce tariffs as the hon member requested.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>R40 million in one year or one month?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>One year.</p>
+
+<p>The hon member also asked about the bugging. I did not realise that any bugging had taken place. Those were public meetings. The Press were present and anybody could attend those meetings. Why then should we have bugged the meeting? It appears now, however, that the hon member was referring to private meetings. Bugging might well have taken place there. If it has, however, I was not aware of it. I am not responsible for it.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Will you stop it if it is happening?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Definitely. Why should the meetings be bugged? Anybody can come and tell me what happened at the meeting, so why should the meeting be bugged? [Interjections.]</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, I should like to ask the hon the Minister a question in connection with something I referred to in my speech yesterday. I referred to a specific private meeting at Avion Park which was bugged. Now I should like to ask the hon the Minister whether he will give instructions to whatever Police Force is concerned to stop bugging? Moreover, will he have an investigation made into the whole issue in order to find out who did the bugging and then punish the person accordingly?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I will.</p>
+
+<p>The hon member for Port Elizabeth Central raised a number of issues. [Interjections.] He compared the South African Airways tariffs for flights from Cape Town to Johannesburg with American tariffs for flights from New York to Los Angeles. Cannot the hon member rather compare apples with apples? After all, the American tariffs he referred to related to a single trip with no reservations&#x2014;passengers cannot reserve seats&#x2014;no food or beverages and no free luggage allowance. Why did the hon member not mention that? Our air fare for a single trip on the late night flight is R115 as opposed to $99. The hon member should compare our special tariff flights with those in the United States. However, he has chosen to compare the cheapest flights in the United States with the most expensive flights in South Africa. Surely that is not fair.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Do you acknowledge that the South African Airways is the most expensive in South Africa?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Sir, I referred to the domestic schedules when I replied to the hon member for Soutpansberg.</p>
+
+<p>He then referred&#x2014;the hon members for Klip River and Pietermaritzburg North also referred to it&#x2014;the so-called rip-off mechanism with regard to the Business Class. The Business Class was introduced to satisfy a specific demand in the market. There is a demand for it. If there is insufficient demand for Business Class seats, then the curtain is moved forwards, never backwards. I can give hon members the assurance that it is moved forwards and not backwards.</p>
+
+<p>The hon member also referred to the services provided by the SATS&#x2019; travel bureaux.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, may I ask the hon the Minister a question?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Sir, I only have a quarter of an hour but, very well.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>The hon member for Port Elizabeth Central may ask his question.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Thank you, Mr Chairman. With regard to what the hon the Minister has said about the Business Class, how does he explain the fact that of the 30 <span class="col_1533-1534" refersTo="page_0804"/>people sitting in the Business Class on a particular flight, more than half told me that they were only there because they could not book in the Economy Class? [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The curtain is fixed. When the rear section of the plan is full, access to it is naturally refused.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>But they can move the curtain forward.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Why should we? We can make more money.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Well, that is what I am saying. It is a rip-off. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Wait a moment, they did not book. Those are stand-by passengers. [Interjections.]</p>
+
+<p>The hon member for Port Elizabeth Central asked why no non-White cabin staff are employed on overseas flights. He asked why no Indians or Blacks are appointed as air hostesses. We do in fact have Coloured and Indian air hostesses. The hon member must bring me the name of a girl who applied for the job but was turned down. There are certain standards which these people must meet.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Do not talk about big hips and aisles.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I am not talking about that. You are talking about it.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>That is what you are talking about.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member should see some of the applications we are getting. I would love to see a plane with a Black air hostess land in the United States or Europe. I am telling you, I wish that could be so because it would be good for our business. It is not quite that easy, however.</p>
+
+<p>*The hon member for Uitenhage requested that certain things be done at the airport in Port Elizabeth. The hon the Minister of Environment Affairs and Tourism has already appointed a committee to inquire into the possibility of making sections of all South African harbours available for tourism and recreation purposes. The committee will take the hon member&#x2019;s representations into account in its inquiry. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Hon members must please lower their voices.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member for Uitenhage referred to the question of privatisation. The Wim de Villiers Committee is enquiring into it. If we can make use of attorneys&#x2019; services in this inquiry, we should like to do so.</p>
+
+<p>I want to thank the hon member for his contribution, as well as for the attitude he is displaying towards his constituency.</p>
+
+<p>The hon member for Kuruman said I had written to his MPC, but not to him. The MPC in his constitutency wrote me a letter to ask me questions on various aspects. I want to ask the hon member whether or not I have the right to reply to that MPC&#x2019;s letter. The hon member for Kuruman did not write to me. If he had written me a letter &#x2026;</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>You are responding to an interjection made by the hon member for Sunnyside. I did not say that.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I do not want to quarrel.</p>
+
+<p>The hon member for Kuruman claims we are taking R23 million from this Appropriation for use in regional services councils. He says we could rather have given it to the rail-workers. The losses suffered on the passenger transport service and on certain services rendered to Blacks must be made good from some source or another by the regional services councils, however. The regional services councils will have to take responsibility for certain things. A final decision has not yet been taken on everything this will include, but it is foreseen that R23 million of the total amount of more than R9 000 million which we budgeted for will have to be used for regional services councils.</p>
+
+<p>The hon member for Kuruman now says it is going to increase to R200 million. The hon member says R200 million is enough to give the railworkers an increase in salary of 20% These things are proclaimed far and wide so <span class="col_1535-1536" refersTo="page_0805"/>that it looks as though the hon member for Kuruman would have given the railworkers a 20% salary increase. If R200 million were to be available one day, however, an increase in salary of only 6% could be granted. Why does the hon member say that will mean an increase of 20%? The R23 million under discussion now would entail an increase in salary of 0,6%.</p>
+
+<p>I do not want to quarrel with the hon member since he has never insulted me. That is why I say we should stick to the facts.</p>
+
+<p>There is one advantage attached to the hon member for East London North, and that is that he does not complain East London to death. I want to thank the hon member for East London North for his contribution. I appreciate it.</p>
+
+<p>&#x2020;The hon member for Durban Point raised a number of matters, including irregularities concerning Transmed. I want to point out to the hon member that management has for some time been concerned about irregularities. Through the use of the Transmed mechanised system, many of these irregularities have been eliminated and this has led to the appearance in court of certain persons after an investigation by the Railway Police. The investigation is still in progress.</p>
+
+<p>The hon member referred to the telephone exchange. I wrote to him about this matter. The telephone exchange at the SAA office was unfortunately, termed obsolete although the system is in fact operating successfully in Durban. We cannot at the moment provide public telephones in the offices of the SAA in Pretoria as the hon member requested, but we will again go into the whole matter.</p>
+
+<p>The hon member said that Indian ground hostesses are being discriminated against. He referred me to two ground hostesses. They were promoted as from 1 February this year.</p>
+
+<p>The hon member for Durban Point also referred to a flight that was advertised. The SAA has never placed any advertisements or timetables of its flights in the publications concerned. However, this is the hon member who referred to conditions in 1956, when he was a young man of 46, which is 30 years ago. [Interjections.]</p>
+
+</speech>
+
+<speech by="#raw">
+
+<from>Mr <person refersTo="hansard_za">W V RAW</person>:</from>
+
+<p>That is typical of your arithmetic!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member said that in 1956 he was a young man of 36. [Interjections.] The hon member used the SAR under Mr Ben Schoeman as a basis for comparison with regard to the staff component and many other matters. He forgot, however, one thing. Thirty years ago the ton/kilometre figure was 31 000 million; this year it will be 94 000 million. In 1956&#x2014;in Mr Ben Schoeman&#x2019;s time&#x2014;expenditure was R328 million; this year it is R9 420 million. With a smaller staff, revenue was R335 million; this year it is R9 322 million. The capital investment at that stage was R76 million and it is now R1 047 million. When the hon member and Oom Ben were youngsters, they could not have run a business like this; it would have been impossible.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>They didn&#x2019;t have enough managers to do it.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member for Roodeplaat expressed very interesting ideas on future transport developments. We have not yet received a request for a railway line to kwaNdebele, however. If we receive such a request, the body that wants the railway line will have to guarantee it&#x2014;whether it is the Department of Constitutional Development and Planning or the relevant city council. That is how Khayelitsha&#x2019;s was guaranteed. We cannot build a railway line if we do not have certain written undertakings first. A guaranteed railway line was built from Bronkhorstspruit (Forfar Station) in kwaNdebele to Ekangala. The building has been completed but it is not yet operative. I shall take up the matter further with the hon member.</p>
+
+<p>&#x2020;The hon member for Bezuidenhout became very worked up about the bugging story. The man who wrote the speech for him did a wonderful job, but the delivery was not so good. The hon member pointed out that the Conditions of Employment (South African Transport Services) Act provides for individual and joint representation, conciliation and arbitration.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, on a point of order: The hon the Minister has implied that <span class="col_1537-1538" refersTo="page_0806"/>the speeches I deliver in this House are written by others, a practice which is against the Rules. I wrote that speech myself and ask the hon the Minister to withdraw his comment.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! That is not a point of order; the hon the Minister may continue.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, I accept that the hon member wrote the speech himself. He is Mr Melrose. He requested that an industrial conciliation council be established. May I give him the reply? As he pointed out yesterday, the Conditions of Employment (South African Transport Services) Act provides for individual and joint representation, conciliation and arbitration. However, the Federal Council of SATS Trade Unions indicated in 1984, that the relevant Act does not provide for negotiation and requested that the possibility of creating an industrial council for the SATS be investigated. The request for negotiating procedures was repeated in a recent letter from the federation. As this matter has already been broached by the federation and as I have indicated that I will discuss it with them on Monday, 10 March, I cannot, unfortunately, support the motion of the hon member. Let us leave it at that.</p>
+
+<p>The hon member for Standerton put certain questions about the gates and strict control on roads next to railway lines. We shall pay attention to that. I want to thank the hon member for his fine contribution; it is always a pleasure to listen to him.</p>
+
+<p>It is not pleasant to reply to someone like the hon member for Langlaagte since he is filled with resentment and dissatisfaction when he rises to speak. I cannot understand how anyone can address a person with so much fury and venom. I find it a pity that we are practising politics in this unsatisfactory way. It is so unnecessary. The hon member said he had letters from SATS officials who claimed I had told them they were members of the CP. The hon member said I was discriminating against that staff member, but I say he will not bring me a single letter.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Is the hon the Minister going to resign if he does bring a letter?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I have, in a joke, said to the chap sitting next to me in the aeroplane: &#x201C;How are you, my friend, are you a CP or a PFP?&#x201D;</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>But you do so in many other places as well!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Yes, but I never do it with hatred. I never do it to offend anyone.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>No, no, you do it in a joke!</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Langlaagte has had his turn to speak. The hon the Minister is speaking now.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>He also asked me a question about a Boeing in the White Book. We bought an Airbus A300 from Singapore Airlines in April 1985 for R54,92 million. The aircraft is part of our service and is not hired out. It is the aeroplane to which he referred yesterday.</p>
+
+<p>The hon member also said the Louw Geldenhuys staff residence looks terrible. How long is it since he was there? Repairs to the kitchen of the staff residence have been completed. The bedrooms and bathrooms are being repaired now and by the end of the year everything should be complete. The hon member referred to coir mattresses here yesterday, but there is not a single coir mattress in the whole hostel. Why must these things be said? He is trying to create the impression&#x2014;and ensuring that it gets into Hansard&#x2014;that millions of rands are being spent on a hostel for Blacks in the Delmas constituency, but that nothing is being done for the Whites. That hostel was built in Sentrarand in the Geduld constituency before my time, and not a cent was spent on Delmas. It is easy, however, to say such things and to create a wrong impression and make a joke of it!</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Mr <person refersTo="hansard_za">S P BARNARD</person>:</from>
+
+<p>You are bullying my people!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>That bitterness will not get you very far. I believe one should be honest.</p>
+
+<p>Supplementary to what the hon member <span class="col_1539-1540" refersTo="page_0807"/>for Soutpansberg said, I want to point out to him an important matter broached by the hon member for Klip River. He said SATS conveys fertiliser products, agricultural fertiliser, at a loss of R13,5 million. In addition he asks for that loss to be made good, since the SATS cannot sustain those losses alone. SATS is a public carrier, a public affair, and we do not do the work only to make a profit, but to render a service. That is why one would like people to say thank you now and again.</p>
+
+<p>The hon member also asked that before we dismiss people&#x2014;such as a driver who has transgressed and can no longer do the same work&#x2014;we should consider placing such a person in a different post. We shall consider this proposal of the hon member for Klip River.</p>
+
+<p>The hon member for Sundays River suggested a very fine and positive idea about a maritime museum in Cape Town. We are considering this and the matter is being investigated. The same applies to Salvokop. I thank the hon member for his contribution and assure him that we are considering it.</p>
+
+<p>The hon member for Greytown made a very positive speech yesterday, and I want to thank him for his idea on privatisation. The hon member for Port Elizabeth Central can easily say we must privatise the pipeline, but I know he is not serious.</p>
+
+<p>&#x2020;He cannot be serious when he says: &#x201C;Privatise the pipeline.&#x201D;</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Why not?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Why should we privatise the pipeline? There is no competition and one cannot privatise something without competition.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Of course one can.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>It can only be given to a responsible person like me&#x2014;it cannot be given to anybody.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Has the hon the Minister heard of public utility companies?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Yes, that is an alternative, but the Government must retain a stake in it.</p>
+
+<p>*The hon member for Greytown spoke Afrikaans and said we should privatise road transport as far as possible. We shall do that fully next year, but it should not be said that SATS should render no road transport services. Mini-buses and taxis have already been privatised, whereas certain services such as catering services are being investigated with a view to full privatisation.</p>
+
+<p>The hon member for Umlazi gave an interesting exposition of research projects, and I want to congratulate him on his contribution.</p>
+
+<p>The hon member for Gordonia made a suggestion in respect of short flights to Upington and said we should not provide meals on these flights. Why should we quarrel with the hon member for Soutpansberg about watery corned beef and always argue about food?</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>Take the meals away!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>That is a much better idea. Now we are friendly, however, and give the hon member a slice of watery meat, but then he is angry about it. [Interjections.]</p>
+
+</speech>
+
+<speech by="#langley">
+
+<from>*Mr <person refersTo="hansard_za">T LANGLEY</person>:</from>
+
+<p>You had a tradition of high quality food in the Airways. If you cannot maintain it, leave it! [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>I want to thank the hon member for Upington for drawing certain things about medium-sized jet aircraft to our attention. These are matters which will receive our attention. We shall consider using aeroplanes with 65 to 100 seats to comply with his requests. We shall raise the question in respect of entrance to the airport in the evenings with Civil Aviation.</p>
+
+<p>The hon member for Koedoespoort was terribly dissatisfied yesterday. He says if he comes to me with a voter&#x2019;s request, he achieves absolutely nothing. Sir, I have replied politely to every letter received from a CP Member of Parliament. Nor have I ever given an impolite reply to letters from PFP Members of Parliament. In addition they receive my immediate attention. The hon member for Koedoespoort says if he comes to me with a voter&#x2019;s request he gets absolutely <span class="col_1541-1542" refersTo="page_0808"/>no joy, but during the past 12 months the hon member has not written me one letter. [Interjections.] He comes here with that kind of insinuation, however. I think I must use his style too! I suppose I should say he is a rotten MP, and that he never writes me a letter.</p>
+
+<p>Business interrupted in accordance with Rule 47.</p>
+
+<p>Schedules, Clauses and Title agreed to.</p>
+
+<p><b>House Resumed:</b></p>
+
+<block name="quote">Bill reported without amendment.</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#statistics_amendment_bill">
+
+<heading>STATISTICS AMENDMENT BILL</heading>
+
+<summary>(Second Reading resumed)</summary>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, when the House adjourned the other evening, I was discussing the question of the appointment of a standing committee for this particular portfolio. I referred the hon the Minister to the fact that legislation that is dealt with by his department is of such importance that it warrants a separate standing committee.</p>
+
+<p>I would like to draw the hon the Minister&#x2019;s attention to the Bill which is going to be considered by this House in the near future, namely the Temporary Removal of Restrictions on Economic Activities Bill, which purports to give the State President tremendous powers. I believe that the particular standing committee to which the hon the Minister has referred the Bill is not the suitable committee to deal with that Bill and, therefore, it is imperative that a standing committee be appointed, so that the various parties can appoint the right people to handle this particular matter. It is a matter of the gravest importance, and the hon the Minister knows as well as I do that that Bill alone&#x2014;but also others that he will introduce in the future&#x2014;merits having a standing committee. I hope that, at the end this debate, he will tell us how he feels about the matter. It is no good simply saying that he will pass it on to any standing committee of his choice.</p>
+
+<p>One of the things that this House must realise is the importance of the standing committees. The only other place where one finds a similar type of standing committee is in the United States Congress. I have here in front of me the rules of the House of Representatives.</p>
+
+<p>It states that standing committees are permanent regular units with jurisdiction over certain subjects of legislation and law, and it shows how important a role they play. There is one very important difference between a standing committee in this House and those in the United States. Hearings by house committees as they are called and sub-committees in the United States are open to the public except where the committee by majority vote, while in public session, determines otherwise. Because of the fact that we hold our standing committee meetings here in camera, it is necessary to discuss the whole Bill in detail in this House, whereas in the United States they have a rule limiting the period which can be devoted to discussion of a Bill. Moreover, if the standing committees were open to the public, a lot of the work would be seen to be done there and it would probably make things much easier. So much for the standing committee and I hope that the hon the Minister will agree with me.</p>
+
+<p>I would like now to turn to the Bill itself. I say to the hon the Minister that in the period I have been in this House only three speeches had been made on statistics and I have made them. I want to say to the hon the Minister that my speeches on statistics have been on the three organisations that are responsible for it. That is the Department of Statistics, as it used to be, but now the Central Statistical Services, the Department of Agriculture and the Reserve Bank. I want to thank those three departments for the manner in which&#x2014;on each occasion&#x2014;they have replied to me in writing in great detail and to the great satisfaction of the various statisticians to whom I have been able to pass on their replies.</p>
+
+<p>I would say that I have in front of me here the Hansard of when I spoke in the last debate when the hon the Minister of Constitutional Development and Planning still had this department under his control. The hon the Minister told me that he could not reply to me in detail, but that the various departments would. On one and a half columns dealing with the Reserve Bank, I received a five page letter from the Governor of the Reserve Bank, personally signed by him, in <span class="col_1543-1544" refersTo="page_0809"/>which he explained all the details and why certain things are kept confidential and how the statistics will be improved. I will deal with that a little later.</p>
+
+<p>I want to deal with one or two matters which the hon the Minister has dealt with. He said that the Central Statistical Services should be the only authority issuing statistics. I think I must agree with him, but then he must make absolutely sure that the co-ordination that takes place between the Central Statistical Services and the departments is very close indeed. It is true that there is a great demand for statistics because one is unable to assess what the future of any country, business, organisation or any market will be unless one can deal with what has happened in the past and one has kept statistics. One will only then be able to adjust for the future. He also said that the number of respondents can be reduced with approved questionnaires. I would have thought, on the contrary, that if one has approved questionnaires one would possibly get more respondents, because the more respondents one can get the better one&#x2019;s sample is. One of the problems with statistical data is that often the numbers available are too few to get a proper assessment, but that I will leave to the statisticians.</p>
+
+<p>What I am very pleased about and which I must congratulate the hon the Minister on, is the composition of the Statistical Council. He is going out to private enterprise, the private economists in industry, banking and in various other facets of South African business, and he is going to get them to participate on the Statistical Council. What is more, he is going to pay them to do this particular job. They will not be full-time people. They are going to be part-time people. This is really an excellent move because he should be able to get the best of all the statisticians in South Africa and for that the hon the Minister should be congratulated.</p>
+
+<p>I should like to put one question to the hon the Minister, however. As I said to him previously, the statistics that one acquired that were of any value came from the Department of Statistics now Statistical Services, from the Department of Agriculture and also from the Reserve Bank. In his speech he makes mention of this but he fails to say how it will be done. I want to read to the House what the hon the Minister says in that particular speech. He says:</p>
+
+<block name="quote">Dit is die bedoeling dat hierdie bepaling ook van toepassing sal wees ten opsigte van instellings soos die Suid-Afrikaanse Reserwebank en owerheidsliggame soos die Raad vir Geesteswetenskaplike Navorsing.</block>
+
+<p>The Reserve Bank is probably one of our best sources of economic statistics. Their quarterly bulletin is of an extremely high standard, and the articles which appear in that particular journal are of an outstanding nature. I hope he is going to co-ordinate with the Reserve Bank rather than to try to control everything himself. I hope too that the hon the Minister will be able to explain exactly how this will all be co-ordinated.</p>
+
+<p>In conclusion, Sir, I want to deal with the value of statistics because this is very, very important indeed, and although we may not realise it hon members in this House at all times are quoting statistics left, right and centre. I have in front of me here quite a number of references which I have selected at random. We have just discussed the SA Transport Services Appropriation, and if one looks at the annual report of the SATS for 1984-85 one will find there a wealth of statistics in connection with how they run their business. It is important because without this one could not even try to understand that Budget.</p>
+
+<p>What is interesting, however, is that banks and other organisations too are continuously sending out their reports, all of which are based on statistics. It is also interesting of course to look at statistics from overseas. I have here in front of me two very important books. One is the <i>World Economic Outlook</i>, published in April 1985 by the International Monetary Fund. It is a survey by the staff of the International Monetary Fund. The other one is &#x201C;The Global Report to the President of the USA, titled <i>Entering the Twenty-First Century.</i> This is a book of about 1 000 pages full of statistics and in which an attempt is made to establish what is going to happen in and after the year 2000. When one reads a book of this particular nature one realise the problems which our country will have to face in the year 2000 are going to be colossal. It is, however, the assumptions they make in <span class="col_1545-1546" refersTo="page_0810"/>relation to South Africa, which are very interesting. In <i>World Economic Outlook</i> of April 1985 South Africa is treated as a country which is an exporter of primary products. When one looks at this &#x201C;Global Report&#x201D; and at the assumption made in relation to what South Africa is one gets an entirely different picture because in this report the assumption is made that South Africa is an industrialised nation and not an exporter of products. Therefore one finds that South Africa is listed together with Australia, Germany, the USA and the UK, while as an exporting country we find ourselves in a completely different category. That is one of the problems one encounters in any form of statistical analysis because there does come a time when one has to make certain assumptions, and if the assumptions that are made are not correct one gets a different result. That is why, as is often said, there are three types of lies. There is the outright lie, there is the white lie, and there are statistics.</p>
+
+<p>I should like to conclude by briefly quoting one or two things said in this book about the year 2000, which is almost upon us. It says here:</p>
+
+<block name="quote">Environmental problems will not stop at national boundaries. In the past decade we and other nations have come to recognise urgency of international efforts to protect our common boundaries.</block>
+
+<p>It also says:</p>
+
+<block name="quote">Government concern with trends in population, resources and the environment is not new. What is new in the more recent studies is the growing awareness of the interdependence of population, resources and environment.</block>
+
+<p>It is in this book too that one finds that certain things are going to happen which might be disastrous for South Africa. I would like the hon the Minister when he has an opportunity to try to read this book because this depicts what the future is going to be in the world in the year 2000 and beyond. It indicates how important it is that our statistics should be correct to provide us with correct information.</p>
+
+<p>The hon the Minister of Health Services and Welfare in this House a short while ago gave us a demographic analysis, which he had obtained from statistics, of what he thought would be the population growth in South Africa. One has to realise the impact of that demographic growth on our resources, on our financial resources, on our housing and on our whole well being. Without the correct sort of statistics we in this House will not be capable of doing anything. That is why I have great pleasure in supporting this Bill on behalf of the PFP.</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>Mr Chairman, I think the hon member for Bezuidenhout has made a good contribution with regard to this measure before us. However, I would like to go back to the speech that the hon member made last Monday with regard to this measure. I think he did a disservice to Parliament and to his colleagues in Parliament because of a remark that he made. I think he owes us an apology. He referred to the fact that the hon the Minister does not have a standing committee in Parliament. The hon member for Bezuidenhout would obviously like to be his party&#x2019;s spokesman on statistics.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>He is.</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>He is the spokesman and I suppose he is also the spokesman on public service matters. So I can understand that he would like us to have a standing committee dealing with those issues. I do not want to argue about the merits of why the Cabinet referred this specific legislation&#x2014;the measure on deregulation&#x2014;that the hon member referred to, to our committee. However, as a standing committee of Parliament we have to deal with it now. It was not our decision. I am the chairman of this standing committee but I did not ask the hon the Minister to refer this specific measure to us and neither did any member of the committee. However, we have to deal with it now. What does the hon member say? He says with regard to that measure being referred to our standing committee that most of us&#x2014;referring to the members of the standing committee&#x2014;know nothing about economics and privatisation or any of the points that may be relevant. I say therefore that he has done a disservice to Parliament because that measure has already been referred to the committee. In fact, we have asked <span class="col_1547-1548" refersTo="page_0811"/>people to give evidence before the committee. Now the hon member says the members of the standing committee are not fit to handle a matter of that nature.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>No!</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>Yes, he said it! He said that we know nothing about economics, and that measure deals with economics. He also says we know nothing of privatisation. What he has in fact said to all those people who will be coming to that committee to give evidence is that they are going to a committee of Parliament to give evidence on a matter that that committee deals with but whose members know nothing about economics or any other matters relating to the Bill. I therefore say that it is a scandalous remark that he has made. [Interjections.] If that is the way that he treats Parliament as an institution and if that is the way that he treats his colleagues, he should apologise to the hon members for Green Point and Johannesburg North who are the PFP members on that committee. He should apologise to them for what he has done and what he has said.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Mr Chairman, may I ask the hon member for Innesdal whether he is aware of the fact that the rules provide that there shall be a standing committee for every portfolio?</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>Yes, I do not want to argue with the hon the Chief Whip of the Official Opposition about the rules. I am just stressing the point that a Bill has been referred to the Standing Committee on Home Affairs and that the hon member for Bezuidenhout has belittled the members of that committee. How could he do that? [Interjections.] Like my colleagues I have met many parliamentarians from all over the world and I have always stood up for my colleagues in this Parliament wherever in the world I may be. I do this because I respect parliamentarians as persons who try to serve their country. I feel that hon member has created a wrong impression.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, may I ask the hon member if it is correct that the spokesmen of opposition parties cannot be allowed to participate in the debates on standing committees of which they are not able to be members?</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>The hon member knows what the procedure is. He could ask the hon members of his party if he could sit in on the committee. He could actually participate in the activities of the committee.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>No!</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>He can come there as a seconded member, can he not?</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>No!</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>Under no circumstances? [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I think we should try to move closer to the Bill.</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>Mr Chairman, I am coming to the Bill but it is of absolute importance that we should put this matter straight. Generally speaking, hon members of this House are more widely informed on more subjects than many members of other parliaments in the world. There are various reasons for this that I cannot debate. I respect my hon colleagues for their knowledge on economic affairs, racial matters and various other matters. I would under no circumstances belittle the hon members of my party or any hon members of Parliament in the way that that hon member did.</p>
+
+<p>I would like to get back to the Statistics Amendment Bill. My father was an artisan and I can well recall that on many occasions when my mother battled to get a new household appliance to work my father used to say to her: &#x201C;If at first you don&#x2019;t succeed, read the instructions.&#x201D; I feel that in regard to statistics all hon members in this Parliament can say the same. If we have problems regarding facts for a speech or any other matter, we can, if at first we do not succeed, consult the Central Statistical Services.</p>
+
+<p>I want to thank the officials who gave evidence before our committee on this specific matter. I think they did a fine job.</p>
+
+<p>*I want to refer to a specific clause in this Bill which is of very great importance to <span class="col_1549-1550" refersTo="page_0812"/>South Africa. It concerns the possibility of Ministers entering into an agreement so that statistics which are collected by certain departments can be made available to the Central Statistical Services. That is of vital importance. As parliamentarians we know the State departments lean more and more heavily on the information supplied to them by the Central Statistical Services. On occasion I asked a department for information which I expected them to have to hand immediately. They supplied me with the information, but told me afterwards they had got it from the Central Statistical Services. That is an example of the great measure of appreciation the State departments have for the Central Statistical Services.</p>
+
+<p>I want to refer to the significant Tomlinson Report of the early &#x2019;fifties. If one thinks that in 1986 we are already long past the Tomlinson Report&#x2019;s maximum projection of numbers of Blacks in South Africa, one realises how important it is for statistics to be as correct as possible. The Tomlinson Commission&#x2019;s report was based on the 1951 census. One now asks oneself whether the fault lay in the census, in the underdeveloped nature of South African society, in the lack of insight into the dynamic population explosion, or in other mistakes made in the projections.</p>
+
+<p>Even if it was a combination of all these possibilities, it is true that for years we based certain policy planning in South Africa on the statistics of the Tomlinson Report. If there is one example in the history of this country that proves how vitally important it is for statistics to be as correct as possible in order to eliminate serious mistakes, it is that Tomlinson Report.</p>
+
+<p>Here we now have a measure in terms of which the hon the Minister can enter into agreements with other Ministers to obtain information. During our discussions in the standing committee, the question was put to the officials and also to the hon the Minister who visited us, as to whether or not we should include a statutory obligation in the measure. The obligation is used in Canada. Their statistics legislation determines that despite the provisions in a certain law, the minister of a specific department or the department itself must give figures to the central statistical services. The hon the Minister and the officials argued that this measure, in terms of which agreements are entered into, goes far enough. We believe that is very important. The Department of Education and Training, the various departments of education themselves, the South African Reserve Bank to which the hon member referred, and a number of other State bodies have fantastic statistics, which are necessary to form a complete picture of the statistical realities in South Africa, at their disposal. One thinks for example of municipalities which have absolutely up-to-date information about the people living in those particular cities.</p>
+
+<p>If we were to reach the point where we could place an obligation on all government bodies and semi-government bodies as well as on the outside and semi-government bodies for the statistical information which is necessary for the State&#x2019;s collection, it can only be to South Africa&#x2019;s great advantage. As far as this specific provision, in terms of which the hon the Minister can enter into agreements, is concerned, we think it is a step forward which can mean a great deal to South Africa.</p>
+
+<p>While we are discussing this measure, we also just want to ask the hon the Minister whether it is not possible for the very fine information made available by the Department of Statistics annually to researchers and parliamentarians <i>inter alia</i> also to be made available to the general public as basic information in a more attractive and easily marketable form. I think, for example, that we are living in an age where we can use the electronic media and attractive graphic representations to inform our schoolchildren in next to no time, and inform them very well, on the facts of South Africa. I therefore think the Central Statistical Services can play a very important role if perhaps they can highlight basic truths that are of importance, to the ordinary man in the street or the general public, by means of statistical and other representations in a simpler, clearer way. That is very necessary.</p>
+
+<p>If I look at some of my children&#x2019;s school textbooks&#x2014;these are textbooks on which we spend quite considerable amounts of money&#x2014;I am astounded to see what figures our children often have to work with. Truly, Sir, one cannot believe that children can still work with that kind of basic information in 1986 and then still speak about the future. I therefore think it is important that the Central <span class="col_1551-1552" refersTo="page_0813"/>Statistical Services emerge with clearer, more easily interpretable and more easily digestible information about the great numerical realities of this country. In this way they can render a much greater service than is the case at present.</p>
+
+<p>Nevertheless we thank them for the statistical news releases they publish. I have a few copies of the statistical news releases here with me, and I know many of the hon members in the House subscribe to them. I do want to draw the hon the Minister&#x2019;s attention to the fact that more of these statistical news releases will be published during this year. They contain information which can be of great interest to all parliamentarians. I therefore want to ask the Minister, while we are discussing this measure&#x2014;and I hope he does not regard my request as uncalled-for or improper&#x2014;whether his department cannot arrange for all parliamentarians automatically to be placed on the Central Statistical Services&#x2019; distribution list instead of each Member of Parliament&#x2019;s having to write to the Central Statistical Services himself. We shall then all be supplied with these statistical news reports which contain statistical information about a great diversity of areas.</p>
+
+<p>I congratulate the hon the Minister on this new measure implemented by his department. My congratulations also go to the officials, and I want to mention by name Mr van Litsenborgh with whom we worked specifically here in Cape Town. Truly, there are few officials on the parliamentary scene who can get one information about any subject as quickly as he can. We also wish the officialdom in Pretoria the best of luck. There are several hundred officials who work very hard. We believe that bodies such as the HSRC and all other bodies in South Africa which deal with research will benefit a great deal from the implementation of this measure&#x2014;in the interests of research, and particularly in the interests of South Africa.</p>
+
+<p>We should therefore like to support this measure. I also want to convey my sincere thanks to all the members of the standing committee. They have worked hard and very diligently throughout. We should therefore like to support the measure.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, in the course of my speech I shall refer to the hon member for Innesdal on three occasions.</p>
+
+<p>I wish to start by making the first of those comments. In speaking of statistics in this House, I think that hon member in particular should look at the statistics concerning the by-elections which have taken place in South Africa since 1981. If the hon member were to do this, I believe he would be less enthusiastic. [Interjections.] I should like to see the statistics after the next election in Innesdal. [Interjections.] The conservatives will put up a particular candidate and I am sure there will be a different hon member for Innesdal after the election.</p>
+
+<p>There is a second point on which I wish to address the hon member for Innesdal.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>Him and his statistics on pension rights.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Yes. That second point is the <i>t&#x00EA;te-&#x00E1;-t&#x00EA;te</i> between him and the hon member for Bezuidenhout. After listening to both hon members, I wish to tell the hon member for Bezuidenhout he has my sympathy and understanding for his explanation and opinion.</p>
+
+<p>The new dispensation we have in South Africa, which was forced on us in many respects, comprises <i>inter alia</i> the element that standing committees should reach consensus. The hon member for Bezuidenhout is quite correct in saying that we as opposition parties also participate in these standing committees. I think it of paramount importance that, when the State President regards it as sufficiently vital to appoint a Minister to the Cabinet with a specific responsibility, he will then submit legislation to this House with the State machinery at his disposal so that there should be a specific standing committee for that Minister. With a view to the functioning of standing committees in accordance with Government wishes, I think it would place them in a much stronger position to elicit the best from members of Parliament as regards their contributions in standing committees. I wish to tell the hon member for Bezuidenhout that he has my sympathy and understanding in this respect; I do not believe that the arguments he put forward here were in any way countered by the hon member for Innesdal.</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from><span class="col_1553-1554" refersTo="page_0814"/>*Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>You were not present in the standing committee when these matters were discussed. You are hardly ever there and you remain quiet when you are.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I wish to tell the hon member for Innesdal I am spoiling for a fight&#x2014;especially with him. If he therefore wishes to start an argument on those matters, I shall be more than pleased. [Interjections.] I wish to tell the hon member he remains nervous. He should declare whether he stands by the hon the Minister of Foreign Affairs or the hon the Minister of National Education. [Interjections.] I wish to seize upon that matter because that hon member and I have an appointment yet in each other&#x2019;s constituencies where we are going to address each other on these matters.</p>
+
+<p>I wish to say that statistics sometimes seems a dry subject, especially to those who are not truly scientifically inclined or who do not actually view the problems of society with penetration. Nevertheless I think statistics tell a very important story in our modern society. In this respect I wish to remark that, even when one looks at a pretty young girl, her personal statistics are of importance.*</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>*Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Of vital importance.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I agree with the hon Chief Whip of the Official Opposition. They are of vital importance.</p>
+
+<p>I wish to point out that since earliest times human societies have required the underlying principles of the science of statistics for the regulation of those particular societies. Stability, security and prosperity flowed from that specific regulation for the society concerned. Even in the most primitive society rudimentary elements of statistics as we know them today were present. If even the most primitive societies intuitively applied principles of keeping statistics up to date, it is so much more important and vital to our modern societies of the twentieth century which is now approaching the twenty-first.</p>
+
+<p>I looked up an English encyclopaedia on the subject of statistics. I think it rather important for hon members to take note of this. I shall quote this in English&#x2014;such as my English is. This encyclopaedia has the following to say on statistics:</p>
+
+<block name="quote">(a) method of demonstrating facts concerning the social life of man based upon the quantitative observation of aggregates. The term is derived from <i>status,</i> in the sense of state or area of government, and was originally applied to any inquiry concerning the social or political conditions of the people without any particular regard to quantity. A nation or community naturally changes from minute to minute as regards the individuals composing it, but a careful study of aggregates shows that it possesses certain permanent features, or at any rate features that change gradually in a typical manner. The usefulness of figures may be admitted, since in a large community no observer or group of observers can apprehend any great social fact without their aid, yet their use is accompanied with certain dangers, usually in connection with the ignorant application of various aggregates, so that it is said that &#x201C;figures can prove anything&#x201D;.</block>
+
+<p>I think that a very neat summary of the essence of statistics.</p>
+
+<p>I wish to quote something else said by a very gifted man who was a past member of this House. I am referring to Dr Gideon Jacobs who recently wrote a very interesting book, <i>Beckoning Horizons.</i> When the relevant Act was discussed in 1976, that gentleman had the following to say <i>inter alia</i> on statistics:</p>
+
+<block name="quote">Daar word ges&#x00EA; dat &#x2019;n paar jong k&#x00EA;rels onlangs in Skandinawi&#x00EB; bewys het dat daar &#x2019;n statistiese korrelasie, &#x2019;n betekenisvolle statistiese verhouding, is tussen die aantal ooievare en die aantal babatjies wat in Skandinawi&#x00EB; gebore word. Hieruit kan &#x2019;n mens dus aflei, soos hulle ook probeer doen het, dat ooievare daar is om babatjies te bring.</block>
+
+<p>Dr Jacobs said that at the time because, as he put it himself:</p>
+
+<block name="quote">Ek noem dit net om aan te toon dat &#x2019;n mens syfers kan gebruik om werklik enigiets te bewys.</block>
+
+<p>I am quoting this particular passage on behalf <span class="col_1555-1556" refersTo="page_0815"/>of an exceptionally valued hon member of this House.</p>
+
+<p>I now wish to revert to the hon member for Innesdal&#x2019;s speech. The hon member has the figures relating to Blacks on the brain; I think he has nightmares about them. Prof Willem de Klerk, one of the most illustrious and eminent informants and policy formulators of the NP has a powerful influence on the hon member because Black numbers are the nightmare haunting that hon member. I wish to tell the hon member and Dr Willem de Klerk that, if they are so frightened of human numbers, they should start learning Chinese right now. If one does every relevant projection, it appears the Chinese will exceed us by far within 100, 200 or 300 years. As regards statistics, we in South Africa with our population problems should retain our perspective on the matter; one should not make projections in isolation. In this respect the hon member referred to the report of the Tomlinson Commission. It is dangerous to use this in making projections to such a degree that one eventually ousts oneself from one&#x2019;s own fatherland.</p>
+
+</speech>
+
+<speech by="#nothnagel">
+
+<from>*Mr <person refersTo="hansard_za">A E NOTHNAGEL</person>:</from>
+
+<p>What projections do you have for your homeland, Jan?</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I wish to tell the hon member that we will soon be taking over the government of this country in conjunction with the rightists and then we shall bring prosperity to South Africa with unshakeable principles and decent use of statistics. [Interjections.]</p>
+
+<p>The responsibility to be assumed by communities in future will be very great. Governments, public service, the private sector and all other facets of society will in future shoulder an enormous problem as regards the sound handling of the security and regulation of communities. I wish to add that advanced and improved human technical skills and creative power will be of great assistance in that. I wish to make the point, however, that human characteristics such as responsibility, self-discipline, cleanliness and many more that Paul wrote about will be highly necessary for the correct use of statistics in societies of the future. They will also be prerequisites for the significant work of the statistician.</p>
+
+<p>At a certain stage I was very proud of the hon the Minister; he is halfway to being a Van der Merwe. He will not find it too strange if we of the CP tell him that we have no confidence in the present Government&#x2014;to put it very euphemistically. Not only we of the CP have lost confidence in the Government but many voters out there are starting to do so to an increasing degree as indicated by the large numbers of people coming to us from the NP. I retain the particular impression, that, in an effort to delay its imminent fall, the Government is abusing or can abuse certain State departments and institutions the special task of which is to provide statistics for outside consumption in order to hold up so-called trends to the general public to suit the Government&#x2019;s book. I am becoming increasingly sceptical about all statistics now provided by the Government and its departments. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_for_administration_and_economic_advisory_services">
+
+<from>*The <person refersTo="hansard_za">MINISTER FOR ADMINISTRATION AND ECONOMIC ADVISORY SERVICES</person>:</from>
+
+<p>Mr Chairman, will the hon member please refer to a specific incident?</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I shall mention one. I regard certain statistics recently emanating from the HSRC as highly slanted. I shall speak on this later but I question the formulae and standpoints which emerge from the research of certain HSRC committees. That is one example.</p>
+
+</speech>
+
+<speech by="#hoon">
+
+<from>*Mr <person refersTo="hansard_za">J H HOON</person>:</from>
+
+<p>The State President says 80% of Whites support him.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>In conversation with the previous Leader of the Official Opposition, the State President said 80% of White voters supported the Government. Eighty per cent! In addition he said 50% of the Blacks supported the Government. Even the hon Minister, with all his good faith and confidence in the State President, has to agree with me today that this is incorrect. I repeat we are sceptical as regards the use the Government makes of statistics.</p>
+
+<p>A point I wish to add is that the Government is making the White part of South Africa a Third World state through its constitutional policy and constitution of the future. The inevitable consequence will be that Third World people will be able to rule this <span class="col_1557-1558" refersTo="page_0816"/>country in future under that specific government. Its machinery is one of the foundation pillars on which a state rests and now Third World people are being involved in that state machinery&#x2014;as regards statistics as well. That is why I wish to tell the hon the Minister we are not only sceptical about what this Government is doing; it is threatening our survival.</p>
+
+<p>Section 21 of the Statistics Act is being repealed which means that the Act will no longer apply to South West Africa. My colleague, the hon member for Soutpansberg, issued a statement yesterday on the CP standpoint regarding the announcement made by the State President. I wanted to read it out but cannot lay hands on it at present. I wish to say, however, that the repeal of this specific section concerns us and in consequence our support of the legislation today in no way means we support the Government in its plans for South West Africa. I have just found the relevant statement of the hon member for Soutpansberg which runs as follows:</p>
+
+<block name="quote">Die KP verwerp steeds Resolusie 435 as oplossing vir die Suidwes-Afrika-vraagstuk &#x2026;</block>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I am sure the hon member will agree with me that he is digressing a little from the legislation unless he wishes to bring it into his argument. I do not wish him to abuse the opportunity.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>Mr Chairman, it comprises only two sentences. I concede that you have to apply the Rules but I merely wish to formulate my standpoint briefly and explain the cause of our dissatisfaction.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I grant the hon member the opportunity for that on the assurance that he will remain within the limits.</p>
+
+</speech>
+
+<speech by="#van_der_merwe">
+
+<from>*Mr <person refersTo="hansard_za">H D K VAN DER MERWE</person>:</from>
+
+<p>I shall proceed with the statement I was reading:</p>
+
+<block name="quote">Alhoewel die KP pogings om die Kubane uit Angola te kry, verwelkom, wil hy daarop wys dat die aanvaarding van die Staatspresident se voorstel die begin bete ken van &#x2019;n kommunistiese Swapo-oor name van Suidwes-Afrika.</block>
+
+<p>Consequently I say we support the legislation with the proviso that we are sceptical of this Government and all its actions. In the second case we are not at all satisfied with the Government&#x2019;s handling of South West Africa.</p>
+
+</speech>
+
+<speech by="#fourie">
+
+<from>*Mr <person refersTo="hansard_za">A FOURIE</person>:</from>
+
+<p>Mr Chairman, it passes human understanding how the hon member for Rissik is able to support this legislation on statistics because they are opposed to Resolution 435. I cannot understand this and he had better explain it to us. I do not wish to enlarge on all the political arguments raised by the hon member here this afternoon in his discussion of the legislation because that would have us all declared out of order. The hon member did make one remark relating to statistics; he said we should examine the statistics on election results in South Africa.</p>
+
+<p>Let us put the matter into perspective and look at the situation since Soutpansberg I: Soutpansberg I was won by the NP; Stellenbosch by the NP; Waterberg by the CP; Waterkloof by the NP; Potgietersrus by the CP; Soutpansberg II by the CP; Pinetown by the PFP; Harrismith by the NP; Rosettenville by the NP; Bethlehem by the NP; Vryburg by the NP; Port Natal by the NP and Springs by the NP. The hon HNP member then snatched Sasolburg for that party but Parow, George and Newton Park were also won by the NP. In 17 by-elections the NP therefore won 12 seats, the CP three, the HNP one and the PFP one. I can only tell the hon member to go and have a look at the scoreboard. [Interjections.]</p>
+
+<p>The second argument the hon member for Rissik attempted to put forward here&#x2014;in this respect he joined the hon member for Bezuidenhout&#x2019;s bandwagon&#x2014;was to contend that there was no standing committee for the hon the Minister&#x2019;s portfolio. I believe the people who deal with the composition of standing committees&#x2014;the Speaker of this Parliament among others&#x2014;considered this matter most intensively. They certainly asked the hon the Minister&#x2019;s ministry how much legislation he would handle. It was decided that the Standing Committee on Home <span class="col_1559-1560" refersTo="page_0817"/>Affairs could handle that legislation as well.</p>
+
+<p>I now wish to tell the hon member for Bezuidenhout that we on the Government side are not to blame if the knowledge of hon members of opposition parties does not range somewhat further. I wish to cite one example to hon members. The Chairman of the Standing Committee on Home Affairs is also the Deputy Chairman of the NP Parliamentary Study Group on Trade and Industry. If that is the case, why can that standing committee not deal with the legislation about which the hon member made such a fuss?</p>
+
+<p>I wish to revert to the legislation because I think we ranged much further afield this afternoon and moved a great distance from the actual subject under discussion. Paperwork, filling in forms and details&#x2014;is naturally a great burden to many institutions and filling in forms creates intense resistance among people. [Interjections.] I believe respondents&#x2019; tardiness&#x2014;this was a subject on which the hon the Minister spoke in his Second Reading Speech&#x2014;to furnish basic information for the compilation of statistics may be ascribed to that. Although such disinclination exists among respondents, there is an increasing demand for statistics by other institutions as well as by individuals&#x2014;Members of Parliament among others.</p>
+
+<p>Statistics, just like newspapers, are merely a species <i>per se.</i> We always have a great deal to say about newspapers; we criticise them and say journalists have no manners and entrench themselves in places. Yet it is strange that the first thing one does is to run and buy a newspaper when one wishes to know what is happening when something is occurring somewhere. The same applies to statistics. We all dislike having to furnish details but we are very quick to descend on those people who compile statistics for South Africa when we require details on a specific subject. Although disinclination therefore exists among many people as regards the provision of statistics, there is also the need of those who wish to acquire them.</p>
+
+<p>The Minister is proposing this measure in the spirit of rationalisation and deregulation. I welcome it for the following reasons in particular: In the first place, this legislation prescribes a simplified and abbreviated type of form for people to complete. Secondly, there is a decrease in the number of questionnaires which are required. The most important of all the benefits the legislation contains is that a compromise has been reached between the needs of the user of statistics and those of the respondent who has to provide the information for the sake of statistics. In addition the present Statistics Advisory Council is being replaced by the proposed Statistics Council in which the private sector will play a much greater part.</p>
+
+<p>Viewed in the light of the process by which the private sector is becoming increasingly involved, we on this side of the House welcome the measure as the private sector will certainly benefit most from the information made available by statistics.</p>
+
+<p>We therefore welcome the status accorded the new Statistics Council, the fact that the chairman and deputy chairman of this council will be appointed from the private sector, as well as the fact that the State will be less involved.</p>
+
+<p>Those of us who are members of the NP study group dealing with this matter are very grateful to our colleagues on the standing committee because we think they have submitted an exceptionally good measure to the House&#x2014;a measure which particularly involves the private sector to a great extent.</p>
+
+<p>Lastly I should like to emphasise one aspect raised by my colleague the hon member for Innesdal, which is that the legislation provides that an agreement may now be entered into by Ministers or State departments in making information available to the statistics service. One can only hope that the sources of statistics, especially those of State departments, at the first, second and third tier of government, will be more readily available because one can ultimately plan decently in South Africa only if one has the necessary information on statistics which ought to be available. That is why we on this side of the House support this measure and we congratulate the hon the Minister on it.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Mr Chairman, if nothing else, I think we have all learned here this afternoon that statistics are wonderful things. Statistics can be bent, pulled, stretched, rounded or squared off. Even a Bill on statistics before this House can be bent in all different directions. We have heard an amazing array of subjects discussed under this Bill and I am quite amazed at the <span class="col_1561-1562" refersTo="page_0818"/>ingenuity of some people. However, I want to say that I personally am very grateful to the officials of the department for the enormous amount of assistance they gave us on the standing committee, the depth of knowledge that they imparted, for telling us what it was all about and explaining the detail to us.</p>
+
+<p>Having said that, I would now like to say a few words on the speech made by the hon member for Bezuidenhout. I want to say to the hon member for Bezuidenhout that I do not think there is anybody in this House that does not admire and respect his knowledge. I do not think there are many people in this House who study and know their subjects the way he does. He has proved this to us time and again. This afternoon he again made an interesting speech and he shared some of his knowledge with us. I listened to it and I found tremendously interesting. However, I want to say to the hon member in kindness that when people respect one&#x2019;s knowledge and when people admire one for it, one does oneself little service in saying the sort of thing he said when he made these remarks a few days ago, and I quote:</p>
+
+<block name="quote">I want to know how it happens that the hon the Minister is not entitled to his own standing committee with the right people to discuss these matters. How can he come to this House and truthfully say that he believes that the people who deal with home affairs are the right people to deal with his Bill? Most of them (in other words more than 50%; that is the only way I interpret most) know nothing about economics and privatisation or any of the points that might be raised.</block>
+
+<p>That was what he said. [Interjections.]</p>
+
+<p>When one says that sort of thing one only belittles oneself. That is all; one belittles oneself when passing that sort of comment. I sincerely believe that. The hon member for Johannesburg North sat on that committee and the hon member for Green Point sat on that committee. Would the hon member care to tell us which one of those two represents the &#x2018;most of them&#x2019; in that party? Obviously, if I quote my name, he will say well, yes, the member for Umhlanga, definitely; that is one who knows nothing. That is fair game. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! Hon members are talking too much and there are too many interjections. The hon member may proceed.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>Sir, I want to hear it from that hon member, and I think it would be interesting to hear, because we have a number of other people who serve on that committee. We have the hon member for Umlazi. Is he one of the &#x201C;most of them&#x201D;? We also have the hon nominated member Mr Kritzinger, the hon member for Johannesburg North, the hon member for Kimberley South, the hon member for Innesdal, the hon member for Rissik, the hon member for Green Point, and the hon member for Fauresmith. Which of these represent the more than 50% who know nothing? Also which of the seven hon members of the House of Representatives and which of the five hon members of the House of Delegates is he referring to, because, according to him, there must be four members of the House of Representatives and three of the House of Delegates who know nothing of these subjects. It is incredible that despite his complete lack of participation in connection with this matter he still concludes his speech by saying that he supports the Bill. What is even more incredible, Sir, is that there was only one amendment to this Bill. That amendment, Sir, I had the privilege of moving, and it was accepted by everybody, including the hon member for Green Point and the hon member for Johannesburg North&#x2014;and I thank them for that.</p>
+
+<p>I do, however, understand the hon member&#x2019;s frustration. I feel for him and I do have sympathy with his frustration but this is not the way to go about it. He should not insult people in this House. If he wants to belittle himself, fine! He has done so. I want to say that that hon member has himself reduced the level of respect in which he was held in this House. He has reduced the regard that people have for him, and he has done it by his own words and actions. He has done it to himself.</p>
+
+<p>This is a good measure and I repeat that we are grateful to the officials who attended to us. I believe something constructive will come out of this Bill. We would like to hear the hon Minister&#x2019;s replies to many of the questions raised here this afternoon. I would <span class="col_1563-1564" refersTo="page_0819"/>also like to congratulate other hon members on the level of debate and input we have witnessed here this afternoon. That, Sir, includes the hon member for Bezuidenhout, who, I repeat, knows his subject and speaks well.</p>
+
+</speech>
+
+<speech by="#schoeman">
+
+<from>*Mr <person refersTo="hansard_za">S J SCHOEMAN</person>:</from>
+
+<p>Mr Chairman, the hon member for Umhlanga will pardon me for not responding to him. He dealt effectively with the hon member for Bezuidenhout.</p>
+
+<p>One matter to emerge very clearly from the ranks of all parties this afternoon was the importance of statistics&#x2014;no one denied this. City, regional and town planners, as well as all other people making projections for the future, all depend on statistics. It is obviously necessary that statistics be as fresh, accurate and complete as possible for them to carry out this planning efficiently.</p>
+
+<p>There are two matters of importance in achieving this goal. In the first place there is a necessity for an institution to process, interpret and publish these statistics. In the second place this institution depends on information reaching it as speedily and in as comprehensive a form as possible. I believe we may say with justification this afternoon that the Government, as regards the Bill before us, has brought its house in order concerning the institution itself. As is set out clearly in clause 2, this amending Bill provides for a Statistics Council which will be better equipped to accomplish this task. In addition the responsible Minister is empowered to eliminate overlapping, as previous speakers have already indicated. In the event, as the hon the Minister said in his Second Reading speech, respondents&#x2019; burdens will be eased through the prospect of simpler and abbreviated questionnaires.</p>
+
+<p>Consequently it is clear that the institution which will deal with the interpretation, processing and distribution of these statistics will be capable of more effective action with this reference material. Nevertheless it is impossible for the Statistics Council to make statistics available if it does not receive the necessary information as soon as possible. I therefore wish to call upon the private sector this afternoon which is sometimes disinclined&#x2014;as the hon member for Turffontein indicated&#x2014;to return these forms and information, to concentrate afresh from their side as well on the rapid completion and return of the information upon which the statistical service is so dependent.</p>
+
+<p>There is a further matter I wish to discuss&#x2014;which has also emerged in this debate&#x2014;that statistics do not necessarily have to be colourless and uninteresting. The hon member for Innesdal also referred to the fact that the hon the Minister could perhaps devote attention to the possibility of marketing the product of the statistics services in a better and more interesting way. [Interjections.] There are hon members, like the hon member for Standerton, who obviously have experience of a different kind of statistics not under discussion now. [Interjections.]</p>
+
+<p>I regard this as a very good Bill and take pleasure in supporting it.</p>
+
+</speech>
+
+<speech by="#minister_for_administration_and_economic_advisory_services">
+
+<from>*The <person refersTo="hansard_za">MINISTER FOR ADMINISTRATION AND ECONOMIC ADVISORY SERVICES</person>:</from>
+
+<p>Mr Chairman, in the first place. I should like to thank all the hon members who took part in this debate. To begin with I also want to place on record a word of appreciation to the chairman and all the members of the standing committee who enquired into the legislation and did such a fine piece of work.</p>
+
+<p>&#x2020;I want to refer to what the hon member for Bezuidenhout said about a separate standing committee for my portfolio. Let me just explain to the hon member that when the motion was passed in this House that my portfolio should not have a separate standing committee the reasoning behind it was that not much legislation would be handled by this portfolio. That is still the case.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>That is why our caucus agreed to it.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The Standing Committee on Home Affairs is in fact for the purposes of legislation handled by me, my standing committee. [Interjections.] It has been referred to that standing committee by Mr Speaker. To say that that standing committee is not capable of handling this particular or other legislation is a reflection upon Mr Speaker. Hon members can read the Standing Order. Mr Speaker refers the legislation to that particular standing committee.</p>
+
+<p>I also want to point out to the hon member <span class="col_1565-1566" refersTo="page_0820"/>for Bezuidenhout that legislation with regard to privatisation and deregulation can flow from my duties. I agree with that. However, it is also possible that any such legislation will not be dealt with by me but by the specific department concerned and by the specific Minister dealing with that particular department.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>Then it is &#x201C;&#x2019;n gemors&#x201D;.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Let me explain to the hon member. I think the situation must be watched. If there is such need the hon member through his party will of course be able to make recommendations to Mr Speaker who will decide and judge on the matter. I want to assure the hon member that I have the fullest confidence in the standing committee and I do not feel in the least inferior because I do not have my own standing committee. As a matter of fact the State President does not have a standing committee either.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>For obvious reasons.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>The hon member expressed his appreciation, and I also have appreciation for the work that that hon member is doing. He also expressed appreciation for the work that the department and the employees of the State in that department do. I thank the hon member for that.</p>
+
+<p>He referred to co-ordination which is a very important factor in this particular department. He referred to the composition of the new Statistics Council and to the payment of its members. I invite the hon member, if he has any persons in the private sector in mind to be members of that council, to give their names to me&#x2014;I will appreciate it.</p>
+
+<p>The hon member referred to clause 4 of the Bill in respect of the work done by the Reserve Bank. I want to refer him to my introductory speech on this Bill in which I said the following:</p>
+
+<block name="quote">Dit is die bedoeling dat hierdie bepaling ook van toepassing sal wees ten opsigte van instellings soos die Suid-Afrikaanse Reserwebank en owerheidsliggame soos die Raad vir Geesteswetenskaplike Navorsing.</block>
+
+<p>Clause 4 clearly states that if any new information is to be obtained from any Government institution the Minister&#x2019;s approval is needed. The idea of this is to make the burden on the public as the respondents as light as possible. That principle also applies to the Reserve Bank and to the other bodies mentioned in my introductory speech. The important statistics collected by the Reserve Bank are also at the disposal of my department to prevent overlapping.</p>
+
+<p>*I should like to convey my sincere thanks to the hon member for Innesdal, the chairman of this standing committee, for his contribution as chairman and also for his contribution here today. He referred to clause 10 of the Bill in terms of which I can enter into agreements with other departments and provincial administrations. The hon member said the Bill should in fact have been more stringent so that I could compel other departments to co-operate with me. I appreciate that idea and it is not that it was not considered, but we have full confidence that we already have their full co-operation. There are indications that we shall get co-operation from all the departments so that it will not be necessary to put things so strongly.</p>
+
+<p>The hon member also referred to the vital importance of correct statistics. He referred in particular to the marketability or digestibility of the statistics that one collects. I think the hon member is quite correct in saying that. As far as that is concerned, I promise him today that we shall try to present it in a clearer, simpler and more digestible form.</p>
+
+<p>The hon member referred to a specific article. We should like to put it at the disposal of all hon members if they would like to have it. I think the hon member is welcome to take things further with the relevant department. We should like to know which hon members are really interested in statistics of that kind so that we do not over-burden them with excessive information which would be more of an irritation to them than an advantage. I think the matter has merit and the hon member is welcome to take it further. We should like to consider it.</p>
+
+<p>The hon member also expressed appreciation towards the officials and I thank him for that.</p>
+
+<p><span class="col_1567-1568" refersTo="page_0821"/>The hon member for Rissik&#x2014;if only he were half a Van der Merwe&#x2014;pointed out the importance of statistics in one of his lucid moments. He is quite correct. The hon member also referred to the hon member for Innesdal, however, and said he had the numbers of Blacks on the brain. The hon member for Rissik referred to the importance of statistics. Very well, that is one point. There is another important point which is connected to this, however: The hon member has to believe what the statistics tell him. He must also have the ability to interpret statistical information; otherwise he is asking my department to waste their time. [Interjections.] The hon member says he has no confidence in this Government. Well, that is his right. If I read the statistics correctly, however, two-thirds of the voters expressed their confidence in this Government during the last referendum. [Interjections.] I cannot help it if this hon member does not want to abide by the democratic process. [Interjections.]</p>
+
+<p>The hon member also made rather a vague accusation. I asked him to be specific but he did not reply well. In his charge he implied that we use statistics selectively to achieve our own objectives. When I asked him to specify, he referred to an HSRC finding. That is research, surely. Once again I want to tell the hon member he must not look at research and then make accusations if he does not like the results. The hon member likes quoting from the Bible. I want to do so too. The hon member will remember that in the Old Testament there were cases in which the people assaulted the prophets because they did not like their prophecies. [Interjections.] If one does not like certain findings, there is no point in attacking them and trying to cast suspicion on them. I can assure the hon member that as far as my department and I are concerned, we shall publish the statistics as we have received them. We have done so already, and shall do so in future.</p>
+
+<p>I should now like to refer to the hon member for Turffontein. He mentioned the political statistics for the information of and on behalf of the hon member for Rissik. In doing this he admonished the hon member for Rissik a bit. In addition he referred to the resistance of respondents on the one hand&#x2014;and I admit a great deal of paperwork and administrative work is attached to this&#x2014;but on the other hand he also referred to the great demand for statistics by the people who use the information. One has to strike the happy mean between these two poles, as it were. We have tried to do so by sending out fewer questionnaires, putting fewer questions, and composing the Statistics Council in such a way&#x2014;and I give the hon member this assurance&#x2014;that both the users of statistical information and the supplies of this information are well represented in this council. All that remains is a department to co-ordinate properly all the information collected on various aspects of the country so that there need not be any duplication. I appreciate the hon member&#x2019;s contribution.</p>
+
+<p>&#x2020;The hon member for Umhlanga referred with appreciation to the work done by the department and I thank him very much for that. He also referred to the remarks made by the hon member for Bezuidenhout, and I must say that I agree entirely with what the hon member had to say in that respect. He is, after all, a member of the standing committee and I should like to reiterate that I have the fullest confidence in that committee. The hon member for Bezuidenhout should speak to his caucus in an effort to become a member of that standing committee.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>I cannot, because the two other PFP members are already nominated.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, in conclusion I should like to refer to the hon member Mr S J Schoeman. He said there should be an institution and there should be information. The hon member is quite correct. When it has to be done efficiently, I want to add that there should also be good co-operation between those who have to respond and those who have to collect the information. There should be a good spirit, therefore, and I give the hon member the assurance that I shall do something about promoting the spirit between the private sector and the Government sector at all times, in order to make a success of this important matter of statistics. I thank the hon members who took part in the debate.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, will the hon the Minister take a question?</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from><span class="col_1569-1570" refersTo="page_0822"/>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>The hon the Minister is prepared to take a question.</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, in the light of the hon the Minister&#x2019;s refusal to ask for a separate committee, will he recommend to Mr Speaker that where Bills are introduced that have relevance to his department, two other members may be substituted for the two representatives of Home Affairs on that particular Bill?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, I do not think that I can furnish a reply here. I cannot reply on Mr Speaker&#x2019;s behalf or on behalf of the Committees on Standing Rules and Orders. I certainly cannot do so here.</p>
+
+</speech>
+
+<speech by="#bamford">
+
+<from>Mr <person refersTo="hansard_za">B R BAMFORD</person>:</from>
+
+<p>If you can&#x2019;t answer that, you can&#x2019;t answer anything.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I want to point out to the hon member for Groote Schuur that the hon the Minister is doing the hon member for Bezuidenhout the courtesy of replying to his question after having resumed his seat. I suggest that he gives the hon the Minister an opportunity to answer the question. Has the hon the Minister completed his reply?</p>
+
+</speech>
+
+<speech by="#sive">
+
+<from>Maj <person refersTo="hansard_za">R SIVE</person>:</from>
+
+<p>Mr Chairman, arising out of the hon the Minister&#x2019;s reply &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! No, I will not allow another question. This has gone far enough.</p>
+
+<p>Question agreed to.</p>
+
+<p>Bill read a second time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#unemployment_insurance_amendment_bill">
+
+<heading>UNEMPLOYMENT INSURANCE AMENDMENT BILL</heading>
+
+<summary>(Second Reading)</summary>
+
+<p><i>Introductory speech as delivered in House of Representatives on 13 February, and tabled in House of Assembly</i></p>
+
+<speech by="#minister_of_manpower">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF MANPOWER</person>:</from>
+
+<p>Mr Chairman, I move:</p>
+
+<block name="quote">That the Bill be now read a second time.</block>
+
+<p>I should like to thank the Chairman and the hon members of the Standing Committee on Manpower sincerely for the kind spirit of cooperation and for the splendid way in which the Unemployment Insurance Amendment Bill, 1986, was disposed of.</p>
+
+<p>The Unemployment Insurance Board, on which employers&#x2019; organisations and trade unions have equal representation, gives constant attention, together with the Department of Manpower, both to the streamlining of procedures and to the provisions of the Act. For this purpose a permanent subcommittee has been appointed to look into all the provisions of the Act and make the necessary recommendations.</p>
+
+<p>The object of the amendments now before Parliament is to overcome current, practical problems experienced in the implementation of certain existing provisions of the Act, thereby improving the functioning of the Fund, this being the forerunner to certain further proposed amendments for the 1987 session.</p>
+
+<p>As far as the envisaged amendments are concerned, the purpose of clauses 1 and 2 of the amending Bill is to include labour-brokers, of which 236 are registered with the Department of Manpower, as employers and people whom they hire out, as contributors to the Unemployment Insurance Fund. Thus these relevant people will also be safeguarded.</p>
+
+<p>The amendment proposed in clause 4, in respect of the payment for administrative services rendered by the Department of Manpower to the Fund, will improve the availability and the flow of funds for this purpose in tight economic times. This will mean that posts will not be frozen and that it will be possible for staff to be appointed quickly in times of increasing unemployment, thus militating against the build-up of a big backlog in the payment of claims.</p>
+
+<p>In future the Treasury will no longer have to make funds available to the Department of Manpower to enable the Fund, which obtains its income mainly from contributions from employers and employees, to meet its expenses on administrative services, and it will be possible to separate this funding from the department&#x2019;s budget.</p>
+
+<p><span class="col_1571-1572" refersTo="page_0823"/>At present provision is only being made for at least eight and at most 16 members of the Unemployment Insurance Board. In the light of the growing number of employers and contributors, it is necessary to make provision for an increase in membership. As a result it will be possible to accommodate other organisations which are deemed competent to serve on the board, and also a better representation of other population groups. The period of 30 days in which to appeal to the Unemployment Benefit Committee concerned against the ruling of a claims officer, has been extended to 90 days to prevent unemployment contributors being prejudiced.</p>
+
+<p>In clause 7 it is proposed that the powers of the Unemployment Insurance Board be delegated to claims officers to empower them to approve payments to minor children and other dependents of deceased contributors. This will result in those needy persons receiving their benefits sooner.</p>
+
+<p>Provision is being made for protecting the rights of beneficiaries, so that if kwaNdebele obtains its independence, those benefits will still be paid by the RSA Fund.</p>
+
+<p>An enabling provision is also being inserted to make provision for the utilisation of funds of the Unemployment Insurance Fund so that an agreed lump sum can be paid to KwaNdebele upon the attainment of independence, thus enabling that government to establish its own fund, if it so wishes.</p>
+
+<p>Mr Chairman, this is what the envisaged amendments chiefly entail. I trust they will meet with hon members&#x2019; approval.</p>
+
+<p><i>Second Reading resumed</i></p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>Mr Chairman, the Unemployment Insurance Amendment Bill is a purely routine measure. It deals with such matters as the inclusion of brokers as employers. It arranges for the department to be paid monthly by the State Revenue Fund with consequent administrative advantages. Moreover, it allows for the expansion of the board and certain other completely mundane functions.</p>
+
+<p>We on this side of the House will be supporting the Bill. However, the importance of this Bill is something else entirely. Its importance lies in the fact that it serves as a window onto the economy as a whole. The attention of this House should be drawn to the failure of this Government to manage the political economy. All these factors are revealed in the Bill before us.</p>
+
+<p>In any other country in the world, the statistics pertaining to our Unemployment Insurance Fund would serve as a fitting epitaph to a government that the electorate had discarded and buried. Yet no statistics&#x2014;or very few&#x2014;pertaining to Blacks are included. In the space of 12 months, the fund&#x2019;s accumulated reserves dropped from R242 million to R133 million. There are 40 000 new applications for unemployment benefits every month. There is a monthly deficit on income against expenditure to the tune of R15 million and for the past 12 months, monthly expenditure has been approximately double the amount of monthly income.</p>
+
+<p>In an attempt to salvage this fund from total bankruptcy, employers&#x2019; contributions to the fund have been increased 233% and employees&#x2019; contributions by 40%. The Government has agreed to sink a further R75 million into the fund. One cannot say that this is a country&#x2019;s normal social security net doing its work. Overseas one finds that in a time of economic crisis these nets come into operation and assist people who, through no fault of their own finds themselves unemployed.</p>
+
+<p>Blacks are largely excluded from participation in the Unemployment Insurance Fund. The hon the Minister for Administration and Economic Advisory Services asked the hon member for Rissik a short while ago to give him an example of a statistic that is totally unrealiable. The unemployment statistics for Blacks virtually do not exist; but worse than that is the fact that the statistics that we have are worth absolutely nothing. I have here a statement by Mr Charles Meth, an economics lecturer at the University of Natal. He points out that in modern sector employment about 1 136 000 of the Black workers listed in the current population survey are missing from the labour statistics. Unemployment would rise from 8% to 16% if these people were included, which is what a large number of people consider it to be, while quite a number people consider it to be even higher than that.</p>
+
+<p>Despite the fact that one of the terms of reference of the Unemployment Insurance <span class="col_1573-1574" refersTo="page_0824"/>Board is to &#x201C;keep statistics and records of the incidence of unemployment&#x201D;, these records are totally misleading. In 1983 Professor Keenan said: &#x201C;Government figures on unemployment are not worth the paper they are written on.&#x201D; They have not improved since then. The statistics, for example, do not include figures for the TBVC states to which the unemployment can be sent back. They cover only people who bother to register, and as the majority of Blacks are not eligible for benefits provided by the Unemployment Insurance Fund, they obviously do not bother to register at a time of economic recession. Mr Charles Simkins of the University of Cape Town estimated that there were two million Blacks unemployed, including those in independent Black states, at a time when the official statistic was 44 000. According to his estimate, the percentage of the economically active population which was unemployed was 11,8% in 1970, 21,1% in 1981 and 24% in 1983. I am sure that the figure for 1985 will be large enough to frighten anybody. Vista University recently conducted a survey in the Black townships of Port Elizabeth and Uitenhage, areas in which approximately 400 000 people live. We may certainly assume that the survey was impartial. It was established that in excess of 56% of males were unemployed.</p>
+
+<p>It is obvious that Government figures are wrong and that the Government knows this. One can only conclude that it continues to produce them in order to mislead the public. As usually happens in a case like this, the Government ends up by getting the wrong signals itself and so fails to take timeous action.</p>
+
+<p>The human misery, anger and despair implicit in cold statistics are more clearly seen in the crowds in Black townships responding to the speeches of people advocating alternative political systems than in these statistics. What reason has a youth who has struggled for his education in almost impossible circumstances, who has no job or even the likelihood of one, for supporting the free enterprise system?</p>
+
+<p>This House must be aware that we are looking at an almost exclusively private sector tragedy. As in Russia, the bureaucracy becomes bigger, better rewarded and more powerful each year. The hon the Minister of Transport Affairs tells us with some pride that the reduction in SATS employees has been achieved without retrenchment. The Statistical Bulletin of December 1985 indicates that Government employees actually increased in number over two years. In the private sector, hundreds of thousands were dismissed in the same period. The private sector is bearing the load of this policy of the Government of trying to rectify its own excesses. The bulk of these people are not eligible for unemployment benefits. They do not know where money for food, rent and education is going to come from. I was talking to the managing director of a company with which I was closely associated before coming to Parliament. He told me that in the past two years they had retrenched 17 800 people out of a work force of 34 000. That is an indication of the load the private sector carries.</p>
+
+<p>I have to sit in this House and watch hon members of the Government vie with hon members of the CP to see who can cry most crocodile tears over the lot of the railwayman. It is about time that people started telling some truths in this House. I feel sorry for anybody who has to live with an inflation rate of 20% per annum. However, the people who are carrying the burden of Government mismanagement are in the private sector which is the wealth-producing sector. Although the bureaucracy is important because it carries out a service function, it does not create the basic wealth of the country.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! I think the hon member must give me an indication of the clause he is discussing or planning to discuss.</p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>Mr Chairman, if I may address you on that, the whole Bill focuses on unemployment.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>Order! The rules of the House specify that on an amending Bill one may discuss only the clauses under consideration and not the concept or principle as a whole. I think the hon member will agree that I have given him a certain amount of latitude, and I request him now to address himself to the essence of the Bill</p>
+
+</speech>
+
+<speech by="#savage">
+
+<from>Mr <person refersTo="hansard_za">A SAVAGE</person>:</from>
+
+<p>All right, Mr Chairman.</p>
+
+<p><span class="col_1575-1576" refersTo="page_0825"/>When the chief executive of a company considers the remuneration level of employees, normally annually, he does so completely differently to the way in which the bureaucracy does it. Therefore, the escalation in Government spending because of the bureaucracy is far greater and far worse than it would appear from an analysis of just salary increases.</p>
+
+<p>We feel that this Bill must be passed. It reflects an administrative necessity, and we have already gone along with it in the standing committee. Sir, I had a very good speech prepared but unfortunately I cannot make it. [Interjections.] We will be supporting the legislation.</p>
+
+</speech>
+
+<speech by="#landman">
+
+<from>*Mr <person refersTo="hansard_za">W J LANDMAN</person>:</from>
+
+<p>Mr Chairman, in the first place I want to convey our thanks on behalf of the chairman of the standing committee for the manner in which this legislation was discussed in the standing committee.</p>
+
+<p>If I listened well to the speech of the hon member for Walmer, he said a great deal which in reality has nothing to do with this amendment of the legislation. [Interjections.] At hardly any stage of his speech did he refer to clauses in this legislation. In addition, he made the statement that Blacks are excluded from this benefit. That is absolutely untrue!</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, may I ask the hon member a question?</p>
+
+</speech>
+
+<speech by="#landman">
+
+<from>*Mr <person refersTo="hansard_za">W J LANDMAN</person>:</from>
+
+<p>No, Sir, he can ask it later; perhaps I shall reply to him during the course of my speech in any case. [Interjections.]</p>
+
+<p>We heard something from the side of the Official Opposition which is almost unheard of. I suppose we must go and ask people in the street whether they get benefits from an unemployment fund. I suppose we must tell them please to go and have themselves registered so that we can give them money. I really think it is the worker&#x2019;s task to ensure that he is registered, so that he can claim benefits from the Unemployment Insurance Fund if he is unemployed. I do not know what the Official Opposition expects in this connection.</p>
+
+<p>I want to refer to these amendments. Who are the parties involved? They are the employers&#x2019; organisations and the trade unions. They are the people who came to the House and to the Government with the recommendations. We have accepted their recommendations for the amendments. They came and asked us to accept these amendments.</p>
+
+<p>I want to agree with the hon member for Walmer that because of the economic slump and the negative growth-rate during the past years, there has been a considerable increase in unemployment. Certain undertakings had to cut down on labour and some of them even closed their doors. That caused a great deal of unemployment.</p>
+
+<p>The Unemployment Insurance Fund gained a greater and more important role in giving the growing number of unemployed people financial assistance during this bridging period. The increasing growth of unemployment has brought greater pressure to bear upon this fund. That is why it has become compulsory for the employer as well as the employee to make a greater contribution in order to supply the demand.</p>
+
+<p>It is true that formerly there was less unemployment. During the 1980-82 period this fund was completely self-sufficient, but in 1983 there was a deficit of R25 million. Fortunately it decreased again in 1984 to only R3,25 million.</p>
+
+<p>We must also ask ourselves, however, how big the amounts contributed to this fund are. In 1982 the amount was R126,2 million; in 1983, R147,2 million; and in 1984, R173,8 million.</p>
+
+<p>Who are the people who keep this fund going? They are the employees and the employers. During the period I have just mentioned we had contributions of 5,08 million, 4,03 million and 4,2 million to this fund. The Official Opposition had a great deal to say on the subject of payments. In 1982 payments were made to 252 623 people, in 1983 to 314 407 people and in 1984 to 303 870 people.</p>
+
+<p>Another factor which contributed to immense pressure being brought to bear upon this fund, was that the ceiling of the annual salary of workers who can come into consideration for the compensation, was increased from R21 600 to R26 000. A person earning R26 000 per year who loses his job can therefore also lay claim to compensation from this fund. [Interjections.]</p>
+
+<p>Let us look now at the clauses of this Bill. <span class="col_1577-1578" refersTo="page_0826"/>Clause 2 merely points out that all bodies that supply people with work have to be registered as employers. I think it is a good idea that all employers have to register themselves and contribute to the Unemployment Insurance Fund.</p>
+
+<p>I also refer to para (b) of clause 3, to which the hon member for Walmer referred as well. It refers to the fact that Blacks are not assisted. This paragraph provides specifically that when a State becomes independent, an amount of money which will be agreed upon, will be paid to that state so that the unemployed people who qualify for compensation from the Unemployment Insurance Fund will not suffer any losses. They too will be able to claim compensation from this fund.</p>
+
+<p>Clause 4 is very important since it streamlines the payment of this money to a much greater extent. I want to point out to the hon the Minister that there are people in my constituency who have had to sell some of their furniture and other personal possessions to make a living because there was such a long delay in the payment of money to unemployed people.</p>
+
+<p>Clause 5 provides for an increase in the number of board members. At present they are restricted to 16. My hon colleague will elaborate further upon that.</p>
+
+<p>Clause 6 provides for an appeal being lodged within 90 days, whereas at present it is 30 days. I think that is a wonderful improvement, since people have always complained that there is too little time to raise objections.</p>
+
+<p>Clause 8 provides for the Minister to delegate some of his powers to an official in his department. This is something that is done country-wide and one has no objection to it.</p>
+
+<p>Clause 9 provides for a fine of R500, increased from R200, upon conviction. I do not think anyone can object to that since this is by no means an excessive amount.</p>
+
+<p>In conclusion I merely want to say I think these amendments are only in the interests of the workers. Anyone who does not support these amendments surely does not have the interests of the workers in South Africa at heart. Therefore we should like to support this Bill.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, I should like to associate myself with the hon member for Carletonville in the appreciation he has expressed towards the hon member for Roodeplaat, who was the chairman of this standing committee. The hon member for Roodeplaat handled the affairs dealt with by that committee in a very diplomatic and capable way.</p>
+
+<p>I want to tell the hon member I think it is a bit unsympathetic of him to place the onus entirely on the employer to register himself with the unemployment commissioner in certain circumstances. It is true that the employer should do so, but I think he should be encouraged to do so. There are also many employees who are not aware of the benefits they are entitled to as a result of their unemployment. I think one should have a bit more compassion for the workers than was displayed by the hon member. On the other hand, I do not think he did it on purpose.</p>
+
+<p>The hon member spoke about the greater unemployment figures as well as the amounts which are paid out. We must take into account that the value of the rand has dropped. As a result, the worker does not get more money in real terms. He is paid more in figures only&#x2014;that is in rands and cents&#x2014;but in real terms he actually gets less than when the legislation was promulgated in the first place.</p>
+
+<p>I also want to remind the hon member that before the referendum the NP said on television and on radio and in their newspapers that the millenium would dawn in South Africa if only the voters would vote &#x201C;yes&#x201D;. They promised then that there would be no unemployment, no chaos and no rebellion and unrest. They promised as it were, that we would live in a land of milk and honey. [Interjections.] Yet we come here constantly to draw up laws which are meant to protect unemployed people or to institute better conditions for workers.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>They cannot even get across the Rubicon.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>The hon member for Umhlanga says he cannot even get them over the Rubicon.</p>
+
+</speech>
+
+<speech by="#page">
+
+<from>Mr <person refersTo="hansard_za">B W B PAGE</person>:</from>
+
+<p>We are in the middle of it up to our noses. [Interjections.]</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>We did discuss this <span class="col_1579-1580" refersTo="page_0827"/>Bill in the standing committee, but we are opposed to one clause. Since the Bill cannot be discussed in the committee stage here, we have no choice but to vote against this Bill, despite the fact that we accept a number of provisions in it. We accept that the labour broker is now also included in the definition of &#x201C;employer&#x201D;. We are also in favour of the provision being made for powers of delegation, particularly the timeous arrangements made to organise KwaNdebele&#x2019;s independence and the assistance of employees of that state in case they become unemployed once the state has become independent. We are particularly pleased with the fact that the period allowed for lodging an appeal against a ruling of the Board is being increased to 90 days. In this connection I should like to agree with one aspect of what the hon member for Walmer said, viz that&#x2014;we said it in the no confidence debate as well and I hope the hon the Minister will take cognisance&#x2014;there is a terrible delay in the payment of unemployment insurance. Those complaints are constantly being received in the Rand constituencies, and it would be a good thing if the hon the Minister would make an effort to ensure that his department speeds up the payment of this money.</p>
+
+<p>We have reservations regarding clause 4. It is claimed that the value of the services rendered by officials of the Department of Manpower for the benefit of the fund actually represents only their salaries. That is not said in Act, however, and therefore it can theoretically be determined by discretion. That is why we feel the determination of the value of the services should still take place in consultation with the Treasury. This should be done unless the clause is amended in such a way that it determines definitely that this money paid to the department consists of only the salaries of the officials who work for the Unemployment Insurance Fund.</p>
+
+<p>Our actual objection to the Bill revolves around clause 5 which determines that the maximum number of board members be increased from 16 to 30. The reason for this is that more trade unions have come about and that confederations are being established as well. There are more Blacks, therefore, who are members of trade unions now. If one extends that board, the balance will be disturbed, and the danger exists that Black confederations and Black trade unions will have the majority in the Unemployment Insurance Board. That will bring about an unacceptable situation in White South Africa if the Unemployment Insurance Board is controlled by representatives of the Black Trade Unions. It will result in this board having a dominance of Black employees. This is contrary to the CP policy and that is why we cannot vote for this clause and therefore cannot support the amending Bill and will oppose it at the Second Reading.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>*Mr <person refersTo="hansard_za">P H PRETORIUS</person>:</from>
+
+<p>Mr Chairman, the changed circumstances in the labour field have necessitated this legislation. We have heard this repeatedly. Provision therefore has to be made now for the continuation of the unemployment insurance benefits which will be payable to workers of kwaNdebele once kwaNdebele has become independent. Provision also has to be made through legislation now for the continuance of an unemployment insurance fund in kwaNdebele once this state has become independent, if they should accept independence. The increase in the number of claims handled by the Unemployment Insurance Fund has made it necessary for the hon the Minister of Manpower, or an official appointed by him, to be authorised to appoint anyone as an inspector, in accordance with the legislation, naturally taking the laws concerning the public service into account. This amending Bill also seeks to authorise the board, subject to certain conditions, to delegate certain powers to a claims officer or an employee appointed to assist a claims officer. Because of the large increase in the membership of registered as well as unregistered trade unions, it has become necessary to increase the number of board members to ensure better representation on the board. This bigger board will entail that as the membership of trade unions increases, representatives can be accommodated in the board. The hon member for Brakpan, who is leaving the House at the moment, has objections to this clause. Unfortunately he did not tell us how his party would deal with this situation, since a specific trade union may not be refused representation. If there is equal representation, and we do not begrudge a Black trade union that, eventually we are going to end up in a situation in which we have to give it to everyone; there can be no distinction. It is <span class="col_1581-1582" refersTo="page_0828"/>a pity the hon member did not say how the CP would deal with a situation of this kind. It sounds, therefore, as if the trade union may be disregarded completely; the CP will not recognise a Black trade union at all.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>That is correct.</p>
+
+</speech>
+
+<speech by="#pretorius">
+
+<from>*Mr <person refersTo="hansard_za">P H PRETORIUS</person>:</from>
+
+<p>That will lead to a very difficult situation. When will the members of such a trade union who lose their jobs ever get the opportunity of putting their case? How will a platform ever be created on which the unemployed Black will be able to convey his point of view to this board through his own trade union?</p>
+
+<p>The Department of Manpower handles the administrative function of the Unemployment Insurance Fund. The fund is responsible, however, for the real expenditure incurred by the department in the rendering of the service. The premise is that the real expenditure will be made good by the department. Where in the past, after the end of the financial year, the Director-General determined the value of the services rendered to the fund in consultation with the Treasury, under this amending Bill the value of the services will be determined at the end of each month. The amount then has to be paid from the State Revenue Fund as soon as possible after the end of the month and the Unemployment Insurance Fund then has to repay the money to the State Revenue Fund. The objective of this amendment is to facilitate the administration and to place the responsibility on the shoulders of the chief accounting officer, the Director-General of the Department of Manpower.</p>
+
+<p>In a further amendment the Act also includes a labour broker as an employer. The perio of 30 days in which a contributor to the fund can appeal to the unemployment benefit committee against the ruling of the claims officer is being increased to 90 days, to prevent unemployed contributors from being detrimentally affected. This increase of the period in which appeal can be lodged means that people cannot be excluded or detrimentally affected.</p>
+
+<p>I should like to support this amending Bill.</p>
+
+</speech>
+
+<speech by="#rogers">
+
+<from>Mr <person refersTo="hansard_za">P R C ROGERS</person>:</from>
+
+<p>Mr Chairman, I am sure the hon member will not mind if I do not follow on his argument, as I should like to take up a point with the hon member for Carltonville. When he reacted to a point made by the hon member for Walmer, he said that all Blacks were entitled to benefits from this fund which, of course, is a very sweeping statement and is entirely inaccurate, because none of the Black farm workers in this country are entitled to those benefits. Their employers do not contribute to the fund.</p>
+
+</speech>
+
+<speech by="#minister_of_manpower">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MANPOWER</person>:</from>
+
+<p>White farm workers as well!</p>
+
+</speech>
+
+<speech by="#rogers">
+
+<from>Mr <person refersTo="hansard_za">P R C ROGERS</person>:</from>
+
+<p>He talked about Blacks. I am not talking about Whites. I am also talking about Blacks. [Interjections.]</p>
+
+</speech>
+
+<speech by="#minister_of_manpower">
+
+<from>The <person refersTo="hansard_za">MINISTER OF MANPOWER</person>:</from>
+
+<p>But you must give all the facts, not only those relating to one group. There is no discrimination.</p>
+
+</speech>
+
+<speech by="#rogers">
+
+<from>Mr <person refersTo="hansard_za">P R C ROGERS</person>:</from>
+
+<p>The hon the Minister must not get so touchy. That hon member talked about Blacks, and I am reacting to his point about Blacks.</p>
+
+<p>The point I should like to raise is something quite apart from that little aside. The hon the Minister himself is almost in a qualifying position to be a labour broker as far as farm workers are concerned because the Department of Manpower requires a form of registration of farm workers for which the employer pays. This service of finding employment for those people&#x2014;which is undoubtedly done with good intentions&#x2014;has, however, never functioned.</p>
+
+<p>I should like to address an appeal to the hon the Minister that, without waiting for the Human Sciences Research Council report on the whole matter of social services, he should look into the question of instituting even an interim measure whereby Black farm workers can enter this scheme and that, instead of the payment made for registration&#x2014;which, as I say, has been a totally ineffective system&#x2014;he should see to it that that habit of making payments, to which they have now become accustomed should rather be applied as a way of contributing toward unemployment insurance.</p>
+
+<p>I am certain that the benefits accruing to the worker would be welcomed by all farmers <span class="col_1583-1584" refersTo="page_0829"/>in this country. The fact that their workers are not able to participate in the fund worries them a great deal. It is something about which they feel very strongly because of the lack of social security arising from that&#x2014;particularly in the financial circumstances in which they find themselves after the prolonged droughts of the past few years. There seems to be very little possibility of an improvement in their financial position in sight, and they do not know how they are going to be able to improve those workers&#x2019; conditions to any desired extent.</p>
+
+<p>I am convinced that, in the immediate future, it is going to be beyond the means of the country to include the entire system of social services in a security package as may be proposed by the HSRC report&#x2014;particularly if it is as comprehensive and sweeping as I understand it to be. Therefore the interim period I am referring to might be a fairly long one. Perhaps the hon the Minister might consider doing something about that immediately by doing away with the registration fee which, as I already have said twice, is of no benefit to the worker and of no benefit to the farmer whatsoever and applying those fees to unemployment insurance.</p>
+
+<p>We support the amendment to the legislation. The whole matter of unemployment insurance is going to be one which is no doubt going to occupy the standing committee for some time when the report of the HSRC comes through. With these few words we support the amendment to the legislation.</p>
+
+</speech>
+
+<adjournment>
+
+<p>In accordance with Standing Order No 19, the House adjourned at <recordedTime time="1986-03-05T18:30:00">18h30.</recordedTime></p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
