@@ -1,0 +1,1749 @@
+---
+title: 'House of Assembly: Vol17 - TUESDAY 23 JUNE 1987'
+layout: debate
+year: 1987
+month: JUNE
+month_slug: Jun
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading><span class="col_2051-2052" refersTo="page_1060"/>TUESDAY, 23 JUNE 1987</heading>
+
+<prayers>
+
+<narrative>Prayers&#x2014;<recordedTime time="1987-06-23T14:15:00">14h15</recordedTime>.</narrative>
+
+</prayers>
+
+<debateSection name="#tabling_of_bill">
+
+<heading>TABLING OF BILL</heading>
+
+<speech by="#speaker">
+
+<from>Mr <person refersTo="hansard_za">SPEAKER</person></from>
+
+<p>laid upon the Table:</p>
+
+<block name="quote"><i>Energy Bill</i> [B 90&#x2014;87 (GA)]&#x2014;(Standing Committee on Manpower and Mineral and Energy Affairs).</block>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#reports_of_standing_select_committees">
+
+<heading>REPORTS OF STANDING SELECT COMMITTEES</heading>
+
+<speech by="#heyns">
+
+<from>Mr <person refersTo="hansard_za">J H HEYNS</person>,</from>
+
+<p>as Chairman, presented the Second Report of the Standing Select Committee on Public Accounts (on Unauthorized Expenditure), dated 17 June 1987.</p>
+
+<p>Report, proceedings and evidence to be printed and considered.</p>
+
+</speech>
+
+<speech by="#de_pontes">
+
+<from>Mr <person refersTo="hansard_za">P DE PONTES</person></from>
+
+<p>as Chairman, presented the First Report of the Standing Select Committee on Trade and Industry, dated 23 June 1987, as follows:</p>
+
+<block name="quote">The Standing Committee on Trade and Industry having considered the subject of the <i>Sugar Amendment Bill</i> [B 63&#x2014;87 (GA)], referred to it, your Committee begs to report the Bill without amendment.</block>
+
+<p>Bill to be read a second time.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#determining_of_salary_and_allowance_of_state_president">
+
+<heading>DETERMINING OF SALARY AND ALLOWANCE OF STATE PRESIDENT</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move without notice:</p>
+
+<block name="quote">That the House determine the salary and allowance to be paid to the State President in terms of section 12 of the Republic of South Africa Constitution Act, 1983 (Act 110 of 1983), at one hundred and twenty thousand three hundred and seventy-five rand (R120 375) per annum and thirty thousand seven hundred and sixty-two rand (R30 762) per annum, respectively, with effect from 1 July 1987.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#questions_see_questions_and_replies">
+
+<heading>QUESTIONS (see &#x201C;QUESTIONS AND REPLIES&#x201D;).</heading>
+
+</debateSection>
+
+<debateSection name="#appropriation_bill_house_of_assembly">
+
+<heading>APPROPRIATION BILL (HOUSE OF ASSEMBLY)</heading>
+
+<summary>(Committee Stage resumed)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move:</p>
+
+<block name="quote">That Vote No 5&#x2014;&#x201C;Budgetary and Auxiliary Services&#x201D;, and Vote No 6&#x2014;&#x201C;Improvement of Conditions of Service&#x201D;, be disposed of before the next Vote is put.</block>
+
+<p>Agreed to.</p>
+
+<p>Vote No 5&#x2014;&#x201C;Budgetary and Auxiliary Services&#x201D;, and Vote No 6&#x2014;&#x201C;Improvement of Conditions of Service&#x201D;:</p>
+
+</speech>
+
+<speech by="#swanepoel">
+
+<from>*Mr <person refersTo="hansard_za">P J SWANEPOEL</person>:</from>
+
+<p>Mr Chairman, before I come back to the Votes, I am sure you will permit me to make a few remarks about speeches that were made before I took the floor.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I do not want to restrict the hon member unnecessarily, but he will realize that if I were to allow him to react to speeches on matters which are not relevant to this Vote, other hon members will want to react to his speech, and then we will have digressed from the Votes. I must request him, therefore, to confine himself strictly to the Votes.</p>
+
+</speech>
+
+<speech by="#swanepoel">
+
+<from>*Mr <person refersTo="hansard_za">P J SWANEPOEL</person>:</from>
+
+<p>Very well, Sir.</p>
+
+<p>I want to begin with Vote 5 on page 5&#x2014;3. The programme description on this page reads <i>inter alia</i>:</p>
+
+<block name="quote">&#x2026;overall organizing of the Administration, rendering of computer services, services to citizens i.r.o. electoral matters&#x2026;</block>
+
+<p>I assume that the &#x201C;electoral services&#x201D; will include the drawing up of municipal voters&#x2019; lists. If that is the case, I should like to know from the hon the Minister entrusted with this Vote what is going to happen to our municipal voters&#x2019; lists in future. We know that there will be general municipal elections in South Africa in 1988.</p>
+
+<p>I should like to know whether we shall have the use of the computer services, for which <span class="col_2053-2054" refersTo="page_1061"/>provision is being made in this Vote, in drawing up these municipal voter&#x2019;s lists. Our municipal voters&#x2019; lists were in a rather chaotic state in the past. When the new lists appeared, we found that for some or other reason the names of people who had been resident in a town for years, and whose names had appeared on the old municipal voters&#x2019; lists, had been omitted. If we can have a computer service system along the same lines as those of the ordinary general voters&#x2019; lists, we might be able to eliminate many of the shortcomings that were found in the old municipal voters&#x2019; lists.</p>
+
+<p>I do not think this would be such an impossible task. One should be able to get the name of anyone who has a water and electricity account in a town or city onto these municipal voters&#x2019; lists automatically. If one could effect this immediately by means of a computer system, it would contribute to eliminating the mistakes that appeared in respect of these municipal voters&#x2019; lists in the past.</p>
+
+<p>There is a great deal of uncertainty, as far as local matters are concerned, as to whether there will still be voters&#x2019; lists for other bodies. In the Cape Province, for example, we had the old divisional council system. People were entitled to register as voters for a divisional council election under certain conditions. Now that this new system of regional services councils has been implemented, there is uncertainty among the local voters concerning exactly what is going to happen, whether voters&#x2019; lists will we drawn up for these councils as well, or whether there will be no voters&#x2019; lists for certain local authorities at all. Of course there are other local authorities for which we never used voters&#x2019; lists, such as school councils and school committees. Naturally they are not included in this Vote.</p>
+
+<p>Mention is made here of computer services in connection with electoral matters. One would like to know precisely what these computer services entail and what their specific functions will be, because everything in this connection is under the heading &#x201C;Management and auxiliary services&#x201D; on page 3, Programme 1 of Vote 5. The computer is becoming a more integral part of our modern lives, and one would like to know how it is going to be used to assist the local authorities and administrations in performing their tasks.</p>
+
+<p>When we look at Vote 6, we find that provision is being made for the &#x201C;augmentation of subsidies, grants and financial assistance to state-aided institutions&#x201D;, for the improvement of conditions of service. I should like the hon the Minister to tell us the exact headings under which these amounts are being spent. I want this to be spelt out in greater detail, because certain items such as &#x201C;Personnel expenditure&#x201D; etcetera are mentioned on page 6&#x2014;2. Under &#x201C;Personnel expenditure&#x201D;, for example, we find a decrease in the amount budgeted. I should like to know from the hon the Minister in his reply to the debate exactly what is meant by this &#x201C;augmentation of subsidies, grants and financial assistance to state-aided institutions&#x201D;, and what the details of this assistance are.</p>
+
+<p>These two Votes have a very limited field of discussion, but I am pleased to see&#x2014;we want to thank the hon the Minister for this&#x2014;that we can give the people in the service of these particular Government departments a salary increase which I assume is equal to that of public servants. Naturally, as was pointed out, the adjustment is not nearly in line with the inflation rate, but as is the case with all other public servants, the Government had to cut its coat according to its cloth where the remuneration of officials was concerned, and this is the maximum increase we could give them.</p>
+
+<p>We are grateful, in any case, for the relief there could be for these people. Many of them were employees of the old divisional council system we had in the Cape for so many years. They were very concerned about their future when this new system of local government was implemented. Many of them owned properties in the towns in which they lived. They were very worried about transfers, and because of the present economic state, both husband and wife were forced to work. They were concerned about what would happen to their property if the husband were transferred, and they did not know whether or not the wife would be able to get a job at the husband&#x2019;s new place of employment. [Time expired.]</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, one of the problems which one has with the present <span class="col_2055-2056" refersTo="page_1062"/>administration is to get a meaningful debate going on certain fundamentals. The difficulty that I have is that there appears to be a tendency on the part of the administration to draw a cloak of secrecy over its activities. I want to mention four examples of secrecy to illustrate how secrecy pervades the whole issue.</p>
+
+<p>Mr Chairman, I know that you will say that the first example, namely the Margo Commission, is not under discussion. It is an illustration, however, of the secrecy that exists. One is not allowed to know what the recommendations of the Margo Commission are until the Government has made up its mind. Until then the matter is hidden under a cloak of secrecy.</p>
+
+<p>Let me give another example of secrecy, namely the question of priorities. Priorities are not only general affairs priorities; they are also own affairs priorities, and they are this hon Minister&#x2019;s priorities.</p>
+
+<p>With regard to the decisions made in respect of priorities, whether in general affairs or own affairs, there is a cloak of secrecy. This is the second example of the cloak of secrecy.</p>
+
+<p>Let me quote the example of the five-year plan once again. The five-year plan is not only a five-year plan for general affairs; it is also a five-year plan for own affairs, and a cloak of secrecy has been drawn over it.</p>
+
+<p>Then we have the question of the formulae, which are clearly own affairs, and which have a cloak of secrecy surrounding them. I say that this Government is one which seeks to draw cloaks of secrecy over matters which should be the subject of public debate, with the result that by the time the public becomes aware of what is actually going on, decisions have already been made, irrevocable steps have been taken and we are not in fact aware that there is any input that can be made by the general public.</p>
+
+<p>I therefore say that this is a secretive Government. It is not an open Government, and we believe that there should be an open Government in terms of which the people of South Africa should be allowed to make their input before the decisions are made. This Government will not allow that to happen. It is an arrogant Government in that respect; it is an arrogant administration in that respect, and it is not a Government of the people in that respect. [Interjections.] It ignores the wishes of the people in that regard.</p>
+
+<p>One could take this debate as an example. This debate has now entered its second day and no meaningful discussion has been forthcoming from the NP in regard to the question of dealing with the real issues confronting this House. [Interjections.]</p>
+
+<p>All these issues are ignored. They are placed under this cloak of secrecy and we cannot get to the bottom of them. I find that utterly unacceptable and I think it is something which the public of South Africa also finds totally unacceptable.</p>
+
+<p>I want now to come back to the question of the hon the Minister and his policy. I have heard from all quarters about the need to preserve one&#x2019;s cultural identity. I have listened to the attacks that have been made upon this side of the House about the alleged fact that we do not care about cultural identity or groups but that we only care about individuals.</p>
+
+<p>I want to issue a challenge to the hon the Chairman of the Ministers&#x2019; Council and the hon the Minister in charge of this Vote. I want them to tell us whether they will actually accept the concept of a cultural council. I want to say that it is part of our written policy&#x2014;anyone may read it&#x2014;that this party believes in cultural councils. Let me read to him what it says.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Can the hon member tell me where I may read it in the Bill under consideration?</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>It concerns own affairs, Sir.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Under the Votes under consideration?</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>That is right. It concerns own affairs. It concerns the spending of money in respect of cultural matters which are the responsibility of this hon Minister. It may be spent under this Vote. It concerns the concept of the &#x201C;group&#x201D;, which is alleged to be the whole concept behind this issue.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Does it fall under Votes 5 and 6?</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from><span class="col_2057-2058" refersTo="page_1063"/>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Yes, very much so. [Interjections.] I shall read it to you and you will see, Sir. It is fascinating!</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Read out the aim of the Vote.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>That is the whole point! I am going to read this and I will show just how relevant it is. I quote:</p>
+
+<block name="quote">A cultural group may establish a cultural council to assist in maintaining and promoting its cultural interests and may apply to have that council registered with the Federal Constitutional Court.</block>
+
+<p>We do not have a Federal Constitutional Court, but there is no reason why we cannot have a cultural council. It goes on to say:</p>
+
+<block name="quote">No legislation affecting the interests of a particular federal unit or the cultural interests of a particular cultural group represented in the senate&#x2026;</block>
+
+<p>That is how we envisage it. Alternatively, it could refer to a cultural group as such without applying this specific policy&#x2014;</p>
+
+<block name="quote">&#x2026;unless it has first been referred to and approved by the federal unit legislature or cultural council concerned.</block>
+
+</speech>
+
+<speech by="#minister_of_the_budget_and_welfare">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF THE BUDGET AND WELFARE</person>:</from>
+
+<p>Mr Chairman, on a point of order: In terms of your ruling I should like to state that the purpose of this vote, as is clearly indicated under the vote, is &#x201C;to conduct overall budgetary and auxiliary services for the Administration: House of Assembly&#x201D;. As I see it, this certainly does not include matters outside the ambit of the services rendered by the Administration.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! It is rather difficult for the Chair to judge whether a particular topic does in fact fall under this Vote. It is, however, my conviction that the hon member for Yeoville&#x2019;s argument is now going beyond the Vote. I therefore call upon him to return to the Vote.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, if I may just quote, the Vote deals with the rendering of budgetary and auxiliary services, and it includes the Vote of both the Minister of National Education and that of the Chairman of the Minister&#x2019;s Council of the Administration of the House of Assembly, as well as that of the Minister of the Budget and Welfare.</p>
+
+</speech>
+
+<speech by="#leader_of_the_official_opposition">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE OFFICIAL OPPOSITION</person>:</from>
+
+<p>Only their salaries.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>That is right. Now, if he would like me to, I shall move to reduce his salary and I shall then give reasons as to why his salary should be reduced. So if he really would like that I shall go to that extreme. However, let me just tell you that the hon the Minister&#x2019;s salary is material&#x2026; [Interjections.] Really, I do not need this chit-chat from the left here, Sir.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>He does not understand what is going on. This is an own affair and does not concern this hon member; he is not my affair. I want him to get out of my own affairs.</p>
+
+<p>All I am saying is a very simple thing. Why is it that while the PFP is the only party in this whole House that wants a cultural council to promote the cultural interests of a group and, in fact, wants to have a veto right to protect the cultural councils of that group, it is attacked for not looking after the interests of a group? I issue that challenge to the hon the Leader of the Official Opposition as well as to the hon the Chairman of the Ministers&#x2019; Council.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Is the hon member for Yeoville prepared to answer a question?</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Yes, I shall answer a question.</p>
+
+</speech>
+
+<speech by="#blanch&#x00E9;">
+
+<from>*Mr <person refersTo="hansard_za">J P I BLANCH&#x00C9;</person>:</from>
+
+<p>Mr Chairman, I wish to ask the hon member whether he is not aware of the Nasionale Raad vir Volksange en Volkspele which is already active in that sphere?</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>That is a general affair.</p>
+
+</speech>
+
+<speech by="#suzman">
+
+<from>Mrs <person refersTo="hansard_za">H SUZMAN</person>:</from>
+
+<p>That has to do with jukskei.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Mr Chairman, &#x201C;volkspele&#x201D; and the cultural interests of a group&#x2026;</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from><span class="col_2059-2060" refersTo="page_1064"/>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>Mr Chairman, on a point of order: Is this particular matter not a general affair in terms of the Constitution? [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*THE <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I do not wish to give a ruling on irrelevant questions at this point. The hon member for Yeoville may proceed. [Interjections.]</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>Mr Chairman, on a further point of order: Will you afford me an opportunity to motivate my question? I asked whether this was not a general affair and therefore beyond the scope of this debate? [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I do not think the hon member need try to take this problem any further. It is a cross-question to a questioner, and in any event I do not wish to permit it.</p>
+
+<p>&#x2020;As far as I am concerned, the hon member for Yeoville still has the floor. He may continue.</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>Yes, Sir, I thought I had the floor, until this other debate started&#x2014;a debate to which I was not a party!</p>
+
+<p>All I am saying is that if there is anything that has been classically designed to protect the cultural interests of a group in South Africa, it is a cultural council. What I did, then, was to issue a challenge to these two hon gentlemen to respond to the idea we have mooted of a cultural council. Would they agree to it?</p>
+
+</speech>
+
+<speech by="#minister_of_the_budget_and_welfare">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE BUDGET AND WELFARE</person>:</from>
+
+<p>What about the FAK?</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>No, I am talking about a cultural council with legislative power, not just a &#x201C;talk shop&#x201D;.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I am afraid the hon member&#x2019;s time has expired. [Interjections.]</p>
+
+</speech>
+
+<speech by="#blanch&#x00E9;">
+
+<from>*Mr <person refersTo="hansard_za">J P I BLANCH&#x00C9;</person>:</from>
+
+<p>Mr Chairman, I rise merely to afford the hon member the opportunity to complete his speech. [Interjections.]</p>
+
+</speech>
+
+<speech by="#schwarz">
+
+<from>Mr <person refersTo="hansard_za">H H SCHWARZ</person>:</from>
+
+<p>I thank the hon Whip, Sir.</p>
+
+<p>The point I am trying to make is that I do not want a cultural council which merely debates matters. I want a cultural council that possesses the powers I have referred to: It should have a veto right in respect of legislation so that it can veto legislation that affects a cultural group. After all, that is what counts&#x2014;the protection of minorities! That is our real concern when it comes to the things that affect particular groups in South Africa. The real issue, therefore, is not this artificial division which simply causes expense&#x2014;in fact, this is undesirable from every possible point of view&#x2014;but a council with legislative powers, with teeth, in order to protect minority groups.</p>
+
+<p>Having said that, I want to come back to some matters which I believe require some answers of a technical nature from the hon the Minister. Firstly, I do not understand why the own affairs administration should be an administration which gives guarantees. As I understand it, the own affairs administration has given guarantees of close to R700 million. I should like to know who the hon the Minister has guaranteed&#x2014;this is a financial or budgetary matter, Sir, which clearly falls within the ambit of this Vote, whatever else does not&#x2014;the nature of the guarantees, the nature of the businesses being guaranteed, and what this all involves.</p>
+
+<p>There is another matter I find difficult to understand. I believe this administration is actually short of money, because it should be able to spend more money on services in regard to two particular aspects I want to refer to.</p>
+
+<p>The first is that of agriculture, where we face a situation in which people have experienced very serious problems. Yet&#x2014;I find this quite remarkable&#x2014;in the 1986-87 financial year the Government actually underspent on agriculture by over R25 million. Can the hon the Minister explain to me how they can actually have underspent on agriculture when the farming community is in such dire straits?</p>
+
+<p>The second issue is that of education. Our educational needs are great and the increase that has been allowed does not measure up to the inflation rate. In the past financial year this hon Minister, his predecessor&#x2014;in fairness to him&#x2014;and their colleagues succeeded in spending less money than was actually allocated to them. I find that a remarkable <span class="col_2061-2062" refersTo="page_1065"/>situation which certainly requires explanation.</p>
+
+</speech>
+
+<speech by="#swanepoel">
+
+<from>*Mr <person refersTo="hansard_za">K D SWANEPOEL</person>:</from>
+
+<p>Mr Chairman, later in my speech I want to come back to what the hon member for Yeoville said when he referred to group involvement on the part of the various groups. It is an interesting course the hon member for Yeoville has chosen to take this afternoon by suddenly wanting to become the champion of human rights in South Africa. I want to discuss this with him later in my speech.</p>
+
+<p>Firstly I want to refer to Vote 6 which makes provision for the supplementation of the salaries of officials. This increase of 12,5% is illuminating. Whereas we would have liked to have seen this increase adjusted closer to the inflation rate&#x2014;I think the Government, and the Ministers&#x2019; Council in particular, would probably have wanted to make a bigger adjustment than has been made&#x2014;it would simply have been irresponsible to do so. There are two reasons for this. One of these is that a bigger increase would have a drastic effect on the inflation rate. Unfortunately it is true that prices react easily to such an increase. It has become fashionable in South Africa that when an increase is announced, the prices of consumer goods show an immediate increase. The group affected the most by this is the food component of the index. This is the component that affects all consumers. We have seen with the adjusted inflation rate that was announced recently that it was the food prices which made our inflation rate soar again.</p>
+
+<p>The second reason for the adjustment not being higher than 12½% lies in the simple assumption of what can be afforded. The fact remains that millions of rands are needed for such an adjustment&#x2014;R160 million in the case of this Vote. To make such an adjustment possible, funds have to be obtained, and the only place they can be obtained is from the Treasury. Taking the whole package into account, it would in fact have resulted in an adjustment to the tax structure.</p>
+
+<p>These two reasons gave rise to a reasonable amount of understanding on the part of the officials attached to the departments of the Administration: House of Assembly when the adjustment was made. We are grateful for this understanding on the part of the officials.</p>
+
+<p>We hope that within the foreseeable future the inflation rate will decrease to the extent that the next increase will be more realistic and on target. I trust that the private sector, and trade and industry in particular, will take note of the understanding displayed by the public sector in this regard and not inflict an unnecessary price burden on the inflation rate.</p>
+
+<p>This Vote under discussion at present deals with a subsection of the new constitutional dispensation, viz own affairs. This constitutional dispensation came about after prolonged and sustained negotiation in which mainly the NP was involved. That is why so much value is attached to the term own affairs by this side of the House. The concept of own affairs features strongly in the policy of the NP. We are therefore grateful that we are able to deal with an own affairs budget here today. Own affairs is the cornerstone and point of departure for further constitutional reform that still has to take place. Own affairs accommodates the group interests, to which the hon member for Yeoville has just referred, of every group in a heterogeneous South Africa. The existence of groups cannot be undone, nor can it be wished away. These groups all have their own needs that have to be fulfilled. Those need are not necessarily the same for every group, and consequently there will still be arguments about the way in which these needs have to be fulfilled.</p>
+
+<p>Every group also needs to improve the position of the group and the individuals in the group. Hence the necessity for the kind of own Budget we are dealing with at present. It is not a sin if, for example, a particular group were to plead and fight to improve its housing situation. It is not war if a particular group should be intent on bringing its education on an equal level as that of another group.</p>
+
+<p>This brings another important aspect to the fore which I want to touch on, viz the importance of discussion. No group in South Africa can separate itself from the other groups and live in total isolation. This is only possible if a complete and absolute physical separation, or partition, by marking off boundaries were to take place. I do not want to argue about the possibility or otherwise of <span class="col_2063-2064" refersTo="page_1066"/>such a separation now. Suffice it to say that in the present situation&#x2026;</p>
+
+</speech>
+
+<speech by="#snyman">
+
+<from>*Dr <person refersTo="hansard_za">W J SNYMAN</person>:</from>
+
+<p>Mr Chairman, on a point of order: Is the hon member for Gezina discussing Vote No 5 or Vote No 6?</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member said that he did not want to argue any further about partition, and I have taken note of this with approval.</p>
+
+</speech>
+
+<speech by="#swanepoel">
+
+<from>*Mr <person refersTo="hansard_za">K D SWANEPOEL</person>:</from>
+
+<p>Mr Chairman, the physical removal of people, even if it takes place with their consent, is simply not possible financially. I shall therefore leave the matter at that. The process of urbanisation is taking place so rapidly and at such an increased rate, that a change in this pattern of settlement is no longer possible.</p>
+
+<p>We are therefore saddled with the reality that the borders of a common South Africa have been finally marked off. It is therefore essential that the various groups negotiate with one another and enter into discussions with one another. These discussions will have to continue and further extensions will have to take place. It is vital that this ability to discuss be extended. I believe that group rights and the protection of what is peculiar to each group can only be established if those group rights can be identified. The easiest way of doing this is by way of open discussion in which all interested parties must participate.</p>
+
+<p>Own affairs, as contained in the present Vote, can then be extended and established. I foresee that this Vote and similar votes will have to be extended to other groups in the future. Those who do not put group interests first, will in fact not accept the principle of own affairs, as we are dealing with it at present. I think the PFP is an example of this. The hon member for Yeoville said that they fully recognise group rights. I maintain that thus far they have not recognised the existence of groups at all, and consequently do not care for own affairs as it is functioning at present. The CP reject the concept because it contains an element of joint discussion.</p>
+
+<p>The fact is that there are specific groups present in South Africa who have to be given attention in this matter. Another fact is that these groups have to be accommodated in one South Africa. Another fact is that not all groups are part of the discussion yet [Time expired.]</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>Mr Chairman, in discussing the present Vote I should like to refer to the formulation as it is embodied in the Appropriation Bill. Vote No 5 is formulated as &#x201C;Budgetary and Auxiliary Services&#x201D;, and I understand that to mean Budgetary Services on the one hand, and Auxiliary Services with regard to the Budget on the other. Vote No 6 contains the items under the heading &#x201C;Improvement of Conditions of Service&#x201D;.</p>
+
+<p>In the first instance I should like to point out that since we are dealing here with Budgetary and Auxiliary Services, there is of course an inextricable <i>nexus</i>, on the one hand between the budgetary services being provided here, and on the other hand between the Votes for which provision is being made. The problems we have had thus far with this debate, are of course peculiar to the problem that exists with regard to the distinction between own and general affairs. I would therefore suggest that this House take note today that this distinction between own and general affairs within the framework of a unitary state really creates unique problems, hence the problems you have had, Mr Chairman, in directing the debate in this regard.</p>
+
+<p>We on this side of the House in fact associate ourselves with your problems, Mr Chairman. We maintain that the problems you have in directing a debate of this nature and with defining what are own affairs and what are general affairs, are peculiar to the whole problem underlying this new constitutional dispensation. Our sympathy for you, Mr Chairman, is in point of fact characteristic of the problems we are dealing with here. In this regard&#x2014;and we are dealing here with matters relating to the budget, with financing and finance law&#x2014;the Constitution states very clearly that own affairs are firstly subject to three provisos. That is the case when a general law is made in regard to own affairs; an own affair then becomes a general affair. Secondly they are subject to finance law, which is contained in Item 11 of Schedule 1. Item 11 of Schedule 1 of the Constitution is an exceptionally long provision, to which I am going to refer briefly. I maintain that this provision in fact underlines the problem we <span class="col_2065-2066" refersTo="page_1067"/>are facing here, since how this provision should be interpreted in practice in respect of matters relating to the budget, perhaps only the Angel Gabriel would know.</p>
+
+<p>Schedule 1 of the Constitution states:</p>
+
+<ol>
+
+<li>11. Finance in relation to own affairs of the population group in question, including&#x2014;
+
+<ol>
+
+<li>(1) estimates of revenue and expenditure, but excluding the form in which such estimates shall be prepared;</li>
+
+</ol></li>
+
+</ol>
+
+<p>What does that mean, Mr Chairman? What does it mean to say on the one hand that the estimates of revenue and expenditure are an own affair, but excluding the form in which they shall be prepared on the other?</p>
+
+<p>Secondly it states:</p>
+
+<ol>
+
+<li>(2) the appropriation of moneys for the purposes of such estimates, but excluding such appropriation of moneys for any purpose other than that for which they are by or under any general law made available for appropriation;</li>
+
+</ol>
+
+<p>I could go on reading this provision, but I want to make haste because my time is limited.</p>
+
+<p>In conclusion I want to draw attention to the fact that I do not agree with the standpoint put forward by that side of the House, viz that these provisions concerning matters relating to the budget do not deprive the White population group of its financial right of self-determination, as far as own affairs are concerned. I say this for two reasons. A particular population group&#x2014;and in this regard the own affairs of the White population group&#x2014;cannot impose its own taxes in terms of this provision in the Constitution; it cannot make its own loans; consequently it has no autonomy. It has been proved over the centuries&#x2014;it is not I who am saying this; hon members can go and look at any text book in this regard&#x2014;that a body that cannot impose its own taxes, is not autonomous and does not have the right of self-determination in this regard.</p>
+
+<p>I could go on pointing out the anomalies, and in this regard I want to refer to the question put by the hon member for Boksburg. If we were to hold a quiz here and I were to ask that side of the House&#x2014;and let us begin with the hon member for Boksburg, since that side of the House is so fond of asking us questions across the floor&#x2014;when a lecturing post in Afrikaans is available at the University of Cologne, whether it was an own affair for Whites, or whether it was a general affair, what would they reply? Let us hear what the hon member for Boksburg has to say. [Interjections.] Now the hon member must not&#x2014;as he is now saying&#x2014;rely on the hon the Minister. Does the hon member not want to reply himself? Does the hon member himself not know what the answer is?</p>
+
+<p>Mr Chairman, I want to go further and ask, as far as these budgetary matters are concerned, whether money appropriated for own affairs and in this connection also for the <i>Woorde</i>-<i>boek van die Afrikaanse Taal</i> is an own affair?</p>
+
+<p>Can I also, if I could elaborate on this, ask the question whether the <i>Dictionary of South African English on Historical Principles</i> is an own affairs concept?</p>
+
+<p>I could go further and ask whether the financial support given to the folk dancing group (<i>volkspelegroep</i>)<i>is</i> an own affair.</p>
+
+<p>All these matters to which I have referred are general affairs in terms of the policy for applying the Constitution.</p>
+
+<p>Who in this Committee&#x2014;I am speaking from the point of view of bodies and not in relation to persons&#x2014;with all due respect, is he fooling? All the matters to which I have referred and which are mentioned in the budget of the Department of National Education are general affairs and not own affairs. What group rights are being guaranteed if they fall under general affairs?</p>
+
+<p>I could take this further by referring to the ironic situation we have in South Africa at present, and which we experienced in this House yesterday as well. Yesterday the hon member for Jeppe singled out the support being given to the Portuguese language group. We have no problem with that, but I just want to point out the consequences. The support being given to the Portuguese language group is an own affair, but the support being given to the folk dancing group is a <span class="col_2067-2068" refersTo="page_1068"/>general affair. [Interjections.] This, therefore, is the matter with which the other side of the House is going, and has gone, to the Whites, the Afrikaners, of this country.</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>Mr Chairman, may I put a question to the hon member?</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>I shall reply to the hon member&#x2019;s question if I have time at the end of my speech.</p>
+
+<p>We have the contradictory, anomalous situation that what is peculiar to the culture of the Afrikaner people (<i>Boerevolk</i>), viz folk dancing, is a general affair according to the way that side of the House deals with the administration of the country. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! Hon members must not make so many interjections.</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>The cultural affairs of the Portuguese are however regarded as own affairs. This side of the House wants to know where the Government is going with own and general affairs. If money is appropriated in this Vote for the celebrations of the Portuguese&#x2014;they are most welcome to it&#x2014;why can money not be appropriated in this Vote for the folk-dancing groups (<i>volkspelelaer</i>) as well? This is what it is all about. Why can money not be appropriated here for the forthcoming celebrations relating to the Great Trek, which is so peculiar to the White people and the Afrikaner people in this country? [Interjections.]</p>
+
+<p>It struck me that in the previous debates there were very few interjections, but now that the truth is coming out, it hurts. [Interjections.] They must talk now, since it cannot appear in Hansard undisputed. [Interjections.]</p>
+
+<p>This side of the House says that these anomalous situations will not be resolved here, they will be resolved in one election after another in this country.</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>Mr Chairman, the hon member said that Afrikaans should be an own affair. Is it not true that more people of colour than Whites speak Afrikaans? Does that not also apply to English? If I am right, why does he want it to be an own affair?</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>It is the standpoint of this side of the House to think about these matters from the point of view of principle, and not to take numbers as criteria. [Interjections.]</p>
+
+</speech>
+
+<speech by="#de_beer">
+
+<from>Mr <person refersTo="hansard_za">L DE BEER</person>:</from>
+
+<p>Mr Chairman, after 42 lonely days I am very grateful and honoured to address you this afternoon. In Hillbrow it is said that anything is possible there, and I think we proved that again recently. Ours must be the only constituency in which the majority of the winning party has increased since the election!</p>
+
+<p>Let me move out of the political arena. To mention Hillbrow is to evoke a wide range of reactions. To some it is a monument to sin, violence and evil, while others view it as a hub radiating excitement and all the glamour of a plastic age. Yet others regard Hillbrow, one of the most densely populated areas imaginable, as a place in which they can be totally alone.</p>
+
+<p>Hillbrow is a world in itself; it is a microcosm of South Africa. Totally self-sufficient, it has a multitude of restaurants, take-aways, cinemas, clubs, bars and caf&#x00E9;s. Walking down Kotze Street on a Saturday morning, having coffee at the Caf&#x00E9; Wien or high tea and scones at the Caf&#x00E9; Zürich, one will realise that the caf&#x00E9;s are another world within the world of Hillbrow. They more than anything else provide the differences that distinguish Hillbrow from any of South Africa&#x2019;s other urban centres.</p>
+
+<p>*Geographically speaking, the Hillbrow constituency is one of the smallest constituencies in South Africa, covering four square kilometres, but it is also certainly one of the most densely populated. It has a nomadic population, with voters coming and going, but it has its established residents as well. The fact that we have approximately eight residential hotels for senior citizens testifies to that fact.</p>
+
+<p>The electorate of the Hillbrow constituency is predominantly English-speaking and there is a large Jewish community. During the election I had close contact with the Jewish community, and I should like to confirm in this House this afternoon that it is a very special community with a rich tradition and heritage. They are people who unobtrusively make an exceptional contribution and put South Africa&#x2019;s interests first. As one of my friends in Hillbrow always says&#x2014;and quite <span class="col_2069-2070" refersTo="page_1069"/>rightly, too&#x2014;one need have no fear that the Jews will leave South Africa, &#x201C;because they have paid for it&#x201D;.</p>
+
+<p>Hillbrow&#x2019;s unique composition, its ethnic diversity, its plural nature and character and its cultural dimensions remain a special challenge. In Hillbrow the central problems are those of overcrowding, fear of domination, inequality among groups and disunity. If we succeed in overcoming those problems in Hillbrow, we shall be striking a blow for South Africa.</p>
+
+<p>In the search for a solution to Hillbrow&#x2019;s unique problems, the principles of justice, fairness, equal opportunities and the equality of people must be applied consistently. We must be on our guard, however, lest an underlying overemphasis on individual equality, which in itself is a fundamental principle of civil private law, prevails at the expense of the collective freedom of the non-Statal aspects of life. In this regard I should like to concur with Prof D F N Strauss of the University of the Orange Free State that &#x201C;waar nodig daar konstitusioneel verskanste identiteitswaarborge moet wees&#x201D;. It is therefore necessary for group rights to be carefully taken into consideration as well within the framework of freedom of association.</p>
+
+<p>Using the aforementioned as points of departure, substance must be given to a just society in which constitutionally equal citizenship is guaranteed for all who are part of our society. This process must take place in such a way that stability and peace are maintained at all times and that the individual is afforded the maximum opportunity to develop as a full citizen and to share in decision-making processes up to the highest level.</p>
+
+<p>I close with the words of the hon State President:</p>
+
+<block name="quote">Ons moet &#x2019;n nuwe begin maak, met &#x2019;n nuwe toekoms.</block>
+
+<p>This applies to Hillbrow as well.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, I congratulate the hon member for Hillbrow on his maiden speech. I was interested to note that he talked about a period of 42 days. I wonder if many hon members are aware of the significance of that remark, because 42 days is the legal period in which another party can formally object to the outcome of an election. That period has now passed.</p>
+
+<p>I should not like this opportunity to pass without my paying tribute from these benches to that hon member&#x2019;s predecessor who sat in these benches. The hon member for Hillbrow then was Mr Alf Widman, who as a Whip of this party did a good and responsible job and served South Africa well over a long period of time. I should like to pay tribute to him. [Interjections.]</p>
+
+<p>I wish to speak about conditions of service, notably conditions of service related to pensions. I want to start by referring to the report of the Schlebusch committee of enquiry into the structure of remuneration of MPs. It deals with pensions.</p>
+
+<p>It says among other things that:</p>
+
+<block name="quote">The pension scheme for members of Parliament and members of the President&#x2019;s Council is a particularly good one. The consultants not only expressed the same opinion but also supported it with facts.</block>
+
+<block name="quote">The committee therefore agrees with their recommendation that consideration be given to abolishing the system in accordance with which the basic allowance is added to the annual net cash salary for pension purposes. This is the prevalent practice in the private sector as well.</block>
+
+<p>In relation to gratuity they go on to say on the following page:</p>
+
+<block name="quote">Only when there can be ongoing parity in the public and private sector salary structures will it be possible to introduce parity in regard to gratuity taxability.</block>
+
+<p>That is the point I want to make in relation to the public sector. We are always hearing about the public sector and salary increases. If they are not being paid the rightful salary for what they do, in accordance with private sector standards, then I believe that they should be. However, in the event of that being done there must not be all these additional gratuities.</p>
+
+<p>In the light of the recent 12,5% salary increase in the public sector and also in the light that it is even possible that that is insufficient, I want to draw the attention of the House to the extraordinary benefits the <span class="col_2071-2072" refersTo="page_1070"/>public sector receives in terms of pensions. I do so because I believe that it is of concern and should be of concern to every South African. A very good paper was delivered on this subject by Dr A D Wassenaar in August 1986. He had a number of remarks to make and one of the things he did was to compare the situation here to that of the city of New York which went insolvent some time ago.</p>
+
+<p>I want to say at the outset that most of what I have to say here today come from this address of Dr Wassenaar. I want to quote the following from this address:</p>
+
+<block name="quote">When the causes of the New York City financial collapse were examined in detail, it was estimated that if the pay-as-you-go pension schemes were to be converted into funded schemes, rates of contribution of 50% of salaries and wages would be required to keep the pension funds solvent.</block>
+
+<p>He then quotes William Simon as writing as follows:</p>
+
+<block name="quote">In the collapse of New York those who chose to understand it could see a terrifying dress rehearsal of the fate that lies ahead for this country if it continues to be guided by the same philosophy of government.</block>
+
+<p>Dr Wassenaar went on to say:</p>
+
+<block name="quote">Now why do I start telling you about New York City? Simply because the financial road on which the RSA finds itself at the present moment has some features similar (if not identical) to the road on which New York City travelled happily towards insolvency. The only difference is that the RSA&#x2019;s big daddy is not a tough Federal government, but poor docile taxpayers.</block>
+
+<p>He then goes on to talk about the pension fund for the public sector. We are all aware that the public sector and particularly the central Government is growing at quite a rate. In 1984 the central Government employed 10,7% of the total White working population. Since then that figure has risen. The contributions of the present members to an extent pay for present pensioners. If that happens, that is a pay-as-you-go scheme and that is a very dangerous situation. If we are going to equate salaries with those in the private sector, which is fair enough, then we must look at the pension benefits of the public sector in comparison with those of the private sector. The benefits in the public sector are extraordinarily good. They get one fifty-fifth of their final salary for each year of service.</p>
+
+<p>There are a number of major differences which I want to highlight between the public and the private sectors. The first is this matter of the percentage of the last month&#x2019;s salary. In the private sector the average scheme takes the average salary over the last three to five years of service and they pay the pension based on that average salary. It is quite obvious that if the pension is based on the salary right at the end, there is an enormous advantage for the person concerned. That is the first thing I want to stress as being highly unusual by private sector standards.</p>
+
+<p>The most extraordinary thing in the whole pulic sector scheme is the situation that one can buy back one&#x2019;s service to the age of 16 no matter at what stage one has joined the public sector, and whether or not during that period of time one has worked for the public sector; one could have been doing many other things. But, Sir, one is entitled to buy it back to the age of 16. On that subject Dr Wassenaar says the following:</p>
+
+<block name="quote">It is nothing less than legalised abuse within the pension fund. The real threat is that this fictitious pension fund based on fictitious &#x2018;pensionable service&#x2019; will continue to escalate with inflation.</block>
+
+<p>That then is the second thing I want to point out&#x2014;that the public sector employee can buy back to 16, which means that if a member of the public sector were to retire at the age of 65, he&#x2014;like every single one of them&#x2014;would then on average get forty-nine fifty-fifths of his salary on the last day of service. This is highly unusual.</p>
+
+<p>Then, thirdly, we have the situation of gratuities. The full amount of gratuity in the public sector is on a tax-free basis. That is in addition to what they get as a pension. In the private sector the gratuity is based on one third of their pensionable allowance. They can take that as a lump sum, and then two thirds of the remaining money is applied towards buying them pensions. If one takes one&#x2019;s gratuity, in other words, one&#x2019;s pension is accordingly reduced. That is not so in the public service.</p>
+
+<p><span class="col_2073-2074" refersTo="page_1071"/>The other point I want to make about this is that the private sector has to pay tax on their gratuities over a certain figure. A certain percentage of it is tax-free, but over a certain figure they have to pay tax on it, which is not the case in the public sector where this gratuity is totally tax-free.</p>
+
+<p>I come now to the fourth item which I want to deal with today.</p>
+
+</speech>
+
+<speech by="#minister_of_national_health_and_population_development">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF NATIONAL HEALTH AND POPULATION DEVELOPMENT</person>:</from>
+
+<p>Mr Chairman, on a point of order: I have given the hon member a lot of time, but he is discussing Vote 26, Programme 8 of the Main Budget.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I have also had the problem with the argument of the hon member that it had digressed far beyond the Vote under consideration but I thought the hon member would come back to the Vote some time or another. The hon member may continue.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Mr Chairman, may I address you on that particular point? As I understand it, what I am talking about are the conditions of service of the public sector. When we get to the other vote, we will be dealing with the general conditions for welfare and pensions. What I am specifically addressing in this case, are the conditions of service under Vote No 6. So if I may continue&#x2026;?</p>
+
+</speech>
+
+<speech by="#minister_of_national_health_and_population_development">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF NATIONAL HEALTH AND POPULATION DEVELOPMENT</person>:</from>
+
+<p>Mr Chairman, on a further point of order: The hon member is discussing civil pensions. Civil pensions fall onder Programme 8 of Vote 26 of the main Budget. That has to do with civil pensions. I believe he is out of order, Sir.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member&#x2019;s time has expired.</p>
+
+</speech>
+
+<speech by="#blanch&#x00E9;">
+
+<from>*Mr <person refersTo="hansard_za">J P I BLANCH&#x00C9;</person>:</from>
+
+<p>Mr Chairman, I rise merely to give the hon member the opportunity to complete his speech.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>Mr Chairman, on a point of order: Vote No 5, &#x201C;Improvement of Conditions of Service&#x201D;, in the main Budget from whence come the funds for the improvement of conditions of service under this vote, states quite clearly that it applies to increased employer contributions to pension and provident funds in respect of the civil service.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! The hon member for Port Elizabeth Central may continue.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Thank you, Mr Chairman. The last point I want to make very briefly, relates to the contributions made to the fund. Again I want specifically to quote Dr Wassenaar. He said:</p>
+
+<block name="quote">Members contribute to the civil service pension fund as follows: Male members 8% of pensionable salaries and female members 6%. The State, however, contributes in respect of male members 21,35%, and in respect of female members 16,01%.</block>
+
+<p>I am sure my colleague, the hon member for Houghton, would have something to say about the difference between the amount that the State contributes for males and females!</p>
+
+<p>On average, companies in the private sector pay about one and a half times the amount of the member&#x2019;s contribution. Here we find that the State is in effect paying more than one fifth of the member&#x2019;s annual salary into a pension fund on his behalf. In each case the State&#x2019;s contribution is 2,6687 times the member&#x2019;s contribution.</p>
+
+<p>I believe this is highly unusual and, with an escalating public service, the whole situation can get totally out of control. Let us by all means pay private sector related salaries to employees in the public sector, but let us then, as I have said, look at the other benefits as well and equate those too, and one of the first benefits that need to be equated is that regarding pensions.</p>
+
+<p>Finally I want to quote Dr Wassenaar when he says:</p>
+
+<block name="quote">In some respects, even in matters of taxation, we have a tendency to have one law applying to us in the private sector and another law which applies to government itself and to the bureaucracy. To me this is quite frightening.</block>
+
+</speech>
+
+<speech by="#aucamp">
+
+<from>*Mr <person refersTo="hansard_za">J M AUCAMP</person>:</from>
+
+<p>Mr Chairman, my sincere thanks for this opportunity to deliver my maiden speech. I trust hon members will show me some forebearance if I do not <span class="col_2075-2076" refersTo="page_1072"/>adhere strictly to the parameters demarcated for the two Votes under discussion.</p>
+
+<p>Many other hon members who have already spoken have expressed their gratitude but please allow me to express my appreciation to all hon members of Parliament and parliamentary officials who have, since the day of our arrival here, gone out of their way to make us feel at home and have helped us to adapt to our surroundings.</p>
+
+<p>It is an honour to participate in the proceedings of this House and to be part of an institution which is the highest debating chamber in the land, where leaders to a large extent determine the history of our country and regulate the lives of people. This House is a democratic institution, and democracy also manifests itself in this Parliament. This Parliament will determine how long democracy will last, and may I also make my humble contribution to the maintenance of that democracy. Throughout the years Parliament has also built up certain traditions, and as a young newcomer I shall endeavour to preserve the traditions and the prestige of this House.</p>
+
+<p>I also want to take this opportunity to thank the Free State members of the House of Assembly for the opportunity of coming to this House as an indirectly elected member of Parliament. I could, of course&#x2014;and understandably so&#x2014;wax lyrical about the particular qualities and capabilities of my &#x201C;voters&#x201D;, but let me content myself with saying that I am probably the only member of this House whose voters, ie all the Free State members of the House of Assembly, are altogether National. [Interjections.]</p>
+
+<p>It is a pleasure to participate in this debate. I want to mention here today that I specifically regard myself as fortunate in being able to deliver my maiden speech against the back-drop of the discussion of this particular Appropriation Bill, ie the one on own affairs.</p>
+
+<p>The truth of the matter is that we live in a heterogeneous country. We cannot&#x2014;nor do we want to&#x2014;make any changes at all to the diverse nature of our population. We accept it as given. If we seek lasting peaceful solutions in South Africa, we shall have to go on placing a high premium on group rights and protection. Apart from the existence of common ground amongst the respective population groups, requiring co-operation and joint decision-making, the concept of own affairs will have to be developed further. The hon the Minister of National Education did a very good job of articulating the demands that must be embodied in any dispensation when he said&#x2014;</p>
+
+<block name="quote">&#x2026;aan die een kant die eis dat &#x2019;n formule gevind moet word vir samewerking en mede-besluitneming en magsdeling tussen al die groepe in Suid-Afrika; aan die ander kant die eis dat elke volk en groep die versekering moet hê dat hy homself kan bly, sy kinders kan grootmaak soos hy wil, gevrywaar teen oorheersing deur ander.</block>
+
+<p>The stupendous challenge we are faced with is, in the words of the hon the Minister, &#x201C;om &#x2019;n simfonie te komponeer uit hierdie oën-skynlik botsende klanke&#x201D;.</p>
+
+<p>Because I do not represent a constituency, I have thought fit to devote a few paragraphs to the Free State. Hon members know that the Free State was known as the model republic. Since then that province has held so steadfastly to its reputation that a few weeks ago&#x2014;please note that this was after the election results had become known&#x2014;the Free State was called the model province by a columnist of <i>Die Burger</i>.</p>
+
+<p>The Free State is a province which covers about 11,4% of the surface area of the country. Notwithstanding its relatively small surface area, in comparison with other provinces, the Free State&#x2019;s achievements are significant, and it does not have to take second place to any of the other provinces. Amongst other things it is known for its agriculture, mining, industries and educational institutions and also for its rugby. Major Defence Force and Prisons Service components are also found there.</p>
+
+<p>One of the Free State&#x2019;s major assets and one of its major export products is probably its people. The people of the Free State are, by and large, realistic idealists&#x2014;moderate and peace-loving. The sound human relations in the province serve as an example. The diverse of peoples and population groups in the Free State live largely in harmony with one another by virtue of the fact that there is mutual respect for what is unique to each and <span class="col_2077-2078" refersTo="page_1073"/>co-operation in regard to what is common to all.</p>
+
+<p>The Free State also has <i>Die Volksblad</i>, a daily newspaper which has, over the years, became synonomous with the province, and which by virtue of its balanced reporting and comments, keeps its readers abreast of news events on a daily basis.</p>
+
+<p>One of the Free State&#x2019;s really proud adornments is the University of the Orange Free State. I know of no fewer than 15 hon members on this side of the House who are ex-students of this university. The realisation of a long-cherished ideal of having its own university did not materialise overnight. In 1885 Grey College School, from which the university was to develop, was established by Sir George Grey. On 28 January 1904 the university section, Grey University College, was separated from the famous school. In 1935 the name was changed to the University College of the Orange Free State, the object being to identify the institution closely with the population it was to serve.</p>
+
+<p>In the midst of the problems during the initial years, the ideal of an independent university was never lost sight of, and on 18 March 1950 the University of the Orange Free State achieved its independent status. The number of students increased from 29 in 1907 to more than 8 500 at the present time. The university&#x2019;s endeavour, since its earliest years, has been to cultivate leadership, and it can boast leaders in various spheres, from State Presidents, a Prime Minister and Ministers to Springbok rugby captains, all of whom have made their mark in Kovsieland.</p>
+
+<p>The university consists of nine faculties, 109 departments, five research institutions, 30 sports clubs, 110 student bodies and committees, 21 hostels and five service bureaux, whilst the university has 2 180 staff members in the academic, administrative or supportservice fields.</p>
+
+<p>As an academic, cultural and sports centre, the university of the Orange Free State stands at the focus of development in the Free State, and its sphere of influence grows larger each year. Its favourable geographic position at the very centre of the province and the country as a whole is one of the reasons why 41% of its students come from beyond the province&#x2019;s borders.</p>
+
+<p>Today I want to pay tribute to everyone, both men and women, who have, throughout the years, unremittingly made their contribution to the shaping and education of fully-rounded personalities in South Africa at the university of the Orange Free State and other universities and educational institutions. Directly or indirectly they have helped to develop this fine country into one which compares favourably with the best in the world. One may rest assured in the knowledge that the working conditions, conditions of service and remuneration of our educators are still receiving attention on a responsible basis.</p>
+
+<p>In conclusion I want to express my confidence today in the youth of our country. The report of the President&#x2019;s Council Committee for Social Affairs on the Youth of South Africa has just been published. Notwithstanding the fact that I have not yet been able to examine the report comprehensively, I nevertheless want to quote from a portion of that report which indicates the extent of our training and youth guidance task and which is also encouraging. On page 104 the committee reports as follows:</p>
+
+<block name="quote">The committee again puts on record that young people, of the age group 0&#x2014;24 years, constitute 55,6% of the total population of South Africa, and that this underlines not only the extent but also the importance of our training and youth guidance task.</block>
+
+<block name="quote">One should keep in mind that we have an extremely heterogeneous population of young people with regard to group identity, language, cultural background and general circumstances of life. We will need to take account of this diversity of people and cultures if we are to succeed with the important task of training and purposeful youth guidance. The committee has received abundant evidence in the course of its investigation that points to a fund of goodwill amongst young people as well as youth leaders who, by reason of a Christian attitude to life and a spirit of real benevolence, are prepared to accept this challenge.</block>
+
+<p>Recently a very interesting article by M H Trümpelmann of the Rand Afrikaans University appeared in the <i>Suid</i>-<i>Afrikaanse Tydskrif vir Opvoedkunde</i> on the theme of: &#x201C;Politieke <span class="col_2079-2080" refersTo="page_1074"/>geletterdheid: Waarom en hoe?&#x201D;. Linking up with that, let me say that knowledgeable and useful citizens who can make rational political judgements are a prerequisite for any sound democracy. For that reason a profitable investigation could be instituted to determine whether the time had not come to make political literacy more a part of the school syllabus.</p>
+
+</speech>
+
+<speech by="#prinsloo">
+
+<from>*Mr <person refersTo="hansard_za">J J S PRINSLOO</person>:</from>
+
+<p>Mr Chairman, this is the second time that I, as a newcomer to this House, have had the privilege of congratulating another newcomer on his maiden speech. This appears to me to be some kind of record. I think it would be worthwhile keeping score of how many other hon members also find themselves in this situation.</p>
+
+<p>To come back to the hon member Mr Aucamp. From what the hon member said it is very clear that he, like the rest of us newcomers, has very high ideals about Parliament as a democratic institution and that he is also enthusiastic and optimistic about his role in this institution.</p>
+
+<p>It is also very clear from the hon member&#x2019;s speech that he feels exceptional loyalty towards the province from which he comes and towards the voters of that province.</p>
+
+<p>I should like to tell the hon member that in my view it is a good thing for someone to know who he is and where he comes from, because that also enables him, from time to time, to evaluate the course he has adopted. I want to congratulate the hon member very sincerely on his speech and express the wish that he will find his time here in this House to be a very constructive one and also that we may look forward to extremely valuable and enlightening contributions from him.</p>
+
+<p>In regard to the two Votes under discussion, it is worth noting that the field of debate for these two Votes is not, in point of fact, a very extensive one. The fact I was confronted with when I attempted to evaluate the two Votes was that in the main I actually needed further information before being able to assess them adequately. I therefore trust that the hon the Minister of the Budget in the Administration: House of Assembly will, in the course of his reply, furnish as many answers as possible to the relevant questions I am going to put to him.</p>
+
+<p>In regard to Vote No 5&#x2014;&#x201C;Budgetary and Auxiliary Services&#x201D;, the hon the Minister said, in his Budget speech, that the difference between the amount appropriated for the 1986-87 financial year and the amount in respect of the 1987-88 financial year could chiefly be ascribed to personnel and other functions transferred to the Departments of Agriculture and Water Supply and Education and Culture. The difference, as is apparent from the relevant document itself, is R5 081 000. That is the first point in connection with which certain questions inevitably arise.</p>
+
+<p>Firstly I want to ask how many staff members were allocated to the other two aforesaid departments since the previous Budget. Only when one has those figures at one&#x2019;s disposal can one do a truly fundamental evaluation of the Budget.</p>
+
+<p>Secondly, what portion of this R5 081 000 represents the salaries and other forms of remuneration of these individuals?</p>
+
+<p>Thirdly, is it proposed that there will be a further interchange of personnel between this department and other departments during the present financial year? If so, how many, and what are the financial implications of this move in as far as this department&#x2019;s budget for the coming financial year is concerned?</p>
+
+<p>In this connection I should like to make a general remark. It is my respectful opinion that the continual interchange of public servants between various departments leads to disruption and, to a certain extent, to frustration as far as their functions are concerned. I myself was a public servant for a period of ten years and had personal experience, during that period, of how people felt about this. Until quite recently, in fact, just prior to my election, I had very close ties with public servants&#x2014;I hope they will continue&#x2014;and from that experience I am also able to convey to the hon the Minister that public servants really find such moves disruptive.</p>
+
+<p>It is, in point of fact, a characteristic of the present system of government. Since the new dispensation came into operation there has been, from time to time, tremendous confusion when public servants were transferred from one department to another, or when there was a mutual interchange of functions between various government departments.</p>
+
+<p><span class="col_2081-2082" refersTo="page_1075"/>This is so bad that in response to enquiries made to some of those departments, one is sometimes informed that the letterhead on a letter one receives from a specific Government department is no longer valid; that the name printed there is no longer the name of the department, but that the letter is merely part of old stock that is being used and that in future one should address one&#x2019;s letters using the new name of a particular Government department. During the present session we had an example of a Minister who had the name of his portfolios changed.</p>
+
+<p>Let me mention to the non the Minister that these are all aspects that cause disruption and confusion in the public service as a whole and that they do, of necessity, also have financial implications.</p>
+
+<p>The fourth question that arises is what other functions have been transferred to the two other departments since the previous Budget and what percentage of the R5 million was involved in this transfer. I am now referring to functions other than the mere transfer of staff.</p>
+
+<p>The fifth question is whether any portion of the decrease in the present Budget, and in this specific vote, is attributable to a saving having been effected. If so, I should like to know what amount is involved. From the Budget itself it also appears that there was a decrease of R1 717 000 and R1 185 000 in the items administrative expenditure and stores and livestock respectively, and a further R1 303 000 in regard to equipment. The same questions I have posed in regard to personnel also apply in this context.</p>
+
+<p>Just in passing I should like to know what forms or species of livestock this relevant department controls and I should also like to ask whether there is still any livestock under the control of this specific department. In regard to professional and special services an additional amount of R348 000 has been budgeted. In my view this is not such a large amount in itself, but if one notes that it is more than twice the amount reflected in the previous budget, the question that inevitably crops up is why there has been such a drastic increase.</p>
+
+<p>In regard to Vote No 6&#x2014;Improvement of Conditions of Service&#x2014;let me say that this side of the House regards the improvement of conditions of service in the Public Service as a matter of extreme importance. The Public Service should, at all times, ensure that State functions proceed without hindrance in this country. A government can only ensure that this takes place if it sees to it that the officials concerned are remunerated in accordance with their actual relevant contribution. The general increase of 12,5% in salaries, which comes into effect on 1 July, is therefore, according to the indications we have, insufficient to counteract the continual increases in the cost of living, particularly over the past five years.</p>
+
+<p>I want to concede at once that the solution to this problem is not a simple one, but again, against the background of what has been said by other speakers in my party, I want to advocate greater self-determination, in this respect too, since in my view this would lead to a simplification of the budgeting process and the improvement of conditions of service for a specific population group. The complex mechanisms and formulas for working out own affairs budgets, in the context of political objectives which also clearly relate to the present tricameral parliamentary system and the budget for that, were clearly seen in these two votes to be an aspect any Minister of the Budget could do without.</p>
+
+<p>Now I want to refer to two isolated aspects. The hon member for Kuruman asked what these State-supported institutions were to which reference is made in this last Vote. I want to associate myself with that question and ask whether, for example, this includes the salaries of lecturers at universities and, if so, to what extent.</p>
+
+<p>The hon member for Gezina also said that he trusted that the private sector would co-operate so that there was no price-squeeze. A question which of necessity crops up in this regard is what the Government is going to do if there is a price-squeeze.</p>
+
+</speech>
+
+<speech by="#welgemoed">
+
+<from>*Dr <person refersTo="hansard_za">P J WELGEMOED</person>:</from>
+
+<p>Mr Chairman, at this stage Votes Nos 5 and 6 of the Administration: House of Assembly have been fairly exhaustively dealt with; and you allow us such narrow parameters within which to move that not even one of the Free Staters could get away with a sideswipe.</p>
+
+<p>Speaking of the Free Staters, let me congratulate <span class="col_2083-2084" refersTo="page_1076"/>the hon member Mr Aucamp on his maiden speech. It was a good one. Since I was in that position not so long ago, I do want to give him a little advice. He must remain in that position, because he now has the best voters imagineable. He only has to take them for a meal once a year here in Parliament; then he has them in the palm of his hand for the next election. It is only when one has a constituency that one encounters many problems. I should like to give him this free advice&#x2014;he does not have to invite me when he invites the rest of the Free Staters. I just want to add&#x2026;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Piet, can he trust the Free Staters?</p>
+
+</speech>
+
+<speech by="#welgemoed">
+
+<from>*Dr <person refersTo="hansard_za">P J WELGEMOED</person>:</from>
+
+<p>Yes, he can trust the Free Staters, except when it comes to those who do some sideswiping. I think there are few of them, however.</p>
+
+<p>I should like to tell the hon member Mr Aucamp that it is a good thing he spoke of the Free Staters as he did. It shows that he does not regard each voter he represents merely as one small unit or one specific voter, but rather as a person working in conjunction with the rest. I want to wish him everything of the best for the future. I know that he will also be as confused as we all are in his search for a constituency, and I want to wish him everything of the best in that search of his.</p>
+
+<p>The hon member for Roodepoort will excuse me if I do not speak in the same vein as he did. I think that what he said was chiefly aimed at the hon the Minister. It mainly involved a large number of questions and answers.</p>
+
+<p>Mr Chairman, when all is said and done I should like to ask for your forbearance, because even with the small amount of manoeuvreability I am going to try not to step out of the field of play. Before I come to that, however, I should like to speak about the Budget as such, and not simply about the figures.</p>
+
+<p>It is interesting to think that even at this stage the personnel are engaged in the first phase of setting up a budget for next year, a budget which has to be delivered here. That makes a budget very difficult. Here I want to link up with what the hon the Minister of Finance quite rightly said yesterday, and that was that a budget should really not be seen as a rigid lot of figures that cannot be adapted to changing circumstances.</p>
+
+<p>When one examines literature on economics to see how a budget is defined, one obtains a large number of explanations about why a budget is drawn up. The one which I should like to adapt slightly for the purposes of this debate is the one that states that a budget is, in effect, simply a guideline. The most important part of a budget is still the revenue portion. One can draw up the best possible budget, but if one does not, when all is said and done, have the necessary revenue, one has a problem.</p>
+
+<p>The hon the Minister serves on the Cabinet Committee on Financial and Economic Affairs. I think this enables the hon the Minister to make his contribution by fighting for own affairs. In a moment I shall be speaking about the view concerning the small growth in own affairs, which the hon member for Barberton spelled out here. I think he was a little over-critical, but I shall allow him that latitude because he is the main speaker on finance on that side of the House. Since I am speaking about that now, I might just as well go on. If we look at the Budget as a whole, we must remember that at this stage we are unfortunately confined solely to Votes Nos 5 and 6 and cannot go much beyond that. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#welgemoed">
+
+<from>*Dr <person refersTo="hansard_za">P J WELGEMOED</person>:</from>
+
+<p>A large portion of Votes Nos 5 and 6 deal with one point, ie that an auxilliary service is being rendered. Frequent mention was made of the fact that the amounts had been reduced, particularly those for personnel expenditure, because at this stage that focuses on two aspects. Let me mention again that here we are taking a very narrow look at things. We are simply looking at Votes Nos 5 and 6. What this implies is that those working here have worked more efficiently.</p>
+
+<p>Secondly, when mention is made of budgetary and auxilliary services&#x2014;the hon the Minister also mentioned this&#x2014;there is one thing that comes into prominence, and that is the furnishing of computer services. I think that by making more use of modern technology <span class="col_2085-2086" refersTo="page_1077"/>than we are at the moment, it will be possible for that hon Minister, in future, to keep his personnel component or expenditure on personnel at a lower level or to reduce it as against the increase in inflation.</p>
+
+<p>The hon the Minister also has the advantage of serving on the Priorities Committee where he can negotiate for money. I want to ask the hon the Minister also to make use of that opportunity to negotiate for computers, in particular, over and above all the other aspects of his negotiations, because if we make full and systematic use of computers we shall inevitably be in a position to furnish a better service when it comes to own affairs. Secondly this must inevitably reduce costs. So if the hon the Minister, in next year&#x2019;s Budget, makes provision for a reasonably large capital sum or &#x201C;equipment&#x201D;, as it is termed here, I think that all of us in this House should support him. The reason for this is that it could also lead to a reduction in expenditure on the most expensive item. The most expensive item in any production process is labour or, to put it differently, salaries and wages. If we can curtail that by the better utilisation of existing facilities and by the training of people who are already employed, with a view to higher productivity, I think the hon the Minister is on the right track.</p>
+
+<p>It seems as if the people in this department have now found their feet, judging by the effectiveness reflected here in the sense that smaller amounts are being provided, even though the same amount of work is being done. We get the impression that it is not only efficiency that is being increased, but also that much greater support is being furnished. The support covers a much wider field, judging by the fact that it now includes those who will, when all is said and done, be ministerial assistants.</p>
+
+<p>I should like to broach a further issue which I have investigated. As a starting point, let me use the fact that the hon the Minister is improving the quality of life of the Whites within the sphere of own affairs. I have examined all these Votes&#x2014;Sir, I now request your forebearance for a moment, because I want to make a request to the hon the Minister in this connection, and also to you, as Chairman&#x2014;and I think this is a very valuable document as far as this debate is concerned, even if only because it gives us considerable information which facilitates the structuring of this debate. I have examined this document and want to direct a request at the hon the Minister in connection with the problem that exists&#x2026; [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#welgemoed">
+
+<from>*Dr <person refersTo="hansard_za">P J WELGEMOED</person>:</from>
+
+<p>Within the ambit of the policy, we are trying to keep the aged and the handicapped in their own homes and to build, not new old-age homes but rather community centres. This creates another problem which, in my view, we should address by way of this Budget. The major problem that people encounter in this connection is that of transport, because buses are increasingly being withdrawn from service. Public bus services are being decreased. Whilst I was conducting my election campaign, amongst those people, certain handicapped individuals and others I encountered one major problem, that of loneliness. I want to ask the hon the Minister to examine this within the ambit of his budget&#x2014;I do not know under which department; I leave that to him.</p>
+
+<p>He is a member of the Priorities Committee and also participates in drawing up the Budget as a whole. Would he please look at the ways in which we can again make transport available for those people. Some method or policy must be found to get these lonely people to the centres which the hon the Minister is creating. The centres are being created, but we cannot get the people there.</p>
+
+<p>I am asking the hon the Minister who handles the money, as it were, to see what he can do about this problem.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>Mr Chairman, I should like to react to the hon member for Primrose&#x2019;s statement about the reduction in personnel costs. He praised the hon the Minister of the Budget for reducing these costs. I am not sure that this is the case; I feel it is rather a case of personnel being transferred from one post to another. If the hon the Minister succeeds, I want to ask him to go to the Cabinet and give the other hon Ministers the &#x201C;magic formula&#x201D; as well. Honestly, if the hon the Minister succeeds, he will be the only one in the Cabinet who has.</p>
+
+<p><span class="col_2087-2088" refersTo="page_1078"/>&#x2020;The hon member for Gezina spoke very lyrically about own affairs and the importance his party attached to the concept.</p>
+
+<p>While he was speaking I thought of the beautiful and sad story of Brigadoon. To refresh the memory of hon members, Brigadoon is a mythical land which appears out of the mist once every century and after one day&#x2014;24 hours&#x2014;it disappears again.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Like the Progs!</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>When the inhabitants of Brigadoon wake up after each century of slumber they simply carry on with what they were doing when they went to sleep. They have not aged, their houses are the same, they eat, sleep, make love and 24 hours later they fall asleep again as if nothing had happened.</p>
+
+<p>This own affairs Budget of the NP, particularly Votes 5 and 6, remind me of a political Brigadoon&#x2014;or should I rather say &#x201C;Brigadoom&#x201D;. The NP has woken up again from its annual general affairs slumber to discuss its mythical White own affairs Budget. For a few days they try to use a make-believe political detergent, a NP kind of &#x201C;Omo&#x201D; to wash South Africa whiter and make the colours brighter. Then, for another year, they fall asleep again.</p>
+
+<p>Unlike in Brigadoon, however, things change every year in South Africa. When we have dealt with this Budget, we shall return to what the hon member for Yeoville called &#x201C;this stupid game&#x201D;. We shall have once again to face the real general affairs South Africa or, as the hon member for Langlaagte called it, &#x201C;the cold wind outside&#x201D;.</p>
+
+<p>When we study Votes 5 and 6 very carefully we see the truth of what I have just said. Vote 5 deals with budgetary and auxiliary services. The amount budgeted for has actually decreased by R5 million. This decrease is particularly owing to a decrease in expenditure on personnel, administration and equipment. According to the hon the Minister this is owing to a transfer of funds to other own affairs departments. In the programme description containing details in relation to Programme 1: Administration, we read the following:</p>
+
+<block name="quote">policy formulation by the Minister, Director-General and Head of the Department as well as rendering of financial and administrative services.</block>
+
+<p>In the light of what I have just quoted it would be both interesting and of great help if the hon the Minister were to tell the Committee more about the so-called policy formulation on the part of his department. In his Second Reading speech the hon the Minister came very close to revealing a few future truths. I should be very grateful if he would continue to enlighten us in connection with what he really meant by the numerous insinuations he made in his Second Reading speech. I want to ask the hon the Minister directly whether more administrative functions will be transferred to other departments or whether more of those functions will indeed be transferred to this particular Vote. I put this question to the hon the Minister since in his Second Reading speech he said the following (Hansard: House of Assembly, 11 June 1987, col 1242):</p>
+
+<block name="quote">Various identified own affairs functions, for example local government, public resorts and hospital services, are in the process of being transferred. This will increase the burden on the Treasury even further.</block>
+
+<p>It would therefore be of immense help, Sir, if the hon the Minister who according to the programme description quoted by me is responsible for policy formulation, were to tell us today how far advanced this process of transfer is at the moment. I should also like the hon the Minister to tell us which local authorities, which public resorts or which hospital services will be transferred to own affairs. He can also tell us when that will happen. I ask this because during the debate on this whiter than white Vote it has become obvious that hon members of the NP do not have a clue as to what Vote 5 and Vote 6 are all about. I believe therefore the hon the Minister owes it to his own party to tell them what we are discussing here and why. [Interjections.] When one reads the hon the Minister&#x2019;s Second Reading speech and studies the details of Vote 5 and Vote 6 as explained in the Estimates of Revenue and Expenditure, and also studies the relevant explanatory memorandum, it becomes quite obvious that the hon the Minister and his department have barely woken up from this <span class="col_2089-2090" refersTo="page_1079"/>year-long own affairs sleep of theirs but can already hardly wait to return to their general affairs slumber.</p>
+
+<p>If we look again at Vote 5, Programme 1: Administration, we see that one of this Minister&#x2019;s few functions&#x2014;I am referring to Votes 5 and 6&#x2014;is to appoint marriage officers&#x2026;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Own affairs.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>&#x2026; own affairs marriage officers. May I ask the hon the Minister how many of these so-called marriage officers this department appointed during the year we budgeted for? Can the hon the Minister tell me if they may officiate at own affairs&#x2019; weddings only? Also, is own affairs White own affairs, Coloured own affairs, Indian own affairs or Black own affairs? Can these officers officiate at mixed marriages? Although that Nat Party has slept for a year, things have changed, as I have said. Brigadoon is no longer there. These people have to officiate at ail types of marriages, even mixed marriages which we know, if we have read the newspapers recently, are quite legal.</p>
+
+<p>This question I am asking the hon the Minister about the own affairs marriage officers is, I believe, a very important question, for if they are only for White own affairs weddings, it must be as, if not more, racist than anything the CP on my right has ever said. If not, then it proves that the NP, or some of its members, realise that there have been changes while most of them have been politically asleep.</p>
+
+<p>Mixed marriages are now legal. In my opinion, to have a marriage officer appointed in an own affairs department by an own affairs Minister for own affairs weddings based on race, must be a disgusting and crazy example of what my colleague, the hon member for Yeoville, called &#x201C;this stupid game&#x201D;. I think the hon the Minister is very suitably qualified to try to justify in this Committee today how these marriage officers, appointed by his department, have to officiate at weddings. According to the Department of Home Affairs, they have to write the race of each of the married partners on the form. I would like the hon the Minister please to answer this question of mine.</p>
+
+<p>I would also like him to go into more detail about the following. We have a ministerial representative for health services, and we see from the Budget Vote that there is an amount of more than R2 million for general hospitalisation and surgery. I would like the hon the Minister to listen to me. The programme description describes general hospitalisation and surgery for this Health Services Vote as &#x201C;rendering a comprehensive hospital and health service to State and private patients&#x201D;. The hon the Minister said in his speech:</p>
+
+<block name="quote">The preponderance of funds for the promotion of welfare can be ascribed to the fact that hospital services have not as yet been transferred to the Administration.</block>
+
+<p>So we have money, we have Ministers, but as yet no transfer of one particular section for which they have budgeted.</p>
+
+<p>I would like the hon the Minister and his colleagues to realise that they cannot wake up to find everything the same. Things are changing, and I would like that hon the Minister, who has made very responsible and I think very good speeches during this debate, please to reply to us and give us more information as to his own affairs delusions and how he sees things to be developing.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Especially about White own affairs.</p>
+
+</speech>
+
+<speech by="#olivier">
+
+<from>*Mr <person refersTo="hansard_za">P J S OLIVIER</person>:</from>
+
+<p>Mr Chairman, the hon member for Parktown referred to this debate and to own affairs as a &#x201C;stupid game&#x201D;. One can understand such comments when they come from the hon member and his party, because they simply do not want to understand the whole concept of own affairs; it is not consistent with their whole political philosophy. [Interjections.] That is why the hon member is making these spiteful remarks.</p>
+
+<p>I should like to go back briefly to the hon member for Yeoville, the PFP&#x2019;s chief spokesman on finance. He alleged, in the first place, that this whole Budget and the amounts allocated in it were cloaked in secrecy. How one can possibly say that when one has a printed copy of the Budget in front of one, is something only the hon member knows. He said, moreover, that the allocation of priorities was cloaked in secrecy as well. The hon member&#x2014;unfortunately, he is not in the <span class="col_2091-2092" refersTo="page_1080"/>House, but his colleagues will probably be able to answer for him&#x2014;then dismissed the Government as being arrogant and said that the Government and the hon the Minister of the Budget and Welfare had disregarded the wishes of the voters. He said this in spite of the fact that this Government had returned to Parliament with an increased majority. I have never heard anything so illogical.</p>
+
+<p>I should like to relate what I have to say to Vote 5, in particular the section of Programme 1 described as &#x201C;policy formulation by the Minister&#x201D;. Then I should like to discuss the policy that the opposition parties feel should be applied&#x2014;they would like to convince the hon the Minister of this&#x2014;in drawing up a budget like this one. I begin once again with the PFP&#x2019;s chief spokesman on finance, and I should like to quote him (Hansard: House of Assembly, 12 June 1987, col 1235):</p>
+
+<block name="quote">The reality is that according to the present growth patterns there is no way that parity can be achieved in all social services within a reasonable period or within the period which the underprivileged groups in South Africa have in mind for their aspirations to be met.</block>
+
+<p>&#x2020;Then the hon member goes on to declare that sacrifices should be made to achieve parity. Without saying it directly he urges the Government to lower standards of social services of the White population group so as to reach parity.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>[Inaudible.]</p>
+
+</speech>
+
+<speech by="#olivier">
+
+<from>*Mr <person refersTo="hansard_za">P J S OLIVIER</person>:</from>
+
+<p>What is the policy that the hon the Minister must comply with in respect of the own affairs Budget? In accordance with the policy of the party to which he belongs, the hon the Minister is obliged to strive for parity among the population groups as far as salaries&#x2014;of which mention is made in this Vote&#x2014;are concerned. That has already been achieved. There must be parity in respect of the opportunities offered to members of the various population groups. The ultimate parity&#x2014;parity in respect of services&#x2014;is also an objective.</p>
+
+<p>When we look at the PFP&#x2019;s policy approach in this regard, we see very clearly that the social-democratic policy of the hon member for Yeoville is getting the upper hand. That hon member advocates the lowering of the standards of the White population group so that parity with the other population groups can be achieved.</p>
+
+<p>That is not the standpoint of this hon Minister and the Government of the day. Our standpoint is that the standards in respect of the rendering of service must be maintained as far as the Whites are concerned, and must be upgraded as far as the other population groups are concerned. Parity will ultimately be achieved in this way.</p>
+
+<p>I see the hon member for Barberton is not in the House at the moment, but he was here a moment ago. I should like to make a few comments in connection with this hon member as far as this Vote is concerned. Although the hon the Minister was acting in accordance with policy, the hon member said the following (Hansard: House of Assembly, 12 June 1987, col 1312):</p>
+
+<block name="quote">One finds then that, in real terms, there has been a decrease and not an increase, because the nominal increase in this year&#x2019;s Budget for White own affairs is only about 8%&#x2026;. What bothers us is the fact that the increase for White education in terms of this Appropriation amounts to only 8,8%.</block>
+
+<p>The hon member for Barberton then put this pertinent question to the hon the Minister:</p>
+
+<block name="quote">We now want to know from the Government why there has been such a decrease in real terms.</block>
+
+<p>Let us answer this question immediately. The reason is that it was possible for this hon Minister and the Government to comply with the standard of service rendered in respect of the matters under discussion, using the current allocations. The hon member went on to say:</p>
+
+<block name="quote">When one takes a closer look at the Budget, one sees that in nominal terms the appropriation in respect of health services and welfare is slightly higher&#x2014;it is 12,3%&#x2014;but is still far below the rate of inflation.</block>
+
+<p>Now the hon member is trying to make a case for an increase in the allocation in respect of health services, for example, that keeps pace with the rate of inflation. What an absurd <span class="col_2093-2094" refersTo="page_1081"/>argument! Surely a rate of inflation that is measured according to the consumer price index has nothing to do with increases in costs in respect of a department such as health services, for example. What is indeed relevant, and must remain so, is the simple question of whether or not, in connection with health services for example, the level of services rendered to the White population group can be maintained, as far as the allocated amounts are concerned. What should not be relevant is whether or not the nominal amount has increased.</p>
+
+<p>If one were to look briefly at welfare, for example, it is certainly true that social pensions and the standard of living they allow must keep pace with the rate of inflation that has been determined according to the consumer price index. That makes sense, and in that respect I can understand the reasoning of the hon member for Barberton in this regard. As far as pension payments are concerned, there has indeed been a decrease in real terms in the amounts that pensioners received. It is equally true, however, to say that all other members of the community are also experiencing a decrease in their income in difficult financial circumstances. [Time expired.]</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>Mr Chairman, I listened with amazement to the address of the hon member for Fauresmith, particularly his remarks concerning the hon member for Yeoville who had in his Second Reading speech and in his address during the discussion on this Vote mentioned the question of sacrifices and standards to the hon the Minister. The hon member for Yeoville said quite explicitly that the public of South Africa had to be told that sacrifices had to be made and that we in these benches had to be assured that there would be no lowering of standards. This can be read in his speech. I see that the hon member for Fauresmith is shaking his head; so be it.</p>
+
+<p>I want to make it quite plain that that is exactly the point we are concerned about. The hon member for Fauresmith should look to his own laurels. What I find amazing is that when we ask a question concerning the number of teachers who were made redundant last year, in the Transvaal the figure is over 100, in the Cape it is over 250, in Natal it is 180&#x2014;they were made redundant, Sir, which means the class sizes are getting bigger&#x2014;and in the Orange Free State it is nil. I want to say that some questions are going to be asked about the Orange Free State, because I suspect that it is being protected in this regard. So the hon member for Fauresmith should consider the fact that the sacrifices that every other province is having to endure are not being endured in the Orange Free State.</p>
+
+<p>I want to speak on Vote No 6: &#x201C;Improvement of Conditions of Service&#x201D;, and particularly on the subsection of the Vote concerned with the augmentation of salaries, wages and allowances. It has a note, Sir, so that you may know that I am speaking on the subject, saying that R126 million is in respect of pre-primary, primary and secondary education and teacher training.</p>
+
+<p>I want to address my remarks to the process of arriving at that figure of R126 million. We have had an extraordinary six months. We have had a period of time during which so many things have gone on regarding the negotiations for teachers&#x2019; salary increases, that they are almost worthy of a novel. Hon members should know that the process of arriving at the increases for teachers and all public servants are initiated some two years prior to a budget being presented where submissions, &#x201C;insette&#x201D;, arrive from the organised teaching profession and other sources to be debated and discussed. That was two years ago, Sir. So the process of arriving at a point where the Budget actually produces a figure of an increase&#x2014;the R126 million&#x2026; Can I just give the hon the Minister the reference, he appears not to have it: Vote No 6, page 1, which reads: &#x201C;Improvement of Conditions of Service&#x201D;&#x2014;R198 million&#x2026; and I am referring to the footnote in fine print at the bottom.</p>
+
+<p>In January of this year <i>The Citizen</i> carried a report on a series of remarks emanating from the Chairman of the Teachers&#x2019; Federal Council, Mr Dudley Schroeder in which he indicated that comprehensive and motivated inputs for increases were under negotiation. The report went on to say:</p>
+
+<block name="quote">While he did not give a percentage increase being sought by the profession, he said he would like to know on what basis the 12 to 15 percent increase for public servants <span class="col_2095-2096" refersTo="page_1082"/>generally had been calculated. The information available to the organised teaching profession was based on thorough research and indicated &#x2018;that the backlogs which have accumulated in respect of the education sector are considerably larger&#x2019;.</block>
+
+<p>So, Sir, the saga continues. I quote as follows from <i>The Citizen</i> of 29 January in regard to some further remarks by Mr Schroeder:</p>
+
+<block name="quote">Media reports on a general salary adjustment for the public service gave the impression that the Public Servants Association was conducting final negotiations&#x2026; The teaching sector, he said, made its own inputs&#x2014;and the profession could in no way be compromised by percentages made public by other staff associations in the government sector.</block>
+
+<p>I quote next from <i>The Star</i> of 14 February:</p>
+
+<block name="quote">Angry teachers are calling for an overhaul of the &#x201C;obsolete&#x201D; salary negotiation procedure&#x2026;</block>
+
+<p><i>*Die Transvaler</i> of the same day reported as follows:</p>
+
+<block name="quote">Prof Maree sê die normale en tradisionele salarisaanpassingsdatum&#x2026;</block>
+
+<p>That was 1 April&#x2014;</p>
+
+<block name="quote">&#x2026;vir die afgelope halwe dekade is met di&#x00E9; besluit buite rekening gelaat.</block>
+
+<block name="quote">Dit verbaas ook dat verantwoordelike en gesubstansieerde vertoë eers teen die hoofbegroting verreken moet word&#x2014;ons het gemeen dat die hele klein begroting reeds teen die hoofbegroting verreken is, veral gesien in die lig dat die klein begroting Voorsiening maak vir die befondsing van staatsuitgawes oor &#x2019;n langer tydperk en in alle waarskynlikheid minstens een derde van die finansiëe jaar.</block>
+
+<p>[Interjections.]</p>
+
+<p>&#x2020;So the saga continues. The Teacher&#x2019; Federal Council meets with the hon the Minister of National Education, and then with the own affairs Minister, the hon the Minister of Education and Culture. We reach a point where, by the end of March, suddenly, lo and bebold! the hon the State President makes the announcement of the salary increase, after the hon the Minister of Finance had said previously he was not going to give any indication of what the increase would be. The announcement was made on 21 March, and on 23 March it was reported in <i>Die Burger</i> that:</p>
+
+<block name="quote">Die verklaring lui dat die FOR met belangstelling en waardering kennis ge-neem het van die Staatspresident se standpunt Saterdag op Boksburg.</block>
+
+<block name="quote">Hieruit het geblyk dat:</block>
+
+<block name="quote">Die Regering positief staan teenoor sala-risvertoë;&#x2026;</block>
+
+<p>Then we had to wait until 6 May. We got past 6 May and we reached a point where the announcement was made. I merely want to quote a reaction from Prof Hennie Maree, as was reported in <i>Beeld</i> on 20 May:</p>
+
+<p>Die Regering se hantering van die saak is vir die TO&#x2026;</p>
+
+<p>*That is the Transvaal Teachers Association&#x2014;</p>
+
+<p>&#x2026; &#x201D;n totale verleentheid&#x2019;, sê prof Hennie Maree&#x2026; &#x2018;Elke faset daarvan skep die beeld van onbeholpenheid en omstredenheid.&#x2019;</p>
+
+<p>Mr Chairman, this is not what the PFP is saying. This is Prof Hennie Maree.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>*Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>Another sensible person.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>*An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>What are you implying?</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>*Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>The report goes on to say:</p>
+
+<block name="quote">Prof Maree het gesê die Regering en sy raadgewers moet oor salarisse en diensbe-delingstrukture tot verantwoording geroep word. Wat nou gebeur het, werk vir die onderwys verliese en probleme in die hand wat later deur geen geld reggemaak kan word nie.</block>
+
+<block name="quote">Hy het verwys na die verlies aan sleutelmannekrag vir die onderwys, en die verharding van gesindhede onder onderwysers. &#x2018;Die Regering se ondernemings met betrekking tot die handhawing van die koopkrag van owerheidswerknemers (ook onderwysers) die handhawing van markverwante salarisse en &#x2019;n gelyke bedeling vir mans en vroue in die onderwys word nie <span class="col_2097-2098" refersTo="page_1083"/>konsekwent gestand gedoen nie. &#x2018;Die huidige hantering bevat al die elemente vir &#x2019;n klaaglike mislukking van neergelegde beleidsmaatreës&#x2019;, lui die verklaring.</block>
+
+<p>&#x2020;I want to echo those accusations here today. I want to speak to the hon the Minister directly. He may well adopt the attitude of a previous Minister of Finance that this Vote merely falls within his orbit purely because he happens to be Minister of the Budget and that he actually has no input in it at all; nothing whatsoever.</p>
+
+</speech>
+
+<speech by="#minister_of_the_budget_and_welfare">
+
+<from>The <person refersTo="hansard_za">MINISTER OF THE BUDGET AND WELFARE</person>:</from>
+
+<p>The Leader of the House.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>That is quite correct. The problem that we have in debating this item, however, is that this hon Minister is the only one whom we can challenge on it.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I regret to inform the hon member that his time has expired.</p>
+
+</speech>
+
+<speech by="#blanch&#x00E9;">
+
+<from>*Mr <person refersTo="hansard_za">J P I BLANCH&#x00C9;</person>:</from>
+
+<p>Mr Chairman, I am merely rising to give the hon member an opportunity to complete his speech.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>I want to thank the hon Whip for that appreciative gesture! I want to ask only one simple direct question to the hon the Minister: Does the R126 million set aside here cover a 12,5% increase for all educators in South Africa; does it cover the achievement of true parity at the second level for men and women; and does it cover, finally, the entire related professions in terms of occupational necessity?</p>
+
+<p>The hon the Minister of the Budget and Welfare has said by way of interjection that it is the hon the Leader of the House&#x2019;s responsibility as the hon the Minister of National Education.</p>
+
+</speech>
+
+<speech by="#barnard">
+
+<from>Dr <person refersTo="hansard_za">M S BARNARD</person>:</from>
+
+<p>He says &#x201C;yes&#x201D;.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>Mr Chairman, I know that you will not allow me to address my remarks to the hon the Minister of National Education today.</p>
+
+</speech>
+
+<speech by="#minister_of_national_education">
+
+<from>The <person refersTo="hansard_za">MINISTER OF NATIONAL EDUCATION</person>:</from>
+
+<p>Discuss it under my Vote.</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>I will certainly do that. I have made all these points, however, because it is in the very Budget that we are allowed to discuss; that is the point. [Interjections.]</p>
+
+<p>Finally, I want to make two points. [Interjections.] The one concerns salary growth in general. In 1985-86 and 1986-87 the increases in the cost of living were close to 20% in both cases. The Public Service increases for those two years were 10% last year and 12,5% this year. I want to make it quite clear that I believe that the education profession needs to be lifted out of the Public Service. Overall, however, I also want to make it clear&#x2014;and I go along in this regard with my colleague the hon member for Port Elizabeth Central&#x2014;that we in the PFP believe in market-related salaries. The salaries in the education profession are not, however, market-related.</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>Mr Chairman, I do not intend to react to everything the hon member for Pinetown said. He referred <i>inter alia</i> to quotations made by Prof Maree. Few people know the Marees better than I do, and very few of us always think straight. Perhaps the criticism levelled against the professor was too extreme. I shall tell hon members why I say that. Earlier this year, before the general election was announced, the Government adopted what I thought was a very reasonable attitude by saying that the actual salary adjustments would be made after 6 May. Can you imagine, Mr Chairman, what the hon members of the former Official Opposition, the PFP, would have said if those adjustments had been made before the election?</p>
+
+</speech>
+
+<speech by="#burrows">
+
+<from>*Mr <person refersTo="hansard_za">R M BURROWS</person>:</from>
+
+<p>The Government did say, however, that they would get those increases.</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>They would definitely have said that the officials were being bribed; that this was a pre-election gesture made for their own gain in order to put more money in those people&#x2019;s pockets. [Interjections.] What should the Government have done? Should it rather have maintained the tradition of making the announcements on 1 April, or was it fair and just of the Government to wait until after the event had taken place? The PFP criticises, no matter what is done, and that is not fair. [Interjections.]</p>
+
+<p>I should like to congratulate the hon the Minister sincerely on this Budget. Naturally the own affairs budget will become increasingly <span class="col_2099-2100" refersTo="page_1084"/>important to us as time goes by and traditions become established in terms of these new norms. That is why it is so important to those of us who support the concept of own affairs that the hon the Minister has the opportunity, as he does at the moment, to serve on the State President&#x2019;s priorities committee and on the Cabinet Committee on which financial affairs are determined, because there he can discuss monetary and financial preferences.</p>
+
+<p>I should like to make it very clear that neither the CP nor the PFP can really participate in this debate in a positive manner, and I shall tell hon members why. [Interjections.] It is because the CP has a policy in which the concept of own affairs would serve no purpose whatsoever. Naturally, the PFP does not find it useful either.</p>
+
+<p>The fact is, however, that if one cannot divide up the country, one has to divide up the political structures; and when one wants to divide up the political structures, one must be able to distinguish own affairs from general affairs. That is why the opposition parties cannot conduct a proper, constructive debate in respect of this Budget.</p>
+
+<p>&#x2020;Mr Chairman, will you allow me to address some hon members of the opposition regarding their approach? As far as the PFP is concerned I think we are in absolute agreement that we are not in a position to divide up the land. They agree with us on that score. I appeal to them to make a positive contribution in discussing matters like own affairs although they do not agree with it. However, their point of view has been rejected totally.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>By whom?</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>By the voters.</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from><person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>By the White voters.</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>That&#x2019;s good enough for us. [Interjections.]</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>Do I understand from the remarks that have been made that since their approach has been rejected by the White voters, they want to act extra-parliamentarily?</p>
+
+</speech>
+
+<speech by="#derby-lewis">
+
+<from>Mr <person refersTo="hansard_za">C J DERBY-LEWIS</person>:</from>
+
+<p>They do not care what the White voters say. [Interjections.]</p>
+
+</speech>
+
+<speech by="#maree">
+
+<from>*Mr <person refersTo="hansard_za">J W MAREE</person>:</from>
+
+<p>Mr Chairman, I should like to associate myself with something the hon member for Roodeport said, viz that when one looks at the Budget one finds it difficult to identify norms. In other words, it is difficult to compare the expenses of the previous year with those of this year: They cannot be measured because the establishment is not exactly the same. That is true. He also said that the transfer of personnel caused disruption. I think it is true that some disruption is caused when someone is transferred from one department to another. I can also understand, however, that the hon the Minister had to transfer personnel from one department to another because the whole departmental structure had changed.</p>
+
+<p>Although that is valid criticism, I do not feel it was avoidable&#x2014;that kind of thing is unavoidable in this new process of own affairs and under a new parliamentary system.</p>
+
+<p>I should like to draw the hon the Minister&#x2019;s attention to one aspect that can be of significance in future, however. One encounters this problem with municipal services in particular. Although the question of municipalities does not fall under this discussion, I should like to cite municipal services as an example or analogy of my problem. Many of the hon members here were probably councillors at one time, and they will appreciate that it is extremely important to have a good city engineer in one&#x2019;s service. To a large extent, he determines the success of the municipality&#x2019;s operations, and so it is unfair to the community to limit him to a public service or municipal service salary scale, because one wants to have the best man there, a man of the highest calibre who is paid according to a much higher grade and on a market-related basis.</p>
+
+<p>This is my problem: how does one determine the market-related salary of heads of Government departments? I think it is extremely important to pay the highest salary and attract people of the highest calibre for the posts of heads of the various departments, on condition that, as in private practice, that person does not enjoy the protection that an ordinary public servant does. In other words, if he is not competent, if he cannot do his job, and if he cannot manage his department in a streamlined manner, the Government should <span class="col_2101-2102" refersTo="page_1085"/>be able to dismiss him immediately. I should like to suggest to the hon the Minister that he conduct an investigation into the ways that the top structure of the departments can be transformed from the old, traditional, stereotyped systems we are using. They have a depressing and dampening effect on the ability of the entire Public Service and its various departments to operate effectively.</p>
+
+<p>I also want to come back to the speech made by the hon member for Losberg, who was very critical about the differences. He said there was one juridical difference between own affairs and general affairs. He did so in a rather denigrating fashion because he is not in favour of this concept. [Time expired.]</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>*Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>Mr Chairman, I want to react briefly to the hon member for Klip River who claimed that the PFP did not want to participate in own affairs debates in a positive way. He is correct of course. We do not believe it is possible to be positive about own affairs, since own affairs is simply a new name for mere apartheid.</p>
+
+<p>As far as the claim that the PFP&#x2019;s policy was rejected is concerned, I maintain that if a referendum were held among the whole of South Africa&#x2019;s population, the policy of that hon member&#x2019;s party would be rejected by 95% of South Africa&#x2019;s people. [Interjections.] These are the facts, Sir.</p>
+
+<p>I now come to the Vote under discussion.</p>
+
+<p>&#x2020;The hon the Chairman of the Ministers&#x2019; Council in the House of Assembly&#x2014;the hon the Minister of National Education&#x2014;is responsible for the co-ordination of his Ministry and for the various Ministers who make up the Ministries under this Ministers&#x2019; Council. The hon the Minister of National Education is also responsible&#x2014;provision is specifically made for this in the Budget&#x2014;for broad policy-making with regard to the hon Ministers in the Ministers&#x2019; Council of the House of Assembly. The hon the Minister can correct me if I am wrong.</p>
+
+<p>As we know, the categorisation of own affairs is not rigid; it is not simply a case of everything being set down in black and white allowing for no exceptions. While White education and White hospitals are own affairs and while they are administered by own affairs departments and own affairs Ministries, pupils and patients who are not White are accepted under certain circumstances to own affairs schools and hospitals. I am merely using these two examples from the many there are throughout the own affairs administration.</p>
+
+<p>Mr Chairman, you will agree with me that Black diplomats&#x2019; children, for example, are admitted to White own affairs schools. Black patients are also not turned away from White own affairs hospitals. In other words, this principle has been established and although own affairs schools, hospitals and other departments within the own affairs Ministry are classified as own affairs, there are cases where people who are not White may be admitted to those own affairs institutions.</p>
+
+<p>While I accept that, I also want to recommend to the Ministers&#x2019; Council and specifically to the hon the Chairman of the Ministers&#x2019; Council that they should allow more of these exceptions. They should in actual fact make the exceptions the rule rather than the opposite. If we can allow the children of Black diplomats to attend White schools then there are many other cases that I believe are deserving. I will try to expand on that. I believe, therefore, that people of colour should be allowed into White schools, hospitals and libraries not only as an exception but as a rule.</p>
+
+<p>When one looks at the disparity in respect of the land, schools and hospitals that now belong to the different Coloured, Indian and White own affairs administrations, it should be evident that the White population group has received the best of everything. That is the <i>status quo</i>. That we all know about.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I am afraid that the hon member is now way beyond the Vote under consideration.</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>Mr Chairman, I will obviously abide by your decision and you may call me to order at any time. [Interjections.]</p>
+
+<p>That situation of pure and simple White greed which was a factual situation &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>&#x2026; which the own affairs administration inherited &#x2026;</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from><span class="col_2103-2104" refersTo="page_1086"/>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! There is no point in the hon member saying that I can call him to order, but then when I do call him to order he just proceeds with his argument as before.</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>The way in which to overcome this inequality is not merely to spend more on own affairs facilities for Coloureds and Indians. That will take millions. I want to appeal to the hon the Chairman of the Ministers&#x2019; Council today to adopt a policy that people of other race groups can, as a matter of course, use own affairs facilities such as White schools, colleges and hospitals when those people do not have any such or comparable facilities. These people should also be allowed to use White facilities which are totally underutilised or even empty. Surely nobody can defend the actions of the own affairs departments and Ministries in turning away people from such institutions which are not being used. To deny people of colour&#x2014;who are in need of any such or comparable facilities&#x2014;the use of the ample and luxurious White facilities I believe would be a disgrace.</p>
+
+<p>Let me use one example to illustrate where that Ministry has discretionary powers and where it opted not to use them. Rev Kamwano from Malawi arrived at Stellenbosch as a full-time doctoral student. He has two children who are Black.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! No, the decision as to the admission of children of colour to White schools is surely not the prerogative of the department of the hon the Minister of the Budget and Welfare.</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>Mr Chairman, may I address you on that? The point that I made quite clear earlier on in my speech was that the hon the Chairman of the Ministers&#x2019; Council has a co-ordinating responsibility for the whole Ministers&#x2019; Council, and that any policy decision taken on White schools, hospitals or any other aspect of that administration is discussed by the Ministers&#x2019; Council and therefore the hon Minister in charge of the Ministers&#x2019; Council can allow exceptions. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#fick">
+
+<from>*Mr <person refersTo="hansard_za">L H FICK</person>:</from>
+
+<p>Mr Chairman, on a point of order: The hon member for Claremont made the mistake of addressing the hon the Minister of the Budget as the Chairman of the Ministers&#x2019; Council. I think his point of departure was incorrect.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I am not convinced that the argument that was being put forward by the hon member for Claremont was properly within the ambit of the Vote under consideration and I must rule accordingly.</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, on a point of order: We are experiencing problems with your ruling in connection with these matters. As far as I know, the position is that the Vote of the hon the Chairman of the Ministers&#x2019; Council does not come up for discussion. At this stage the Vote of the hon the Minister of the Budget is being discussed. His Vote concerns the handling of the finances of the own affairs departments of the Administration: House of Assembly. It is our task to evaluate the expenditure; also in terms of the policy of the Government that is spending that money. For that reason I think it is desirable to gain clarity on the exact ambit of the debate we may conduct in these circumstances.</p>
+
+</speech>
+
+<speech by="#leader_of_the_house">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, on a point of order: Just as the administration of every department cannot be discussed during the discussion of the Vote of the hon the Minister of Finance, the administration of all the own affairs portfolios cannot be discussed during the Vote of the hon the Minister of the Budget. I want to contend that there is a portfolio in the Ministers&#x2019; Council under which each activity, such as admission to schools for example, can be discussed when the specific Vote is discussed. In my opinion this Vote should be dealt with on the same basis as the discussion of the Vote of the hon the Minister of Finance.</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>Mr Chairman, surely, in the discussion of the Vote of the hon the Minister of Finance, it is members accepted right &#x2026;</p>
+
+</speech>
+
+<speech by="#hon_members">
+
+<from>*<person refersTo="hansard_za">HON MEMBERS</person>:</from>
+
+<p>No!</p>
+
+</speech>
+
+<speech by="#jacobs">
+
+<from>*Prof <person refersTo="hansard_za">S C JACOBS</person>:</from>
+
+<p>&#x2026; to discuss any subject that falls under the relevant Vote. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from><span class="col_2105-2106" refersTo="page_1087"/>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>Mr Chairman, in reply to the argument of the hon the Leader of the House, I want to say that that is not comparable with the Finance Vote. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#le_roux">
+
+<from>*Mr <person refersTo="hansard_za">F J LE ROUX</person>:</from>
+
+<p>The debate we are conducting is not comparable with the discussion of the Vote of the hon the Minister of Finance. It is comparable, however, with the debate on the Vote of the hon the Chairman of the Ministers&#x2019; Council. This Vote is not mentioned in the programme that was submitted to us. We want the opportunity&#x2014;this is the right of self-determination&#x2014;to discuss own affairs in broad terms. That is general political practice, and the question is in which debate on own affairs we shall have the opportunity to discuss this.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I should just like to reply to the various points of order that have been raised.</p>
+
+<p>*The hon member for Brakpan will agree that I did give hon members the opportunity to comment on the Budget as such insofar as it can be related to the jurisdiction of the hon the Minister of the Budget and Welfare and this Vote. The detailed discussion of the administration of certain Votes or of departments, however, including the discussion of such things as the admission of children to schools, does not fall under the jurisdiction of the hon the Minister of the Budget, but under that of the hon the Minister of Education and Culture, and I cannot permit this kind of discussion. One cannot expect the hon the Minister of the Budget to comment on matters of this kind, because he would be commenting on the administration of a department for which a colleague is responsible.</p>
+
+<p>My ruling, therefore, is that hon members may discuss the Budget as such&#x2014;indeed I permitted it&#x2014;but I cannot allow a detailed discussion of specific Votes.</p>
+
+</speech>
+
+<speech by="#van_eck">
+
+<from>*Mr <person refersTo="hansard_za">J VAN ECK</person>:</from>
+
+<p>Mr Chairman, I should like to address you on that point in view of the fact that it is made very clear in the Budget that the salary of the Minister of National Education and the Chairman of the Ministers&#x2019; Council of the Administration: House of Assembly are allocated under this Vote. I believe that in his capacity as Chairman of the Ministers&#x2019; Council, that hon Minister has general control over the Ministers&#x2019; Council and therefore also controls the relevant policy aspects. It would be impossible to discuss all the facets of those policy aspects during the debates on the respective Votes. There is the admission of non-Whites to White schools, hospitals and libraries, for example. I can give a long list of things, but when shall we be able to discuss them? Must we repeat the same debate under each Vote?</p>
+
+<p>I am not going to take this any further; my time has expired in any case.</p>
+
+</speech>
+
+<speech by="#minister_of_the_budget_and_welfare">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF THE BUDGET AND WELFARE</person>:</from>
+
+<p>Mr Chairman, it is very clear that this debate took a different course to the one we had expected. You had problems with many of the members who participated and I wish to assure you I have even greater problems because I have to reply to many of those speakers.</p>
+
+<p>I have no doubt that the ruling you gave yesterday and confirmed today was the right one, ie that we should regard this Vote like any other and that debate on it should touch only upon those matters which strictly speaking fall under it. In the Second Reading debate of the Appropriation Bill hon members have the opportunity of ranging far and wide and also discussing political matters, but it is clear there was a misunderstanding here. I do not hold it against hon members who found themselves in a difficult situation but in the light of this I wish to propose that with a view to next year&#x2019;s debate the Whips of the various parties and possibly also Mr Speaker and the Chairman of Committees determine exactly what may be discussed under this Vote, and that we confine ourselves to this.</p>
+
+<p>The hon member for Pinetown is quite right. If the discussion, as you ruled, should be limited to the Vote, far too much time was devoted to this discussion. I am in full agreement with the hon member that 375 minutes is far too long for this Vote. I believe this is the consequence of a misunderstanding which can be rectified and I suggest that the <span class="col_2107-2108" refersTo="page_1088"/>respective Whips look into this matter and propose a different time allocation for next year. [Interjections.]</p>
+
+<p>Various speakers made excellent and interesting contributions but I believe hon members will pardon me for not being able or intending to reply to their speeches. These are contributions falling entirely under other Ministers&#x2019; portfolios and I believe the Ministers concerned will react to those points in their own good time.</p>
+
+<p>I also wish to tell the hon members who discussed various political points in the debate that under your ruling I do not believe this is the occasion to furnish them with replies. We shall have a further opportunity during the Third Reading of the Appropriation Bill to address one another in a broader debate on the principles of own affairs and general affairs and to conduct a wider-ranging political debate. [Interjections.] I noted that even experienced and hardened members like those for Barberton and Yeoville had difficulties in the debate. They either put the same questions they had asked in the Second Reading debate or they discussed matters which strictly speaking did not fall under this debate.</p>
+
+</speech>
+
+<speech by="#minister_of_education_and_culture">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF EDUCATION AND CULTURE</person>:</from>
+
+<p>Wilfulness!</p>
+
+</speech>
+
+<speech by="#minister_of_the_budget_and_welfare">
+
+<from>*The <person refersTo="hansard_za">MINISTER OF THE BUDGET AND WELFARE</person>:</from>
+
+<p>My hon colleague is obviously right; there was a large measure of wilfulness in many of those speeches&#x2014;I am saying this amicably.</p>
+
+<p>There is apparent uncertainty on the financial contributions to the revenue account of the Administration: House of Assembly. For the sake of absolute clarity I should like to put it to hon members again that section 84 of the Constitution provides in what three ways funds may be voted to the respective accounts, that is to say the revenue account of the Administration: House of Assembly too.</p>
+
+<p>Firstly, there is provision for a general Act which may prescribe a formula for the allocation of funds to the respective accounts. That is the so-called formula amount or the section 84 (a) amount which came in for considerable debate in the course of the discussion as well as in Second Reading speeches of the Appropriation Bill (House of Assembly). What section 84 (a) amounts to is that each of the three Houses has to be able to depend on a fixed statutory minimum amount in respect of own affairs&#x2014;a fixed statutory basic allocation in accordance with the formula. These statutory allocations have to provide for population growth, escalations in costs and obviously for the narrowing gap between the various services as well, to the extent the Treasury can afford. Consensus has already been reached on the inclusion of the position of Black people in determining these formulas. Because the formula amount, the basic amount, provides only for the fundamental needs of the respective own affairs, the respective administrations will also have to apply the allocated funds specifically for the matters for which they are allocated. Consequently these are fixed amounts which are not only voted on a fixed basis but also have to be spent according to a fixed prescribed basis in respect of those services.</p>
+
+<p>Secondly, there are the section 84 (b) amounts, which are the so-called additional or supplementary <i>ad hoc</i> appropriations. As the statutory amount in section 84 (a) is a basic amount, it may be supplemented annually through an <i>ad hoc</i> allocation by an amount in terms of section 84 (b). The respective Houses of Parliament have full powers of self-determination over these additional amounts, those under section 84 (b), which may be applied as the respective administrations see fit. A third way in which provision can be made refers to a general Act&#x2014;an appropriation Act&#x2014;which contains provisions under which amounts may be deposited to the credit of every account contemplated. Such amounts will usually be intended for a very specific matter which will be paid to administrations in terms of an appropriation Act.</p>
+
+<p>I hope this brief explanation will enable hon members to see the financing of the administrations responsible for own affairs in their correct perspective. Hon members again put questions on the formulas but I shall not reply to them. I scrutinised the questions put by both the hon members for Barberton and Yeoville; there is nothing new to add. The hon the Minister of Finance also explained that the Treasury and its officials were in the process of finalising the formulas and we hope <span class="col_2109-2110" refersTo="page_1089"/>the hon the Minister will publish these formulas and grant them legal status as soon as he is ready.</p>
+
+<p>As I said, the hon member for Barberton made a few political comments and put further questions and I believe he could put some of these questions with good effect under the Vote of the hon the Minister of Constitutional Development and Planning. We can also pursue our political discussion during the Third Reading of the Budget debate.</p>
+
+<p>&#x2020;The hon member for Yeoville, who apologised for his absence here this afternoon, continued his debate, his argument or duel with the hon the Minister of Finance. I believe the hon the Minister of Finance is capable of defending himself and I am not going to take up the argument. However, I should like to recommend to the hon member to make use of the numerous opportunities for debate with the hon the Minister of Finance, and not to use the time that should be devoted to this Vote to try to ask questions that concern another hon Minister particularly.</p>
+
+<p>The hon member for Yeoville also asked me a number of questions concerning the forward expenditure projections and the five-year plan. He mentioned again this afternoon that there is this &#x201C;cloak of secrecy&#x201D; over the Margo Commission's findings, the five-year plan, the national priorities and the formulae.</p>
+
+<p>First of all the hon member for Yeoville tried to extract the information from the hon the Minister of Finance. That hon Minister gave him a clear and reasonable answer. Then he tried to extract the information from the committee. Now he comes and tries to extract the information from me. I am convinced the hon member will continue to try to extract the same information concerning the guidelines for expenditure over the next five years from each and every hon Minister.</p>
+
+<p>*Just let us make this quite clear. The hon member is unhappy because the hon the Minister of Finance does not wish to publish these guidelines. To date the hon member for Yeoville and other hon members of this House were perfectly satisfied with the budgetary procedure according to which the Budget Speech was made and budgetary proposals tabled without any foregoing guidelines as are now being envisaged. Instead of thanking the hon the Minister of Finance for attempting to provide greater clarity on future expenditure through this budgetary procedure, the hon member proceeded from the premise that the hon the Minister of Finance was almost committing a crime by not making this information available. The hon the Minister of Finance said we were involved in a new exercise with many uncertainties and much lack of clarity in the determination of these guideline amounts. As soon as the process has been refined and clarity obtained, the hon the Minister will inform the hon member and other hon members.</p>
+
+<p>The hon member for Yeoville also put questions on agriculture. Unfortunately he is not present at the moment but the hon the Minister of Agriculture is. I want to say to the hon member for Yeoville that he and I as urban-dwellers would do well to be careful as regards agricultural matters. He spoke about research institutes which should not be duplicated. We are in full agreement on that but I should like to bring it to the hon member&#x2019;s attention that these agricultural research institutes can also furnish services to other administrations on an agency basis. The hon member could well pursue the debate with the hon the Minister.</p>
+
+<p>The hon member also referred to the Auditor-General&#x2019;s report and to the large number of infringements of regulations mentioned regarding the Administration: House of Assembly. I want to tell the hon member and other members of this committee that in the first place this report of the Auditor-General goes to the select committee where each of these cases qualify for very thorough further discussion, so the matter has not been finally disposed of. The Select Committee on Public Accounts of the House of Assembly will also examine that account properly. In addition, the strictest and most comprehensive controls possible were instituted by my predecessor as well as by the Director-General, Dr Jooste, to exercise effective control over finance. Unfortunately we are not always dealing with honest people, however. It was not the Auditor-General in the first place who traced and pointed out these infringements. It was the very existence of <span class="col_2111-2112" refersTo="page_1090"/>effective control measures of the Administration: House of Assembly which identified and exposed each of these cases. It is unfortunately true that we are simply dealing with people not always capable of resisting the temptation of breaking rules in an attempt to enrich themselves in the process.</p>
+
+<p>The cashier of the church cost us the most money and he still owes the church a large sum. That is the type of offence one cannot prevent regardless of checks and measures of control one has in this connection. We nevertheless hope the measures now in operation will obviate such cases as far as possible in future.</p>
+
+<p>The hon member for Wellington raised an agricultural matter. It is an important matter in that it affects agricultural credit boards and I believe the Minister responsible will return to that.</p>
+
+<p>The hon member for Nigel&#x2014;with all due respect&#x2014;made a number of unrelated, unfounded political statements here. He alleged that the Whites were being prejudiced; that the Whites were not receiving their fair share; that the NP was gambling with the future of the Whites and that the NP was not politically honest&#x2014;imagine that! [Interjections.] Mr Chairman, you yourself called the hon member to order for not confining himself to the Vote under discussion. I should like to respect your ruling and ignore the hon member. [Interjections.]</p>
+
+<p>The hon members for Newcastle and Jeppe both made very interesting contributions. The hon member for Newcastle broached certain matters pertaining to education and the hon member for Jeppe various cultural affairs. I believe their stimulating ideas will be taken up and discussed by the hon the Minister of Education and Culture at a more opportune moment.</p>
+
+<p>The hon member for Pietersburg actually spoke on Vote 7&#x2014;Welfare&#x2014;in the light of the Chairman&#x2019;s ruling. I should be pleased to reply to the hon member in full when the Welfare Vote is discussed; it will certainly take its turn on conclusion of these Votes.</p>
+
+<p>&#x2020;Mr Chairman, the hon member for Pinelands repeated many of the questions advanced by the hon member for Yeoville. However, he concluded his speech with the very popular slogan that we should free the economy, that we should remove the shackles of apartheid. He said that the private sector had a role to play &#x2026;</p>
+
+</speech>
+
+<speech by="#hon_member">
+
+<from>An <person refersTo="hansard_za">HON MEMBER</person>:</from>
+
+<p>Hear, hear!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>&#x2026; but they can only play that role if the Government removes the shackles of apartheid; the economy is really in chains.</p>
+
+<p>Now, I should like to refer the hon member to three very interesting articles that appeared in <i>The Argus</i> on 12, 19 and 26 April 1984, written by a very respected and well-known professor of economics, Prof Jan Sadie. The author examines the South African economic situation, and states:</p>
+
+<block name="quote">Differences between countries in economic performance, whether this be between South Africa and Europe or Germany and the United Kingdom or Japan and Europe, derive from their populations as economic material.</block>
+
+<p>The professor then goes on to divide the population, the work force, into four categories or classes: The executive, or rather the entrepreneurial class, which is the first class; then the highly skilled; thirdly, the less skilled; and then the unskilled. He compares this division in South Africa with that in other countries, Canada in particular.</p>
+
+</speech>
+
+<speech by="#malcomess">
+
+<from>Mr <person refersTo="hansard_za">D J N MALCOMESS</person>:</from>
+
+<p>Where do Cabinet Ministers fall in that categorisation?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>In the entrepreneurial class! [Interjections.]</p>
+
+<p>I quote further:</p>
+
+<block name="quote">Of this human material &#x2026;</block>
+
+<p>Most of that material is on this side of the House!</p>
+
+<block name="quote">&#x2026;we have too little in South Africa, and it is already an overextended group.</block>
+
+<p>Prof Sadie concludes his article under the heading: &#x201C;Apartheid is not the only culprit&#x201D;. He goes on to explain the position in South Africa, and concludes&#x2014;this is the point, Mr Chairman:</p>
+
+<block name="quote">&#x2026;hence the squatter camps, poverty, malnutrition and squalor. A cessation of <span class="col_2113-2114" refersTo="page_1091"/>apartheid practices, however desirable in itself, will not alter this situation.</block>
+
+<p>He concludes that it &#x201C;will not alter this situation&#x201D;. It is far too complex a problem for hon members to solve by coming here with slogans. [Interjections.] This is the only point, Mr Chairman.</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order! I do not think the hon the Minister should take that point any further. The hon the Minister may continue.</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>Mr Chairman, I will certainly abide by your ruling. I thought I was giving the hon member very good advice. I hope he will read the articles I referred to.</p>
+
+<p>*I should like to thank the hon member for Caledon for an excellent contribution. The hon member provided facts to stress that the White taxpayer in this country received more than his share. He went further and pointed out the folly of wanting to divide the economy into groups according to colour and consequently wanting to earmark tax for specific groups because the contributions were received from specific White, Coloured or Black sources.</p>
+
+<p>The hon member had hardly finished when the hon member for Nigel came forward and simply argued that the Whites were being totally wronged&#x2014;without a motivating argument, without reason and regardless of the good contribution made by the hon member for Caledon. This really takes one&#x2019;s breath away. If sound, reasonable arguments are simply swept from the table in these debates, we shall have a difficult time in solving our problems in this country.</p>
+
+<p>The hon member for Kuruman raised an important point on voting matters. I believe the hon the Minister of Local Government, Housing and Works will discuss this when his Vote comes up. The hon member also spoke about the improvement of conditions of service. I also want to mention for the ear of the hon member for Pinetown that we merely serve as a channel as far as conditions of service and their improvement are concerned under this Vote.</p>
+
+<p>&#x2020;We are only the conduit. I do not even have to sign it. I only pay it. I do not even have to sign it. The responsible hon Minister &#x2026;[Interjections.]</p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>Do you put your hand over it?</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>No, I do not have to sign it and I do not put my hand over it. [Interjections.] We are just the conduit for the amounts that are negotiated in a different fashion. I am sure the hon member is now well aware of how that is done.</p>
+
+<p>*The hon member for Gezina advanced a very important point on the necessity of dialogue; we cannot emphasize this adequately. I should like to have expanded on this but time does not permit. The hon member for Losberg definitely had hold of the wrong end of the stick. [Interjections.]</p>
+
+</speech>
+
+<speech by="#chairman_of_committees">
+
+<from>*The <person refersTo="hansard_za">CHAIRMAN OF COMMITTEES</person>:</from>
+
+<p>Order!</p>
+
+</speech>
+
+<speech by="#minister">
+
+<from>*The <person refersTo="hansard_za">MINISTER</person>:</from>
+
+<p>This Vote has nothing to do with the appropriation of funds. Now the hon member wants to use your ruling to circumvent the problems by saying we cannot distinguish between general and own affairs. It has nothing to do with general and own affairs. After 15 years in Parliament I can claim that experience has clearly taught me that, when a Vote is being discussed, matters falling under that Vote form the subject of discussion and not general affairs. The hon member for Losberg attempted to score a political point but he had hold of the wrong end of the stick altogether.</p>
+
+<p>I wish to congratulate the hon member for Hillbrow on his maiden speech which was a very interesting contribution. My congratulations go to the hon member Mr Aucamp too but it is a pity, seeing that he spoke with so much fervour about the people of the Free State, that after Saturday there were none of them left to come and listen to him here in Cape Town.</p>
+
+<p>Business interrupted in accordance with Standing Order No 19.</p>
+
+<p><b>House Resumed:</b></p>
+
+<p>Progress reported and leave granted to sit again.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1987-06-23T18:00:00">18h00</recordedTime>.</p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+

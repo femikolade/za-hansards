@@ -1,0 +1,581 @@
+---
+title: 'House of Assembly: Vol17 - TUESDAY 19 MAY 1987'
+layout: debate
+year: 1987
+month: MAY
+month_slug: May
+categories: hoa debates
+---
+
+<debateSection name="#opening">
+
+<heading>TUESDAY, 19 MAY 1987</heading>
+
+<p><i>PROCEEDINGS AT JOINT SITTING</i></p>
+
+<p>Members of Parliament assembled in the Assembly Chamber at <recordedTime time="1987-05-19T09:30:00">09h30</recordedTime>.</p>
+
+<debateSection name="#calling_of_a_joint_sitting">
+
+<heading>CALLING OF A JOINT SITTING</heading>
+
+<p>The SECRETARY read a message from the State President calling a joint sitting, as follows:</p>
+
+<block name="quote">I hereby call, under the provisions of section 67 of the Republic of South Africa Constitution Act, 1983, a joint sitting of the House of Assembly, the House of Representatives and the House of Delegates on 19 May 1987 at llh00 to enable me to open the Fifth Session of the Eighth Parliament.</block>
+
+<block name="quote">Given under my Hand and the Seal of the Republic of South Africa at Cape Town on this thirteenth day day of May, One Thousand Nine Hundred and Eighty Seven.</block>
+
+<block name="quote">P W BOTHA State President</block>
+
+<p>By Order of the State President-in-Cabinet</p>
+
+<block name="quote">J C HEUNIS Minister of the Cabinet</block>
+
+</debateSection>
+
+<debateSection name="#report_by_mr_speaker">
+
+<heading>REPORT BY MR SPEAKER</heading>
+
+<p>Mr SPEAKER reported that in accordance with established Parliamentary practice he had presented himself to the State President yesterday.</p>
+
+</debateSection>
+
+<debateSection name="#welcoming_of_mr_speaker">
+
+<heading>WELCOMING OF MR SPEAKER</heading>
+
+<speech by="#leader_of_the_house_in_the_house_of_assembly">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE HOUSE IN THE HOUSE OF ASSEMBLY</person>:</from>
+
+<p>Mr Speaker, on behalf of this side of the House I should like to welcome you back to the Chair.</p>
+
+<p>You are fast becoming the most regularly elected Speaker because it was our privilege, less than four months ago, to welcome and congratulate you when you were elected as Speaker for the first time. I should again like to congratulate you sincerely on your election, with an increased majority in the electoral college, to this high office in our Parliament.</p>
+
+<p>You are pre-eminently equipped to occupy this post with distinction, not only because of your academic training and parliamentary experience, but in particular because we know that you have a very great deal of appreciation and respect for the traditions of <span class="col_11-12" refersTo="page_0040"/>Parliament and for Parliament as an institution.</p>
+
+<p>During the brief time in which you served during the first session of 1987, you have already distinguished yourself as a Speaker who has, with great circumspection and wisdom, very effectively maintained the order in the House, allowing debates to flow.</p>
+
+<p>Your fairness to all members has been impressive and we are very glad that you are back and that you will, in this high office, forcefully and with dignity, but also effectively, ensure that Parliament takes its dignified place and fulfils its role as the highest legislative authority in the land during a difficult phase in our country&#x2019;s history. May you go from strength to strength during this new period of office, and we wish you everything of the best.</p>
+
+</speech>
+
+<speech by="#leader_of_the_official_opposition_in_the_house_of_assembly">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE OFFICIAL OPPOSITION IN THE HOUSE OF ASSEMBLY</person>:</from>
+
+<p>Mr Speaker, it is a great pleasure for me to welcome you back to the Chair on behalf of this side of the House and to congratulate you on your re-election and the increased number of votes you have obtained. I should like to endorse the words of the hon the Leader of the House of Assembly. We are very grateful for the way in which you carried out your duties during the previous session and administered proceedings.</p>
+
+<p>We are also grateful for the background that you have. You are pre-eminently suitable for this work. You know Parliament in both its quieter and more explosive moments, and during your term as Speaker you have had a few occasions to see Parliament in such a mood. It is our opinion that you handled the situation very well.</p>
+
+<p>We regard you as a Speaker of distinction, in both the literal and figurative senses of the word. We should like to assure you that you will be able to rely on our sincere cooperation in maintaining the dignity of Parliament and facilitating the orderly process of parliamentary procedure. Accept our sincere congratulations and best wishes.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_ministers&#x2019;council_in_the_house_of_representatives">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE MINISTERS&#x2019;COUNCIL IN THE HOUSE OF REPRESENTATIVES</person>:</from>
+
+<p>Mr Speaker, I think I have a little more right to speak on behalf of this side of the House! [Interjections.]</p>
+
+<p>We are aware of the fact that &#x201C;the old order change, yielding place to new&#x201D;, and it is with a sense of expectancy regarding those changes and new developments that must take place, that we congratulate you on your appointment and wish you God&#x2019;s strength in the task that lies ahead of you. We also assure you of our continued support.</p>
+
+</speech>
+
+<speech by="#chairman_of_the_ministers&#x2019;council_in_the_house_of_delegates">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE MINISTERS&#x2019;COUNCIL IN THE HOUSE OF DELEGATES</person>:</from>
+
+<p>Mr Speaker, on behalf of hon members of the House of Delegates I, too, should like to express our congratulations to you for once again having been elected to the high office of Speaker of Parliament. I do not want to repeat the details of your curriculum vitae, which were enumerated to this House by the hon the Minister of National Education, but I want to say that there is a common denominator in relation to the position you previously held in that whereas you were formerly charged with maintaining law and order in this country, you are now charged with the maintenance of order in the highest institution in the country. We are confident that you will execute your task in an excellent manner, that is to say in the same manner in which you executed your task in the office which you previously held. I want to assure you, Mr Speaker, of the wholehearted support and co-operation of all the members of the House of Delegates.</p>
+
+</speech>
+
+<speech by="#poovalingam">
+
+<from>Mr <person refersTo="hansard_za">P T POOVALINGAM</person>:</from>
+
+<p>Mr Speaker, I want to associate myself with the remarks already made by hon members. I may add that I am personally delighted that you have been elected Speaker of this Parliament once again. I am not unmindful of certain remarks you made in East London which indicated a concern for the people of this country.</p>
+
+<p>Before every sitting of the House of Delegates&#x2014;and, I believe, of the other Houses as well&#x2014;a prayer is said under the guidance of the presiding officer, and those of us who participate in that prayer must not only do so as a matter of form. We have also to have regard to the content of that prayer. We say in that prayer:</p>
+
+<block name="quote">Almighty God, Who, in Thy infinite wisdom and providential goodness, hast appointed <span class="col_13-14" refersTo="page_0041"/>the offices of Rulers and Parliaments for the welfare of society and the just government of men, we beseech Thee to behold with Thy abundant favour, us Thy servants, whom Thou hast been pleased to call to the performance of such important trusts in this land.</block>
+
+<p>We pray to God that we may be given power to attend to the just government of men. Parliament, under the guidance of Mr Speaker, has to see to the just government of all men. Parliament therefore, under the guidance of Mr Speaker, has to promote the brotherhood of men under the Fatherhood of God, not the separation of men.</p>
+
+<p>Mr Speaker, I again wish to congratulate you on your election and say that we will do our utmost to uphold the fundamental principle behind that prayer.</p>
+
+</speech>
+
+<speech by="#hardingham">
+
+<from>Mr <person refersTo="hansard_za">R W HARDINGHAM</person>:</from>
+
+<p>Mr Speaker, I wish to associate myself with the remarks that have been made by the previous speakers in congratulating you on your election to this high position. I want to assure you that I will show respect for the position that you now hold. As far as I am concerned its dignity will be maintained.</p>
+
+</speech>
+
+<speech by="#leader_of_the_official_opposition_in_the_house_of_representatives">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE OFFICIAL OPPOSITION IN THE HOUSE OF REPRESENTATIVES</person>:</from>
+
+<p>Mr Speaker, on the eve of one of the most important sessions in the history of the South African Parliament, I wish to congratulate you on your reappointment as Speaker of the South African Parliament. I want to ask you to be mindful that you are Speaker of three Houses of Parliament.</p>
+
+<p>On behalf of the Official Opposition in the House of Representatives, then, I wish to say that you have our wholehearted support. We also have trust and confidence in you. Be assured that, from our side of the House, we will be there to support you at all times.</p>
+
+</speech>
+
+<speech by="#speaker">
+
+<from>*Mr <person refersTo="hansard_za">SPEAKER</person>:</from>
+
+<p>Hon members, I should like to thank you for the confidence you have again expressed in me by re-electing me to the high office of Speaker, and also for the congratulations and kind words you addressed to me today.</p>
+
+<p>After the four months of experience I have now had as Speaker, I am more aware than ever before of the great responsibility which this appointment places on one&#x2019;s shoulders and, as I also said when I was appointed in January, of the necessity for the Speaker to act with the greatest degree of impartiality and fairness under all circumstances.</p>
+
+<p>In addition one of his most important functions is to maintain order and to ensure that members are given the opportunity to exercise their rights, with due regard to the rules. In this regard the well-known Austrian statesman, Joseph Redlich, had occasion to refer to&#x2014;</p>
+
+<block name="quote">&#x2026; the powers which the Speaker exercises to protect the majority in the House against obstruction, and the minority against oppression.</block>
+
+<p>In order to be able to comply with the requirements of impartiality, the Speaker must of necessity limit his political duties as a member. This places him in an embarrassing position when he must participate in an election and he is opposed in his constituency, as was the case in the past election. This brought specific questions concerning the position of Speaker into prominence. In 1939 a select committee of the British House of Commons investigated the question of the Speaker&#x2019;s constituency in parliamentary elections. In its report the committee wrote, with reference to the participation of the Speaker:</p>
+
+<block name="quote">Few can doubt that the task of preserving the traditional dignity and impartiality of his office would be increased if the Speaker felt obliged to enter the electoral contest as a political candidate. However completely he might succeed in preserving within himself his own integrity, the implicit trust now placed by all members of the House in his essential justness must inevitably suffer, and with this loss in that sense of security which arises from the expectation of fair play would disappear one of the fundamental features of our political life.</block>
+
+<p>During the election it was argued that because the Westminster system had basically disappeared in South Africa there was no recognized tradition in this connection to take into consideration and that opposing the Speaker in his constituency was consequently justifiable. In terms of the Constitution the Speaker is elected by Parliament and is consequently only subject to parliamentary <span class="col_15-16" refersTo="page_0042"/>authority as provided in the Constitution. It is consequently also correct that he will be an elected member of Parliament.</p>
+
+<p>However, in all political systems it creates a problem when the Speaker has to maintain total impartiality in Parliament on the one hand and carry out his political duties on the other. In Great Britain this problem was solved by the establishment of a convention that the Speaker, once he has been elected, is not opposed in his constituency where he is then not eligible for election as a member of a political party, but as Speaker.</p>
+
+<p>What has the position been in South Africa since 1910? Initially there was no established convention that the Speaker should not be opposed in his constituency, but during that time the Speaker was nevertheless opposed on five occasions. In 1920, 1921 and 1924 Speaker Krige, as a member of the South African Party, was opposed by the National Party and when that party came into power in 1924, a supporter of that party, Dr E G Jansen, was elected Speaker.</p>
+
+<p>In 1943 Speaker Jansen sought election in the Vryheid constituency as a supporter of the NP. He was defeated by a supporter of the United Party. In 1948 Speaker Van Coller did not make himself available for re-election as Speaker, although he was re-elected in his constituency of Queenstown. In a statement which he made in public on the occasion of his retirement, he said&#x2014;and I am quoting from the Annual Report of the Clerk of the House of Assembly of 1948:</p>
+
+<block name="quote">Once elected to the Chair, the Speaker may be given a safe return to the House and re-elected to the Chair irrespective of what political party is in power.</block>
+
+<p>So says Mr Van Coller.</p>
+
+<p>Mainly as a result of the intervention of the then Clerk of the House of Assembly, Mr Ralph Kilpin, the Committee on Standing Rules and Orders of the House of Assembly agreed to the following motions in 1951:</p>
+
+<ol>
+
+<li>(1) That the opposition should do its best&#x2014;
+
+<ol>
+
+<li>(a) not to make the Speaker&#x2019;s position difficult as a result of political activities in his constituency; and</li>
+
+<li>(b) to avoid that the Speaker be opposed at elections, with the understanding, however, that any undertaking now given would not be binding on the party concerned;</li>
+
+</ol></li>
+
+<li>(2) that the Speaker could address meetings in his constituency to report as objectively as possible on the activities of Parliament;</li>
+
+<li>(3) that in his capacity as parliamentary representative he should serve the interests of his constituency in the usual manner; and</li>
+
+<li>(4) that he should not address meetings outside his constituency, it being understood, however, that the respective party organizations in the constituency be not restricted in their activities.</li>
+
+</ol>
+
+<p>&#x2020;However, the proposals approved by the Committee on Standing Rules and Orders met with only limited success. In 1958, for example, Speaker Conradie was opposed in his constituency Gordonia by a candidate of the United Party. In 1970 Speaker Klopper was opposed in his seat Parys by a supporter of the Herstigte Nasionale Party&#x2014;a party which, incidentally, did not at the time enjoy representation in Parliament.</p>
+
+<p>The convention that the Speaker be not opposed in his constituency has obviously not been established firmly in South Africa.</p>
+
+<p>Although this may cause the Speaker embarrassment during an election I wish to affirm that I share the conviction that the Speaker should hold himself aloof from party politics. Consequently, I shall in future strive to uphold in this respect the tradition that has become established in the course of time, and I appeal to political parties, in the interest of our Parliament, to lend me their unqualified support. I believe few will contest the desirability of preserving&#x2014;as stated by the House of Commons Committee in 1939&#x2014;</p>
+
+<block name="quote">one of the essential warranties for the fair and impartial working of democratic institutions&#x2014;a fair and impartial Speakership.</block>
+
+<p>I thank hon members once again for the honour they have bestowed upon me.</p>
+
+<p><span class="col_17-18" refersTo="page_0043"/>BUSINESS SUSPENDED AT 09h53 AND RESUMED AT 11h00.</p>
+
+<p>Mr Speaker read prayers.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#state_president&#x2019;s_opening_address">
+
+<heading>STATE PRESIDENT&#x2019;S OPENING ADDRESS</heading>
+
+<p>*Mr Speaker, Members of Parliament.</p>
+
+<p>I wish to welcome you to this Fifth Session of the Eighth Parliament of the Republic of South Africa.</p>
+
+<p>In many respects, this Session is taking place under changed parliamentary circumstances, because it follows the General Election of Members of the House of Assembly on May the 6th, 1987, and changes in the party political composition of the House of Representatives and the House of Delegates.</p>
+
+<p>An election usually has a favourable influence on a democratic society and that, among other reasons, was why it was decided to call the election.</p>
+
+<p><i>The Mandate</i></p>
+
+<p>In the election the voters were asked to express themselves on:</p>
+
+<block name="quote">firstly, the party and the leaders the White electorate would entrust with their responsibility in the national government in the ensuing years of challenge;</block>
+
+<block name="quote">secondly, the party and the leaders they would entrust with negotiations about the future with the leaders of all other communities seeking peaceful consultation;</block>
+
+<block name="quote">thirdly, the Government&#x2019;s security actions to maintain peace, law and order amid the unrest and disruption instigated by revolutionary elements, and to secure the borders of our land;</block>
+
+<block name="quote">fourthly, the continuation of reform and renewal in respect of economic, social and constitutional development in our country;</block>
+
+<block name="quote">fifthly, the upliftment of all of the communities in our country for the sake of justice and with that, the elimination of the breeding ground for revolutionary incitement and activities as far as possible; and</block>
+
+<block name="quote">sixthly, the rejection of the distasteful foreign interference, sanctions and un-called-for prescriptions in respect of our domestic affairs.</block>
+
+<p><i>The Broadening of Democracy</i></p>
+
+<p>On May the 6th, the White voters expressed themselves clearly and gave the House of Assembly and its leaders a decisive mandate and directive on each of these aspects.</p>
+
+<p>It endorses and strengthens the wishes expressed by the electorate in the General Election in 1981 and in the Referendum in 1983.</p>
+
+<block name="quote">Firstly, the support given the Government by the voters endorses the evolutionary approach followed by the Government in respect of economic, social and constitutional development and advancement.</block>
+
+<block name="quote">Secondly, it confirms the Government&#x2019;s point of departure that security, order and stability in all of our communities are preconditions for reform and that the proponents of radicalism and violence will have to renounce that course before they may participate in constitutional processes.</block>
+
+<block name="quote">Thirdly, it involves a clear endorsement of the point of view that a group approach has to be accepted in the expansion of our democratic system and the stabilization of our communities.</block>
+
+<block name="quote">Fourthly, it reiterates that South Africans themselves, and not the outside world, will decide the country&#x2019;s future.</block>
+
+<p>Consequently there was wide acceptance of the reality that South Africa is a country of minorities and of the approach that any future dispensation for South Africa and its diverse population will have to meet the demands, on every level of government, for:</p>
+
+<ul>
+
+<li>&#x2014; the protection of minority rights and the self-determination of groups;</li>
+
+<li>&#x2014; the prevention of domination by any group of the others; and</li>
+
+<li>&#x2014; the division of power among the groups in respect of decision-making concerning their own community interests and sharing of power among groups in respect of general and common interests. This approach is followed in numerous countries in the <span class="col_19-20" refersTo="page_0044"/>world in ways best suited to their circumstances, for example, in Great Britain, Belgium, Switzerland, the United States and West Germany.</li>
+
+</ul>
+
+<p>It is certainly so that the broadening of democracy may be sought in South Africa in more than one responsible manner.</p>
+
+<p>However, the unfortunate truth is that all who use the term &#x201C;democracy&#x201D; in respect of South African politics, do not attach the same meaning to it.</p>
+
+<p>To some it represents a genuine broadening of democracy and a real expansion of freedom. But to others, the word &#x201C;democracy&#x201D; is a front for their desire to enslave South Africa under a communist power clique.</p>
+
+<p>In any country constitutional change is a serious issue. In view of the demands and challenges determined by the realities of South Africa, this is even more so in South Africa. Constitutional development and change has to take place in a constitutional manner.</p>
+
+<p>The Government readily accepts that there are those, within and outside the present parliamentary dispensation on the central tier of government, who subscribe to the Government&#x2019;s policy approach: but that there are also others who reject it.</p>
+
+<p>In itself, there is nothing wrong with that. It is a liberty accorded all law-abiding citizens in this country.</p>
+
+<p>What is not acceptable, is the fact that certain individuals and groups week to express their opposition and their efforts at promoting alternatives in a manner and by methods which cannot be condoned in any self-respecting country.</p>
+
+<p>They include activities and methods which:</p>
+
+<ul>
+
+<li>&#x2014; firstly, do not recognise and accept the lawful and constitutional institutions and process in South Africa;</li>
+
+<li>&#x2014; secondly, approve of and apply violence, intimidation and murder as instruments of political change; and</li>
+
+<li>&#x2014; thirdly, are conducted in a manner which precludes the policies and leaders of those groups from being subjected to the wishes of the electorate.</li>
+
+</ul>
+
+<p>These categories of political activity, particularly when they are accompanied by contempt for the laws of the land, cannot be permitted by a responsible government in South Africa. The fact that certain legal arrangements may not be acceptable to some people does not give them the right to contravene the law.</p>
+
+<p>&#x2020;Neither can activities of this kind be permitted any longer to be encouraged and/or financed by sources outside the country or by their agents here.</p>
+
+<p>Throughout the world there are examples of countries in which the governments have been deposed and the system of government dismantled, ostensibly in the name of creating greater freedom and democracy. Such countries invariably end up in the Soviet sphere of influence.</p>
+
+<p>It is ironical that prominent personalities and institutions in leading Western countries have given their financial and moral support in several cases to the destruction of Western allies. Among the more recent examples are Iran and Nicaragua.</p>
+
+<p>The Government is aware of efforts and plans in this connection and intends giving them its serious attention. We shall not permit the constitutional order in South Africa to be subverted in this way.</p>
+
+<p>The media in South Africa, too, should guard against instigating and promoting activities of this kind under the guise of freedom of the press and of expression.</p>
+
+<p>Similarly, universities in South Africa should beware of promoting such aims under the guise of academic freedom.</p>
+
+<p>This is not a threat. It is a simple truth.</p>
+
+<p><i>Socio-Economic Development</i></p>
+
+<p>Constitutional development cannot take place in isolation, but has to be preceded and accompanied by economic and social processes to create the conditions in which renewal may be continued on the basis of security.</p>
+
+<p>These processes, in the widest meaning of the term, are directed at the upliftment of our developing communities; indeed, I have emphasised repeatedly in the past that our challenge lies in narrowing the gap between <span class="col_21-22" refersTo="page_0045"/>the First World and the Third World without lowering standards in South Africa.</p>
+
+<p><i>Social</i></p>
+
+<p>In the social sphere, this includes development through education and training, through improvement of the social environment, the infrastructure and the living conditions of all our communities.</p>
+
+<p>In this connection, several administrative and legislative measures which will contribute towards further renewal and development in every community, will be taken during this session.</p>
+
+<p>One of the most important aspects that will receive continued attention will be the provision of land and housing for the purpose of increased home ownership.</p>
+
+<p>Since the beginning of the eighties, there has been an exceptional effort on the part of the State to promote home ownership, especially among the lower income groups of every community.</p>
+
+<p>In 1986, a major housing plan launched by the State in conjunction with the private sector, led to the establishment of the Housing Trust.</p>
+
+<p>A further step was the joint statement issued recently by the Committee of Ministers involved with housing on measures to promote home ownership through the sale of houses built with assistance from the National Housing Commission. These measures are directed primarily at the lower income groups in all our communities.</p>
+
+<p>These steps are being taken because home ownership is one of the major pillars of socio-economic advancement. It constitutes the cornerstone of stable local communities, and therefore, the major substructure of government at the local authority level.</p>
+
+<p>The evidence of a slight improvement in the employment situation is also gratifying.</p>
+
+<p>Nonetheless, the Government is proceeding unremittingly with the Special Employment Creation and Training Programme instituted to assist the unemployed. By March 1987 some 550 000 people had already been provided with training.</p>
+
+<p><i>The Economy</i></p>
+
+<p>Over the past few years, the South African economy has undergone a difficult process of adjustment. It is pleasing to note that a moderate but sound recovery, supported by appropriate fiscal and monetary policies, is now occurring in the economy over a wide front.</p>
+
+<p>The current account of the balance of payments is still in surplus. As a result, it has been possible for the Reserve Bank, after meeting its foreign obligations, to increase its gold and foreign exchange reserves to more comfortable levels. These foreign obligations include the payment of all interest and dividends due, as well as of substantial capital amounts on foreign debt. The wider public sector is liable for almost half of the current foreign debt outstanding, and the private sector for the rest of it.</p>
+
+<p>The simultaneous stabilisation of the rate of exchange has had a favourable effect on the prices of some imported goods and on the rate of inflation.</p>
+
+<p>Although the rate of inflation has declined somewhat in recent months, it remains unacceptably high.</p>
+
+<p>The Government is fully aware of the negative effect of inflation on the standard of living of the average South African. Consequently, inflation remains one of our country&#x2019;s most unwelcome and, unfortunately, most difficult problems.</p>
+
+<p>The particular causes and composition of inflation in our country change continually and are related to a variety of external and internal factors. Although inflation is combated continuously with appropriate monetary, fiscal and other measures, it remains necessary to tackle and analyse the problem over a wide front from time to time.</p>
+
+<p>Therefore, I have already requested the State President&#x2019;s Economic Advisory Council to undertake a thorough investigation of the current situation in respect of inflation and to report back to me as soon as possible.</p>
+
+<p>There still is considerable pressure from abroad for sanctions, disinvestment and the withdrawal of loan funds from South Africa. Nonetheless, there are also indications of a <span class="col_23-24" refersTo="page_0046"/>growing realisation among numerous investors and other financial institutions that South Africa remains a country of substantial possibilities.</p>
+
+<p>The equitable debt standstill agreement which was negotiated with foreign creditors recently and which will obtain over the next three years, confirms the improved foreign outlook on South Africa and further underlines our economic growth potential.</p>
+
+<p><i>* Constitutional Development</i></p>
+
+<p>With continued dedication towards the realisation of these possibilities and the rich natural and human resources of the Republic as well as our search for happiness and prosperity, the Government will continue to proceed with constitutional development in South Africa.</p>
+
+<p>The implementation of the new constitution in 1984 was a major step forward that created structures for self-determination and joint responsibility for the White, Coloured and Indian communities at the central tier of government.</p>
+
+<p>This already expanded democracy significantly in South Africa and by adopting further arrangements, Parliament itself has improved and refined the new dispensation considerably.</p>
+
+<p>Now it is the constitutional position of our various Black communities in particular that still requires continued attention.</p>
+
+<p>&#x2020;In our search for the correct approach, everybody will have to accept that the constitutional development of the Black communities is neither hanging in the air nor taking place in a vacuum.</p>
+
+<p>It is taking place against the background of our demographic realities; 300 years of constitutional history; the development of established rights; and a broad spectrum of structures which have already been established on every level of government and are in the process of planning and implementation.</p>
+
+<p>Over the past decades, four self-governing territories have requested independence and received it in a peaceful, constitutional manner. The legitimate leaders and representatives of a fifth territory have now requested independence as well. The Government will not stand in the way of communities that seek greater autonomy or even independence.</p>
+
+<p>The establishment of independent and autonomous states gave formal structure to multilateral co-operation and consultation in Southern Africa. This led to a Multi-lateral Development Council of Ministers and the Secretariat for Multi-lateral Co-operation in Southern Africa. The Development Bank of Southern Africa, which forms part of this process of interstate co-operation, was established as early as 1984.</p>
+
+<p>In respect of territories which do not accept independence, the Government acknowledges that every region and community within its boundaries is part of the South African State with the right of participation by those political entities in the processes and institutions of government as may be agreed upon.</p>
+
+<p>During my Opening Speech to Parliament on 30 January this year, I stated clearly that further clarity on constitutional structures would be possible only if representative leaders of every group and community that rejects violence as a political instrument came together in a national institution of recognised status and in which real accountability was possible.</p>
+
+<p>It will have to be the result of consultation and negotiation among the leaders of relevant groups and parties genuinely believing in freedom and democracy.</p>
+
+<p>In the process those involved will have to guard against becoming involved in unnecessary controversies about concepts, blueprints, &#x201C;visions&#x201D; or final solutions.</p>
+
+<p>We have to seek and find the guidelines for continued reform in the realities of the group nature of our multicultural society and in the requirements they set for the maintenance of peaceful and stable communities and the prevention of domination.</p>
+
+<ul>
+
+<li>&#x2014; It is not possible in a multi-cultural country like the Republic of South Africa to talk about the protection of individual rights unless one talks about the protection of minority rights at the same time. In South Africa, as elsewhere <span class="col_25-26" refersTo="page_0047"/>in Africa, individual rights can be maintained in a society of diversity only if group rights are guaranteed as well.</li>
+
+<li>&#x2014; Secondly, it is impossible to talk about the protection of minority rights unless one talks about the protection of minority groups at the same time. The rights of a group are inextricably linked to the group.</li>
+
+<li>&#x2014; Thirdly, it is not possible to talk about the protection of minority groups and the prevention of domination unless groups enjoy statutory recognition, and the relationship among them is regulated constitutionally.</li>
+
+</ul>
+
+<p>The purpose is neither to discriminate nor to detract from human dignity but we simply cannot close our eyes to the hard realities of our circumstances, or to what has happened in similar circumstances elsewhere in the world, or, for example, to what is happening in Zimbabwe now.</p>
+
+<p>Against this background the Government will proceed with negotiations with a view to instituting the envisaged National Council in respect of which a Bill was published last year and which will be tabled during this session of Parliament.</p>
+
+<p>*In the National Council joint deliberations will be possible on various constitutional proposals, including the possibility of constituting a Council of State, and the composition and task of such a Council.</p>
+
+<p>I wish to draw the attention of honourable members to Section 93 of the Constitution, which determines that the control and administration of Black affairs is vested in the State President. I am giving serious consideration to ways and means which will enable the State President to be more directly involved in negotiations with Black leaders. I shall provide more information in this regard in the near future.</p>
+
+<p>The Government is bringing to South Africa a positive message of orderly and evolutionary progress in which our realities and our ideals are thoroughly taken into account. It is a message which will bring peace, freedom and self-determination to our communities in a manner which will provide positively for the common interests of our society as well as for the particular values and interests peculiar to the various communities.</p>
+
+<p>At the same time the Government will ensure that safety and security will enjoy the highest priority because without them development and progress are not possible.</p>
+
+<p>In dealing with our country&#x2019;s problems there is no room for ill-considered instant solutions born out of fear, panic and surrender. Through dedication, service, diligence and loyalty to our country, and together with all who subscribe to these principles, the Government will work at building the future of the Republic of South Africa and all its people.</p>
+
+<p>It is my prayer that the Blessing of God Almighty will lead and support you in your work and your deliberations.</p>
+
+<p>I now declare this Fifth Session of the Eighth Parliament of the Republic of South Africa duly opened.</p>
+
+<p>The Joint Sitting rose at 11h28.</p>
+
+<p>The House met at llh45.</p>
+
+</debateSection>
+
+<debateSection name="#report_of_proceedings_at_joint_sitting">
+
+<heading>REPORT OF PROCEEDINGS AT JOINT SITTING</heading>
+
+<speech by="#chairman_of_the_house">
+
+<from>The <person refersTo="hansard_za">CHAIRMAN OF THE HOUSE</person>:</from>
+
+<p>informed the House that Mr Speaker had reported to him that he had received a copy of the State President&#x2019;s Opening Address delivered at the Joint Sitting, and that it would be printed in the Minutes of the Joint Sitting.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#hours_of_sitting_of_house">
+
+<heading>HOURS OF SITTING OF HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>THE <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move without notice:</p>
+
+<block name="quote">That notwithstanding the provisions of Standing Order No 18 the hours of sitting on the following sitting days with effect from Wednesday, 20 May, up to and including Friday, 26 June, shall be as follows:</block>
+
+<p><span class="col_27-28" refersTo="page_0048"/>On Monday, 25 May, and on Mondays with effect from 8 June:</p>
+
+<block name="quote">14h15 to 18h00;</block>
+
+<p>On Tuesdays:</p>
+
+<block name="quote">14h15 to 18h00;</block>
+
+<p>On Wednesday, 20 May, and Wednesday, 3 June:</p>
+
+<block name="quote">14h15 to 18h30</block>
+
+<block name="quote">20h00 to 22h30;</block>
+
+<p>On Wednesdays, with effect from 10 June:</p>
+
+<block name="quote">15h30 to 18h30</block>
+
+<block name="quote">20h00 to 22h30;</block>
+
+<p>On Thursdays, with effect from 4 June:</p>
+
+<block name="quote">14h15 to 18h00;</block>
+
+<p>On Friday, 22 May, and on Fridays with effect from 5 June:</p>
+
+<block name="quote">10h00to 12h45</block>
+
+<block name="quote">14h15 to 17h30.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#motion_of_condolence">
+
+<heading>MOTION OF CONDOLENCE</heading>
+
+<summary>(<i>The late Mr J W E Wiley</i>)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move without notice:</p>
+
+<block name="quote">That the House expresses its deep regret at the death on 29 March 1987 of Mr John Walter Edington Wiley, Minister of Environment Affairs and of Water Affairs, who represented the electoral division of Simon&#x2019;s Town, and desires to place on record its appreciation of his invaluable service as a member of Parliament for more than 20 years, as a Deputy Minister, and as a member of the Cabinet.</block>
+
+<block name="quote">The House further resolves that its sincere sympathy in their bereavement be conveyed to the relatives of the deceased.</block>
+
+<p>Our late colleague, Mr John Wiley, served as MP for Simon&#x2019;s Town from 30 March 1966 to 29 June 1980 when he resigned on his crossing over to the NP. He fought and won an election as a member of the NP on 3 September 1980 and served in that capacity until 29 March 1987.</p>
+
+<p>In his service in Government he served as Deputy Minister of Environment Affairs and Fisheries from 2 August 1982 until September 1984. Thereafter he became Minister of Environment Affairs and Tourism, and later Minister of Environment Affairs and of Water Affairs. Previously he served in the Provincial Council of the Province of the Cape of Good Hope from 10 September 1959 to 29 March 1966.</p>
+
+<p>*If there are two areas in which his services as Minister and Deputy Minister can be highlighted as areas in which he left his personal stamp on the Government of the country, they are the fishing industry and the preservation of our natural heritage. Since taking his place in the House of Assembly in 1966, he tirelessly strove for the protection as well as for the restoration and improvement of our marine resources in particular. He was directly responsible for the proclamation of various marine reserves, including Walker Bay and False Bay. All indications are that it has brought about a marked improvement in the marine life of those areas. He felt so strongly about this that prior to his death he instructed his department to investigate the amendment of the Sea Fisheries Act in order to make provision for the creation of marine parks which, as is the case with national parks, can only be undone with the approval of Parliament.</p>
+
+<p>He also had great compassion for the fishermen and the little men in this industry and many of them benefited from arrangements he made.</p>
+
+<p>&#x2020;His conservation interests and activities were by no means confined to the marine environment. His concern for the degree to which the coastal environment was being destroyed, often by injudicious development, led to the proclamation, on his instructions, of regulations aimed at controlling development in a 1 000 metre wide zone along our coast in an endeavour to protect sensitive areas of this environment.</p>
+
+<p>His intense interest in the Cape Peninsula Mountain Chain Nature Area which was so dear to him is also well known. He actively pursued the promotion of environmental <span class="col_29-30" refersTo="page_0049"/>consciousness in the interest also of the protection of the total environment.</p>
+
+<p>*In addition, in his earlier capacity as Minister responsible for tourism, he participated enthusiastically in the endeavours to promote tourism both at home and abroad. In these capacities he bequeathed to his successors sturdy foundations upon which to build.</p>
+
+<p>&#x2020;However, he was also a politician par excellence. He was a formidable political fighter. He did not ask for mercy and neither did he give any. He always remained a gentleman throughout, however.</p>
+
+<p>*In this House we came to know him as a debater of stature and as someone who held the traditions of Parliament in high regard and who at all times acted correctly, sensibly and in a friendly manner.</p>
+
+<p>We honour the memory of our deceased colleague, all the more so because his death occurred in such tragic circumstances.</p>
+
+</speech>
+
+<speech by="#leader_of_the_official_opposition">
+
+<from>*The <person refersTo="hansard_za">LEADER OF THE OFFICIAL OPPOSITION</person>:</from>
+
+<p>Mr Chairman, I should like to associate myself with the motion as moved by the hon the Leader of the House. I should also like to express my appreciation of the curriculum vitae of the late Mr Wiley which the hon the Minister gave us.</p>
+
+<p>I should also like to express the thanks and appreciation of this side of the House for the person and conduct of Mr Wiley. His death came as a great shock to us, and those of us on this side of the House who knew him well felt a sense of personal loss.</p>
+
+<p>I met Mr Wiley for the first time when I was still in the newspaper industry, and was immediately struck by his friendliness, goodwill and courtesy. This was how we knew him both inside and outside the House. We saw him in action here and, as the hon the Leader of the House said, he was someone who could hold his own in a political fight; but I cannot remember his ever exceeding the bounds of decency or courtesy.</p>
+
+<p>His love of nature and the environment is well-known, and he will remain famous for it. Through you, Mr Chairman, I should like to give the family of the deceased the assurance that we on this side of the House miss him, and remember him with appreciation, as we remember the work he did in politics but also for South Africa.</p>
+
+<p>We pay tribute to him.</p>
+
+</speech>
+
+<speech by="#eglin">
+
+<from>Mr <person refersTo="hansard_za">C W EGLIN</person>:</from>
+
+<p>Mr Chairman, we on these benches would like to associate ourselves with the motion moved by the hon the Leader of the House in which he referred to Mr Wiley&#x2019;s long career, both in the provincial council and in Parliament.</p>
+
+<p>Those of us who knew John will remember him for his strong views, for his distinctive and forthright style of debate and for his dedicated service to the constituency he represented for so many years. Each one of us will perhaps recall different aspects of his personality and his career, but I believe that friend and foe alike will remember John Wiley in particular for his deep and sensitive concern for the environment, his love for marine life and his interest in its preservation.</p>
+
+<p>We will remember him in that way, and should also like to extend our condolences to his next of kin.</p>
+
+</speech>
+
+<speech by="#malan">
+
+<from>*Mr <person refersTo="hansard_za">W C MALAN</person>:</from>
+
+<p>Mr Chairman, in my personal capacity I should like to associate myself with what has been said here. I pray that that the love of God will also strengthen the family of the late Mr Wiley.</p>
+
+</speech>
+
+<speech by="#hardingham">
+
+<from>Mr <person refersTo="hansard_za">R W HARDINGHAM</person>:</from>
+
+<p>Mr Chairman, I also wish to associate myself with the comments made in regard to Mr Wiley&#x2019;s tragic death. I think Mr Wiley will be remembered for his absolute dedication to the cause of conservation. Having served on the parliamentary Standing Committee on Environment Affairs and Tourism, I had the good fortune of becoming closely associated with him in that capacity. Sir, I can assure you that I, for one, appreciate the considerable contribution he made to conservation in South Africa.</p>
+
+<p>In regard to his activities relating to tourism, in his capacity as the Minister dealing with that portfolio, I can only repeat that his contribution there was something which will stand South Africa in good stead for many years to come.</p>
+
+<p>I too wish to tender my deepest sympathy to his family in their tragic loss.</p>
+
+<p><span class="col_31-32" refersTo="page_0050"/>Motion agreed to unanimously, all the members standing.</p>
+
+</speech>
+
+</debateSection>
+
+<debateSection name="#adjournment_of_house">
+
+<heading>ADJOURNMENT OF HOUSE</heading>
+
+<summary>(Motion)</summary>
+
+<speech by="#leader_of_the_house">
+
+<from>The <person refersTo="hansard_za">LEADER OF THE HOUSE</person>:</from>
+
+<p>Mr Chairman, I move:</p>
+
+<block name="quote">That the House do now adjourn.</block>
+
+<p>Agreed to.</p>
+
+</speech>
+
+<adjournment>
+
+<p>The House adjourned at <recordedTime time="1987-05-19T11:59:00">11h59</recordedTime> until tomorrow at <recordedTime time="1987-05-20T14:15:00">14h15</recordedTime>, pursuant to the Resolution adopted today.</p>
+
+</adjournment>
+
+</debateSection>
+
+</debateSection>
+
